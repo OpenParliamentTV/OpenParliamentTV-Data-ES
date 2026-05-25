@@ -1,0 +1,4494 @@
+{
+  "meta": {
+    "session": "15087",
+    "processing": {
+      "parse_media": "2026-05-23T07:17:41"
+    },
+    "dateStart": "2024-12-11T09:00:00+01:00",
+    "dateEnd": "2024-12-11T16:35:00+01:00"
+  },
+  "data": [
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 87
+      },
+      "agendaItem": {
+        "title": "¿Cree que sus prioridades coinciden con los intereses de los\nespañoles?",
+        "officialTitle": "¿Cree que sus prioridades coinciden con los intereses de los\nespañoles?",
+        "type": "qa",
+        "nativeType": "ES-pregunta"
+      },
+      "dateStart": "2024-12-11T09:00:00+01:00",
+      "dateEnd": "2024-12-11T09:01:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_084/cortes/15_000400_084_0_25568_743923.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1543923I",
+        "duration": 60.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_084_0_25568_743923",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Alberto Núñez Feijóo",
+          "lastname": "Núñez Feijóo",
+          "firstname": "Alberto",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Popular en el Congreso"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 1
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 87
+      },
+      "agendaItem": {
+        "title": "¿Cree que sus prioridades coinciden con los intereses de los\nespañoles?",
+        "officialTitle": "¿Cree que sus prioridades coinciden con los intereses de los\nespañoles?",
+        "type": "qa",
+        "nativeType": "ES-pregunta"
+      },
+      "dateStart": "2024-12-11T09:01:00+01:00",
+      "dateEnd": "2024-12-11T09:03:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_084/cortes/15_000400_084_0_25568_743924.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1543924I",
+        "duration": 120.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_084_0_25568_743924",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Pedro Sánchez Pérez-Castejón",
+          "lastname": "Sánchez Pérez-Castejón",
+          "firstname": "Pedro",
+          "type": "member of government",
+          "role": "Presidente del Gobierno",
+          "faction": {
+            "label": "Grupo Parlamentario Socialista"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 2
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 87
+      },
+      "agendaItem": {
+        "title": "¿Cree que sus prioridades coinciden con los intereses de los\nespañoles?",
+        "officialTitle": "¿Cree que sus prioridades coinciden con los intereses de los\nespañoles?",
+        "type": "qa",
+        "nativeType": "ES-pregunta"
+      },
+      "dateStart": "2024-12-11T09:03:00+01:00",
+      "dateEnd": "2024-12-11T09:05:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_084/cortes/15_000400_084_0_25568_743925.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1543925I",
+        "duration": 120.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_084_0_25568_743925",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Alberto Núñez Feijóo",
+          "lastname": "Núñez Feijóo",
+          "firstname": "Alberto",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Popular en el Congreso"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 3
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 87
+      },
+      "agendaItem": {
+        "title": "¿Cree que sus prioridades coinciden con los intereses de los\nespañoles?",
+        "officialTitle": "¿Cree que sus prioridades coinciden con los intereses de los\nespañoles?",
+        "type": "qa",
+        "nativeType": "ES-pregunta"
+      },
+      "dateStart": "2024-12-11T09:05:00+01:00",
+      "dateEnd": "2024-12-11T09:06:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_084/cortes/15_000400_084_0_25568_743926.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1543926I",
+        "duration": 60.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_084_0_25568_743926",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Pedro Sánchez Pérez-Castejón",
+          "lastname": "Sánchez Pérez-Castejón",
+          "firstname": "Pedro",
+          "type": "member of government",
+          "role": "Presidente del Gobierno",
+          "faction": {
+            "label": "Grupo Parlamentario Socialista"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 4
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 87
+      },
+      "agendaItem": {
+        "title": "¿Qué opina el Presidente sobre la situación política en el Reino de\nEspaña?",
+        "officialTitle": "¿Qué opina el Presidente sobre la situación política en el Reino de\nEspaña?",
+        "type": "qa",
+        "nativeType": "ES-pregunta"
+      },
+      "dateStart": "2024-12-11T09:06:00+01:00",
+      "dateEnd": "2024-12-11T09:07:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_084/cortes/15_000400_084_0_25568_743928.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1543928I",
+        "duration": 60.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_084_0_25568_743928",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Míriam Nogueras i Camero",
+          "lastname": "Nogueras i Camero",
+          "firstname": "Míriam",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Junts per Catalunya"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 5
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 87
+      },
+      "agendaItem": {
+        "title": "¿Qué opina el Presidente sobre la situación política en el Reino de\nEspaña?",
+        "officialTitle": "¿Qué opina el Presidente sobre la situación política en el Reino de\nEspaña?",
+        "type": "qa",
+        "nativeType": "ES-pregunta"
+      },
+      "dateStart": "2024-12-11T09:07:00+01:00",
+      "dateEnd": "2024-12-11T09:10:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_084/cortes/15_000400_084_0_25568_743929.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1543929I",
+        "duration": 180.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_084_0_25568_743929",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Pedro Sánchez Pérez-Castejón",
+          "lastname": "Sánchez Pérez-Castejón",
+          "firstname": "Pedro",
+          "type": "member of government",
+          "role": "Presidente del Gobierno",
+          "faction": {
+            "label": "Grupo Parlamentario Socialista"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 6
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 87
+      },
+      "agendaItem": {
+        "title": "¿Qué opina el Presidente sobre la situación política en el Reino de\nEspaña?",
+        "officialTitle": "¿Qué opina el Presidente sobre la situación política en el Reino de\nEspaña?",
+        "type": "qa",
+        "nativeType": "ES-pregunta"
+      },
+      "dateStart": "2024-12-11T09:10:00+01:00",
+      "dateEnd": "2024-12-11T09:12:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_084/cortes/15_000400_084_0_25568_743930.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1543930I",
+        "duration": 120.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_084_0_25568_743930",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Míriam Nogueras i Camero",
+          "lastname": "Nogueras i Camero",
+          "firstname": "Míriam",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Junts per Catalunya"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 7
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 87
+      },
+      "agendaItem": {
+        "title": "¿Qué opina el Presidente sobre la situación política en el Reino de\nEspaña?",
+        "officialTitle": "¿Qué opina el Presidente sobre la situación política en el Reino de\nEspaña?",
+        "type": "qa",
+        "nativeType": "ES-pregunta"
+      },
+      "dateStart": "2024-12-11T09:12:00+01:00",
+      "dateEnd": "2024-12-11T09:13:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_084/cortes/15_000400_084_0_25568_743931.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1543931I",
+        "duration": 60.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_084_0_25568_743931",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Pedro Sánchez Pérez-Castejón",
+          "lastname": "Sánchez Pérez-Castejón",
+          "firstname": "Pedro",
+          "type": "member of government",
+          "role": "Presidente del Gobierno",
+          "faction": {
+            "label": "Grupo Parlamentario Socialista"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 8
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 87
+      },
+      "agendaItem": {
+        "title": "¿Comparte la necesidad de mantener medidas de protección social?",
+        "officialTitle": "¿Comparte la necesidad de mantener medidas de protección social?",
+        "type": "qa",
+        "nativeType": "ES-pregunta"
+      },
+      "dateStart": "2024-12-11T09:13:00+01:00",
+      "dateEnd": "2024-12-11T09:15:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_084/cortes/15_000400_084_0_25568_743933.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1543933I",
+        "duration": 120.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_084_0_25568_743933",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Mertxe Aizpurua Arzallus",
+          "lastname": "Aizpurua Arzallus",
+          "firstname": "Mertxe",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Euskal Herria Bildu"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 9
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 87
+      },
+      "agendaItem": {
+        "title": "¿Comparte la necesidad de mantener medidas de protección social?",
+        "officialTitle": "¿Comparte la necesidad de mantener medidas de protección social?",
+        "type": "qa",
+        "nativeType": "ES-pregunta"
+      },
+      "dateStart": "2024-12-11T09:15:00+01:00",
+      "dateEnd": "2024-12-11T09:18:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_084/cortes/15_000400_084_0_25568_743934.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1543934I",
+        "duration": 180.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_084_0_25568_743934",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Pedro Sánchez Pérez-Castejón",
+          "lastname": "Sánchez Pérez-Castejón",
+          "firstname": "Pedro",
+          "type": "member of government",
+          "role": "Presidente del Gobierno",
+          "faction": {
+            "label": "Grupo Parlamentario Socialista"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 10
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 87
+      },
+      "agendaItem": {
+        "title": "¿Comparte la necesidad de mantener medidas de protección social?",
+        "officialTitle": "¿Comparte la necesidad de mantener medidas de protección social?",
+        "type": "qa",
+        "nativeType": "ES-pregunta"
+      },
+      "dateStart": "2024-12-11T09:18:00+01:00",
+      "dateEnd": "2024-12-11T09:18:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_084/cortes/15_000400_084_0_25568_743935.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1543935I",
+        "duration": 0.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_084_0_25568_743935",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Mertxe Aizpurua Arzallus",
+          "lastname": "Aizpurua Arzallus",
+          "firstname": "Mertxe",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Euskal Herria Bildu"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 11
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 87
+      },
+      "agendaItem": {
+        "title": "¿Le preocupa al Gobierno la pérdida de poder adquisitivo de los\nespañoles?",
+        "officialTitle": "¿Le preocupa al Gobierno la pérdida de poder adquisitivo de los\nespañoles?",
+        "type": "qa",
+        "nativeType": "ES-pregunta"
+      },
+      "dateStart": "2024-12-11T09:18:00+01:00",
+      "dateEnd": "2024-12-11T09:20:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_084/cortes/15_000400_084_0_25568_743937.mp4\nhttps://www.congreso.es/audiovisual/video/leg15/400/15_000400_084/cortes/15_000400_084_0_25568_743939.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1543937I https://app.congreso.es/v1/15743939I",
+        "duration": 120.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_084_0_25568_743939",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Concepción Gamarra Ruiz-Clavijo",
+          "lastname": "Gamarra Ruiz-Clavijo",
+          "firstname": "Concepción",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Popular en el Congreso"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 12
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 87
+      },
+      "agendaItem": {
+        "title": "¿Le preocupa al Gobierno la pérdida de poder adquisitivo de los\nespañoles?",
+        "officialTitle": "¿Le preocupa al Gobierno la pérdida de poder adquisitivo de los\nespañoles?",
+        "type": "qa",
+        "nativeType": "ES-pregunta"
+      },
+      "dateStart": "2024-12-11T09:20:00+01:00",
+      "dateEnd": "2024-12-11T09:21:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_084/cortes/15_000400_084_0_25568_743938.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1543938I",
+        "duration": 60.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_084_0_25568_743938",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "María Jesús Montero Cuadrado",
+          "lastname": "Montero Cuadrado",
+          "firstname": "María Jesús",
+          "type": "member of government",
+          "role": "Vicepresidenta Primera del Gobierno y Ministra de Hacienda",
+          "faction": {
+            "label": "Grupo Parlamentario Socialista"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 13
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 87
+      },
+      "agendaItem": {
+        "title": "¿Le preocupa al Gobierno la pérdida de poder adquisitivo de los\nespañoles?",
+        "officialTitle": "¿Le preocupa al Gobierno la pérdida de poder adquisitivo de los\nespañoles?",
+        "type": "qa",
+        "nativeType": "ES-pregunta"
+      },
+      "dateStart": "2024-12-11T09:23:00+01:00",
+      "dateEnd": "2024-12-11T09:24:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_084/cortes/15_000400_084_0_25568_743940.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1543940I",
+        "duration": 60.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_084_0_25568_743940",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "María Jesús Montero Cuadrado",
+          "lastname": "Montero Cuadrado",
+          "firstname": "María Jesús",
+          "type": "member of government",
+          "role": "Vicepresidenta Primera del Gobierno y Ministra de Hacienda",
+          "faction": {
+            "label": "Grupo Parlamentario Socialista"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 14
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 87
+      },
+      "agendaItem": {
+        "title": "¿De quién recibe órdenes su director de gabinete?",
+        "officialTitle": "¿De quién recibe órdenes su director de gabinete?",
+        "type": "qa",
+        "nativeType": "ES-pregunta"
+      },
+      "dateStart": "2024-12-11T09:24:00+01:00",
+      "dateEnd": "2024-12-11T09:26:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_084/cortes/15_000400_084_0_25568_743942.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1543942I",
+        "duration": 120.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_084_0_25568_743942",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Patricia Rodríguez Calleja",
+          "lastname": "Rodríguez Calleja",
+          "firstname": "Patricia",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Popular en el Congreso"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 15
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 87
+      },
+      "agendaItem": {
+        "title": "¿De quién recibe órdenes su director de gabinete?",
+        "officialTitle": "¿De quién recibe órdenes su director de gabinete?",
+        "type": "qa",
+        "nativeType": "ES-pregunta"
+      },
+      "dateStart": "2024-12-11T09:26:00+01:00",
+      "dateEnd": "2024-12-11T09:27:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_084/cortes/15_000400_084_0_25568_743943.mp4\nhttps://www.congreso.es/audiovisual/video/leg15/400/15_000400_084/cortes/15_000400_084_0_25568_743945.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1543943I https://app.congreso.es/v1/15743945I",
+        "duration": 60.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_084_0_25568_743945",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "María Jesús Montero Cuadrado",
+          "lastname": "Montero Cuadrado",
+          "firstname": "María Jesús",
+          "type": "member of government",
+          "role": "Vicepresidenta Primera del Gobierno y Ministra de Hacienda",
+          "faction": {
+            "label": "Grupo Parlamentario Socialista"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 16
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 87
+      },
+      "agendaItem": {
+        "title": "¿De quién recibe órdenes su director de gabinete?",
+        "officialTitle": "¿De quién recibe órdenes su director de gabinete?",
+        "type": "qa",
+        "nativeType": "ES-pregunta"
+      },
+      "dateStart": "2024-12-11T09:27:00+01:00",
+      "dateEnd": "2024-12-11T09:29:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_084/cortes/15_000400_084_0_25568_743944.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1543944I",
+        "duration": 120.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_084_0_25568_743944",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Patricia Rodríguez Calleja",
+          "lastname": "Rodríguez Calleja",
+          "firstname": "Patricia",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Popular en el Congreso"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 17
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 87
+      },
+      "agendaItem": {
+        "title": "¿Por qué ha mantenido tan alto grado de opacidad con su agenda?",
+        "officialTitle": "¿Por qué ha mantenido tan alto grado de opacidad con su agenda?",
+        "type": "qa",
+        "nativeType": "ES-pregunta"
+      },
+      "dateStart": "2024-12-11T09:30:00+01:00",
+      "dateEnd": "2024-12-11T09:31:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_084/cortes/15_000400_084_0_25568_743947.mp4\nhttps://www.congreso.es/audiovisual/video/leg15/400/15_000400_084/cortes/15_000400_084_0_25568_743949.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1543947I https://app.congreso.es/v1/15743949I",
+        "duration": 60.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_084_0_25568_743949",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "María Pilar Alía Aguado",
+          "lastname": "Alía Aguado",
+          "firstname": "María Pilar",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Popular en el Congreso"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 18
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 87
+      },
+      "agendaItem": {
+        "title": "¿Por qué ha mantenido tan alto grado de opacidad con su agenda?",
+        "officialTitle": "¿Por qué ha mantenido tan alto grado de opacidad con su agenda?",
+        "type": "qa",
+        "nativeType": "ES-pregunta"
+      },
+      "dateStart": "2024-12-11T09:31:00+01:00",
+      "dateEnd": "2024-12-11T09:33:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_084/cortes/15_000400_084_0_25568_743948.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1543948I",
+        "duration": 120.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_084_0_25568_743948",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Sara Aagesen Muñoz",
+          "lastname": "Aagesen Muñoz",
+          "firstname": "Sara",
+          "type": "member of government",
+          "role": "Vicepresidenta Tercera y Ministra para la Transición Ecológica y el\nReto Demográfico"
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 19
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 87
+      },
+      "agendaItem": {
+        "title": "¿Por qué ha mantenido tan alto grado de opacidad con su agenda?",
+        "officialTitle": "¿Por qué ha mantenido tan alto grado de opacidad con su agenda?",
+        "type": "qa",
+        "nativeType": "ES-pregunta"
+      },
+      "dateStart": "2024-12-11T09:35:00+01:00",
+      "dateEnd": "2024-12-11T09:36:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_084/cortes/15_000400_084_0_25568_743950.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1543950I",
+        "duration": 60.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_084_0_25568_743950",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Sara Aagesen Muñoz",
+          "lastname": "Aagesen Muñoz",
+          "firstname": "Sara",
+          "type": "member of government",
+          "role": "Vicepresidenta Tercera y Ministra para la Transición Ecológica y el\nReto Demográfico"
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 20
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 87
+      },
+      "agendaItem": {
+        "title": "¿Cree que usted cumple los estándares éticos para ser nombrada\nVicepresidenta del Gobierno?",
+        "officialTitle": "¿Cree que usted cumple los estándares éticos para ser nombrada\nVicepresidenta del Gobierno?",
+        "type": "qa",
+        "nativeType": "ES-pregunta"
+      },
+      "dateStart": "2024-12-11T09:36:00+01:00",
+      "dateEnd": "2024-12-11T09:39:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_084/cortes/15_000400_084_0_25568_743952.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1543952I",
+        "duration": 180.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_084_0_25568_743952",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Jaime Eduardo de Olano Vela",
+          "lastname": "Olano Vela",
+          "firstname": "Jaime Eduardo de",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Popular en el Congreso"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 21
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 87
+      },
+      "agendaItem": {
+        "title": "¿Cree que usted cumple los estándares éticos para ser nombrada\nVicepresidenta del Gobierno?",
+        "officialTitle": "¿Cree que usted cumple los estándares éticos para ser nombrada\nVicepresidenta del Gobierno?",
+        "type": "qa",
+        "nativeType": "ES-pregunta"
+      },
+      "dateStart": "2024-12-11T09:39:00+01:00",
+      "dateEnd": "2024-12-11T09:41:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_084/cortes/15_000400_084_0_25568_743953.mp4\nhttps://www.congreso.es/audiovisual/video/leg15/400/15_000400_084/cortes/15_000400_084_0_25568_743955.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1543953I https://app.congreso.es/v1/15743955I",
+        "duration": 120.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_084_0_25568_743955",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Sara Aagesen Muñoz",
+          "lastname": "Aagesen Muñoz",
+          "firstname": "Sara",
+          "type": "member of government",
+          "role": "Vicepresidenta Tercera y Ministra para la Transición Ecológica y el\nReto Demográfico"
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 22
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 87
+      },
+      "agendaItem": {
+        "title": "¿Cree que usted cumple los estándares éticos para ser nombrada\nVicepresidenta del Gobierno?",
+        "officialTitle": "¿Cree que usted cumple los estándares éticos para ser nombrada\nVicepresidenta del Gobierno?",
+        "type": "qa",
+        "nativeType": "ES-pregunta"
+      },
+      "dateStart": "2024-12-11T09:41:00+01:00",
+      "dateEnd": "2024-12-11T09:42:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_084/cortes/15_000400_084_0_25568_743954.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1543954I",
+        "duration": 60.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_084_0_25568_743954",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Jaime Eduardo de Olano Vela",
+          "lastname": "Olano Vela",
+          "firstname": "Jaime Eduardo de",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Popular en el Congreso"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 23
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 87
+      },
+      "agendaItem": {
+        "title": "¿Está satisfecho con su labor el frente del Ministerio de la\nPresidencia, Justicia y Relaciones con las Cortes?",
+        "officialTitle": "¿Está satisfecho con su labor el frente del Ministerio de la\nPresidencia, Justicia y Relaciones con las Cortes?",
+        "type": "qa",
+        "nativeType": "ES-pregunta"
+      },
+      "dateStart": "2024-12-11T09:42:00+01:00",
+      "dateEnd": "2024-12-11T09:44:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_084/cortes/15_000400_084_0_25568_743957.mp4\nhttps://www.congreso.es/audiovisual/video/leg15/400/15_000400_084/cortes/15_000400_084_0_25568_743959.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1543957I https://app.congreso.es/v1/15743959I",
+        "duration": 120.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_084_0_25568_743959",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Miguel Tellado Filgueira",
+          "lastname": "Tellado Filgueira",
+          "firstname": "Miguel",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Popular en el Congreso"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 24
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 87
+      },
+      "agendaItem": {
+        "title": "¿Está satisfecho con su labor el frente del Ministerio de la\nPresidencia, Justicia y Relaciones con las Cortes?",
+        "officialTitle": "¿Está satisfecho con su labor el frente del Ministerio de la\nPresidencia, Justicia y Relaciones con las Cortes?",
+        "type": "qa",
+        "nativeType": "ES-pregunta"
+      },
+      "dateStart": "2024-12-11T09:44:00+01:00",
+      "dateEnd": "2024-12-11T09:45:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_084/cortes/15_000400_084_0_25568_743958.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1543958I",
+        "duration": 60.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_084_0_25568_743958",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Félix Bolaños García",
+          "lastname": "Bolaños García",
+          "firstname": "Félix",
+          "type": "member of government",
+          "role": "Ministro de la Presidencia, Justicia y Relaciones con las Cortes",
+          "faction": {
+            "label": "Grupo Parlamentario Socialista"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 25
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 87
+      },
+      "agendaItem": {
+        "title": "¿Está satisfecho con su labor el frente del Ministerio de la\nPresidencia, Justicia y Relaciones con las Cortes?",
+        "officialTitle": "¿Está satisfecho con su labor el frente del Ministerio de la\nPresidencia, Justicia y Relaciones con las Cortes?",
+        "type": "qa",
+        "nativeType": "ES-pregunta"
+      },
+      "dateStart": "2024-12-11T09:47:00+01:00",
+      "dateEnd": "2024-12-11T09:49:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_084/cortes/15_000400_084_0_25568_743960.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1543960I",
+        "duration": 120.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_084_0_25568_743960",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Félix Bolaños García",
+          "lastname": "Bolaños García",
+          "firstname": "Félix",
+          "type": "member of government",
+          "role": "Ministro de la Presidencia, Justicia y Relaciones con las Cortes",
+          "faction": {
+            "label": "Grupo Parlamentario Socialista"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 26
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 87
+      },
+      "agendaItem": {
+        "title": "¿Cree el Gobierno que puede asegurarse su propia impunidad?",
+        "officialTitle": "¿Cree el Gobierno que puede asegurarse su propia impunidad?",
+        "type": "qa",
+        "nativeType": "ES-pregunta"
+      },
+      "dateStart": "2024-12-11T09:49:00+01:00",
+      "dateEnd": "2024-12-11T09:49:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_084/cortes/15_000400_084_0_25568_743962.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1543962I",
+        "duration": 0.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_084_0_25568_743962",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "María José Rodríguez de Millán Parro",
+          "lastname": "Rodríguez de Millán Parro",
+          "firstname": "María José",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario VOX"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 27
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 87
+      },
+      "agendaItem": {
+        "title": "¿Cree el Gobierno que puede asegurarse su propia impunidad?",
+        "officialTitle": "¿Cree el Gobierno que puede asegurarse su propia impunidad?",
+        "type": "qa",
+        "nativeType": "ES-pregunta"
+      },
+      "dateStart": "2024-12-11T09:49:00+01:00",
+      "dateEnd": "2024-12-11T09:50:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_084/cortes/15_000400_084_0_25568_743963.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1543963I",
+        "duration": 60.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_084_0_25568_743963",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Félix Bolaños García",
+          "lastname": "Bolaños García",
+          "firstname": "Félix",
+          "type": "member of government",
+          "role": "Ministro de la Presidencia, Justicia y Relaciones con las Cortes",
+          "faction": {
+            "label": "Grupo Parlamentario Socialista"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 28
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 87
+      },
+      "agendaItem": {
+        "title": "¿Cree el Gobierno que puede asegurarse su propia impunidad?",
+        "officialTitle": "¿Cree el Gobierno que puede asegurarse su propia impunidad?",
+        "type": "qa",
+        "nativeType": "ES-pregunta"
+      },
+      "dateStart": "2024-12-11T09:50:00+01:00",
+      "dateEnd": "2024-12-11T09:53:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_084/cortes/15_000400_084_0_25568_743964.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1543964I",
+        "duration": 180.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_084_0_25568_743964",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "María José Rodríguez de Millán Parro",
+          "lastname": "Rodríguez de Millán Parro",
+          "firstname": "María José",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario VOX"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 29
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 87
+      },
+      "agendaItem": {
+        "title": "¿Cree el Gobierno que puede asegurarse su propia impunidad?",
+        "officialTitle": "¿Cree el Gobierno que puede asegurarse su propia impunidad?",
+        "type": "qa",
+        "nativeType": "ES-pregunta"
+      },
+      "dateStart": "2024-12-11T09:53:00+01:00",
+      "dateEnd": "2024-12-11T09:54:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_084/cortes/15_000400_084_0_25568_743965.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1543965I",
+        "duration": 60.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_084_0_25568_743965",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Félix Bolaños García",
+          "lastname": "Bolaños García",
+          "firstname": "Félix",
+          "type": "member of government",
+          "role": "Ministro de la Presidencia, Justicia y Relaciones con las Cortes",
+          "faction": {
+            "label": "Grupo Parlamentario Socialista"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 30
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 87
+      },
+      "agendaItem": {
+        "title": "¿Qué relación tiene su Ministerio con la trama de corrupción del PSOE\nque ya investiga el Tribunal Supremo?",
+        "officialTitle": "¿Qué relación tiene su Ministerio con la trama de corrupción del PSOE\nque ya investiga el Tribunal Supremo?",
+        "type": "qa",
+        "nativeType": "ES-pregunta"
+      },
+      "dateStart": "2024-12-11T09:54:00+01:00",
+      "dateEnd": "2024-12-11T09:56:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_084/cortes/15_000400_084_0_25568_743967.mp4\nhttps://www.congreso.es/audiovisual/video/leg15/400/15_000400_084/cortes/15_000400_084_0_25568_743969.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1543967I https://app.congreso.es/v1/15743969I",
+        "duration": 120.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_084_0_25568_743969",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Elías Bendodo Benasayag",
+          "lastname": "Bendodo Benasayag",
+          "firstname": "Elías",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Popular en el Congreso"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 31
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 87
+      },
+      "agendaItem": {
+        "title": "¿Qué relación tiene su Ministerio con la trama de corrupción del PSOE\nque ya investiga el Tribunal Supremo?",
+        "officialTitle": "¿Qué relación tiene su Ministerio con la trama de corrupción del PSOE\nque ya investiga el Tribunal Supremo?",
+        "type": "qa",
+        "nativeType": "ES-pregunta"
+      },
+      "dateStart": "2024-12-11T09:56:00+01:00",
+      "dateEnd": "2024-12-11T09:58:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_084/cortes/15_000400_084_0_25568_743968.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1543968I",
+        "duration": 120.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_084_0_25568_743968",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Margarita Robles Fernández",
+          "lastname": "Robles Fernández",
+          "firstname": "Margarita",
+          "type": "member of government",
+          "role": "Ministra de Defensa"
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 32
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 87
+      },
+      "agendaItem": {
+        "title": "¿Qué relación tiene su Ministerio con la trama de corrupción del PSOE\nque ya investiga el Tribunal Supremo?",
+        "officialTitle": "¿Qué relación tiene su Ministerio con la trama de corrupción del PSOE\nque ya investiga el Tribunal Supremo?",
+        "type": "qa",
+        "nativeType": "ES-pregunta"
+      },
+      "dateStart": "2024-12-11T09:59:00+01:00",
+      "dateEnd": "2024-12-11T10:00:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_084/cortes/15_000400_084_0_25568_743970.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1543970I",
+        "duration": 60.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_084_0_25568_743970",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Margarita Robles Fernández",
+          "lastname": "Robles Fernández",
+          "firstname": "Margarita",
+          "type": "member of government",
+          "role": "Ministra de Defensa"
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 33
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 87
+      },
+      "agendaItem": {
+        "title": "¿A quién beneficia su \"Gran Hermano\" turístico?",
+        "officialTitle": "¿A quién beneficia su \"Gran Hermano\" turístico?",
+        "type": "qa",
+        "nativeType": "ES-pregunta"
+      },
+      "dateStart": "2024-12-11T10:00:00+01:00",
+      "dateEnd": "2024-12-11T10:02:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_084/cortes/15_000400_084_0_25568_743972.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1543972I",
+        "duration": 120.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_084_0_25568_743972",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Mirian Guardiola Salmerón",
+          "lastname": "Guardiola Salmerón",
+          "firstname": "Mirian",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Popular en el Congreso"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 34
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 87
+      },
+      "agendaItem": {
+        "title": "¿A quién beneficia su \"Gran Hermano\" turístico?",
+        "officialTitle": "¿A quién beneficia su \"Gran Hermano\" turístico?",
+        "type": "qa",
+        "nativeType": "ES-pregunta"
+      },
+      "dateStart": "2024-12-11T10:02:00+01:00",
+      "dateEnd": "2024-12-11T10:03:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_084/cortes/15_000400_084_0_25568_743973.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1543973I",
+        "duration": 60.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_084_0_25568_743973",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Fernando Grande-Marlaska Gómez",
+          "lastname": "Grande-Marlaska Gómez",
+          "firstname": "Fernando",
+          "type": "member of government",
+          "role": "Ministro del Interior"
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 35
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 87
+      },
+      "agendaItem": {
+        "title": "¿A quién beneficia su \"Gran Hermano\" turístico?",
+        "officialTitle": "¿A quién beneficia su \"Gran Hermano\" turístico?",
+        "type": "qa",
+        "nativeType": "ES-pregunta"
+      },
+      "dateStart": "2024-12-11T10:03:00+01:00",
+      "dateEnd": "2024-12-11T10:04:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_084/cortes/15_000400_084_0_25568_743974.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1543974I",
+        "duration": 60.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_084_0_25568_743974",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Mirian Guardiola Salmerón",
+          "lastname": "Guardiola Salmerón",
+          "firstname": "Mirian",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Popular en el Congreso"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 36
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 87
+      },
+      "agendaItem": {
+        "title": "¿A quién beneficia su \"Gran Hermano\" turístico?",
+        "officialTitle": "¿A quién beneficia su \"Gran Hermano\" turístico?",
+        "type": "qa",
+        "nativeType": "ES-pregunta"
+      },
+      "dateStart": "2024-12-11T10:04:00+01:00",
+      "dateEnd": "2024-12-11T10:06:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_084/cortes/15_000400_084_0_25568_743975.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1543975I",
+        "duration": 120.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_084_0_25568_743975",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Fernando Grande-Marlaska Gómez",
+          "lastname": "Grande-Marlaska Gómez",
+          "firstname": "Fernando",
+          "type": "member of government",
+          "role": "Ministro del Interior"
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 37
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 87
+      },
+      "agendaItem": {
+        "title": "¿Cuál es la política de \"colaboradores\" del Ministerio del Interior?",
+        "officialTitle": "¿Cuál es la política de \"colaboradores\" del Ministerio del Interior?",
+        "type": "qa",
+        "nativeType": "ES-pregunta"
+      },
+      "dateStart": "2024-12-11T10:06:00+01:00",
+      "dateEnd": "2024-12-11T10:07:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_084/cortes/15_000400_084_0_25568_743977.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1543977I",
+        "duration": 60.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_084_0_25568_743977",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Sofía Acedo Reyes",
+          "lastname": "Acedo Reyes",
+          "firstname": "Sofía",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Popular en el Congreso"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 38
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 87
+      },
+      "agendaItem": {
+        "title": "¿Cuál es la política de \"colaboradores\" del Ministerio del Interior?",
+        "officialTitle": "¿Cuál es la política de \"colaboradores\" del Ministerio del Interior?",
+        "type": "qa",
+        "nativeType": "ES-pregunta"
+      },
+      "dateStart": "2024-12-11T10:07:00+01:00",
+      "dateEnd": "2024-12-11T10:08:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_084/cortes/15_000400_084_0_25568_743978.mp4\nhttps://www.congreso.es/audiovisual/video/leg15/400/15_000400_084/cortes/15_000400_084_0_25568_743980.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1543978I https://app.congreso.es/v1/15743980I",
+        "duration": 60.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_084_0_25568_743980",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Fernando Grande-Marlaska Gómez",
+          "lastname": "Grande-Marlaska Gómez",
+          "firstname": "Fernando",
+          "type": "member of government",
+          "role": "Ministro del Interior"
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 39
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 87
+      },
+      "agendaItem": {
+        "title": "¿Cuál es la política de \"colaboradores\" del Ministerio del Interior?",
+        "officialTitle": "¿Cuál es la política de \"colaboradores\" del Ministerio del Interior?",
+        "type": "qa",
+        "nativeType": "ES-pregunta"
+      },
+      "dateStart": "2024-12-11T10:08:00+01:00",
+      "dateEnd": "2024-12-11T10:10:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_084/cortes/15_000400_084_0_25568_743979.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1543979I",
+        "duration": 120.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_084_0_25568_743979",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Sofía Acedo Reyes",
+          "lastname": "Acedo Reyes",
+          "firstname": "Sofía",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Popular en el Congreso"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 40
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 87
+      },
+      "agendaItem": {
+        "title": "¿Qué acciones va a tomar su Ministerio para acabar con las\ninterminables colas ante el control de pasaportes en llegadas del\naeropuerto Tenerife Sur?",
+        "officialTitle": "¿Qué acciones va a tomar su Ministerio para acabar con las\ninterminables colas ante el control de pasaportes en llegadas del\naeropuerto Tenerife Sur?",
+        "type": "qa",
+        "nativeType": "ES-pregunta"
+      },
+      "dateStart": "2024-12-11T10:11:00+01:00",
+      "dateEnd": "2024-12-11T10:13:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_084/cortes/15_000400_084_0_25568_743982.mp4\nhttps://www.congreso.es/audiovisual/video/leg15/400/15_000400_084/cortes/15_000400_084_0_25568_743984.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1543982I https://app.congreso.es/v1/15743984I",
+        "duration": 120.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_084_0_25568_743984",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Cristina Valido García",
+          "lastname": "Valido García",
+          "firstname": "Cristina",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Mixto"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 41
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 87
+      },
+      "agendaItem": {
+        "title": "¿Qué acciones va a tomar su Ministerio para acabar con las\ninterminables colas ante el control de pasaportes en llegadas del\naeropuerto Tenerife Sur?",
+        "officialTitle": "¿Qué acciones va a tomar su Ministerio para acabar con las\ninterminables colas ante el control de pasaportes en llegadas del\naeropuerto Tenerife Sur?",
+        "type": "qa",
+        "nativeType": "ES-pregunta"
+      },
+      "dateStart": "2024-12-11T10:13:00+01:00",
+      "dateEnd": "2024-12-11T10:15:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_084/cortes/15_000400_084_0_25568_743983.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1543983I",
+        "duration": 120.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_084_0_25568_743983",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Fernando Grande-Marlaska Gómez",
+          "lastname": "Grande-Marlaska Gómez",
+          "firstname": "Fernando",
+          "type": "member of government",
+          "role": "Ministro del Interior"
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 42
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 87
+      },
+      "agendaItem": {
+        "title": "¿Qué acciones va a tomar su Ministerio para acabar con las\ninterminables colas ante el control de pasaportes en llegadas del\naeropuerto Tenerife Sur?",
+        "officialTitle": "¿Qué acciones va a tomar su Ministerio para acabar con las\ninterminables colas ante el control de pasaportes en llegadas del\naeropuerto Tenerife Sur?",
+        "type": "qa",
+        "nativeType": "ES-pregunta"
+      },
+      "dateStart": "2024-12-11T10:16:00+01:00",
+      "dateEnd": "2024-12-11T10:17:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_084/cortes/15_000400_084_0_25568_743985.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1543985I",
+        "duration": 60.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_084_0_25568_743985",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Fernando Grande-Marlaska Gómez",
+          "lastname": "Grande-Marlaska Gómez",
+          "firstname": "Fernando",
+          "type": "member of government",
+          "role": "Ministro del Interior"
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 43
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 87
+      },
+      "agendaItem": {
+        "title": "¿Cree que debe seguir al frente del Ministerio de Política\nTerritorial y Memoria Democrática?",
+        "officialTitle": "¿Cree que debe seguir al frente del Ministerio de Política\nTerritorial y Memoria Democrática?",
+        "type": "qa",
+        "nativeType": "ES-pregunta"
+      },
+      "dateStart": "2024-12-11T10:17:00+01:00",
+      "dateEnd": "2024-12-11T10:19:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_084/cortes/15_000400_084_0_25568_743987.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1543987I",
+        "duration": 120.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_084_0_25568_743987",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Ester Muñoz de la Iglesia",
+          "lastname": "Muñoz de la Iglesia",
+          "firstname": "Ester",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Popular en el Congreso"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 44
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 87
+      },
+      "agendaItem": {
+        "title": "¿Cree que debe seguir al frente del Ministerio de Política\nTerritorial y Memoria Democrática?",
+        "officialTitle": "¿Cree que debe seguir al frente del Ministerio de Política\nTerritorial y Memoria Democrática?",
+        "type": "qa",
+        "nativeType": "ES-pregunta"
+      },
+      "dateStart": "2024-12-11T10:19:00+01:00",
+      "dateEnd": "2024-12-11T10:20:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_084/cortes/15_000400_084_0_25568_743988.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1543988I",
+        "duration": 60.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_084_0_25568_743988",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Ángel Víctor Torres Pérez",
+          "lastname": "Torres Pérez",
+          "firstname": "Ángel Víctor",
+          "type": "member of government",
+          "role": "Ministro de Política Territorial y Memoria Democrática"
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 45
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 87
+      },
+      "agendaItem": {
+        "title": "¿Cree que debe seguir al frente del Ministerio de Política\nTerritorial y Memoria Democrática?",
+        "officialTitle": "¿Cree que debe seguir al frente del Ministerio de Política\nTerritorial y Memoria Democrática?",
+        "type": "qa",
+        "nativeType": "ES-pregunta"
+      },
+      "dateStart": "2024-12-11T10:20:00+01:00",
+      "dateEnd": "2024-12-11T10:21:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_084/cortes/15_000400_084_0_25568_743989.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1543989I",
+        "duration": 60.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_084_0_25568_743989",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Ester Muñoz de la Iglesia",
+          "lastname": "Muñoz de la Iglesia",
+          "firstname": "Ester",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Popular en el Congreso"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 46
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 87
+      },
+      "agendaItem": {
+        "title": "¿Cree que debe seguir al frente del Ministerio de Política\nTerritorial y Memoria Democrática?",
+        "officialTitle": "¿Cree que debe seguir al frente del Ministerio de Política\nTerritorial y Memoria Democrática?",
+        "type": "qa",
+        "nativeType": "ES-pregunta"
+      },
+      "dateStart": "2024-12-11T10:21:00+01:00",
+      "dateEnd": "2024-12-11T10:23:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_084/cortes/15_000400_084_0_25568_743990.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1543990I",
+        "duration": 120.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_084_0_25568_743990",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Ángel Víctor Torres Pérez",
+          "lastname": "Torres Pérez",
+          "firstname": "Ángel Víctor",
+          "type": "member of government",
+          "role": "Ministro de Política Territorial y Memoria Democrática"
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 47
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 87
+      },
+      "agendaItem": {
+        "title": "¿Cuál es su objetivo al frente del Ministerio de Política Territorial\ny Memoria Democrática?",
+        "officialTitle": "¿Cuál es su objetivo al frente del Ministerio de Política Territorial\ny Memoria Democrática?",
+        "type": "qa",
+        "nativeType": "ES-pregunta"
+      },
+      "dateStart": "2024-12-11T10:23:00+01:00",
+      "dateEnd": "2024-12-11T10:23:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_084/cortes/15_000400_084_0_25568_743992.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1543992I",
+        "duration": 0.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_084_0_25568_743992",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Ignacio Gil Lázaro",
+          "lastname": "Gil Lázaro",
+          "firstname": "Ignacio",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario VOX"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 48
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 87
+      },
+      "agendaItem": {
+        "title": "¿Cuál es su objetivo al frente del Ministerio de Política Territorial\ny Memoria Democrática?",
+        "officialTitle": "¿Cuál es su objetivo al frente del Ministerio de Política Territorial\ny Memoria Democrática?",
+        "type": "qa",
+        "nativeType": "ES-pregunta"
+      },
+      "dateStart": "2024-12-11T10:23:00+01:00",
+      "dateEnd": "2024-12-11T10:24:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_084/cortes/15_000400_084_0_25568_743993.mp4\nhttps://www.congreso.es/audiovisual/video/leg15/400/15_000400_084/cortes/15_000400_084_0_25568_743995.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1543993I https://app.congreso.es/v1/15743995I",
+        "duration": 60.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_084_0_25568_743995",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Ángel Víctor Torres Pérez",
+          "lastname": "Torres Pérez",
+          "firstname": "Ángel Víctor",
+          "type": "member of government",
+          "role": "Ministro de Política Territorial y Memoria Democrática"
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 49
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 87
+      },
+      "agendaItem": {
+        "title": "¿Cuál es su objetivo al frente del Ministerio de Política Territorial\ny Memoria Democrática?",
+        "officialTitle": "¿Cuál es su objetivo al frente del Ministerio de Política Territorial\ny Memoria Democrática?",
+        "type": "qa",
+        "nativeType": "ES-pregunta"
+      },
+      "dateStart": "2024-12-11T10:24:00+01:00",
+      "dateEnd": "2024-12-11T10:26:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_084/cortes/15_000400_084_0_25568_743994.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1543994I",
+        "duration": 120.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_084_0_25568_743994",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Ignacio Gil Lázaro",
+          "lastname": "Gil Lázaro",
+          "firstname": "Ignacio",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario VOX"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 50
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 87
+      },
+      "agendaItem": {
+        "title": "¿Comparte el Gobierno la decisión de la Sociedad Estatal COFIDES de\nprovocar el cierre de Astilleros Balenciaga?",
+        "officialTitle": "¿Comparte el Gobierno la decisión de la Sociedad Estatal COFIDES de\nprovocar el cierre de Astilleros Balenciaga?",
+        "type": "qa",
+        "nativeType": "ES-pregunta"
+      },
+      "dateStart": "2024-12-11T10:29:00+01:00",
+      "dateEnd": "2024-12-11T10:30:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_084/cortes/15_000400_084_0_25568_743997.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1543997I",
+        "duration": 60.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_084_0_25568_743997",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Oskar Matute García de Jalón",
+          "lastname": "Matute García de Jalón",
+          "firstname": "Oskar",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Euskal Herria Bildu"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 51
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 87
+      },
+      "agendaItem": {
+        "title": "¿Comparte el Gobierno la decisión de la Sociedad Estatal COFIDES de\nprovocar el cierre de Astilleros Balenciaga?",
+        "officialTitle": "¿Comparte el Gobierno la decisión de la Sociedad Estatal COFIDES de\nprovocar el cierre de Astilleros Balenciaga?",
+        "type": "qa",
+        "nativeType": "ES-pregunta"
+      },
+      "dateStart": "2024-12-11T10:30:00+01:00",
+      "dateEnd": "2024-12-11T10:32:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_084/cortes/15_000400_084_0_25568_743998.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1543998I",
+        "duration": 120.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_084_0_25568_743998",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Carlos Cuerpo Caballero",
+          "lastname": "Cuerpo Caballero",
+          "firstname": "Carlos",
+          "type": "member of government",
+          "role": "Ministro de Economía, Comercio y Empresa"
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 52
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 87
+      },
+      "agendaItem": {
+        "title": "¿Comparte el Gobierno la decisión de la Sociedad Estatal COFIDES de\nprovocar el cierre de Astilleros Balenciaga?",
+        "officialTitle": "¿Comparte el Gobierno la decisión de la Sociedad Estatal COFIDES de\nprovocar el cierre de Astilleros Balenciaga?",
+        "type": "qa",
+        "nativeType": "ES-pregunta"
+      },
+      "dateStart": "2024-12-11T10:32:00+01:00",
+      "dateEnd": "2024-12-11T10:34:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_084/cortes/15_000400_084_0_25568_743999.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1543999I",
+        "duration": 120.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_084_0_25568_743999",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Oskar Matute García de Jalón",
+          "lastname": "Matute García de Jalón",
+          "firstname": "Oskar",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Euskal Herria Bildu"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 53
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 87
+      },
+      "agendaItem": {
+        "title": "¿Comparte el Gobierno la decisión de la Sociedad Estatal COFIDES de\nprovocar el cierre de Astilleros Balenciaga?",
+        "officialTitle": "¿Comparte el Gobierno la decisión de la Sociedad Estatal COFIDES de\nprovocar el cierre de Astilleros Balenciaga?",
+        "type": "qa",
+        "nativeType": "ES-pregunta"
+      },
+      "dateStart": "2024-12-11T10:34:00+01:00",
+      "dateEnd": "2024-12-11T10:35:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_084/cortes/15_000400_084_0_25568_744000.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1544000I",
+        "duration": 60.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_084_0_25568_744000",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Carlos Cuerpo Caballero",
+          "lastname": "Cuerpo Caballero",
+          "firstname": "Carlos",
+          "type": "member of government",
+          "role": "Ministro de Economía, Comercio y Empresa"
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 54
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 87
+      },
+      "agendaItem": {
+        "title": "¿Qué medidas va a adoptar el Gobierno tras la sentencia del Juzgado\nAdministrativo número 1 de Barcelona que obliga al Ayuntamiento a asumir\nel pago del permiso parental retribuido de 8 semanas para el cuidado de\nmenores porque el Ejecutivo español no lo ha regulado en tiempo y forma?",
+        "officialTitle": "¿Qué medidas va a adoptar el Gobierno tras la sentencia del Juzgado\nAdministrativo número 1 de Barcelona que obliga al Ayuntamiento a asumir\nel pago del permiso parental retribuido de 8 semanas para el cuidado de\nmenores porque el Ejecutivo español no lo ha regulado en tiempo y forma?",
+        "type": "qa",
+        "nativeType": "ES-pregunta"
+      },
+      "dateStart": "2024-12-11T10:35:00+01:00",
+      "dateEnd": "2024-12-11T10:37:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_084/cortes/15_000400_084_0_25568_744002.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1544002I",
+        "duration": 120.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_084_0_25568_744002",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Maribel Vaquero Montero",
+          "lastname": "Vaquero Montero",
+          "firstname": "Maribel",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Vasco (EAJ-PNV)"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 55
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 87
+      },
+      "agendaItem": {
+        "title": "¿Qué medidas va a adoptar el Gobierno tras la sentencia del Juzgado\nAdministrativo número 1 de Barcelona que obliga al Ayuntamiento a asumir\nel pago del permiso parental retribuido de 8 semanas para el cuidado de\nmenores porque el Ejecutivo español no lo ha regulado en tiempo y forma?",
+        "officialTitle": "¿Qué medidas va a adoptar el Gobierno tras la sentencia del Juzgado\nAdministrativo número 1 de Barcelona que obliga al Ayuntamiento a asumir\nel pago del permiso parental retribuido de 8 semanas para el cuidado de\nmenores porque el Ejecutivo español no lo ha regulado en tiempo y forma?",
+        "type": "qa",
+        "nativeType": "ES-pregunta"
+      },
+      "dateStart": "2024-12-11T10:37:00+01:00",
+      "dateEnd": "2024-12-11T10:38:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_084/cortes/15_000400_084_0_25568_744003.mp4\nhttps://www.congreso.es/audiovisual/video/leg15/400/15_000400_084/cortes/15_000400_084_0_25568_744005.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1544003I https://app.congreso.es/v1/15744005I",
+        "duration": 60.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_084_0_25568_744005",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Pablo Bustinduy Amador",
+          "lastname": "Bustinduy Amador",
+          "firstname": "Pablo",
+          "type": "member of government",
+          "role": "Ministro de Derechos Sociales, Consumo y Agenda 2030"
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 56
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 87
+      },
+      "agendaItem": {
+        "title": "¿Qué medidas va a adoptar el Gobierno tras la sentencia del Juzgado\nAdministrativo número 1 de Barcelona que obliga al Ayuntamiento a asumir\nel pago del permiso parental retribuido de 8 semanas para el cuidado de\nmenores porque el Ejecutivo español no lo ha regulado en tiempo y forma?",
+        "officialTitle": "¿Qué medidas va a adoptar el Gobierno tras la sentencia del Juzgado\nAdministrativo número 1 de Barcelona que obliga al Ayuntamiento a asumir\nel pago del permiso parental retribuido de 8 semanas para el cuidado de\nmenores porque el Ejecutivo español no lo ha regulado en tiempo y forma?",
+        "type": "qa",
+        "nativeType": "ES-pregunta"
+      },
+      "dateStart": "2024-12-11T10:38:00+01:00",
+      "dateEnd": "2024-12-11T10:39:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_084/cortes/15_000400_084_0_25568_744004.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1544004I",
+        "duration": 60.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_084_0_25568_744004",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Maribel Vaquero Montero",
+          "lastname": "Vaquero Montero",
+          "firstname": "Maribel",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Vasco (EAJ-PNV)"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 57
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 87
+      },
+      "agendaItem": {
+        "title": "¿Por qué fue nombrado Ministro para la Transformación Digital y de la\nFunción Pública?",
+        "officialTitle": "¿Por qué fue nombrado Ministro para la Transformación Digital y de la\nFunción Pública?",
+        "type": "qa",
+        "nativeType": "ES-pregunta"
+      },
+      "dateStart": "2024-12-11T10:41:00+01:00",
+      "dateEnd": "2024-12-11T10:41:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_084/cortes/15_000400_084_0_25568_744007.mp4\nhttps://www.congreso.es/audiovisual/video/leg15/400/15_000400_084/cortes/15_000400_084_0_25568_744009.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1544007I https://app.congreso.es/v1/15744009I",
+        "duration": 0.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_084_0_25568_744009",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Jaime Miguel De los Santos González",
+          "lastname": "De los Santos González",
+          "firstname": "Jaime Miguel",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Popular en el Congreso"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 58
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 87
+      },
+      "agendaItem": {
+        "title": "¿Por qué fue nombrado Ministro para la Transformación Digital y de la\nFunción Pública?",
+        "officialTitle": "¿Por qué fue nombrado Ministro para la Transformación Digital y de la\nFunción Pública?",
+        "type": "qa",
+        "nativeType": "ES-pregunta"
+      },
+      "dateStart": "2024-12-11T10:41:00+01:00",
+      "dateEnd": "2024-12-11T10:41:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_084/cortes/15_000400_084_0_25568_744008.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1544008I",
+        "duration": 0.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_084_0_25568_744008",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Óscar López Águeda",
+          "lastname": "López Águeda",
+          "firstname": "Óscar",
+          "type": "member of government",
+          "role": "Ministro para la Transformación Digital y de la Función Pública"
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 59
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 87
+      },
+      "agendaItem": {
+        "title": "¿Por qué fue nombrado Ministro para la Transformación Digital y de la\nFunción Pública?",
+        "officialTitle": "¿Por qué fue nombrado Ministro para la Transformación Digital y de la\nFunción Pública?",
+        "type": "qa",
+        "nativeType": "ES-pregunta"
+      },
+      "dateStart": "2024-12-11T10:44:00+01:00",
+      "dateEnd": "2024-12-11T10:46:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_084/cortes/15_000400_084_0_25568_744010.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1544010I",
+        "duration": 120.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_084_0_25568_744010",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Óscar López Águeda",
+          "lastname": "López Águeda",
+          "firstname": "Óscar",
+          "type": "member of government",
+          "role": "Ministro para la Transformación Digital y de la Función Pública"
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 60
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 87
+      },
+      "agendaItem": {
+        "title": "Interpelación urgente a la Vicepresidenta Tercera del Gobierno y\nMinistra para la Transición Ecológica y el Reto Demográfico sobre las\nmedidas que va a tomar para garantizar el acceso a la red y atender los\nnuevos suministros necesarios para la industria en sus procesos de\nreindustrialización y descarbonización.",
+        "officialTitle": "Interpelación urgente a la Vicepresidenta Tercera del Gobierno y\nMinistra para la Transición Ecológica y el Reto Demográfico sobre las\nmedidas que va a tomar para garantizar el acceso a la red y atender los\nnuevos suministros necesarios para la industria en sus procesos de\nreindustrialización y descarbonización.",
+        "type": "questioning_of_the_government",
+        "nativeType": "ES-interpelacion"
+      },
+      "dateStart": "2024-12-11T10:47:00+01:00",
+      "dateEnd": "2024-12-11T10:59:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_084/cortes/15_000400_084_0_25568_744013.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1544013I",
+        "duration": 720.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_084_0_25568_744013",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Idoia Sagastizabal Unzetabarrenetxea",
+          "lastname": "Sagastizabal Unzetabarrenetxea",
+          "firstname": "Idoia",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Vasco (EAJ-PNV)"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 61
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 87
+      },
+      "agendaItem": {
+        "title": "Interpelación urgente a la Vicepresidenta Tercera del Gobierno y\nMinistra para la Transición Ecológica y el Reto Demográfico sobre las\nmedidas que va a tomar para garantizar el acceso a la red y atender los\nnuevos suministros necesarios para la industria en sus procesos de\nreindustrialización y descarbonización.",
+        "officialTitle": "Interpelación urgente a la Vicepresidenta Tercera del Gobierno y\nMinistra para la Transición Ecológica y el Reto Demográfico sobre las\nmedidas que va a tomar para garantizar el acceso a la red y atender los\nnuevos suministros necesarios para la industria en sus procesos de\nreindustrialización y descarbonización.",
+        "type": "questioning_of_the_government",
+        "nativeType": "ES-interpelacion"
+      },
+      "dateStart": "2024-12-11T10:59:00+01:00",
+      "dateEnd": "2024-12-11T11:11:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_084/cortes/15_000400_084_0_25568_744014.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1544014I",
+        "duration": 720.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_084_0_25568_744014",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Sara Aagesen Muñoz",
+          "lastname": "Aagesen Muñoz",
+          "firstname": "Sara",
+          "type": "member of government",
+          "role": "Vicepresidenta Tercera y Ministra para la Transición Ecológica y el\nReto Demográfico"
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 62
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 87
+      },
+      "agendaItem": {
+        "title": "Interpelación urgente a la Vicepresidenta Tercera del Gobierno y\nMinistra para la Transición Ecológica y el Reto Demográfico sobre las\nmedidas que va a tomar para garantizar el acceso a la red y atender los\nnuevos suministros necesarios para la industria en sus procesos de\nreindustrialización y descarbonización.",
+        "officialTitle": "Interpelación urgente a la Vicepresidenta Tercera del Gobierno y\nMinistra para la Transición Ecológica y el Reto Demográfico sobre las\nmedidas que va a tomar para garantizar el acceso a la red y atender los\nnuevos suministros necesarios para la industria en sus procesos de\nreindustrialización y descarbonización.",
+        "type": "questioning_of_the_government",
+        "nativeType": "ES-interpelacion"
+      },
+      "dateStart": "2024-12-11T11:11:00+01:00",
+      "dateEnd": "2024-12-11T11:15:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_084/cortes/15_000400_084_0_25568_744015.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1544015I",
+        "duration": 240.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_084_0_25568_744015",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Idoia Sagastizabal Unzetabarrenetxea",
+          "lastname": "Sagastizabal Unzetabarrenetxea",
+          "firstname": "Idoia",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Vasco (EAJ-PNV)"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 63
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 87
+      },
+      "agendaItem": {
+        "title": "Interpelación urgente a la Vicepresidenta Tercera del Gobierno y\nMinistra para la Transición Ecológica y el Reto Demográfico sobre las\nmedidas que va a tomar para garantizar el acceso a la red y atender los\nnuevos suministros necesarios para la industria en sus procesos de\nreindustrialización y descarbonización.",
+        "officialTitle": "Interpelación urgente a la Vicepresidenta Tercera del Gobierno y\nMinistra para la Transición Ecológica y el Reto Demográfico sobre las\nmedidas que va a tomar para garantizar el acceso a la red y atender los\nnuevos suministros necesarios para la industria en sus procesos de\nreindustrialización y descarbonización.",
+        "type": "questioning_of_the_government",
+        "nativeType": "ES-interpelacion"
+      },
+      "dateStart": "2024-12-11T11:15:00+01:00",
+      "dateEnd": "2024-12-11T11:20:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_084/cortes/15_000400_084_0_25568_744016.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1544016I",
+        "duration": 300.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_084_0_25568_744016",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Sara Aagesen Muñoz",
+          "lastname": "Aagesen Muñoz",
+          "firstname": "Sara",
+          "type": "member of government",
+          "role": "Vicepresidenta Tercera y Ministra para la Transición Ecológica y el\nReto Demográfico"
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 64
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 87
+      },
+      "agendaItem": {
+        "title": "Interpelación urgente al Ministro de Transportes y Movilidad\nSostenible sobre la democratización del sistema de representatividad y la\nlucha contra la precariedad laboral y económica del sector del transporte\nde mercancías por carretera.",
+        "officialTitle": "Interpelación urgente al Ministro de Transportes y Movilidad\nSostenible sobre la democratización del sistema de representatividad y la\nlucha contra la precariedad laboral y económica del sector del transporte\nde mercancías por carretera.",
+        "type": "questioning_of_the_government",
+        "nativeType": "ES-interpelacion"
+      },
+      "dateStart": "2024-12-11T11:20:00+01:00",
+      "dateEnd": "2024-12-11T11:32:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_084/cortes/15_000400_084_0_25568_744018.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1544018I",
+        "duration": 720.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_084_0_25568_744018",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Inés Granollers Cunillera",
+          "lastname": "Granollers Cunillera",
+          "firstname": "Inés",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Republicano"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 65
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 87
+      },
+      "agendaItem": {
+        "title": "Interpelación urgente al Ministro de Transportes y Movilidad\nSostenible sobre la democratización del sistema de representatividad y la\nlucha contra la precariedad laboral y económica del sector del transporte\nde mercancías por carretera.",
+        "officialTitle": "Interpelación urgente al Ministro de Transportes y Movilidad\nSostenible sobre la democratización del sistema de representatividad y la\nlucha contra la precariedad laboral y económica del sector del transporte\nde mercancías por carretera.",
+        "type": "questioning_of_the_government",
+        "nativeType": "ES-interpelacion"
+      },
+      "dateStart": "2024-12-11T11:32:00+01:00",
+      "dateEnd": "2024-12-11T11:45:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_084/cortes/15_000400_084_0_25568_744019.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1544019I",
+        "duration": 780.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_084_0_25568_744019",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Óscar Puente Santiago",
+          "lastname": "Puente Santiago",
+          "firstname": "Óscar",
+          "type": "member of government",
+          "role": "Ministro de Transportes y Movilidad Sostenible",
+          "faction": {
+            "label": "Grupo Parlamentario Socialista"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 66
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 87
+      },
+      "agendaItem": {
+        "title": "Interpelación urgente al Ministro de Transportes y Movilidad\nSostenible sobre la democratización del sistema de representatividad y la\nlucha contra la precariedad laboral y económica del sector del transporte\nde mercancías por carretera.",
+        "officialTitle": "Interpelación urgente al Ministro de Transportes y Movilidad\nSostenible sobre la democratización del sistema de representatividad y la\nlucha contra la precariedad laboral y económica del sector del transporte\nde mercancías por carretera.",
+        "type": "questioning_of_the_government",
+        "nativeType": "ES-interpelacion"
+      },
+      "dateStart": "2024-12-11T11:45:00+01:00",
+      "dateEnd": "2024-12-11T11:52:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_084/cortes/15_000400_084_0_25568_744020.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1544020I",
+        "duration": 420.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_084_0_25568_744020",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Inés Granollers Cunillera",
+          "lastname": "Granollers Cunillera",
+          "firstname": "Inés",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Republicano"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 67
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 87
+      },
+      "agendaItem": {
+        "title": "Interpelación urgente al Ministro de Transportes y Movilidad\nSostenible sobre la democratización del sistema de representatividad y la\nlucha contra la precariedad laboral y económica del sector del transporte\nde mercancías por carretera.",
+        "officialTitle": "Interpelación urgente al Ministro de Transportes y Movilidad\nSostenible sobre la democratización del sistema de representatividad y la\nlucha contra la precariedad laboral y económica del sector del transporte\nde mercancías por carretera.",
+        "type": "questioning_of_the_government",
+        "nativeType": "ES-interpelacion"
+      },
+      "dateStart": "2024-12-11T11:52:00+01:00",
+      "dateEnd": "2024-12-11T11:53:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_084/cortes/15_000400_084_0_25568_744021.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1544021I",
+        "duration": 60.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_084_0_25568_744021",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Óscar Puente Santiago",
+          "lastname": "Puente Santiago",
+          "firstname": "Óscar",
+          "type": "member of government",
+          "role": "Ministro de Transportes y Movilidad Sostenible",
+          "faction": {
+            "label": "Grupo Parlamentario Socialista"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 68
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 87
+      },
+      "agendaItem": {
+        "title": "Interpelación urgente a la Vicepresidenta Tercera del Gobierno y\nMinistra para la Transición Ecológica y el Reto Demográfico sobre cuál va\na ser la política del Gobierno en materia de agua y fuentes de energía y\nsu impacto en la economía española.",
+        "officialTitle": "Interpelación urgente a la Vicepresidenta Tercera del Gobierno y\nMinistra para la Transición Ecológica y el Reto Demográfico sobre cuál va\na ser la política del Gobierno en materia de agua y fuentes de energía y\nsu impacto en la economía española.",
+        "type": "questioning_of_the_government",
+        "nativeType": "ES-interpelacion"
+      },
+      "dateStart": "2024-12-11T11:53:00+01:00",
+      "dateEnd": "2024-12-11T12:07:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_084/cortes/15_000400_084_0_25568_744023.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1544023I",
+        "duration": 840.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_084_0_25568_744023",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "José María Figaredo Álvarez-Sala",
+          "lastname": "Figaredo Álvarez-Sala",
+          "firstname": "José María",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario VOX"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 69
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 87
+      },
+      "agendaItem": {
+        "title": "Interpelación urgente a la Vicepresidenta Tercera del Gobierno y\nMinistra para la Transición Ecológica y el Reto Demográfico sobre cuál va\na ser la política del Gobierno en materia de agua y fuentes de energía y\nsu impacto en la economía española.",
+        "officialTitle": "Interpelación urgente a la Vicepresidenta Tercera del Gobierno y\nMinistra para la Transición Ecológica y el Reto Demográfico sobre cuál va\na ser la política del Gobierno en materia de agua y fuentes de energía y\nsu impacto en la economía española.",
+        "type": "questioning_of_the_government",
+        "nativeType": "ES-interpelacion"
+      },
+      "dateStart": "2024-12-11T12:07:00+01:00",
+      "dateEnd": "2024-12-11T12:18:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_084/cortes/15_000400_084_0_25568_744024.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1544024I",
+        "duration": 660.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_084_0_25568_744024",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Sara Aagesen Muñoz",
+          "lastname": "Aagesen Muñoz",
+          "firstname": "Sara",
+          "type": "member of government",
+          "role": "Vicepresidenta Tercera y Ministra para la Transición Ecológica y el\nReto Demográfico"
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 70
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 87
+      },
+      "agendaItem": {
+        "title": "Interpelación urgente a la Vicepresidenta Tercera del Gobierno y\nMinistra para la Transición Ecológica y el Reto Demográfico sobre cuál va\na ser la política del Gobierno en materia de agua y fuentes de energía y\nsu impacto en la economía española.",
+        "officialTitle": "Interpelación urgente a la Vicepresidenta Tercera del Gobierno y\nMinistra para la Transición Ecológica y el Reto Demográfico sobre cuál va\na ser la política del Gobierno en materia de agua y fuentes de energía y\nsu impacto en la economía española.",
+        "type": "questioning_of_the_government",
+        "nativeType": "ES-interpelacion"
+      },
+      "dateStart": "2024-12-11T12:18:00+01:00",
+      "dateEnd": "2024-12-11T12:25:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_084/cortes/15_000400_084_0_25568_744025.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1544025I",
+        "duration": 420.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_084_0_25568_744025",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "José María Figaredo Álvarez-Sala",
+          "lastname": "Figaredo Álvarez-Sala",
+          "firstname": "José María",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario VOX"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 71
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 87
+      },
+      "agendaItem": {
+        "title": "Interpelación urgente a la Vicepresidenta Tercera del Gobierno y\nMinistra para la Transición Ecológica y el Reto Demográfico sobre cuál va\na ser la política del Gobierno en materia de agua y fuentes de energía y\nsu impacto en la economía española.",
+        "officialTitle": "Interpelación urgente a la Vicepresidenta Tercera del Gobierno y\nMinistra para la Transición Ecológica y el Reto Demográfico sobre cuál va\na ser la política del Gobierno en materia de agua y fuentes de energía y\nsu impacto en la economía española.",
+        "type": "questioning_of_the_government",
+        "nativeType": "ES-interpelacion"
+      },
+      "dateStart": "2024-12-11T12:25:00+01:00",
+      "dateEnd": "2024-12-11T12:31:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_084/cortes/15_000400_084_0_25568_744026.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1544026I",
+        "duration": 360.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_084_0_25568_744026",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Sara Aagesen Muñoz",
+          "lastname": "Aagesen Muñoz",
+          "firstname": "Sara",
+          "type": "member of government",
+          "role": "Vicepresidenta Tercera y Ministra para la Transición Ecológica y el\nReto Demográfico"
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 72
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 87
+      },
+      "agendaItem": {
+        "title": "Interpelación urgente al Ministro para la Transformación Digital y de\nla Función Pública sobre los escándalos que rodean su gestión.",
+        "officialTitle": "Interpelación urgente al Ministro para la Transformación Digital y de\nla Función Pública sobre los escándalos que rodean su gestión.",
+        "type": "questioning_of_the_government",
+        "nativeType": "ES-interpelacion"
+      },
+      "dateStart": "2024-12-11T12:31:00+01:00",
+      "dateEnd": "2024-12-11T12:44:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_084/cortes/15_000400_084_0_25568_744028.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1544028I",
+        "duration": 780.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_084_0_25568_744028",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Pedro Muñoz Abrines",
+          "lastname": "Muñoz Abrines",
+          "firstname": "Pedro",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Popular en el Congreso"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 73
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 87
+      },
+      "agendaItem": {
+        "title": "Interpelación urgente al Ministro para la Transformación Digital y de\nla Función Pública sobre los escándalos que rodean su gestión.",
+        "officialTitle": "Interpelación urgente al Ministro para la Transformación Digital y de\nla Función Pública sobre los escándalos que rodean su gestión.",
+        "type": "questioning_of_the_government",
+        "nativeType": "ES-interpelacion"
+      },
+      "dateStart": "2024-12-11T12:44:00+01:00",
+      "dateEnd": "2024-12-11T12:57:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_084/cortes/15_000400_084_0_25568_744029.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1544029I",
+        "duration": 780.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_084_0_25568_744029",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Óscar López Águeda",
+          "lastname": "López Águeda",
+          "firstname": "Óscar",
+          "type": "member of government",
+          "role": "Ministro para la Transformación Digital y de la Función Pública"
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 74
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 87
+      },
+      "agendaItem": {
+        "title": "Interpelación urgente al Ministro para la Transformación Digital y de\nla Función Pública sobre los escándalos que rodean su gestión.",
+        "officialTitle": "Interpelación urgente al Ministro para la Transformación Digital y de\nla Función Pública sobre los escándalos que rodean su gestión.",
+        "type": "questioning_of_the_government",
+        "nativeType": "ES-interpelacion"
+      },
+      "dateStart": "2024-12-11T12:57:00+01:00",
+      "dateEnd": "2024-12-11T13:03:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_084/cortes/15_000400_084_0_25568_744030.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1544030I",
+        "duration": 360.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_084_0_25568_744030",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Pedro Muñoz Abrines",
+          "lastname": "Muñoz Abrines",
+          "firstname": "Pedro",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Popular en el Congreso"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 75
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 87
+      },
+      "agendaItem": {
+        "title": "Interpelación urgente al Ministro para la Transformación Digital y de\nla Función Pública sobre los escándalos que rodean su gestión.",
+        "officialTitle": "Interpelación urgente al Ministro para la Transformación Digital y de\nla Función Pública sobre los escándalos que rodean su gestión.",
+        "type": "questioning_of_the_government",
+        "nativeType": "ES-interpelacion"
+      },
+      "dateStart": "2024-12-11T13:03:00+01:00",
+      "dateEnd": "2024-12-11T13:07:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_084/cortes/15_000400_084_0_25568_744033.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1544033I",
+        "duration": 240.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_084_0_25568_744033",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Óscar López Águeda",
+          "lastname": "López Águeda",
+          "firstname": "Óscar",
+          "type": "member of government",
+          "role": "Ministro para la Transformación Digital y de la Función Pública"
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 76
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 87
+      },
+      "agendaItem": {
+        "title": "Solicitud de comparecencia, a petición propia, del Ministro de\nTransportes y Movilidad Sostenible ante el Pleno de la Cámara, para dar\ncuenta de las acciones realizadas por el Gobierno de España en materia de\ninfraestructuras y servicios de transporte como consecuencia de la DANA\nde finales de octubre de 2024.",
+        "officialTitle": "Solicitud de comparecencia, a petición propia, del Ministro de\nTransportes y Movilidad Sostenible ante el Pleno de la Cámara, para dar\ncuenta de las acciones realizadas por el Gobierno de España en materia de\ninfraestructuras y servicios de transporte como consecuencia de la DANA\nde finales de octubre de 2024.",
+        "type": "briefing",
+        "nativeType": "ES-comparecencia"
+      },
+      "dateStart": "2024-12-11T13:08:00+01:00",
+      "dateEnd": "2024-12-11T13:35:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_084/cortes/15_000400_084_1_25571_744038.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1544038I",
+        "duration": 1620.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_084_1_25571_744038",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Óscar Puente Santiago",
+          "lastname": "Puente Santiago",
+          "firstname": "Óscar",
+          "type": "member of government",
+          "role": "Ministro de Transportes y Movilidad Sostenible",
+          "faction": {
+            "label": "Grupo Parlamentario Socialista"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 77
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 87
+      },
+      "agendaItem": {
+        "title": "Solicitud de comparecencia urgente del Ministro de Transportes y\nMovilidad Sostenible ante el Pleno de la Cámara, para informar sobre por\nqué continúa el caos ferroviario en España con el nuevo episodio de\noctubre que afectó a decenas de trenes y miles de pasajeros que quedaron\nabandonados, la falta de coordinación entre RENFE, ADIF y LOGIRAIL y\nconocer el calendario que maneja el Ministerio para revertir los\ncriterios de puntualidad, así como los planes exigidos por el Congreso.",
+        "officialTitle": "Solicitud de comparecencia urgente del Ministro de Transportes y\nMovilidad Sostenible ante el Pleno de la Cámara, para informar sobre por\nqué continúa el caos ferroviario en España con el nuevo episodio de\noctubre que afectó a decenas de trenes y miles de pasajeros que quedaron\nabandonados, la falta de coordinación entre RENFE, ADIF y LOGIRAIL y\nconocer el calendario que maneja el Ministerio para revertir los\ncriterios de puntualidad, así como los planes exigidos por el Congreso.",
+        "type": "briefing",
+        "nativeType": "ES-comparecencia"
+      },
+      "dateStart": "2024-12-11T13:08:00+01:00",
+      "dateEnd": "2024-12-11T13:35:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_084/cortes/15_000400_084_1_25571_744038.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1544038I",
+        "duration": 1620.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_084_1_25571_744038",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Óscar Puente Santiago",
+          "lastname": "Puente Santiago",
+          "firstname": "Óscar",
+          "type": "member of government",
+          "role": "Ministro de Transportes y Movilidad Sostenible",
+          "faction": {
+            "label": "Grupo Parlamentario Socialista"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 78
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 87
+      },
+      "agendaItem": {
+        "title": "Solicitud de comparecencia, a petición propia, del Ministro de\nTransportes y Movilidad Sostenible ante el Pleno de la Cámara, para dar\ncuenta de las acciones realizadas por el Gobierno de España en materia de\ninfraestructuras y servicios de transporte como consecuencia de la DANA\nde finales de octubre de 2024.",
+        "officialTitle": "Solicitud de comparecencia, a petición propia, del Ministro de\nTransportes y Movilidad Sostenible ante el Pleno de la Cámara, para dar\ncuenta de las acciones realizadas por el Gobierno de España en materia de\ninfraestructuras y servicios de transporte como consecuencia de la DANA\nde finales de octubre de 2024.",
+        "type": "briefing",
+        "nativeType": "ES-comparecencia"
+      },
+      "dateStart": "2024-12-11T13:35:00+01:00",
+      "dateEnd": "2024-12-11T13:48:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_084/cortes/15_000400_084_1_25571_744039.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1544039I",
+        "duration": 780.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_084_1_25571_744039",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Héctor Palencia Rubio",
+          "lastname": "Palencia Rubio",
+          "firstname": "Héctor",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Popular en el Congreso"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 79
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 87
+      },
+      "agendaItem": {
+        "title": "Solicitud de comparecencia urgente del Ministro de Transportes y\nMovilidad Sostenible ante el Pleno de la Cámara, para informar sobre por\nqué continúa el caos ferroviario en España con el nuevo episodio de\noctubre que afectó a decenas de trenes y miles de pasajeros que quedaron\nabandonados, la falta de coordinación entre RENFE, ADIF y LOGIRAIL y\nconocer el calendario que maneja el Ministerio para revertir los\ncriterios de puntualidad, así como los planes exigidos por el Congreso.",
+        "officialTitle": "Solicitud de comparecencia urgente del Ministro de Transportes y\nMovilidad Sostenible ante el Pleno de la Cámara, para informar sobre por\nqué continúa el caos ferroviario en España con el nuevo episodio de\noctubre que afectó a decenas de trenes y miles de pasajeros que quedaron\nabandonados, la falta de coordinación entre RENFE, ADIF y LOGIRAIL y\nconocer el calendario que maneja el Ministerio para revertir los\ncriterios de puntualidad, así como los planes exigidos por el Congreso.",
+        "type": "briefing",
+        "nativeType": "ES-comparecencia"
+      },
+      "dateStart": "2024-12-11T13:35:00+01:00",
+      "dateEnd": "2024-12-11T13:48:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_084/cortes/15_000400_084_1_25571_744039.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1544039I",
+        "duration": 780.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_084_1_25571_744039",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Héctor Palencia Rubio",
+          "lastname": "Palencia Rubio",
+          "firstname": "Héctor",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Popular en el Congreso"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 80
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 87
+      },
+      "agendaItem": {
+        "title": "Solicitud de comparecencia, a petición propia, del Ministro de\nTransportes y Movilidad Sostenible ante el Pleno de la Cámara, para dar\ncuenta de las acciones realizadas por el Gobierno de España en materia de\ninfraestructuras y servicios de transporte como consecuencia de la DANA\nde finales de octubre de 2024.",
+        "officialTitle": "Solicitud de comparecencia, a petición propia, del Ministro de\nTransportes y Movilidad Sostenible ante el Pleno de la Cámara, para dar\ncuenta de las acciones realizadas por el Gobierno de España en materia de\ninfraestructuras y servicios de transporte como consecuencia de la DANA\nde finales de octubre de 2024.",
+        "type": "briefing",
+        "nativeType": "ES-comparecencia"
+      },
+      "dateStart": "2024-12-11T13:48:00+01:00",
+      "dateEnd": "2024-12-11T14:00:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_084/cortes/15_000400_084_1_25571_744040.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1544040I",
+        "duration": 720.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_084_1_25571_744040",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Carina Mejías Sánchez",
+          "lastname": "Mejías Sánchez",
+          "firstname": "Carina",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario VOX"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 81
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 87
+      },
+      "agendaItem": {
+        "title": "Solicitud de comparecencia urgente del Ministro de Transportes y\nMovilidad Sostenible ante el Pleno de la Cámara, para informar sobre por\nqué continúa el caos ferroviario en España con el nuevo episodio de\noctubre que afectó a decenas de trenes y miles de pasajeros que quedaron\nabandonados, la falta de coordinación entre RENFE, ADIF y LOGIRAIL y\nconocer el calendario que maneja el Ministerio para revertir los\ncriterios de puntualidad, así como los planes exigidos por el Congreso.",
+        "officialTitle": "Solicitud de comparecencia urgente del Ministro de Transportes y\nMovilidad Sostenible ante el Pleno de la Cámara, para informar sobre por\nqué continúa el caos ferroviario en España con el nuevo episodio de\noctubre que afectó a decenas de trenes y miles de pasajeros que quedaron\nabandonados, la falta de coordinación entre RENFE, ADIF y LOGIRAIL y\nconocer el calendario que maneja el Ministerio para revertir los\ncriterios de puntualidad, así como los planes exigidos por el Congreso.",
+        "type": "briefing",
+        "nativeType": "ES-comparecencia"
+      },
+      "dateStart": "2024-12-11T13:48:00+01:00",
+      "dateEnd": "2024-12-11T14:00:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_084/cortes/15_000400_084_1_25571_744040.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1544040I",
+        "duration": 720.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_084_1_25571_744040",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Carina Mejías Sánchez",
+          "lastname": "Mejías Sánchez",
+          "firstname": "Carina",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario VOX"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 82
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 87
+      },
+      "agendaItem": {
+        "title": "Solicitud de comparecencia, a petición propia, del Ministro de\nTransportes y Movilidad Sostenible ante el Pleno de la Cámara, para dar\ncuenta de las acciones realizadas por el Gobierno de España en materia de\ninfraestructuras y servicios de transporte como consecuencia de la DANA\nde finales de octubre de 2024.",
+        "officialTitle": "Solicitud de comparecencia, a petición propia, del Ministro de\nTransportes y Movilidad Sostenible ante el Pleno de la Cámara, para dar\ncuenta de las acciones realizadas por el Gobierno de España en materia de\ninfraestructuras y servicios de transporte como consecuencia de la DANA\nde finales de octubre de 2024.",
+        "type": "briefing",
+        "nativeType": "ES-comparecencia"
+      },
+      "dateStart": "2024-12-11T14:00:00+01:00",
+      "dateEnd": "2024-12-11T14:11:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_084/cortes/15_000400_084_1_25571_744041.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1544041I",
+        "duration": 660.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_084_1_25571_744041",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Alberto Ibáñez Mezquita",
+          "lastname": "Ibáñez Mezquita",
+          "firstname": "Alberto",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Plurinacional SUMAR"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 83
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 87
+      },
+      "agendaItem": {
+        "title": "Solicitud de comparecencia urgente del Ministro de Transportes y\nMovilidad Sostenible ante el Pleno de la Cámara, para informar sobre por\nqué continúa el caos ferroviario en España con el nuevo episodio de\noctubre que afectó a decenas de trenes y miles de pasajeros que quedaron\nabandonados, la falta de coordinación entre RENFE, ADIF y LOGIRAIL y\nconocer el calendario que maneja el Ministerio para revertir los\ncriterios de puntualidad, así como los planes exigidos por el Congreso.",
+        "officialTitle": "Solicitud de comparecencia urgente del Ministro de Transportes y\nMovilidad Sostenible ante el Pleno de la Cámara, para informar sobre por\nqué continúa el caos ferroviario en España con el nuevo episodio de\noctubre que afectó a decenas de trenes y miles de pasajeros que quedaron\nabandonados, la falta de coordinación entre RENFE, ADIF y LOGIRAIL y\nconocer el calendario que maneja el Ministerio para revertir los\ncriterios de puntualidad, así como los planes exigidos por el Congreso.",
+        "type": "briefing",
+        "nativeType": "ES-comparecencia"
+      },
+      "dateStart": "2024-12-11T14:00:00+01:00",
+      "dateEnd": "2024-12-11T14:11:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_084/cortes/15_000400_084_1_25571_744041.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1544041I",
+        "duration": 660.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_084_1_25571_744041",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Alberto Ibáñez Mezquita",
+          "lastname": "Ibáñez Mezquita",
+          "firstname": "Alberto",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Plurinacional SUMAR"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 84
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 87
+      },
+      "agendaItem": {
+        "title": "Solicitud de comparecencia, a petición propia, del Ministro de\nTransportes y Movilidad Sostenible ante el Pleno de la Cámara, para dar\ncuenta de las acciones realizadas por el Gobierno de España en materia de\ninfraestructuras y servicios de transporte como consecuencia de la DANA\nde finales de octubre de 2024.",
+        "officialTitle": "Solicitud de comparecencia, a petición propia, del Ministro de\nTransportes y Movilidad Sostenible ante el Pleno de la Cámara, para dar\ncuenta de las acciones realizadas por el Gobierno de España en materia de\ninfraestructuras y servicios de transporte como consecuencia de la DANA\nde finales de octubre de 2024.",
+        "type": "briefing",
+        "nativeType": "ES-comparecencia"
+      },
+      "dateStart": "2024-12-11T14:11:00+01:00",
+      "dateEnd": "2024-12-11T14:22:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_084/cortes/15_000400_084_1_25571_744042.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1544042I",
+        "duration": 660.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_084_1_25571_744042",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Inés Granollers Cunillera",
+          "lastname": "Granollers Cunillera",
+          "firstname": "Inés",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Republicano"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 85
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 87
+      },
+      "agendaItem": {
+        "title": "Solicitud de comparecencia urgente del Ministro de Transportes y\nMovilidad Sostenible ante el Pleno de la Cámara, para informar sobre por\nqué continúa el caos ferroviario en España con el nuevo episodio de\noctubre que afectó a decenas de trenes y miles de pasajeros que quedaron\nabandonados, la falta de coordinación entre RENFE, ADIF y LOGIRAIL y\nconocer el calendario que maneja el Ministerio para revertir los\ncriterios de puntualidad, así como los planes exigidos por el Congreso.",
+        "officialTitle": "Solicitud de comparecencia urgente del Ministro de Transportes y\nMovilidad Sostenible ante el Pleno de la Cámara, para informar sobre por\nqué continúa el caos ferroviario en España con el nuevo episodio de\noctubre que afectó a decenas de trenes y miles de pasajeros que quedaron\nabandonados, la falta de coordinación entre RENFE, ADIF y LOGIRAIL y\nconocer el calendario que maneja el Ministerio para revertir los\ncriterios de puntualidad, así como los planes exigidos por el Congreso.",
+        "type": "briefing",
+        "nativeType": "ES-comparecencia"
+      },
+      "dateStart": "2024-12-11T14:11:00+01:00",
+      "dateEnd": "2024-12-11T14:22:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_084/cortes/15_000400_084_1_25571_744042.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1544042I",
+        "duration": 660.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_084_1_25571_744042",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Inés Granollers Cunillera",
+          "lastname": "Granollers Cunillera",
+          "firstname": "Inés",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Republicano"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 86
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 87
+      },
+      "agendaItem": {
+        "title": "Solicitud de comparecencia, a petición propia, del Ministro de\nTransportes y Movilidad Sostenible ante el Pleno de la Cámara, para dar\ncuenta de las acciones realizadas por el Gobierno de España en materia de\ninfraestructuras y servicios de transporte como consecuencia de la DANA\nde finales de octubre de 2024.",
+        "officialTitle": "Solicitud de comparecencia, a petición propia, del Ministro de\nTransportes y Movilidad Sostenible ante el Pleno de la Cámara, para dar\ncuenta de las acciones realizadas por el Gobierno de España en materia de\ninfraestructuras y servicios de transporte como consecuencia de la DANA\nde finales de octubre de 2024.",
+        "type": "briefing",
+        "nativeType": "ES-comparecencia"
+      },
+      "dateStart": "2024-12-11T14:22:00+01:00",
+      "dateEnd": "2024-12-11T14:37:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_084/cortes/15_000400_084_1_25571_744043.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1544043I",
+        "duration": 900.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_084_1_25571_744043",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Isidre Gavin i Valls",
+          "lastname": "Gavin i Valls",
+          "firstname": "Isidre",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Junts per Catalunya"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 87
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 87
+      },
+      "agendaItem": {
+        "title": "Solicitud de comparecencia urgente del Ministro de Transportes y\nMovilidad Sostenible ante el Pleno de la Cámara, para informar sobre por\nqué continúa el caos ferroviario en España con el nuevo episodio de\noctubre que afectó a decenas de trenes y miles de pasajeros que quedaron\nabandonados, la falta de coordinación entre RENFE, ADIF y LOGIRAIL y\nconocer el calendario que maneja el Ministerio para revertir los\ncriterios de puntualidad, así como los planes exigidos por el Congreso.",
+        "officialTitle": "Solicitud de comparecencia urgente del Ministro de Transportes y\nMovilidad Sostenible ante el Pleno de la Cámara, para informar sobre por\nqué continúa el caos ferroviario en España con el nuevo episodio de\noctubre que afectó a decenas de trenes y miles de pasajeros que quedaron\nabandonados, la falta de coordinación entre RENFE, ADIF y LOGIRAIL y\nconocer el calendario que maneja el Ministerio para revertir los\ncriterios de puntualidad, así como los planes exigidos por el Congreso.",
+        "type": "briefing",
+        "nativeType": "ES-comparecencia"
+      },
+      "dateStart": "2024-12-11T14:22:00+01:00",
+      "dateEnd": "2024-12-11T14:37:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_084/cortes/15_000400_084_1_25571_744043.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1544043I",
+        "duration": 900.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_084_1_25571_744043",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Isidre Gavin i Valls",
+          "lastname": "Gavin i Valls",
+          "firstname": "Isidre",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Junts per Catalunya"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 88
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 87
+      },
+      "agendaItem": {
+        "title": "Solicitud de comparecencia, a petición propia, del Ministro de\nTransportes y Movilidad Sostenible ante el Pleno de la Cámara, para dar\ncuenta de las acciones realizadas por el Gobierno de España en materia de\ninfraestructuras y servicios de transporte como consecuencia de la DANA\nde finales de octubre de 2024.",
+        "officialTitle": "Solicitud de comparecencia, a petición propia, del Ministro de\nTransportes y Movilidad Sostenible ante el Pleno de la Cámara, para dar\ncuenta de las acciones realizadas por el Gobierno de España en materia de\ninfraestructuras y servicios de transporte como consecuencia de la DANA\nde finales de octubre de 2024.",
+        "type": "briefing",
+        "nativeType": "ES-comparecencia"
+      },
+      "dateStart": "2024-12-11T14:37:00+01:00",
+      "dateEnd": "2024-12-11T14:49:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_084/cortes/15_000400_084_1_25571_744044.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1544044I",
+        "duration": 720.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_084_1_25571_744044",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Maribel Vaquero Montero",
+          "lastname": "Vaquero Montero",
+          "firstname": "Maribel",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Vasco (EAJ-PNV)"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 89
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 87
+      },
+      "agendaItem": {
+        "title": "Solicitud de comparecencia urgente del Ministro de Transportes y\nMovilidad Sostenible ante el Pleno de la Cámara, para informar sobre por\nqué continúa el caos ferroviario en España con el nuevo episodio de\noctubre que afectó a decenas de trenes y miles de pasajeros que quedaron\nabandonados, la falta de coordinación entre RENFE, ADIF y LOGIRAIL y\nconocer el calendario que maneja el Ministerio para revertir los\ncriterios de puntualidad, así como los planes exigidos por el Congreso.",
+        "officialTitle": "Solicitud de comparecencia urgente del Ministro de Transportes y\nMovilidad Sostenible ante el Pleno de la Cámara, para informar sobre por\nqué continúa el caos ferroviario en España con el nuevo episodio de\noctubre que afectó a decenas de trenes y miles de pasajeros que quedaron\nabandonados, la falta de coordinación entre RENFE, ADIF y LOGIRAIL y\nconocer el calendario que maneja el Ministerio para revertir los\ncriterios de puntualidad, así como los planes exigidos por el Congreso.",
+        "type": "briefing",
+        "nativeType": "ES-comparecencia"
+      },
+      "dateStart": "2024-12-11T14:37:00+01:00",
+      "dateEnd": "2024-12-11T14:49:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_084/cortes/15_000400_084_1_25571_744044.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1544044I",
+        "duration": 720.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_084_1_25571_744044",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Maribel Vaquero Montero",
+          "lastname": "Vaquero Montero",
+          "firstname": "Maribel",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Vasco (EAJ-PNV)"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 90
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 87
+      },
+      "agendaItem": {
+        "title": "Solicitud de comparecencia, a petición propia, del Ministro de\nTransportes y Movilidad Sostenible ante el Pleno de la Cámara, para dar\ncuenta de las acciones realizadas por el Gobierno de España en materia de\ninfraestructuras y servicios de transporte como consecuencia de la DANA\nde finales de octubre de 2024.",
+        "officialTitle": "Solicitud de comparecencia, a petición propia, del Ministro de\nTransportes y Movilidad Sostenible ante el Pleno de la Cámara, para dar\ncuenta de las acciones realizadas por el Gobierno de España en materia de\ninfraestructuras y servicios de transporte como consecuencia de la DANA\nde finales de octubre de 2024.",
+        "type": "briefing",
+        "nativeType": "ES-comparecencia"
+      },
+      "dateStart": "2024-12-11T14:49:00+01:00",
+      "dateEnd": "2024-12-11T14:56:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_084/cortes/15_000400_084_1_25571_744045.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1544045I",
+        "duration": 420.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_084_1_25571_744045",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Javier Sánchez Serna",
+          "lastname": "Sánchez Serna",
+          "firstname": "Javier",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Mixto"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 91
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 87
+      },
+      "agendaItem": {
+        "title": "Solicitud de comparecencia urgente del Ministro de Transportes y\nMovilidad Sostenible ante el Pleno de la Cámara, para informar sobre por\nqué continúa el caos ferroviario en España con el nuevo episodio de\noctubre que afectó a decenas de trenes y miles de pasajeros que quedaron\nabandonados, la falta de coordinación entre RENFE, ADIF y LOGIRAIL y\nconocer el calendario que maneja el Ministerio para revertir los\ncriterios de puntualidad, así como los planes exigidos por el Congreso.",
+        "officialTitle": "Solicitud de comparecencia urgente del Ministro de Transportes y\nMovilidad Sostenible ante el Pleno de la Cámara, para informar sobre por\nqué continúa el caos ferroviario en España con el nuevo episodio de\noctubre que afectó a decenas de trenes y miles de pasajeros que quedaron\nabandonados, la falta de coordinación entre RENFE, ADIF y LOGIRAIL y\nconocer el calendario que maneja el Ministerio para revertir los\ncriterios de puntualidad, así como los planes exigidos por el Congreso.",
+        "type": "briefing",
+        "nativeType": "ES-comparecencia"
+      },
+      "dateStart": "2024-12-11T14:49:00+01:00",
+      "dateEnd": "2024-12-11T14:56:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_084/cortes/15_000400_084_1_25571_744045.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1544045I",
+        "duration": 420.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_084_1_25571_744045",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Javier Sánchez Serna",
+          "lastname": "Sánchez Serna",
+          "firstname": "Javier",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Mixto"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 92
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 87
+      },
+      "agendaItem": {
+        "title": "Solicitud de comparecencia, a petición propia, del Ministro de\nTransportes y Movilidad Sostenible ante el Pleno de la Cámara, para dar\ncuenta de las acciones realizadas por el Gobierno de España en materia de\ninfraestructuras y servicios de transporte como consecuencia de la DANA\nde finales de octubre de 2024.",
+        "officialTitle": "Solicitud de comparecencia, a petición propia, del Ministro de\nTransportes y Movilidad Sostenible ante el Pleno de la Cámara, para dar\ncuenta de las acciones realizadas por el Gobierno de España en materia de\ninfraestructuras y servicios de transporte como consecuencia de la DANA\nde finales de octubre de 2024.",
+        "type": "briefing",
+        "nativeType": "ES-comparecencia"
+      },
+      "dateStart": "2024-12-11T14:56:00+01:00",
+      "dateEnd": "2024-12-11T15:02:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_084/cortes/15_000400_084_1_25571_744046.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1544046I",
+        "duration": 360.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_084_1_25571_744046",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Néstor Rego Candamil",
+          "lastname": "Rego Candamil",
+          "firstname": "Néstor",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Mixto"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 93
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 87
+      },
+      "agendaItem": {
+        "title": "Solicitud de comparecencia urgente del Ministro de Transportes y\nMovilidad Sostenible ante el Pleno de la Cámara, para informar sobre por\nqué continúa el caos ferroviario en España con el nuevo episodio de\noctubre que afectó a decenas de trenes y miles de pasajeros que quedaron\nabandonados, la falta de coordinación entre RENFE, ADIF y LOGIRAIL y\nconocer el calendario que maneja el Ministerio para revertir los\ncriterios de puntualidad, así como los planes exigidos por el Congreso.",
+        "officialTitle": "Solicitud de comparecencia urgente del Ministro de Transportes y\nMovilidad Sostenible ante el Pleno de la Cámara, para informar sobre por\nqué continúa el caos ferroviario en España con el nuevo episodio de\noctubre que afectó a decenas de trenes y miles de pasajeros que quedaron\nabandonados, la falta de coordinación entre RENFE, ADIF y LOGIRAIL y\nconocer el calendario que maneja el Ministerio para revertir los\ncriterios de puntualidad, así como los planes exigidos por el Congreso.",
+        "type": "briefing",
+        "nativeType": "ES-comparecencia"
+      },
+      "dateStart": "2024-12-11T14:56:00+01:00",
+      "dateEnd": "2024-12-11T15:02:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_084/cortes/15_000400_084_1_25571_744046.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1544046I",
+        "duration": 360.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_084_1_25571_744046",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Néstor Rego Candamil",
+          "lastname": "Rego Candamil",
+          "firstname": "Néstor",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Mixto"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 94
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 87
+      },
+      "agendaItem": {
+        "title": "Solicitud de comparecencia, a petición propia, del Ministro de\nTransportes y Movilidad Sostenible ante el Pleno de la Cámara, para dar\ncuenta de las acciones realizadas por el Gobierno de España en materia de\ninfraestructuras y servicios de transporte como consecuencia de la DANA\nde finales de octubre de 2024.",
+        "officialTitle": "Solicitud de comparecencia, a petición propia, del Ministro de\nTransportes y Movilidad Sostenible ante el Pleno de la Cámara, para dar\ncuenta de las acciones realizadas por el Gobierno de España en materia de\ninfraestructuras y servicios de transporte como consecuencia de la DANA\nde finales de octubre de 2024.",
+        "type": "briefing",
+        "nativeType": "ES-comparecencia"
+      },
+      "dateStart": "2024-12-11T15:02:00+01:00",
+      "dateEnd": "2024-12-11T15:07:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_084/cortes/15_000400_084_1_25571_744047.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1544047I",
+        "duration": 300.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_084_1_25571_744047",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Alberto Catalán Higueras",
+          "lastname": "Catalán Higueras",
+          "firstname": "Alberto",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Mixto"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 95
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 87
+      },
+      "agendaItem": {
+        "title": "Solicitud de comparecencia urgente del Ministro de Transportes y\nMovilidad Sostenible ante el Pleno de la Cámara, para informar sobre por\nqué continúa el caos ferroviario en España con el nuevo episodio de\noctubre que afectó a decenas de trenes y miles de pasajeros que quedaron\nabandonados, la falta de coordinación entre RENFE, ADIF y LOGIRAIL y\nconocer el calendario que maneja el Ministerio para revertir los\ncriterios de puntualidad, así como los planes exigidos por el Congreso.",
+        "officialTitle": "Solicitud de comparecencia urgente del Ministro de Transportes y\nMovilidad Sostenible ante el Pleno de la Cámara, para informar sobre por\nqué continúa el caos ferroviario en España con el nuevo episodio de\noctubre que afectó a decenas de trenes y miles de pasajeros que quedaron\nabandonados, la falta de coordinación entre RENFE, ADIF y LOGIRAIL y\nconocer el calendario que maneja el Ministerio para revertir los\ncriterios de puntualidad, así como los planes exigidos por el Congreso.",
+        "type": "briefing",
+        "nativeType": "ES-comparecencia"
+      },
+      "dateStart": "2024-12-11T15:02:00+01:00",
+      "dateEnd": "2024-12-11T15:07:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_084/cortes/15_000400_084_1_25571_744047.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1544047I",
+        "duration": 300.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_084_1_25571_744047",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Alberto Catalán Higueras",
+          "lastname": "Catalán Higueras",
+          "firstname": "Alberto",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Mixto"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 96
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 87
+      },
+      "agendaItem": {
+        "title": "Solicitud de comparecencia, a petición propia, del Ministro de\nTransportes y Movilidad Sostenible ante el Pleno de la Cámara, para dar\ncuenta de las acciones realizadas por el Gobierno de España en materia de\ninfraestructuras y servicios de transporte como consecuencia de la DANA\nde finales de octubre de 2024.",
+        "officialTitle": "Solicitud de comparecencia, a petición propia, del Ministro de\nTransportes y Movilidad Sostenible ante el Pleno de la Cámara, para dar\ncuenta de las acciones realizadas por el Gobierno de España en materia de\ninfraestructuras y servicios de transporte como consecuencia de la DANA\nde finales de octubre de 2024.",
+        "type": "briefing",
+        "nativeType": "ES-comparecencia"
+      },
+      "dateStart": "2024-12-11T15:07:00+01:00",
+      "dateEnd": "2024-12-11T15:18:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_084/cortes/15_000400_084_1_25571_744048.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1544048I",
+        "duration": 660.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_084_1_25571_744048",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "César Joaquín Ramos Esteban",
+          "lastname": "Ramos Esteban",
+          "firstname": "César Joaquín",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Socialista"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 97
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 87
+      },
+      "agendaItem": {
+        "title": "Solicitud de comparecencia urgente del Ministro de Transportes y\nMovilidad Sostenible ante el Pleno de la Cámara, para informar sobre por\nqué continúa el caos ferroviario en España con el nuevo episodio de\noctubre que afectó a decenas de trenes y miles de pasajeros que quedaron\nabandonados, la falta de coordinación entre RENFE, ADIF y LOGIRAIL y\nconocer el calendario que maneja el Ministerio para revertir los\ncriterios de puntualidad, así como los planes exigidos por el Congreso.",
+        "officialTitle": "Solicitud de comparecencia urgente del Ministro de Transportes y\nMovilidad Sostenible ante el Pleno de la Cámara, para informar sobre por\nqué continúa el caos ferroviario en España con el nuevo episodio de\noctubre que afectó a decenas de trenes y miles de pasajeros que quedaron\nabandonados, la falta de coordinación entre RENFE, ADIF y LOGIRAIL y\nconocer el calendario que maneja el Ministerio para revertir los\ncriterios de puntualidad, así como los planes exigidos por el Congreso.",
+        "type": "briefing",
+        "nativeType": "ES-comparecencia"
+      },
+      "dateStart": "2024-12-11T15:07:00+01:00",
+      "dateEnd": "2024-12-11T15:18:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_084/cortes/15_000400_084_1_25571_744048.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1544048I",
+        "duration": 660.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_084_1_25571_744048",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "César Joaquín Ramos Esteban",
+          "lastname": "Ramos Esteban",
+          "firstname": "César Joaquín",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Socialista"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 98
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 87
+      },
+      "agendaItem": {
+        "title": "Solicitud de comparecencia, a petición propia, del Ministro de\nTransportes y Movilidad Sostenible ante el Pleno de la Cámara, para dar\ncuenta de las acciones realizadas por el Gobierno de España en materia de\ninfraestructuras y servicios de transporte como consecuencia de la DANA\nde finales de octubre de 2024.",
+        "officialTitle": "Solicitud de comparecencia, a petición propia, del Ministro de\nTransportes y Movilidad Sostenible ante el Pleno de la Cámara, para dar\ncuenta de las acciones realizadas por el Gobierno de España en materia de\ninfraestructuras y servicios de transporte como consecuencia de la DANA\nde finales de octubre de 2024.",
+        "type": "briefing",
+        "nativeType": "ES-comparecencia"
+      },
+      "dateStart": "2024-12-11T15:18:00+01:00",
+      "dateEnd": "2024-12-11T16:05:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_084/cortes/15_000400_084_1_25571_744049.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1544049I",
+        "duration": 2820.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_084_1_25571_744049",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Óscar Puente Santiago",
+          "lastname": "Puente Santiago",
+          "firstname": "Óscar",
+          "type": "member of government",
+          "role": "Ministro de Transportes y Movilidad Sostenible",
+          "faction": {
+            "label": "Grupo Parlamentario Socialista"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 99
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 87
+      },
+      "agendaItem": {
+        "title": "Solicitud de comparecencia urgente del Ministro de Transportes y\nMovilidad Sostenible ante el Pleno de la Cámara, para informar sobre por\nqué continúa el caos ferroviario en España con el nuevo episodio de\noctubre que afectó a decenas de trenes y miles de pasajeros que quedaron\nabandonados, la falta de coordinación entre RENFE, ADIF y LOGIRAIL y\nconocer el calendario que maneja el Ministerio para revertir los\ncriterios de puntualidad, así como los planes exigidos por el Congreso.",
+        "officialTitle": "Solicitud de comparecencia urgente del Ministro de Transportes y\nMovilidad Sostenible ante el Pleno de la Cámara, para informar sobre por\nqué continúa el caos ferroviario en España con el nuevo episodio de\noctubre que afectó a decenas de trenes y miles de pasajeros que quedaron\nabandonados, la falta de coordinación entre RENFE, ADIF y LOGIRAIL y\nconocer el calendario que maneja el Ministerio para revertir los\ncriterios de puntualidad, así como los planes exigidos por el Congreso.",
+        "type": "briefing",
+        "nativeType": "ES-comparecencia"
+      },
+      "dateStart": "2024-12-11T15:18:00+01:00",
+      "dateEnd": "2024-12-11T16:05:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_084/cortes/15_000400_084_1_25571_744049.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1544049I",
+        "duration": 2820.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_084_1_25571_744049",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Óscar Puente Santiago",
+          "lastname": "Puente Santiago",
+          "firstname": "Óscar",
+          "type": "member of government",
+          "role": "Ministro de Transportes y Movilidad Sostenible",
+          "faction": {
+            "label": "Grupo Parlamentario Socialista"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 100
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 87
+      },
+      "agendaItem": {
+        "title": "Solicitud de comparecencia, a petición propia, del Ministro de\nTransportes y Movilidad Sostenible ante el Pleno de la Cámara, para dar\ncuenta de las acciones realizadas por el Gobierno de España en materia de\ninfraestructuras y servicios de transporte como consecuencia de la DANA\nde finales de octubre de 2024.",
+        "officialTitle": "Solicitud de comparecencia, a petición propia, del Ministro de\nTransportes y Movilidad Sostenible ante el Pleno de la Cámara, para dar\ncuenta de las acciones realizadas por el Gobierno de España en materia de\ninfraestructuras y servicios de transporte como consecuencia de la DANA\nde finales de octubre de 2024.",
+        "type": "briefing",
+        "nativeType": "ES-comparecencia"
+      },
+      "dateStart": "2024-12-11T16:05:00+01:00",
+      "dateEnd": "2024-12-11T16:13:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_084/cortes/15_000400_084_1_25571_744050.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1544050I",
+        "duration": 480.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_084_1_25571_744050",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Héctor Palencia Rubio",
+          "lastname": "Palencia Rubio",
+          "firstname": "Héctor",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Popular en el Congreso"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 101
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 87
+      },
+      "agendaItem": {
+        "title": "Solicitud de comparecencia urgente del Ministro de Transportes y\nMovilidad Sostenible ante el Pleno de la Cámara, para informar sobre por\nqué continúa el caos ferroviario en España con el nuevo episodio de\noctubre que afectó a decenas de trenes y miles de pasajeros que quedaron\nabandonados, la falta de coordinación entre RENFE, ADIF y LOGIRAIL y\nconocer el calendario que maneja el Ministerio para revertir los\ncriterios de puntualidad, así como los planes exigidos por el Congreso.",
+        "officialTitle": "Solicitud de comparecencia urgente del Ministro de Transportes y\nMovilidad Sostenible ante el Pleno de la Cámara, para informar sobre por\nqué continúa el caos ferroviario en España con el nuevo episodio de\noctubre que afectó a decenas de trenes y miles de pasajeros que quedaron\nabandonados, la falta de coordinación entre RENFE, ADIF y LOGIRAIL y\nconocer el calendario que maneja el Ministerio para revertir los\ncriterios de puntualidad, así como los planes exigidos por el Congreso.",
+        "type": "briefing",
+        "nativeType": "ES-comparecencia"
+      },
+      "dateStart": "2024-12-11T16:05:00+01:00",
+      "dateEnd": "2024-12-11T16:13:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_084/cortes/15_000400_084_1_25571_744050.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1544050I",
+        "duration": 480.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_084_1_25571_744050",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Héctor Palencia Rubio",
+          "lastname": "Palencia Rubio",
+          "firstname": "Héctor",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Popular en el Congreso"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 102
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 87
+      },
+      "agendaItem": {
+        "title": "Solicitud de comparecencia, a petición propia, del Ministro de\nTransportes y Movilidad Sostenible ante el Pleno de la Cámara, para dar\ncuenta de las acciones realizadas por el Gobierno de España en materia de\ninfraestructuras y servicios de transporte como consecuencia de la DANA\nde finales de octubre de 2024.",
+        "officialTitle": "Solicitud de comparecencia, a petición propia, del Ministro de\nTransportes y Movilidad Sostenible ante el Pleno de la Cámara, para dar\ncuenta de las acciones realizadas por el Gobierno de España en materia de\ninfraestructuras y servicios de transporte como consecuencia de la DANA\nde finales de octubre de 2024.",
+        "type": "briefing",
+        "nativeType": "ES-comparecencia"
+      },
+      "dateStart": "2024-12-11T16:13:00+01:00",
+      "dateEnd": "2024-12-11T16:18:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_084/cortes/15_000400_084_1_25571_744051.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1544051I",
+        "duration": 300.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_084_1_25571_744051",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Carina Mejías Sánchez",
+          "lastname": "Mejías Sánchez",
+          "firstname": "Carina",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario VOX"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 103
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 87
+      },
+      "agendaItem": {
+        "title": "Solicitud de comparecencia urgente del Ministro de Transportes y\nMovilidad Sostenible ante el Pleno de la Cámara, para informar sobre por\nqué continúa el caos ferroviario en España con el nuevo episodio de\noctubre que afectó a decenas de trenes y miles de pasajeros que quedaron\nabandonados, la falta de coordinación entre RENFE, ADIF y LOGIRAIL y\nconocer el calendario que maneja el Ministerio para revertir los\ncriterios de puntualidad, así como los planes exigidos por el Congreso.",
+        "officialTitle": "Solicitud de comparecencia urgente del Ministro de Transportes y\nMovilidad Sostenible ante el Pleno de la Cámara, para informar sobre por\nqué continúa el caos ferroviario en España con el nuevo episodio de\noctubre que afectó a decenas de trenes y miles de pasajeros que quedaron\nabandonados, la falta de coordinación entre RENFE, ADIF y LOGIRAIL y\nconocer el calendario que maneja el Ministerio para revertir los\ncriterios de puntualidad, así como los planes exigidos por el Congreso.",
+        "type": "briefing",
+        "nativeType": "ES-comparecencia"
+      },
+      "dateStart": "2024-12-11T16:13:00+01:00",
+      "dateEnd": "2024-12-11T16:18:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_084/cortes/15_000400_084_1_25571_744051.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1544051I",
+        "duration": 300.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_084_1_25571_744051",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Carina Mejías Sánchez",
+          "lastname": "Mejías Sánchez",
+          "firstname": "Carina",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario VOX"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 104
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 87
+      },
+      "agendaItem": {
+        "title": "Solicitud de comparecencia, a petición propia, del Ministro de\nTransportes y Movilidad Sostenible ante el Pleno de la Cámara, para dar\ncuenta de las acciones realizadas por el Gobierno de España en materia de\ninfraestructuras y servicios de transporte como consecuencia de la DANA\nde finales de octubre de 2024.",
+        "officialTitle": "Solicitud de comparecencia, a petición propia, del Ministro de\nTransportes y Movilidad Sostenible ante el Pleno de la Cámara, para dar\ncuenta de las acciones realizadas por el Gobierno de España en materia de\ninfraestructuras y servicios de transporte como consecuencia de la DANA\nde finales de octubre de 2024.",
+        "type": "briefing",
+        "nativeType": "ES-comparecencia"
+      },
+      "dateStart": "2024-12-11T16:18:00+01:00",
+      "dateEnd": "2024-12-11T16:23:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_084/cortes/15_000400_084_1_25571_744052.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1544052I",
+        "duration": 300.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_084_1_25571_744052",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Fèlix Alonso Cantorné",
+          "lastname": "Alonso Cantorné",
+          "firstname": "Fèlix",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Plurinacional SUMAR"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 105
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 87
+      },
+      "agendaItem": {
+        "title": "Solicitud de comparecencia urgente del Ministro de Transportes y\nMovilidad Sostenible ante el Pleno de la Cámara, para informar sobre por\nqué continúa el caos ferroviario en España con el nuevo episodio de\noctubre que afectó a decenas de trenes y miles de pasajeros que quedaron\nabandonados, la falta de coordinación entre RENFE, ADIF y LOGIRAIL y\nconocer el calendario que maneja el Ministerio para revertir los\ncriterios de puntualidad, así como los planes exigidos por el Congreso.",
+        "officialTitle": "Solicitud de comparecencia urgente del Ministro de Transportes y\nMovilidad Sostenible ante el Pleno de la Cámara, para informar sobre por\nqué continúa el caos ferroviario en España con el nuevo episodio de\noctubre que afectó a decenas de trenes y miles de pasajeros que quedaron\nabandonados, la falta de coordinación entre RENFE, ADIF y LOGIRAIL y\nconocer el calendario que maneja el Ministerio para revertir los\ncriterios de puntualidad, así como los planes exigidos por el Congreso.",
+        "type": "briefing",
+        "nativeType": "ES-comparecencia"
+      },
+      "dateStart": "2024-12-11T16:18:00+01:00",
+      "dateEnd": "2024-12-11T16:23:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_084/cortes/15_000400_084_1_25571_744052.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1544052I",
+        "duration": 300.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_084_1_25571_744052",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Fèlix Alonso Cantorné",
+          "lastname": "Alonso Cantorné",
+          "firstname": "Fèlix",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Plurinacional SUMAR"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 106
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 87
+      },
+      "agendaItem": {
+        "title": "Solicitud de comparecencia, a petición propia, del Ministro de\nTransportes y Movilidad Sostenible ante el Pleno de la Cámara, para dar\ncuenta de las acciones realizadas por el Gobierno de España en materia de\ninfraestructuras y servicios de transporte como consecuencia de la DANA\nde finales de octubre de 2024.",
+        "officialTitle": "Solicitud de comparecencia, a petición propia, del Ministro de\nTransportes y Movilidad Sostenible ante el Pleno de la Cámara, para dar\ncuenta de las acciones realizadas por el Gobierno de España en materia de\ninfraestructuras y servicios de transporte como consecuencia de la DANA\nde finales de octubre de 2024.",
+        "type": "briefing",
+        "nativeType": "ES-comparecencia"
+      },
+      "dateStart": "2024-12-11T16:23:00+01:00",
+      "dateEnd": "2024-12-11T16:27:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_084/cortes/15_000400_084_1_25571_744053.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1544053I",
+        "duration": 240.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_084_1_25571_744053",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "César Joaquín Ramos Esteban",
+          "lastname": "Ramos Esteban",
+          "firstname": "César Joaquín",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Socialista"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 107
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 87
+      },
+      "agendaItem": {
+        "title": "Solicitud de comparecencia urgente del Ministro de Transportes y\nMovilidad Sostenible ante el Pleno de la Cámara, para informar sobre por\nqué continúa el caos ferroviario en España con el nuevo episodio de\noctubre que afectó a decenas de trenes y miles de pasajeros que quedaron\nabandonados, la falta de coordinación entre RENFE, ADIF y LOGIRAIL y\nconocer el calendario que maneja el Ministerio para revertir los\ncriterios de puntualidad, así como los planes exigidos por el Congreso.",
+        "officialTitle": "Solicitud de comparecencia urgente del Ministro de Transportes y\nMovilidad Sostenible ante el Pleno de la Cámara, para informar sobre por\nqué continúa el caos ferroviario en España con el nuevo episodio de\noctubre que afectó a decenas de trenes y miles de pasajeros que quedaron\nabandonados, la falta de coordinación entre RENFE, ADIF y LOGIRAIL y\nconocer el calendario que maneja el Ministerio para revertir los\ncriterios de puntualidad, así como los planes exigidos por el Congreso.",
+        "type": "briefing",
+        "nativeType": "ES-comparecencia"
+      },
+      "dateStart": "2024-12-11T16:23:00+01:00",
+      "dateEnd": "2024-12-11T16:27:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_084/cortes/15_000400_084_1_25571_744053.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1544053I",
+        "duration": 240.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_084_1_25571_744053",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "César Joaquín Ramos Esteban",
+          "lastname": "Ramos Esteban",
+          "firstname": "César Joaquín",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Socialista"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 108
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 87
+      },
+      "agendaItem": {
+        "title": "Solicitud de comparecencia, a petición propia, del Ministro de\nTransportes y Movilidad Sostenible ante el Pleno de la Cámara, para dar\ncuenta de las acciones realizadas por el Gobierno de España en materia de\ninfraestructuras y servicios de transporte como consecuencia de la DANA\nde finales de octubre de 2024.",
+        "officialTitle": "Solicitud de comparecencia, a petición propia, del Ministro de\nTransportes y Movilidad Sostenible ante el Pleno de la Cámara, para dar\ncuenta de las acciones realizadas por el Gobierno de España en materia de\ninfraestructuras y servicios de transporte como consecuencia de la DANA\nde finales de octubre de 2024.",
+        "type": "briefing",
+        "nativeType": "ES-comparecencia"
+      },
+      "dateStart": "2024-12-11T16:27:00+01:00",
+      "dateEnd": "2024-12-11T16:35:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_084/cortes/15_000400_084_1_25571_744054.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1544054I",
+        "duration": 480.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_084_1_25571_744054",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Óscar Puente Santiago",
+          "lastname": "Puente Santiago",
+          "firstname": "Óscar",
+          "type": "member of government",
+          "role": "Ministro de Transportes y Movilidad Sostenible",
+          "faction": {
+            "label": "Grupo Parlamentario Socialista"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 109
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 87
+      },
+      "agendaItem": {
+        "title": "Solicitud de comparecencia urgente del Ministro de Transportes y\nMovilidad Sostenible ante el Pleno de la Cámara, para informar sobre por\nqué continúa el caos ferroviario en España con el nuevo episodio de\noctubre que afectó a decenas de trenes y miles de pasajeros que quedaron\nabandonados, la falta de coordinación entre RENFE, ADIF y LOGIRAIL y\nconocer el calendario que maneja el Ministerio para revertir los\ncriterios de puntualidad, así como los planes exigidos por el Congreso.",
+        "officialTitle": "Solicitud de comparecencia urgente del Ministro de Transportes y\nMovilidad Sostenible ante el Pleno de la Cámara, para informar sobre por\nqué continúa el caos ferroviario en España con el nuevo episodio de\noctubre que afectó a decenas de trenes y miles de pasajeros que quedaron\nabandonados, la falta de coordinación entre RENFE, ADIF y LOGIRAIL y\nconocer el calendario que maneja el Ministerio para revertir los\ncriterios de puntualidad, así como los planes exigidos por el Congreso.",
+        "type": "briefing",
+        "nativeType": "ES-comparecencia"
+      },
+      "dateStart": "2024-12-11T16:27:00+01:00",
+      "dateEnd": "2024-12-11T16:35:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_084/cortes/15_000400_084_1_25571_744054.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1544054I",
+        "duration": 480.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_084_1_25571_744054",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Óscar Puente Santiago",
+          "lastname": "Puente Santiago",
+          "firstname": "Óscar",
+          "type": "member of government",
+          "role": "Ministro de Transportes y Movilidad Sostenible",
+          "faction": {
+            "label": "Grupo Parlamentario Socialista"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 110
+    }
+  ]
+}

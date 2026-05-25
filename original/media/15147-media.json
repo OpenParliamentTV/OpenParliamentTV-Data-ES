@@ -1,0 +1,1884 @@
+{
+  "meta": {
+    "session": "15147",
+    "processing": {
+      "parse_media": "2026-05-23T07:17:41"
+    },
+    "dateStart": "2025-10-28T15:05:00+01:00",
+    "dateEnd": "2025-10-28T20:23:00+01:00"
+  },
+  "data": [
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 147
+      },
+      "agendaItem": {
+        "title": "Proposición de Ley relativa a la modificación de la Ley 50/1981, de\n30 de diciembre, por la que se regula el Estatuto Orgánico del Ministerio\nFiscal.",
+        "officialTitle": "Proposición de Ley relativa a la modificación de la Ley 50/1981, de\n30 de diciembre, por la que se regula el Estatuto Orgánico del Ministerio\nFiscal.",
+        "type": "regular",
+        "nativeType": "ES-ley"
+      },
+      "dateStart": "2025-10-28T15:05:00+01:00",
+      "dateEnd": "2025-10-28T15:18:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_142/cortes/15_000400_142_0_26653_762120.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1562120I",
+        "duration": 780.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_142_0_26653_762120",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Concepción Gamarra Ruiz-Clavijo",
+          "lastname": "Gamarra Ruiz-Clavijo",
+          "firstname": "Concepción",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Popular en el Congreso"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 1
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 147
+      },
+      "agendaItem": {
+        "title": "Proposición de Ley relativa a la modificación de la Ley 50/1981, de\n30 de diciembre, por la que se regula el Estatuto Orgánico del Ministerio\nFiscal.",
+        "officialTitle": "Proposición de Ley relativa a la modificación de la Ley 50/1981, de\n30 de diciembre, por la que se regula el Estatuto Orgánico del Ministerio\nFiscal.",
+        "type": "regular",
+        "nativeType": "ES-ley"
+      },
+      "dateStart": "2025-10-28T15:18:00+01:00",
+      "dateEnd": "2025-10-28T15:22:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_142/cortes/15_000400_142_0_26653_762121.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1562121I",
+        "duration": 240.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_142_0_26653_762121",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Alberto Catalán Higueras",
+          "lastname": "Catalán Higueras",
+          "firstname": "Alberto",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Mixto"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 2
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 147
+      },
+      "agendaItem": {
+        "title": "Proposición de Ley relativa a la modificación de la Ley 50/1981, de\n30 de diciembre, por la que se regula el Estatuto Orgánico del Ministerio\nFiscal.",
+        "officialTitle": "Proposición de Ley relativa a la modificación de la Ley 50/1981, de\n30 de diciembre, por la que se regula el Estatuto Orgánico del Ministerio\nFiscal.",
+        "type": "regular",
+        "nativeType": "ES-ley"
+      },
+      "dateStart": "2025-10-28T15:22:00+01:00",
+      "dateEnd": "2025-10-28T15:26:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_142/cortes/15_000400_142_0_26653_762122.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1562122I",
+        "duration": 240.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_142_0_26653_762122",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Martina Velarde Gómez",
+          "lastname": "Velarde Gómez",
+          "firstname": "Martina",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Mixto"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 3
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 147
+      },
+      "agendaItem": {
+        "title": "Proposición de Ley relativa a la modificación de la Ley 50/1981, de\n30 de diciembre, por la que se regula el Estatuto Orgánico del Ministerio\nFiscal.",
+        "officialTitle": "Proposición de Ley relativa a la modificación de la Ley 50/1981, de\n30 de diciembre, por la que se regula el Estatuto Orgánico del Ministerio\nFiscal.",
+        "type": "regular",
+        "nativeType": "ES-ley"
+      },
+      "dateStart": "2025-10-28T15:26:00+01:00",
+      "dateEnd": "2025-10-28T15:32:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_142/cortes/15_000400_142_0_26653_762123.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1562123I",
+        "duration": 360.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_142_0_26653_762123",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Mikel Legarda Uriarte",
+          "lastname": "Legarda Uriarte",
+          "firstname": "Mikel",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Vasco (EAJ-PNV)"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 4
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 147
+      },
+      "agendaItem": {
+        "title": "Proposición de Ley relativa a la modificación de la Ley 50/1981, de\n30 de diciembre, por la que se regula el Estatuto Orgánico del Ministerio\nFiscal.",
+        "officialTitle": "Proposición de Ley relativa a la modificación de la Ley 50/1981, de\n30 de diciembre, por la que se regula el Estatuto Orgánico del Ministerio\nFiscal.",
+        "type": "regular",
+        "nativeType": "ES-ley"
+      },
+      "dateStart": "2025-10-28T15:32:00+01:00",
+      "dateEnd": "2025-10-28T15:41:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_142/cortes/15_000400_142_0_26653_762124.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1562124I",
+        "duration": 540.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_142_0_26653_762124",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Josep Pagès i Massó",
+          "lastname": "Pagès i Massó",
+          "firstname": "Josep",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Junts per Catalunya"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 5
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 147
+      },
+      "agendaItem": {
+        "title": "Proposición de Ley relativa a la modificación de la Ley 50/1981, de\n30 de diciembre, por la que se regula el Estatuto Orgánico del Ministerio\nFiscal.",
+        "officialTitle": "Proposición de Ley relativa a la modificación de la Ley 50/1981, de\n30 de diciembre, por la que se regula el Estatuto Orgánico del Ministerio\nFiscal.",
+        "type": "regular",
+        "nativeType": "ES-ley"
+      },
+      "dateStart": "2025-10-28T15:41:00+01:00",
+      "dateEnd": "2025-10-28T15:49:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_142/cortes/15_000400_142_0_26653_762125.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1562125I",
+        "duration": 480.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_142_0_26653_762125",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Pilar Vallugera Balañà",
+          "lastname": "Vallugera Balañà",
+          "firstname": "Pilar",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Republicano"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 6
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 147
+      },
+      "agendaItem": {
+        "title": "Proposición de Ley relativa a la modificación de la Ley 50/1981, de\n30 de diciembre, por la que se regula el Estatuto Orgánico del Ministerio\nFiscal.",
+        "officialTitle": "Proposición de Ley relativa a la modificación de la Ley 50/1981, de\n30 de diciembre, por la que se regula el Estatuto Orgánico del Ministerio\nFiscal.",
+        "type": "regular",
+        "nativeType": "ES-ley"
+      },
+      "dateStart": "2025-10-28T15:49:00+01:00",
+      "dateEnd": "2025-10-28T15:57:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_142/cortes/15_000400_142_0_26653_762126.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1562126I",
+        "duration": 480.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_142_0_26653_762126",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Enrique Fernando Santiago Romero",
+          "lastname": "Santiago Romero",
+          "firstname": "Enrique Fernando",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Plurinacional SUMAR"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 7
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 147
+      },
+      "agendaItem": {
+        "title": "Proposición de Ley relativa a la modificación de la Ley 50/1981, de\n30 de diciembre, por la que se regula el Estatuto Orgánico del Ministerio\nFiscal.",
+        "officialTitle": "Proposición de Ley relativa a la modificación de la Ley 50/1981, de\n30 de diciembre, por la que se regula el Estatuto Orgánico del Ministerio\nFiscal.",
+        "type": "regular",
+        "nativeType": "ES-ley"
+      },
+      "dateStart": "2025-10-28T15:57:00+01:00",
+      "dateEnd": "2025-10-28T16:09:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_142/cortes/15_000400_142_0_26653_762127.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1562127I",
+        "duration": 720.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_142_0_26653_762127",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "José María Sánchez García",
+          "lastname": "Sánchez García",
+          "firstname": "José María",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario VOX"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 8
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 147
+      },
+      "agendaItem": {
+        "title": "Proposición de Ley relativa a la modificación de la Ley 50/1981, de\n30 de diciembre, por la que se regula el Estatuto Orgánico del Ministerio\nFiscal.",
+        "officialTitle": "Proposición de Ley relativa a la modificación de la Ley 50/1981, de\n30 de diciembre, por la que se regula el Estatuto Orgánico del Ministerio\nFiscal.",
+        "type": "regular",
+        "nativeType": "ES-ley"
+      },
+      "dateStart": "2025-10-28T16:09:00+01:00",
+      "dateEnd": "2025-10-28T16:16:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_142/cortes/15_000400_142_0_26653_762128.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1562128I",
+        "duration": 420.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_142_0_26653_762128",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Francisco Aranda Vargas",
+          "lastname": "Aranda Vargas",
+          "firstname": "Francisco",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Socialista"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 9
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 147
+      },
+      "agendaItem": {
+        "title": "Proposición de Ley sobre el buen uso de las zonas de estacionamiento\nreservadas a las personas con discapacidad.",
+        "officialTitle": "Proposición de Ley sobre el buen uso de las zonas de estacionamiento\nreservadas a las personas con discapacidad.",
+        "type": "regular",
+        "nativeType": "ES-ley"
+      },
+      "dateStart": "2025-10-28T16:17:00+01:00",
+      "dateEnd": "2025-10-28T16:30:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_142/cortes/15_000400_142_0_26653_762130.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1562130I",
+        "duration": 780.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_142_0_26653_762130",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Olvido De la Rosa Baena",
+          "lastname": "De la Rosa Baena",
+          "firstname": "Olvido",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Socialista"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 10
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 147
+      },
+      "agendaItem": {
+        "title": "Proposición de Ley sobre el buen uso de las zonas de estacionamiento\nreservadas a las personas con discapacidad.",
+        "officialTitle": "Proposición de Ley sobre el buen uso de las zonas de estacionamiento\nreservadas a las personas con discapacidad.",
+        "type": "regular",
+        "nativeType": "ES-ley"
+      },
+      "dateStart": "2025-10-28T16:30:00+01:00",
+      "dateEnd": "2025-10-28T16:37:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_142/cortes/15_000400_142_0_26653_762131.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1562131I",
+        "duration": 420.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_142_0_26653_762131",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Cristina Valido García",
+          "lastname": "Valido García",
+          "firstname": "Cristina",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Mixto"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 11
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 147
+      },
+      "agendaItem": {
+        "title": "Proposición de Ley sobre el buen uso de las zonas de estacionamiento\nreservadas a las personas con discapacidad.",
+        "officialTitle": "Proposición de Ley sobre el buen uso de las zonas de estacionamiento\nreservadas a las personas con discapacidad.",
+        "type": "regular",
+        "nativeType": "ES-ley"
+      },
+      "dateStart": "2025-10-28T16:37:00+01:00",
+      "dateEnd": "2025-10-28T16:44:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_142/cortes/15_000400_142_0_26653_762132.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1562132I",
+        "duration": 420.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_142_0_26653_762132",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Nerea Renteria Lasanta",
+          "lastname": "Renteria Lasanta",
+          "firstname": "Nerea",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Vasco (EAJ-PNV)"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 12
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 147
+      },
+      "agendaItem": {
+        "title": "Proposición de Ley sobre el buen uso de las zonas de estacionamiento\nreservadas a las personas con discapacidad.",
+        "officialTitle": "Proposición de Ley sobre el buen uso de las zonas de estacionamiento\nreservadas a las personas con discapacidad.",
+        "type": "regular",
+        "nativeType": "ES-ley"
+      },
+      "dateStart": "2025-10-28T16:44:00+01:00",
+      "dateEnd": "2025-10-28T16:51:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_142/cortes/15_000400_142_0_26653_762133.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1562133I",
+        "duration": 420.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_142_0_26653_762133",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Marta Madrenas i Mir",
+          "lastname": "Madrenas i Mir",
+          "firstname": "Marta",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Junts per Catalunya"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 13
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 147
+      },
+      "agendaItem": {
+        "title": "Proposición de Ley sobre el buen uso de las zonas de estacionamiento\nreservadas a las personas con discapacidad.",
+        "officialTitle": "Proposición de Ley sobre el buen uso de las zonas de estacionamiento\nreservadas a las personas con discapacidad.",
+        "type": "regular",
+        "nativeType": "ES-ley"
+      },
+      "dateStart": "2025-10-28T16:51:00+01:00",
+      "dateEnd": "2025-10-28T16:59:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_142/cortes/15_000400_142_0_26653_762134.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1562134I",
+        "duration": 480.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_142_0_26653_762134",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Inés Granollers Cunillera",
+          "lastname": "Granollers Cunillera",
+          "firstname": "Inés",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Republicano"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 14
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 147
+      },
+      "agendaItem": {
+        "title": "Proposición de Ley sobre el buen uso de las zonas de estacionamiento\nreservadas a las personas con discapacidad.",
+        "officialTitle": "Proposición de Ley sobre el buen uso de las zonas de estacionamiento\nreservadas a las personas con discapacidad.",
+        "type": "regular",
+        "nativeType": "ES-ley"
+      },
+      "dateStart": "2025-10-28T16:59:00+01:00",
+      "dateEnd": "2025-10-28T17:06:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_142/cortes/15_000400_142_0_26653_762135.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1562135I",
+        "duration": 420.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_142_0_26653_762135",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Lander Martínez Hierro",
+          "lastname": "Martínez Hierro",
+          "firstname": "Lander",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Plurinacional SUMAR"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 15
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 147
+      },
+      "agendaItem": {
+        "title": "Proposición de Ley sobre el buen uso de las zonas de estacionamiento\nreservadas a las personas con discapacidad.",
+        "officialTitle": "Proposición de Ley sobre el buen uso de las zonas de estacionamiento\nreservadas a las personas con discapacidad.",
+        "type": "regular",
+        "nativeType": "ES-ley"
+      },
+      "dateStart": "2025-10-28T17:06:00+01:00",
+      "dateEnd": "2025-10-28T17:13:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_142/cortes/15_000400_142_0_26653_762136.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1562136I",
+        "duration": 420.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_142_0_26653_762136",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "María de la Cabeza Ruiz Solás",
+          "lastname": "Ruiz Solás",
+          "firstname": "María de la Cabeza",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario VOX"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 16
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 147
+      },
+      "agendaItem": {
+        "title": "Proposición de Ley sobre el buen uso de las zonas de estacionamiento\nreservadas a las personas con discapacidad.",
+        "officialTitle": "Proposición de Ley sobre el buen uso de las zonas de estacionamiento\nreservadas a las personas con discapacidad.",
+        "type": "regular",
+        "nativeType": "ES-ley"
+      },
+      "dateStart": "2025-10-28T17:13:00+01:00",
+      "dateEnd": "2025-10-28T17:22:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_142/cortes/15_000400_142_0_26653_762137.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1562137I",
+        "duration": 540.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_142_0_26653_762137",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Daniel Pérez Osma",
+          "lastname": "Pérez Osma",
+          "firstname": "Daniel",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Popular en el Congreso"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 17
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 147
+      },
+      "agendaItem": {
+        "title": "Proposición no de Ley para regular el uso de la palabra cáncer.",
+        "officialTitle": "Proposición no de Ley para regular el uso de la palabra cáncer.",
+        "type": "regular"
+      },
+      "dateStart": "2025-10-28T17:22:00+01:00",
+      "dateEnd": "2025-10-28T17:30:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_142/cortes/15_000400_142_0_26653_762140.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1562140I",
+        "duration": 480.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_142_0_26653_762140",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Isaura Leal Fernández",
+          "lastname": "Leal Fernández",
+          "firstname": "Isaura",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Socialista"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 18
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 147
+      },
+      "agendaItem": {
+        "title": "Proposición no de Ley para regular el uso de la palabra cáncer.",
+        "officialTitle": "Proposición no de Ley para regular el uso de la palabra cáncer.",
+        "type": "regular"
+      },
+      "dateStart": "2025-10-28T17:30:00+01:00",
+      "dateEnd": "2025-10-28T17:37:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_142/cortes/15_000400_142_1_26656_762146.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1562146I",
+        "duration": 420.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_142_1_26656_762146",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Blanca Armario González",
+          "lastname": "Armario González",
+          "firstname": "Blanca",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario VOX"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 19
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 147
+      },
+      "agendaItem": {
+        "title": "Proposición no de Ley para regular el uso de la palabra cáncer.",
+        "officialTitle": "Proposición no de Ley para regular el uso de la palabra cáncer.",
+        "type": "regular"
+      },
+      "dateStart": "2025-10-28T17:37:00+01:00",
+      "dateEnd": "2025-10-28T17:43:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_142/cortes/15_000400_142_1_26656_762147.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1562147I",
+        "duration": 360.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_142_1_26656_762147",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Àgueda Micó Micó",
+          "lastname": "Micó Micó",
+          "firstname": "Àgueda",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Mixto"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 20
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 147
+      },
+      "agendaItem": {
+        "title": "Proposición no de Ley para regular el uso de la palabra cáncer.",
+        "officialTitle": "Proposición no de Ley para regular el uso de la palabra cáncer.",
+        "type": "regular"
+      },
+      "dateStart": "2025-10-28T17:43:00+01:00",
+      "dateEnd": "2025-10-28T17:50:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_142/cortes/15_000400_142_1_26656_762148.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1562148I",
+        "duration": 420.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_142_1_26656_762148",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Joseba Andoni Agirretxea Urresti",
+          "lastname": "Agirretxea Urresti",
+          "firstname": "Joseba Andoni",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Vasco (EAJ-PNV)"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 21
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 147
+      },
+      "agendaItem": {
+        "title": "Proposición no de Ley para regular el uso de la palabra cáncer.",
+        "officialTitle": "Proposición no de Ley para regular el uso de la palabra cáncer.",
+        "type": "regular"
+      },
+      "dateStart": "2025-10-28T17:50:00+01:00",
+      "dateEnd": "2025-10-28T17:56:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_142/cortes/15_000400_142_1_26656_762149.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1562149I",
+        "duration": 360.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_142_1_26656_762149",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Etna Estrems Fayos",
+          "lastname": "Estrems Fayos",
+          "firstname": "Etna",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Republicano"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 22
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 147
+      },
+      "agendaItem": {
+        "title": "Proposición no de Ley para regular el uso de la palabra cáncer.",
+        "officialTitle": "Proposición no de Ley para regular el uso de la palabra cáncer.",
+        "type": "regular"
+      },
+      "dateStart": "2025-10-28T17:56:00+01:00",
+      "dateEnd": "2025-10-28T18:03:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_142/cortes/15_000400_142_1_26656_762150.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1562150I",
+        "duration": 420.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_142_1_26656_762150",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Aina Vidal Sáez",
+          "lastname": "Vidal Sáez",
+          "firstname": "Aina",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Plurinacional SUMAR"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 23
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 147
+      },
+      "agendaItem": {
+        "title": "Proposición no de Ley para regular el uso de la palabra cáncer.",
+        "officialTitle": "Proposición no de Ley para regular el uso de la palabra cáncer.",
+        "type": "regular"
+      },
+      "dateStart": "2025-10-28T18:03:00+01:00",
+      "dateEnd": "2025-10-28T18:09:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_142/cortes/15_000400_142_1_26656_762151.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1562151I",
+        "duration": 360.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_142_1_26656_762151",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Elvira Velasco Morillo",
+          "lastname": "Velasco Morillo",
+          "firstname": "Elvira",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Popular en el Congreso"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 24
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 147
+      },
+      "agendaItem": {
+        "title": "Proposición no de Ley relativa al rechazo de la integración de la\nPolítica Agraria Común (PAC) en un fondo presupuestario único de la Unión\nEuropea en defensa de su carácter estratégico, autónomo y nacionalmente\ngestionable.",
+        "officialTitle": "Proposición no de Ley relativa al rechazo de la integración de la\nPolítica Agraria Común (PAC) en un fondo presupuestario único de la Unión\nEuropea en defensa de su carácter estratégico, autónomo y nacionalmente\ngestionable.",
+        "type": "regular"
+      },
+      "dateStart": "2025-10-28T18:10:00+01:00",
+      "dateEnd": "2025-10-28T18:17:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_142/cortes/15_000400_142_1_26656_762153.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1562153I",
+        "duration": 420.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_142_1_26656_762153",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Ricardo Chamorro Delmo",
+          "lastname": "Chamorro Delmo",
+          "firstname": "Ricardo",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario VOX"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 25
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 147
+      },
+      "agendaItem": {
+        "title": "Proposición no de Ley relativa al rechazo de la integración de la\nPolítica Agraria Común (PAC) en un fondo presupuestario único de la Unión\nEuropea en defensa de su carácter estratégico, autónomo y nacionalmente\ngestionable.",
+        "officialTitle": "Proposición no de Ley relativa al rechazo de la integración de la\nPolítica Agraria Común (PAC) en un fondo presupuestario único de la Unión\nEuropea en defensa de su carácter estratégico, autónomo y nacionalmente\ngestionable.",
+        "type": "regular"
+      },
+      "dateStart": "2025-10-28T18:17:00+01:00",
+      "dateEnd": "2025-10-28T18:23:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_142/cortes/15_000400_142_1_26656_762154.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1562154I",
+        "duration": 360.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_142_1_26656_762154",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "María Cuesta Rodríguez",
+          "lastname": "Cuesta Rodríguez",
+          "firstname": "María",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Popular en el Congreso"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 26
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 147
+      },
+      "agendaItem": {
+        "title": "Proposición no de Ley relativa al rechazo de la integración de la\nPolítica Agraria Común (PAC) en un fondo presupuestario único de la Unión\nEuropea en defensa de su carácter estratégico, autónomo y nacionalmente\ngestionable.",
+        "officialTitle": "Proposición no de Ley relativa al rechazo de la integración de la\nPolítica Agraria Común (PAC) en un fondo presupuestario único de la Unión\nEuropea en defensa de su carácter estratégico, autónomo y nacionalmente\ngestionable.",
+        "type": "regular"
+      },
+      "dateStart": "2025-10-28T18:23:00+01:00",
+      "dateEnd": "2025-10-28T18:27:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_142/cortes/15_000400_142_1_26656_762157.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1562157I",
+        "duration": 240.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_142_1_26656_762157",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Cristina Valido García",
+          "lastname": "Valido García",
+          "firstname": "Cristina",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Mixto"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 27
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 147
+      },
+      "agendaItem": {
+        "title": "Proposición no de Ley relativa al rechazo de la integración de la\nPolítica Agraria Común (PAC) en un fondo presupuestario único de la Unión\nEuropea en defensa de su carácter estratégico, autónomo y nacionalmente\ngestionable.",
+        "officialTitle": "Proposición no de Ley relativa al rechazo de la integración de la\nPolítica Agraria Común (PAC) en un fondo presupuestario único de la Unión\nEuropea en defensa de su carácter estratégico, autónomo y nacionalmente\ngestionable.",
+        "type": "regular"
+      },
+      "dateStart": "2025-10-28T18:27:00+01:00",
+      "dateEnd": "2025-10-28T18:30:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_142/cortes/15_000400_142_1_26656_762158.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1562158I",
+        "duration": 180.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_142_1_26656_762158",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Javier Sánchez Serna",
+          "lastname": "Sánchez Serna",
+          "firstname": "Javier",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Mixto"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 28
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 147
+      },
+      "agendaItem": {
+        "title": "Proposición no de Ley relativa al rechazo de la integración de la\nPolítica Agraria Común (PAC) en un fondo presupuestario único de la Unión\nEuropea en defensa de su carácter estratégico, autónomo y nacionalmente\ngestionable.",
+        "officialTitle": "Proposición no de Ley relativa al rechazo de la integración de la\nPolítica Agraria Común (PAC) en un fondo presupuestario único de la Unión\nEuropea en defensa de su carácter estratégico, autónomo y nacionalmente\ngestionable.",
+        "type": "regular"
+      },
+      "dateStart": "2025-10-28T18:30:00+01:00",
+      "dateEnd": "2025-10-28T18:36:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_142/cortes/15_000400_142_1_26656_762159.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1562159I",
+        "duration": 360.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_142_1_26656_762159",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Teresa Jordà i Roura",
+          "lastname": "Jordà i Roura",
+          "firstname": "Teresa",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Republicano"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 29
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 147
+      },
+      "agendaItem": {
+        "title": "Proposición no de Ley relativa al rechazo de la integración de la\nPolítica Agraria Común (PAC) en un fondo presupuestario único de la Unión\nEuropea en defensa de su carácter estratégico, autónomo y nacionalmente\ngestionable.",
+        "officialTitle": "Proposición no de Ley relativa al rechazo de la integración de la\nPolítica Agraria Común (PAC) en un fondo presupuestario único de la Unión\nEuropea en defensa de su carácter estratégico, autónomo y nacionalmente\ngestionable.",
+        "type": "regular"
+      },
+      "dateStart": "2025-10-28T18:36:00+01:00",
+      "dateEnd": "2025-10-28T18:42:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_142/cortes/15_000400_142_1_26656_762160.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1562160I",
+        "duration": 360.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_142_1_26656_762160",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Juan Antonio Valero Morales",
+          "lastname": "Valero Morales",
+          "firstname": "Juan Antonio",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Plurinacional SUMAR"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 30
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 147
+      },
+      "agendaItem": {
+        "title": "Proposición no de Ley relativa al rechazo de la integración de la\nPolítica Agraria Común (PAC) en un fondo presupuestario único de la Unión\nEuropea en defensa de su carácter estratégico, autónomo y nacionalmente\ngestionable.",
+        "officialTitle": "Proposición no de Ley relativa al rechazo de la integración de la\nPolítica Agraria Común (PAC) en un fondo presupuestario único de la Unión\nEuropea en defensa de su carácter estratégico, autónomo y nacionalmente\ngestionable.",
+        "type": "regular"
+      },
+      "dateStart": "2025-10-28T18:42:00+01:00",
+      "dateEnd": "2025-10-28T18:49:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_142/cortes/15_000400_142_1_26656_762161.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1562161I",
+        "duration": 420.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_142_1_26656_762161",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Herminio Rufino Sancho Íñiguez",
+          "lastname": "Sancho Íñiguez",
+          "firstname": "Herminio Rufino",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Socialista"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 31
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 147
+      },
+      "agendaItem": {
+        "title": "Moción consecuencia de interpelación urgente sobre qué medidas está\nponiendo en marcha el Gobierno para solucionar los problemas del \"sistema\nde seguimiento por medios telemáticos de las prohibiciones de\naproximación impuestas en materia de violencia de género y violencia\nsexual\".",
+        "officialTitle": "Moción consecuencia de interpelación urgente sobre qué medidas está\nponiendo en marcha el Gobierno para solucionar los problemas del \"sistema\nde seguimiento por medios telemáticos de las prohibiciones de\naproximación impuestas en materia de violencia de género y violencia\nsexual\".",
+        "type": "regular",
+        "nativeType": "ES-mocion"
+      },
+      "dateStart": "2025-10-28T18:50:00+01:00",
+      "dateEnd": "2025-10-28T18:59:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_142/cortes/15_000400_142_1_26656_762164.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1562164I",
+        "duration": 540.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_142_1_26656_762164",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Rocío Aguirre Gil de Biedma",
+          "lastname": "Aguirre Gil de Biedma",
+          "firstname": "Rocío",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario VOX"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 32
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 147
+      },
+      "agendaItem": {
+        "title": "Moción consecuencia de interpelación urgente sobre qué medidas está\nponiendo en marcha el Gobierno para solucionar los problemas del \"sistema\nde seguimiento por medios telemáticos de las prohibiciones de\naproximación impuestas en materia de violencia de género y violencia\nsexual\".",
+        "officialTitle": "Moción consecuencia de interpelación urgente sobre qué medidas está\nponiendo en marcha el Gobierno para solucionar los problemas del \"sistema\nde seguimiento por medios telemáticos de las prohibiciones de\naproximación impuestas en materia de violencia de género y violencia\nsexual\".",
+        "type": "regular",
+        "nativeType": "ES-mocion"
+      },
+      "dateStart": "2025-10-28T18:59:00+01:00",
+      "dateEnd": "2025-10-28T19:05:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_142/cortes/15_000400_142_1_26656_762165.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1562165I",
+        "duration": 360.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_142_1_26656_762165",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Noemí Santana Perera",
+          "lastname": "Santana Perera",
+          "firstname": "Noemí",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Mixto"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 33
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 147
+      },
+      "agendaItem": {
+        "title": "Moción consecuencia de interpelación urgente sobre qué medidas está\nponiendo en marcha el Gobierno para solucionar los problemas del \"sistema\nde seguimiento por medios telemáticos de las prohibiciones de\naproximación impuestas en materia de violencia de género y violencia\nsexual\".",
+        "officialTitle": "Moción consecuencia de interpelación urgente sobre qué medidas está\nponiendo en marcha el Gobierno para solucionar los problemas del \"sistema\nde seguimiento por medios telemáticos de las prohibiciones de\naproximación impuestas en materia de violencia de género y violencia\nsexual\".",
+        "type": "regular",
+        "nativeType": "ES-mocion"
+      },
+      "dateStart": "2025-10-28T19:05:00+01:00",
+      "dateEnd": "2025-10-28T19:09:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_142/cortes/15_000400_142_1_26656_762166.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1562166I",
+        "duration": 240.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_142_1_26656_762166",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Esther Gil de Reboleño Lastortres",
+          "lastname": "Gil de Reboleño Lastortres",
+          "firstname": "Esther",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Plurinacional SUMAR"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 34
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 147
+      },
+      "agendaItem": {
+        "title": "Moción consecuencia de interpelación urgente sobre qué medidas está\nponiendo en marcha el Gobierno para solucionar los problemas del \"sistema\nde seguimiento por medios telemáticos de las prohibiciones de\naproximación impuestas en materia de violencia de género y violencia\nsexual\".",
+        "officialTitle": "Moción consecuencia de interpelación urgente sobre qué medidas está\nponiendo en marcha el Gobierno para solucionar los problemas del \"sistema\nde seguimiento por medios telemáticos de las prohibiciones de\naproximación impuestas en materia de violencia de género y violencia\nsexual\".",
+        "type": "regular",
+        "nativeType": "ES-mocion"
+      },
+      "dateStart": "2025-10-28T19:09:00+01:00",
+      "dateEnd": "2025-10-28T19:15:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_142/cortes/15_000400_142_1_26656_762167.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1562167I",
+        "duration": 360.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_142_1_26656_762167",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Milena Herrera García",
+          "lastname": "Herrera García",
+          "firstname": "Milena",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Socialista"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 35
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 147
+      },
+      "agendaItem": {
+        "title": "Moción consecuencia de interpelación urgente sobre qué medidas está\nponiendo en marcha el Gobierno para solucionar los problemas del \"sistema\nde seguimiento por medios telemáticos de las prohibiciones de\naproximación impuestas en materia de violencia de género y violencia\nsexual\".",
+        "officialTitle": "Moción consecuencia de interpelación urgente sobre qué medidas está\nponiendo en marcha el Gobierno para solucionar los problemas del \"sistema\nde seguimiento por medios telemáticos de las prohibiciones de\naproximación impuestas en materia de violencia de género y violencia\nsexual\".",
+        "type": "regular",
+        "nativeType": "ES-mocion"
+      },
+      "dateStart": "2025-10-28T19:15:00+01:00",
+      "dateEnd": "2025-10-28T19:22:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_142/cortes/15_000400_142_1_26656_762168.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1562168I",
+        "duration": 420.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_142_1_26656_762168",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Violante Tomás Olivares",
+          "lastname": "Tomás Olivares",
+          "firstname": "Violante",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Popular en el Congreso"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 36
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 147
+      },
+      "agendaItem": {
+        "title": "Moción consecuencia de interpelación urgente sobre las prioridades\ndel Gobierno en materia de cooperación territorial y el desarrollo de los\ncompromisos multilaterales y bilaterales con las Comunidades Autónomas.",
+        "officialTitle": "Moción consecuencia de interpelación urgente sobre las prioridades\ndel Gobierno en materia de cooperación territorial y el desarrollo de los\ncompromisos multilaterales y bilaterales con las Comunidades Autónomas.",
+        "type": "regular",
+        "nativeType": "ES-mocion"
+      },
+      "dateStart": "2025-10-28T19:23:00+01:00",
+      "dateEnd": "2025-10-28T19:31:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_142/cortes/15_000400_142_1_26656_762170.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1562170I",
+        "duration": 480.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_142_1_26656_762170",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Sofía Acedo Reyes",
+          "lastname": "Acedo Reyes",
+          "firstname": "Sofía",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Popular en el Congreso"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 37
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 147
+      },
+      "agendaItem": {
+        "title": "Moción consecuencia de interpelación urgente sobre las prioridades\ndel Gobierno en materia de cooperación territorial y el desarrollo de los\ncompromisos multilaterales y bilaterales con las Comunidades Autónomas.",
+        "officialTitle": "Moción consecuencia de interpelación urgente sobre las prioridades\ndel Gobierno en materia de cooperación territorial y el desarrollo de los\ncompromisos multilaterales y bilaterales con las Comunidades Autónomas.",
+        "type": "regular",
+        "nativeType": "ES-mocion"
+      },
+      "dateStart": "2025-10-28T19:31:00+01:00",
+      "dateEnd": "2025-10-28T19:38:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_142/cortes/15_000400_142_1_26656_762171.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1562171I",
+        "duration": 420.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_142_1_26656_762171",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Rocío De Meer Méndez",
+          "lastname": "De Meer Méndez",
+          "firstname": "Rocío",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario VOX"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 38
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 147
+      },
+      "agendaItem": {
+        "title": "Moción consecuencia de interpelación urgente sobre las prioridades\ndel Gobierno en materia de cooperación territorial y el desarrollo de los\ncompromisos multilaterales y bilaterales con las Comunidades Autónomas.",
+        "officialTitle": "Moción consecuencia de interpelación urgente sobre las prioridades\ndel Gobierno en materia de cooperación territorial y el desarrollo de los\ncompromisos multilaterales y bilaterales con las Comunidades Autónomas.",
+        "type": "regular",
+        "nativeType": "ES-mocion"
+      },
+      "dateStart": "2025-10-28T19:38:00+01:00",
+      "dateEnd": "2025-10-28T19:43:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_142/cortes/15_000400_142_1_26656_762172.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1562172I",
+        "duration": 300.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_142_1_26656_762172",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Àgueda Micó Micó",
+          "lastname": "Micó Micó",
+          "firstname": "Àgueda",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Mixto"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 39
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 147
+      },
+      "agendaItem": {
+        "title": "Moción consecuencia de interpelación urgente sobre las prioridades\ndel Gobierno en materia de cooperación territorial y el desarrollo de los\ncompromisos multilaterales y bilaterales con las Comunidades Autónomas.",
+        "officialTitle": "Moción consecuencia de interpelación urgente sobre las prioridades\ndel Gobierno en materia de cooperación territorial y el desarrollo de los\ncompromisos multilaterales y bilaterales con las Comunidades Autónomas.",
+        "type": "regular",
+        "nativeType": "ES-mocion"
+      },
+      "dateStart": "2025-10-28T19:43:00+01:00",
+      "dateEnd": "2025-10-28T19:47:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_142/cortes/15_000400_142_1_26656_762173.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1562173I",
+        "duration": 240.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_142_1_26656_762173",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Néstor Rego Candamil",
+          "lastname": "Rego Candamil",
+          "firstname": "Néstor",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Mixto"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 40
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 147
+      },
+      "agendaItem": {
+        "title": "Moción consecuencia de interpelación urgente sobre las prioridades\ndel Gobierno en materia de cooperación territorial y el desarrollo de los\ncompromisos multilaterales y bilaterales con las Comunidades Autónomas.",
+        "officialTitle": "Moción consecuencia de interpelación urgente sobre las prioridades\ndel Gobierno en materia de cooperación territorial y el desarrollo de los\ncompromisos multilaterales y bilaterales con las Comunidades Autónomas.",
+        "type": "regular",
+        "nativeType": "ES-mocion"
+      },
+      "dateStart": "2025-10-28T19:47:00+01:00",
+      "dateEnd": "2025-10-28T19:53:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_142/cortes/15_000400_142_1_26656_762174.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1562174I",
+        "duration": 360.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_142_1_26656_762174",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Mikel Legarda Uriarte",
+          "lastname": "Legarda Uriarte",
+          "firstname": "Mikel",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Vasco (EAJ-PNV)"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 41
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 147
+      },
+      "agendaItem": {
+        "title": "Moción consecuencia de interpelación urgente sobre las prioridades\ndel Gobierno en materia de cooperación territorial y el desarrollo de los\ncompromisos multilaterales y bilaterales con las Comunidades Autónomas.",
+        "officialTitle": "Moción consecuencia de interpelación urgente sobre las prioridades\ndel Gobierno en materia de cooperación territorial y el desarrollo de los\ncompromisos multilaterales y bilaterales con las Comunidades Autónomas.",
+        "type": "regular",
+        "nativeType": "ES-mocion"
+      },
+      "dateStart": "2025-10-28T19:53:00+01:00",
+      "dateEnd": "2025-10-28T19:59:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_142/cortes/15_000400_142_1_26656_762175.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1562175I",
+        "duration": 360.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_142_1_26656_762175",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Jon Iñarritu García",
+          "lastname": "Iñarritu García",
+          "firstname": "Jon",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Euskal Herria Bildu"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 42
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 147
+      },
+      "agendaItem": {
+        "title": "Moción consecuencia de interpelación urgente sobre las prioridades\ndel Gobierno en materia de cooperación territorial y el desarrollo de los\ncompromisos multilaterales y bilaterales con las Comunidades Autónomas.",
+        "officialTitle": "Moción consecuencia de interpelación urgente sobre las prioridades\ndel Gobierno en materia de cooperación territorial y el desarrollo de los\ncompromisos multilaterales y bilaterales con las Comunidades Autónomas.",
+        "type": "regular",
+        "nativeType": "ES-mocion"
+      },
+      "dateStart": "2025-10-28T19:59:00+01:00",
+      "dateEnd": "2025-10-28T20:04:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_142/cortes/15_000400_142_1_26656_762176.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1562176I",
+        "duration": 300.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_142_1_26656_762176",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Josep Maria Cervera Pinart",
+          "lastname": "Cervera Pinart",
+          "firstname": "Josep Maria",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Junts per Catalunya"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 43
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 147
+      },
+      "agendaItem": {
+        "title": "Moción consecuencia de interpelación urgente sobre las prioridades\ndel Gobierno en materia de cooperación territorial y el desarrollo de los\ncompromisos multilaterales y bilaterales con las Comunidades Autónomas.",
+        "officialTitle": "Moción consecuencia de interpelación urgente sobre las prioridades\ndel Gobierno en materia de cooperación territorial y el desarrollo de los\ncompromisos multilaterales y bilaterales con las Comunidades Autónomas.",
+        "type": "regular",
+        "nativeType": "ES-mocion"
+      },
+      "dateStart": "2025-10-28T20:04:00+01:00",
+      "dateEnd": "2025-10-28T20:10:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_142/cortes/15_000400_142_1_26656_762177.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1562177I",
+        "duration": 360.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_142_1_26656_762177",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Jordi Salvador i Duch",
+          "lastname": "Salvador i Duch",
+          "firstname": "Jordi",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Republicano"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 44
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 147
+      },
+      "agendaItem": {
+        "title": "Moción consecuencia de interpelación urgente sobre las prioridades\ndel Gobierno en materia de cooperación territorial y el desarrollo de los\ncompromisos multilaterales y bilaterales con las Comunidades Autónomas.",
+        "officialTitle": "Moción consecuencia de interpelación urgente sobre las prioridades\ndel Gobierno en materia de cooperación territorial y el desarrollo de los\ncompromisos multilaterales y bilaterales con las Comunidades Autónomas.",
+        "type": "regular",
+        "nativeType": "ES-mocion"
+      },
+      "dateStart": "2025-10-28T20:10:00+01:00",
+      "dateEnd": "2025-10-28T20:17:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_142/cortes/15_000400_142_1_26656_762178.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1562178I",
+        "duration": 420.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_142_1_26656_762178",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Vicenç Vidal Matas",
+          "lastname": "Vidal Matas",
+          "firstname": "Vicenç",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Plurinacional SUMAR"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 45
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 147
+      },
+      "agendaItem": {
+        "title": "Moción consecuencia de interpelación urgente sobre las prioridades\ndel Gobierno en materia de cooperación territorial y el desarrollo de los\ncompromisos multilaterales y bilaterales con las Comunidades Autónomas.",
+        "officialTitle": "Moción consecuencia de interpelación urgente sobre las prioridades\ndel Gobierno en materia de cooperación territorial y el desarrollo de los\ncompromisos multilaterales y bilaterales con las Comunidades Autónomas.",
+        "type": "regular",
+        "nativeType": "ES-mocion"
+      },
+      "dateStart": "2025-10-28T20:17:00+01:00",
+      "dateEnd": "2025-10-28T20:23:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_142/cortes/15_000400_142_1_26656_762179.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1562179I",
+        "duration": 360.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_142_1_26656_762179",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Juan Francisco Serrano Martínez",
+          "lastname": "Serrano Martínez",
+          "firstname": "Juan Francisco",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Socialista"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 46
+    }
+  ]
+}

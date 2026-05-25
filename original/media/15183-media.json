@@ -1,0 +1,1139 @@
+{
+  "meta": {
+    "session": "15183",
+    "processing": {
+      "parse_media": "2026-05-23T07:17:41"
+    },
+    "dateStart": "2026-04-30T09:02:00+02:00",
+    "dateEnd": "2026-04-30T12:33:00+02:00"
+  },
+  "data": [
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 183
+      },
+      "agendaItem": {
+        "title": "Real Decreto-ley 9/2026, de 14 de abril, de medidas urgentes en\nmateria de transporte.",
+        "officialTitle": "Real Decreto-ley 9/2026, de 14 de abril, de medidas urgentes en\nmateria de transporte.",
+        "type": "regular",
+        "nativeType": "ES-ley"
+      },
+      "dateStart": "2026-04-30T09:02:00+02:00",
+      "dateEnd": "2026-04-30T09:12:00+02:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_177/cortes/15_000400_177_0_27260_772823.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1572823I",
+        "duration": 600.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_177_0_27260_772823",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Arcadi España García",
+          "lastname": "España García",
+          "firstname": "Arcadi",
+          "type": "member of government",
+          "role": "Ministro de Hacienda"
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 1
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 183
+      },
+      "agendaItem": {
+        "title": "Real Decreto-ley 9/2026, de 14 de abril, de medidas urgentes en\nmateria de transporte.",
+        "officialTitle": "Real Decreto-ley 9/2026, de 14 de abril, de medidas urgentes en\nmateria de transporte.",
+        "type": "regular",
+        "nativeType": "ES-ley"
+      },
+      "dateStart": "2026-04-30T09:12:00+02:00",
+      "dateEnd": "2026-04-30T09:15:00+02:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_177/cortes/15_000400_177_0_27260_772824.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1572824I",
+        "duration": 180.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_177_0_27260_772824",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Cristina Valido García",
+          "lastname": "Valido García",
+          "firstname": "Cristina",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Mixto"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 2
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 183
+      },
+      "agendaItem": {
+        "title": "Real Decreto-ley 9/2026, de 14 de abril, de medidas urgentes en\nmateria de transporte.",
+        "officialTitle": "Real Decreto-ley 9/2026, de 14 de abril, de medidas urgentes en\nmateria de transporte.",
+        "type": "regular",
+        "nativeType": "ES-ley"
+      },
+      "dateStart": "2026-04-30T09:15:00+02:00",
+      "dateEnd": "2026-04-30T09:18:00+02:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_177/cortes/15_000400_177_0_27260_772825.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1572825I",
+        "duration": 180.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_177_0_27260_772825",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Néstor Rego Candamil",
+          "lastname": "Rego Candamil",
+          "firstname": "Néstor",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Mixto"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 3
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 183
+      },
+      "agendaItem": {
+        "title": "Real Decreto-ley 9/2026, de 14 de abril, de medidas urgentes en\nmateria de transporte.",
+        "officialTitle": "Real Decreto-ley 9/2026, de 14 de abril, de medidas urgentes en\nmateria de transporte.",
+        "type": "regular",
+        "nativeType": "ES-ley"
+      },
+      "dateStart": "2026-04-30T09:18:00+02:00",
+      "dateEnd": "2026-04-30T09:23:00+02:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_177/cortes/15_000400_177_0_27260_772826.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1572826I",
+        "duration": 300.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_177_0_27260_772826",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Javier Sánchez Serna",
+          "lastname": "Sánchez Serna",
+          "firstname": "Javier",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Mixto"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 4
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 183
+      },
+      "agendaItem": {
+        "title": "Real Decreto-ley 9/2026, de 14 de abril, de medidas urgentes en\nmateria de transporte.",
+        "officialTitle": "Real Decreto-ley 9/2026, de 14 de abril, de medidas urgentes en\nmateria de transporte.",
+        "type": "regular",
+        "nativeType": "ES-ley"
+      },
+      "dateStart": "2026-04-30T09:23:00+02:00",
+      "dateEnd": "2026-04-30T09:28:00+02:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_177/cortes/15_000400_177_0_27260_772827.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1572827I",
+        "duration": 300.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_177_0_27260_772827",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Idoia Sagastizabal Unzetabarrenetxea",
+          "lastname": "Sagastizabal Unzetabarrenetxea",
+          "firstname": "Idoia",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Vasco (EAJ-PNV)"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 5
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 183
+      },
+      "agendaItem": {
+        "title": "Real Decreto-ley 9/2026, de 14 de abril, de medidas urgentes en\nmateria de transporte.",
+        "officialTitle": "Real Decreto-ley 9/2026, de 14 de abril, de medidas urgentes en\nmateria de transporte.",
+        "type": "regular",
+        "nativeType": "ES-ley"
+      },
+      "dateStart": "2026-04-30T09:28:00+02:00",
+      "dateEnd": "2026-04-30T09:36:00+02:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_177/cortes/15_000400_177_0_27260_772828.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1572828I",
+        "duration": 480.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_177_0_27260_772828",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Mikel Otero Gabirondo",
+          "lastname": "Otero Gabirondo",
+          "firstname": "Mikel",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Euskal Herria Bildu"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 6
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 183
+      },
+      "agendaItem": {
+        "title": "Real Decreto-ley 9/2026, de 14 de abril, de medidas urgentes en\nmateria de transporte.",
+        "officialTitle": "Real Decreto-ley 9/2026, de 14 de abril, de medidas urgentes en\nmateria de transporte.",
+        "type": "regular",
+        "nativeType": "ES-ley"
+      },
+      "dateStart": "2026-04-30T09:36:00+02:00",
+      "dateEnd": "2026-04-30T09:44:00+02:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_177/cortes/15_000400_177_0_27260_772829.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1572829I",
+        "duration": 480.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_177_0_27260_772829",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Isidre Gavin i Valls",
+          "lastname": "Gavin i Valls",
+          "firstname": "Isidre",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Junts per Catalunya"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 7
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 183
+      },
+      "agendaItem": {
+        "title": "Real Decreto-ley 9/2026, de 14 de abril, de medidas urgentes en\nmateria de transporte.",
+        "officialTitle": "Real Decreto-ley 9/2026, de 14 de abril, de medidas urgentes en\nmateria de transporte.",
+        "type": "regular",
+        "nativeType": "ES-ley"
+      },
+      "dateStart": "2026-04-30T09:44:00+02:00",
+      "dateEnd": "2026-04-30T09:52:00+02:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_177/cortes/15_000400_177_0_27260_772830.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1572830I",
+        "duration": 480.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_177_0_27260_772830",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Inés Granollers Cunillera",
+          "lastname": "Granollers Cunillera",
+          "firstname": "Inés",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Republicano"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 8
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 183
+      },
+      "agendaItem": {
+        "title": "Real Decreto-ley 9/2026, de 14 de abril, de medidas urgentes en\nmateria de transporte.",
+        "officialTitle": "Real Decreto-ley 9/2026, de 14 de abril, de medidas urgentes en\nmateria de transporte.",
+        "type": "regular",
+        "nativeType": "ES-ley"
+      },
+      "dateStart": "2026-04-30T09:52:00+02:00",
+      "dateEnd": "2026-04-30T09:59:00+02:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_177/cortes/15_000400_177_0_27260_772831.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1572831I",
+        "duration": 420.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_177_0_27260_772831",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Fèlix Alonso Cantorné",
+          "lastname": "Alonso Cantorné",
+          "firstname": "Fèlix",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Plurinacional SUMAR"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 9
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 183
+      },
+      "agendaItem": {
+        "title": "Real Decreto-ley 9/2026, de 14 de abril, de medidas urgentes en\nmateria de transporte.",
+        "officialTitle": "Real Decreto-ley 9/2026, de 14 de abril, de medidas urgentes en\nmateria de transporte.",
+        "type": "regular",
+        "nativeType": "ES-ley"
+      },
+      "dateStart": "2026-04-30T09:59:00+02:00",
+      "dateEnd": "2026-04-30T10:08:00+02:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_177/cortes/15_000400_177_0_27260_772832.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1572832I",
+        "duration": 540.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_177_0_27260_772832",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Carina Mejías Sánchez",
+          "lastname": "Mejías Sánchez",
+          "firstname": "Carina",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario VOX"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 10
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 183
+      },
+      "agendaItem": {
+        "title": "Real Decreto-ley 9/2026, de 14 de abril, de medidas urgentes en\nmateria de transporte.",
+        "officialTitle": "Real Decreto-ley 9/2026, de 14 de abril, de medidas urgentes en\nmateria de transporte.",
+        "type": "regular",
+        "nativeType": "ES-ley"
+      },
+      "dateStart": "2026-04-30T10:08:00+02:00",
+      "dateEnd": "2026-04-30T10:15:00+02:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_177/cortes/15_000400_177_0_27260_772833.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1572833I",
+        "duration": 420.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_177_0_27260_772833",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "César Joaquín Ramos Esteban",
+          "lastname": "Ramos Esteban",
+          "firstname": "César Joaquín",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Socialista"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 11
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 183
+      },
+      "agendaItem": {
+        "title": "Real Decreto-ley 9/2026, de 14 de abril, de medidas urgentes en\nmateria de transporte.",
+        "officialTitle": "Real Decreto-ley 9/2026, de 14 de abril, de medidas urgentes en\nmateria de transporte.",
+        "type": "regular",
+        "nativeType": "ES-ley"
+      },
+      "dateStart": "2026-04-30T10:15:00+02:00",
+      "dateEnd": "2026-04-30T10:24:00+02:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_177/cortes/15_000400_177_0_27260_772834.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1572834I",
+        "duration": 540.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_177_0_27260_772834",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Celso Luis Delgado Arce",
+          "lastname": "Delgado Arce",
+          "firstname": "Celso Luis",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Popular en el Congreso"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 12
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 183
+      },
+      "agendaItem": {
+        "title": "Real Decreto-ley 9/2026, de 14 de abril, de medidas urgentes en\nmateria de transporte.",
+        "officialTitle": "Real Decreto-ley 9/2026, de 14 de abril, de medidas urgentes en\nmateria de transporte.",
+        "type": "regular",
+        "nativeType": "ES-ley"
+      },
+      "dateStart": "2026-04-30T10:24:00+02:00",
+      "dateEnd": "2026-04-30T10:24:00+02:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_177/cortes/15_000400_177_0_27260_772835.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1572835I",
+        "duration": 0.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_177_0_27260_772835",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Arcadi España García",
+          "lastname": "España García",
+          "firstname": "Arcadi",
+          "type": "member of government",
+          "role": "Ministro de Hacienda"
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 13
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 183
+      },
+      "agendaItem": {
+        "title": "Proyecto de reforma del artículo 43 de la Constitución Española.",
+        "officialTitle": "Proyecto de reforma del artículo 43 de la Constitución Española.",
+        "type": "regular"
+      },
+      "dateStart": "2026-04-30T10:24:00+02:00",
+      "dateEnd": "2026-04-30T10:51:00+02:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_177/cortes/15_000400_177_0_27260_772838.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1572838I",
+        "duration": 1620.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_177_0_27260_772838",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Ana María del Carmen Redondo García",
+          "lastname": "Redondo García",
+          "firstname": "Ana María del Carmen",
+          "type": "member of government",
+          "role": "Ministra de Igualdad"
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 14
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 183
+      },
+      "agendaItem": {
+        "title": "Proyecto de reforma del artículo 43 de la Constitución Española.",
+        "officialTitle": "Proyecto de reforma del artículo 43 de la Constitución Española.",
+        "type": "regular"
+      },
+      "dateStart": "2026-04-30T10:51:00+02:00",
+      "dateEnd": "2026-04-30T11:04:00+02:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_177/cortes/15_000400_177_0_27260_772839.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1572839I",
+        "duration": 780.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_177_0_27260_772839",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Joaquín Robles López",
+          "lastname": "Robles López",
+          "firstname": "Joaquín",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario VOX"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 15
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 183
+      },
+      "agendaItem": {
+        "title": "Proyecto de reforma del artículo 43 de la Constitución Española.",
+        "officialTitle": "Proyecto de reforma del artículo 43 de la Constitución Española.",
+        "type": "regular"
+      },
+      "dateStart": "2026-04-30T11:04:00+02:00",
+      "dateEnd": "2026-04-30T11:18:00+02:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_177/cortes/15_000400_177_0_27260_772840.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1572840I",
+        "duration": 840.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_177_0_27260_772840",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Silvia Franco González",
+          "lastname": "Franco González",
+          "firstname": "Silvia",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Popular en el Congreso"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 16
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 183
+      },
+      "agendaItem": {
+        "title": "Proyecto de reforma del artículo 43 de la Constitución Española.",
+        "officialTitle": "Proyecto de reforma del artículo 43 de la Constitución Española.",
+        "type": "regular"
+      },
+      "dateStart": "2026-04-30T11:18:00+02:00",
+      "dateEnd": "2026-04-30T11:32:00+02:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_177/cortes/15_000400_177_0_27260_772841.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1572841I",
+        "duration": 840.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_177_0_27260_772841",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Cristina Narbona Ruiz",
+          "lastname": "Narbona Ruiz",
+          "firstname": "Cristina",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Socialista"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 17
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 183
+      },
+      "agendaItem": {
+        "title": "Proyecto de reforma del artículo 43 de la Constitución Española.",
+        "officialTitle": "Proyecto de reforma del artículo 43 de la Constitución Española.",
+        "type": "regular"
+      },
+      "dateStart": "2026-04-30T11:32:00+02:00",
+      "dateEnd": "2026-04-30T11:38:00+02:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_177/cortes/15_000400_177_0_27260_772842.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1572842I",
+        "duration": 360.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_177_0_27260_772842",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Joaquín Robles López",
+          "lastname": "Robles López",
+          "firstname": "Joaquín",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario VOX"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 18
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 183
+      },
+      "agendaItem": {
+        "title": "Proyecto de reforma del artículo 43 de la Constitución Española.",
+        "officialTitle": "Proyecto de reforma del artículo 43 de la Constitución Española.",
+        "type": "regular"
+      },
+      "dateStart": "2026-04-30T11:38:00+02:00",
+      "dateEnd": "2026-04-30T11:44:00+02:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_177/cortes/15_000400_177_0_27260_772843.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1572843I",
+        "duration": 360.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_177_0_27260_772843",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Silvia Franco González",
+          "lastname": "Franco González",
+          "firstname": "Silvia",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Popular en el Congreso"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 19
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 183
+      },
+      "agendaItem": {
+        "title": "Proyecto de reforma del artículo 43 de la Constitución Española.",
+        "officialTitle": "Proyecto de reforma del artículo 43 de la Constitución Española.",
+        "type": "regular"
+      },
+      "dateStart": "2026-04-30T11:44:00+02:00",
+      "dateEnd": "2026-04-30T11:49:00+02:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_177/cortes/15_000400_177_0_27260_772844.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1572844I",
+        "duration": 300.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_177_0_27260_772844",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Cristina Narbona Ruiz",
+          "lastname": "Narbona Ruiz",
+          "firstname": "Cristina",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Socialista"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 20
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 183
+      },
+      "agendaItem": {
+        "title": "Proyecto de reforma del artículo 43 de la Constitución Española.",
+        "officialTitle": "Proyecto de reforma del artículo 43 de la Constitución Española.",
+        "type": "regular"
+      },
+      "dateStart": "2026-04-30T11:49:00+02:00",
+      "dateEnd": "2026-04-30T11:51:00+02:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_177/cortes/15_000400_177_0_27260_772845.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1572845I",
+        "duration": 120.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_177_0_27260_772845",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Àgueda Micó Micó",
+          "lastname": "Micó Micó",
+          "firstname": "Àgueda",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Mixto"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 21
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 183
+      },
+      "agendaItem": {
+        "title": "Proyecto de reforma del artículo 43 de la Constitución Española.",
+        "officialTitle": "Proyecto de reforma del artículo 43 de la Constitución Española.",
+        "type": "regular"
+      },
+      "dateStart": "2026-04-30T11:51:00+02:00",
+      "dateEnd": "2026-04-30T11:53:00+02:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_177/cortes/15_000400_177_0_27260_772846.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1572846I",
+        "duration": 120.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_177_0_27260_772846",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Alberto Catalán Higueras",
+          "lastname": "Catalán Higueras",
+          "firstname": "Alberto",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Mixto"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 22
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 183
+      },
+      "agendaItem": {
+        "title": "Proyecto de reforma del artículo 43 de la Constitución Española.",
+        "officialTitle": "Proyecto de reforma del artículo 43 de la Constitución Española.",
+        "type": "regular"
+      },
+      "dateStart": "2026-04-30T11:53:00+02:00",
+      "dateEnd": "2026-04-30T11:56:00+02:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_177/cortes/15_000400_177_0_27260_772847.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1572847I",
+        "duration": 180.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_177_0_27260_772847",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Néstor Rego Candamil",
+          "lastname": "Rego Candamil",
+          "firstname": "Néstor",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Mixto"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 23
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 183
+      },
+      "agendaItem": {
+        "title": "Proyecto de reforma del artículo 43 de la Constitución Española.",
+        "officialTitle": "Proyecto de reforma del artículo 43 de la Constitución Española.",
+        "type": "regular"
+      },
+      "dateStart": "2026-04-30T11:56:00+02:00",
+      "dateEnd": "2026-04-30T11:59:00+02:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_177/cortes/15_000400_177_0_27260_772848.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1572848I",
+        "duration": 180.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_177_0_27260_772848",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Ione Belarra Urteaga",
+          "lastname": "Belarra Urteaga",
+          "firstname": "Ione",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Mixto"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 24
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 183
+      },
+      "agendaItem": {
+        "title": "Proyecto de reforma del artículo 43 de la Constitución Española.",
+        "officialTitle": "Proyecto de reforma del artículo 43 de la Constitución Española.",
+        "type": "regular"
+      },
+      "dateStart": "2026-04-30T11:59:00+02:00",
+      "dateEnd": "2026-04-30T12:06:00+02:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_177/cortes/15_000400_177_0_27260_772849.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1572849I",
+        "duration": 420.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_177_0_27260_772849",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Maribel Vaquero Montero",
+          "lastname": "Vaquero Montero",
+          "firstname": "Maribel",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Vasco (EAJ-PNV)"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 25
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 183
+      },
+      "agendaItem": {
+        "title": "Proyecto de reforma del artículo 43 de la Constitución Española.",
+        "officialTitle": "Proyecto de reforma del artículo 43 de la Constitución Española.",
+        "type": "regular"
+      },
+      "dateStart": "2026-04-30T12:06:00+02:00",
+      "dateEnd": "2026-04-30T12:14:00+02:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_177/cortes/15_000400_177_0_27260_772850.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1572850I",
+        "duration": 480.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_177_0_27260_772850",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Pilar Calvo Gómez",
+          "lastname": "Calvo Gómez",
+          "firstname": "Pilar",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Junts per Catalunya"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 26
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 183
+      },
+      "agendaItem": {
+        "title": "Proyecto de reforma del artículo 43 de la Constitución Española.",
+        "officialTitle": "Proyecto de reforma del artículo 43 de la Constitución Española.",
+        "type": "regular"
+      },
+      "dateStart": "2026-04-30T12:14:00+02:00",
+      "dateEnd": "2026-04-30T12:23:00+02:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_177/cortes/15_000400_177_0_27260_772851.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1572851I",
+        "duration": 540.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_177_0_27260_772851",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Pilar Vallugera Balañà",
+          "lastname": "Vallugera Balañà",
+          "firstname": "Pilar",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Republicano"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 27
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 183
+      },
+      "agendaItem": {
+        "title": "Proyecto de reforma del artículo 43 de la Constitución Española.",
+        "officialTitle": "Proyecto de reforma del artículo 43 de la Constitución Española.",
+        "type": "regular"
+      },
+      "dateStart": "2026-04-30T12:23:00+02:00",
+      "dateEnd": "2026-04-30T12:33:00+02:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_177/cortes/15_000400_177_0_27260_772852.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1572852I",
+        "duration": 600.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_177_0_27260_772852",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Verónica Martínez Barbero",
+          "lastname": "Martínez Barbero",
+          "firstname": "Verónica",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Plurinacional SUMAR"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 28
+    }
+  ]
+}

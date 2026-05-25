@@ -1,0 +1,952 @@
+{
+  "meta": {
+    "session": "15061",
+    "processing": {
+      "parse_media": "2026-05-23T07:17:41"
+    },
+    "dateStart": "2024-09-11T13:10:00+02:00",
+    "dateEnd": "2024-09-11T15:19:00+02:00"
+  },
+  "data": [
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 61
+      },
+      "agendaItem": {
+        "title": "Moción consecuencia de interpelación urgente para que el Gobierno dé\ncuenta de las previsiones y compromisos adquiridos en torno a la\nfinanciación autonómica y la defensa de la igualdad entre todos los\nespañoles.",
+        "officialTitle": "Moción consecuencia de interpelación urgente para que el Gobierno dé\ncuenta de las previsiones y compromisos adquiridos en torno a la\nfinanciación autonómica y la defensa de la igualdad entre todos los\nespañoles.",
+        "type": "regular",
+        "nativeType": "ES-mocion"
+      },
+      "dateStart": "2024-09-11T13:10:00+02:00",
+      "dateEnd": "2024-09-11T13:13:00+02:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_058/cortes/15_000400_058_1_25200_737818.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1537818I",
+        "duration": 180.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_058_1_25200_737818",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Cristina Valido García",
+          "lastname": "Valido García",
+          "firstname": "Cristina",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Mixto"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 1
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 61
+      },
+      "agendaItem": {
+        "title": "Moción consecuencia de interpelación urgente para que el Gobierno dé\ncuenta de las previsiones y compromisos adquiridos en torno a la\nfinanciación autonómica y la defensa de la igualdad entre todos los\nespañoles.",
+        "officialTitle": "Moción consecuencia de interpelación urgente para que el Gobierno dé\ncuenta de las previsiones y compromisos adquiridos en torno a la\nfinanciación autonómica y la defensa de la igualdad entre todos los\nespañoles.",
+        "type": "regular",
+        "nativeType": "ES-mocion"
+      },
+      "dateStart": "2024-09-11T13:13:00+02:00",
+      "dateEnd": "2024-09-11T13:16:00+02:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_058/cortes/15_000400_058_1_25200_737819.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1537819I",
+        "duration": 180.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_058_1_25200_737819",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Néstor Rego Candamil",
+          "lastname": "Rego Candamil",
+          "firstname": "Néstor",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Mixto"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 2
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 61
+      },
+      "agendaItem": {
+        "title": "Moción consecuencia de interpelación urgente para que el Gobierno dé\ncuenta de las previsiones y compromisos adquiridos en torno a la\nfinanciación autonómica y la defensa de la igualdad entre todos los\nespañoles.",
+        "officialTitle": "Moción consecuencia de interpelación urgente para que el Gobierno dé\ncuenta de las previsiones y compromisos adquiridos en torno a la\nfinanciación autonómica y la defensa de la igualdad entre todos los\nespañoles.",
+        "type": "regular",
+        "nativeType": "ES-mocion"
+      },
+      "dateStart": "2024-09-11T13:16:00+02:00",
+      "dateEnd": "2024-09-11T13:21:00+02:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_058/cortes/15_000400_058_1_25200_737820.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1537820I",
+        "duration": 300.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_058_1_25200_737820",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Martina Velarde Gómez",
+          "lastname": "Velarde Gómez",
+          "firstname": "Martina",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Mixto"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 3
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 61
+      },
+      "agendaItem": {
+        "title": "Moción consecuencia de interpelación urgente para que el Gobierno dé\ncuenta de las previsiones y compromisos adquiridos en torno a la\nfinanciación autonómica y la defensa de la igualdad entre todos los\nespañoles.",
+        "officialTitle": "Moción consecuencia de interpelación urgente para que el Gobierno dé\ncuenta de las previsiones y compromisos adquiridos en torno a la\nfinanciación autonómica y la defensa de la igualdad entre todos los\nespañoles.",
+        "type": "regular",
+        "nativeType": "ES-mocion"
+      },
+      "dateStart": "2024-09-11T13:21:00+02:00",
+      "dateEnd": "2024-09-11T13:28:00+02:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_058/cortes/15_000400_058_1_25200_737821.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1537821I",
+        "duration": 420.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_058_1_25200_737821",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Jacobo González-Robatto Perote",
+          "lastname": "González-Robatto Perote",
+          "firstname": "Jacobo",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario VOX"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 4
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 61
+      },
+      "agendaItem": {
+        "title": "Moción consecuencia de interpelación urgente para que el Gobierno dé\ncuenta de las previsiones y compromisos adquiridos en torno a la\nfinanciación autonómica y la defensa de la igualdad entre todos los\nespañoles.",
+        "officialTitle": "Moción consecuencia de interpelación urgente para que el Gobierno dé\ncuenta de las previsiones y compromisos adquiridos en torno a la\nfinanciación autonómica y la defensa de la igualdad entre todos los\nespañoles.",
+        "type": "regular",
+        "nativeType": "ES-mocion"
+      },
+      "dateStart": "2024-09-11T13:28:00+02:00",
+      "dateEnd": "2024-09-11T13:34:00+02:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_058/cortes/15_000400_058_1_25200_737822.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1537822I",
+        "duration": 360.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_058_1_25200_737822",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Idoia Sagastizabal Unzetabarrenetxea",
+          "lastname": "Sagastizabal Unzetabarrenetxea",
+          "firstname": "Idoia",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Vasco (EAJ-PNV)"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 5
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 61
+      },
+      "agendaItem": {
+        "title": "Moción consecuencia de interpelación urgente para que el Gobierno dé\ncuenta de las previsiones y compromisos adquiridos en torno a la\nfinanciación autonómica y la defensa de la igualdad entre todos los\nespañoles.",
+        "officialTitle": "Moción consecuencia de interpelación urgente para que el Gobierno dé\ncuenta de las previsiones y compromisos adquiridos en torno a la\nfinanciación autonómica y la defensa de la igualdad entre todos los\nespañoles.",
+        "type": "regular",
+        "nativeType": "ES-mocion"
+      },
+      "dateStart": "2024-09-11T13:34:00+02:00",
+      "dateEnd": "2024-09-11T13:40:00+02:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_058/cortes/15_000400_058_1_25200_737823.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1537823I",
+        "duration": 360.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_058_1_25200_737823",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Teresa Jordà i Roura",
+          "lastname": "Jordà i Roura",
+          "firstname": "Teresa",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Republicano"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 6
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 61
+      },
+      "agendaItem": {
+        "title": "Moción consecuencia de interpelación urgente para que el Gobierno dé\ncuenta de las previsiones y compromisos adquiridos en torno a la\nfinanciación autonómica y la defensa de la igualdad entre todos los\nespañoles.",
+        "officialTitle": "Moción consecuencia de interpelación urgente para que el Gobierno dé\ncuenta de las previsiones y compromisos adquiridos en torno a la\nfinanciación autonómica y la defensa de la igualdad entre todos los\nespañoles.",
+        "type": "regular",
+        "nativeType": "ES-mocion"
+      },
+      "dateStart": "2024-09-11T13:40:00+02:00",
+      "dateEnd": "2024-09-11T13:46:00+02:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_058/cortes/15_000400_058_1_25200_737824.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1537824I",
+        "duration": 360.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_058_1_25200_737824",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Àgueda Micó Micó",
+          "lastname": "Micó Micó",
+          "firstname": "Àgueda",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Plurinacional SUMAR"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 7
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 61
+      },
+      "agendaItem": {
+        "title": "Moción consecuencia de interpelación urgente para que el Gobierno dé\ncuenta de las previsiones y compromisos adquiridos en torno a la\nfinanciación autonómica y la defensa de la igualdad entre todos los\nespañoles.",
+        "officialTitle": "Moción consecuencia de interpelación urgente para que el Gobierno dé\ncuenta de las previsiones y compromisos adquiridos en torno a la\nfinanciación autonómica y la defensa de la igualdad entre todos los\nespañoles.",
+        "type": "regular",
+        "nativeType": "ES-mocion"
+      },
+      "dateStart": "2024-09-11T13:46:00+02:00",
+      "dateEnd": "2024-09-11T13:53:00+02:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_058/cortes/15_000400_058_1_25200_737825.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1537825I",
+        "duration": 420.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_058_1_25200_737825",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Alicia Álvarez González",
+          "lastname": "Álvarez González",
+          "firstname": "Alicia",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Socialista"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 8
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 61
+      },
+      "agendaItem": {
+        "title": "Moción consecuencia de interpelación urgente para que el Gobierno dé\ncuenta de las previsiones y compromisos adquiridos en torno a la\nfinanciación autonómica y la defensa de la igualdad entre todos los\nespañoles.",
+        "officialTitle": "Moción consecuencia de interpelación urgente para que el Gobierno dé\ncuenta de las previsiones y compromisos adquiridos en torno a la\nfinanciación autonómica y la defensa de la igualdad entre todos los\nespañoles.",
+        "type": "regular",
+        "nativeType": "ES-mocion"
+      },
+      "dateStart": "2024-09-11T13:53:00+02:00",
+      "dateEnd": "2024-09-11T13:53:00+02:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_058/cortes/15_000400_058_1_25200_737826.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1537826I",
+        "duration": 0.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_058_1_25200_737826",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Juan Bravo Baena",
+          "lastname": "Bravo Baena",
+          "firstname": "Juan",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Popular en el Congreso"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 9
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 61
+      },
+      "agendaItem": {
+        "title": "Moción consecuencia de interpelación urgente sobre la necesidad de\nreducir el tiempo de trabajo durante toda la vida laboral.",
+        "officialTitle": "Moción consecuencia de interpelación urgente sobre la necesidad de\nreducir el tiempo de trabajo durante toda la vida laboral.",
+        "type": "regular",
+        "nativeType": "ES-mocion"
+      },
+      "dateStart": "2024-09-11T13:54:00+02:00",
+      "dateEnd": "2024-09-11T14:02:00+02:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_058/cortes/15_000400_058_1_25200_737828.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1537828I",
+        "duration": 480.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_058_1_25200_737828",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Jordi Salvador i Duch",
+          "lastname": "Salvador i Duch",
+          "firstname": "Jordi",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Republicano"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 10
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 61
+      },
+      "agendaItem": {
+        "title": "Moción consecuencia de interpelación urgente sobre la necesidad de\nreducir el tiempo de trabajo durante toda la vida laboral.",
+        "officialTitle": "Moción consecuencia de interpelación urgente sobre la necesidad de\nreducir el tiempo de trabajo durante toda la vida laboral.",
+        "type": "regular",
+        "nativeType": "ES-mocion"
+      },
+      "dateStart": "2024-09-11T14:02:00+02:00",
+      "dateEnd": "2024-09-11T14:09:00+02:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_058/cortes/15_000400_058_1_25200_737829.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1537829I",
+        "duration": 420.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_058_1_25200_737829",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Aina Vidal Sáez",
+          "lastname": "Vidal Sáez",
+          "firstname": "Aina",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Plurinacional SUMAR"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 11
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 61
+      },
+      "agendaItem": {
+        "title": "Moción consecuencia de interpelación urgente sobre la necesidad de\nreducir el tiempo de trabajo durante toda la vida laboral.",
+        "officialTitle": "Moción consecuencia de interpelación urgente sobre la necesidad de\nreducir el tiempo de trabajo durante toda la vida laboral.",
+        "type": "regular",
+        "nativeType": "ES-mocion"
+      },
+      "dateStart": "2024-09-11T14:09:00+02:00",
+      "dateEnd": "2024-09-11T14:15:00+02:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_058/cortes/15_000400_058_1_25200_737830.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1537830I",
+        "duration": 360.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_058_1_25200_737830",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Ada Santana Aguilera",
+          "lastname": "Santana Aguilera",
+          "firstname": "Ada",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Socialista"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 12
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 61
+      },
+      "agendaItem": {
+        "title": "Moción consecuencia de interpelación urgente sobre la necesidad de\nreducir el tiempo de trabajo durante toda la vida laboral.",
+        "officialTitle": "Moción consecuencia de interpelación urgente sobre la necesidad de\nreducir el tiempo de trabajo durante toda la vida laboral.",
+        "type": "regular",
+        "nativeType": "ES-mocion"
+      },
+      "dateStart": "2024-09-11T14:15:00+02:00",
+      "dateEnd": "2024-09-11T14:18:00+02:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_058/cortes/15_000400_058_1_25200_737831.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1537831I",
+        "duration": 180.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_058_1_25200_737831",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Néstor Rego Candamil",
+          "lastname": "Rego Candamil",
+          "firstname": "Néstor",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Mixto"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 13
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 61
+      },
+      "agendaItem": {
+        "title": "Moción consecuencia de interpelación urgente sobre la necesidad de\nreducir el tiempo de trabajo durante toda la vida laboral.",
+        "officialTitle": "Moción consecuencia de interpelación urgente sobre la necesidad de\nreducir el tiempo de trabajo durante toda la vida laboral.",
+        "type": "regular",
+        "nativeType": "ES-mocion"
+      },
+      "dateStart": "2024-09-11T14:18:00+02:00",
+      "dateEnd": "2024-09-11T14:22:00+02:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_058/cortes/15_000400_058_1_25200_737832.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1537832I",
+        "duration": 240.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_058_1_25200_737832",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Noemí Santana Perera",
+          "lastname": "Santana Perera",
+          "firstname": "Noemí",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Mixto"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 14
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 61
+      },
+      "agendaItem": {
+        "title": "Moción consecuencia de interpelación urgente sobre la necesidad de\nreducir el tiempo de trabajo durante toda la vida laboral.",
+        "officialTitle": "Moción consecuencia de interpelación urgente sobre la necesidad de\nreducir el tiempo de trabajo durante toda la vida laboral.",
+        "type": "regular",
+        "nativeType": "ES-mocion"
+      },
+      "dateStart": "2024-09-11T14:22:00+02:00",
+      "dateEnd": "2024-09-11T14:29:00+02:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_058/cortes/15_000400_058_1_25200_737833.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1537833I",
+        "duration": 420.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_058_1_25200_737833",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Idoia Sagastizabal Unzetabarrenetxea",
+          "lastname": "Sagastizabal Unzetabarrenetxea",
+          "firstname": "Idoia",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Vasco (EAJ-PNV)"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 15
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 61
+      },
+      "agendaItem": {
+        "title": "Moción consecuencia de interpelación urgente sobre la necesidad de\nreducir el tiempo de trabajo durante toda la vida laboral.",
+        "officialTitle": "Moción consecuencia de interpelación urgente sobre la necesidad de\nreducir el tiempo de trabajo durante toda la vida laboral.",
+        "type": "regular",
+        "nativeType": "ES-mocion"
+      },
+      "dateStart": "2024-09-11T14:29:00+02:00",
+      "dateEnd": "2024-09-11T14:34:00+02:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_058/cortes/15_000400_058_1_25200_737834.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1537834I",
+        "duration": 300.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_058_1_25200_737834",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Oskar Matute García de Jalón",
+          "lastname": "Matute García de Jalón",
+          "firstname": "Oskar",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Euskal Herria Bildu"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 16
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 61
+      },
+      "agendaItem": {
+        "title": "Moción consecuencia de interpelación urgente sobre la necesidad de\nreducir el tiempo de trabajo durante toda la vida laboral.",
+        "officialTitle": "Moción consecuencia de interpelación urgente sobre la necesidad de\nreducir el tiempo de trabajo durante toda la vida laboral.",
+        "type": "regular",
+        "nativeType": "ES-mocion"
+      },
+      "dateStart": "2024-09-11T14:34:00+02:00",
+      "dateEnd": "2024-09-11T14:41:00+02:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_058/cortes/15_000400_058_1_25200_737835.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1537835I",
+        "duration": 420.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_058_1_25200_737835",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Juan José Aizcorbe Torra",
+          "lastname": "Aizcorbe Torra",
+          "firstname": "Juan José",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario VOX"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 17
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 61
+      },
+      "agendaItem": {
+        "title": "Moción consecuencia de interpelación urgente sobre la necesidad de\nreducir el tiempo de trabajo durante toda la vida laboral.",
+        "officialTitle": "Moción consecuencia de interpelación urgente sobre la necesidad de\nreducir el tiempo de trabajo durante toda la vida laboral.",
+        "type": "regular",
+        "nativeType": "ES-mocion"
+      },
+      "dateStart": "2024-09-11T14:41:00+02:00",
+      "dateEnd": "2024-09-11T14:47:00+02:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_058/cortes/15_000400_058_1_25200_737836.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1537836I",
+        "duration": 360.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_058_1_25200_737836",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "María Mercedes Fernández González",
+          "lastname": "Fernández González",
+          "firstname": "María Mercedes",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Popular en el Congreso"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 18
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 61
+      },
+      "agendaItem": {
+        "title": "Declaración institucional",
+        "officialTitle": "Declaración institucional",
+        "type": "government_declaration",
+        "nativeType": "ES-declaracion_institucional"
+      },
+      "dateStart": "2024-09-11T14:48:00+02:00",
+      "dateEnd": "2024-09-11T14:50:00+02:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_058/cortes/15_000400_058_1_25200_737838.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1537838I",
+        "duration": 120.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_058_1_25200_737838",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Gerardo Pisarello Prados",
+          "lastname": "Pisarello Prados",
+          "firstname": "Gerardo",
+          "type": "person",
+          "role": "Secretario primero de la Mesa del Congreso de los Diputados",
+          "faction": {
+            "label": "Grupo Parlamentario Plurinacional SUMAR"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 19
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 61
+      },
+      "agendaItem": {
+        "title": "Solicitud de creación de una Subcomisión, en el seno de la Comisión\nde Igualdad, relativa a la lucha contra los discursos de odio.",
+        "officialTitle": "Solicitud de creación de una Subcomisión, en el seno de la Comisión\nde Igualdad, relativa a la lucha contra los discursos de odio.",
+        "type": "regular"
+      },
+      "dateStart": "2024-09-11T15:01:00+02:00",
+      "dateEnd": "2024-09-11T15:06:00+02:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_058/cortes/15_000400_058_1_25200_737845.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1537845I",
+        "duration": 300.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_058_1_25200_737845",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Engracia Rivera Arias",
+          "lastname": "Rivera Arias",
+          "firstname": "Engracia",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Plurinacional SUMAR"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 20
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 61
+      },
+      "agendaItem": {
+        "title": "Solicitud de creación de una Subcomisión, en el seno de la Comisión\nde Igualdad, relativa a la lucha contra los discursos de odio.",
+        "officialTitle": "Solicitud de creación de una Subcomisión, en el seno de la Comisión\nde Igualdad, relativa a la lucha contra los discursos de odio.",
+        "type": "regular"
+      },
+      "dateStart": "2024-09-11T15:06:00+02:00",
+      "dateEnd": "2024-09-11T15:09:00+02:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_058/cortes/15_000400_058_1_25200_737847.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1537847I",
+        "duration": 180.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_058_1_25200_737847",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Manuel Mariscal Zabala",
+          "lastname": "Mariscal Zabala",
+          "firstname": "Manuel",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario VOX"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 21
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 61
+      },
+      "agendaItem": {
+        "title": "Solicitud de creación de una Subcomisión, en el seno de la Comisión\nde Igualdad, relativa a la lucha contra los discursos de odio.",
+        "officialTitle": "Solicitud de creación de una Subcomisión, en el seno de la Comisión\nde Igualdad, relativa a la lucha contra los discursos de odio.",
+        "type": "regular"
+      },
+      "dateStart": "2024-09-11T15:09:00+02:00",
+      "dateEnd": "2024-09-11T15:15:00+02:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_058/cortes/15_000400_058_1_25200_737848.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1537848I",
+        "duration": 360.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_058_1_25200_737848",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Víctor Gutiérrez Santiago",
+          "lastname": "Gutiérrez Santiago",
+          "firstname": "Víctor",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Socialista"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 22
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 61
+      },
+      "agendaItem": {
+        "title": "Solicitud de creación de una Subcomisión, en el seno de la Comisión\nde Igualdad, relativa a la lucha contra los discursos de odio.",
+        "officialTitle": "Solicitud de creación de una Subcomisión, en el seno de la Comisión\nde Igualdad, relativa a la lucha contra los discursos de odio.",
+        "type": "regular"
+      },
+      "dateStart": "2024-09-11T15:15:00+02:00",
+      "dateEnd": "2024-09-11T15:19:00+02:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_058/cortes/15_000400_058_1_25200_737849.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1537849I",
+        "duration": 240.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_058_1_25200_737849",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Patricia Rodríguez Calleja",
+          "lastname": "Rodríguez Calleja",
+          "firstname": "Patricia",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Popular en el Congreso"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 23
+    }
+  ]
+}

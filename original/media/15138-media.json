@@ -1,0 +1,2087 @@
+{
+  "meta": {
+    "session": "15138",
+    "processing": {
+      "parse_media": "2026-05-23T07:17:41"
+    },
+    "dateStart": "2025-09-23T15:05:00+02:00",
+    "dateEnd": "2025-09-23T21:02:00+02:00"
+  },
+  "data": [
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 138
+      },
+      "agendaItem": {
+        "title": "Proposición de Ley Orgánica de delegación en la Comunidad Autónoma de\nCataluña de competencias estatales en materia de inmigración.",
+        "officialTitle": "Proposición de Ley Orgánica de delegación en la Comunidad Autónoma de\nCataluña de competencias estatales en materia de inmigración.",
+        "type": "regular",
+        "nativeType": "ES-ley"
+      },
+      "dateStart": "2025-09-23T15:05:00+02:00",
+      "dateEnd": "2025-09-23T15:18:00+02:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_133/cortes/15_000400_133_0_26516_759107.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1559107I",
+        "duration": 780.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_133_0_26516_759107",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "José Zaragoza Alonso",
+          "lastname": "Zaragoza Alonso",
+          "firstname": "José",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Socialista"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 1
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 138
+      },
+      "agendaItem": {
+        "title": "Proposición de Ley Orgánica de delegación en la Comunidad Autónoma de\nCataluña de competencias estatales en materia de inmigración.",
+        "officialTitle": "Proposición de Ley Orgánica de delegación en la Comunidad Autónoma de\nCataluña de competencias estatales en materia de inmigración.",
+        "type": "regular",
+        "nativeType": "ES-ley"
+      },
+      "dateStart": "2025-09-23T15:18:00+02:00",
+      "dateEnd": "2025-09-23T15:30:00+02:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_133/cortes/15_000400_133_0_26516_759109.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1559109I",
+        "duration": 720.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_133_0_26516_759109",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Míriam Nogueras i Camero",
+          "lastname": "Nogueras i Camero",
+          "firstname": "Míriam",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Junts per Catalunya"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 2
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 138
+      },
+      "agendaItem": {
+        "title": "Proposición de Ley Orgánica de delegación en la Comunidad Autónoma de\nCataluña de competencias estatales en materia de inmigración.",
+        "officialTitle": "Proposición de Ley Orgánica de delegación en la Comunidad Autónoma de\nCataluña de competencias estatales en materia de inmigración.",
+        "type": "regular",
+        "nativeType": "ES-ley"
+      },
+      "dateStart": "2025-09-23T15:30:00+02:00",
+      "dateEnd": "2025-09-23T15:45:00+02:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_133/cortes/15_000400_133_0_26516_759110.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1559110I",
+        "duration": 900.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_133_0_26516_759110",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Nacho Martín Blanco",
+          "lastname": "Martín Blanco",
+          "firstname": "Nacho",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Popular en el Congreso"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 3
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 138
+      },
+      "agendaItem": {
+        "title": "Proposición de Ley Orgánica de delegación en la Comunidad Autónoma de\nCataluña de competencias estatales en materia de inmigración.",
+        "officialTitle": "Proposición de Ley Orgánica de delegación en la Comunidad Autónoma de\nCataluña de competencias estatales en materia de inmigración.",
+        "type": "regular",
+        "nativeType": "ES-ley"
+      },
+      "dateStart": "2025-09-23T15:45:00+02:00",
+      "dateEnd": "2025-09-23T15:51:00+02:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_133/cortes/15_000400_133_0_26516_759111.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1559111I",
+        "duration": 360.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_133_0_26516_759111",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "José Zaragoza Alonso",
+          "lastname": "Zaragoza Alonso",
+          "firstname": "José",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Socialista"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 4
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 138
+      },
+      "agendaItem": {
+        "title": "Proposición de Ley Orgánica de delegación en la Comunidad Autónoma de\nCataluña de competencias estatales en materia de inmigración.",
+        "officialTitle": "Proposición de Ley Orgánica de delegación en la Comunidad Autónoma de\nCataluña de competencias estatales en materia de inmigración.",
+        "type": "regular",
+        "nativeType": "ES-ley"
+      },
+      "dateStart": "2025-09-23T15:51:00+02:00",
+      "dateEnd": "2025-09-23T15:57:00+02:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_133/cortes/15_000400_133_0_26516_759112.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1559112I",
+        "duration": 360.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_133_0_26516_759112",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Nacho Martín Blanco",
+          "lastname": "Martín Blanco",
+          "firstname": "Nacho",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Popular en el Congreso"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 5
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 138
+      },
+      "agendaItem": {
+        "title": "Proposición de Ley Orgánica de delegación en la Comunidad Autónoma de\nCataluña de competencias estatales en materia de inmigración.",
+        "officialTitle": "Proposición de Ley Orgánica de delegación en la Comunidad Autónoma de\nCataluña de competencias estatales en materia de inmigración.",
+        "type": "regular",
+        "nativeType": "ES-ley"
+      },
+      "dateStart": "2025-09-23T15:57:00+02:00",
+      "dateEnd": "2025-09-23T16:00:00+02:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_133/cortes/15_000400_133_0_26516_759113.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1559113I",
+        "duration": 180.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_133_0_26516_759113",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Àgueda Micó Micó",
+          "lastname": "Micó Micó",
+          "firstname": "Àgueda",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Mixto"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 6
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 138
+      },
+      "agendaItem": {
+        "title": "Proposición de Ley Orgánica de delegación en la Comunidad Autónoma de\nCataluña de competencias estatales en materia de inmigración.",
+        "officialTitle": "Proposición de Ley Orgánica de delegación en la Comunidad Autónoma de\nCataluña de competencias estatales en materia de inmigración.",
+        "type": "regular",
+        "nativeType": "ES-ley"
+      },
+      "dateStart": "2025-09-23T16:00:00+02:00",
+      "dateEnd": "2025-09-23T16:02:00+02:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_133/cortes/15_000400_133_0_26516_759114.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1559114I",
+        "duration": 120.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_133_0_26516_759114",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Alberto Catalán Higueras",
+          "lastname": "Catalán Higueras",
+          "firstname": "Alberto",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Mixto"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 7
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 138
+      },
+      "agendaItem": {
+        "title": "Proposición de Ley Orgánica de delegación en la Comunidad Autónoma de\nCataluña de competencias estatales en materia de inmigración.",
+        "officialTitle": "Proposición de Ley Orgánica de delegación en la Comunidad Autónoma de\nCataluña de competencias estatales en materia de inmigración.",
+        "type": "regular",
+        "nativeType": "ES-ley"
+      },
+      "dateStart": "2025-09-23T16:02:00+02:00",
+      "dateEnd": "2025-09-23T16:05:00+02:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_133/cortes/15_000400_133_0_26516_759115.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1559115I",
+        "duration": 180.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_133_0_26516_759115",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Néstor Rego Candamil",
+          "lastname": "Rego Candamil",
+          "firstname": "Néstor",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Mixto"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 8
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 138
+      },
+      "agendaItem": {
+        "title": "Proposición de Ley Orgánica de delegación en la Comunidad Autónoma de\nCataluña de competencias estatales en materia de inmigración.",
+        "officialTitle": "Proposición de Ley Orgánica de delegación en la Comunidad Autónoma de\nCataluña de competencias estatales en materia de inmigración.",
+        "type": "regular",
+        "nativeType": "ES-ley"
+      },
+      "dateStart": "2025-09-23T16:05:00+02:00",
+      "dateEnd": "2025-09-23T16:09:00+02:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_133/cortes/15_000400_133_0_26516_759116.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1559116I",
+        "duration": 240.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_133_0_26516_759116",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Javier Sánchez Serna",
+          "lastname": "Sánchez Serna",
+          "firstname": "Javier",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Mixto"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 9
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 138
+      },
+      "agendaItem": {
+        "title": "Proposición de Ley Orgánica de delegación en la Comunidad Autónoma de\nCataluña de competencias estatales en materia de inmigración.",
+        "officialTitle": "Proposición de Ley Orgánica de delegación en la Comunidad Autónoma de\nCataluña de competencias estatales en materia de inmigración.",
+        "type": "regular",
+        "nativeType": "ES-ley"
+      },
+      "dateStart": "2025-09-23T16:09:00+02:00",
+      "dateEnd": "2025-09-23T16:17:00+02:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_133/cortes/15_000400_133_0_26516_759117.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1559117I",
+        "duration": 480.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_133_0_26516_759117",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Mikel Legarda Uriarte",
+          "lastname": "Legarda Uriarte",
+          "firstname": "Mikel",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Vasco (EAJ-PNV)"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 10
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 138
+      },
+      "agendaItem": {
+        "title": "Proposición de Ley Orgánica de delegación en la Comunidad Autónoma de\nCataluña de competencias estatales en materia de inmigración.",
+        "officialTitle": "Proposición de Ley Orgánica de delegación en la Comunidad Autónoma de\nCataluña de competencias estatales en materia de inmigración.",
+        "type": "regular",
+        "nativeType": "ES-ley"
+      },
+      "dateStart": "2025-09-23T16:17:00+02:00",
+      "dateEnd": "2025-09-23T16:25:00+02:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_133/cortes/15_000400_133_0_26516_759118.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1559118I",
+        "duration": 480.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_133_0_26516_759118",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Jon Iñarritu García",
+          "lastname": "Iñarritu García",
+          "firstname": "Jon",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Euskal Herria Bildu"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 11
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 138
+      },
+      "agendaItem": {
+        "title": "Proposición de Ley Orgánica de delegación en la Comunidad Autónoma de\nCataluña de competencias estatales en materia de inmigración.",
+        "officialTitle": "Proposición de Ley Orgánica de delegación en la Comunidad Autónoma de\nCataluña de competencias estatales en materia de inmigración.",
+        "type": "regular",
+        "nativeType": "ES-ley"
+      },
+      "dateStart": "2025-09-23T16:25:00+02:00",
+      "dateEnd": "2025-09-23T16:33:00+02:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_133/cortes/15_000400_133_0_26516_759119.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1559119I",
+        "duration": 480.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_133_0_26516_759119",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Gabriel Rufián Romero",
+          "lastname": "Rufián Romero",
+          "firstname": "Gabriel",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Republicano"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 12
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 138
+      },
+      "agendaItem": {
+        "title": "Proposición de Ley Orgánica de delegación en la Comunidad Autónoma de\nCataluña de competencias estatales en materia de inmigración.",
+        "officialTitle": "Proposición de Ley Orgánica de delegación en la Comunidad Autónoma de\nCataluña de competencias estatales en materia de inmigración.",
+        "type": "regular",
+        "nativeType": "ES-ley"
+      },
+      "dateStart": "2025-09-23T16:33:00+02:00",
+      "dateEnd": "2025-09-23T16:42:00+02:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_133/cortes/15_000400_133_0_26516_759120.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1559120I",
+        "duration": 540.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_133_0_26516_759120",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Aina Vidal Sáez",
+          "lastname": "Vidal Sáez",
+          "firstname": "Aina",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Plurinacional SUMAR"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 13
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 138
+      },
+      "agendaItem": {
+        "title": "Proposición de Ley Orgánica de delegación en la Comunidad Autónoma de\nCataluña de competencias estatales en materia de inmigración.",
+        "officialTitle": "Proposición de Ley Orgánica de delegación en la Comunidad Autónoma de\nCataluña de competencias estatales en materia de inmigración.",
+        "type": "regular",
+        "nativeType": "ES-ley"
+      },
+      "dateStart": "2025-09-23T16:42:00+02:00",
+      "dateEnd": "2025-09-23T16:50:00+02:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_133/cortes/15_000400_133_0_26516_759121.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1559121I",
+        "duration": 480.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_133_0_26516_759121",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "María José Rodríguez de Millán Parro",
+          "lastname": "Rodríguez de Millán Parro",
+          "firstname": "María José",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario VOX"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 14
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 138
+      },
+      "agendaItem": {
+        "title": "Proposición de Ley Orgánica de reforma de la Ley Orgánica 2/1979, de\n3 de octubre, del Tribunal Constitucional.",
+        "officialTitle": "Proposición de Ley Orgánica de reforma de la Ley Orgánica 2/1979, de\n3 de octubre, del Tribunal Constitucional.",
+        "type": "regular",
+        "nativeType": "ES-ley"
+      },
+      "dateStart": "2025-09-23T16:51:00+02:00",
+      "dateEnd": "2025-09-23T17:03:00+02:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_133/cortes/15_000400_133_0_26516_759123.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1559123I",
+        "duration": 720.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_133_0_26516_759123",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Mikel Legarda Uriarte",
+          "lastname": "Legarda Uriarte",
+          "firstname": "Mikel",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Vasco (EAJ-PNV)"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 15
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 138
+      },
+      "agendaItem": {
+        "title": "Proposición de Ley Orgánica de reforma de la Ley Orgánica 2/1979, de\n3 de octubre, del Tribunal Constitucional.",
+        "officialTitle": "Proposición de Ley Orgánica de reforma de la Ley Orgánica 2/1979, de\n3 de octubre, del Tribunal Constitucional.",
+        "type": "regular",
+        "nativeType": "ES-ley"
+      },
+      "dateStart": "2025-09-23T17:03:00+02:00",
+      "dateEnd": "2025-09-23T17:07:00+02:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_133/cortes/15_000400_133_0_26516_759124.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1559124I",
+        "duration": 240.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_133_0_26516_759124",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Martina Velarde Gómez",
+          "lastname": "Velarde Gómez",
+          "firstname": "Martina",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Mixto"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 16
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 138
+      },
+      "agendaItem": {
+        "title": "Proposición de Ley Orgánica de reforma de la Ley Orgánica 2/1979, de\n3 de octubre, del Tribunal Constitucional.",
+        "officialTitle": "Proposición de Ley Orgánica de reforma de la Ley Orgánica 2/1979, de\n3 de octubre, del Tribunal Constitucional.",
+        "type": "regular",
+        "nativeType": "ES-ley"
+      },
+      "dateStart": "2025-09-23T17:07:00+02:00",
+      "dateEnd": "2025-09-23T17:14:00+02:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_133/cortes/15_000400_133_0_26516_759125.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1559125I",
+        "duration": 420.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_133_0_26516_759125",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Jon Iñarritu García",
+          "lastname": "Iñarritu García",
+          "firstname": "Jon",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Euskal Herria Bildu"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 17
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 138
+      },
+      "agendaItem": {
+        "title": "Proposición de Ley Orgánica de reforma de la Ley Orgánica 2/1979, de\n3 de octubre, del Tribunal Constitucional.",
+        "officialTitle": "Proposición de Ley Orgánica de reforma de la Ley Orgánica 2/1979, de\n3 de octubre, del Tribunal Constitucional.",
+        "type": "regular",
+        "nativeType": "ES-ley"
+      },
+      "dateStart": "2025-09-23T17:14:00+02:00",
+      "dateEnd": "2025-09-23T17:23:00+02:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_133/cortes/15_000400_133_0_26516_759126.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1559126I",
+        "duration": 540.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_133_0_26516_759126",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Josep Pagès i Massó",
+          "lastname": "Pagès i Massó",
+          "firstname": "Josep",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Junts per Catalunya"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 18
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 138
+      },
+      "agendaItem": {
+        "title": "Proposición de Ley Orgánica de reforma de la Ley Orgánica 2/1979, de\n3 de octubre, del Tribunal Constitucional.",
+        "officialTitle": "Proposición de Ley Orgánica de reforma de la Ley Orgánica 2/1979, de\n3 de octubre, del Tribunal Constitucional.",
+        "type": "regular",
+        "nativeType": "ES-ley"
+      },
+      "dateStart": "2025-09-23T17:23:00+02:00",
+      "dateEnd": "2025-09-23T17:30:00+02:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_133/cortes/15_000400_133_0_26516_759127.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1559127I",
+        "duration": 420.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_133_0_26516_759127",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Pilar Vallugera Balañà",
+          "lastname": "Vallugera Balañà",
+          "firstname": "Pilar",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Republicano"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 19
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 138
+      },
+      "agendaItem": {
+        "title": "Proposición de Ley Orgánica de reforma de la Ley Orgánica 2/1979, de\n3 de octubre, del Tribunal Constitucional.",
+        "officialTitle": "Proposición de Ley Orgánica de reforma de la Ley Orgánica 2/1979, de\n3 de octubre, del Tribunal Constitucional.",
+        "type": "regular",
+        "nativeType": "ES-ley"
+      },
+      "dateStart": "2025-09-23T17:30:00+02:00",
+      "dateEnd": "2025-09-23T17:38:00+02:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_133/cortes/15_000400_133_0_26516_759128.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1559128I",
+        "duration": 480.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_133_0_26516_759128",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Lander Martínez Hierro",
+          "lastname": "Martínez Hierro",
+          "firstname": "Lander",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Plurinacional SUMAR"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 20
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 138
+      },
+      "agendaItem": {
+        "title": "Proposición de Ley Orgánica de reforma de la Ley Orgánica 2/1979, de\n3 de octubre, del Tribunal Constitucional.",
+        "officialTitle": "Proposición de Ley Orgánica de reforma de la Ley Orgánica 2/1979, de\n3 de octubre, del Tribunal Constitucional.",
+        "type": "regular",
+        "nativeType": "ES-ley"
+      },
+      "dateStart": "2025-09-23T17:38:00+02:00",
+      "dateEnd": "2025-09-23T17:47:00+02:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_133/cortes/15_000400_133_0_26516_759129.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1559129I",
+        "duration": 540.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_133_0_26516_759129",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Ignacio Gil Lázaro",
+          "lastname": "Gil Lázaro",
+          "firstname": "Ignacio",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario VOX"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 21
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 138
+      },
+      "agendaItem": {
+        "title": "Proposición de Ley Orgánica de reforma de la Ley Orgánica 2/1979, de\n3 de octubre, del Tribunal Constitucional.",
+        "officialTitle": "Proposición de Ley Orgánica de reforma de la Ley Orgánica 2/1979, de\n3 de octubre, del Tribunal Constitucional.",
+        "type": "regular",
+        "nativeType": "ES-ley"
+      },
+      "dateStart": "2025-09-23T17:47:00+02:00",
+      "dateEnd": "2025-09-23T17:55:00+02:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_133/cortes/15_000400_133_0_26516_759130.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1559130I",
+        "duration": 480.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_133_0_26516_759130",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Rafaela Romero Pozo",
+          "lastname": "Romero Pozo",
+          "firstname": "Rafaela",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Socialista"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 22
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 138
+      },
+      "agendaItem": {
+        "title": "Proposición de Ley Orgánica de reforma de la Ley Orgánica 2/1979, de\n3 de octubre, del Tribunal Constitucional.",
+        "officialTitle": "Proposición de Ley Orgánica de reforma de la Ley Orgánica 2/1979, de\n3 de octubre, del Tribunal Constitucional.",
+        "type": "regular",
+        "nativeType": "ES-ley"
+      },
+      "dateStart": "2025-09-23T17:55:00+02:00",
+      "dateEnd": "2025-09-23T18:03:00+02:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_133/cortes/15_000400_133_0_26516_759131.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1559131I",
+        "duration": 480.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_133_0_26516_759131",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Enrique Belda Pérez-Pedrero",
+          "lastname": "Belda Pérez-Pedrero",
+          "firstname": "Enrique",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Popular en el Congreso"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 23
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 138
+      },
+      "agendaItem": {
+        "title": "Proposición no de Ley sobre la modificación del artículo 30.2 del RD\n295/2009 referente a la solicitud de la prestación económica por\npaternidad y resolución de la misma.",
+        "officialTitle": "Proposición no de Ley sobre la modificación del artículo 30.2 del RD\n295/2009 referente a la solicitud de la prestación económica por\npaternidad y resolución de la misma.",
+        "type": "regular"
+      },
+      "dateStart": "2025-09-23T18:03:00+02:00",
+      "dateEnd": "2025-09-23T18:12:00+02:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_133/cortes/15_000400_133_0_26516_759134.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1559134I",
+        "duration": 540.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_133_0_26516_759134",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Isidre Gavin i Valls",
+          "lastname": "Gavin i Valls",
+          "firstname": "Isidre",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Junts per Catalunya"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 24
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 138
+      },
+      "agendaItem": {
+        "title": "Proposición no de Ley sobre la modificación del artículo 30.2 del RD\n295/2009 referente a la solicitud de la prestación económica por\npaternidad y resolución de la misma.",
+        "officialTitle": "Proposición no de Ley sobre la modificación del artículo 30.2 del RD\n295/2009 referente a la solicitud de la prestación económica por\npaternidad y resolución de la misma.",
+        "type": "regular"
+      },
+      "dateStart": "2025-09-23T18:12:00+02:00",
+      "dateEnd": "2025-09-23T18:18:00+02:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_133/cortes/15_000400_133_0_26516_759135.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1559135I",
+        "duration": 360.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_133_0_26516_759135",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Noemí Santana Perera",
+          "lastname": "Santana Perera",
+          "firstname": "Noemí",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Mixto"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 25
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 138
+      },
+      "agendaItem": {
+        "title": "Proposición no de Ley sobre la modificación del artículo 30.2 del RD\n295/2009 referente a la solicitud de la prestación económica por\npaternidad y resolución de la misma.",
+        "officialTitle": "Proposición no de Ley sobre la modificación del artículo 30.2 del RD\n295/2009 referente a la solicitud de la prestación económica por\npaternidad y resolución de la misma.",
+        "type": "regular"
+      },
+      "dateStart": "2025-09-23T18:18:00+02:00",
+      "dateEnd": "2025-09-23T18:22:00+02:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_133/cortes/15_000400_133_0_26516_759136.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1559136I",
+        "duration": 240.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_133_0_26516_759136",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Idoia Sagastizabal Unzetabarrenetxea",
+          "lastname": "Sagastizabal Unzetabarrenetxea",
+          "firstname": "Idoia",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Vasco (EAJ-PNV)"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 26
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 138
+      },
+      "agendaItem": {
+        "title": "Proposición no de Ley sobre la modificación del artículo 30.2 del RD\n295/2009 referente a la solicitud de la prestación económica por\npaternidad y resolución de la misma.",
+        "officialTitle": "Proposición no de Ley sobre la modificación del artículo 30.2 del RD\n295/2009 referente a la solicitud de la prestación económica por\npaternidad y resolución de la misma.",
+        "type": "regular"
+      },
+      "dateStart": "2025-09-23T18:22:00+02:00",
+      "dateEnd": "2025-09-23T18:26:00+02:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_133/cortes/15_000400_133_0_26516_759137.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1559137I",
+        "duration": 240.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_133_0_26516_759137",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Marije Fullaondo la Cruz",
+          "lastname": "Fullaondo la Cruz",
+          "firstname": "Marije",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Euskal Herria Bildu"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 27
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 138
+      },
+      "agendaItem": {
+        "title": "Proposición no de Ley sobre la modificación del artículo 30.2 del RD\n295/2009 referente a la solicitud de la prestación económica por\npaternidad y resolución de la misma.",
+        "officialTitle": "Proposición no de Ley sobre la modificación del artículo 30.2 del RD\n295/2009 referente a la solicitud de la prestación económica por\npaternidad y resolución de la misma.",
+        "type": "regular"
+      },
+      "dateStart": "2025-09-23T18:26:00+02:00",
+      "dateEnd": "2025-09-23T18:33:00+02:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_133/cortes/15_000400_133_0_26516_759138.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1559138I",
+        "duration": 420.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_133_0_26516_759138",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Jordi Salvador i Duch",
+          "lastname": "Salvador i Duch",
+          "firstname": "Jordi",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Republicano"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 28
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 138
+      },
+      "agendaItem": {
+        "title": "Proposición no de Ley sobre la modificación del artículo 30.2 del RD\n295/2009 referente a la solicitud de la prestación económica por\npaternidad y resolución de la misma.",
+        "officialTitle": "Proposición no de Ley sobre la modificación del artículo 30.2 del RD\n295/2009 referente a la solicitud de la prestación económica por\npaternidad y resolución de la misma.",
+        "type": "regular"
+      },
+      "dateStart": "2025-09-23T18:33:00+02:00",
+      "dateEnd": "2025-09-23T18:39:00+02:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_133/cortes/15_000400_133_0_26516_759139.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1559139I",
+        "duration": 360.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_133_0_26516_759139",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Júlia Boada Danés",
+          "lastname": "Boada Danés",
+          "firstname": "Júlia",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Plurinacional SUMAR"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 29
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 138
+      },
+      "agendaItem": {
+        "title": "Proposición no de Ley sobre la modificación del artículo 30.2 del RD\n295/2009 referente a la solicitud de la prestación económica por\npaternidad y resolución de la misma.",
+        "officialTitle": "Proposición no de Ley sobre la modificación del artículo 30.2 del RD\n295/2009 referente a la solicitud de la prestación económica por\npaternidad y resolución de la misma.",
+        "type": "regular"
+      },
+      "dateStart": "2025-09-23T18:39:00+02:00",
+      "dateEnd": "2025-09-23T18:45:00+02:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_133/cortes/15_000400_133_1_26518_759145.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1559145I",
+        "duration": 360.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_133_1_26518_759145",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Juan José Aizcorbe Torra",
+          "lastname": "Aizcorbe Torra",
+          "firstname": "Juan José",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario VOX"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 30
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 138
+      },
+      "agendaItem": {
+        "title": "Proposición no de Ley sobre la modificación del artículo 30.2 del RD\n295/2009 referente a la solicitud de la prestación económica por\npaternidad y resolución de la misma.",
+        "officialTitle": "Proposición no de Ley sobre la modificación del artículo 30.2 del RD\n295/2009 referente a la solicitud de la prestación económica por\npaternidad y resolución de la misma.",
+        "type": "regular"
+      },
+      "dateStart": "2025-09-23T18:45:00+02:00",
+      "dateEnd": "2025-09-23T18:52:00+02:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_133/cortes/15_000400_133_1_26518_759146.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1559146I",
+        "duration": 420.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_133_1_26518_759146",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "María Carmen Castilla Álvarez",
+          "lastname": "Castilla Álvarez",
+          "firstname": "María Carmen",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Socialista"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 31
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 138
+      },
+      "agendaItem": {
+        "title": "Proposición no de Ley sobre la modificación del artículo 30.2 del RD\n295/2009 referente a la solicitud de la prestación económica por\npaternidad y resolución de la misma.",
+        "officialTitle": "Proposición no de Ley sobre la modificación del artículo 30.2 del RD\n295/2009 referente a la solicitud de la prestación económica por\npaternidad y resolución de la misma.",
+        "type": "regular"
+      },
+      "dateStart": "2025-09-23T18:52:00+02:00",
+      "dateEnd": "2025-09-23T18:58:00+02:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_133/cortes/15_000400_133_1_26518_759147.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1559147I",
+        "duration": 360.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_133_1_26518_759147",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Agustín Parra Gallego",
+          "lastname": "Parra Gallego",
+          "firstname": "Agustín",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Popular en el Congreso"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 32
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 138
+      },
+      "agendaItem": {
+        "title": "Proposición no de Ley relativa a la transferencia de activos\ninmobiliarios de la SAREB a Galicia para su gestión.",
+        "officialTitle": "Proposición no de Ley relativa a la transferencia de activos\ninmobiliarios de la SAREB a Galicia para su gestión.",
+        "type": "regular"
+      },
+      "dateStart": "2025-09-23T18:58:00+02:00",
+      "dateEnd": "2025-09-23T19:08:00+02:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_133/cortes/15_000400_133_1_26518_759149.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1559149I",
+        "duration": 600.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_133_1_26518_759149",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Néstor Rego Candamil",
+          "lastname": "Rego Candamil",
+          "firstname": "Néstor",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Mixto"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 33
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 138
+      },
+      "agendaItem": {
+        "title": "Proposición no de Ley relativa a la transferencia de activos\ninmobiliarios de la SAREB a Galicia para su gestión.",
+        "officialTitle": "Proposición no de Ley relativa a la transferencia de activos\ninmobiliarios de la SAREB a Galicia para su gestión.",
+        "type": "regular"
+      },
+      "dateStart": "2025-09-23T19:08:00+02:00",
+      "dateEnd": "2025-09-23T19:14:00+02:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_133/cortes/15_000400_133_1_26518_759150.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1559150I",
+        "duration": 360.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_133_1_26518_759150",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Manuel Lago Peñas",
+          "lastname": "Lago Peñas",
+          "firstname": "Manuel",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Plurinacional SUMAR"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 34
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 138
+      },
+      "agendaItem": {
+        "title": "Proposición no de Ley relativa a la transferencia de activos\ninmobiliarios de la SAREB a Galicia para su gestión.",
+        "officialTitle": "Proposición no de Ley relativa a la transferencia de activos\ninmobiliarios de la SAREB a Galicia para su gestión.",
+        "type": "regular"
+      },
+      "dateStart": "2025-09-23T19:14:00+02:00",
+      "dateEnd": "2025-09-23T19:20:00+02:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_133/cortes/15_000400_133_1_26518_759151.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1559151I",
+        "duration": 360.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_133_1_26518_759151",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Luis Antonio Gómez Piña",
+          "lastname": "Gómez Piña",
+          "firstname": "Luis Antonio",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Socialista"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 35
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 138
+      },
+      "agendaItem": {
+        "title": "Proposición no de Ley relativa a la transferencia de activos\ninmobiliarios de la SAREB a Galicia para su gestión.",
+        "officialTitle": "Proposición no de Ley relativa a la transferencia de activos\ninmobiliarios de la SAREB a Galicia para su gestión.",
+        "type": "regular"
+      },
+      "dateStart": "2025-09-23T19:20:00+02:00",
+      "dateEnd": "2025-09-23T19:26:00+02:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_133/cortes/15_000400_133_1_26518_759152.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1559152I",
+        "duration": 360.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_133_1_26518_759152",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Pedro Puy Fraga",
+          "lastname": "Puy Fraga",
+          "firstname": "Pedro",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Popular en el Congreso"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 36
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 138
+      },
+      "agendaItem": {
+        "title": "Proposición no de Ley relativa a la transferencia de activos\ninmobiliarios de la SAREB a Galicia para su gestión.",
+        "officialTitle": "Proposición no de Ley relativa a la transferencia de activos\ninmobiliarios de la SAREB a Galicia para su gestión.",
+        "type": "regular"
+      },
+      "dateStart": "2025-09-23T19:26:00+02:00",
+      "dateEnd": "2025-09-23T19:33:00+02:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_133/cortes/15_000400_133_1_26518_759153.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1559153I",
+        "duration": 420.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_133_1_26518_759153",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Oskar Matute García de Jalón",
+          "lastname": "Matute García de Jalón",
+          "firstname": "Oskar",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Euskal Herria Bildu"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 37
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 138
+      },
+      "agendaItem": {
+        "title": "Proposición no de Ley relativa a la transferencia de activos\ninmobiliarios de la SAREB a Galicia para su gestión.",
+        "officialTitle": "Proposición no de Ley relativa a la transferencia de activos\ninmobiliarios de la SAREB a Galicia para su gestión.",
+        "type": "regular"
+      },
+      "dateStart": "2025-09-23T19:33:00+02:00",
+      "dateEnd": "2025-09-23T19:39:00+02:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_133/cortes/15_000400_133_1_26518_759154.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1559154I",
+        "duration": 360.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_133_1_26518_759154",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Marta Madrenas i Mir",
+          "lastname": "Madrenas i Mir",
+          "firstname": "Marta",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Junts per Catalunya"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 38
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 138
+      },
+      "agendaItem": {
+        "title": "Proposición no de Ley relativa a la transferencia de activos\ninmobiliarios de la SAREB a Galicia para su gestión.",
+        "officialTitle": "Proposición no de Ley relativa a la transferencia de activos\ninmobiliarios de la SAREB a Galicia para su gestión.",
+        "type": "regular"
+      },
+      "dateStart": "2025-09-23T19:39:00+02:00",
+      "dateEnd": "2025-09-23T19:45:00+02:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_133/cortes/15_000400_133_1_26518_759155.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1559155I",
+        "duration": 360.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_133_1_26518_759155",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Ignacio Hoces Íñiguez",
+          "lastname": "Hoces Íñiguez",
+          "firstname": "Ignacio",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario VOX"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 39
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 138
+      },
+      "agendaItem": {
+        "title": "Moción consecuencia de interpelación urgente sobre los controles que\nse realizan actualmente en los puertos y aeropuertos canarios en materia\nde inspección fitosanitaria para prevenir la entrada de plagas y especies\ninvasoras.",
+        "officialTitle": "Moción consecuencia de interpelación urgente sobre los controles que\nse realizan actualmente en los puertos y aeropuertos canarios en materia\nde inspección fitosanitaria para prevenir la entrada de plagas y especies\ninvasoras.",
+        "type": "regular",
+        "nativeType": "ES-mocion"
+      },
+      "dateStart": "2025-09-23T19:46:00+02:00",
+      "dateEnd": "2025-09-23T19:54:00+02:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_133/cortes/15_000400_133_1_26518_759158.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1559158I",
+        "duration": 480.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_133_1_26518_759158",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Cristina Valido García",
+          "lastname": "Valido García",
+          "firstname": "Cristina",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Mixto"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 40
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 138
+      },
+      "agendaItem": {
+        "title": "Moción consecuencia de interpelación urgente sobre los controles que\nse realizan actualmente en los puertos y aeropuertos canarios en materia\nde inspección fitosanitaria para prevenir la entrada de plagas y especies\ninvasoras.",
+        "officialTitle": "Moción consecuencia de interpelación urgente sobre los controles que\nse realizan actualmente en los puertos y aeropuertos canarios en materia\nde inspección fitosanitaria para prevenir la entrada de plagas y especies\ninvasoras.",
+        "type": "regular",
+        "nativeType": "ES-mocion"
+      },
+      "dateStart": "2025-09-23T19:54:00+02:00",
+      "dateEnd": "2025-09-23T20:01:00+02:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_133/cortes/15_000400_133_1_26518_759159.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1559159I",
+        "duration": 420.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_133_1_26518_759159",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Nahuel González López",
+          "lastname": "González López",
+          "firstname": "Nahuel",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Plurinacional SUMAR"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 41
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 138
+      },
+      "agendaItem": {
+        "title": "Moción consecuencia de interpelación urgente sobre los controles que\nse realizan actualmente en los puertos y aeropuertos canarios en materia\nde inspección fitosanitaria para prevenir la entrada de plagas y especies\ninvasoras.",
+        "officialTitle": "Moción consecuencia de interpelación urgente sobre los controles que\nse realizan actualmente en los puertos y aeropuertos canarios en materia\nde inspección fitosanitaria para prevenir la entrada de plagas y especies\ninvasoras.",
+        "type": "regular",
+        "nativeType": "ES-mocion"
+      },
+      "dateStart": "2025-09-23T20:01:00+02:00",
+      "dateEnd": "2025-09-23T20:07:00+02:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_133/cortes/15_000400_133_1_26518_759160.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1559160I",
+        "duration": 360.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_133_1_26518_759160",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Ricardo Chamorro Delmo",
+          "lastname": "Chamorro Delmo",
+          "firstname": "Ricardo",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario VOX"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 42
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 138
+      },
+      "agendaItem": {
+        "title": "Moción consecuencia de interpelación urgente sobre los controles que\nse realizan actualmente en los puertos y aeropuertos canarios en materia\nde inspección fitosanitaria para prevenir la entrada de plagas y especies\ninvasoras.",
+        "officialTitle": "Moción consecuencia de interpelación urgente sobre los controles que\nse realizan actualmente en los puertos y aeropuertos canarios en materia\nde inspección fitosanitaria para prevenir la entrada de plagas y especies\ninvasoras.",
+        "type": "regular",
+        "nativeType": "ES-mocion"
+      },
+      "dateStart": "2025-09-23T20:07:00+02:00",
+      "dateEnd": "2025-09-23T20:14:00+02:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_133/cortes/15_000400_133_1_26518_759161.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1559161I",
+        "duration": 420.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_133_1_26518_759161",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "María Dolores Corujo Berriel",
+          "lastname": "Corujo Berriel",
+          "firstname": "María Dolores",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Socialista"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 43
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 138
+      },
+      "agendaItem": {
+        "title": "Moción consecuencia de interpelación urgente sobre los controles que\nse realizan actualmente en los puertos y aeropuertos canarios en materia\nde inspección fitosanitaria para prevenir la entrada de plagas y especies\ninvasoras.",
+        "officialTitle": "Moción consecuencia de interpelación urgente sobre los controles que\nse realizan actualmente en los puertos y aeropuertos canarios en materia\nde inspección fitosanitaria para prevenir la entrada de plagas y especies\ninvasoras.",
+        "type": "regular",
+        "nativeType": "ES-mocion"
+      },
+      "dateStart": "2025-09-23T20:14:00+02:00",
+      "dateEnd": "2025-09-23T20:20:00+02:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_133/cortes/15_000400_133_1_26518_759162.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1559162I",
+        "duration": 360.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_133_1_26518_759162",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Teresa Jordà i Roura",
+          "lastname": "Jordà i Roura",
+          "firstname": "Teresa",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Republicano"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 44
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 138
+      },
+      "agendaItem": {
+        "title": "Moción consecuencia de interpelación urgente sobre los controles que\nse realizan actualmente en los puertos y aeropuertos canarios en materia\nde inspección fitosanitaria para prevenir la entrada de plagas y especies\ninvasoras.",
+        "officialTitle": "Moción consecuencia de interpelación urgente sobre los controles que\nse realizan actualmente en los puertos y aeropuertos canarios en materia\nde inspección fitosanitaria para prevenir la entrada de plagas y especies\ninvasoras.",
+        "type": "regular",
+        "nativeType": "ES-mocion"
+      },
+      "dateStart": "2025-09-23T20:20:00+02:00",
+      "dateEnd": "2025-09-23T20:27:00+02:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_133/cortes/15_000400_133_1_26518_759163.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1559163I",
+        "duration": 420.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_133_1_26518_759163",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Juan Antonio Rojas Manrique",
+          "lastname": "Rojas Manrique",
+          "firstname": "Juan Antonio",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Popular en el Congreso"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 45
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 138
+      },
+      "agendaItem": {
+        "title": "Moción consecuencia de interpelación urgente sobre cuál es la\nestrategia que va a adoptar el Gobierno para posibilitar el acceso a la\nvivienda de los jóvenes españoles.",
+        "officialTitle": "Moción consecuencia de interpelación urgente sobre cuál es la\nestrategia que va a adoptar el Gobierno para posibilitar el acceso a la\nvivienda de los jóvenes españoles.",
+        "type": "regular",
+        "nativeType": "ES-mocion"
+      },
+      "dateStart": "2025-09-23T20:27:00+02:00",
+      "dateEnd": "2025-09-23T20:28:00+02:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_133/cortes/15_000400_133_1_26518_759164.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1559164I",
+        "duration": 60.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_133_1_26518_759164",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Etna Estrems Fayos",
+          "lastname": "Estrems Fayos",
+          "firstname": "Etna",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Republicano"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 46
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 138
+      },
+      "agendaItem": {
+        "title": "Moción consecuencia de interpelación urgente sobre cuál es la\nestrategia que va a adoptar el Gobierno para posibilitar el acceso a la\nvivienda de los jóvenes españoles.",
+        "officialTitle": "Moción consecuencia de interpelación urgente sobre cuál es la\nestrategia que va a adoptar el Gobierno para posibilitar el acceso a la\nvivienda de los jóvenes españoles.",
+        "type": "regular",
+        "nativeType": "ES-mocion"
+      },
+      "dateStart": "2025-09-23T20:28:00+02:00",
+      "dateEnd": "2025-09-23T20:36:00+02:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_133/cortes/15_000400_133_1_26518_759167.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1559167I",
+        "duration": 480.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_133_1_26518_759167",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Carlos Hernández Quero",
+          "lastname": "Hernández Quero",
+          "firstname": "Carlos",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario VOX"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 47
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 138
+      },
+      "agendaItem": {
+        "title": "Moción consecuencia de interpelación urgente sobre cuál es la\nestrategia que va a adoptar el Gobierno para posibilitar el acceso a la\nvivienda de los jóvenes españoles.",
+        "officialTitle": "Moción consecuencia de interpelación urgente sobre cuál es la\nestrategia que va a adoptar el Gobierno para posibilitar el acceso a la\nvivienda de los jóvenes españoles.",
+        "type": "regular",
+        "nativeType": "ES-mocion"
+      },
+      "dateStart": "2025-09-23T20:36:00+02:00",
+      "dateEnd": "2025-09-23T20:42:00+02:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_133/cortes/15_000400_133_1_26518_759168.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1559168I",
+        "duration": 360.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_133_1_26518_759168",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Etna Estrems Fayos",
+          "lastname": "Estrems Fayos",
+          "firstname": "Etna",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Republicano"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 48
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 138
+      },
+      "agendaItem": {
+        "title": "Moción consecuencia de interpelación urgente sobre cuál es la\nestrategia que va a adoptar el Gobierno para posibilitar el acceso a la\nvivienda de los jóvenes españoles.",
+        "officialTitle": "Moción consecuencia de interpelación urgente sobre cuál es la\nestrategia que va a adoptar el Gobierno para posibilitar el acceso a la\nvivienda de los jóvenes españoles.",
+        "type": "regular",
+        "nativeType": "ES-mocion"
+      },
+      "dateStart": "2025-09-23T20:42:00+02:00",
+      "dateEnd": "2025-09-23T20:49:00+02:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_133/cortes/15_000400_133_1_26518_759169.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1559169I",
+        "duration": 420.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_133_1_26518_759169",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Jorge Pueyo Sanz",
+          "lastname": "Pueyo Sanz",
+          "firstname": "Jorge",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Plurinacional SUMAR"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 49
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 138
+      },
+      "agendaItem": {
+        "title": "Moción consecuencia de interpelación urgente sobre cuál es la\nestrategia que va a adoptar el Gobierno para posibilitar el acceso a la\nvivienda de los jóvenes españoles.",
+        "officialTitle": "Moción consecuencia de interpelación urgente sobre cuál es la\nestrategia que va a adoptar el Gobierno para posibilitar el acceso a la\nvivienda de los jóvenes españoles.",
+        "type": "regular",
+        "nativeType": "ES-mocion"
+      },
+      "dateStart": "2025-09-23T20:49:00+02:00",
+      "dateEnd": "2025-09-23T20:56:00+02:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_133/cortes/15_000400_133_1_26518_759170.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1559170I",
+        "duration": 420.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_133_1_26518_759170",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Isabel María Pérez Ortiz",
+          "lastname": "Pérez Ortiz",
+          "firstname": "Isabel María",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Socialista"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 50
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 138
+      },
+      "agendaItem": {
+        "title": "Moción consecuencia de interpelación urgente sobre cuál es la\nestrategia que va a adoptar el Gobierno para posibilitar el acceso a la\nvivienda de los jóvenes españoles.",
+        "officialTitle": "Moción consecuencia de interpelación urgente sobre cuál es la\nestrategia que va a adoptar el Gobierno para posibilitar el acceso a la\nvivienda de los jóvenes españoles.",
+        "type": "regular",
+        "nativeType": "ES-mocion"
+      },
+      "dateStart": "2025-09-23T20:56:00+02:00",
+      "dateEnd": "2025-09-23T21:02:00+02:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_133/cortes/15_000400_133_1_26518_759171.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1559171I",
+        "duration": 360.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_133_1_26518_759171",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Beatriz Álvarez Fanjul",
+          "lastname": "Álvarez Fanjul",
+          "firstname": "Beatriz",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Popular en el Congreso"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 51
+    }
+  ]
+}

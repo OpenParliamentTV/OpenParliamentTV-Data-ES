@@ -1,0 +1,3127 @@
+{
+  "meta": {
+    "session": "15022",
+    "processing": {
+      "parse_media": "2026-05-23T07:17:41"
+    },
+    "dateStart": "2024-02-07T09:01:00+01:00",
+    "dateEnd": "2024-02-07T14:32:00+01:00"
+  },
+  "data": [
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 22
+      },
+      "agendaItem": {
+        "title": "¿Ya es usted consciente de la realidad de su Gobierno?",
+        "officialTitle": "¿Ya es usted consciente de la realidad de su Gobierno?",
+        "type": "qa",
+        "nativeType": "ES-pregunta"
+      },
+      "dateStart": "2024-02-07T09:01:00+01:00",
+      "dateEnd": "2024-02-07T09:02:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_020/cortes/15_000400_020_0_24574_728218.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1528218I",
+        "duration": 60.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_020_0_24574_728218",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Alberto Núñez Feijóo",
+          "lastname": "Núñez Feijóo",
+          "firstname": "Alberto",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Popular en el Congreso"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 1
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 22
+      },
+      "agendaItem": {
+        "title": "¿Ya es usted consciente de la realidad de su Gobierno?",
+        "officialTitle": "¿Ya es usted consciente de la realidad de su Gobierno?",
+        "type": "qa",
+        "nativeType": "ES-pregunta"
+      },
+      "dateStart": "2024-02-07T09:02:00+01:00",
+      "dateEnd": "2024-02-07T09:03:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_020/cortes/15_000400_020_0_24574_728219.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1528219I",
+        "duration": 60.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_020_0_24574_728219",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Pedro Sánchez Pérez-Castejón",
+          "lastname": "Sánchez Pérez-Castejón",
+          "firstname": "Pedro",
+          "type": "member of government",
+          "role": "Presidente del Gobierno",
+          "faction": {
+            "label": "Grupo Parlamentario Socialista"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 2
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 22
+      },
+      "agendaItem": {
+        "title": "¿Ya es usted consciente de la realidad de su Gobierno?",
+        "officialTitle": "¿Ya es usted consciente de la realidad de su Gobierno?",
+        "type": "qa",
+        "nativeType": "ES-pregunta"
+      },
+      "dateStart": "2024-02-07T09:03:00+01:00",
+      "dateEnd": "2024-02-07T09:06:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_020/cortes/15_000400_020_0_24574_728221.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1528221I",
+        "duration": 180.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_020_0_24574_728221",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Alberto Núñez Feijóo",
+          "lastname": "Núñez Feijóo",
+          "firstname": "Alberto",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Popular en el Congreso"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 3
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 22
+      },
+      "agendaItem": {
+        "title": "¿Ya es usted consciente de la realidad de su Gobierno?",
+        "officialTitle": "¿Ya es usted consciente de la realidad de su Gobierno?",
+        "type": "qa",
+        "nativeType": "ES-pregunta"
+      },
+      "dateStart": "2024-02-07T09:06:00+01:00",
+      "dateEnd": "2024-02-07T09:07:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_020/cortes/15_000400_020_0_24574_728222.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1528222I",
+        "duration": 60.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_020_0_24574_728222",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Pedro Sánchez Pérez-Castejón",
+          "lastname": "Sánchez Pérez-Castejón",
+          "firstname": "Pedro",
+          "type": "member of government",
+          "role": "Presidente del Gobierno",
+          "faction": {
+            "label": "Grupo Parlamentario Socialista"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 4
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 22
+      },
+      "agendaItem": {
+        "title": "¿Qué medidas va a tomar el Gobierno para proteger a los agricultores\ny transportistas españoles?",
+        "officialTitle": "¿Qué medidas va a tomar el Gobierno para proteger a los agricultores\ny transportistas españoles?",
+        "type": "qa",
+        "nativeType": "ES-pregunta"
+      },
+      "dateStart": "2024-02-07T09:08:00+01:00",
+      "dateEnd": "2024-02-07T09:10:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_020/cortes/15_000400_020_0_24574_728224.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1528224I",
+        "duration": 120.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_020_0_24574_728224",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Santiago Abascal Conde",
+          "lastname": "Abascal Conde",
+          "firstname": "Santiago",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario VOX"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 5
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 22
+      },
+      "agendaItem": {
+        "title": "¿Qué medidas va a tomar el Gobierno para proteger a los agricultores\ny transportistas españoles?",
+        "officialTitle": "¿Qué medidas va a tomar el Gobierno para proteger a los agricultores\ny transportistas españoles?",
+        "type": "qa",
+        "nativeType": "ES-pregunta"
+      },
+      "dateStart": "2024-02-07T09:10:00+01:00",
+      "dateEnd": "2024-02-07T09:13:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_020/cortes/15_000400_020_0_24574_728225.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1528225I",
+        "duration": 180.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_020_0_24574_728225",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Pedro Sánchez Pérez-Castejón",
+          "lastname": "Sánchez Pérez-Castejón",
+          "firstname": "Pedro",
+          "type": "member of government",
+          "role": "Presidente del Gobierno",
+          "faction": {
+            "label": "Grupo Parlamentario Socialista"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 6
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 22
+      },
+      "agendaItem": {
+        "title": "¿Piensa su Gobierno atender las demandas de los productores y\nproductoras de alimentos?",
+        "officialTitle": "¿Piensa su Gobierno atender las demandas de los productores y\nproductoras de alimentos?",
+        "type": "qa",
+        "nativeType": "ES-pregunta"
+      },
+      "dateStart": "2024-02-07T09:13:00+01:00",
+      "dateEnd": "2024-02-07T09:14:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_020/cortes/15_000400_020_0_24574_728227.mp4\nhttps://www.congreso.es/audiovisual/video/leg15/400/15_000400_020/cortes/15_000400_020_0_24574_728229.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1528227I https://app.congreso.es/v1/15728229I",
+        "duration": 60.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_020_0_24574_728229",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Teresa Jordà i Roura",
+          "lastname": "Jordà i Roura",
+          "firstname": "Teresa",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Republicano"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 7
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 22
+      },
+      "agendaItem": {
+        "title": "¿Piensa su Gobierno atender las demandas de los productores y\nproductoras de alimentos?",
+        "officialTitle": "¿Piensa su Gobierno atender las demandas de los productores y\nproductoras de alimentos?",
+        "type": "qa",
+        "nativeType": "ES-pregunta"
+      },
+      "dateStart": "2024-02-07T09:14:00+01:00",
+      "dateEnd": "2024-02-07T09:16:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_020/cortes/15_000400_020_0_24574_728228.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1528228I",
+        "duration": 120.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_020_0_24574_728228",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Pedro Sánchez Pérez-Castejón",
+          "lastname": "Sánchez Pérez-Castejón",
+          "firstname": "Pedro",
+          "type": "member of government",
+          "role": "Presidente del Gobierno",
+          "faction": {
+            "label": "Grupo Parlamentario Socialista"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 8
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 22
+      },
+      "agendaItem": {
+        "title": "¿Piensa su Gobierno atender las demandas de los productores y\nproductoras de alimentos?",
+        "officialTitle": "¿Piensa su Gobierno atender las demandas de los productores y\nproductoras de alimentos?",
+        "type": "qa",
+        "nativeType": "ES-pregunta"
+      },
+      "dateStart": "2024-02-07T09:17:00+01:00",
+      "dateEnd": "2024-02-07T09:18:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_020/cortes/15_000400_020_0_24574_728230.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1528230I",
+        "duration": 60.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_020_0_24574_728230",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Pedro Sánchez Pérez-Castejón",
+          "lastname": "Sánchez Pérez-Castejón",
+          "firstname": "Pedro",
+          "type": "member of government",
+          "role": "Presidente del Gobierno",
+          "faction": {
+            "label": "Grupo Parlamentario Socialista"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 9
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 22
+      },
+      "agendaItem": {
+        "title": "¿Cuáles son los compromisos adquiridos para defender los puestos de\ntrabajo de la empresa Mecaner tras el ERE de extinción por parte de su\ngrupo propietario Stellantis?",
+        "officialTitle": "¿Cuáles son los compromisos adquiridos para defender los puestos de\ntrabajo de la empresa Mecaner tras el ERE de extinción por parte de su\ngrupo propietario Stellantis?",
+        "type": "qa",
+        "nativeType": "ES-pregunta"
+      },
+      "dateStart": "2024-02-07T09:18:00+01:00",
+      "dateEnd": "2024-02-07T09:19:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_020/cortes/15_000400_020_0_24574_728232.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1528232I",
+        "duration": 60.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_020_0_24574_728232",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Idoia Sagastizabal Unzetabarrenetxea",
+          "lastname": "Sagastizabal Unzetabarrenetxea",
+          "firstname": "Idoia",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Vasco (EAJ-PNV)"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 10
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 22
+      },
+      "agendaItem": {
+        "title": "¿Cuáles son los compromisos adquiridos para defender los puestos de\ntrabajo de la empresa Mecaner tras el ERE de extinción por parte de su\ngrupo propietario Stellantis?",
+        "officialTitle": "¿Cuáles son los compromisos adquiridos para defender los puestos de\ntrabajo de la empresa Mecaner tras el ERE de extinción por parte de su\ngrupo propietario Stellantis?",
+        "type": "qa",
+        "nativeType": "ES-pregunta"
+      },
+      "dateStart": "2024-02-07T09:19:00+01:00",
+      "dateEnd": "2024-02-07T09:19:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_020/cortes/15_000400_020_0_24574_728233.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1528233I",
+        "duration": 0.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_020_0_24574_728233",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Yolanda Díaz Pérez",
+          "lastname": "Díaz Pérez",
+          "firstname": "Yolanda",
+          "type": "member of government",
+          "role": "Vicepresidenta Segunda y Ministra de Trabajo y Economía Social",
+          "faction": {
+            "label": "Grupo Parlamentario Plurinacional SUMAR"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 11
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 22
+      },
+      "agendaItem": {
+        "title": "¿Hasta dónde van a ceder con tal de seguir en el Gobierno?",
+        "officialTitle": "¿Hasta dónde van a ceder con tal de seguir en el Gobierno?",
+        "type": "qa",
+        "nativeType": "ES-pregunta"
+      },
+      "dateStart": "2024-02-07T09:24:00+01:00",
+      "dateEnd": "2024-02-07T09:25:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_020/cortes/15_000400_020_0_24574_728237.mp4\nhttps://www.congreso.es/audiovisual/video/leg15/400/15_000400_020/cortes/15_000400_020_0_24574_728239.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1528237I https://app.congreso.es/v1/15728239I",
+        "duration": 60.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_020_0_24574_728239",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Concepción Gamarra Ruiz-Clavijo",
+          "lastname": "Gamarra Ruiz-Clavijo",
+          "firstname": "Concepción",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Popular en el Congreso"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 12
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 22
+      },
+      "agendaItem": {
+        "title": "¿Hasta dónde van a ceder con tal de seguir en el Gobierno?",
+        "officialTitle": "¿Hasta dónde van a ceder con tal de seguir en el Gobierno?",
+        "type": "qa",
+        "nativeType": "ES-pregunta"
+      },
+      "dateStart": "2024-02-07T09:26:00+01:00",
+      "dateEnd": "2024-02-07T09:27:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_020/cortes/15_000400_020_0_24574_728238.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1528238I",
+        "duration": 60.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_020_0_24574_728238",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Félix Bolaños García",
+          "lastname": "Bolaños García",
+          "firstname": "Félix",
+          "type": "member of government",
+          "role": "Ministro de la Presidencia, Justicia y Relaciones con las Cortes",
+          "faction": {
+            "label": "Grupo Parlamentario Socialista"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 13
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 22
+      },
+      "agendaItem": {
+        "title": "¿Hasta dónde van a ceder con tal de seguir en el Gobierno?",
+        "officialTitle": "¿Hasta dónde van a ceder con tal de seguir en el Gobierno?",
+        "type": "qa",
+        "nativeType": "ES-pregunta"
+      },
+      "dateStart": "2024-02-07T09:29:00+01:00",
+      "dateEnd": "2024-02-07T09:30:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_020/cortes/15_000400_020_0_24574_728240.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1528240I",
+        "duration": 60.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_020_0_24574_728240",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Félix Bolaños García",
+          "lastname": "Bolaños García",
+          "firstname": "Félix",
+          "type": "member of government",
+          "role": "Ministro de la Presidencia, Justicia y Relaciones con las Cortes",
+          "faction": {
+            "label": "Grupo Parlamentario Socialista"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 14
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 22
+      },
+      "agendaItem": {
+        "title": "¿Qué entiende usted por terrorismo?",
+        "officialTitle": "¿Qué entiende usted por terrorismo?",
+        "type": "qa",
+        "nativeType": "ES-pregunta"
+      },
+      "dateStart": "2024-02-07T09:30:00+01:00",
+      "dateEnd": "2024-02-07T09:31:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_020/cortes/15_000400_020_0_24574_728242.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1528242I",
+        "duration": 60.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_020_0_24574_728242",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Miguel Tellado Filgueira",
+          "lastname": "Tellado Filgueira",
+          "firstname": "Miguel",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Popular en el Congreso"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 15
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 22
+      },
+      "agendaItem": {
+        "title": "¿Qué entiende usted por terrorismo?",
+        "officialTitle": "¿Qué entiende usted por terrorismo?",
+        "type": "qa",
+        "nativeType": "ES-pregunta"
+      },
+      "dateStart": "2024-02-07T09:31:00+01:00",
+      "dateEnd": "2024-02-07T09:32:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_020/cortes/15_000400_020_0_24574_728243.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1528243I",
+        "duration": 60.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_020_0_24574_728243",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Félix Bolaños García",
+          "lastname": "Bolaños García",
+          "firstname": "Félix",
+          "type": "member of government",
+          "role": "Ministro de la Presidencia, Justicia y Relaciones con las Cortes",
+          "faction": {
+            "label": "Grupo Parlamentario Socialista"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 16
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 22
+      },
+      "agendaItem": {
+        "title": "¿Qué entiende usted por terrorismo?",
+        "officialTitle": "¿Qué entiende usted por terrorismo?",
+        "type": "qa",
+        "nativeType": "ES-pregunta"
+      },
+      "dateStart": "2024-02-07T09:32:00+01:00",
+      "dateEnd": "2024-02-07T09:34:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_020/cortes/15_000400_020_0_24574_728244.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1528244I",
+        "duration": 120.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_020_0_24574_728244",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Miguel Tellado Filgueira",
+          "lastname": "Tellado Filgueira",
+          "firstname": "Miguel",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Popular en el Congreso"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 17
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 22
+      },
+      "agendaItem": {
+        "title": "¿Qué entiende usted por terrorismo?",
+        "officialTitle": "¿Qué entiende usted por terrorismo?",
+        "type": "qa",
+        "nativeType": "ES-pregunta"
+      },
+      "dateStart": "2024-02-07T09:34:00+01:00",
+      "dateEnd": "2024-02-07T09:36:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_020/cortes/15_000400_020_0_24574_728245.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1528245I",
+        "duration": 120.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_020_0_24574_728245",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Félix Bolaños García",
+          "lastname": "Bolaños García",
+          "firstname": "Félix",
+          "type": "member of government",
+          "role": "Ministro de la Presidencia, Justicia y Relaciones con las Cortes",
+          "faction": {
+            "label": "Grupo Parlamentario Socialista"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 18
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 22
+      },
+      "agendaItem": {
+        "title": "¿Cuál es la posición del Gobierno ante la inclusión en una ley de\namnistía de los delitos de alta traición al Estado?",
+        "officialTitle": "¿Cuál es la posición del Gobierno ante la inclusión en una ley de\namnistía de los delitos de alta traición al Estado?",
+        "type": "qa",
+        "nativeType": "ES-pregunta"
+      },
+      "dateStart": "2024-02-07T09:36:00+01:00",
+      "dateEnd": "2024-02-07T09:38:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_020/cortes/15_000400_020_0_24574_728247.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1528247I",
+        "duration": 120.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_020_0_24574_728247",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Rafael Antonio Hernando Fraile",
+          "lastname": "Hernando Fraile",
+          "firstname": "Rafael Antonio",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Popular en el Congreso"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 19
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 22
+      },
+      "agendaItem": {
+        "title": "¿Cuál es la posición del Gobierno ante la inclusión en una ley de\namnistía de los delitos de alta traición al Estado?",
+        "officialTitle": "¿Cuál es la posición del Gobierno ante la inclusión en una ley de\namnistía de los delitos de alta traición al Estado?",
+        "type": "qa",
+        "nativeType": "ES-pregunta"
+      },
+      "dateStart": "2024-02-07T09:38:00+01:00",
+      "dateEnd": "2024-02-07T09:39:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_020/cortes/15_000400_020_0_24574_728248.mp4\nhttps://www.congreso.es/audiovisual/video/leg15/400/15_000400_020/cortes/15_000400_020_0_24574_728250.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1528248I https://app.congreso.es/v1/15728250I",
+        "duration": 60.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_020_0_24574_728250",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Félix Bolaños García",
+          "lastname": "Bolaños García",
+          "firstname": "Félix",
+          "type": "member of government",
+          "role": "Ministro de la Presidencia, Justicia y Relaciones con las Cortes",
+          "faction": {
+            "label": "Grupo Parlamentario Socialista"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 20
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 22
+      },
+      "agendaItem": {
+        "title": "¿Cuál es la posición del Gobierno ante la inclusión en una ley de\namnistía de los delitos de alta traición al Estado?",
+        "officialTitle": "¿Cuál es la posición del Gobierno ante la inclusión en una ley de\namnistía de los delitos de alta traición al Estado?",
+        "type": "qa",
+        "nativeType": "ES-pregunta"
+      },
+      "dateStart": "2024-02-07T09:40:00+01:00",
+      "dateEnd": "2024-02-07T09:40:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_020/cortes/15_000400_020_0_24574_728249.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1528249I",
+        "duration": 0.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_020_0_24574_728249",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Rafael Antonio Hernando Fraile",
+          "lastname": "Hernando Fraile",
+          "firstname": "Rafael Antonio",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Popular en el Congreso"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 21
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 22
+      },
+      "agendaItem": {
+        "title": "¿Va su Gobierno a seguir promoviendo el señalamiento a miembros de la\ncarrera judicial?",
+        "officialTitle": "¿Va su Gobierno a seguir promoviendo el señalamiento a miembros de la\ncarrera judicial?",
+        "type": "qa",
+        "nativeType": "ES-pregunta"
+      },
+      "dateStart": "2024-02-07T09:42:00+01:00",
+      "dateEnd": "2024-02-07T09:43:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_020/cortes/15_000400_020_0_24574_728252.mp4\nhttps://www.congreso.es/audiovisual/video/leg15/400/15_000400_020/cortes/15_000400_020_0_24574_728254.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1528252I https://app.congreso.es/v1/15728254I",
+        "duration": 60.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_020_0_24574_728254",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Elías Bendodo Benasayag",
+          "lastname": "Bendodo Benasayag",
+          "firstname": "Elías",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Popular en el Congreso"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 22
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 22
+      },
+      "agendaItem": {
+        "title": "¿Va su Gobierno a seguir promoviendo el señalamiento a miembros de la\ncarrera judicial?",
+        "officialTitle": "¿Va su Gobierno a seguir promoviendo el señalamiento a miembros de la\ncarrera judicial?",
+        "type": "qa",
+        "nativeType": "ES-pregunta"
+      },
+      "dateStart": "2024-02-07T09:43:00+01:00",
+      "dateEnd": "2024-02-07T09:45:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_020/cortes/15_000400_020_0_24574_728253.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1528253I",
+        "duration": 120.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_020_0_24574_728253",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Félix Bolaños García",
+          "lastname": "Bolaños García",
+          "firstname": "Félix",
+          "type": "member of government",
+          "role": "Ministro de la Presidencia, Justicia y Relaciones con las Cortes",
+          "faction": {
+            "label": "Grupo Parlamentario Socialista"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 23
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 22
+      },
+      "agendaItem": {
+        "title": "¿Va su Gobierno a seguir promoviendo el señalamiento a miembros de la\ncarrera judicial?",
+        "officialTitle": "¿Va su Gobierno a seguir promoviendo el señalamiento a miembros de la\ncarrera judicial?",
+        "type": "qa",
+        "nativeType": "ES-pregunta"
+      },
+      "dateStart": "2024-02-07T09:47:00+01:00",
+      "dateEnd": "2024-02-07T09:48:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_020/cortes/15_000400_020_0_24574_728255.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1528255I",
+        "duration": 60.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_020_0_24574_728255",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Félix Bolaños García",
+          "lastname": "Bolaños García",
+          "firstname": "Félix",
+          "type": "member of government",
+          "role": "Ministro de la Presidencia, Justicia y Relaciones con las Cortes",
+          "faction": {
+            "label": "Grupo Parlamentario Socialista"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 24
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 22
+      },
+      "agendaItem": {
+        "title": "¿Qué entiende usted por \"una España habitable\"?",
+        "officialTitle": "¿Qué entiende usted por \"una España habitable\"?",
+        "type": "qa",
+        "nativeType": "ES-pregunta"
+      },
+      "dateStart": "2024-02-07T09:48:00+01:00",
+      "dateEnd": "2024-02-07T09:48:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_020/cortes/15_000400_020_0_24574_728257.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1528257I",
+        "duration": 0.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_020_0_24574_728257",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Sergio Sayas López",
+          "lastname": "Sayas López",
+          "firstname": "Sergio",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Popular en el Congreso"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 25
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 22
+      },
+      "agendaItem": {
+        "title": "¿Qué entiende usted por \"una España habitable\"?",
+        "officialTitle": "¿Qué entiende usted por \"una España habitable\"?",
+        "type": "qa",
+        "nativeType": "ES-pregunta"
+      },
+      "dateStart": "2024-02-07T09:48:00+01:00",
+      "dateEnd": "2024-02-07T09:49:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_020/cortes/15_000400_020_0_24574_728258.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1528258I",
+        "duration": 60.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_020_0_24574_728258",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Félix Bolaños García",
+          "lastname": "Bolaños García",
+          "firstname": "Félix",
+          "type": "member of government",
+          "role": "Ministro de la Presidencia, Justicia y Relaciones con las Cortes",
+          "faction": {
+            "label": "Grupo Parlamentario Socialista"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 26
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 22
+      },
+      "agendaItem": {
+        "title": "¿Qué entiende usted por \"una España habitable\"?",
+        "officialTitle": "¿Qué entiende usted por \"una España habitable\"?",
+        "type": "qa",
+        "nativeType": "ES-pregunta"
+      },
+      "dateStart": "2024-02-07T09:49:00+01:00",
+      "dateEnd": "2024-02-07T09:51:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_020/cortes/15_000400_020_0_24574_728259.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1528259I",
+        "duration": 120.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_020_0_24574_728259",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Sergio Sayas López",
+          "lastname": "Sayas López",
+          "firstname": "Sergio",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Popular en el Congreso"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 27
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 22
+      },
+      "agendaItem": {
+        "title": "¿Qué entiende usted por \"una España habitable\"?",
+        "officialTitle": "¿Qué entiende usted por \"una España habitable\"?",
+        "type": "qa",
+        "nativeType": "ES-pregunta"
+      },
+      "dateStart": "2024-02-07T09:52:00+01:00",
+      "dateEnd": "2024-02-07T09:54:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_020/cortes/15_000400_020_0_24574_728260.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1528260I",
+        "duration": 120.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_020_0_24574_728260",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Félix Bolaños García",
+          "lastname": "Bolaños García",
+          "firstname": "Félix",
+          "type": "member of government",
+          "role": "Ministro de la Presidencia, Justicia y Relaciones con las Cortes",
+          "faction": {
+            "label": "Grupo Parlamentario Socialista"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 28
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 22
+      },
+      "agendaItem": {
+        "title": "¿Qué opinión le merece al Ministro de la Presidencia, Justicia y\nRelaciones con las Cortes que sus socios de Gobierno señalen con nombre y\napellidos a los jueces desde la tribuna del Congreso?",
+        "officialTitle": "¿Qué opinión le merece al Ministro de la Presidencia, Justicia y\nRelaciones con las Cortes que sus socios de Gobierno señalen con nombre y\napellidos a los jueces desde la tribuna del Congreso?",
+        "type": "qa",
+        "nativeType": "ES-pregunta"
+      },
+      "dateStart": "2024-02-07T09:54:00+01:00",
+      "dateEnd": "2024-02-07T09:54:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_020/cortes/15_000400_020_0_24574_728262.mp4\nhttps://www.congreso.es/audiovisual/video/leg15/400/15_000400_020/cortes/15_000400_020_0_24574_728264.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1528262I https://app.congreso.es/v1/15728264I",
+        "duration": 0.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_020_0_24574_728264",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "María José Rodríguez de Millán Parro",
+          "lastname": "Rodríguez de Millán Parro",
+          "firstname": "María José",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario VOX"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 29
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 22
+      },
+      "agendaItem": {
+        "title": "¿Qué opinión le merece al Ministro de la Presidencia, Justicia y\nRelaciones con las Cortes que sus socios de Gobierno señalen con nombre y\napellidos a los jueces desde la tribuna del Congreso?",
+        "officialTitle": "¿Qué opinión le merece al Ministro de la Presidencia, Justicia y\nRelaciones con las Cortes que sus socios de Gobierno señalen con nombre y\napellidos a los jueces desde la tribuna del Congreso?",
+        "type": "qa",
+        "nativeType": "ES-pregunta"
+      },
+      "dateStart": "2024-02-07T09:54:00+01:00",
+      "dateEnd": "2024-02-07T09:55:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_020/cortes/15_000400_020_0_24574_728263.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1528263I",
+        "duration": 60.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_020_0_24574_728263",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Félix Bolaños García",
+          "lastname": "Bolaños García",
+          "firstname": "Félix",
+          "type": "member of government",
+          "role": "Ministro de la Presidencia, Justicia y Relaciones con las Cortes",
+          "faction": {
+            "label": "Grupo Parlamentario Socialista"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 30
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 22
+      },
+      "agendaItem": {
+        "title": "¿Qué opinión le merece al Ministro de la Presidencia, Justicia y\nRelaciones con las Cortes que sus socios de Gobierno señalen con nombre y\napellidos a los jueces desde la tribuna del Congreso?",
+        "officialTitle": "¿Qué opinión le merece al Ministro de la Presidencia, Justicia y\nRelaciones con las Cortes que sus socios de Gobierno señalen con nombre y\napellidos a los jueces desde la tribuna del Congreso?",
+        "type": "qa",
+        "nativeType": "ES-pregunta"
+      },
+      "dateStart": "2024-02-07T09:57:00+01:00",
+      "dateEnd": "2024-02-07T09:59:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_020/cortes/15_000400_020_0_24574_728265.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1528265I",
+        "duration": 120.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_020_0_24574_728265",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Félix Bolaños García",
+          "lastname": "Bolaños García",
+          "firstname": "Félix",
+          "type": "member of government",
+          "role": "Ministro de la Presidencia, Justicia y Relaciones con las Cortes",
+          "faction": {
+            "label": "Grupo Parlamentario Socialista"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 31
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 22
+      },
+      "agendaItem": {
+        "title": "¿Qué previsiones maneja el Gobierno de España para arreglar el\nlamentable estado de conservación de las autovías estatales y carreteras\nnacionales en Galicia?",
+        "officialTitle": "¿Qué previsiones maneja el Gobierno de España para arreglar el\nlamentable estado de conservación de las autovías estatales y carreteras\nnacionales en Galicia?",
+        "type": "qa",
+        "nativeType": "ES-pregunta"
+      },
+      "dateStart": "2024-02-07T09:59:00+01:00",
+      "dateEnd": "2024-02-07T10:01:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_020/cortes/15_000400_020_0_24574_728267.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1528267I",
+        "duration": 120.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_020_0_24574_728267",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Jaime Eduardo de Olano Vela",
+          "lastname": "Olano Vela",
+          "firstname": "Jaime Eduardo de",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Popular en el Congreso"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 32
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 22
+      },
+      "agendaItem": {
+        "title": "¿Qué previsiones maneja el Gobierno de España para arreglar el\nlamentable estado de conservación de las autovías estatales y carreteras\nnacionales en Galicia?",
+        "officialTitle": "¿Qué previsiones maneja el Gobierno de España para arreglar el\nlamentable estado de conservación de las autovías estatales y carreteras\nnacionales en Galicia?",
+        "type": "qa",
+        "nativeType": "ES-pregunta"
+      },
+      "dateStart": "2024-02-07T10:01:00+01:00",
+      "dateEnd": "2024-02-07T10:03:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_020/cortes/15_000400_020_0_24574_728268.mp4\nhttps://www.congreso.es/audiovisual/video/leg15/400/15_000400_020/cortes/15_000400_020_0_24574_728270.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1528268I https://app.congreso.es/v1/15728270I",
+        "duration": 120.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_020_0_24574_728270",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Óscar Puente Santiago",
+          "lastname": "Puente Santiago",
+          "firstname": "Óscar",
+          "type": "member of government",
+          "role": "Ministro de Transportes y Movilidad Sostenible",
+          "faction": {
+            "label": "Grupo Parlamentario Socialista"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 33
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 22
+      },
+      "agendaItem": {
+        "title": "¿Qué previsiones maneja el Gobierno de España para arreglar el\nlamentable estado de conservación de las autovías estatales y carreteras\nnacionales en Galicia?",
+        "officialTitle": "¿Qué previsiones maneja el Gobierno de España para arreglar el\nlamentable estado de conservación de las autovías estatales y carreteras\nnacionales en Galicia?",
+        "type": "qa",
+        "nativeType": "ES-pregunta"
+      },
+      "dateStart": "2024-02-07T10:03:00+01:00",
+      "dateEnd": "2024-02-07T10:04:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_020/cortes/15_000400_020_0_24574_728269.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1528269I",
+        "duration": 60.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_020_0_24574_728269",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Jaime Eduardo de Olano Vela",
+          "lastname": "Olano Vela",
+          "firstname": "Jaime Eduardo de",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Popular en el Congreso"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 34
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 22
+      },
+      "agendaItem": {
+        "title": "¿Cómo valora el Gobierno de España las políticas en materia de\ninfraestructuras y de transportes desarrolladas desde el año 2019 a la\nactualidad, también los proyectos, inversiones y actuaciones futuras, en\nla Comunidad Autónoma de Galicia?",
+        "officialTitle": "¿Cómo valora el Gobierno de España las políticas en materia de\ninfraestructuras y de transportes desarrolladas desde el año 2019 a la\nactualidad, también los proyectos, inversiones y actuaciones futuras, en\nla Comunidad Autónoma de Galicia?",
+        "type": "qa",
+        "nativeType": "ES-pregunta"
+      },
+      "dateStart": "2024-02-07T10:05:00+01:00",
+      "dateEnd": "2024-02-07T10:07:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_020/cortes/15_000400_020_0_24574_728272.mp4\nhttps://www.congreso.es/audiovisual/video/leg15/400/15_000400_020/cortes/15_000400_020_0_24574_728274.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1528272I https://app.congreso.es/v1/15728274I",
+        "duration": 120.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_020_0_24574_728274",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "David Regades Fernández",
+          "lastname": "Regades Fernández",
+          "firstname": "David",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Socialista"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 35
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 22
+      },
+      "agendaItem": {
+        "title": "¿Cómo valora el Gobierno de España las políticas en materia de\ninfraestructuras y de transportes desarrolladas desde el año 2019 a la\nactualidad, también los proyectos, inversiones y actuaciones futuras, en\nla Comunidad Autónoma de Galicia?",
+        "officialTitle": "¿Cómo valora el Gobierno de España las políticas en materia de\ninfraestructuras y de transportes desarrolladas desde el año 2019 a la\nactualidad, también los proyectos, inversiones y actuaciones futuras, en\nla Comunidad Autónoma de Galicia?",
+        "type": "qa",
+        "nativeType": "ES-pregunta"
+      },
+      "dateStart": "2024-02-07T10:07:00+01:00",
+      "dateEnd": "2024-02-07T10:10:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_020/cortes/15_000400_020_0_24574_728273.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1528273I",
+        "duration": 180.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_020_0_24574_728273",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Óscar Puente Santiago",
+          "lastname": "Puente Santiago",
+          "firstname": "Óscar",
+          "type": "member of government",
+          "role": "Ministro de Transportes y Movilidad Sostenible",
+          "faction": {
+            "label": "Grupo Parlamentario Socialista"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 36
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 22
+      },
+      "agendaItem": {
+        "title": "¿Qué frena al Gobierno para implantar una EBAU común en España?",
+        "officialTitle": "¿Qué frena al Gobierno para implantar una EBAU común en España?",
+        "type": "qa",
+        "nativeType": "ES-pregunta"
+      },
+      "dateStart": "2024-02-07T10:11:00+01:00",
+      "dateEnd": "2024-02-07T10:12:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_020/cortes/15_000400_020_0_24574_728276.mp4\nhttps://www.congreso.es/audiovisual/video/leg15/400/15_000400_020/cortes/15_000400_020_0_24574_728278.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1528276I https://app.congreso.es/v1/15728278I",
+        "duration": 60.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_020_0_24574_728278",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Ester Muñoz de la Iglesia",
+          "lastname": "Muñoz de la Iglesia",
+          "firstname": "Ester",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Popular en el Congreso"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 37
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 22
+      },
+      "agendaItem": {
+        "title": "¿Qué frena al Gobierno para implantar una EBAU común en España?",
+        "officialTitle": "¿Qué frena al Gobierno para implantar una EBAU común en España?",
+        "type": "qa",
+        "nativeType": "ES-pregunta"
+      },
+      "dateStart": "2024-02-07T10:12:00+01:00",
+      "dateEnd": "2024-02-07T10:12:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_020/cortes/15_000400_020_0_24574_728277.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1528277I",
+        "duration": 0.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_020_0_24574_728277",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "María Pilar Alegría Continente",
+          "lastname": "Alegría Continente",
+          "firstname": "María Pilar",
+          "type": "member of government",
+          "role": "Ministra de Educación, Formación Profesional y Deporte"
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 38
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 22
+      },
+      "agendaItem": {
+        "title": "¿Qué frena al Gobierno para implantar una EBAU común en España?",
+        "officialTitle": "¿Qué frena al Gobierno para implantar una EBAU común en España?",
+        "type": "qa",
+        "nativeType": "ES-pregunta"
+      },
+      "dateStart": "2024-02-07T10:14:00+01:00",
+      "dateEnd": "2024-02-07T10:16:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_020/cortes/15_000400_020_0_24574_728279.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1528279I",
+        "duration": 120.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_020_0_24574_728279",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "María Pilar Alegría Continente",
+          "lastname": "Alegría Continente",
+          "firstname": "María Pilar",
+          "type": "member of government",
+          "role": "Ministra de Educación, Formación Profesional y Deporte"
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 39
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 22
+      },
+      "agendaItem": {
+        "title": "¿Qué medidas ha tomado el Gobierno en defensa de los agricultores\nespañoles desde el estallido de las protestas en Francia?",
+        "officialTitle": "¿Qué medidas ha tomado el Gobierno en defensa de los agricultores\nespañoles desde el estallido de las protestas en Francia?",
+        "type": "qa",
+        "nativeType": "ES-pregunta"
+      },
+      "dateStart": "2024-02-07T10:17:00+01:00",
+      "dateEnd": "2024-02-07T10:18:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_020/cortes/15_000400_020_0_24574_728281.mp4\nhttps://www.congreso.es/audiovisual/video/leg15/400/15_000400_020/cortes/15_000400_020_0_24574_728283.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1528281I https://app.congreso.es/v1/15728283I",
+        "duration": 60.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_020_0_24574_728283",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Macarena Montesinos de Miguel",
+          "lastname": "Montesinos de Miguel",
+          "firstname": "Macarena",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Popular en el Congreso"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 40
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 22
+      },
+      "agendaItem": {
+        "title": "¿Qué medidas ha tomado el Gobierno en defensa de los agricultores\nespañoles desde el estallido de las protestas en Francia?",
+        "officialTitle": "¿Qué medidas ha tomado el Gobierno en defensa de los agricultores\nespañoles desde el estallido de las protestas en Francia?",
+        "type": "qa",
+        "nativeType": "ES-pregunta"
+      },
+      "dateStart": "2024-02-07T10:18:00+01:00",
+      "dateEnd": "2024-02-07T10:19:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_020/cortes/15_000400_020_0_24574_728282.mp4\nhttps://www.congreso.es/audiovisual/video/leg15/400/15_000400_020/cortes/15_000400_020_0_24574_728284.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1528282I https://app.congreso.es/v1/15728284I",
+        "duration": 60.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_020_0_24574_728284",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Luis Planas Puchades",
+          "lastname": "Planas Puchades",
+          "firstname": "Luis",
+          "type": "member of government",
+          "role": "Ministro de Agricultura, Pesca y Alimentación"
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 41
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 22
+      },
+      "agendaItem": {
+        "title": "¿Qué valoración hace el Gobierno español de las movilizaciones de\nagricultores y ganaderos?",
+        "officialTitle": "¿Qué valoración hace el Gobierno español de las movilizaciones de\nagricultores y ganaderos?",
+        "type": "qa",
+        "nativeType": "ES-pregunta"
+      },
+      "dateStart": "2024-02-07T10:23:00+01:00",
+      "dateEnd": "2024-02-07T10:23:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_020/cortes/15_000400_020_0_24574_728286.mp4\nhttps://www.congreso.es/audiovisual/video/leg15/400/15_000400_020/cortes/15_000400_020_0_24574_728288.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1528286I https://app.congreso.es/v1/15728288I",
+        "duration": 0.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_020_0_24574_728288",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Isidre Gavin i Valls",
+          "lastname": "Gavin i Valls",
+          "firstname": "Isidre",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Junts per Catalunya"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 42
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 22
+      },
+      "agendaItem": {
+        "title": "¿Qué valoración hace el Gobierno español de las movilizaciones de\nagricultores y ganaderos?",
+        "officialTitle": "¿Qué valoración hace el Gobierno español de las movilizaciones de\nagricultores y ganaderos?",
+        "type": "qa",
+        "nativeType": "ES-pregunta"
+      },
+      "dateStart": "2024-02-07T10:23:00+01:00",
+      "dateEnd": "2024-02-07T10:25:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_020/cortes/15_000400_020_0_24574_728287.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1528287I",
+        "duration": 120.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_020_0_24574_728287",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Luis Planas Puchades",
+          "lastname": "Planas Puchades",
+          "firstname": "Luis",
+          "type": "member of government",
+          "role": "Ministro de Agricultura, Pesca y Alimentación"
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 43
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 22
+      },
+      "agendaItem": {
+        "title": "¿Qué valoración hace el Gobierno español de las movilizaciones de\nagricultores y ganaderos?",
+        "officialTitle": "¿Qué valoración hace el Gobierno español de las movilizaciones de\nagricultores y ganaderos?",
+        "type": "qa",
+        "nativeType": "ES-pregunta"
+      },
+      "dateStart": "2024-02-07T10:27:00+01:00",
+      "dateEnd": "2024-02-07T10:29:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_020/cortes/15_000400_020_0_24574_728289.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1528289I",
+        "duration": 120.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_020_0_24574_728289",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Luis Planas Puchades",
+          "lastname": "Planas Puchades",
+          "firstname": "Luis",
+          "type": "member of government",
+          "role": "Ministro de Agricultura, Pesca y Alimentación"
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 44
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 22
+      },
+      "agendaItem": {
+        "title": "¿Qué actuaciones tiene previstas el Gobierno ante los beneficios\nmilmillonarios que acumula la banca española?",
+        "officialTitle": "¿Qué actuaciones tiene previstas el Gobierno ante los beneficios\nmilmillonarios que acumula la banca española?",
+        "type": "qa",
+        "nativeType": "ES-pregunta"
+      },
+      "dateStart": "2024-02-07T10:29:00+01:00",
+      "dateEnd": "2024-02-07T10:30:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_020/cortes/15_000400_020_0_24574_728291.mp4\nhttps://www.congreso.es/audiovisual/video/leg15/400/15_000400_020/cortes/15_000400_020_0_24574_728293.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1528291I https://app.congreso.es/v1/15728293I",
+        "duration": 60.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_020_0_24574_728293",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Ione Belarra Urteaga",
+          "lastname": "Belarra Urteaga",
+          "firstname": "Ione",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Mixto"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 45
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 22
+      },
+      "agendaItem": {
+        "title": "¿Qué actuaciones tiene previstas el Gobierno ante los beneficios\nmilmillonarios que acumula la banca española?",
+        "officialTitle": "¿Qué actuaciones tiene previstas el Gobierno ante los beneficios\nmilmillonarios que acumula la banca española?",
+        "type": "qa",
+        "nativeType": "ES-pregunta"
+      },
+      "dateStart": "2024-02-07T10:30:00+01:00",
+      "dateEnd": "2024-02-07T10:31:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_020/cortes/15_000400_020_0_24574_728292.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1528292I",
+        "duration": 60.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_020_0_24574_728292",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Carlos Cuerpo Caballero",
+          "lastname": "Cuerpo Caballero",
+          "firstname": "Carlos",
+          "type": "member of government",
+          "role": "Ministro de Economía, Comercio y Empresa"
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 46
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 22
+      },
+      "agendaItem": {
+        "title": "¿Qué actuaciones tiene previstas el Gobierno ante los beneficios\nmilmillonarios que acumula la banca española?",
+        "officialTitle": "¿Qué actuaciones tiene previstas el Gobierno ante los beneficios\nmilmillonarios que acumula la banca española?",
+        "type": "qa",
+        "nativeType": "ES-pregunta"
+      },
+      "dateStart": "2024-02-07T10:33:00+01:00",
+      "dateEnd": "2024-02-07T10:35:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_020/cortes/15_000400_020_0_24574_728294.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1528294I",
+        "duration": 120.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_020_0_24574_728294",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Carlos Cuerpo Caballero",
+          "lastname": "Cuerpo Caballero",
+          "firstname": "Carlos",
+          "type": "member of government",
+          "role": "Ministro de Economía, Comercio y Empresa"
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 47
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 22
+      },
+      "agendaItem": {
+        "title": "¿Piensa usted seguir condicionando la política migratoria de España a\nlos intereses particulares de sus socios?",
+        "officialTitle": "¿Piensa usted seguir condicionando la política migratoria de España a\nlos intereses particulares de sus socios?",
+        "type": "qa",
+        "nativeType": "ES-pregunta"
+      },
+      "dateStart": "2024-02-07T10:35:00+01:00",
+      "dateEnd": "2024-02-07T10:36:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_020/cortes/15_000400_020_0_24574_728296.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1528296I",
+        "duration": 60.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_020_0_24574_728296",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Javier De Andrés Guerra",
+          "lastname": "De Andrés Guerra",
+          "firstname": "Javier",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Popular en el Congreso"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 48
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 22
+      },
+      "agendaItem": {
+        "title": "¿Piensa usted seguir condicionando la política migratoria de España a\nlos intereses particulares de sus socios?",
+        "officialTitle": "¿Piensa usted seguir condicionando la política migratoria de España a\nlos intereses particulares de sus socios?",
+        "type": "qa",
+        "nativeType": "ES-pregunta"
+      },
+      "dateStart": "2024-02-07T10:36:00+01:00",
+      "dateEnd": "2024-02-07T10:36:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_020/cortes/15_000400_020_0_24574_728297.mp4\nhttps://www.congreso.es/audiovisual/video/leg15/400/15_000400_020/cortes/15_000400_020_0_24574_728299.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1528297I https://app.congreso.es/v1/15728299I",
+        "duration": 0.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_020_0_24574_728299",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Elma Saiz Delgado",
+          "lastname": "Saiz Delgado",
+          "firstname": "Elma",
+          "type": "member of government",
+          "role": "Ministra de Inclusión, Seguridad Social y Migraciones"
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 49
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 22
+      },
+      "agendaItem": {
+        "title": "¿Piensa usted seguir condicionando la política migratoria de España a\nlos intereses particulares de sus socios?",
+        "officialTitle": "¿Piensa usted seguir condicionando la política migratoria de España a\nlos intereses particulares de sus socios?",
+        "type": "qa",
+        "nativeType": "ES-pregunta"
+      },
+      "dateStart": "2024-02-07T10:36:00+01:00",
+      "dateEnd": "2024-02-07T10:38:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_020/cortes/15_000400_020_0_24574_728298.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1528298I",
+        "duration": 120.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_020_0_24574_728298",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Javier De Andrés Guerra",
+          "lastname": "De Andrés Guerra",
+          "firstname": "Javier",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Popular en el Congreso"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 50
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 22
+      },
+      "agendaItem": {
+        "title": "¿Cuándo va a desarrollar el Gobierno el Reglamento regulador del\nFondo de compensación a las víctimas del amianto?",
+        "officialTitle": "¿Cuándo va a desarrollar el Gobierno el Reglamento regulador del\nFondo de compensación a las víctimas del amianto?",
+        "type": "qa",
+        "nativeType": "ES-pregunta"
+      },
+      "dateStart": "2024-02-07T10:41:00+01:00",
+      "dateEnd": "2024-02-07T10:41:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_020/cortes/15_000400_020_0_24574_728301.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1528301I",
+        "duration": 0.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_020_0_24574_728301",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Oskar Matute García de Jalón",
+          "lastname": "Matute García de Jalón",
+          "firstname": "Oskar",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Euskal Herria Bildu"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 51
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 22
+      },
+      "agendaItem": {
+        "title": "¿Cuándo va a desarrollar el Gobierno el Reglamento regulador del\nFondo de compensación a las víctimas del amianto?",
+        "officialTitle": "¿Cuándo va a desarrollar el Gobierno el Reglamento regulador del\nFondo de compensación a las víctimas del amianto?",
+        "type": "qa",
+        "nativeType": "ES-pregunta"
+      },
+      "dateStart": "2024-02-07T10:41:00+01:00",
+      "dateEnd": "2024-02-07T10:43:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_020/cortes/15_000400_020_0_24574_728302.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1528302I",
+        "duration": 120.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_020_0_24574_728302",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Elma Saiz Delgado",
+          "lastname": "Saiz Delgado",
+          "firstname": "Elma",
+          "type": "member of government",
+          "role": "Ministra de Inclusión, Seguridad Social y Migraciones"
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 52
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 22
+      },
+      "agendaItem": {
+        "title": "¿Cuándo va a desarrollar el Gobierno el Reglamento regulador del\nFondo de compensación a las víctimas del amianto?",
+        "officialTitle": "¿Cuándo va a desarrollar el Gobierno el Reglamento regulador del\nFondo de compensación a las víctimas del amianto?",
+        "type": "qa",
+        "nativeType": "ES-pregunta"
+      },
+      "dateStart": "2024-02-07T10:43:00+01:00",
+      "dateEnd": "2024-02-07T10:45:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_020/cortes/15_000400_020_0_24574_728303.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1528303I",
+        "duration": 120.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_020_0_24574_728303",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Oskar Matute García de Jalón",
+          "lastname": "Matute García de Jalón",
+          "firstname": "Oskar",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Euskal Herria Bildu"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 53
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 22
+      },
+      "agendaItem": {
+        "title": "¿Cuándo va a desarrollar el Gobierno el Reglamento regulador del\nFondo de compensación a las víctimas del amianto?",
+        "officialTitle": "¿Cuándo va a desarrollar el Gobierno el Reglamento regulador del\nFondo de compensación a las víctimas del amianto?",
+        "type": "qa",
+        "nativeType": "ES-pregunta"
+      },
+      "dateStart": "2024-02-07T10:45:00+01:00",
+      "dateEnd": "2024-02-07T10:46:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_020/cortes/15_000400_020_0_24574_728304.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1528304I",
+        "duration": 60.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_020_0_24574_728304",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Elma Saiz Delgado",
+          "lastname": "Saiz Delgado",
+          "firstname": "Elma",
+          "type": "member of government",
+          "role": "Ministra de Inclusión, Seguridad Social y Migraciones"
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 54
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 22
+      },
+      "agendaItem": {
+        "title": "Interpelación urgente al Ministro de Agricultura, Pesca y\nAlimentación sobre las medidas que va a impulsar el Gobierno para\nsalvaguardar los intereses del campo español y garantizar la libertad y\nviabilidad de nuestro sector primario frente a las imposiciones\ncomunitarias y la competencia desleal extranjera.",
+        "officialTitle": "Interpelación urgente al Ministro de Agricultura, Pesca y\nAlimentación sobre las medidas que va a impulsar el Gobierno para\nsalvaguardar los intereses del campo español y garantizar la libertad y\nviabilidad de nuestro sector primario frente a las imposiciones\ncomunitarias y la competencia desleal extranjera.",
+        "type": "questioning_of_the_government",
+        "nativeType": "ES-interpelacion"
+      },
+      "dateStart": "2024-02-07T10:48:00+01:00",
+      "dateEnd": "2024-02-07T11:01:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_020/cortes/15_000400_020_0_24574_728307.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1528307I",
+        "duration": 780.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_020_0_24574_728307",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Ricardo Chamorro Delmo",
+          "lastname": "Chamorro Delmo",
+          "firstname": "Ricardo",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario VOX"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 55
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 22
+      },
+      "agendaItem": {
+        "title": "Interpelación urgente al Ministro de Agricultura, Pesca y\nAlimentación sobre las medidas que va a impulsar el Gobierno para\nsalvaguardar los intereses del campo español y garantizar la libertad y\nviabilidad de nuestro sector primario frente a las imposiciones\ncomunitarias y la competencia desleal extranjera.",
+        "officialTitle": "Interpelación urgente al Ministro de Agricultura, Pesca y\nAlimentación sobre las medidas que va a impulsar el Gobierno para\nsalvaguardar los intereses del campo español y garantizar la libertad y\nviabilidad de nuestro sector primario frente a las imposiciones\ncomunitarias y la competencia desleal extranjera.",
+        "type": "questioning_of_the_government",
+        "nativeType": "ES-interpelacion"
+      },
+      "dateStart": "2024-02-07T11:02:00+01:00",
+      "dateEnd": "2024-02-07T11:15:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_020/cortes/15_000400_020_0_24574_728308.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1528308I",
+        "duration": 780.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_020_0_24574_728308",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Luis Planas Puchades",
+          "lastname": "Planas Puchades",
+          "firstname": "Luis",
+          "type": "member of government",
+          "role": "Ministro de Agricultura, Pesca y Alimentación"
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 56
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 22
+      },
+      "agendaItem": {
+        "title": "Interpelación urgente al Ministro de Agricultura, Pesca y\nAlimentación sobre las medidas que va a impulsar el Gobierno para\nsalvaguardar los intereses del campo español y garantizar la libertad y\nviabilidad de nuestro sector primario frente a las imposiciones\ncomunitarias y la competencia desleal extranjera.",
+        "officialTitle": "Interpelación urgente al Ministro de Agricultura, Pesca y\nAlimentación sobre las medidas que va a impulsar el Gobierno para\nsalvaguardar los intereses del campo español y garantizar la libertad y\nviabilidad de nuestro sector primario frente a las imposiciones\ncomunitarias y la competencia desleal extranjera.",
+        "type": "questioning_of_the_government",
+        "nativeType": "ES-interpelacion"
+      },
+      "dateStart": "2024-02-07T11:15:00+01:00",
+      "dateEnd": "2024-02-07T11:22:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_020/cortes/15_000400_020_0_24574_728309.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1528309I",
+        "duration": 420.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_020_0_24574_728309",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Ricardo Chamorro Delmo",
+          "lastname": "Chamorro Delmo",
+          "firstname": "Ricardo",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario VOX"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 57
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 22
+      },
+      "agendaItem": {
+        "title": "Interpelación urgente al Ministro de Agricultura, Pesca y\nAlimentación sobre las medidas que va a impulsar el Gobierno para\nsalvaguardar los intereses del campo español y garantizar la libertad y\nviabilidad de nuestro sector primario frente a las imposiciones\ncomunitarias y la competencia desleal extranjera.",
+        "officialTitle": "Interpelación urgente al Ministro de Agricultura, Pesca y\nAlimentación sobre las medidas que va a impulsar el Gobierno para\nsalvaguardar los intereses del campo español y garantizar la libertad y\nviabilidad de nuestro sector primario frente a las imposiciones\ncomunitarias y la competencia desleal extranjera.",
+        "type": "questioning_of_the_government",
+        "nativeType": "ES-interpelacion"
+      },
+      "dateStart": "2024-02-07T11:22:00+01:00",
+      "dateEnd": "2024-02-07T11:28:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_020/cortes/15_000400_020_0_24574_728310.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1528310I",
+        "duration": 360.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_020_0_24574_728310",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Luis Planas Puchades",
+          "lastname": "Planas Puchades",
+          "firstname": "Luis",
+          "type": "member of government",
+          "role": "Ministro de Agricultura, Pesca y Alimentación"
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 58
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 22
+      },
+      "agendaItem": {
+        "title": "Interpelación urgente para que el Ministro de la Presidencia,\nJusticia y Relaciones con las Cortes explique cómo piensa hacer\ncompatible la continuidad de su legislatura con la prevalencia de la\nConstitución Española y del Derecho europeo.",
+        "officialTitle": "Interpelación urgente para que el Ministro de la Presidencia,\nJusticia y Relaciones con las Cortes explique cómo piensa hacer\ncompatible la continuidad de su legislatura con la prevalencia de la\nConstitución Española y del Derecho europeo.",
+        "type": "questioning_of_the_government",
+        "nativeType": "ES-interpelacion"
+      },
+      "dateStart": "2024-02-07T11:29:00+01:00",
+      "dateEnd": "2024-02-07T11:41:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_020/cortes/15_000400_020_0_24574_728312.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1528312I",
+        "duration": 720.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_020_0_24574_728312",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Cayetana Álvarez de Toledo Peralta-Ramos",
+          "lastname": "Álvarez de Toledo Peralta-Ramos",
+          "firstname": "Cayetana",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Popular en el Congreso"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 59
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 22
+      },
+      "agendaItem": {
+        "title": "Interpelación urgente para que el Ministro de la Presidencia,\nJusticia y Relaciones con las Cortes explique cómo piensa hacer\ncompatible la continuidad de su legislatura con la prevalencia de la\nConstitución Española y del Derecho europeo.",
+        "officialTitle": "Interpelación urgente para que el Ministro de la Presidencia,\nJusticia y Relaciones con las Cortes explique cómo piensa hacer\ncompatible la continuidad de su legislatura con la prevalencia de la\nConstitución Española y del Derecho europeo.",
+        "type": "questioning_of_the_government",
+        "nativeType": "ES-interpelacion"
+      },
+      "dateStart": "2024-02-07T11:42:00+01:00",
+      "dateEnd": "2024-02-07T11:54:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_020/cortes/15_000400_020_0_24574_728317.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1528317I",
+        "duration": 720.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_020_0_24574_728317",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Félix Bolaños García",
+          "lastname": "Bolaños García",
+          "firstname": "Félix",
+          "type": "member of government",
+          "role": "Ministro de la Presidencia, Justicia y Relaciones con las Cortes",
+          "faction": {
+            "label": "Grupo Parlamentario Socialista"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 60
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 22
+      },
+      "agendaItem": {
+        "title": "Interpelación urgente para que el Ministro de la Presidencia,\nJusticia y Relaciones con las Cortes explique cómo piensa hacer\ncompatible la continuidad de su legislatura con la prevalencia de la\nConstitución Española y del Derecho europeo.",
+        "officialTitle": "Interpelación urgente para que el Ministro de la Presidencia,\nJusticia y Relaciones con las Cortes explique cómo piensa hacer\ncompatible la continuidad de su legislatura con la prevalencia de la\nConstitución Española y del Derecho europeo.",
+        "type": "questioning_of_the_government",
+        "nativeType": "ES-interpelacion"
+      },
+      "dateStart": "2024-02-07T11:55:00+01:00",
+      "dateEnd": "2024-02-07T12:01:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_020/cortes/15_000400_020_1_24579_728321.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1528321I",
+        "duration": 360.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_020_1_24579_728321",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Cayetana Álvarez de Toledo Peralta-Ramos",
+          "lastname": "Álvarez de Toledo Peralta-Ramos",
+          "firstname": "Cayetana",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Popular en el Congreso"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 61
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 22
+      },
+      "agendaItem": {
+        "title": "Interpelación urgente para que el Ministro de la Presidencia,\nJusticia y Relaciones con las Cortes explique cómo piensa hacer\ncompatible la continuidad de su legislatura con la prevalencia de la\nConstitución Española y del Derecho europeo.",
+        "officialTitle": "Interpelación urgente para que el Ministro de la Presidencia,\nJusticia y Relaciones con las Cortes explique cómo piensa hacer\ncompatible la continuidad de su legislatura con la prevalencia de la\nConstitución Española y del Derecho europeo.",
+        "type": "questioning_of_the_government",
+        "nativeType": "ES-interpelacion"
+      },
+      "dateStart": "2024-02-07T12:02:00+01:00",
+      "dateEnd": "2024-02-07T12:07:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_020/cortes/15_000400_020_1_24579_728322.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1528322I",
+        "duration": 300.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_020_1_24579_728322",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Félix Bolaños García",
+          "lastname": "Bolaños García",
+          "firstname": "Félix",
+          "type": "member of government",
+          "role": "Ministro de la Presidencia, Justicia y Relaciones con las Cortes",
+          "faction": {
+            "label": "Grupo Parlamentario Socialista"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 62
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 22
+      },
+      "agendaItem": {
+        "title": "Solicitud de comparecencia del Ministro de Transportes y Movilidad\nSostenible ante el Pleno de la Cámara, para informar sobre el vertido de\npellets de plástico aparecido en la costa gallega, el seguimiento\nrealizado por el Gobierno y las medidas que piensa adoptar al respecto.",
+        "officialTitle": "Solicitud de comparecencia del Ministro de Transportes y Movilidad\nSostenible ante el Pleno de la Cámara, para informar sobre el vertido de\npellets de plástico aparecido en la costa gallega, el seguimiento\nrealizado por el Gobierno y las medidas que piensa adoptar al respecto.",
+        "type": "briefing",
+        "nativeType": "ES-comparecencia"
+      },
+      "dateStart": "2024-02-07T12:09:00+01:00",
+      "dateEnd": "2024-02-07T12:26:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_020/cortes/15_000400_020_1_24579_728325.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1528325I",
+        "duration": 1020.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_020_1_24579_728325",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Óscar Puente Santiago",
+          "lastname": "Puente Santiago",
+          "firstname": "Óscar",
+          "type": "member of government",
+          "role": "Ministro de Transportes y Movilidad Sostenible",
+          "faction": {
+            "label": "Grupo Parlamentario Socialista"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 63
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 22
+      },
+      "agendaItem": {
+        "title": "Solicitud de comparecencia del Ministro de Transportes y Movilidad\nSostenible ante el Pleno de la Cámara, para informar sobre el vertido de\npellets de plástico aparecido en la costa gallega, el seguimiento\nrealizado por el Gobierno y las medidas que piensa adoptar al respecto.",
+        "officialTitle": "Solicitud de comparecencia del Ministro de Transportes y Movilidad\nSostenible ante el Pleno de la Cámara, para informar sobre el vertido de\npellets de plástico aparecido en la costa gallega, el seguimiento\nrealizado por el Gobierno y las medidas que piensa adoptar al respecto.",
+        "type": "briefing",
+        "nativeType": "ES-comparecencia"
+      },
+      "dateStart": "2024-02-07T12:27:00+01:00",
+      "dateEnd": "2024-02-07T12:38:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_020/cortes/15_000400_020_1_24579_728326.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1528326I",
+        "duration": 660.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_020_1_24579_728326",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Miguel Tellado Filgueira",
+          "lastname": "Tellado Filgueira",
+          "firstname": "Miguel",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Popular en el Congreso"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 64
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 22
+      },
+      "agendaItem": {
+        "title": "Solicitud de comparecencia del Ministro de Transportes y Movilidad\nSostenible ante el Pleno de la Cámara, para informar sobre el vertido de\npellets de plástico aparecido en la costa gallega, el seguimiento\nrealizado por el Gobierno y las medidas que piensa adoptar al respecto.",
+        "officialTitle": "Solicitud de comparecencia del Ministro de Transportes y Movilidad\nSostenible ante el Pleno de la Cámara, para informar sobre el vertido de\npellets de plástico aparecido en la costa gallega, el seguimiento\nrealizado por el Gobierno y las medidas que piensa adoptar al respecto.",
+        "type": "briefing",
+        "nativeType": "ES-comparecencia"
+      },
+      "dateStart": "2024-02-07T12:39:00+01:00",
+      "dateEnd": "2024-02-07T12:47:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_020/cortes/15_000400_020_1_24579_728327.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1528327I",
+        "duration": 480.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_020_1_24579_728327",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Carina Mejías Sánchez",
+          "lastname": "Mejías Sánchez",
+          "firstname": "Carina",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario VOX"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 65
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 22
+      },
+      "agendaItem": {
+        "title": "Solicitud de comparecencia del Ministro de Transportes y Movilidad\nSostenible ante el Pleno de la Cámara, para informar sobre el vertido de\npellets de plástico aparecido en la costa gallega, el seguimiento\nrealizado por el Gobierno y las medidas que piensa adoptar al respecto.",
+        "officialTitle": "Solicitud de comparecencia del Ministro de Transportes y Movilidad\nSostenible ante el Pleno de la Cámara, para informar sobre el vertido de\npellets de plástico aparecido en la costa gallega, el seguimiento\nrealizado por el Gobierno y las medidas que piensa adoptar al respecto.",
+        "type": "briefing",
+        "nativeType": "ES-comparecencia"
+      },
+      "dateStart": "2024-02-07T12:48:00+01:00",
+      "dateEnd": "2024-02-07T12:55:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_020/cortes/15_000400_020_1_24579_728328.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1528328I",
+        "duration": 420.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_020_1_24579_728328",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Verónica Martínez Barbero",
+          "lastname": "Martínez Barbero",
+          "firstname": "Verónica",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Plurinacional SUMAR"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 66
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 22
+      },
+      "agendaItem": {
+        "title": "Solicitud de comparecencia del Ministro de Transportes y Movilidad\nSostenible ante el Pleno de la Cámara, para informar sobre el vertido de\npellets de plástico aparecido en la costa gallega, el seguimiento\nrealizado por el Gobierno y las medidas que piensa adoptar al respecto.",
+        "officialTitle": "Solicitud de comparecencia del Ministro de Transportes y Movilidad\nSostenible ante el Pleno de la Cámara, para informar sobre el vertido de\npellets de plástico aparecido en la costa gallega, el seguimiento\nrealizado por el Gobierno y las medidas que piensa adoptar al respecto.",
+        "type": "briefing",
+        "nativeType": "ES-comparecencia"
+      },
+      "dateStart": "2024-02-07T12:56:00+01:00",
+      "dateEnd": "2024-02-07T13:06:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_020/cortes/15_000400_020_1_24579_728329.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1528329I",
+        "duration": 600.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_020_1_24579_728329",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Teresa Jordà i Roura",
+          "lastname": "Jordà i Roura",
+          "firstname": "Teresa",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Republicano"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 67
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 22
+      },
+      "agendaItem": {
+        "title": "Solicitud de comparecencia del Ministro de Transportes y Movilidad\nSostenible ante el Pleno de la Cámara, para informar sobre el vertido de\npellets de plástico aparecido en la costa gallega, el seguimiento\nrealizado por el Gobierno y las medidas que piensa adoptar al respecto.",
+        "officialTitle": "Solicitud de comparecencia del Ministro de Transportes y Movilidad\nSostenible ante el Pleno de la Cámara, para informar sobre el vertido de\npellets de plástico aparecido en la costa gallega, el seguimiento\nrealizado por el Gobierno y las medidas que piensa adoptar al respecto.",
+        "type": "briefing",
+        "nativeType": "ES-comparecencia"
+      },
+      "dateStart": "2024-02-07T13:07:00+01:00",
+      "dateEnd": "2024-02-07T13:13:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_020/cortes/15_000400_020_1_24579_728330.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1528330I",
+        "duration": 360.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_020_1_24579_728330",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Idoia Sagastizabal Unzetabarrenetxea",
+          "lastname": "Sagastizabal Unzetabarrenetxea",
+          "firstname": "Idoia",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Vasco (EAJ-PNV)"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 68
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 22
+      },
+      "agendaItem": {
+        "title": "Solicitud de comparecencia del Ministro de Transportes y Movilidad\nSostenible ante el Pleno de la Cámara, para informar sobre el vertido de\npellets de plástico aparecido en la costa gallega, el seguimiento\nrealizado por el Gobierno y las medidas que piensa adoptar al respecto.",
+        "officialTitle": "Solicitud de comparecencia del Ministro de Transportes y Movilidad\nSostenible ante el Pleno de la Cámara, para informar sobre el vertido de\npellets de plástico aparecido en la costa gallega, el seguimiento\nrealizado por el Gobierno y las medidas que piensa adoptar al respecto.",
+        "type": "briefing",
+        "nativeType": "ES-comparecencia"
+      },
+      "dateStart": "2024-02-07T13:14:00+01:00",
+      "dateEnd": "2024-02-07T13:24:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_020/cortes/15_000400_020_1_24579_728331.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1528331I",
+        "duration": 600.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_020_1_24579_728331",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Néstor Rego Candamil",
+          "lastname": "Rego Candamil",
+          "firstname": "Néstor",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Mixto"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 69
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 22
+      },
+      "agendaItem": {
+        "title": "Solicitud de comparecencia del Ministro de Transportes y Movilidad\nSostenible ante el Pleno de la Cámara, para informar sobre el vertido de\npellets de plástico aparecido en la costa gallega, el seguimiento\nrealizado por el Gobierno y las medidas que piensa adoptar al respecto.",
+        "officialTitle": "Solicitud de comparecencia del Ministro de Transportes y Movilidad\nSostenible ante el Pleno de la Cámara, para informar sobre el vertido de\npellets de plástico aparecido en la costa gallega, el seguimiento\nrealizado por el Gobierno y las medidas que piensa adoptar al respecto.",
+        "type": "briefing",
+        "nativeType": "ES-comparecencia"
+      },
+      "dateStart": "2024-02-07T13:24:00+01:00",
+      "dateEnd": "2024-02-07T13:30:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_020/cortes/15_000400_020_1_24579_728332.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1528332I",
+        "duration": 360.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_020_1_24579_728332",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Javier Sánchez Serna",
+          "lastname": "Sánchez Serna",
+          "firstname": "Javier",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Mixto"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 70
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 22
+      },
+      "agendaItem": {
+        "title": "Solicitud de comparecencia del Ministro de Transportes y Movilidad\nSostenible ante el Pleno de la Cámara, para informar sobre el vertido de\npellets de plástico aparecido en la costa gallega, el seguimiento\nrealizado por el Gobierno y las medidas que piensa adoptar al respecto.",
+        "officialTitle": "Solicitud de comparecencia del Ministro de Transportes y Movilidad\nSostenible ante el Pleno de la Cámara, para informar sobre el vertido de\npellets de plástico aparecido en la costa gallega, el seguimiento\nrealizado por el Gobierno y las medidas que piensa adoptar al respecto.",
+        "type": "briefing",
+        "nativeType": "ES-comparecencia"
+      },
+      "dateStart": "2024-02-07T13:30:00+01:00",
+      "dateEnd": "2024-02-07T13:40:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_020/cortes/15_000400_020_1_24579_728333.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1528333I",
+        "duration": 600.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_020_1_24579_728333",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Obdulia Taboadela Álvarez",
+          "lastname": "Taboadela Álvarez",
+          "firstname": "Obdulia",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Socialista"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 71
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 22
+      },
+      "agendaItem": {
+        "title": "Solicitud de comparecencia del Ministro de Transportes y Movilidad\nSostenible ante el Pleno de la Cámara, para informar sobre el vertido de\npellets de plástico aparecido en la costa gallega, el seguimiento\nrealizado por el Gobierno y las medidas que piensa adoptar al respecto.",
+        "officialTitle": "Solicitud de comparecencia del Ministro de Transportes y Movilidad\nSostenible ante el Pleno de la Cámara, para informar sobre el vertido de\npellets de plástico aparecido en la costa gallega, el seguimiento\nrealizado por el Gobierno y las medidas que piensa adoptar al respecto.",
+        "type": "briefing",
+        "nativeType": "ES-comparecencia"
+      },
+      "dateStart": "2024-02-07T13:41:00+01:00",
+      "dateEnd": "2024-02-07T14:13:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_020/cortes/15_000400_020_1_24579_728334.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1528334I",
+        "duration": 1920.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_020_1_24579_728334",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Óscar Puente Santiago",
+          "lastname": "Puente Santiago",
+          "firstname": "Óscar",
+          "type": "member of government",
+          "role": "Ministro de Transportes y Movilidad Sostenible",
+          "faction": {
+            "label": "Grupo Parlamentario Socialista"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 72
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 22
+      },
+      "agendaItem": {
+        "title": "Solicitud de comparecencia del Ministro de Transportes y Movilidad\nSostenible ante el Pleno de la Cámara, para informar sobre el vertido de\npellets de plástico aparecido en la costa gallega, el seguimiento\nrealizado por el Gobierno y las medidas que piensa adoptar al respecto.",
+        "officialTitle": "Solicitud de comparecencia del Ministro de Transportes y Movilidad\nSostenible ante el Pleno de la Cámara, para informar sobre el vertido de\npellets de plástico aparecido en la costa gallega, el seguimiento\nrealizado por el Gobierno y las medidas que piensa adoptar al respecto.",
+        "type": "briefing",
+        "nativeType": "ES-comparecencia"
+      },
+      "dateStart": "2024-02-07T14:14:00+01:00",
+      "dateEnd": "2024-02-07T14:21:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_020/cortes/15_000400_020_1_24579_728335.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1528335I",
+        "duration": 420.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_020_1_24579_728335",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Miguel Tellado Filgueira",
+          "lastname": "Tellado Filgueira",
+          "firstname": "Miguel",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Popular en el Congreso"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 73
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 22
+      },
+      "agendaItem": {
+        "title": "Solicitud de comparecencia del Ministro de Transportes y Movilidad\nSostenible ante el Pleno de la Cámara, para informar sobre el vertido de\npellets de plástico aparecido en la costa gallega, el seguimiento\nrealizado por el Gobierno y las medidas que piensa adoptar al respecto.",
+        "officialTitle": "Solicitud de comparecencia del Ministro de Transportes y Movilidad\nSostenible ante el Pleno de la Cámara, para informar sobre el vertido de\npellets de plástico aparecido en la costa gallega, el seguimiento\nrealizado por el Gobierno y las medidas que piensa adoptar al respecto.",
+        "type": "briefing",
+        "nativeType": "ES-comparecencia"
+      },
+      "dateStart": "2024-02-07T14:22:00+01:00",
+      "dateEnd": "2024-02-07T14:25:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_020/cortes/15_000400_020_1_24579_728336.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1528336I",
+        "duration": 180.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_020_1_24579_728336",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Carina Mejías Sánchez",
+          "lastname": "Mejías Sánchez",
+          "firstname": "Carina",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario VOX"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 74
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 22
+      },
+      "agendaItem": {
+        "title": "Solicitud de comparecencia del Ministro de Transportes y Movilidad\nSostenible ante el Pleno de la Cámara, para informar sobre el vertido de\npellets de plástico aparecido en la costa gallega, el seguimiento\nrealizado por el Gobierno y las medidas que piensa adoptar al respecto.",
+        "officialTitle": "Solicitud de comparecencia del Ministro de Transportes y Movilidad\nSostenible ante el Pleno de la Cámara, para informar sobre el vertido de\npellets de plástico aparecido en la costa gallega, el seguimiento\nrealizado por el Gobierno y las medidas que piensa adoptar al respecto.",
+        "type": "briefing",
+        "nativeType": "ES-comparecencia"
+      },
+      "dateStart": "2024-02-07T14:26:00+01:00",
+      "dateEnd": "2024-02-07T14:28:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_020/cortes/15_000400_020_1_24579_728337.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1528337I",
+        "duration": 120.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_020_1_24579_728337",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Verónica Martínez Barbero",
+          "lastname": "Martínez Barbero",
+          "firstname": "Verónica",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Plurinacional SUMAR"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 75
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 22
+      },
+      "agendaItem": {
+        "title": "Solicitud de comparecencia del Ministro de Transportes y Movilidad\nSostenible ante el Pleno de la Cámara, para informar sobre el vertido de\npellets de plástico aparecido en la costa gallega, el seguimiento\nrealizado por el Gobierno y las medidas que piensa adoptar al respecto.",
+        "officialTitle": "Solicitud de comparecencia del Ministro de Transportes y Movilidad\nSostenible ante el Pleno de la Cámara, para informar sobre el vertido de\npellets de plástico aparecido en la costa gallega, el seguimiento\nrealizado por el Gobierno y las medidas que piensa adoptar al respecto.",
+        "type": "briefing",
+        "nativeType": "ES-comparecencia"
+      },
+      "dateStart": "2024-02-07T14:29:00+01:00",
+      "dateEnd": "2024-02-07T14:32:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_020/cortes/15_000400_020_1_24579_728338.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1528338I",
+        "duration": 180.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_020_1_24579_728338",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Obdulia Taboadela Álvarez",
+          "lastname": "Taboadela Álvarez",
+          "firstname": "Obdulia",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Socialista"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 76
+    }
+  ]
+}

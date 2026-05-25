@@ -1,0 +1,2405 @@
+{
+  "meta": {
+    "session": "15108",
+    "processing": {
+      "parse_media": "2026-05-23T07:17:41"
+    },
+    "dateStart": "2025-04-08T15:04:00+02:00",
+    "dateEnd": "2025-04-08T21:29:00+02:00"
+  },
+  "data": [
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 108
+      },
+      "agendaItem": {
+        "title": "Juramento o promesa de acatamiento de la Constitución",
+        "officialTitle": "Juramento o promesa de acatamiento de la Constitución",
+        "type": "oath",
+        "nativeType": "ES-juramento"
+      },
+      "dateStart": "2025-04-08T15:04:00+02:00",
+      "dateEnd": "2025-04-08T15:04:00+02:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_104/cortes/15_000400_104_0_25989_751068.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1551068I",
+        "duration": 0.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_104_0_25989_751068",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Nerea Renteria Lasanta",
+          "lastname": "Renteria Lasanta",
+          "firstname": "Nerea",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Vasco (EAJ-PNV)"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 1
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 108
+      },
+      "agendaItem": {
+        "title": "Proposición de Ley relativa a la gratuidad de los productos ópticos y\nde salud visual.",
+        "officialTitle": "Proposición de Ley relativa a la gratuidad de los productos ópticos y\nde salud visual.",
+        "type": "regular",
+        "nativeType": "ES-ley"
+      },
+      "dateStart": "2025-04-08T15:06:00+02:00",
+      "dateEnd": "2025-04-08T15:12:00+02:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_104/cortes/15_000400_104_0_25989_751073.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1551073I",
+        "duration": 360.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_104_0_25989_751073",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "José Ignacio García Sánchez",
+          "lastname": "García Sánchez",
+          "firstname": "José Ignacio",
+          "type": "person",
+          "role": "Representante del Parlamento de Andalucía"
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 2
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 108
+      },
+      "agendaItem": {
+        "title": "Proposición de Ley relativa a la gratuidad de los productos ópticos y\nde salud visual.",
+        "officialTitle": "Proposición de Ley relativa a la gratuidad de los productos ópticos y\nde salud visual.",
+        "type": "regular",
+        "nativeType": "ES-ley"
+      },
+      "dateStart": "2025-04-08T15:12:00+02:00",
+      "dateEnd": "2025-04-08T15:19:00+02:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_104/cortes/15_000400_104_0_25989_751074.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1551074I",
+        "duration": 420.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_104_0_25989_751074",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "María del Pilar Navarro Rodríguez",
+          "lastname": "Navarro Rodríguez",
+          "firstname": "María del Pilar",
+          "type": "person",
+          "role": "Representante del Parlamento de Andalucía"
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 3
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 108
+      },
+      "agendaItem": {
+        "title": "Proposición de Ley relativa a la gratuidad de los productos ópticos y\nde salud visual.",
+        "officialTitle": "Proposición de Ley relativa a la gratuidad de los productos ópticos y\nde salud visual.",
+        "type": "regular",
+        "nativeType": "ES-ley"
+      },
+      "dateStart": "2025-04-08T15:19:00+02:00",
+      "dateEnd": "2025-04-08T15:25:00+02:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_104/cortes/15_000400_104_0_25989_751075.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1551075I",
+        "duration": 360.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_104_0_25989_751075",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Beatriz Jurado Fernández de Córdoba",
+          "lastname": "Jurado Fernández de Córdoba",
+          "firstname": "Beatriz",
+          "type": "person",
+          "role": "Representante del Parlamento de Andalucía"
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 4
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 108
+      },
+      "agendaItem": {
+        "title": "Proposición de Ley relativa a la gratuidad de los productos ópticos y\nde salud visual.",
+        "officialTitle": "Proposición de Ley relativa a la gratuidad de los productos ópticos y\nde salud visual.",
+        "type": "regular",
+        "nativeType": "ES-ley"
+      },
+      "dateStart": "2025-04-08T15:25:00+02:00",
+      "dateEnd": "2025-04-08T15:34:00+02:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_104/cortes/15_000400_104_0_25989_751076.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1551076I",
+        "duration": 540.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_104_0_25989_751076",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Martina Velarde Gómez",
+          "lastname": "Velarde Gómez",
+          "firstname": "Martina",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Mixto"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 5
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 108
+      },
+      "agendaItem": {
+        "title": "Proposición de Ley relativa a la gratuidad de los productos ópticos y\nde salud visual.",
+        "officialTitle": "Proposición de Ley relativa a la gratuidad de los productos ópticos y\nde salud visual.",
+        "type": "regular",
+        "nativeType": "ES-ley"
+      },
+      "dateStart": "2025-04-08T15:34:00+02:00",
+      "dateEnd": "2025-04-08T15:41:00+02:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_104/cortes/15_000400_104_0_25989_751077.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1551077I",
+        "duration": 420.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_104_0_25989_751077",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Joseba Andoni Agirretxea Urresti",
+          "lastname": "Agirretxea Urresti",
+          "firstname": "Joseba Andoni",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Vasco (EAJ-PNV)"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 6
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 108
+      },
+      "agendaItem": {
+        "title": "Proposición de Ley relativa a la gratuidad de los productos ópticos y\nde salud visual.",
+        "officialTitle": "Proposición de Ley relativa a la gratuidad de los productos ópticos y\nde salud visual.",
+        "type": "regular",
+        "nativeType": "ES-ley"
+      },
+      "dateStart": "2025-04-08T15:41:00+02:00",
+      "dateEnd": "2025-04-08T15:46:00+02:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_104/cortes/15_000400_104_0_25989_751078.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1551078I",
+        "duration": 300.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_104_0_25989_751078",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Marije Fullaondo la Cruz",
+          "lastname": "Fullaondo la Cruz",
+          "firstname": "Marije",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Euskal Herria Bildu"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 7
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 108
+      },
+      "agendaItem": {
+        "title": "Proposición de Ley relativa a la gratuidad de los productos ópticos y\nde salud visual.",
+        "officialTitle": "Proposición de Ley relativa a la gratuidad de los productos ópticos y\nde salud visual.",
+        "type": "regular",
+        "nativeType": "ES-ley"
+      },
+      "dateStart": "2025-04-08T15:46:00+02:00",
+      "dateEnd": "2025-04-08T15:53:00+02:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_104/cortes/15_000400_104_0_25989_751079.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1551079I",
+        "duration": 420.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_104_0_25989_751079",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Pilar Calvo Gómez",
+          "lastname": "Calvo Gómez",
+          "firstname": "Pilar",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Junts per Catalunya"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 8
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 108
+      },
+      "agendaItem": {
+        "title": "Proposición de Ley relativa a la gratuidad de los productos ópticos y\nde salud visual.",
+        "officialTitle": "Proposición de Ley relativa a la gratuidad de los productos ópticos y\nde salud visual.",
+        "type": "regular",
+        "nativeType": "ES-ley"
+      },
+      "dateStart": "2025-04-08T15:53:00+02:00",
+      "dateEnd": "2025-04-08T16:03:00+02:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_104/cortes/15_000400_104_0_25989_751080.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1551080I",
+        "duration": 600.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_104_0_25989_751080",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Engracia Rivera Arias",
+          "lastname": "Rivera Arias",
+          "firstname": "Engracia",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Plurinacional SUMAR"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 9
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 108
+      },
+      "agendaItem": {
+        "title": "Proposición de Ley relativa a la gratuidad de los productos ópticos y\nde salud visual.",
+        "officialTitle": "Proposición de Ley relativa a la gratuidad de los productos ópticos y\nde salud visual.",
+        "type": "regular",
+        "nativeType": "ES-ley"
+      },
+      "dateStart": "2025-04-08T16:03:00+02:00",
+      "dateEnd": "2025-04-08T16:10:00+02:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_104/cortes/15_000400_104_0_25989_751081.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1551081I",
+        "duration": 420.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_104_0_25989_751081",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "David García Gomis",
+          "lastname": "García Gomis",
+          "firstname": "David",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario VOX"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 10
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 108
+      },
+      "agendaItem": {
+        "title": "Proposición de Ley relativa a la gratuidad de los productos ópticos y\nde salud visual.",
+        "officialTitle": "Proposición de Ley relativa a la gratuidad de los productos ópticos y\nde salud visual.",
+        "type": "regular",
+        "nativeType": "ES-ley"
+      },
+      "dateStart": "2025-04-08T16:10:00+02:00",
+      "dateEnd": "2025-04-08T16:19:00+02:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_104/cortes/15_000400_104_0_25989_751082.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1551082I",
+        "duration": 540.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_104_0_25989_751082",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "María Carmen Castilla Álvarez",
+          "lastname": "Castilla Álvarez",
+          "firstname": "María Carmen",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Socialista"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 11
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 108
+      },
+      "agendaItem": {
+        "title": "Proposición de Ley relativa a la gratuidad de los productos ópticos y\nde salud visual.",
+        "officialTitle": "Proposición de Ley relativa a la gratuidad de los productos ópticos y\nde salud visual.",
+        "type": "regular",
+        "nativeType": "ES-ley"
+      },
+      "dateStart": "2025-04-08T16:19:00+02:00",
+      "dateEnd": "2025-04-08T16:27:00+02:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_104/cortes/15_000400_104_0_25989_751083.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1551083I",
+        "duration": 480.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_104_0_25989_751083",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Elvira Velasco Morillo",
+          "lastname": "Velasco Morillo",
+          "firstname": "Elvira",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Popular en el Congreso"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 12
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 108
+      },
+      "agendaItem": {
+        "title": "Proposición de reforma del Reglamento del Congreso de los Diputados\nrelativa a la regulación del debate de política general sobre el estado\nde la Nación.",
+        "officialTitle": "Proposición de reforma del Reglamento del Congreso de los Diputados\nrelativa a la regulación del debate de política general sobre el estado\nde la Nación.",
+        "type": "rules_of_procedure",
+        "nativeType": "ES-reglamento"
+      },
+      "dateStart": "2025-04-08T16:28:00+02:00",
+      "dateEnd": "2025-04-08T16:39:00+02:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_104/cortes/15_000400_104_0_25989_751087.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1551087I",
+        "duration": 660.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_104_0_25989_751087",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Macarena Montesinos de Miguel",
+          "lastname": "Montesinos de Miguel",
+          "firstname": "Macarena",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Popular en el Congreso"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 13
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 108
+      },
+      "agendaItem": {
+        "title": "Proposición de reforma del Reglamento del Congreso de los Diputados\nrelativa a la regulación del debate de política general sobre el estado\nde la Nación.",
+        "officialTitle": "Proposición de reforma del Reglamento del Congreso de los Diputados\nrelativa a la regulación del debate de política general sobre el estado\nde la Nación.",
+        "type": "rules_of_procedure",
+        "nativeType": "ES-reglamento"
+      },
+      "dateStart": "2025-04-08T16:39:00+02:00",
+      "dateEnd": "2025-04-08T16:46:00+02:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_104/cortes/15_000400_104_0_25989_751089.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1551089I",
+        "duration": 420.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_104_0_25989_751089",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Mikel Legarda Uriarte",
+          "lastname": "Legarda Uriarte",
+          "firstname": "Mikel",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Vasco (EAJ-PNV)"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 14
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 108
+      },
+      "agendaItem": {
+        "title": "Proposición de reforma del Reglamento del Congreso de los Diputados\nrelativa a la regulación del debate de política general sobre el estado\nde la Nación.",
+        "officialTitle": "Proposición de reforma del Reglamento del Congreso de los Diputados\nrelativa a la regulación del debate de política general sobre el estado\nde la Nación.",
+        "type": "rules_of_procedure",
+        "nativeType": "ES-reglamento"
+      },
+      "dateStart": "2025-04-08T16:46:00+02:00",
+      "dateEnd": "2025-04-08T16:52:00+02:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_104/cortes/15_000400_104_0_25989_751090.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1551090I",
+        "duration": 360.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_104_0_25989_751090",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Josep Maria Cervera Pinart",
+          "lastname": "Cervera Pinart",
+          "firstname": "Josep Maria",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Junts per Catalunya"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 15
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 108
+      },
+      "agendaItem": {
+        "title": "Proposición de reforma del Reglamento del Congreso de los Diputados\nrelativa a la regulación del debate de política general sobre el estado\nde la Nación.",
+        "officialTitle": "Proposición de reforma del Reglamento del Congreso de los Diputados\nrelativa a la regulación del debate de política general sobre el estado\nde la Nación.",
+        "type": "rules_of_procedure",
+        "nativeType": "ES-reglamento"
+      },
+      "dateStart": "2025-04-08T16:52:00+02:00",
+      "dateEnd": "2025-04-08T17:01:00+02:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_104/cortes/15_000400_104_0_25989_751091.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1551091I",
+        "duration": 540.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_104_0_25989_751091",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Esther Gil de Reboleño Lastortres",
+          "lastname": "Gil de Reboleño Lastortres",
+          "firstname": "Esther",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Plurinacional SUMAR"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 16
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 108
+      },
+      "agendaItem": {
+        "title": "Proposición de reforma del Reglamento del Congreso de los Diputados\nrelativa a la regulación del debate de política general sobre el estado\nde la Nación.",
+        "officialTitle": "Proposición de reforma del Reglamento del Congreso de los Diputados\nrelativa a la regulación del debate de política general sobre el estado\nde la Nación.",
+        "type": "rules_of_procedure",
+        "nativeType": "ES-reglamento"
+      },
+      "dateStart": "2025-04-08T17:01:00+02:00",
+      "dateEnd": "2025-04-08T17:09:00+02:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_104/cortes/15_000400_104_0_25989_751092.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1551092I",
+        "duration": 480.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_104_0_25989_751092",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Carlos Flores Juberías",
+          "lastname": "Flores Juberías",
+          "firstname": "Carlos",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario VOX"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 17
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 108
+      },
+      "agendaItem": {
+        "title": "Proposición de reforma del Reglamento del Congreso de los Diputados\nrelativa a la regulación del debate de política general sobre el estado\nde la Nación.",
+        "officialTitle": "Proposición de reforma del Reglamento del Congreso de los Diputados\nrelativa a la regulación del debate de política general sobre el estado\nde la Nación.",
+        "type": "rules_of_procedure",
+        "nativeType": "ES-reglamento"
+      },
+      "dateStart": "2025-04-08T17:09:00+02:00",
+      "dateEnd": "2025-04-08T17:17:00+02:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_104/cortes/15_000400_104_0_25989_751093.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1551093I",
+        "duration": 480.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_104_0_25989_751093",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Pedro Casares Hontañón",
+          "lastname": "Casares Hontañón",
+          "firstname": "Pedro",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Socialista"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 18
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 108
+      },
+      "agendaItem": {
+        "title": "Proyecto de Ley por la que se modifica la Ley 12/2002, de 23 de mayo,\npor la que se aprueba el Concierto Económico con la Comunidad Autónoma\ndel País Vasco.",
+        "officialTitle": "Proyecto de Ley por la que se modifica la Ley 12/2002, de 23 de mayo,\npor la que se aprueba el Concierto Económico con la Comunidad Autónoma\ndel País Vasco.",
+        "type": "regular",
+        "nativeType": "ES-ley"
+      },
+      "dateStart": "2025-04-08T17:18:00+02:00",
+      "dateEnd": "2025-04-08T17:20:00+02:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_104/cortes/15_000400_104_0_25989_751096.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1551096I",
+        "duration": 120.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_104_0_25989_751096",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Idoia Sagastizabal Unzetabarrenetxea",
+          "lastname": "Sagastizabal Unzetabarrenetxea",
+          "firstname": "Idoia",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Vasco (EAJ-PNV)"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 19
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 108
+      },
+      "agendaItem": {
+        "title": "Proyecto de Ley por la que se modifica la Ley 12/2002, de 23 de mayo,\npor la que se aprueba el Concierto Económico con la Comunidad Autónoma\ndel País Vasco.",
+        "officialTitle": "Proyecto de Ley por la que se modifica la Ley 12/2002, de 23 de mayo,\npor la que se aprueba el Concierto Económico con la Comunidad Autónoma\ndel País Vasco.",
+        "type": "regular",
+        "nativeType": "ES-ley"
+      },
+      "dateStart": "2025-04-08T17:20:00+02:00",
+      "dateEnd": "2025-04-08T17:22:00+02:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_104/cortes/15_000400_104_0_25989_751100.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1551100I",
+        "duration": 120.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_104_0_25989_751100",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Oskar Matute García de Jalón",
+          "lastname": "Matute García de Jalón",
+          "firstname": "Oskar",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Euskal Herria Bildu"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 20
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 108
+      },
+      "agendaItem": {
+        "title": "Proyecto de Ley por la que se modifica la Ley 12/2002, de 23 de mayo,\npor la que se aprueba el Concierto Económico con la Comunidad Autónoma\ndel País Vasco.",
+        "officialTitle": "Proyecto de Ley por la que se modifica la Ley 12/2002, de 23 de mayo,\npor la que se aprueba el Concierto Económico con la Comunidad Autónoma\ndel País Vasco.",
+        "type": "regular",
+        "nativeType": "ES-ley"
+      },
+      "dateStart": "2025-04-08T17:22:00+02:00",
+      "dateEnd": "2025-04-08T17:24:00+02:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_104/cortes/15_000400_104_0_25989_751097.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1551097I",
+        "duration": 120.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_104_0_25989_751097",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Lander Martínez Hierro",
+          "lastname": "Martínez Hierro",
+          "firstname": "Lander",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Plurinacional SUMAR"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 21
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 108
+      },
+      "agendaItem": {
+        "title": "Proyecto de Ley por la que se modifica la Ley 12/2002, de 23 de mayo,\npor la que se aprueba el Concierto Económico con la Comunidad Autónoma\ndel País Vasco.",
+        "officialTitle": "Proyecto de Ley por la que se modifica la Ley 12/2002, de 23 de mayo,\npor la que se aprueba el Concierto Económico con la Comunidad Autónoma\ndel País Vasco.",
+        "type": "regular",
+        "nativeType": "ES-ley"
+      },
+      "dateStart": "2025-04-08T17:24:00+02:00",
+      "dateEnd": "2025-04-08T17:27:00+02:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_104/cortes/15_000400_104_0_25989_751098.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1551098I",
+        "duration": 180.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_104_0_25989_751098",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Pablo Sáez Alonso-Muñumer",
+          "lastname": "Sáez Alonso-Muñumer",
+          "firstname": "Pablo",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario VOX"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 22
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 108
+      },
+      "agendaItem": {
+        "title": "Proyecto de Ley por la que se modifica la Ley 12/2002, de 23 de mayo,\npor la que se aprueba el Concierto Económico con la Comunidad Autónoma\ndel País Vasco.",
+        "officialTitle": "Proyecto de Ley por la que se modifica la Ley 12/2002, de 23 de mayo,\npor la que se aprueba el Concierto Económico con la Comunidad Autónoma\ndel País Vasco.",
+        "type": "regular",
+        "nativeType": "ES-ley"
+      },
+      "dateStart": "2025-04-08T17:27:00+02:00",
+      "dateEnd": "2025-04-08T17:31:00+02:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_104/cortes/15_000400_104_0_25989_751099.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1551099I",
+        "duration": 240.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_104_0_25989_751099",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "María Luisa García Gurrutxaga",
+          "lastname": "García Gurrutxaga",
+          "firstname": "María Luisa",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Socialista"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 23
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 108
+      },
+      "agendaItem": {
+        "title": "Proyecto de Ley por la que se modifica la Ley 12/2002, de 23 de mayo,\npor la que se aprueba el Concierto Económico con la Comunidad Autónoma\ndel País Vasco.",
+        "officialTitle": "Proyecto de Ley por la que se modifica la Ley 12/2002, de 23 de mayo,\npor la que se aprueba el Concierto Económico con la Comunidad Autónoma\ndel País Vasco.",
+        "type": "regular",
+        "nativeType": "ES-ley"
+      },
+      "dateStart": "2025-04-08T17:31:00+02:00",
+      "dateEnd": "2025-04-08T17:34:00+02:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_104/cortes/15_000400_104_0_25989_751101.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1551101I",
+        "duration": 180.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_104_0_25989_751101",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Carmelo Barrio Baroja",
+          "lastname": "Barrio Baroja",
+          "firstname": "Carmelo",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Popular en el Congreso"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 24
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 108
+      },
+      "agendaItem": {
+        "title": "Proposición no de Ley sobre el nuevo mapa concesional estatal de los\nservicios de transporte público regular de viajeros por carretera.",
+        "officialTitle": "Proposición no de Ley sobre el nuevo mapa concesional estatal de los\nservicios de transporte público regular de viajeros por carretera.",
+        "type": "regular"
+      },
+      "dateStart": "2025-04-08T17:34:00+02:00",
+      "dateEnd": "2025-04-08T17:43:00+02:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_104/cortes/15_000400_104_0_25989_751104.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1551104I",
+        "duration": 540.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_104_0_25989_751104",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "José Vicente Marí Bosó",
+          "lastname": "Marí Bosó",
+          "firstname": "José Vicente",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Popular en el Congreso"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 25
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 108
+      },
+      "agendaItem": {
+        "title": "Proposición no de Ley sobre el nuevo mapa concesional estatal de los\nservicios de transporte público regular de viajeros por carretera.",
+        "officialTitle": "Proposición no de Ley sobre el nuevo mapa concesional estatal de los\nservicios de transporte público regular de viajeros por carretera.",
+        "type": "regular"
+      },
+      "dateStart": "2025-04-08T17:43:00+02:00",
+      "dateEnd": "2025-04-08T17:50:00+02:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_104/cortes/15_000400_104_1_25992_751110.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1551110I",
+        "duration": 420.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_104_1_25992_751110",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Alberto Ibáñez Mezquita",
+          "lastname": "Ibáñez Mezquita",
+          "firstname": "Alberto",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Plurinacional SUMAR"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 26
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 108
+      },
+      "agendaItem": {
+        "title": "Proposición no de Ley sobre el nuevo mapa concesional estatal de los\nservicios de transporte público regular de viajeros por carretera.",
+        "officialTitle": "Proposición no de Ley sobre el nuevo mapa concesional estatal de los\nservicios de transporte público regular de viajeros por carretera.",
+        "type": "regular"
+      },
+      "dateStart": "2025-04-08T17:50:00+02:00",
+      "dateEnd": "2025-04-08T17:57:00+02:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_104/cortes/15_000400_104_1_25992_751111.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1551111I",
+        "duration": 420.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_104_1_25992_751111",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Patricia Rueda Perelló",
+          "lastname": "Rueda Perelló",
+          "firstname": "Patricia",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario VOX"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 27
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 108
+      },
+      "agendaItem": {
+        "title": "Proposición no de Ley sobre el nuevo mapa concesional estatal de los\nservicios de transporte público regular de viajeros por carretera.",
+        "officialTitle": "Proposición no de Ley sobre el nuevo mapa concesional estatal de los\nservicios de transporte público regular de viajeros por carretera.",
+        "type": "regular"
+      },
+      "dateStart": "2025-04-08T17:57:00+02:00",
+      "dateEnd": "2025-04-08T18:04:00+02:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_104/cortes/15_000400_104_1_25992_751112.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1551112I",
+        "duration": 420.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_104_1_25992_751112",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Cristina López Zamora",
+          "lastname": "López Zamora",
+          "firstname": "Cristina",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Socialista"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 28
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 108
+      },
+      "agendaItem": {
+        "title": "Proposición no de Ley sobre el nuevo mapa concesional estatal de los\nservicios de transporte público regular de viajeros por carretera.",
+        "officialTitle": "Proposición no de Ley sobre el nuevo mapa concesional estatal de los\nservicios de transporte público regular de viajeros por carretera.",
+        "type": "regular"
+      },
+      "dateStart": "2025-04-08T18:04:00+02:00",
+      "dateEnd": "2025-04-08T18:11:00+02:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_104/cortes/15_000400_104_1_25992_751113.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1551113I",
+        "duration": 420.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_104_1_25992_751113",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Néstor Rego Candamil",
+          "lastname": "Rego Candamil",
+          "firstname": "Néstor",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Mixto"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 29
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 108
+      },
+      "agendaItem": {
+        "title": "Proposición no de Ley sobre el nuevo mapa concesional estatal de los\nservicios de transporte público regular de viajeros por carretera.",
+        "officialTitle": "Proposición no de Ley sobre el nuevo mapa concesional estatal de los\nservicios de transporte público regular de viajeros por carretera.",
+        "type": "regular"
+      },
+      "dateStart": "2025-04-08T18:11:00+02:00",
+      "dateEnd": "2025-04-08T18:15:00+02:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_104/cortes/15_000400_104_1_25992_751114.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1551114I",
+        "duration": 240.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_104_1_25992_751114",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Nerea Renteria Lasanta",
+          "lastname": "Renteria Lasanta",
+          "firstname": "Nerea",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Vasco (EAJ-PNV)"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 30
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 108
+      },
+      "agendaItem": {
+        "title": "Proposición no de Ley sobre el nuevo mapa concesional estatal de los\nservicios de transporte público regular de viajeros por carretera.",
+        "officialTitle": "Proposición no de Ley sobre el nuevo mapa concesional estatal de los\nservicios de transporte público regular de viajeros por carretera.",
+        "type": "regular"
+      },
+      "dateStart": "2025-04-08T18:15:00+02:00",
+      "dateEnd": "2025-04-08T18:20:00+02:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_104/cortes/15_000400_104_1_25992_751115.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1551115I",
+        "duration": 300.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_104_1_25992_751115",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Isidre Gavin i Valls",
+          "lastname": "Gavin i Valls",
+          "firstname": "Isidre",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Junts per Catalunya"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 31
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 108
+      },
+      "agendaItem": {
+        "title": "Proposición no de Ley sobre el nuevo mapa concesional estatal de los\nservicios de transporte público regular de viajeros por carretera.",
+        "officialTitle": "Proposición no de Ley sobre el nuevo mapa concesional estatal de los\nservicios de transporte público regular de viajeros por carretera.",
+        "type": "regular"
+      },
+      "dateStart": "2025-04-08T18:20:00+02:00",
+      "dateEnd": "2025-04-08T18:26:00+02:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_104/cortes/15_000400_104_1_25992_751116.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1551116I",
+        "duration": 360.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_104_1_25992_751116",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Inés Granollers Cunillera",
+          "lastname": "Granollers Cunillera",
+          "firstname": "Inés",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Republicano"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 32
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 108
+      },
+      "agendaItem": {
+        "title": "Proposición no de Ley sobre reconocimiento y apoyo al pueblo gitano.",
+        "officialTitle": "Proposición no de Ley sobre reconocimiento y apoyo al pueblo gitano.",
+        "type": "regular"
+      },
+      "dateStart": "2025-04-08T18:26:00+02:00",
+      "dateEnd": "2025-04-08T18:34:00+02:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_104/cortes/15_000400_104_1_25992_751118.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1551118I",
+        "duration": 480.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_104_1_25992_751118",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Inés Plaza García",
+          "lastname": "Plaza García",
+          "firstname": "Inés",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Socialista"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 33
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 108
+      },
+      "agendaItem": {
+        "title": "Proposición no de Ley sobre reconocimiento y apoyo al pueblo gitano.",
+        "officialTitle": "Proposición no de Ley sobre reconocimiento y apoyo al pueblo gitano.",
+        "type": "regular"
+      },
+      "dateStart": "2025-04-08T18:34:00+02:00",
+      "dateEnd": "2025-04-08T18:40:00+02:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_104/cortes/15_000400_104_1_25992_751119.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1551119I",
+        "duration": 360.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_104_1_25992_751119",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Mertxe Aizpurua Arzallus",
+          "lastname": "Aizpurua Arzallus",
+          "firstname": "Mertxe",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Euskal Herria Bildu"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 34
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 108
+      },
+      "agendaItem": {
+        "title": "Proposición no de Ley sobre reconocimiento y apoyo al pueblo gitano.",
+        "officialTitle": "Proposición no de Ley sobre reconocimiento y apoyo al pueblo gitano.",
+        "type": "regular"
+      },
+      "dateStart": "2025-04-08T18:40:00+02:00",
+      "dateEnd": "2025-04-08T18:47:00+02:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_104/cortes/15_000400_104_1_25992_751120.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1551120I",
+        "duration": 420.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_104_1_25992_751120",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Martina Velarde Gómez",
+          "lastname": "Velarde Gómez",
+          "firstname": "Martina",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Mixto"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 35
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 108
+      },
+      "agendaItem": {
+        "title": "Proposición no de Ley sobre reconocimiento y apoyo al pueblo gitano.",
+        "officialTitle": "Proposición no de Ley sobre reconocimiento y apoyo al pueblo gitano.",
+        "type": "regular"
+      },
+      "dateStart": "2025-04-08T18:47:00+02:00",
+      "dateEnd": "2025-04-08T18:53:00+02:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_104/cortes/15_000400_104_1_25992_751121.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1551121I",
+        "duration": 360.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_104_1_25992_751121",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Joseba Andoni Agirretxea Urresti",
+          "lastname": "Agirretxea Urresti",
+          "firstname": "Joseba Andoni",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Vasco (EAJ-PNV)"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 36
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 108
+      },
+      "agendaItem": {
+        "title": "Proposición no de Ley sobre reconocimiento y apoyo al pueblo gitano.",
+        "officialTitle": "Proposición no de Ley sobre reconocimiento y apoyo al pueblo gitano.",
+        "type": "regular"
+      },
+      "dateStart": "2025-04-08T18:53:00+02:00",
+      "dateEnd": "2025-04-08T18:59:00+02:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_104/cortes/15_000400_104_1_25992_751122.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1551122I",
+        "duration": 360.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_104_1_25992_751122",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Pilar Calvo Gómez",
+          "lastname": "Calvo Gómez",
+          "firstname": "Pilar",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Junts per Catalunya"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 37
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 108
+      },
+      "agendaItem": {
+        "title": "Proposición no de Ley sobre reconocimiento y apoyo al pueblo gitano.",
+        "officialTitle": "Proposición no de Ley sobre reconocimiento y apoyo al pueblo gitano.",
+        "type": "regular"
+      },
+      "dateStart": "2025-04-08T18:59:00+02:00",
+      "dateEnd": "2025-04-08T19:07:00+02:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_104/cortes/15_000400_104_1_25992_751123.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1551123I",
+        "duration": 480.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_104_1_25992_751123",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Francesc-Marc Álvaro Vidal",
+          "lastname": "Álvaro Vidal",
+          "firstname": "Francesc-Marc",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Republicano"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 38
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 108
+      },
+      "agendaItem": {
+        "title": "Proposición no de Ley sobre reconocimiento y apoyo al pueblo gitano.",
+        "officialTitle": "Proposición no de Ley sobre reconocimiento y apoyo al pueblo gitano.",
+        "type": "regular"
+      },
+      "dateStart": "2025-04-08T19:07:00+02:00",
+      "dateEnd": "2025-04-08T19:13:00+02:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_104/cortes/15_000400_104_1_25992_751124.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1551124I",
+        "duration": 360.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_104_1_25992_751124",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Alda Recas Martín",
+          "lastname": "Recas Martín",
+          "firstname": "Alda",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Plurinacional SUMAR"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 39
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 108
+      },
+      "agendaItem": {
+        "title": "Proposición no de Ley sobre reconocimiento y apoyo al pueblo gitano.",
+        "officialTitle": "Proposición no de Ley sobre reconocimiento y apoyo al pueblo gitano.",
+        "type": "regular"
+      },
+      "dateStart": "2025-04-08T19:13:00+02:00",
+      "dateEnd": "2025-04-08T19:21:00+02:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_104/cortes/15_000400_104_1_25992_751125.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1551125I",
+        "duration": 480.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_104_1_25992_751125",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "María de los Reyes Romero Vilches",
+          "lastname": "Romero Vilches",
+          "firstname": "María de los Reyes",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario VOX"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 40
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 108
+      },
+      "agendaItem": {
+        "title": "Proposición no de Ley sobre reconocimiento y apoyo al pueblo gitano.",
+        "officialTitle": "Proposición no de Ley sobre reconocimiento y apoyo al pueblo gitano.",
+        "type": "regular"
+      },
+      "dateStart": "2025-04-08T19:21:00+02:00",
+      "dateEnd": "2025-04-08T19:28:00+02:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_104/cortes/15_000400_104_1_25992_751126.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1551126I",
+        "duration": 420.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_104_1_25992_751126",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Tristana María Moraleja Gómez",
+          "lastname": "Moraleja Gómez",
+          "firstname": "Tristana María",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Popular en el Congreso"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 41
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 108
+      },
+      "agendaItem": {
+        "title": "Moción consecuencia de interpelación urgente sobre el impacto en la\neconomía canaria de la intención de imponer el empaquetado genérico de\nlos productos del tabaco y relacionados.",
+        "officialTitle": "Moción consecuencia de interpelación urgente sobre el impacto en la\neconomía canaria de la intención de imponer el empaquetado genérico de\nlos productos del tabaco y relacionados.",
+        "type": "regular",
+        "nativeType": "ES-mocion"
+      },
+      "dateStart": "2025-04-08T19:28:00+02:00",
+      "dateEnd": "2025-04-08T19:36:00+02:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_104/cortes/15_000400_104_1_25992_751129.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1551129I",
+        "duration": 480.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_104_1_25992_751129",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Cristina Valido García",
+          "lastname": "Valido García",
+          "firstname": "Cristina",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Mixto"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 42
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 108
+      },
+      "agendaItem": {
+        "title": "Moción consecuencia de interpelación urgente sobre el impacto en la\neconomía canaria de la intención de imponer el empaquetado genérico de\nlos productos del tabaco y relacionados.",
+        "officialTitle": "Moción consecuencia de interpelación urgente sobre el impacto en la\neconomía canaria de la intención de imponer el empaquetado genérico de\nlos productos del tabaco y relacionados.",
+        "type": "regular",
+        "nativeType": "ES-mocion"
+      },
+      "dateStart": "2025-04-08T19:36:00+02:00",
+      "dateEnd": "2025-04-08T19:42:00+02:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_104/cortes/15_000400_104_1_25992_751130.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1551130I",
+        "duration": 360.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_104_1_25992_751130",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Rafael Cofiño Fernández",
+          "lastname": "Cofiño Fernández",
+          "firstname": "Rafael",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Plurinacional SUMAR"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 43
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 108
+      },
+      "agendaItem": {
+        "title": "Moción consecuencia de interpelación urgente sobre el impacto en la\neconomía canaria de la intención de imponer el empaquetado genérico de\nlos productos del tabaco y relacionados.",
+        "officialTitle": "Moción consecuencia de interpelación urgente sobre el impacto en la\neconomía canaria de la intención de imponer el empaquetado genérico de\nlos productos del tabaco y relacionados.",
+        "type": "regular",
+        "nativeType": "ES-mocion"
+      },
+      "dateStart": "2025-04-08T19:42:00+02:00",
+      "dateEnd": "2025-04-08T19:48:00+02:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_104/cortes/15_000400_104_1_25992_751131.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1551131I",
+        "duration": 360.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_104_1_25992_751131",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Andrés Alberto Rodríguez Almeida",
+          "lastname": "Rodríguez Almeida",
+          "firstname": "Andrés Alberto",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario VOX"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 44
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 108
+      },
+      "agendaItem": {
+        "title": "Moción consecuencia de interpelación urgente sobre el impacto en la\neconomía canaria de la intención de imponer el empaquetado genérico de\nlos productos del tabaco y relacionados.",
+        "officialTitle": "Moción consecuencia de interpelación urgente sobre el impacto en la\neconomía canaria de la intención de imponer el empaquetado genérico de\nlos productos del tabaco y relacionados.",
+        "type": "regular",
+        "nativeType": "ES-mocion"
+      },
+      "dateStart": "2025-04-08T19:48:00+02:00",
+      "dateEnd": "2025-04-08T19:56:00+02:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_104/cortes/15_000400_104_1_25992_751132.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1551132I",
+        "duration": 480.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_104_1_25992_751132",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "María Dolores Corujo Berriel",
+          "lastname": "Corujo Berriel",
+          "firstname": "María Dolores",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Socialista"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 45
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 108
+      },
+      "agendaItem": {
+        "title": "Moción consecuencia de interpelación urgente sobre el impacto en la\neconomía canaria de la intención de imponer el empaquetado genérico de\nlos productos del tabaco y relacionados.",
+        "officialTitle": "Moción consecuencia de interpelación urgente sobre el impacto en la\neconomía canaria de la intención de imponer el empaquetado genérico de\nlos productos del tabaco y relacionados.",
+        "type": "regular",
+        "nativeType": "ES-mocion"
+      },
+      "dateStart": "2025-04-08T19:56:00+02:00",
+      "dateEnd": "2025-04-08T19:59:00+02:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_104/cortes/15_000400_104_1_25992_751133.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1551133I",
+        "duration": 180.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_104_1_25992_751133",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Idoia Sagastizabal Unzetabarrenetxea",
+          "lastname": "Sagastizabal Unzetabarrenetxea",
+          "firstname": "Idoia",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Vasco (EAJ-PNV)"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 46
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 108
+      },
+      "agendaItem": {
+        "title": "Moción consecuencia de interpelación urgente sobre el impacto en la\neconomía canaria de la intención de imponer el empaquetado genérico de\nlos productos del tabaco y relacionados.",
+        "officialTitle": "Moción consecuencia de interpelación urgente sobre el impacto en la\neconomía canaria de la intención de imponer el empaquetado genérico de\nlos productos del tabaco y relacionados.",
+        "type": "regular",
+        "nativeType": "ES-mocion"
+      },
+      "dateStart": "2025-04-08T19:59:00+02:00",
+      "dateEnd": "2025-04-08T20:06:00+02:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_104/cortes/15_000400_104_1_25992_751134.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1551134I",
+        "duration": 420.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_104_1_25992_751134",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Juan Antonio Rojas Manrique",
+          "lastname": "Rojas Manrique",
+          "firstname": "Juan Antonio",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Popular en el Congreso"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 47
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 108
+      },
+      "agendaItem": {
+        "title": "Moción consecuencia de interpelación urgente sobre las medidas que\npretende adoptar el Gobierno para que los españoles que trabajan en el\nextranjero vuelvan a España.",
+        "officialTitle": "Moción consecuencia de interpelación urgente sobre las medidas que\npretende adoptar el Gobierno para que los españoles que trabajan en el\nextranjero vuelvan a España.",
+        "type": "regular",
+        "nativeType": "ES-mocion"
+      },
+      "dateStart": "2025-04-08T20:07:00+02:00",
+      "dateEnd": "2025-04-08T20:16:00+02:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_104/cortes/15_000400_104_1_25992_751136.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1551136I",
+        "duration": 540.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_104_1_25992_751136",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Rocío De Meer Méndez",
+          "lastname": "De Meer Méndez",
+          "firstname": "Rocío",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario VOX"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 48
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 108
+      },
+      "agendaItem": {
+        "title": "Moción consecuencia de interpelación urgente sobre las medidas que\npretende adoptar el Gobierno para que los españoles que trabajan en el\nextranjero vuelvan a España.",
+        "officialTitle": "Moción consecuencia de interpelación urgente sobre las medidas que\npretende adoptar el Gobierno para que los españoles que trabajan en el\nextranjero vuelvan a España.",
+        "type": "regular",
+        "nativeType": "ES-mocion"
+      },
+      "dateStart": "2025-04-08T20:16:00+02:00",
+      "dateEnd": "2025-04-08T20:21:00+02:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_104/cortes/15_000400_104_1_25992_751137.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1551137I",
+        "duration": 300.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_104_1_25992_751137",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Jordi Salvador i Duch",
+          "lastname": "Salvador i Duch",
+          "firstname": "Jordi",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Republicano"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 49
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 108
+      },
+      "agendaItem": {
+        "title": "Moción consecuencia de interpelación urgente sobre las medidas que\npretende adoptar el Gobierno para que los españoles que trabajan en el\nextranjero vuelvan a España.",
+        "officialTitle": "Moción consecuencia de interpelación urgente sobre las medidas que\npretende adoptar el Gobierno para que los españoles que trabajan en el\nextranjero vuelvan a España.",
+        "type": "regular",
+        "nativeType": "ES-mocion"
+      },
+      "dateStart": "2025-04-08T20:21:00+02:00",
+      "dateEnd": "2025-04-08T20:28:00+02:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_104/cortes/15_000400_104_1_25992_751138.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1551138I",
+        "duration": 420.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_104_1_25992_751138",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Viviane Ogou Corbi",
+          "lastname": "Ogou Corbi",
+          "firstname": "Viviane",
+          "type": "memberOfParliament"
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 50
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 108
+      },
+      "agendaItem": {
+        "title": "Moción consecuencia de interpelación urgente sobre las medidas que\npretende adoptar el Gobierno para que los españoles que trabajan en el\nextranjero vuelvan a España.",
+        "officialTitle": "Moción consecuencia de interpelación urgente sobre las medidas que\npretende adoptar el Gobierno para que los españoles que trabajan en el\nextranjero vuelvan a España.",
+        "type": "regular",
+        "nativeType": "ES-mocion"
+      },
+      "dateStart": "2025-04-08T20:28:00+02:00",
+      "dateEnd": "2025-04-08T20:35:00+02:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_104/cortes/15_000400_104_1_25992_751139.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1551139I",
+        "duration": 420.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_104_1_25992_751139",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Ignacio López Cano",
+          "lastname": "López Cano",
+          "firstname": "Ignacio",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Socialista"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 51
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 108
+      },
+      "agendaItem": {
+        "title": "Moción consecuencia de interpelación urgente sobre las medidas que\npretende adoptar el Gobierno para que los españoles que trabajan en el\nextranjero vuelvan a España.",
+        "officialTitle": "Moción consecuencia de interpelación urgente sobre las medidas que\npretende adoptar el Gobierno para que los españoles que trabajan en el\nextranjero vuelvan a España.",
+        "type": "regular",
+        "nativeType": "ES-mocion"
+      },
+      "dateStart": "2025-04-08T20:35:00+02:00",
+      "dateEnd": "2025-04-08T20:41:00+02:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_104/cortes/15_000400_104_1_25992_751140.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1551140I",
+        "duration": 360.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_104_1_25992_751140",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "María Torres Tejada",
+          "lastname": "Torres Tejada",
+          "firstname": "María",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Popular en el Congreso"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 52
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 108
+      },
+      "agendaItem": {
+        "title": "Moción consecuencia de interpelación urgente para que el Ministro de\nAgricultura, Pesca y Alimentación informe de sus planes para defender al\nsistema alimentario español frente a las amenazas del actual contexto\ngeoestratégico internacional.",
+        "officialTitle": "Moción consecuencia de interpelación urgente para que el Ministro de\nAgricultura, Pesca y Alimentación informe de sus planes para defender al\nsistema alimentario español frente a las amenazas del actual contexto\ngeoestratégico internacional.",
+        "type": "regular",
+        "nativeType": "ES-mocion"
+      },
+      "dateStart": "2025-04-08T20:42:00+02:00",
+      "dateEnd": "2025-04-08T20:50:00+02:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_104/cortes/15_000400_104_1_25992_751142.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1551142I",
+        "duration": 480.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_104_1_25992_751142",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Pedro Ignacio Gallardo Barrena",
+          "lastname": "Gallardo Barrena",
+          "firstname": "Pedro Ignacio",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Popular en el Congreso"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 53
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 108
+      },
+      "agendaItem": {
+        "title": "Moción consecuencia de interpelación urgente para que el Ministro de\nAgricultura, Pesca y Alimentación informe de sus planes para defender al\nsistema alimentario español frente a las amenazas del actual contexto\ngeoestratégico internacional.",
+        "officialTitle": "Moción consecuencia de interpelación urgente para que el Ministro de\nAgricultura, Pesca y Alimentación informe de sus planes para defender al\nsistema alimentario español frente a las amenazas del actual contexto\ngeoestratégico internacional.",
+        "type": "regular",
+        "nativeType": "ES-mocion"
+      },
+      "dateStart": "2025-04-08T20:50:00+02:00",
+      "dateEnd": "2025-04-08T20:57:00+02:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_104/cortes/15_000400_104_1_25992_751143.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1551143I",
+        "duration": 420.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_104_1_25992_751143",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Ignacio Hoces Íñiguez",
+          "lastname": "Hoces Íñiguez",
+          "firstname": "Ignacio",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario VOX"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 54
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 108
+      },
+      "agendaItem": {
+        "title": "Moción consecuencia de interpelación urgente para que el Ministro de\nAgricultura, Pesca y Alimentación informe de sus planes para defender al\nsistema alimentario español frente a las amenazas del actual contexto\ngeoestratégico internacional.",
+        "officialTitle": "Moción consecuencia de interpelación urgente para que el Ministro de\nAgricultura, Pesca y Alimentación informe de sus planes para defender al\nsistema alimentario español frente a las amenazas del actual contexto\ngeoestratégico internacional.",
+        "type": "regular",
+        "nativeType": "ES-mocion"
+      },
+      "dateStart": "2025-04-08T20:57:00+02:00",
+      "dateEnd": "2025-04-08T21:02:00+02:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_104/cortes/15_000400_104_1_25992_751144.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1551144I",
+        "duration": 300.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_104_1_25992_751144",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Joseba Andoni Agirretxea Urresti",
+          "lastname": "Agirretxea Urresti",
+          "firstname": "Joseba Andoni",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Vasco (EAJ-PNV)"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 55
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 108
+      },
+      "agendaItem": {
+        "title": "Moción consecuencia de interpelación urgente para que el Ministro de\nAgricultura, Pesca y Alimentación informe de sus planes para defender al\nsistema alimentario español frente a las amenazas del actual contexto\ngeoestratégico internacional.",
+        "officialTitle": "Moción consecuencia de interpelación urgente para que el Ministro de\nAgricultura, Pesca y Alimentación informe de sus planes para defender al\nsistema alimentario español frente a las amenazas del actual contexto\ngeoestratégico internacional.",
+        "type": "regular",
+        "nativeType": "ES-mocion"
+      },
+      "dateStart": "2025-04-08T21:02:00+02:00",
+      "dateEnd": "2025-04-08T21:08:00+02:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_104/cortes/15_000400_104_1_25992_751145.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1551145I",
+        "duration": 360.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_104_1_25992_751145",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Isidre Gavin i Valls",
+          "lastname": "Gavin i Valls",
+          "firstname": "Isidre",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Junts per Catalunya"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 56
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 108
+      },
+      "agendaItem": {
+        "title": "Moción consecuencia de interpelación urgente para que el Ministro de\nAgricultura, Pesca y Alimentación informe de sus planes para defender al\nsistema alimentario español frente a las amenazas del actual contexto\ngeoestratégico internacional.",
+        "officialTitle": "Moción consecuencia de interpelación urgente para que el Ministro de\nAgricultura, Pesca y Alimentación informe de sus planes para defender al\nsistema alimentario español frente a las amenazas del actual contexto\ngeoestratégico internacional.",
+        "type": "regular",
+        "nativeType": "ES-mocion"
+      },
+      "dateStart": "2025-04-08T21:08:00+02:00",
+      "dateEnd": "2025-04-08T21:15:00+02:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_104/cortes/15_000400_104_1_25992_751146.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1551146I",
+        "duration": 420.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_104_1_25992_751146",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Teresa Jordà i Roura",
+          "lastname": "Jordà i Roura",
+          "firstname": "Teresa",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Republicano"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 57
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 108
+      },
+      "agendaItem": {
+        "title": "Moción consecuencia de interpelación urgente para que el Ministro de\nAgricultura, Pesca y Alimentación informe de sus planes para defender al\nsistema alimentario español frente a las amenazas del actual contexto\ngeoestratégico internacional.",
+        "officialTitle": "Moción consecuencia de interpelación urgente para que el Ministro de\nAgricultura, Pesca y Alimentación informe de sus planes para defender al\nsistema alimentario español frente a las amenazas del actual contexto\ngeoestratégico internacional.",
+        "type": "regular",
+        "nativeType": "ES-mocion"
+      },
+      "dateStart": "2025-04-08T21:15:00+02:00",
+      "dateEnd": "2025-04-08T21:21:00+02:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_104/cortes/15_000400_104_1_25992_751147.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1551147I",
+        "duration": 360.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_104_1_25992_751147",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Àgueda Micó Micó",
+          "lastname": "Micó Micó",
+          "firstname": "Àgueda",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Plurinacional SUMAR"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 58
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 108
+      },
+      "agendaItem": {
+        "title": "Moción consecuencia de interpelación urgente para que el Ministro de\nAgricultura, Pesca y Alimentación informe de sus planes para defender al\nsistema alimentario español frente a las amenazas del actual contexto\ngeoestratégico internacional.",
+        "officialTitle": "Moción consecuencia de interpelación urgente para que el Ministro de\nAgricultura, Pesca y Alimentación informe de sus planes para defender al\nsistema alimentario español frente a las amenazas del actual contexto\ngeoestratégico internacional.",
+        "type": "regular",
+        "nativeType": "ES-mocion"
+      },
+      "dateStart": "2025-04-08T21:21:00+02:00",
+      "dateEnd": "2025-04-08T21:29:00+02:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_104/cortes/15_000400_104_1_25992_751148.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1551148I",
+        "duration": 480.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_104_1_25992_751148",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Juan Francisco Serrano Martínez",
+          "lastname": "Serrano Martínez",
+          "firstname": "Juan Francisco",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Socialista"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 59
+    }
+  ]
+}

@@ -1,0 +1,1372 @@
+{
+  "meta": {
+    "session": "15035",
+    "processing": {
+      "parse_media": "2026-05-23T07:17:41"
+    },
+    "dateStart": "2024-03-21T09:03:00+01:00",
+    "dateEnd": "2024-03-21T10:12:00+01:00"
+  },
+  "data": [
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 35
+      },
+      "agendaItem": {
+        "title": "Denuncia del Tratado de la Carta de la Energía, hecho en Lisboa el 17\nde diciembre de 1994.",
+        "officialTitle": "Denuncia del Tratado de la Carta de la Energía, hecho en Lisboa el 17\nde diciembre de 1994.",
+        "type": "regular"
+      },
+      "dateStart": "2024-03-21T09:03:00+01:00",
+      "dateEnd": "2024-03-21T09:08:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_033/cortes/15_000400_033_0_24780_730838.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1530838I",
+        "duration": 300.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_033_0_24780_730838",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "José María Sánchez García",
+          "lastname": "Sánchez García",
+          "firstname": "José María",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario VOX"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 1
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 35
+      },
+      "agendaItem": {
+        "title": "Actas y Resoluciones del 24º Congreso de la Unión Postal de las\nAméricas, España y Portugal (UPAEP), adoptadas en Curaçao el 22 de\noctubre de 2021.",
+        "officialTitle": "Actas y Resoluciones del 24º Congreso de la Unión Postal de las\nAméricas, España y Portugal (UPAEP), adoptadas en Curaçao el 22 de\noctubre de 2021.",
+        "type": "regular"
+      },
+      "dateStart": "2024-03-21T09:03:00+01:00",
+      "dateEnd": "2024-03-21T09:08:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_033/cortes/15_000400_033_0_24780_730838.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1530838I",
+        "duration": 300.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_033_0_24780_730838",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "José María Sánchez García",
+          "lastname": "Sánchez García",
+          "firstname": "José María",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario VOX"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 2
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 35
+      },
+      "agendaItem": {
+        "title": "Actas del XXVII Congreso de la Unión Postal Universal (UPU),\nadoptadas en Abidjan el 27 de agosto de 2021.",
+        "officialTitle": "Actas del XXVII Congreso de la Unión Postal Universal (UPU),\nadoptadas en Abidjan el 27 de agosto de 2021.",
+        "type": "regular"
+      },
+      "dateStart": "2024-03-21T09:03:00+01:00",
+      "dateEnd": "2024-03-21T09:08:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_033/cortes/15_000400_033_0_24780_730838.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1530838I",
+        "duration": 300.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_033_0_24780_730838",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "José María Sánchez García",
+          "lastname": "Sánchez García",
+          "firstname": "José María",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario VOX"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 3
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 35
+      },
+      "agendaItem": {
+        "title": "Acuerdo sobre traslado de personas condenadas a una pena de privación\nde libertad entre el Reino de España y el Estado de Qatar, hecho en\nMadrid el 24 de octubre de 2022.",
+        "officialTitle": "Acuerdo sobre traslado de personas condenadas a una pena de privación\nde libertad entre el Reino de España y el Estado de Qatar, hecho en\nMadrid el 24 de octubre de 2022.",
+        "type": "regular"
+      },
+      "dateStart": "2024-03-21T09:03:00+01:00",
+      "dateEnd": "2024-03-21T09:08:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_033/cortes/15_000400_033_0_24780_730838.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1530838I",
+        "duration": 300.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_033_0_24780_730838",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "José María Sánchez García",
+          "lastname": "Sánchez García",
+          "firstname": "José María",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario VOX"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 4
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 35
+      },
+      "agendaItem": {
+        "title": "Acuerdo sobre la conservación de las poblaciones de murciélagos en\nEuropa, hecho en Londres el 4 de diciembre de 1991, y de las Enmiendas de\ndicho Acuerdo adoptadas en Bristol el 20 de julio de 1995 y el 26 de\njulio de 2000.",
+        "officialTitle": "Acuerdo sobre la conservación de las poblaciones de murciélagos en\nEuropa, hecho en Londres el 4 de diciembre de 1991, y de las Enmiendas de\ndicho Acuerdo adoptadas en Bristol el 20 de julio de 1995 y el 26 de\njulio de 2000.",
+        "type": "regular"
+      },
+      "dateStart": "2024-03-21T09:03:00+01:00",
+      "dateEnd": "2024-03-21T09:08:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_033/cortes/15_000400_033_0_24780_730838.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1530838I",
+        "duration": 300.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_033_0_24780_730838",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "José María Sánchez García",
+          "lastname": "Sánchez García",
+          "firstname": "José María",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario VOX"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 5
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 35
+      },
+      "agendaItem": {
+        "title": "Convenio sobre seguridad y salud en la construcción, hecho en Ginebra\nel 22 de junio de 1988.",
+        "officialTitle": "Convenio sobre seguridad y salud en la construcción, hecho en Ginebra\nel 22 de junio de 1988.",
+        "type": "regular"
+      },
+      "dateStart": "2024-03-21T09:03:00+01:00",
+      "dateEnd": "2024-03-21T09:08:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_033/cortes/15_000400_033_0_24780_730838.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1530838I",
+        "duration": 300.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_033_0_24780_730838",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "José María Sánchez García",
+          "lastname": "Sánchez García",
+          "firstname": "José María",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario VOX"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 6
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 35
+      },
+      "agendaItem": {
+        "title": "Convenio de Seguridad Social entre el Reino de España y la República\nde Moldavia, hecho en Madrid el 21 de julio de 2022.",
+        "officialTitle": "Convenio de Seguridad Social entre el Reino de España y la República\nde Moldavia, hecho en Madrid el 21 de julio de 2022.",
+        "type": "regular"
+      },
+      "dateStart": "2024-03-21T09:03:00+01:00",
+      "dateEnd": "2024-03-21T09:08:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_033/cortes/15_000400_033_0_24780_730838.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1530838I",
+        "duration": 300.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_033_0_24780_730838",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "José María Sánchez García",
+          "lastname": "Sánchez García",
+          "firstname": "José María",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario VOX"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 7
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 35
+      },
+      "agendaItem": {
+        "title": "Convenio relativo a la seguridad y la salud en la agricultura, hecho\nen Ginebra el 21 de junio de 2001.",
+        "officialTitle": "Convenio relativo a la seguridad y la salud en la agricultura, hecho\nen Ginebra el 21 de junio de 2001.",
+        "type": "regular"
+      },
+      "dateStart": "2024-03-21T09:03:00+01:00",
+      "dateEnd": "2024-03-21T09:08:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_033/cortes/15_000400_033_0_24780_730838.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1530838I",
+        "duration": 300.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_033_0_24780_730838",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "José María Sánchez García",
+          "lastname": "Sánchez García",
+          "firstname": "José María",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario VOX"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 8
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 35
+      },
+      "agendaItem": {
+        "title": "Denuncia del Tratado de la Carta de la Energía, hecho en Lisboa el 17\nde diciembre de 1994.",
+        "officialTitle": "Denuncia del Tratado de la Carta de la Energía, hecho en Lisboa el 17\nde diciembre de 1994.",
+        "type": "regular"
+      },
+      "dateStart": "2024-03-21T09:08:00+01:00",
+      "dateEnd": "2024-03-21T09:10:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_033/cortes/15_000400_033_0_24780_730839.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1530839I",
+        "duration": 120.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_033_0_24780_730839",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Pepe Mercadal Baquero",
+          "lastname": "Mercadal Baquero",
+          "firstname": "Pepe",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Socialista"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 9
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 35
+      },
+      "agendaItem": {
+        "title": "Actas y Resoluciones del 24º Congreso de la Unión Postal de las\nAméricas, España y Portugal (UPAEP), adoptadas en Curaçao el 22 de\noctubre de 2021.",
+        "officialTitle": "Actas y Resoluciones del 24º Congreso de la Unión Postal de las\nAméricas, España y Portugal (UPAEP), adoptadas en Curaçao el 22 de\noctubre de 2021.",
+        "type": "regular"
+      },
+      "dateStart": "2024-03-21T09:08:00+01:00",
+      "dateEnd": "2024-03-21T09:10:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_033/cortes/15_000400_033_0_24780_730839.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1530839I",
+        "duration": 120.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_033_0_24780_730839",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Pepe Mercadal Baquero",
+          "lastname": "Mercadal Baquero",
+          "firstname": "Pepe",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Socialista"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 10
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 35
+      },
+      "agendaItem": {
+        "title": "Actas del XXVII Congreso de la Unión Postal Universal (UPU),\nadoptadas en Abidjan el 27 de agosto de 2021.",
+        "officialTitle": "Actas del XXVII Congreso de la Unión Postal Universal (UPU),\nadoptadas en Abidjan el 27 de agosto de 2021.",
+        "type": "regular"
+      },
+      "dateStart": "2024-03-21T09:08:00+01:00",
+      "dateEnd": "2024-03-21T09:10:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_033/cortes/15_000400_033_0_24780_730839.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1530839I",
+        "duration": 120.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_033_0_24780_730839",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Pepe Mercadal Baquero",
+          "lastname": "Mercadal Baquero",
+          "firstname": "Pepe",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Socialista"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 11
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 35
+      },
+      "agendaItem": {
+        "title": "Acuerdo sobre traslado de personas condenadas a una pena de privación\nde libertad entre el Reino de España y el Estado de Qatar, hecho en\nMadrid el 24 de octubre de 2022.",
+        "officialTitle": "Acuerdo sobre traslado de personas condenadas a una pena de privación\nde libertad entre el Reino de España y el Estado de Qatar, hecho en\nMadrid el 24 de octubre de 2022.",
+        "type": "regular"
+      },
+      "dateStart": "2024-03-21T09:08:00+01:00",
+      "dateEnd": "2024-03-21T09:10:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_033/cortes/15_000400_033_0_24780_730839.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1530839I",
+        "duration": 120.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_033_0_24780_730839",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Pepe Mercadal Baquero",
+          "lastname": "Mercadal Baquero",
+          "firstname": "Pepe",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Socialista"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 12
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 35
+      },
+      "agendaItem": {
+        "title": "Acuerdo sobre la conservación de las poblaciones de murciélagos en\nEuropa, hecho en Londres el 4 de diciembre de 1991, y de las Enmiendas de\ndicho Acuerdo adoptadas en Bristol el 20 de julio de 1995 y el 26 de\njulio de 2000.",
+        "officialTitle": "Acuerdo sobre la conservación de las poblaciones de murciélagos en\nEuropa, hecho en Londres el 4 de diciembre de 1991, y de las Enmiendas de\ndicho Acuerdo adoptadas en Bristol el 20 de julio de 1995 y el 26 de\njulio de 2000.",
+        "type": "regular"
+      },
+      "dateStart": "2024-03-21T09:08:00+01:00",
+      "dateEnd": "2024-03-21T09:10:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_033/cortes/15_000400_033_0_24780_730839.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1530839I",
+        "duration": 120.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_033_0_24780_730839",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Pepe Mercadal Baquero",
+          "lastname": "Mercadal Baquero",
+          "firstname": "Pepe",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Socialista"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 13
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 35
+      },
+      "agendaItem": {
+        "title": "Convenio sobre seguridad y salud en la construcción, hecho en Ginebra\nel 22 de junio de 1988.",
+        "officialTitle": "Convenio sobre seguridad y salud en la construcción, hecho en Ginebra\nel 22 de junio de 1988.",
+        "type": "regular"
+      },
+      "dateStart": "2024-03-21T09:08:00+01:00",
+      "dateEnd": "2024-03-21T09:10:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_033/cortes/15_000400_033_0_24780_730839.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1530839I",
+        "duration": 120.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_033_0_24780_730839",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Pepe Mercadal Baquero",
+          "lastname": "Mercadal Baquero",
+          "firstname": "Pepe",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Socialista"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 14
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 35
+      },
+      "agendaItem": {
+        "title": "Convenio de Seguridad Social entre el Reino de España y la República\nde Moldavia, hecho en Madrid el 21 de julio de 2022.",
+        "officialTitle": "Convenio de Seguridad Social entre el Reino de España y la República\nde Moldavia, hecho en Madrid el 21 de julio de 2022.",
+        "type": "regular"
+      },
+      "dateStart": "2024-03-21T09:08:00+01:00",
+      "dateEnd": "2024-03-21T09:10:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_033/cortes/15_000400_033_0_24780_730839.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1530839I",
+        "duration": 120.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_033_0_24780_730839",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Pepe Mercadal Baquero",
+          "lastname": "Mercadal Baquero",
+          "firstname": "Pepe",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Socialista"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 15
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 35
+      },
+      "agendaItem": {
+        "title": "Convenio relativo a la seguridad y la salud en la agricultura, hecho\nen Ginebra el 21 de junio de 2001.",
+        "officialTitle": "Convenio relativo a la seguridad y la salud en la agricultura, hecho\nen Ginebra el 21 de junio de 2001.",
+        "type": "regular"
+      },
+      "dateStart": "2024-03-21T09:08:00+01:00",
+      "dateEnd": "2024-03-21T09:10:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_033/cortes/15_000400_033_0_24780_730839.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1530839I",
+        "duration": 120.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_033_0_24780_730839",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Pepe Mercadal Baquero",
+          "lastname": "Mercadal Baquero",
+          "firstname": "Pepe",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Socialista"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 16
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 35
+      },
+      "agendaItem": {
+        "title": "Denuncia del Tratado de la Carta de la Energía, hecho en Lisboa el 17\nde diciembre de 1994.",
+        "officialTitle": "Denuncia del Tratado de la Carta de la Energía, hecho en Lisboa el 17\nde diciembre de 1994.",
+        "type": "regular"
+      },
+      "dateStart": "2024-03-21T09:10:00+01:00",
+      "dateEnd": "2024-03-21T09:14:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_033/cortes/15_000400_033_0_24780_730840.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1530840I",
+        "duration": 240.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_033_0_24780_730840",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Juan Diego Requena Ruiz",
+          "lastname": "Requena Ruiz",
+          "firstname": "Juan Diego",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Popular en el Congreso"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 17
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 35
+      },
+      "agendaItem": {
+        "title": "Actas y Resoluciones del 24º Congreso de la Unión Postal de las\nAméricas, España y Portugal (UPAEP), adoptadas en Curaçao el 22 de\noctubre de 2021.",
+        "officialTitle": "Actas y Resoluciones del 24º Congreso de la Unión Postal de las\nAméricas, España y Portugal (UPAEP), adoptadas en Curaçao el 22 de\noctubre de 2021.",
+        "type": "regular"
+      },
+      "dateStart": "2024-03-21T09:10:00+01:00",
+      "dateEnd": "2024-03-21T09:14:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_033/cortes/15_000400_033_0_24780_730840.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1530840I",
+        "duration": 240.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_033_0_24780_730840",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Juan Diego Requena Ruiz",
+          "lastname": "Requena Ruiz",
+          "firstname": "Juan Diego",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Popular en el Congreso"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 18
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 35
+      },
+      "agendaItem": {
+        "title": "Actas del XXVII Congreso de la Unión Postal Universal (UPU),\nadoptadas en Abidjan el 27 de agosto de 2021.",
+        "officialTitle": "Actas del XXVII Congreso de la Unión Postal Universal (UPU),\nadoptadas en Abidjan el 27 de agosto de 2021.",
+        "type": "regular"
+      },
+      "dateStart": "2024-03-21T09:10:00+01:00",
+      "dateEnd": "2024-03-21T09:14:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_033/cortes/15_000400_033_0_24780_730840.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1530840I",
+        "duration": 240.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_033_0_24780_730840",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Juan Diego Requena Ruiz",
+          "lastname": "Requena Ruiz",
+          "firstname": "Juan Diego",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Popular en el Congreso"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 19
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 35
+      },
+      "agendaItem": {
+        "title": "Acuerdo sobre traslado de personas condenadas a una pena de privación\nde libertad entre el Reino de España y el Estado de Qatar, hecho en\nMadrid el 24 de octubre de 2022.",
+        "officialTitle": "Acuerdo sobre traslado de personas condenadas a una pena de privación\nde libertad entre el Reino de España y el Estado de Qatar, hecho en\nMadrid el 24 de octubre de 2022.",
+        "type": "regular"
+      },
+      "dateStart": "2024-03-21T09:10:00+01:00",
+      "dateEnd": "2024-03-21T09:14:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_033/cortes/15_000400_033_0_24780_730840.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1530840I",
+        "duration": 240.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_033_0_24780_730840",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Juan Diego Requena Ruiz",
+          "lastname": "Requena Ruiz",
+          "firstname": "Juan Diego",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Popular en el Congreso"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 20
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 35
+      },
+      "agendaItem": {
+        "title": "Acuerdo sobre la conservación de las poblaciones de murciélagos en\nEuropa, hecho en Londres el 4 de diciembre de 1991, y de las Enmiendas de\ndicho Acuerdo adoptadas en Bristol el 20 de julio de 1995 y el 26 de\njulio de 2000.",
+        "officialTitle": "Acuerdo sobre la conservación de las poblaciones de murciélagos en\nEuropa, hecho en Londres el 4 de diciembre de 1991, y de las Enmiendas de\ndicho Acuerdo adoptadas en Bristol el 20 de julio de 1995 y el 26 de\njulio de 2000.",
+        "type": "regular"
+      },
+      "dateStart": "2024-03-21T09:10:00+01:00",
+      "dateEnd": "2024-03-21T09:14:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_033/cortes/15_000400_033_0_24780_730840.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1530840I",
+        "duration": 240.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_033_0_24780_730840",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Juan Diego Requena Ruiz",
+          "lastname": "Requena Ruiz",
+          "firstname": "Juan Diego",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Popular en el Congreso"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 21
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 35
+      },
+      "agendaItem": {
+        "title": "Convenio sobre seguridad y salud en la construcción, hecho en Ginebra\nel 22 de junio de 1988.",
+        "officialTitle": "Convenio sobre seguridad y salud en la construcción, hecho en Ginebra\nel 22 de junio de 1988.",
+        "type": "regular"
+      },
+      "dateStart": "2024-03-21T09:10:00+01:00",
+      "dateEnd": "2024-03-21T09:14:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_033/cortes/15_000400_033_0_24780_730840.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1530840I",
+        "duration": 240.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_033_0_24780_730840",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Juan Diego Requena Ruiz",
+          "lastname": "Requena Ruiz",
+          "firstname": "Juan Diego",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Popular en el Congreso"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 22
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 35
+      },
+      "agendaItem": {
+        "title": "Convenio de Seguridad Social entre el Reino de España y la República\nde Moldavia, hecho en Madrid el 21 de julio de 2022.",
+        "officialTitle": "Convenio de Seguridad Social entre el Reino de España y la República\nde Moldavia, hecho en Madrid el 21 de julio de 2022.",
+        "type": "regular"
+      },
+      "dateStart": "2024-03-21T09:10:00+01:00",
+      "dateEnd": "2024-03-21T09:14:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_033/cortes/15_000400_033_0_24780_730840.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1530840I",
+        "duration": 240.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_033_0_24780_730840",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Juan Diego Requena Ruiz",
+          "lastname": "Requena Ruiz",
+          "firstname": "Juan Diego",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Popular en el Congreso"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 23
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 35
+      },
+      "agendaItem": {
+        "title": "Convenio relativo a la seguridad y la salud en la agricultura, hecho\nen Ginebra el 21 de junio de 2001.",
+        "officialTitle": "Convenio relativo a la seguridad y la salud en la agricultura, hecho\nen Ginebra el 21 de junio de 2001.",
+        "type": "regular"
+      },
+      "dateStart": "2024-03-21T09:10:00+01:00",
+      "dateEnd": "2024-03-21T09:14:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_033/cortes/15_000400_033_0_24780_730840.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1530840I",
+        "duration": 240.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_033_0_24780_730840",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Juan Diego Requena Ruiz",
+          "lastname": "Requena Ruiz",
+          "firstname": "Juan Diego",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Popular en el Congreso"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 24
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 35
+      },
+      "agendaItem": {
+        "title": "Solicitud de creación de una Comisión de Investigación sobre los\nhechos, responsabilidades y enseñanzas en torno a los procesos de\ncontratación para la adquisición de material sanitario por parte de las\nAdministraciones públicas durante la crisis pandémica ocasionada por la\nCOVID-19.",
+        "officialTitle": "Solicitud de creación de una Comisión de Investigación sobre los\nhechos, responsabilidades y enseñanzas en torno a los procesos de\ncontratación para la adquisición de material sanitario por parte de las\nAdministraciones públicas durante la crisis pandémica ocasionada por la\nCOVID-19.",
+        "type": "regular"
+      },
+      "dateStart": "2024-03-21T09:14:00+01:00",
+      "dateEnd": "2024-03-21T09:22:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_033/cortes/15_000400_033_0_24780_730843.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1530843I",
+        "duration": 480.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_033_0_24780_730843",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Esther Peña Camarero",
+          "lastname": "Peña Camarero",
+          "firstname": "Esther",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Socialista"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 25
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 35
+      },
+      "agendaItem": {
+        "title": "Solicitud de creación de una Comisión de Investigación sobre los\nhechos, responsabilidades y enseñanzas en torno a los procesos de\ncontratación para la adquisición de material sanitario por parte de las\nAdministraciones públicas durante la crisis pandémica ocasionada por la\nCOVID-19.",
+        "officialTitle": "Solicitud de creación de una Comisión de Investigación sobre los\nhechos, responsabilidades y enseñanzas en torno a los procesos de\ncontratación para la adquisición de material sanitario por parte de las\nAdministraciones públicas durante la crisis pandémica ocasionada por la\nCOVID-19.",
+        "type": "regular"
+      },
+      "dateStart": "2024-03-21T09:22:00+01:00",
+      "dateEnd": "2024-03-21T09:24:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_033/cortes/15_000400_033_0_24780_730844.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1530844I",
+        "duration": 120.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_033_0_24780_730844",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Alberto Catalán Higueras",
+          "lastname": "Catalán Higueras",
+          "firstname": "Alberto",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Mixto"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 26
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 35
+      },
+      "agendaItem": {
+        "title": "Solicitud de creación de una Comisión de Investigación sobre los\nhechos, responsabilidades y enseñanzas en torno a los procesos de\ncontratación para la adquisición de material sanitario por parte de las\nAdministraciones públicas durante la crisis pandémica ocasionada por la\nCOVID-19.",
+        "officialTitle": "Solicitud de creación de una Comisión de Investigación sobre los\nhechos, responsabilidades y enseñanzas en torno a los procesos de\ncontratación para la adquisición de material sanitario por parte de las\nAdministraciones públicas durante la crisis pandémica ocasionada por la\nCOVID-19.",
+        "type": "regular"
+      },
+      "dateStart": "2024-03-21T09:24:00+01:00",
+      "dateEnd": "2024-03-21T09:26:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_033/cortes/15_000400_033_0_24780_730845.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1530845I",
+        "duration": 120.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_033_0_24780_730845",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Cristina Valido García",
+          "lastname": "Valido García",
+          "firstname": "Cristina",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Mixto"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 27
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 35
+      },
+      "agendaItem": {
+        "title": "Solicitud de creación de una Comisión de Investigación sobre los\nhechos, responsabilidades y enseñanzas en torno a los procesos de\ncontratación para la adquisición de material sanitario por parte de las\nAdministraciones públicas durante la crisis pandémica ocasionada por la\nCOVID-19.",
+        "officialTitle": "Solicitud de creación de una Comisión de Investigación sobre los\nhechos, responsabilidades y enseñanzas en torno a los procesos de\ncontratación para la adquisición de material sanitario por parte de las\nAdministraciones públicas durante la crisis pandémica ocasionada por la\nCOVID-19.",
+        "type": "regular"
+      },
+      "dateStart": "2024-03-21T09:26:00+01:00",
+      "dateEnd": "2024-03-21T09:29:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_033/cortes/15_000400_033_0_24780_730846.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1530846I",
+        "duration": 180.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_033_0_24780_730846",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Néstor Rego Candamil",
+          "lastname": "Rego Candamil",
+          "firstname": "Néstor",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Mixto"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 28
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 35
+      },
+      "agendaItem": {
+        "title": "Solicitud de creación de una Comisión de Investigación sobre los\nhechos, responsabilidades y enseñanzas en torno a los procesos de\ncontratación para la adquisición de material sanitario por parte de las\nAdministraciones públicas durante la crisis pandémica ocasionada por la\nCOVID-19.",
+        "officialTitle": "Solicitud de creación de una Comisión de Investigación sobre los\nhechos, responsabilidades y enseñanzas en torno a los procesos de\ncontratación para la adquisición de material sanitario por parte de las\nAdministraciones públicas durante la crisis pandémica ocasionada por la\nCOVID-19.",
+        "type": "regular"
+      },
+      "dateStart": "2024-03-21T09:29:00+01:00",
+      "dateEnd": "2024-03-21T09:32:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_033/cortes/15_000400_033_0_24780_730847.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1530847I",
+        "duration": 180.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_033_0_24780_730847",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Javier Sánchez Serna",
+          "lastname": "Sánchez Serna",
+          "firstname": "Javier",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Mixto"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 29
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 35
+      },
+      "agendaItem": {
+        "title": "Solicitud de creación de una Comisión de Investigación sobre los\nhechos, responsabilidades y enseñanzas en torno a los procesos de\ncontratación para la adquisición de material sanitario por parte de las\nAdministraciones públicas durante la crisis pandémica ocasionada por la\nCOVID-19.",
+        "officialTitle": "Solicitud de creación de una Comisión de Investigación sobre los\nhechos, responsabilidades y enseñanzas en torno a los procesos de\ncontratación para la adquisición de material sanitario por parte de las\nAdministraciones públicas durante la crisis pandémica ocasionada por la\nCOVID-19.",
+        "type": "regular"
+      },
+      "dateStart": "2024-03-21T09:32:00+01:00",
+      "dateEnd": "2024-03-21T09:37:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_033/cortes/15_000400_033_0_24780_730848.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1530848I",
+        "duration": 300.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_033_0_24780_730848",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Mikel Legarda Uriarte",
+          "lastname": "Legarda Uriarte",
+          "firstname": "Mikel",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Vasco (EAJ-PNV)"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 30
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 35
+      },
+      "agendaItem": {
+        "title": "Solicitud de creación de una Comisión de Investigación sobre los\nhechos, responsabilidades y enseñanzas en torno a los procesos de\ncontratación para la adquisición de material sanitario por parte de las\nAdministraciones públicas durante la crisis pandémica ocasionada por la\nCOVID-19.",
+        "officialTitle": "Solicitud de creación de una Comisión de Investigación sobre los\nhechos, responsabilidades y enseñanzas en torno a los procesos de\ncontratación para la adquisición de material sanitario por parte de las\nAdministraciones públicas durante la crisis pandémica ocasionada por la\nCOVID-19.",
+        "type": "regular"
+      },
+      "dateStart": "2024-03-21T09:37:00+01:00",
+      "dateEnd": "2024-03-21T09:44:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_033/cortes/15_000400_033_0_24780_730849.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1530849I",
+        "duration": 420.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_033_0_24780_730849",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Oskar Matute García de Jalón",
+          "lastname": "Matute García de Jalón",
+          "firstname": "Oskar",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Euskal Herria Bildu"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 31
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 35
+      },
+      "agendaItem": {
+        "title": "Solicitud de creación de una Comisión de Investigación sobre los\nhechos, responsabilidades y enseñanzas en torno a los procesos de\ncontratación para la adquisición de material sanitario por parte de las\nAdministraciones públicas durante la crisis pandémica ocasionada por la\nCOVID-19.",
+        "officialTitle": "Solicitud de creación de una Comisión de Investigación sobre los\nhechos, responsabilidades y enseñanzas en torno a los procesos de\ncontratación para la adquisición de material sanitario por parte de las\nAdministraciones públicas durante la crisis pandémica ocasionada por la\nCOVID-19.",
+        "type": "regular"
+      },
+      "dateStart": "2024-03-21T09:44:00+01:00",
+      "dateEnd": "2024-03-21T09:54:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_033/cortes/15_000400_033_0_24780_730850.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1530850I",
+        "duration": 600.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_033_0_24780_730850",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Aina Vidal Sáez",
+          "lastname": "Vidal Sáez",
+          "firstname": "Aina",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Plurinacional SUMAR"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 32
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 35
+      },
+      "agendaItem": {
+        "title": "Solicitud de creación de una Comisión de Investigación sobre los\nhechos, responsabilidades y enseñanzas en torno a los procesos de\ncontratación para la adquisición de material sanitario por parte de las\nAdministraciones públicas durante la crisis pandémica ocasionada por la\nCOVID-19.",
+        "officialTitle": "Solicitud de creación de una Comisión de Investigación sobre los\nhechos, responsabilidades y enseñanzas en torno a los procesos de\ncontratación para la adquisición de material sanitario por parte de las\nAdministraciones públicas durante la crisis pandémica ocasionada por la\nCOVID-19.",
+        "type": "regular"
+      },
+      "dateStart": "2024-03-21T09:54:00+01:00",
+      "dateEnd": "2024-03-21T10:03:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_033/cortes/15_000400_033_0_24780_730851.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1530851I",
+        "duration": 540.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_033_0_24780_730851",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Jorge Campos Asensi",
+          "lastname": "Campos Asensi",
+          "firstname": "Jorge",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario VOX"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 33
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 35
+      },
+      "agendaItem": {
+        "title": "Solicitud de creación de una Comisión de Investigación sobre los\nhechos, responsabilidades y enseñanzas en torno a los procesos de\ncontratación para la adquisición de material sanitario por parte de las\nAdministraciones públicas durante la crisis pandémica ocasionada por la\nCOVID-19.",
+        "officialTitle": "Solicitud de creación de una Comisión de Investigación sobre los\nhechos, responsabilidades y enseñanzas en torno a los procesos de\ncontratación para la adquisición de material sanitario por parte de las\nAdministraciones públicas durante la crisis pandémica ocasionada por la\nCOVID-19.",
+        "type": "regular"
+      },
+      "dateStart": "2024-03-21T10:03:00+01:00",
+      "dateEnd": "2024-03-21T10:12:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_033/cortes/15_000400_033_0_24780_730852.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1530852I",
+        "duration": 540.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_033_0_24780_730852",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Macarena Montesinos de Miguel",
+          "lastname": "Montesinos de Miguel",
+          "firstname": "Macarena",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Popular en el Congreso"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 34
+    }
+  ]
+}

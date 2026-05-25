@@ -1,0 +1,2123 @@
+{
+  "meta": {
+    "session": "15157",
+    "processing": {
+      "parse_media": "2026-05-23T07:17:41"
+    },
+    "dateStart": "2025-12-09T15:05:00+01:00",
+    "dateEnd": "2025-12-09T20:44:00+01:00"
+  },
+  "data": [
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 157
+      },
+      "agendaItem": {
+        "title": "Proposición de Ley de modificación del Real Decreto Legislativo\n5/2015, de 30 de octubre, por el que se aprueba el texto refundido de la\nLey del Estatuto Básico del Empleado Público.",
+        "officialTitle": "Proposición de Ley de modificación del Real Decreto Legislativo\n5/2015, de 30 de octubre, por el que se aprueba el texto refundido de la\nLey del Estatuto Básico del Empleado Público.",
+        "type": "regular",
+        "nativeType": "ES-ley"
+      },
+      "dateStart": "2025-12-09T15:05:00+01:00",
+      "dateEnd": "2025-12-09T15:11:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_152/cortes/15_000400_152_0_26822_765717.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1565717I",
+        "duration": 360.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_152_0_26822_765717",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Miguel Ángel Vargas San Emeterio",
+          "lastname": "Vargas San Emeterio",
+          "firstname": "Miguel Ángel",
+          "type": "person",
+          "role": "Parlamento de Cantabria"
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 1
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 157
+      },
+      "agendaItem": {
+        "title": "Proposición de Ley de modificación del Real Decreto Legislativo\n5/2015, de 30 de octubre, por el que se aprueba el texto refundido de la\nLey del Estatuto Básico del Empleado Público.",
+        "officialTitle": "Proposición de Ley de modificación del Real Decreto Legislativo\n5/2015, de 30 de octubre, por el que se aprueba el texto refundido de la\nLey del Estatuto Básico del Empleado Público.",
+        "type": "regular",
+        "nativeType": "ES-ley"
+      },
+      "dateStart": "2025-12-09T15:11:00+01:00",
+      "dateEnd": "2025-12-09T15:15:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_152/cortes/15_000400_152_0_26822_765718.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1565718I",
+        "duration": 240.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_152_0_26822_765718",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Paula Fernández Viaña",
+          "lastname": "Fernández Viaña",
+          "firstname": "Paula",
+          "type": "person",
+          "role": "Asamblea Regional de Cantabria"
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 2
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 157
+      },
+      "agendaItem": {
+        "title": "Proposición de Ley de modificación del Real Decreto Legislativo\n5/2015, de 30 de octubre, por el que se aprueba el texto refundido de la\nLey del Estatuto Básico del Empleado Público.",
+        "officialTitle": "Proposición de Ley de modificación del Real Decreto Legislativo\n5/2015, de 30 de octubre, por el que se aprueba el texto refundido de la\nLey del Estatuto Básico del Empleado Público.",
+        "type": "regular",
+        "nativeType": "ES-ley"
+      },
+      "dateStart": "2025-12-09T15:15:00+01:00",
+      "dateEnd": "2025-12-09T15:22:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_152/cortes/15_000400_152_0_26822_765720.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1565720I",
+        "duration": 420.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_152_0_26822_765720",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Raúl Pesquera Cabezas",
+          "lastname": "Pesquera Cabezas",
+          "firstname": "Raúl",
+          "type": "person",
+          "role": "Parlamento de Cantabria"
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 3
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 157
+      },
+      "agendaItem": {
+        "title": "Proposición de Ley de modificación del Real Decreto Legislativo\n5/2015, de 30 de octubre, por el que se aprueba el texto refundido de la\nLey del Estatuto Básico del Empleado Público.",
+        "officialTitle": "Proposición de Ley de modificación del Real Decreto Legislativo\n5/2015, de 30 de octubre, por el que se aprueba el texto refundido de la\nLey del Estatuto Básico del Empleado Público.",
+        "type": "regular",
+        "nativeType": "ES-ley"
+      },
+      "dateStart": "2025-12-09T15:22:00+01:00",
+      "dateEnd": "2025-12-09T15:29:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_152/cortes/15_000400_152_0_26822_765721.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1565721I",
+        "duration": 420.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_152_0_26822_765721",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Noemí Santana Perera",
+          "lastname": "Santana Perera",
+          "firstname": "Noemí",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Mixto"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 4
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 157
+      },
+      "agendaItem": {
+        "title": "Proposición de Ley de modificación del Real Decreto Legislativo\n5/2015, de 30 de octubre, por el que se aprueba el texto refundido de la\nLey del Estatuto Básico del Empleado Público.",
+        "officialTitle": "Proposición de Ley de modificación del Real Decreto Legislativo\n5/2015, de 30 de octubre, por el que se aprueba el texto refundido de la\nLey del Estatuto Básico del Empleado Público.",
+        "type": "regular",
+        "nativeType": "ES-ley"
+      },
+      "dateStart": "2025-12-09T15:29:00+01:00",
+      "dateEnd": "2025-12-09T15:34:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_152/cortes/15_000400_152_0_26822_765722.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1565722I",
+        "duration": 300.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_152_0_26822_765722",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Mikel Legarda Uriarte",
+          "lastname": "Legarda Uriarte",
+          "firstname": "Mikel",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Vasco (EAJ-PNV)"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 5
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 157
+      },
+      "agendaItem": {
+        "title": "Proposición de Ley de modificación del Real Decreto Legislativo\n5/2015, de 30 de octubre, por el que se aprueba el texto refundido de la\nLey del Estatuto Básico del Empleado Público.",
+        "officialTitle": "Proposición de Ley de modificación del Real Decreto Legislativo\n5/2015, de 30 de octubre, por el que se aprueba el texto refundido de la\nLey del Estatuto Básico del Empleado Público.",
+        "type": "regular",
+        "nativeType": "ES-ley"
+      },
+      "dateStart": "2025-12-09T15:34:00+01:00",
+      "dateEnd": "2025-12-09T15:42:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_152/cortes/15_000400_152_0_26822_765723.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1565723I",
+        "duration": 480.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_152_0_26822_765723",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Alda Recas Martín",
+          "lastname": "Recas Martín",
+          "firstname": "Alda",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Plurinacional SUMAR"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 6
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 157
+      },
+      "agendaItem": {
+        "title": "Proposición de Ley de modificación del Real Decreto Legislativo\n5/2015, de 30 de octubre, por el que se aprueba el texto refundido de la\nLey del Estatuto Básico del Empleado Público.",
+        "officialTitle": "Proposición de Ley de modificación del Real Decreto Legislativo\n5/2015, de 30 de octubre, por el que se aprueba el texto refundido de la\nLey del Estatuto Básico del Empleado Público.",
+        "type": "regular",
+        "nativeType": "ES-ley"
+      },
+      "dateStart": "2025-12-09T15:42:00+01:00",
+      "dateEnd": "2025-12-09T15:51:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_152/cortes/15_000400_152_0_26822_765724.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1565724I",
+        "duration": 540.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_152_0_26822_765724",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "José María Sánchez García",
+          "lastname": "Sánchez García",
+          "firstname": "José María",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario VOX"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 7
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 157
+      },
+      "agendaItem": {
+        "title": "Proposición de Ley de modificación del Real Decreto Legislativo\n5/2015, de 30 de octubre, por el que se aprueba el texto refundido de la\nLey del Estatuto Básico del Empleado Público.",
+        "officialTitle": "Proposición de Ley de modificación del Real Decreto Legislativo\n5/2015, de 30 de octubre, por el que se aprueba el texto refundido de la\nLey del Estatuto Básico del Empleado Público.",
+        "type": "regular",
+        "nativeType": "ES-ley"
+      },
+      "dateStart": "2025-12-09T15:51:00+01:00",
+      "dateEnd": "2025-12-09T16:00:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_152/cortes/15_000400_152_0_26822_765725.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1565725I",
+        "duration": 540.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_152_0_26822_765725",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Pablo Antuñano Colina",
+          "lastname": "Antuñano Colina",
+          "firstname": "Pablo",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Socialista"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 8
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 157
+      },
+      "agendaItem": {
+        "title": "Proposición de Ley de modificación del Real Decreto Legislativo\n5/2015, de 30 de octubre, por el que se aprueba el texto refundido de la\nLey del Estatuto Básico del Empleado Público.",
+        "officialTitle": "Proposición de Ley de modificación del Real Decreto Legislativo\n5/2015, de 30 de octubre, por el que se aprueba el texto refundido de la\nLey del Estatuto Básico del Empleado Público.",
+        "type": "regular",
+        "nativeType": "ES-ley"
+      },
+      "dateStart": "2025-12-09T16:00:00+01:00",
+      "dateEnd": "2025-12-09T16:07:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_152/cortes/15_000400_152_0_26822_765726.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1565726I",
+        "duration": 420.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_152_0_26822_765726",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Llanos De Luna Tobarra",
+          "lastname": "De Luna Tobarra",
+          "firstname": "Llanos",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Popular en el Congreso"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 9
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 157
+      },
+      "agendaItem": {
+        "title": "Proposición de Ley en apoyo del sistema alimentario español como\nsector estratégico esencial de la economía.",
+        "officialTitle": "Proposición de Ley en apoyo del sistema alimentario español como\nsector estratégico esencial de la economía.",
+        "type": "regular",
+        "nativeType": "ES-ley"
+      },
+      "dateStart": "2025-12-09T16:08:00+01:00",
+      "dateEnd": "2025-12-09T16:21:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_152/cortes/15_000400_152_0_26822_765729.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1565729I",
+        "duration": 780.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_152_0_26822_765729",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Javier José Folch Blanc",
+          "lastname": "Folch Blanc",
+          "firstname": "Javier José",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Popular en el Congreso"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 10
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 157
+      },
+      "agendaItem": {
+        "title": "Proposición de Ley en apoyo del sistema alimentario español como\nsector estratégico esencial de la economía.",
+        "officialTitle": "Proposición de Ley en apoyo del sistema alimentario español como\nsector estratégico esencial de la economía.",
+        "type": "regular",
+        "nativeType": "ES-ley"
+      },
+      "dateStart": "2025-12-09T16:21:00+01:00",
+      "dateEnd": "2025-12-09T16:30:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_152/cortes/15_000400_152_0_26822_765730.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1565730I",
+        "duration": 540.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_152_0_26822_765730",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Martina Velarde Gómez",
+          "lastname": "Velarde Gómez",
+          "firstname": "Martina",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Mixto"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 11
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 157
+      },
+      "agendaItem": {
+        "title": "Proposición de Ley en apoyo del sistema alimentario español como\nsector estratégico esencial de la economía.",
+        "officialTitle": "Proposición de Ley en apoyo del sistema alimentario español como\nsector estratégico esencial de la economía.",
+        "type": "regular",
+        "nativeType": "ES-ley"
+      },
+      "dateStart": "2025-12-09T16:30:00+01:00",
+      "dateEnd": "2025-12-09T16:37:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_152/cortes/15_000400_152_0_26822_765731.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1565731I",
+        "duration": 420.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_152_0_26822_765731",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Joseba Andoni Agirretxea Urresti",
+          "lastname": "Agirretxea Urresti",
+          "firstname": "Joseba Andoni",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Vasco (EAJ-PNV)"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 12
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 157
+      },
+      "agendaItem": {
+        "title": "Proposición de Ley en apoyo del sistema alimentario español como\nsector estratégico esencial de la economía.",
+        "officialTitle": "Proposición de Ley en apoyo del sistema alimentario español como\nsector estratégico esencial de la economía.",
+        "type": "regular",
+        "nativeType": "ES-ley"
+      },
+      "dateStart": "2025-12-09T16:37:00+01:00",
+      "dateEnd": "2025-12-09T16:45:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_152/cortes/15_000400_152_0_26822_765732.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1565732I",
+        "duration": 480.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_152_0_26822_765732",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Mikel Otero Gabirondo",
+          "lastname": "Otero Gabirondo",
+          "firstname": "Mikel",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Euskal Herria Bildu"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 13
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 157
+      },
+      "agendaItem": {
+        "title": "Proposición de Ley en apoyo del sistema alimentario español como\nsector estratégico esencial de la economía.",
+        "officialTitle": "Proposición de Ley en apoyo del sistema alimentario español como\nsector estratégico esencial de la economía.",
+        "type": "regular",
+        "nativeType": "ES-ley"
+      },
+      "dateStart": "2025-12-09T16:45:00+01:00",
+      "dateEnd": "2025-12-09T16:53:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_152/cortes/15_000400_152_0_26822_765733.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1565733I",
+        "duration": 480.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_152_0_26822_765733",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Isidre Gavin i Valls",
+          "lastname": "Gavin i Valls",
+          "firstname": "Isidre",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Junts per Catalunya"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 14
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 157
+      },
+      "agendaItem": {
+        "title": "Proposición de Ley en apoyo del sistema alimentario español como\nsector estratégico esencial de la economía.",
+        "officialTitle": "Proposición de Ley en apoyo del sistema alimentario español como\nsector estratégico esencial de la economía.",
+        "type": "regular",
+        "nativeType": "ES-ley"
+      },
+      "dateStart": "2025-12-09T16:53:00+01:00",
+      "dateEnd": "2025-12-09T17:01:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_152/cortes/15_000400_152_0_26822_765734.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1565734I",
+        "duration": 480.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_152_0_26822_765734",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Teresa Jordà i Roura",
+          "lastname": "Jordà i Roura",
+          "firstname": "Teresa",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Republicano"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 15
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 157
+      },
+      "agendaItem": {
+        "title": "Proposición de Ley en apoyo del sistema alimentario español como\nsector estratégico esencial de la economía.",
+        "officialTitle": "Proposición de Ley en apoyo del sistema alimentario español como\nsector estratégico esencial de la economía.",
+        "type": "regular",
+        "nativeType": "ES-ley"
+      },
+      "dateStart": "2025-12-09T17:01:00+01:00",
+      "dateEnd": "2025-12-09T17:09:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_152/cortes/15_000400_152_0_26822_765735.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1565735I",
+        "duration": 480.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_152_0_26822_765735",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Juan Antonio Valero Morales",
+          "lastname": "Valero Morales",
+          "firstname": "Juan Antonio",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Plurinacional SUMAR"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 16
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 157
+      },
+      "agendaItem": {
+        "title": "Proposición de Ley en apoyo del sistema alimentario español como\nsector estratégico esencial de la economía.",
+        "officialTitle": "Proposición de Ley en apoyo del sistema alimentario español como\nsector estratégico esencial de la economía.",
+        "type": "regular",
+        "nativeType": "ES-ley"
+      },
+      "dateStart": "2025-12-09T17:09:00+01:00",
+      "dateEnd": "2025-12-09T17:16:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_152/cortes/15_000400_152_0_26822_765736.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1565736I",
+        "duration": 420.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_152_0_26822_765736",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Ignacio Hoces Íñiguez",
+          "lastname": "Hoces Íñiguez",
+          "firstname": "Ignacio",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario VOX"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 17
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 157
+      },
+      "agendaItem": {
+        "title": "Proposición de Ley en apoyo del sistema alimentario español como\nsector estratégico esencial de la economía.",
+        "officialTitle": "Proposición de Ley en apoyo del sistema alimentario español como\nsector estratégico esencial de la economía.",
+        "type": "regular",
+        "nativeType": "ES-ley"
+      },
+      "dateStart": "2025-12-09T17:16:00+01:00",
+      "dateEnd": "2025-12-09T17:26:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_152/cortes/15_000400_152_0_26822_765737.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1565737I",
+        "duration": 600.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_152_0_26822_765737",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Trinidad Carmen Argota Castro",
+          "lastname": "Argota Castro",
+          "firstname": "Trinidad Carmen",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Socialista"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 18
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 157
+      },
+      "agendaItem": {
+        "title": "Proposición de Ley Orgánica de garantía del plurilingüismo y de los\nderechos lingüísticos de la ciudadanía ante las instituciones del Estado.",
+        "officialTitle": "Proposición de Ley Orgánica de garantía del plurilingüismo y de los\nderechos lingüísticos de la ciudadanía ante las instituciones del Estado.",
+        "type": "regular",
+        "nativeType": "ES-ley"
+      },
+      "dateStart": "2025-12-09T17:26:00+01:00",
+      "dateEnd": "2025-12-09T17:38:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_152/cortes/15_000400_152_0_26822_765739.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1565739I",
+        "duration": 720.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_152_0_26822_765739",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Francesc-Marc Álvaro Vidal",
+          "lastname": "Álvaro Vidal",
+          "firstname": "Francesc-Marc",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Republicano"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 19
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 157
+      },
+      "agendaItem": {
+        "title": "Proposición de Ley Orgánica de garantía del plurilingüismo y de los\nderechos lingüísticos de la ciudadanía ante las instituciones del Estado.",
+        "officialTitle": "Proposición de Ley Orgánica de garantía del plurilingüismo y de los\nderechos lingüísticos de la ciudadanía ante las instituciones del Estado.",
+        "type": "regular",
+        "nativeType": "ES-ley"
+      },
+      "dateStart": "2025-12-09T17:38:00+01:00",
+      "dateEnd": "2025-12-09T17:52:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_152/cortes/15_000400_152_0_26822_765740.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1565740I",
+        "duration": 840.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_152_0_26822_765740",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Jorge Campos Asensi",
+          "lastname": "Campos Asensi",
+          "firstname": "Jorge",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario VOX"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 20
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 157
+      },
+      "agendaItem": {
+        "title": "Proposición de Ley Orgánica de garantía del plurilingüismo y de los\nderechos lingüísticos de la ciudadanía ante las instituciones del Estado.",
+        "officialTitle": "Proposición de Ley Orgánica de garantía del plurilingüismo y de los\nderechos lingüísticos de la ciudadanía ante las instituciones del Estado.",
+        "type": "regular",
+        "nativeType": "ES-ley"
+      },
+      "dateStart": "2025-12-09T17:52:00+01:00",
+      "dateEnd": "2025-12-09T17:58:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_152/cortes/15_000400_152_0_26822_765741.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1565741I",
+        "duration": 360.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_152_0_26822_765741",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Francesc-Marc Álvaro Vidal",
+          "lastname": "Álvaro Vidal",
+          "firstname": "Francesc-Marc",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Republicano"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 21
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 157
+      },
+      "agendaItem": {
+        "title": "Proposición de Ley Orgánica de garantía del plurilingüismo y de los\nderechos lingüísticos de la ciudadanía ante las instituciones del Estado.",
+        "officialTitle": "Proposición de Ley Orgánica de garantía del plurilingüismo y de los\nderechos lingüísticos de la ciudadanía ante las instituciones del Estado.",
+        "type": "regular",
+        "nativeType": "ES-ley"
+      },
+      "dateStart": "2025-12-09T17:58:00+01:00",
+      "dateEnd": "2025-12-09T18:05:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_152/cortes/15_000400_152_0_26822_765742.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1565742I",
+        "duration": 420.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_152_0_26822_765742",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Jorge Campos Asensi",
+          "lastname": "Campos Asensi",
+          "firstname": "Jorge",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario VOX"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 22
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 157
+      },
+      "agendaItem": {
+        "title": "Proposición de Ley Orgánica de garantía del plurilingüismo y de los\nderechos lingüísticos de la ciudadanía ante las instituciones del Estado.",
+        "officialTitle": "Proposición de Ley Orgánica de garantía del plurilingüismo y de los\nderechos lingüísticos de la ciudadanía ante las instituciones del Estado.",
+        "type": "regular",
+        "nativeType": "ES-ley"
+      },
+      "dateStart": "2025-12-09T18:05:00+01:00",
+      "dateEnd": "2025-12-09T18:09:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_152/cortes/15_000400_152_0_26822_765744.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1565744I",
+        "duration": 240.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_152_0_26822_765744",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Àgueda Micó Micó",
+          "lastname": "Micó Micó",
+          "firstname": "Àgueda",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Mixto"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 23
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 157
+      },
+      "agendaItem": {
+        "title": "Proposición de Ley Orgánica de garantía del plurilingüismo y de los\nderechos lingüísticos de la ciudadanía ante las instituciones del Estado.",
+        "officialTitle": "Proposición de Ley Orgánica de garantía del plurilingüismo y de los\nderechos lingüísticos de la ciudadanía ante las instituciones del Estado.",
+        "type": "regular",
+        "nativeType": "ES-ley"
+      },
+      "dateStart": "2025-12-09T18:09:00+01:00",
+      "dateEnd": "2025-12-09T18:14:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_152/cortes/15_000400_152_0_26822_765745.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1565745I",
+        "duration": 300.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_152_0_26822_765745",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Néstor Rego Candamil",
+          "lastname": "Rego Candamil",
+          "firstname": "Néstor",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Mixto"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 24
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 157
+      },
+      "agendaItem": {
+        "title": "Proposición de Ley Orgánica de garantía del plurilingüismo y de los\nderechos lingüísticos de la ciudadanía ante las instituciones del Estado.",
+        "officialTitle": "Proposición de Ley Orgánica de garantía del plurilingüismo y de los\nderechos lingüísticos de la ciudadanía ante las instituciones del Estado.",
+        "type": "regular",
+        "nativeType": "ES-ley"
+      },
+      "dateStart": "2025-12-09T18:14:00+01:00",
+      "dateEnd": "2025-12-09T18:17:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_152/cortes/15_000400_152_0_26822_765746.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1565746I",
+        "duration": 180.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_152_0_26822_765746",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Javier Sánchez Serna",
+          "lastname": "Sánchez Serna",
+          "firstname": "Javier",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Mixto"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 25
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 157
+      },
+      "agendaItem": {
+        "title": "Proposición de Ley Orgánica de garantía del plurilingüismo y de los\nderechos lingüísticos de la ciudadanía ante las instituciones del Estado.",
+        "officialTitle": "Proposición de Ley Orgánica de garantía del plurilingüismo y de los\nderechos lingüísticos de la ciudadanía ante las instituciones del Estado.",
+        "type": "regular",
+        "nativeType": "ES-ley"
+      },
+      "dateStart": "2025-12-09T18:17:00+01:00",
+      "dateEnd": "2025-12-09T18:24:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_152/cortes/15_000400_152_0_26822_765747.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1565747I",
+        "duration": 420.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_152_0_26822_765747",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Joseba Andoni Agirretxea Urresti",
+          "lastname": "Agirretxea Urresti",
+          "firstname": "Joseba Andoni",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Vasco (EAJ-PNV)"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 26
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 157
+      },
+      "agendaItem": {
+        "title": "Proposición de Ley Orgánica de garantía del plurilingüismo y de los\nderechos lingüísticos de la ciudadanía ante las instituciones del Estado.",
+        "officialTitle": "Proposición de Ley Orgánica de garantía del plurilingüismo y de los\nderechos lingüísticos de la ciudadanía ante las instituciones del Estado.",
+        "type": "regular",
+        "nativeType": "ES-ley"
+      },
+      "dateStart": "2025-12-09T18:24:00+01:00",
+      "dateEnd": "2025-12-09T18:31:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_152/cortes/15_000400_152_0_26822_765748.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1565748I",
+        "duration": 420.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_152_0_26822_765748",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Mertxe Aizpurua Arzallus",
+          "lastname": "Aizpurua Arzallus",
+          "firstname": "Mertxe",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Euskal Herria Bildu"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 27
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 157
+      },
+      "agendaItem": {
+        "title": "Proposición de Ley Orgánica de garantía del plurilingüismo y de los\nderechos lingüísticos de la ciudadanía ante las instituciones del Estado.",
+        "officialTitle": "Proposición de Ley Orgánica de garantía del plurilingüismo y de los\nderechos lingüísticos de la ciudadanía ante las instituciones del Estado.",
+        "type": "regular",
+        "nativeType": "ES-ley"
+      },
+      "dateStart": "2025-12-09T18:31:00+01:00",
+      "dateEnd": "2025-12-09T18:41:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_152/cortes/15_000400_152_0_26822_765749.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1565749I",
+        "duration": 600.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_152_0_26822_765749",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Pilar Calvo Gómez",
+          "lastname": "Calvo Gómez",
+          "firstname": "Pilar",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Junts per Catalunya"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 28
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 157
+      },
+      "agendaItem": {
+        "title": "Proposición de Ley Orgánica de garantía del plurilingüismo y de los\nderechos lingüísticos de la ciudadanía ante las instituciones del Estado.",
+        "officialTitle": "Proposición de Ley Orgánica de garantía del plurilingüismo y de los\nderechos lingüísticos de la ciudadanía ante las instituciones del Estado.",
+        "type": "regular",
+        "nativeType": "ES-ley"
+      },
+      "dateStart": "2025-12-09T18:41:00+01:00",
+      "dateEnd": "2025-12-09T18:44:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_152/cortes/15_000400_152_0_26822_765750.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1565750I",
+        "duration": 180.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_152_0_26822_765750",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Aina Vidal Sáez",
+          "lastname": "Vidal Sáez",
+          "firstname": "Aina",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Plurinacional SUMAR"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 29
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 157
+      },
+      "agendaItem": {
+        "title": "Proposición de Ley Orgánica de garantía del plurilingüismo y de los\nderechos lingüísticos de la ciudadanía ante las instituciones del Estado.",
+        "officialTitle": "Proposición de Ley Orgánica de garantía del plurilingüismo y de los\nderechos lingüísticos de la ciudadanía ante las instituciones del Estado.",
+        "type": "regular",
+        "nativeType": "ES-ley"
+      },
+      "dateStart": "2025-12-09T18:44:00+01:00",
+      "dateEnd": "2025-12-09T18:45:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_152/cortes/15_000400_152_0_26822_765751.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1565751I",
+        "duration": 60.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_152_0_26822_765751",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Lander Martínez Hierro",
+          "lastname": "Martínez Hierro",
+          "firstname": "Lander",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Plurinacional SUMAR"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 30
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 157
+      },
+      "agendaItem": {
+        "title": "Proposición de Ley Orgánica de garantía del plurilingüismo y de los\nderechos lingüísticos de la ciudadanía ante las instituciones del Estado.",
+        "officialTitle": "Proposición de Ley Orgánica de garantía del plurilingüismo y de los\nderechos lingüísticos de la ciudadanía ante las instituciones del Estado.",
+        "type": "regular",
+        "nativeType": "ES-ley"
+      },
+      "dateStart": "2025-12-09T18:45:00+01:00",
+      "dateEnd": "2025-12-09T18:47:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_152/cortes/15_000400_152_0_26822_765752.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1565752I",
+        "duration": 120.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_152_0_26822_765752",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Alberto Ibáñez Mezquita",
+          "lastname": "Ibáñez Mezquita",
+          "firstname": "Alberto",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Plurinacional SUMAR"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 31
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 157
+      },
+      "agendaItem": {
+        "title": "Proposición de Ley Orgánica de garantía del plurilingüismo y de los\nderechos lingüísticos de la ciudadanía ante las instituciones del Estado.",
+        "officialTitle": "Proposición de Ley Orgánica de garantía del plurilingüismo y de los\nderechos lingüísticos de la ciudadanía ante las instituciones del Estado.",
+        "type": "regular",
+        "nativeType": "ES-ley"
+      },
+      "dateStart": "2025-12-09T18:47:00+01:00",
+      "dateEnd": "2025-12-09T18:48:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_152/cortes/15_000400_152_0_26822_765753.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1565753I",
+        "duration": 60.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_152_0_26822_765753",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Rafael Cofiño Fernández",
+          "lastname": "Cofiño Fernández",
+          "firstname": "Rafael",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Plurinacional SUMAR"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 32
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 157
+      },
+      "agendaItem": {
+        "title": "Proposición de Ley Orgánica de garantía del plurilingüismo y de los\nderechos lingüísticos de la ciudadanía ante las instituciones del Estado.",
+        "officialTitle": "Proposición de Ley Orgánica de garantía del plurilingüismo y de los\nderechos lingüísticos de la ciudadanía ante las instituciones del Estado.",
+        "type": "regular",
+        "nativeType": "ES-ley"
+      },
+      "dateStart": "2025-12-09T18:48:00+01:00",
+      "dateEnd": "2025-12-09T18:49:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_152/cortes/15_000400_152_0_26822_765754.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1565754I",
+        "duration": 60.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_152_0_26822_765754",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Vicenç Vidal Matas",
+          "lastname": "Vidal Matas",
+          "firstname": "Vicenç",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Plurinacional SUMAR"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 33
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 157
+      },
+      "agendaItem": {
+        "title": "Proposición de Ley Orgánica de garantía del plurilingüismo y de los\nderechos lingüísticos de la ciudadanía ante las instituciones del Estado.",
+        "officialTitle": "Proposición de Ley Orgánica de garantía del plurilingüismo y de los\nderechos lingüísticos de la ciudadanía ante las instituciones del Estado.",
+        "type": "regular",
+        "nativeType": "ES-ley"
+      },
+      "dateStart": "2025-12-09T18:49:00+01:00",
+      "dateEnd": "2025-12-09T18:50:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_152/cortes/15_000400_152_0_26822_765755.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1565755I",
+        "duration": 60.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_152_0_26822_765755",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Jorge Pueyo Sanz",
+          "lastname": "Pueyo Sanz",
+          "firstname": "Jorge",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Plurinacional SUMAR"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 34
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 157
+      },
+      "agendaItem": {
+        "title": "Proposición de Ley Orgánica de garantía del plurilingüismo y de los\nderechos lingüísticos de la ciudadanía ante las instituciones del Estado.",
+        "officialTitle": "Proposición de Ley Orgánica de garantía del plurilingüismo y de los\nderechos lingüísticos de la ciudadanía ante las instituciones del Estado.",
+        "type": "regular",
+        "nativeType": "ES-ley"
+      },
+      "dateStart": "2025-12-09T18:50:00+01:00",
+      "dateEnd": "2025-12-09T18:51:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_152/cortes/15_000400_152_0_26822_765756.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1565756I",
+        "duration": 60.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_152_0_26822_765756",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Manuel Lago Peñas",
+          "lastname": "Lago Peñas",
+          "firstname": "Manuel",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Plurinacional SUMAR"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 35
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 157
+      },
+      "agendaItem": {
+        "title": "Proposición de Ley Orgánica de garantía del plurilingüismo y de los\nderechos lingüísticos de la ciudadanía ante las instituciones del Estado.",
+        "officialTitle": "Proposición de Ley Orgánica de garantía del plurilingüismo y de los\nderechos lingüísticos de la ciudadanía ante las instituciones del Estado.",
+        "type": "regular",
+        "nativeType": "ES-ley"
+      },
+      "dateStart": "2025-12-09T18:51:00+01:00",
+      "dateEnd": "2025-12-09T19:00:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_152/cortes/15_000400_152_0_26822_765758.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1565758I",
+        "duration": 540.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_152_0_26822_765758",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Marc Lamuà Estañol",
+          "lastname": "Lamuà Estañol",
+          "firstname": "Marc",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Socialista"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 36
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 157
+      },
+      "agendaItem": {
+        "title": "Proposición de Ley Orgánica de garantía del plurilingüismo y de los\nderechos lingüísticos de la ciudadanía ante las instituciones del Estado.",
+        "officialTitle": "Proposición de Ley Orgánica de garantía del plurilingüismo y de los\nderechos lingüísticos de la ciudadanía ante las instituciones del Estado.",
+        "type": "regular",
+        "nativeType": "ES-ley"
+      },
+      "dateStart": "2025-12-09T19:00:00+01:00",
+      "dateEnd": "2025-12-09T19:10:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_152/cortes/15_000400_152_1_26825_765762.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1565762I",
+        "duration": 600.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_152_1_26825_765762",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Marta González Vázquez",
+          "lastname": "González Vázquez",
+          "firstname": "Marta",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Popular en el Congreso"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 37
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 157
+      },
+      "agendaItem": {
+        "title": "Proposición no de Ley para ayudar a las familias ante la escalada del\nprecio de los alimentos básicos.",
+        "officialTitle": "Proposición no de Ley para ayudar a las familias ante la escalada del\nprecio de los alimentos básicos.",
+        "type": "regular"
+      },
+      "dateStart": "2025-12-09T19:10:00+01:00",
+      "dateEnd": "2025-12-09T19:19:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_152/cortes/15_000400_152_1_26825_765765.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1565765I",
+        "duration": 540.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_152_1_26825_765765",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "José Vicente Marí Bosó",
+          "lastname": "Marí Bosó",
+          "firstname": "José Vicente",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Popular en el Congreso"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 38
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 157
+      },
+      "agendaItem": {
+        "title": "Proposición no de Ley para ayudar a las familias ante la escalada del\nprecio de los alimentos básicos.",
+        "officialTitle": "Proposición no de Ley para ayudar a las familias ante la escalada del\nprecio de los alimentos básicos.",
+        "type": "regular"
+      },
+      "dateStart": "2025-12-09T19:19:00+01:00",
+      "dateEnd": "2025-12-09T19:26:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_152/cortes/15_000400_152_1_26825_765766.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1565766I",
+        "duration": 420.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_152_1_26825_765766",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Jacobo González-Robatto Perote",
+          "lastname": "González-Robatto Perote",
+          "firstname": "Jacobo",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario VOX"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 39
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 157
+      },
+      "agendaItem": {
+        "title": "Proposición no de Ley para ayudar a las familias ante la escalada del\nprecio de los alimentos básicos.",
+        "officialTitle": "Proposición no de Ley para ayudar a las familias ante la escalada del\nprecio de los alimentos básicos.",
+        "type": "regular"
+      },
+      "dateStart": "2025-12-09T19:26:00+01:00",
+      "dateEnd": "2025-12-09T19:32:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_152/cortes/15_000400_152_1_26825_765767.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1565767I",
+        "duration": 360.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_152_1_26825_765767",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Cristina Valido García",
+          "lastname": "Valido García",
+          "firstname": "Cristina",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Mixto"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 40
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 157
+      },
+      "agendaItem": {
+        "title": "Proposición no de Ley para ayudar a las familias ante la escalada del\nprecio de los alimentos básicos.",
+        "officialTitle": "Proposición no de Ley para ayudar a las familias ante la escalada del\nprecio de los alimentos básicos.",
+        "type": "regular"
+      },
+      "dateStart": "2025-12-09T19:32:00+01:00",
+      "dateEnd": "2025-12-09T19:35:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_152/cortes/15_000400_152_1_26825_765768.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1565768I",
+        "duration": 180.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_152_1_26825_765768",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Idoia Sagastizabal Unzetabarrenetxea",
+          "lastname": "Sagastizabal Unzetabarrenetxea",
+          "firstname": "Idoia",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Vasco (EAJ-PNV)"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 41
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 157
+      },
+      "agendaItem": {
+        "title": "Proposición no de Ley para ayudar a las familias ante la escalada del\nprecio de los alimentos básicos.",
+        "officialTitle": "Proposición no de Ley para ayudar a las familias ante la escalada del\nprecio de los alimentos básicos.",
+        "type": "regular"
+      },
+      "dateStart": "2025-12-09T19:35:00+01:00",
+      "dateEnd": "2025-12-09T19:41:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_152/cortes/15_000400_152_1_26825_765769.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1565769I",
+        "duration": 360.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_152_1_26825_765769",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Josep Maria Cruset Domènech",
+          "lastname": "Cruset Domènech",
+          "firstname": "Josep Maria",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Junts per Catalunya"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 42
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 157
+      },
+      "agendaItem": {
+        "title": "Proposición no de Ley para ayudar a las familias ante la escalada del\nprecio de los alimentos básicos.",
+        "officialTitle": "Proposición no de Ley para ayudar a las familias ante la escalada del\nprecio de los alimentos básicos.",
+        "type": "regular"
+      },
+      "dateStart": "2025-12-09T19:41:00+01:00",
+      "dateEnd": "2025-12-09T19:47:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_152/cortes/15_000400_152_1_26825_765770.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1565770I",
+        "duration": 360.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_152_1_26825_765770",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Pilar Vallugera Balañà",
+          "lastname": "Vallugera Balañà",
+          "firstname": "Pilar",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Republicano"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 43
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 157
+      },
+      "agendaItem": {
+        "title": "Proposición no de Ley para ayudar a las familias ante la escalada del\nprecio de los alimentos básicos.",
+        "officialTitle": "Proposición no de Ley para ayudar a las familias ante la escalada del\nprecio de los alimentos básicos.",
+        "type": "regular"
+      },
+      "dateStart": "2025-12-09T19:47:00+01:00",
+      "dateEnd": "2025-12-09T19:54:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_152/cortes/15_000400_152_1_26825_765771.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1565771I",
+        "duration": 420.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_152_1_26825_765771",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Alberto Ibáñez Mezquita",
+          "lastname": "Ibáñez Mezquita",
+          "firstname": "Alberto",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Plurinacional SUMAR"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 44
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 157
+      },
+      "agendaItem": {
+        "title": "Proposición no de Ley para ayudar a las familias ante la escalada del\nprecio de los alimentos básicos.",
+        "officialTitle": "Proposición no de Ley para ayudar a las familias ante la escalada del\nprecio de los alimentos básicos.",
+        "type": "regular"
+      },
+      "dateStart": "2025-12-09T19:54:00+01:00",
+      "dateEnd": "2025-12-09T20:00:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_152/cortes/15_000400_152_1_26825_765772.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1565772I",
+        "duration": 360.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_152_1_26825_765772",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "María Carmen Sánchez Díaz",
+          "lastname": "Sánchez Díaz",
+          "firstname": "María Carmen",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Socialista"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 45
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 157
+      },
+      "agendaItem": {
+        "title": "Proposición no de Ley relativa a garantizar la igualdad de\noportunidades y no discriminación de las personas con discapacidad ante\nla inteligencia artificial.",
+        "officialTitle": "Proposición no de Ley relativa a garantizar la igualdad de\noportunidades y no discriminación de las personas con discapacidad ante\nla inteligencia artificial.",
+        "type": "regular"
+      },
+      "dateStart": "2025-12-09T20:00:00+01:00",
+      "dateEnd": "2025-12-09T20:08:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_152/cortes/15_000400_152_1_26825_765774.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1565774I",
+        "duration": 480.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_152_1_26825_765774",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Luisa Sanz Martínez",
+          "lastname": "Sanz Martínez",
+          "firstname": "Luisa",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Socialista"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 46
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 157
+      },
+      "agendaItem": {
+        "title": "Proposición no de Ley relativa a garantizar la igualdad de\noportunidades y no discriminación de las personas con discapacidad ante\nla inteligencia artificial.",
+        "officialTitle": "Proposición no de Ley relativa a garantizar la igualdad de\noportunidades y no discriminación de las personas con discapacidad ante\nla inteligencia artificial.",
+        "type": "regular"
+      },
+      "dateStart": "2025-12-09T20:08:00+01:00",
+      "dateEnd": "2025-12-09T20:14:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_152/cortes/15_000400_152_1_26825_765775.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1565775I",
+        "duration": 360.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_152_1_26825_765775",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Nerea Renteria Lasanta",
+          "lastname": "Renteria Lasanta",
+          "firstname": "Nerea",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Vasco (EAJ-PNV)"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 47
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 157
+      },
+      "agendaItem": {
+        "title": "Proposición no de Ley relativa a garantizar la igualdad de\noportunidades y no discriminación de las personas con discapacidad ante\nla inteligencia artificial.",
+        "officialTitle": "Proposición no de Ley relativa a garantizar la igualdad de\noportunidades y no discriminación de las personas con discapacidad ante\nla inteligencia artificial.",
+        "type": "regular"
+      },
+      "dateStart": "2025-12-09T20:14:00+01:00",
+      "dateEnd": "2025-12-09T20:21:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_152/cortes/15_000400_152_1_26825_765776.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1565776I",
+        "duration": 420.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_152_1_26825_765776",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Pilar Calvo Gómez",
+          "lastname": "Calvo Gómez",
+          "firstname": "Pilar",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Junts per Catalunya"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 48
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 157
+      },
+      "agendaItem": {
+        "title": "Proposición no de Ley relativa a garantizar la igualdad de\noportunidades y no discriminación de las personas con discapacidad ante\nla inteligencia artificial.",
+        "officialTitle": "Proposición no de Ley relativa a garantizar la igualdad de\noportunidades y no discriminación de las personas con discapacidad ante\nla inteligencia artificial.",
+        "type": "regular"
+      },
+      "dateStart": "2025-12-09T20:21:00+01:00",
+      "dateEnd": "2025-12-09T20:26:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_152/cortes/15_000400_152_1_26825_765777.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1565777I",
+        "duration": 300.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_152_1_26825_765777",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Jordi Salvador i Duch",
+          "lastname": "Salvador i Duch",
+          "firstname": "Jordi",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Republicano"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 49
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 157
+      },
+      "agendaItem": {
+        "title": "Proposición no de Ley relativa a garantizar la igualdad de\noportunidades y no discriminación de las personas con discapacidad ante\nla inteligencia artificial.",
+        "officialTitle": "Proposición no de Ley relativa a garantizar la igualdad de\noportunidades y no discriminación de las personas con discapacidad ante\nla inteligencia artificial.",
+        "type": "regular"
+      },
+      "dateStart": "2025-12-09T20:26:00+01:00",
+      "dateEnd": "2025-12-09T20:32:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_152/cortes/15_000400_152_1_26825_765778.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1565778I",
+        "duration": 360.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_152_1_26825_765778",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Rafael Cofiño Fernández",
+          "lastname": "Cofiño Fernández",
+          "firstname": "Rafael",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Plurinacional SUMAR"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 50
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 157
+      },
+      "agendaItem": {
+        "title": "Proposición no de Ley relativa a garantizar la igualdad de\noportunidades y no discriminación de las personas con discapacidad ante\nla inteligencia artificial.",
+        "officialTitle": "Proposición no de Ley relativa a garantizar la igualdad de\noportunidades y no discriminación de las personas con discapacidad ante\nla inteligencia artificial.",
+        "type": "regular"
+      },
+      "dateStart": "2025-12-09T20:32:00+01:00",
+      "dateEnd": "2025-12-09T20:38:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_152/cortes/15_000400_152_1_26825_765779.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1565779I",
+        "duration": 360.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_152_1_26825_765779",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Blanca Armario González",
+          "lastname": "Armario González",
+          "firstname": "Blanca",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario VOX"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 51
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 157
+      },
+      "agendaItem": {
+        "title": "Proposición no de Ley relativa a garantizar la igualdad de\noportunidades y no discriminación de las personas con discapacidad ante\nla inteligencia artificial.",
+        "officialTitle": "Proposición no de Ley relativa a garantizar la igualdad de\noportunidades y no discriminación de las personas con discapacidad ante\nla inteligencia artificial.",
+        "type": "regular"
+      },
+      "dateStart": "2025-12-09T20:38:00+01:00",
+      "dateEnd": "2025-12-09T20:44:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_152/cortes/15_000400_152_1_26825_765780.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1565780I",
+        "duration": 360.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_152_1_26825_765780",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Juan Luis Pedreño Molina",
+          "lastname": "Pedreño Molina",
+          "firstname": "Juan Luis",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Popular en el Congreso"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 52
+    }
+  ]
+}

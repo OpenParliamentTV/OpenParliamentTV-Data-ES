@@ -1,0 +1,953 @@
+{
+  "meta": {
+    "session": "15054",
+    "processing": {
+      "parse_media": "2026-05-23T07:17:41"
+    },
+    "dateStart": "2024-06-27T09:03:00+02:00",
+    "dateEnd": "2024-06-27T11:24:00+02:00"
+  },
+  "data": [
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 54
+      },
+      "agendaItem": {
+        "title": "Proyecto de Ley Orgánica de representación paritaria y presencia\nequilibrada de mujeres y hombres.",
+        "officialTitle": "Proyecto de Ley Orgánica de representación paritaria y presencia\nequilibrada de mujeres y hombres.",
+        "type": "regular",
+        "nativeType": "ES-ley"
+      },
+      "dateStart": "2024-06-27T09:03:00+02:00",
+      "dateEnd": "2024-06-27T09:06:00+02:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_052/cortes/15_000400_052_0_25058_736593.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1536593I",
+        "duration": 180.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_052_0_25058_736593",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Alberto Catalán Higueras",
+          "lastname": "Catalán Higueras",
+          "firstname": "Alberto",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Mixto"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 1
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 54
+      },
+      "agendaItem": {
+        "title": "Proyecto de Ley Orgánica de representación paritaria y presencia\nequilibrada de mujeres y hombres.",
+        "officialTitle": "Proyecto de Ley Orgánica de representación paritaria y presencia\nequilibrada de mujeres y hombres.",
+        "type": "regular",
+        "nativeType": "ES-ley"
+      },
+      "dateStart": "2024-06-27T09:06:00+02:00",
+      "dateEnd": "2024-06-27T09:08:00+02:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_052/cortes/15_000400_052_0_25058_736594.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1536594I",
+        "duration": 120.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_052_0_25058_736594",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Cristina Valido García",
+          "lastname": "Valido García",
+          "firstname": "Cristina",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Mixto"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 2
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 54
+      },
+      "agendaItem": {
+        "title": "Proyecto de Ley Orgánica de representación paritaria y presencia\nequilibrada de mujeres y hombres.",
+        "officialTitle": "Proyecto de Ley Orgánica de representación paritaria y presencia\nequilibrada de mujeres y hombres.",
+        "type": "regular",
+        "nativeType": "ES-ley"
+      },
+      "dateStart": "2024-06-27T09:08:00+02:00",
+      "dateEnd": "2024-06-27T09:11:00+02:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_052/cortes/15_000400_052_0_25058_736595.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1536595I",
+        "duration": 180.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_052_0_25058_736595",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Néstor Rego Candamil",
+          "lastname": "Rego Candamil",
+          "firstname": "Néstor",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Mixto"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 3
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 54
+      },
+      "agendaItem": {
+        "title": "Proyecto de Ley Orgánica de representación paritaria y presencia\nequilibrada de mujeres y hombres.",
+        "officialTitle": "Proyecto de Ley Orgánica de representación paritaria y presencia\nequilibrada de mujeres y hombres.",
+        "type": "regular",
+        "nativeType": "ES-ley"
+      },
+      "dateStart": "2024-06-27T09:11:00+02:00",
+      "dateEnd": "2024-06-27T09:15:00+02:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_052/cortes/15_000400_052_0_25058_736596.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1536596I",
+        "duration": 240.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_052_0_25058_736596",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Ione Belarra Urteaga",
+          "lastname": "Belarra Urteaga",
+          "firstname": "Ione",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Mixto"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 4
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 54
+      },
+      "agendaItem": {
+        "title": "Proyecto de Ley Orgánica de representación paritaria y presencia\nequilibrada de mujeres y hombres.",
+        "officialTitle": "Proyecto de Ley Orgánica de representación paritaria y presencia\nequilibrada de mujeres y hombres.",
+        "type": "regular",
+        "nativeType": "ES-ley"
+      },
+      "dateStart": "2024-06-27T09:15:00+02:00",
+      "dateEnd": "2024-06-27T09:22:00+02:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_052/cortes/15_000400_052_0_25058_736597.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1536597I",
+        "duration": 420.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_052_0_25058_736597",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Joseba Andoni Agirretxea Urresti",
+          "lastname": "Agirretxea Urresti",
+          "firstname": "Joseba Andoni",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Vasco (EAJ-PNV)"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 5
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 54
+      },
+      "agendaItem": {
+        "title": "Proyecto de Ley Orgánica de representación paritaria y presencia\nequilibrada de mujeres y hombres.",
+        "officialTitle": "Proyecto de Ley Orgánica de representación paritaria y presencia\nequilibrada de mujeres y hombres.",
+        "type": "regular",
+        "nativeType": "ES-ley"
+      },
+      "dateStart": "2024-06-27T09:23:00+02:00",
+      "dateEnd": "2024-06-27T09:30:00+02:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_052/cortes/15_000400_052_0_25058_736598.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1536598I",
+        "duration": 420.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_052_0_25058_736598",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Pilar Calvo Gómez",
+          "lastname": "Calvo Gómez",
+          "firstname": "Pilar",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Junts per Catalunya"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 6
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 54
+      },
+      "agendaItem": {
+        "title": "Proyecto de Ley Orgánica de representación paritaria y presencia\nequilibrada de mujeres y hombres.",
+        "officialTitle": "Proyecto de Ley Orgánica de representación paritaria y presencia\nequilibrada de mujeres y hombres.",
+        "type": "regular",
+        "nativeType": "ES-ley"
+      },
+      "dateStart": "2024-06-27T09:30:00+02:00",
+      "dateEnd": "2024-06-27T09:37:00+02:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_052/cortes/15_000400_052_0_25058_736599.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1536599I",
+        "duration": 420.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_052_0_25058_736599",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Pilar Vallugera Balañà",
+          "lastname": "Vallugera Balañà",
+          "firstname": "Pilar",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Republicano"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 7
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 54
+      },
+      "agendaItem": {
+        "title": "Proyecto de Ley Orgánica de representación paritaria y presencia\nequilibrada de mujeres y hombres.",
+        "officialTitle": "Proyecto de Ley Orgánica de representación paritaria y presencia\nequilibrada de mujeres y hombres.",
+        "type": "regular",
+        "nativeType": "ES-ley"
+      },
+      "dateStart": "2024-06-27T09:37:00+02:00",
+      "dateEnd": "2024-06-27T09:45:00+02:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_052/cortes/15_000400_052_0_25058_736600.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1536600I",
+        "duration": 480.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_052_0_25058_736600",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Esther Gil de Reboleño Lastortres",
+          "lastname": "Gil de Reboleño Lastortres",
+          "firstname": "Esther",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Plurinacional SUMAR"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 8
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 54
+      },
+      "agendaItem": {
+        "title": "Proyecto de Ley Orgánica de representación paritaria y presencia\nequilibrada de mujeres y hombres.",
+        "officialTitle": "Proyecto de Ley Orgánica de representación paritaria y presencia\nequilibrada de mujeres y hombres.",
+        "type": "regular",
+        "nativeType": "ES-ley"
+      },
+      "dateStart": "2024-06-27T09:45:00+02:00",
+      "dateEnd": "2024-06-27T09:55:00+02:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_052/cortes/15_000400_052_0_25058_736601.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1536601I",
+        "duration": 600.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_052_0_25058_736601",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Jaime Miguel De los Santos González",
+          "lastname": "De los Santos González",
+          "firstname": "Jaime Miguel",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Popular en el Congreso"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 9
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 54
+      },
+      "agendaItem": {
+        "title": "Proyecto de Ley Orgánica de representación paritaria y presencia\nequilibrada de mujeres y hombres.",
+        "officialTitle": "Proyecto de Ley Orgánica de representación paritaria y presencia\nequilibrada de mujeres y hombres.",
+        "type": "regular",
+        "nativeType": "ES-ley"
+      },
+      "dateStart": "2024-06-27T09:55:00+02:00",
+      "dateEnd": "2024-06-27T10:04:00+02:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_052/cortes/15_000400_052_0_25058_736602.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1536602I",
+        "duration": 540.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_052_0_25058_736602",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Isabel Pozueta Fernández",
+          "lastname": "Pozueta Fernández",
+          "firstname": "Isabel",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Euskal Herria Bildu"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 10
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 54
+      },
+      "agendaItem": {
+        "title": "Proyecto de Ley Orgánica de representación paritaria y presencia\nequilibrada de mujeres y hombres.",
+        "officialTitle": "Proyecto de Ley Orgánica de representación paritaria y presencia\nequilibrada de mujeres y hombres.",
+        "type": "regular",
+        "nativeType": "ES-ley"
+      },
+      "dateStart": "2024-06-27T10:04:00+02:00",
+      "dateEnd": "2024-06-27T10:14:00+02:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_052/cortes/15_000400_052_0_25058_736603.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1536603I",
+        "duration": 600.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_052_0_25058_736603",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Rocío Aguirre Gil de Biedma",
+          "lastname": "Aguirre Gil de Biedma",
+          "firstname": "Rocío",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario VOX"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 11
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 54
+      },
+      "agendaItem": {
+        "title": "Proyecto de Ley Orgánica de representación paritaria y presencia\nequilibrada de mujeres y hombres.",
+        "officialTitle": "Proyecto de Ley Orgánica de representación paritaria y presencia\nequilibrada de mujeres y hombres.",
+        "type": "regular",
+        "nativeType": "ES-ley"
+      },
+      "dateStart": "2024-06-27T10:14:00+02:00",
+      "dateEnd": "2024-06-27T10:22:00+02:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_052/cortes/15_000400_052_0_25058_736604.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1536604I",
+        "duration": 480.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_052_0_25058_736604",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Andrea Fernández Benéitez",
+          "lastname": "Fernández Benéitez",
+          "firstname": "Andrea",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Socialista"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 12
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 54
+      },
+      "agendaItem": {
+        "title": "Proyecto de Ley Orgánica de representación paritaria y presencia\nequilibrada de mujeres y hombres.",
+        "officialTitle": "Proyecto de Ley Orgánica de representación paritaria y presencia\nequilibrada de mujeres y hombres.",
+        "type": "regular",
+        "nativeType": "ES-ley"
+      },
+      "dateStart": "2024-06-27T10:22:00+02:00",
+      "dateEnd": "2024-06-27T10:27:00+02:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_052/cortes/15_000400_052_0_25058_736605.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1536605I",
+        "duration": 300.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_052_0_25058_736605",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Ana María del Carmen Redondo García",
+          "lastname": "Redondo García",
+          "firstname": "Ana María del Carmen",
+          "type": "member of government",
+          "role": "Ministra de Igualdad"
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 13
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 54
+      },
+      "agendaItem": {
+        "title": "Proyecto de Ley de creación de la Autoridad Administrativa\nIndependiente para la Investigación Técnica de Accidentes e Incidentes\nferroviarios, marítimos y de aviación civil.",
+        "officialTitle": "Proyecto de Ley de creación de la Autoridad Administrativa\nIndependiente para la Investigación Técnica de Accidentes e Incidentes\nferroviarios, marítimos y de aviación civil.",
+        "type": "regular",
+        "nativeType": "ES-ley"
+      },
+      "dateStart": "2024-06-27T10:28:00+02:00",
+      "dateEnd": "2024-06-27T10:32:00+02:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_052/cortes/15_000400_052_0_25058_736607.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1536607I",
+        "duration": 240.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_052_0_25058_736607",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Cristina Valido García",
+          "lastname": "Valido García",
+          "firstname": "Cristina",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Mixto"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 14
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 54
+      },
+      "agendaItem": {
+        "title": "Proyecto de Ley de creación de la Autoridad Administrativa\nIndependiente para la Investigación Técnica de Accidentes e Incidentes\nferroviarios, marítimos y de aviación civil.",
+        "officialTitle": "Proyecto de Ley de creación de la Autoridad Administrativa\nIndependiente para la Investigación Técnica de Accidentes e Incidentes\nferroviarios, marítimos y de aviación civil.",
+        "type": "regular",
+        "nativeType": "ES-ley"
+      },
+      "dateStart": "2024-06-27T10:32:00+02:00",
+      "dateEnd": "2024-06-27T10:35:00+02:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_052/cortes/15_000400_052_0_25058_736608.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1536608I",
+        "duration": 180.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_052_0_25058_736608",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Néstor Rego Candamil",
+          "lastname": "Rego Candamil",
+          "firstname": "Néstor",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Mixto"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 15
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 54
+      },
+      "agendaItem": {
+        "title": "Proyecto de Ley de creación de la Autoridad Administrativa\nIndependiente para la Investigación Técnica de Accidentes e Incidentes\nferroviarios, marítimos y de aviación civil.",
+        "officialTitle": "Proyecto de Ley de creación de la Autoridad Administrativa\nIndependiente para la Investigación Técnica de Accidentes e Incidentes\nferroviarios, marítimos y de aviación civil.",
+        "type": "regular",
+        "nativeType": "ES-ley"
+      },
+      "dateStart": "2024-06-27T10:35:00+02:00",
+      "dateEnd": "2024-06-27T10:39:00+02:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_052/cortes/15_000400_052_0_25058_736609.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1536609I",
+        "duration": 240.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_052_0_25058_736609",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Noemí Santana Perera",
+          "lastname": "Santana Perera",
+          "firstname": "Noemí",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Mixto"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 16
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 54
+      },
+      "agendaItem": {
+        "title": "Proyecto de Ley de creación de la Autoridad Administrativa\nIndependiente para la Investigación Técnica de Accidentes e Incidentes\nferroviarios, marítimos y de aviación civil.",
+        "officialTitle": "Proyecto de Ley de creación de la Autoridad Administrativa\nIndependiente para la Investigación Técnica de Accidentes e Incidentes\nferroviarios, marítimos y de aviación civil.",
+        "type": "regular",
+        "nativeType": "ES-ley"
+      },
+      "dateStart": "2024-06-27T10:39:00+02:00",
+      "dateEnd": "2024-06-27T10:46:00+02:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_052/cortes/15_000400_052_0_25058_736610.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1536610I",
+        "duration": 420.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_052_0_25058_736610",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Inés Granollers Cunillera",
+          "lastname": "Granollers Cunillera",
+          "firstname": "Inés",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Republicano"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 17
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 54
+      },
+      "agendaItem": {
+        "title": "Proyecto de Ley de creación de la Autoridad Administrativa\nIndependiente para la Investigación Técnica de Accidentes e Incidentes\nferroviarios, marítimos y de aviación civil.",
+        "officialTitle": "Proyecto de Ley de creación de la Autoridad Administrativa\nIndependiente para la Investigación Técnica de Accidentes e Incidentes\nferroviarios, marítimos y de aviación civil.",
+        "type": "regular",
+        "nativeType": "ES-ley"
+      },
+      "dateStart": "2024-06-27T10:46:00+02:00",
+      "dateEnd": "2024-06-27T10:54:00+02:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_052/cortes/15_000400_052_0_25058_736611.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1536611I",
+        "duration": 480.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_052_0_25058_736611",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Celso Luis Delgado Arce",
+          "lastname": "Delgado Arce",
+          "firstname": "Celso Luis",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Popular en el Congreso"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 18
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 54
+      },
+      "agendaItem": {
+        "title": "Proyecto de Ley de creación de la Autoridad Administrativa\nIndependiente para la Investigación Técnica de Accidentes e Incidentes\nferroviarios, marítimos y de aviación civil.",
+        "officialTitle": "Proyecto de Ley de creación de la Autoridad Administrativa\nIndependiente para la Investigación Técnica de Accidentes e Incidentes\nferroviarios, marítimos y de aviación civil.",
+        "type": "regular",
+        "nativeType": "ES-ley"
+      },
+      "dateStart": "2024-06-27T10:54:00+02:00",
+      "dateEnd": "2024-06-27T10:56:00+02:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_052/cortes/15_000400_052_0_25058_736612.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1536612I",
+        "duration": 120.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_052_0_25058_736612",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Maribel Vaquero Montero",
+          "lastname": "Vaquero Montero",
+          "firstname": "Maribel",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Vasco (EAJ-PNV)"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 19
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 54
+      },
+      "agendaItem": {
+        "title": "Proyecto de Ley de creación de la Autoridad Administrativa\nIndependiente para la Investigación Técnica de Accidentes e Incidentes\nferroviarios, marítimos y de aviación civil.",
+        "officialTitle": "Proyecto de Ley de creación de la Autoridad Administrativa\nIndependiente para la Investigación Técnica de Accidentes e Incidentes\nferroviarios, marítimos y de aviación civil.",
+        "type": "regular",
+        "nativeType": "ES-ley"
+      },
+      "dateStart": "2024-06-27T10:56:00+02:00",
+      "dateEnd": "2024-06-27T11:03:00+02:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_052/cortes/15_000400_052_0_25058_736613.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1536613I",
+        "duration": 420.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_052_0_25058_736613",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Isidre Gavin i Valls",
+          "lastname": "Gavin i Valls",
+          "firstname": "Isidre",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Junts per Catalunya"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 20
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 54
+      },
+      "agendaItem": {
+        "title": "Proyecto de Ley de creación de la Autoridad Administrativa\nIndependiente para la Investigación Técnica de Accidentes e Incidentes\nferroviarios, marítimos y de aviación civil.",
+        "officialTitle": "Proyecto de Ley de creación de la Autoridad Administrativa\nIndependiente para la Investigación Técnica de Accidentes e Incidentes\nferroviarios, marítimos y de aviación civil.",
+        "type": "regular",
+        "nativeType": "ES-ley"
+      },
+      "dateStart": "2024-06-27T11:03:00+02:00",
+      "dateEnd": "2024-06-27T11:09:00+02:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_052/cortes/15_000400_052_0_25058_736614.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1536614I",
+        "duration": 360.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_052_0_25058_736614",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Fèlix Alonso Cantorné",
+          "lastname": "Alonso Cantorné",
+          "firstname": "Fèlix",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Plurinacional SUMAR"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 21
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 54
+      },
+      "agendaItem": {
+        "title": "Proyecto de Ley de creación de la Autoridad Administrativa\nIndependiente para la Investigación Técnica de Accidentes e Incidentes\nferroviarios, marítimos y de aviación civil.",
+        "officialTitle": "Proyecto de Ley de creación de la Autoridad Administrativa\nIndependiente para la Investigación Técnica de Accidentes e Incidentes\nferroviarios, marítimos y de aviación civil.",
+        "type": "regular",
+        "nativeType": "ES-ley"
+      },
+      "dateStart": "2024-06-27T11:09:00+02:00",
+      "dateEnd": "2024-06-27T11:17:00+02:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_052/cortes/15_000400_052_0_25058_736615.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1536615I",
+        "duration": 480.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_052_0_25058_736615",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Patricia Rueda Perelló",
+          "lastname": "Rueda Perelló",
+          "firstname": "Patricia",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario VOX"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 22
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 54
+      },
+      "agendaItem": {
+        "title": "Proyecto de Ley de creación de la Autoridad Administrativa\nIndependiente para la Investigación Técnica de Accidentes e Incidentes\nferroviarios, marítimos y de aviación civil.",
+        "officialTitle": "Proyecto de Ley de creación de la Autoridad Administrativa\nIndependiente para la Investigación Técnica de Accidentes e Incidentes\nferroviarios, marítimos y de aviación civil.",
+        "type": "regular",
+        "nativeType": "ES-ley"
+      },
+      "dateStart": "2024-06-27T11:17:00+02:00",
+      "dateEnd": "2024-06-27T11:24:00+02:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_052/cortes/15_000400_052_0_25058_736616.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1536616I",
+        "duration": 420.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_052_0_25058_736616",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "César Joaquín Ramos Esteban",
+          "lastname": "Ramos Esteban",
+          "firstname": "César Joaquín",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Socialista"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 23
+    }
+  ]
+}

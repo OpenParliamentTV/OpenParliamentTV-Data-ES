@@ -1,0 +1,3096 @@
+{
+  "meta": {
+    "session": "15030",
+    "processing": {
+      "parse_media": "2026-05-23T07:17:41"
+    },
+    "dateStart": "2024-03-13T09:00:00+01:00",
+    "dateEnd": "2024-03-13T13:13:00+01:00"
+  },
+  "data": [
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 30
+      },
+      "agendaItem": {
+        "title": "¿Hasta dónde puede llegar la trama de su Gobierno y su partido?",
+        "officialTitle": "¿Hasta dónde puede llegar la trama de su Gobierno y su partido?",
+        "type": "qa",
+        "nativeType": "ES-pregunta"
+      },
+      "dateStart": "2024-03-13T09:00:00+01:00",
+      "dateEnd": "2024-03-13T09:02:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_028/cortes/15_000400_028_0_24734_729784.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1529784I",
+        "duration": 120.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_028_0_24734_729784",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Alberto Núñez Feijóo",
+          "lastname": "Núñez Feijóo",
+          "firstname": "Alberto",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Popular en el Congreso"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 1
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 30
+      },
+      "agendaItem": {
+        "title": "¿Hasta dónde puede llegar la trama de su Gobierno y su partido?",
+        "officialTitle": "¿Hasta dónde puede llegar la trama de su Gobierno y su partido?",
+        "type": "qa",
+        "nativeType": "ES-pregunta"
+      },
+      "dateStart": "2024-03-13T09:02:00+01:00",
+      "dateEnd": "2024-03-13T09:03:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_028/cortes/15_000400_028_0_24734_729785.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1529785I",
+        "duration": 60.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_028_0_24734_729785",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Pedro Sánchez Pérez-Castejón",
+          "lastname": "Sánchez Pérez-Castejón",
+          "firstname": "Pedro",
+          "type": "member of government",
+          "role": "Presidente del Gobierno",
+          "faction": {
+            "label": "Grupo Parlamentario Socialista"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 2
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 30
+      },
+      "agendaItem": {
+        "title": "¿Hasta dónde puede llegar la trama de su Gobierno y su partido?",
+        "officialTitle": "¿Hasta dónde puede llegar la trama de su Gobierno y su partido?",
+        "type": "qa",
+        "nativeType": "ES-pregunta"
+      },
+      "dateStart": "2024-03-13T09:03:00+01:00",
+      "dateEnd": "2024-03-13T09:05:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_028/cortes/15_000400_028_0_24734_729786.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1529786I",
+        "duration": 120.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_028_0_24734_729786",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Alberto Núñez Feijóo",
+          "lastname": "Núñez Feijóo",
+          "firstname": "Alberto",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Popular en el Congreso"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 3
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 30
+      },
+      "agendaItem": {
+        "title": "¿Hasta dónde puede llegar la trama de su Gobierno y su partido?",
+        "officialTitle": "¿Hasta dónde puede llegar la trama de su Gobierno y su partido?",
+        "type": "qa",
+        "nativeType": "ES-pregunta"
+      },
+      "dateStart": "2024-03-13T09:05:00+01:00",
+      "dateEnd": "2024-03-13T09:07:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_028/cortes/15_000400_028_0_24734_729787.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1529787I",
+        "duration": 120.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_028_0_24734_729787",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Pedro Sánchez Pérez-Castejón",
+          "lastname": "Sánchez Pérez-Castejón",
+          "firstname": "Pedro",
+          "type": "member of government",
+          "role": "Presidente del Gobierno",
+          "faction": {
+            "label": "Grupo Parlamentario Socialista"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 4
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 30
+      },
+      "agendaItem": {
+        "title": "¿Por qué no se inhibió de la concesión de millones de euros a la\naerolínea con la que se reunía su mujer junto al comisionista del caso\nKoldo?",
+        "officialTitle": "¿Por qué no se inhibió de la concesión de millones de euros a la\naerolínea con la que se reunía su mujer junto al comisionista del caso\nKoldo?",
+        "type": "qa",
+        "nativeType": "ES-pregunta"
+      },
+      "dateStart": "2024-03-13T09:07:00+01:00",
+      "dateEnd": "2024-03-13T09:10:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_028/cortes/15_000400_028_0_24734_729789.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1529789I",
+        "duration": 180.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_028_0_24734_729789",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Santiago Abascal Conde",
+          "lastname": "Abascal Conde",
+          "firstname": "Santiago",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario VOX"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 5
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 30
+      },
+      "agendaItem": {
+        "title": "¿Por qué no se inhibió de la concesión de millones de euros a la\naerolínea con la que se reunía su mujer junto al comisionista del caso\nKoldo?",
+        "officialTitle": "¿Por qué no se inhibió de la concesión de millones de euros a la\naerolínea con la que se reunía su mujer junto al comisionista del caso\nKoldo?",
+        "type": "qa",
+        "nativeType": "ES-pregunta"
+      },
+      "dateStart": "2024-03-13T09:10:00+01:00",
+      "dateEnd": "2024-03-13T09:13:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_028/cortes/15_000400_028_0_24734_729790.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1529790I",
+        "duration": 180.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_028_0_24734_729790",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Pedro Sánchez Pérez-Castejón",
+          "lastname": "Sánchez Pérez-Castejón",
+          "firstname": "Pedro",
+          "type": "member of government",
+          "role": "Presidente del Gobierno",
+          "faction": {
+            "label": "Grupo Parlamentario Socialista"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 6
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 30
+      },
+      "agendaItem": {
+        "title": "¿Qué decisiones pretende adoptar el Gobierno en materia de\ninversiones en Cataluña?",
+        "officialTitle": "¿Qué decisiones pretende adoptar el Gobierno en materia de\ninversiones en Cataluña?",
+        "type": "qa",
+        "nativeType": "ES-pregunta"
+      },
+      "dateStart": "2024-03-13T09:13:00+01:00",
+      "dateEnd": "2024-03-13T09:14:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_028/cortes/15_000400_028_0_24734_729793.mp4\nhttps://www.congreso.es/audiovisual/video/leg15/400/15_000400_028/cortes/15_000400_028_0_24734_729795.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1529793I https://app.congreso.es/v1/15729795I",
+        "duration": 60.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_028_0_24734_729795",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Teresa Jordà i Roura",
+          "lastname": "Jordà i Roura",
+          "firstname": "Teresa",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Republicano"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 7
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 30
+      },
+      "agendaItem": {
+        "title": "¿Qué decisiones pretende adoptar el Gobierno en materia de\ninversiones en Cataluña?",
+        "officialTitle": "¿Qué decisiones pretende adoptar el Gobierno en materia de\ninversiones en Cataluña?",
+        "type": "qa",
+        "nativeType": "ES-pregunta"
+      },
+      "dateStart": "2024-03-13T09:14:00+01:00",
+      "dateEnd": "2024-03-13T09:15:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_028/cortes/15_000400_028_0_24734_729794.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1529794I",
+        "duration": 60.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_028_0_24734_729794",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Pedro Sánchez Pérez-Castejón",
+          "lastname": "Sánchez Pérez-Castejón",
+          "firstname": "Pedro",
+          "type": "member of government",
+          "role": "Presidente del Gobierno",
+          "faction": {
+            "label": "Grupo Parlamentario Socialista"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 8
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 30
+      },
+      "agendaItem": {
+        "title": "¿Qué decisiones pretende adoptar el Gobierno en materia de\ninversiones en Cataluña?",
+        "officialTitle": "¿Qué decisiones pretende adoptar el Gobierno en materia de\ninversiones en Cataluña?",
+        "type": "qa",
+        "nativeType": "ES-pregunta"
+      },
+      "dateStart": "2024-03-13T09:16:00+01:00",
+      "dateEnd": "2024-03-13T09:18:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_028/cortes/15_000400_028_0_24734_729796.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1529796I",
+        "duration": 120.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_028_0_24734_729796",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Pedro Sánchez Pérez-Castejón",
+          "lastname": "Sánchez Pérez-Castejón",
+          "firstname": "Pedro",
+          "type": "member of government",
+          "role": "Presidente del Gobierno",
+          "faction": {
+            "label": "Grupo Parlamentario Socialista"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 9
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 30
+      },
+      "agendaItem": {
+        "title": "¿Hay alguien en el Gobierno que se esté ocupando de los españoles?",
+        "officialTitle": "¿Hay alguien en el Gobierno que se esté ocupando de los españoles?",
+        "type": "qa",
+        "nativeType": "ES-pregunta"
+      },
+      "dateStart": "2024-03-13T09:18:00+01:00",
+      "dateEnd": "2024-03-13T09:20:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_028/cortes/15_000400_028_0_24734_729798.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1529798I",
+        "duration": 120.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_028_0_24734_729798",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Concepción Gamarra Ruiz-Clavijo",
+          "lastname": "Gamarra Ruiz-Clavijo",
+          "firstname": "Concepción",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Popular en el Congreso"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 10
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 30
+      },
+      "agendaItem": {
+        "title": "¿Hay alguien en el Gobierno que se esté ocupando de los españoles?",
+        "officialTitle": "¿Hay alguien en el Gobierno que se esté ocupando de los españoles?",
+        "type": "qa",
+        "nativeType": "ES-pregunta"
+      },
+      "dateStart": "2024-03-13T09:20:00+01:00",
+      "dateEnd": "2024-03-13T09:21:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_028/cortes/15_000400_028_0_24734_729799.mp4\nhttps://www.congreso.es/audiovisual/video/leg15/400/15_000400_028/cortes/15_000400_028_0_24734_729801.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1529799I https://app.congreso.es/v1/15729801I",
+        "duration": 60.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_028_0_24734_729801",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "María Jesús Montero Cuadrado",
+          "lastname": "Montero Cuadrado",
+          "firstname": "María Jesús",
+          "type": "member of government",
+          "role": "Vicepresidenta Primera del Gobierno y Ministra de Hacienda",
+          "faction": {
+            "label": "Grupo Parlamentario Socialista"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 11
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 30
+      },
+      "agendaItem": {
+        "title": "¿Hay alguien en el Gobierno que se esté ocupando de los españoles?",
+        "officialTitle": "¿Hay alguien en el Gobierno que se esté ocupando de los españoles?",
+        "type": "qa",
+        "nativeType": "ES-pregunta"
+      },
+      "dateStart": "2024-03-13T09:21:00+01:00",
+      "dateEnd": "2024-03-13T09:23:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_028/cortes/15_000400_028_0_24734_729800.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1529800I",
+        "duration": 120.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_028_0_24734_729800",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Concepción Gamarra Ruiz-Clavijo",
+          "lastname": "Gamarra Ruiz-Clavijo",
+          "firstname": "Concepción",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Popular en el Congreso"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 12
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 30
+      },
+      "agendaItem": {
+        "title": "¿Cuál era la responsabilidad de su Ministerio en la compra de\nmascarillas durante la pandemia?",
+        "officialTitle": "¿Cuál era la responsabilidad de su Ministerio en la compra de\nmascarillas durante la pandemia?",
+        "type": "qa",
+        "nativeType": "ES-pregunta"
+      },
+      "dateStart": "2024-03-13T09:24:00+01:00",
+      "dateEnd": "2024-03-13T09:25:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_028/cortes/15_000400_028_0_24734_729803.mp4\nhttps://www.congreso.es/audiovisual/video/leg15/400/15_000400_028/cortes/15_000400_028_0_24734_729805.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1529803I https://app.congreso.es/v1/15729805I",
+        "duration": 60.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_028_0_24734_729805",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Juan Bravo Baena",
+          "lastname": "Bravo Baena",
+          "firstname": "Juan",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Popular en el Congreso"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 13
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 30
+      },
+      "agendaItem": {
+        "title": "¿Cuál era la responsabilidad de su Ministerio en la compra de\nmascarillas durante la pandemia?",
+        "officialTitle": "¿Cuál era la responsabilidad de su Ministerio en la compra de\nmascarillas durante la pandemia?",
+        "type": "qa",
+        "nativeType": "ES-pregunta"
+      },
+      "dateStart": "2024-03-13T09:25:00+01:00",
+      "dateEnd": "2024-03-13T09:26:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_028/cortes/15_000400_028_0_24734_729804.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1529804I",
+        "duration": 60.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_028_0_24734_729804",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "María Jesús Montero Cuadrado",
+          "lastname": "Montero Cuadrado",
+          "firstname": "María Jesús",
+          "type": "member of government",
+          "role": "Vicepresidenta Primera del Gobierno y Ministra de Hacienda",
+          "faction": {
+            "label": "Grupo Parlamentario Socialista"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 14
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 30
+      },
+      "agendaItem": {
+        "title": "¿Cuál era la responsabilidad de su Ministerio en la compra de\nmascarillas durante la pandemia?",
+        "officialTitle": "¿Cuál era la responsabilidad de su Ministerio en la compra de\nmascarillas durante la pandemia?",
+        "type": "qa",
+        "nativeType": "ES-pregunta"
+      },
+      "dateStart": "2024-03-13T09:28:00+01:00",
+      "dateEnd": "2024-03-13T09:30:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_028/cortes/15_000400_028_0_24734_729806.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1529806I",
+        "duration": 120.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_028_0_24734_729806",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "María Jesús Montero Cuadrado",
+          "lastname": "Montero Cuadrado",
+          "firstname": "María Jesús",
+          "type": "member of government",
+          "role": "Vicepresidenta Primera del Gobierno y Ministra de Hacienda",
+          "faction": {
+            "label": "Grupo Parlamentario Socialista"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 15
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 30
+      },
+      "agendaItem": {
+        "title": "¿Qué piensa el Ministerio de Hacienda tras el anuncio del Alcalde de\nSevilla de privatizar la Plaza de España?",
+        "officialTitle": "¿Qué piensa el Ministerio de Hacienda tras el anuncio del Alcalde de\nSevilla de privatizar la Plaza de España?",
+        "type": "qa",
+        "nativeType": "ES-pregunta"
+      },
+      "dateStart": "2024-03-13T09:30:00+01:00",
+      "dateEnd": "2024-03-13T09:31:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_028/cortes/15_000400_028_0_24734_729808.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1529808I",
+        "duration": 60.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_028_0_24734_729808",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Alfonso Rodríguez Gómez de Celis",
+          "lastname": "Rodríguez Gómez de Celis",
+          "firstname": "Alfonso",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Socialista"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 16
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 30
+      },
+      "agendaItem": {
+        "title": "¿Qué piensa el Ministerio de Hacienda tras el anuncio del Alcalde de\nSevilla de privatizar la Plaza de España?",
+        "officialTitle": "¿Qué piensa el Ministerio de Hacienda tras el anuncio del Alcalde de\nSevilla de privatizar la Plaza de España?",
+        "type": "qa",
+        "nativeType": "ES-pregunta"
+      },
+      "dateStart": "2024-03-13T09:31:00+01:00",
+      "dateEnd": "2024-03-13T09:33:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_028/cortes/15_000400_028_0_24734_729809.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1529809I",
+        "duration": 120.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_028_0_24734_729809",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "María Jesús Montero Cuadrado",
+          "lastname": "Montero Cuadrado",
+          "firstname": "María Jesús",
+          "type": "member of government",
+          "role": "Vicepresidenta Primera del Gobierno y Ministra de Hacienda",
+          "faction": {
+            "label": "Grupo Parlamentario Socialista"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 17
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 30
+      },
+      "agendaItem": {
+        "title": "¿Qué piensa el Ministerio de Hacienda tras el anuncio del Alcalde de\nSevilla de privatizar la Plaza de España?",
+        "officialTitle": "¿Qué piensa el Ministerio de Hacienda tras el anuncio del Alcalde de\nSevilla de privatizar la Plaza de España?",
+        "type": "qa",
+        "nativeType": "ES-pregunta"
+      },
+      "dateStart": "2024-03-13T09:33:00+01:00",
+      "dateEnd": "2024-03-13T09:36:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_028/cortes/15_000400_028_0_24734_729810.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1529810I",
+        "duration": 180.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_028_0_24734_729810",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Alfonso Rodríguez Gómez de Celis",
+          "lastname": "Rodríguez Gómez de Celis",
+          "firstname": "Alfonso",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Socialista"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 18
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 30
+      },
+      "agendaItem": {
+        "title": "¿Qué opina usted del indulto por delitos de corrupción?",
+        "officialTitle": "¿Qué opina usted del indulto por delitos de corrupción?",
+        "type": "qa",
+        "nativeType": "ES-pregunta"
+      },
+      "dateStart": "2024-03-13T09:36:00+01:00",
+      "dateEnd": "2024-03-13T09:39:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_028/cortes/15_000400_028_0_24734_729812.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1529812I",
+        "duration": 180.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_028_0_24734_729812",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Miguel Tellado Filgueira",
+          "lastname": "Tellado Filgueira",
+          "firstname": "Miguel",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Popular en el Congreso"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 19
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 30
+      },
+      "agendaItem": {
+        "title": "¿Qué opina usted del indulto por delitos de corrupción?",
+        "officialTitle": "¿Qué opina usted del indulto por delitos de corrupción?",
+        "type": "qa",
+        "nativeType": "ES-pregunta"
+      },
+      "dateStart": "2024-03-13T09:39:00+01:00",
+      "dateEnd": "2024-03-13T09:42:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_028/cortes/15_000400_028_0_24734_729813.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1529813I",
+        "duration": 180.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_028_0_24734_729813",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Yolanda Díaz Pérez",
+          "lastname": "Díaz Pérez",
+          "firstname": "Yolanda",
+          "type": "member of government",
+          "role": "Vicepresidenta Segunda y Ministra de Trabajo y Economía Social",
+          "faction": {
+            "label": "Grupo Parlamentario Plurinacional SUMAR"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 20
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 30
+      },
+      "agendaItem": {
+        "title": "¿Cómo valora usted que su Gobierno vaya a amnistiar a condenados por\ncorrupción, malversación y terrorismo?",
+        "officialTitle": "¿Cómo valora usted que su Gobierno vaya a amnistiar a condenados por\ncorrupción, malversación y terrorismo?",
+        "type": "qa",
+        "nativeType": "ES-pregunta"
+      },
+      "dateStart": "2024-03-13T09:42:00+01:00",
+      "dateEnd": "2024-03-13T09:44:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_028/cortes/15_000400_028_0_24734_729815.mp4\nhttps://www.congreso.es/audiovisual/video/leg15/400/15_000400_028/cortes/15_000400_028_0_24734_729817.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1529815I https://app.congreso.es/v1/15729817I",
+        "duration": 120.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_028_0_24734_729817",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Borja Sémper Pascual",
+          "lastname": "Sémper Pascual",
+          "firstname": "Borja",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Popular en el Congreso"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 21
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 30
+      },
+      "agendaItem": {
+        "title": "¿Cómo valora usted que su Gobierno vaya a amnistiar a condenados por\ncorrupción, malversación y terrorismo?",
+        "officialTitle": "¿Cómo valora usted que su Gobierno vaya a amnistiar a condenados por\ncorrupción, malversación y terrorismo?",
+        "type": "qa",
+        "nativeType": "ES-pregunta"
+      },
+      "dateStart": "2024-03-13T09:44:00+01:00",
+      "dateEnd": "2024-03-13T09:45:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_028/cortes/15_000400_028_0_24734_729816.mp4\nhttps://www.congreso.es/audiovisual/video/leg15/400/15_000400_028/cortes/15_000400_028_0_24734_729818.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1529816I https://app.congreso.es/v1/15729818I",
+        "duration": 60.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_028_0_24734_729818",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Margarita Robles Fernández",
+          "lastname": "Robles Fernández",
+          "firstname": "Margarita",
+          "type": "member of government",
+          "role": "Ministra de Defensa"
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 22
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 30
+      },
+      "agendaItem": {
+        "title": "¿Cómo valora su gestión en la lucha contra la corrupción al frente\ndel Ministerio del Interior?",
+        "officialTitle": "¿Cómo valora su gestión en la lucha contra la corrupción al frente\ndel Ministerio del Interior?",
+        "type": "qa",
+        "nativeType": "ES-pregunta"
+      },
+      "dateStart": "2024-03-13T09:47:00+01:00",
+      "dateEnd": "2024-03-13T09:48:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_028/cortes/15_000400_028_0_24734_729820.mp4\nhttps://www.congreso.es/audiovisual/video/leg15/400/15_000400_028/cortes/15_000400_028_0_24734_729822.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1529820I https://app.congreso.es/v1/15729822I",
+        "duration": 60.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_028_0_24734_729822",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Agustín Conde Bajén",
+          "lastname": "Conde Bajén",
+          "firstname": "Agustín",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Popular en el Congreso"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 23
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 30
+      },
+      "agendaItem": {
+        "title": "¿Cómo valora su gestión en la lucha contra la corrupción al frente\ndel Ministerio del Interior?",
+        "officialTitle": "¿Cómo valora su gestión en la lucha contra la corrupción al frente\ndel Ministerio del Interior?",
+        "type": "qa",
+        "nativeType": "ES-pregunta"
+      },
+      "dateStart": "2024-03-13T09:48:00+01:00",
+      "dateEnd": "2024-03-13T09:49:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_028/cortes/15_000400_028_0_24734_729821.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1529821I",
+        "duration": 60.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_028_0_24734_729821",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Fernando Grande-Marlaska Gómez",
+          "lastname": "Grande-Marlaska Gómez",
+          "firstname": "Fernando",
+          "type": "member of government",
+          "role": "Ministro del Interior"
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 24
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 30
+      },
+      "agendaItem": {
+        "title": "¿Cómo valora su gestión en la lucha contra la corrupción al frente\ndel Ministerio del Interior?",
+        "officialTitle": "¿Cómo valora su gestión en la lucha contra la corrupción al frente\ndel Ministerio del Interior?",
+        "type": "qa",
+        "nativeType": "ES-pregunta"
+      },
+      "dateStart": "2024-03-13T09:51:00+01:00",
+      "dateEnd": "2024-03-13T09:53:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_028/cortes/15_000400_028_0_24734_729823.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1529823I",
+        "duration": 120.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_028_0_24734_729823",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Fernando Grande-Marlaska Gómez",
+          "lastname": "Grande-Marlaska Gómez",
+          "firstname": "Fernando",
+          "type": "member of government",
+          "role": "Ministro del Interior"
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 25
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 30
+      },
+      "agendaItem": {
+        "title": "¿Por qué su Ministerio cerró un contrato con la empresa de Koldo?",
+        "officialTitle": "¿Por qué su Ministerio cerró un contrato con la empresa de Koldo?",
+        "type": "qa",
+        "nativeType": "ES-pregunta"
+      },
+      "dateStart": "2024-03-13T09:53:00+01:00",
+      "dateEnd": "2024-03-13T09:53:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_028/cortes/15_000400_028_0_24734_729825.mp4\nhttps://www.congreso.es/audiovisual/video/leg15/400/15_000400_028/cortes/15_000400_028_0_24734_729827.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1529825I https://app.congreso.es/v1/15729827I",
+        "duration": 0.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_028_0_24734_729827",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "María José Rodríguez de Millán Parro",
+          "lastname": "Rodríguez de Millán Parro",
+          "firstname": "María José",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario VOX"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 26
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 30
+      },
+      "agendaItem": {
+        "title": "¿Por qué su Ministerio cerró un contrato con la empresa de Koldo?",
+        "officialTitle": "¿Por qué su Ministerio cerró un contrato con la empresa de Koldo?",
+        "type": "qa",
+        "nativeType": "ES-pregunta"
+      },
+      "dateStart": "2024-03-13T09:53:00+01:00",
+      "dateEnd": "2024-03-13T09:54:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_028/cortes/15_000400_028_0_24734_729826.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1529826I",
+        "duration": 60.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_028_0_24734_729826",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Fernando Grande-Marlaska Gómez",
+          "lastname": "Grande-Marlaska Gómez",
+          "firstname": "Fernando",
+          "type": "member of government",
+          "role": "Ministro del Interior"
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 27
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 30
+      },
+      "agendaItem": {
+        "title": "¿Por qué su Ministerio cerró un contrato con la empresa de Koldo?",
+        "officialTitle": "¿Por qué su Ministerio cerró un contrato con la empresa de Koldo?",
+        "type": "qa",
+        "nativeType": "ES-pregunta"
+      },
+      "dateStart": "2024-03-13T09:57:00+01:00",
+      "dateEnd": "2024-03-13T09:59:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_028/cortes/15_000400_028_0_24734_729828.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1529828I",
+        "duration": 120.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_028_0_24734_729828",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Fernando Grande-Marlaska Gómez",
+          "lastname": "Grande-Marlaska Gómez",
+          "firstname": "Fernando",
+          "type": "member of government",
+          "role": "Ministro del Interior"
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 28
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 30
+      },
+      "agendaItem": {
+        "title": "¿Qué entiende el Gobierno por \"reconciliación\"?",
+        "officialTitle": "¿Qué entiende el Gobierno por \"reconciliación\"?",
+        "type": "qa",
+        "nativeType": "ES-pregunta"
+      },
+      "dateStart": "2024-03-13T09:59:00+01:00",
+      "dateEnd": "2024-03-13T09:59:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_028/cortes/15_000400_028_0_24734_729830.mp4\nhttps://www.congreso.es/audiovisual/video/leg15/400/15_000400_028/cortes/15_000400_028_0_24734_729832.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1529830I https://app.congreso.es/v1/15729832I",
+        "duration": 0.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_028_0_24734_729832",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Cayetana Álvarez de Toledo Peralta-Ramos",
+          "lastname": "Álvarez de Toledo Peralta-Ramos",
+          "firstname": "Cayetana",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Popular en el Congreso"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 29
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 30
+      },
+      "agendaItem": {
+        "title": "¿Qué entiende el Gobierno por \"reconciliación\"?",
+        "officialTitle": "¿Qué entiende el Gobierno por \"reconciliación\"?",
+        "type": "qa",
+        "nativeType": "ES-pregunta"
+      },
+      "dateStart": "2024-03-13T09:59:00+01:00",
+      "dateEnd": "2024-03-13T10:00:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_028/cortes/15_000400_028_0_24734_729831.mp4\nhttps://www.congreso.es/audiovisual/video/leg15/400/15_000400_028/cortes/15_000400_028_0_24734_729833.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1529831I https://app.congreso.es/v1/15729833I",
+        "duration": 60.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_028_0_24734_729833",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "María Pilar Alegría Continente",
+          "lastname": "Alegría Continente",
+          "firstname": "María Pilar",
+          "type": "member of government",
+          "role": "Ministra de Educación, Formación Profesional y Deporte"
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 30
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 30
+      },
+      "agendaItem": {
+        "title": "¿Asume usted algún grado de responsabilidad por la trama de\ncorrupción en la compra de mascarillas durante la pandemia?",
+        "officialTitle": "¿Asume usted algún grado de responsabilidad por la trama de\ncorrupción en la compra de mascarillas durante la pandemia?",
+        "type": "qa",
+        "nativeType": "ES-pregunta"
+      },
+      "dateStart": "2024-03-13T10:04:00+01:00",
+      "dateEnd": "2024-03-13T10:06:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_028/cortes/15_000400_028_0_24734_729835.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1529835I",
+        "duration": 120.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_028_0_24734_729835",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Elías Bendodo Benasayag",
+          "lastname": "Bendodo Benasayag",
+          "firstname": "Elías",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Popular en el Congreso"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 31
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 30
+      },
+      "agendaItem": {
+        "title": "¿Asume usted algún grado de responsabilidad por la trama de\ncorrupción en la compra de mascarillas durante la pandemia?",
+        "officialTitle": "¿Asume usted algún grado de responsabilidad por la trama de\ncorrupción en la compra de mascarillas durante la pandemia?",
+        "type": "qa",
+        "nativeType": "ES-pregunta"
+      },
+      "dateStart": "2024-03-13T10:06:00+01:00",
+      "dateEnd": "2024-03-13T10:08:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_028/cortes/15_000400_028_0_24734_729836.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1529836I",
+        "duration": 120.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_028_0_24734_729836",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "José Félix Tezanos Tortajada",
+          "lastname": "Tezanos Tortajada",
+          "firstname": "José Félix",
+          "type": "member of government",
+          "role": "Ministro de Política Territorial y Memoria Democrática"
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 32
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 30
+      },
+      "agendaItem": {
+        "title": "¿Asume usted algún grado de responsabilidad por la trama de\ncorrupción en la compra de mascarillas durante la pandemia?",
+        "officialTitle": "¿Asume usted algún grado de responsabilidad por la trama de\ncorrupción en la compra de mascarillas durante la pandemia?",
+        "type": "qa",
+        "nativeType": "ES-pregunta"
+      },
+      "dateStart": "2024-03-13T10:08:00+01:00",
+      "dateEnd": "2024-03-13T10:09:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_028/cortes/15_000400_028_0_24734_729837.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1529837I",
+        "duration": 60.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_028_0_24734_729837",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Elías Bendodo Benasayag",
+          "lastname": "Bendodo Benasayag",
+          "firstname": "Elías",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Popular en el Congreso"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 33
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 30
+      },
+      "agendaItem": {
+        "title": "¿Asume usted algún grado de responsabilidad por la trama de\ncorrupción en la compra de mascarillas durante la pandemia?",
+        "officialTitle": "¿Asume usted algún grado de responsabilidad por la trama de\ncorrupción en la compra de mascarillas durante la pandemia?",
+        "type": "qa",
+        "nativeType": "ES-pregunta"
+      },
+      "dateStart": "2024-03-13T10:09:00+01:00",
+      "dateEnd": "2024-03-13T10:10:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_028/cortes/15_000400_028_0_24734_729838.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1529838I",
+        "duration": 60.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_028_0_24734_729838",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "José Félix Tezanos Tortajada",
+          "lastname": "Tezanos Tortajada",
+          "firstname": "José Félix",
+          "type": "member of government",
+          "role": "Ministro de Política Territorial y Memoria Democrática"
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 34
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 30
+      },
+      "agendaItem": {
+        "title": "¿El Gobierno pedirá perdón por la ejecución de Salvador Puig Antich\nel 2 de marzo de 1974?",
+        "officialTitle": "¿El Gobierno pedirá perdón por la ejecución de Salvador Puig Antich\nel 2 de marzo de 1974?",
+        "type": "qa",
+        "nativeType": "ES-pregunta"
+      },
+      "dateStart": "2024-03-13T10:10:00+01:00",
+      "dateEnd": "2024-03-13T10:11:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_028/cortes/15_000400_028_0_24734_729840.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1529840I",
+        "duration": 60.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_028_0_24734_729840",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Eduard Pujol Bonell",
+          "lastname": "Pujol Bonell",
+          "firstname": "Eduard",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Junts per Catalunya"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 35
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 30
+      },
+      "agendaItem": {
+        "title": "¿El Gobierno pedirá perdón por la ejecución de Salvador Puig Antich\nel 2 de marzo de 1974?",
+        "officialTitle": "¿El Gobierno pedirá perdón por la ejecución de Salvador Puig Antich\nel 2 de marzo de 1974?",
+        "type": "qa",
+        "nativeType": "ES-pregunta"
+      },
+      "dateStart": "2024-03-13T10:11:00+01:00",
+      "dateEnd": "2024-03-13T10:13:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_028/cortes/15_000400_028_0_24734_729841.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1529841I",
+        "duration": 120.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_028_0_24734_729841",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "José Félix Tezanos Tortajada",
+          "lastname": "Tezanos Tortajada",
+          "firstname": "José Félix",
+          "type": "member of government",
+          "role": "Ministro de Política Territorial y Memoria Democrática"
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 36
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 30
+      },
+      "agendaItem": {
+        "title": "¿El Gobierno pedirá perdón por la ejecución de Salvador Puig Antich\nel 2 de marzo de 1974?",
+        "officialTitle": "¿El Gobierno pedirá perdón por la ejecución de Salvador Puig Antich\nel 2 de marzo de 1974?",
+        "type": "qa",
+        "nativeType": "ES-pregunta"
+      },
+      "dateStart": "2024-03-13T10:13:00+01:00",
+      "dateEnd": "2024-03-13T10:15:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_028/cortes/15_000400_028_0_24734_729842.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1529842I",
+        "duration": 120.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_028_0_24734_729842",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Eduard Pujol Bonell",
+          "lastname": "Pujol Bonell",
+          "firstname": "Eduard",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Junts per Catalunya"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 37
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 30
+      },
+      "agendaItem": {
+        "title": "¿El Gobierno pedirá perdón por la ejecución de Salvador Puig Antich\nel 2 de marzo de 1974?",
+        "officialTitle": "¿El Gobierno pedirá perdón por la ejecución de Salvador Puig Antich\nel 2 de marzo de 1974?",
+        "type": "qa",
+        "nativeType": "ES-pregunta"
+      },
+      "dateStart": "2024-03-13T10:15:00+01:00",
+      "dateEnd": "2024-03-13T10:16:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_028/cortes/15_000400_028_0_24734_729843.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1529843I",
+        "duration": 60.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_028_0_24734_729843",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "José Félix Tezanos Tortajada",
+          "lastname": "Tezanos Tortajada",
+          "firstname": "José Félix",
+          "type": "member of government",
+          "role": "Ministro de Política Territorial y Memoria Democrática"
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 38
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 30
+      },
+      "agendaItem": {
+        "title": "¿Es la política de vivienda una prioridad para este Gobierno?",
+        "officialTitle": "¿Es la política de vivienda una prioridad para este Gobierno?",
+        "type": "qa",
+        "nativeType": "ES-pregunta"
+      },
+      "dateStart": "2024-03-13T10:16:00+01:00",
+      "dateEnd": "2024-03-13T10:17:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_028/cortes/15_000400_028_0_24734_729845.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1529845I",
+        "duration": 60.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_028_0_24734_729845",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Miguel Ángel Sastre Uyá",
+          "lastname": "Sastre Uyá",
+          "firstname": "Miguel Ángel",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Popular en el Congreso"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 39
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 30
+      },
+      "agendaItem": {
+        "title": "¿Es la política de vivienda una prioridad para este Gobierno?",
+        "officialTitle": "¿Es la política de vivienda una prioridad para este Gobierno?",
+        "type": "qa",
+        "nativeType": "ES-pregunta"
+      },
+      "dateStart": "2024-03-13T10:17:00+01:00",
+      "dateEnd": "2024-03-13T10:18:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_028/cortes/15_000400_028_0_24734_729846.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1529846I",
+        "duration": 60.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_028_0_24734_729846",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Isabel Rodríguez García",
+          "lastname": "Rodríguez García",
+          "firstname": "Isabel",
+          "type": "member of government",
+          "role": "Ministra de Vivienda y Agenda Urbana"
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 40
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 30
+      },
+      "agendaItem": {
+        "title": "¿Es la política de vivienda una prioridad para este Gobierno?",
+        "officialTitle": "¿Es la política de vivienda una prioridad para este Gobierno?",
+        "type": "qa",
+        "nativeType": "ES-pregunta"
+      },
+      "dateStart": "2024-03-13T10:18:00+01:00",
+      "dateEnd": "2024-03-13T10:20:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_028/cortes/15_000400_028_0_24734_729847.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1529847I",
+        "duration": 120.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_028_0_24734_729847",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Miguel Ángel Sastre Uyá",
+          "lastname": "Sastre Uyá",
+          "firstname": "Miguel Ángel",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Popular en el Congreso"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 41
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 30
+      },
+      "agendaItem": {
+        "title": "¿Es la política de vivienda una prioridad para este Gobierno?",
+        "officialTitle": "¿Es la política de vivienda una prioridad para este Gobierno?",
+        "type": "qa",
+        "nativeType": "ES-pregunta"
+      },
+      "dateStart": "2024-03-13T10:20:00+01:00",
+      "dateEnd": "2024-03-13T10:22:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_028/cortes/15_000400_028_0_24734_729848.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1529848I",
+        "duration": 120.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_028_0_24734_729848",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Isabel Rodríguez García",
+          "lastname": "Rodríguez García",
+          "firstname": "Isabel",
+          "type": "member of government",
+          "role": "Ministra de Vivienda y Agenda Urbana"
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 42
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 30
+      },
+      "agendaItem": {
+        "title": "¿Cuándo piensa el Gobierno acordar el embargo de armas a Israel?",
+        "officialTitle": "¿Cuándo piensa el Gobierno acordar el embargo de armas a Israel?",
+        "type": "qa",
+        "nativeType": "ES-pregunta"
+      },
+      "dateStart": "2024-03-13T10:22:00+01:00",
+      "dateEnd": "2024-03-13T10:22:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_028/cortes/15_000400_028_0_24734_729850.mp4\nhttps://www.congreso.es/audiovisual/video/leg15/400/15_000400_028/cortes/15_000400_028_0_24734_729852.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1529850I https://app.congreso.es/v1/15729852I",
+        "duration": 0.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_028_0_24734_729852",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Ione Belarra Urteaga",
+          "lastname": "Belarra Urteaga",
+          "firstname": "Ione",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Mixto"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 43
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 30
+      },
+      "agendaItem": {
+        "title": "¿Cuándo piensa el Gobierno acordar el embargo de armas a Israel?",
+        "officialTitle": "¿Cuándo piensa el Gobierno acordar el embargo de armas a Israel?",
+        "type": "qa",
+        "nativeType": "ES-pregunta"
+      },
+      "dateStart": "2024-03-13T10:22:00+01:00",
+      "dateEnd": "2024-03-13T10:24:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_028/cortes/15_000400_028_0_24734_729851.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1529851I",
+        "duration": 120.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_028_0_24734_729851",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Carlos Cuerpo Caballero",
+          "lastname": "Cuerpo Caballero",
+          "firstname": "Carlos",
+          "type": "member of government",
+          "role": "Ministro de Economía, Comercio y Empresa"
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 44
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 30
+      },
+      "agendaItem": {
+        "title": "¿Cuándo piensa el Gobierno acordar el embargo de armas a Israel?",
+        "officialTitle": "¿Cuándo piensa el Gobierno acordar el embargo de armas a Israel?",
+        "type": "qa",
+        "nativeType": "ES-pregunta"
+      },
+      "dateStart": "2024-03-13T10:26:00+01:00",
+      "dateEnd": "2024-03-13T10:28:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_028/cortes/15_000400_028_0_24734_729853.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1529853I",
+        "duration": 120.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_028_0_24734_729853",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Carlos Cuerpo Caballero",
+          "lastname": "Cuerpo Caballero",
+          "firstname": "Carlos",
+          "type": "member of government",
+          "role": "Ministro de Economía, Comercio y Empresa"
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 45
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 30
+      },
+      "agendaItem": {
+        "title": "¿Qué valoración hace del caso de corrupción relacionado con la compra\nde mascarillas durante la pandemia, como actual responsable del\nMinisterio de Sanidad?",
+        "officialTitle": "¿Qué valoración hace del caso de corrupción relacionado con la compra\nde mascarillas durante la pandemia, como actual responsable del\nMinisterio de Sanidad?",
+        "type": "qa",
+        "nativeType": "ES-pregunta"
+      },
+      "dateStart": "2024-03-13T10:28:00+01:00",
+      "dateEnd": "2024-03-13T10:30:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_028/cortes/15_000400_028_0_24734_729855.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1529855I",
+        "duration": 120.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_028_0_24734_729855",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Mirian Guardiola Salmerón",
+          "lastname": "Guardiola Salmerón",
+          "firstname": "Mirian",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Popular en el Congreso"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 46
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 30
+      },
+      "agendaItem": {
+        "title": "¿Qué valoración hace del caso de corrupción relacionado con la compra\nde mascarillas durante la pandemia, como actual responsable del\nMinisterio de Sanidad?",
+        "officialTitle": "¿Qué valoración hace del caso de corrupción relacionado con la compra\nde mascarillas durante la pandemia, como actual responsable del\nMinisterio de Sanidad?",
+        "type": "qa",
+        "nativeType": "ES-pregunta"
+      },
+      "dateStart": "2024-03-13T10:30:00+01:00",
+      "dateEnd": "2024-03-13T10:31:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_028/cortes/15_000400_028_0_24734_729856.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1529856I",
+        "duration": 60.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_028_0_24734_729856",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Mónica García Gómez",
+          "lastname": "García Gómez",
+          "firstname": "Mónica",
+          "type": "member of government",
+          "role": "Ministra de Sanidad"
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 47
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 30
+      },
+      "agendaItem": {
+        "title": "¿Qué valoración hace del caso de corrupción relacionado con la compra\nde mascarillas durante la pandemia, como actual responsable del\nMinisterio de Sanidad?",
+        "officialTitle": "¿Qué valoración hace del caso de corrupción relacionado con la compra\nde mascarillas durante la pandemia, como actual responsable del\nMinisterio de Sanidad?",
+        "type": "qa",
+        "nativeType": "ES-pregunta"
+      },
+      "dateStart": "2024-03-13T10:31:00+01:00",
+      "dateEnd": "2024-03-13T10:32:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_028/cortes/15_000400_028_0_24734_729857.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1529857I",
+        "duration": 60.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_028_0_24734_729857",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Mirian Guardiola Salmerón",
+          "lastname": "Guardiola Salmerón",
+          "firstname": "Mirian",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Popular en el Congreso"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 48
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 30
+      },
+      "agendaItem": {
+        "title": "¿Qué valoración hace del caso de corrupción relacionado con la compra\nde mascarillas durante la pandemia, como actual responsable del\nMinisterio de Sanidad?",
+        "officialTitle": "¿Qué valoración hace del caso de corrupción relacionado con la compra\nde mascarillas durante la pandemia, como actual responsable del\nMinisterio de Sanidad?",
+        "type": "qa",
+        "nativeType": "ES-pregunta"
+      },
+      "dateStart": "2024-03-13T10:32:00+01:00",
+      "dateEnd": "2024-03-13T10:34:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_028/cortes/15_000400_028_0_24734_729858.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1529858I",
+        "duration": 120.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_028_0_24734_729858",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Mónica García Gómez",
+          "lastname": "García Gómez",
+          "firstname": "Mónica",
+          "type": "member of government",
+          "role": "Ministra de Sanidad"
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 49
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 30
+      },
+      "agendaItem": {
+        "title": "¿Qué piensa hacer el Ministerio de Sanidad para evitar el embudo a la\nhora de certificar los productos sanitarios en el Estado?",
+        "officialTitle": "¿Qué piensa hacer el Ministerio de Sanidad para evitar el embudo a la\nhora de certificar los productos sanitarios en el Estado?",
+        "type": "qa",
+        "nativeType": "ES-pregunta"
+      },
+      "dateStart": "2024-03-13T10:34:00+01:00",
+      "dateEnd": "2024-03-13T10:35:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_028/cortes/15_000400_028_0_24734_729860.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1529860I",
+        "duration": 60.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_028_0_24734_729860",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Maribel Vaquero Montero",
+          "lastname": "Vaquero Montero",
+          "firstname": "Maribel",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Vasco (EAJ-PNV)"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 50
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 30
+      },
+      "agendaItem": {
+        "title": "¿Qué piensa hacer el Ministerio de Sanidad para evitar el embudo a la\nhora de certificar los productos sanitarios en el Estado?",
+        "officialTitle": "¿Qué piensa hacer el Ministerio de Sanidad para evitar el embudo a la\nhora de certificar los productos sanitarios en el Estado?",
+        "type": "qa",
+        "nativeType": "ES-pregunta"
+      },
+      "dateStart": "2024-03-13T10:35:00+01:00",
+      "dateEnd": "2024-03-13T10:37:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_028/cortes/15_000400_028_0_24734_729861.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1529861I",
+        "duration": 120.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_028_0_24734_729861",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Mónica García Gómez",
+          "lastname": "García Gómez",
+          "firstname": "Mónica",
+          "type": "member of government",
+          "role": "Ministra de Sanidad"
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 51
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 30
+      },
+      "agendaItem": {
+        "title": "¿Qué piensa hacer el Ministerio de Sanidad para evitar el embudo a la\nhora de certificar los productos sanitarios en el Estado?",
+        "officialTitle": "¿Qué piensa hacer el Ministerio de Sanidad para evitar el embudo a la\nhora de certificar los productos sanitarios en el Estado?",
+        "type": "qa",
+        "nativeType": "ES-pregunta"
+      },
+      "dateStart": "2024-03-13T10:37:00+01:00",
+      "dateEnd": "2024-03-13T10:39:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_028/cortes/15_000400_028_0_24734_729862.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1529862I",
+        "duration": 120.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_028_0_24734_729862",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Maribel Vaquero Montero",
+          "lastname": "Vaquero Montero",
+          "firstname": "Maribel",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Vasco (EAJ-PNV)"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 52
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 30
+      },
+      "agendaItem": {
+        "title": "¿Atenderá el Gobierno la demanda de solución al problema en el\ndeterioro de las condiciones del personal sustituto de la UPV/EHU?",
+        "officialTitle": "¿Atenderá el Gobierno la demanda de solución al problema en el\ndeterioro de las condiciones del personal sustituto de la UPV/EHU?",
+        "type": "qa",
+        "nativeType": "ES-pregunta"
+      },
+      "dateStart": "2024-03-13T10:39:00+01:00",
+      "dateEnd": "2024-03-13T10:42:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_028/cortes/15_000400_028_0_24734_729863.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1529863I",
+        "duration": 180.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_028_0_24734_729863",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Marije Fullaondo la Cruz",
+          "lastname": "Fullaondo la Cruz",
+          "firstname": "Marije",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Euskal Herria Bildu"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 53
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 30
+      },
+      "agendaItem": {
+        "title": "¿Atenderá el Gobierno la demanda de solución al problema en el\ndeterioro de las condiciones del personal sustituto de la UPV/EHU?",
+        "officialTitle": "¿Atenderá el Gobierno la demanda de solución al problema en el\ndeterioro de las condiciones del personal sustituto de la UPV/EHU?",
+        "type": "qa",
+        "nativeType": "ES-pregunta"
+      },
+      "dateStart": "2024-03-13T10:42:00+01:00",
+      "dateEnd": "2024-03-13T10:44:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_028/cortes/15_000400_028_0_24734_729865.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1529865I",
+        "duration": 120.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_028_0_24734_729865",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Diana Morant Ripoll",
+          "lastname": "Morant Ripoll",
+          "firstname": "Diana",
+          "type": "member of government",
+          "role": "Ministra de Ciencia, Innovación y Universidades"
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 54
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 30
+      },
+      "agendaItem": {
+        "title": "¿Atenderá el Gobierno la demanda de solución al problema en el\ndeterioro de las condiciones del personal sustituto de la UPV/EHU?",
+        "officialTitle": "¿Atenderá el Gobierno la demanda de solución al problema en el\ndeterioro de las condiciones del personal sustituto de la UPV/EHU?",
+        "type": "qa",
+        "nativeType": "ES-pregunta"
+      },
+      "dateStart": "2024-03-13T10:44:00+01:00",
+      "dateEnd": "2024-03-13T10:44:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_028/cortes/15_000400_028_0_24734_729866.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1529866I",
+        "duration": 0.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_028_0_24734_729866",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Marije Fullaondo la Cruz",
+          "lastname": "Fullaondo la Cruz",
+          "firstname": "Marije",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Euskal Herria Bildu"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 55
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 30
+      },
+      "agendaItem": {
+        "title": "¿Atenderá el Gobierno la demanda de solución al problema en el\ndeterioro de las condiciones del personal sustituto de la UPV/EHU?",
+        "officialTitle": "¿Atenderá el Gobierno la demanda de solución al problema en el\ndeterioro de las condiciones del personal sustituto de la UPV/EHU?",
+        "type": "qa",
+        "nativeType": "ES-pregunta"
+      },
+      "dateStart": "2024-03-13T10:44:00+01:00",
+      "dateEnd": "2024-03-13T10:45:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_028/cortes/15_000400_028_0_24734_729867.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1529867I",
+        "duration": 60.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_028_0_24734_729867",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Diana Morant Ripoll",
+          "lastname": "Morant Ripoll",
+          "firstname": "Diana",
+          "type": "member of government",
+          "role": "Ministra de Ciencia, Innovación y Universidades"
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 56
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 30
+      },
+      "agendaItem": {
+        "title": "Interpelación urgente a la Vicepresidenta Primera del Gobierno y\nMinistra de Hacienda sobre las medidas que el Ministerio de Hacienda\naplicará para perseguir el fraude y luchar contra la corrupción.",
+        "officialTitle": "Interpelación urgente a la Vicepresidenta Primera del Gobierno y\nMinistra de Hacienda sobre las medidas que el Ministerio de Hacienda\naplicará para perseguir el fraude y luchar contra la corrupción.",
+        "type": "questioning_of_the_government",
+        "nativeType": "ES-interpelacion"
+      },
+      "dateStart": "2024-03-13T10:45:00+01:00",
+      "dateEnd": "2024-03-13T11:00:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_028/cortes/15_000400_028_0_24734_729870.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1529870I",
+        "duration": 900.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_028_0_24734_729870",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "José María Figaredo Álvarez-Sala",
+          "lastname": "Figaredo Álvarez-Sala",
+          "firstname": "José María",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario VOX"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 57
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 30
+      },
+      "agendaItem": {
+        "title": "Interpelación urgente a la Vicepresidenta Primera del Gobierno y\nMinistra de Hacienda sobre las medidas que el Ministerio de Hacienda\naplicará para perseguir el fraude y luchar contra la corrupción.",
+        "officialTitle": "Interpelación urgente a la Vicepresidenta Primera del Gobierno y\nMinistra de Hacienda sobre las medidas que el Ministerio de Hacienda\naplicará para perseguir el fraude y luchar contra la corrupción.",
+        "type": "questioning_of_the_government",
+        "nativeType": "ES-interpelacion"
+      },
+      "dateStart": "2024-03-13T11:00:00+01:00",
+      "dateEnd": "2024-03-13T11:13:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_028/cortes/15_000400_028_0_24734_729871.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1529871I",
+        "duration": 780.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_028_0_24734_729871",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "María Jesús Montero Cuadrado",
+          "lastname": "Montero Cuadrado",
+          "firstname": "María Jesús",
+          "type": "member of government",
+          "role": "Vicepresidenta Primera del Gobierno y Ministra de Hacienda",
+          "faction": {
+            "label": "Grupo Parlamentario Socialista"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 58
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 30
+      },
+      "agendaItem": {
+        "title": "Interpelación urgente a la Vicepresidenta Primera del Gobierno y\nMinistra de Hacienda sobre las medidas que el Ministerio de Hacienda\naplicará para perseguir el fraude y luchar contra la corrupción.",
+        "officialTitle": "Interpelación urgente a la Vicepresidenta Primera del Gobierno y\nMinistra de Hacienda sobre las medidas que el Ministerio de Hacienda\naplicará para perseguir el fraude y luchar contra la corrupción.",
+        "type": "questioning_of_the_government",
+        "nativeType": "ES-interpelacion"
+      },
+      "dateStart": "2024-03-13T11:13:00+01:00",
+      "dateEnd": "2024-03-13T11:19:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_028/cortes/15_000400_028_0_24734_729872.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1529872I",
+        "duration": 360.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_028_0_24734_729872",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "José María Figaredo Álvarez-Sala",
+          "lastname": "Figaredo Álvarez-Sala",
+          "firstname": "José María",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario VOX"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 59
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 30
+      },
+      "agendaItem": {
+        "title": "Interpelación urgente a la Vicepresidenta Primera del Gobierno y\nMinistra de Hacienda sobre las medidas que el Ministerio de Hacienda\naplicará para perseguir el fraude y luchar contra la corrupción.",
+        "officialTitle": "Interpelación urgente a la Vicepresidenta Primera del Gobierno y\nMinistra de Hacienda sobre las medidas que el Ministerio de Hacienda\naplicará para perseguir el fraude y luchar contra la corrupción.",
+        "type": "questioning_of_the_government",
+        "nativeType": "ES-interpelacion"
+      },
+      "dateStart": "2024-03-13T11:19:00+01:00",
+      "dateEnd": "2024-03-13T11:26:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_028/cortes/15_000400_028_0_24734_729873.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1529873I",
+        "duration": 420.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_028_0_24734_729873",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "María Jesús Montero Cuadrado",
+          "lastname": "Montero Cuadrado",
+          "firstname": "María Jesús",
+          "type": "member of government",
+          "role": "Vicepresidenta Primera del Gobierno y Ministra de Hacienda",
+          "faction": {
+            "label": "Grupo Parlamentario Socialista"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 60
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 30
+      },
+      "agendaItem": {
+        "title": "Interpelación urgente sobre la rendición de cuentas por las\nnegligencias cometidas contra trabajadoras y trabajadores de los órganos\npertenecientes al Ministerio de Ciencia, Innovación y Universidades.",
+        "officialTitle": "Interpelación urgente sobre la rendición de cuentas por las\nnegligencias cometidas contra trabajadoras y trabajadores de los órganos\npertenecientes al Ministerio de Ciencia, Innovación y Universidades.",
+        "type": "questioning_of_the_government",
+        "nativeType": "ES-interpelacion"
+      },
+      "dateStart": "2024-03-13T11:26:00+01:00",
+      "dateEnd": "2024-03-13T11:38:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_028/cortes/15_000400_028_0_24734_729875.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1529875I",
+        "duration": 720.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_028_0_24734_729875",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Pilar Vallugera Balañà",
+          "lastname": "Vallugera Balañà",
+          "firstname": "Pilar",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Republicano"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 61
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 30
+      },
+      "agendaItem": {
+        "title": "Interpelación urgente sobre la rendición de cuentas por las\nnegligencias cometidas contra trabajadoras y trabajadores de los órganos\npertenecientes al Ministerio de Ciencia, Innovación y Universidades.",
+        "officialTitle": "Interpelación urgente sobre la rendición de cuentas por las\nnegligencias cometidas contra trabajadoras y trabajadores de los órganos\npertenecientes al Ministerio de Ciencia, Innovación y Universidades.",
+        "type": "questioning_of_the_government",
+        "nativeType": "ES-interpelacion"
+      },
+      "dateStart": "2024-03-13T11:38:00+01:00",
+      "dateEnd": "2024-03-13T11:50:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_028/cortes/15_000400_028_0_24734_729876.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1529876I",
+        "duration": 720.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_028_0_24734_729876",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Diana Morant Ripoll",
+          "lastname": "Morant Ripoll",
+          "firstname": "Diana",
+          "type": "member of government",
+          "role": "Ministra de Ciencia, Innovación y Universidades"
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 62
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 30
+      },
+      "agendaItem": {
+        "title": "Interpelación urgente al Ministro de Política Territorial y Memoria\nDemocrática sobre las medidas que va a adoptar para que su Ministerio no\nse vea afectado por su responsabilidad en la gestión y control de la\ncompra de material sanitario durante la pandemia derivada de la COVID-19\nque está siendo investigada por la Fiscalía Europea.",
+        "officialTitle": "Interpelación urgente al Ministro de Política Territorial y Memoria\nDemocrática sobre las medidas que va a adoptar para que su Ministerio no\nse vea afectado por su responsabilidad en la gestión y control de la\ncompra de material sanitario durante la pandemia derivada de la COVID-19\nque está siendo investigada por la Fiscalía Europea.",
+        "type": "questioning_of_the_government",
+        "nativeType": "ES-interpelacion"
+      },
+      "dateStart": "2024-03-13T11:50:00+01:00",
+      "dateEnd": "2024-03-13T12:04:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_028/cortes/15_000400_028_0_24734_729878.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1529878I",
+        "duration": 840.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_028_0_24734_729878",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Asier Antona Gómez",
+          "lastname": "Antona Gómez",
+          "firstname": "Asier",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Popular en el Congreso"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 63
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 30
+      },
+      "agendaItem": {
+        "title": "Interpelación urgente al Ministro de Política Territorial y Memoria\nDemocrática sobre las medidas que va a adoptar para que su Ministerio no\nse vea afectado por su responsabilidad en la gestión y control de la\ncompra de material sanitario durante la pandemia derivada de la COVID-19\nque está siendo investigada por la Fiscalía Europea.",
+        "officialTitle": "Interpelación urgente al Ministro de Política Territorial y Memoria\nDemocrática sobre las medidas que va a adoptar para que su Ministerio no\nse vea afectado por su responsabilidad en la gestión y control de la\ncompra de material sanitario durante la pandemia derivada de la COVID-19\nque está siendo investigada por la Fiscalía Europea.",
+        "type": "questioning_of_the_government",
+        "nativeType": "ES-interpelacion"
+      },
+      "dateStart": "2024-03-13T12:04:00+01:00",
+      "dateEnd": "2024-03-13T12:17:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_028/cortes/15_000400_028_0_24734_729880.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1529880I",
+        "duration": 780.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_028_0_24734_729880",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "José Félix Tezanos Tortajada",
+          "lastname": "Tezanos Tortajada",
+          "firstname": "José Félix",
+          "type": "member of government",
+          "role": "Ministro de Política Territorial y Memoria Democrática"
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 64
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 30
+      },
+      "agendaItem": {
+        "title": "Interpelación urgente al Ministro de Política Territorial y Memoria\nDemocrática sobre las medidas que va a adoptar para que su Ministerio no\nse vea afectado por su responsabilidad en la gestión y control de la\ncompra de material sanitario durante la pandemia derivada de la COVID-19\nque está siendo investigada por la Fiscalía Europea.",
+        "officialTitle": "Interpelación urgente al Ministro de Política Territorial y Memoria\nDemocrática sobre las medidas que va a adoptar para que su Ministerio no\nse vea afectado por su responsabilidad en la gestión y control de la\ncompra de material sanitario durante la pandemia derivada de la COVID-19\nque está siendo investigada por la Fiscalía Europea.",
+        "type": "questioning_of_the_government",
+        "nativeType": "ES-interpelacion"
+      },
+      "dateStart": "2024-03-13T12:17:00+01:00",
+      "dateEnd": "2024-03-13T12:24:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_028/cortes/15_000400_028_0_24734_729881.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1529881I",
+        "duration": 420.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_028_0_24734_729881",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Asier Antona Gómez",
+          "lastname": "Antona Gómez",
+          "firstname": "Asier",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Popular en el Congreso"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 65
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 30
+      },
+      "agendaItem": {
+        "title": "Interpelación urgente al Ministro de Política Territorial y Memoria\nDemocrática sobre las medidas que va a adoptar para que su Ministerio no\nse vea afectado por su responsabilidad en la gestión y control de la\ncompra de material sanitario durante la pandemia derivada de la COVID-19\nque está siendo investigada por la Fiscalía Europea.",
+        "officialTitle": "Interpelación urgente al Ministro de Política Territorial y Memoria\nDemocrática sobre las medidas que va a adoptar para que su Ministerio no\nse vea afectado por su responsabilidad en la gestión y control de la\ncompra de material sanitario durante la pandemia derivada de la COVID-19\nque está siendo investigada por la Fiscalía Europea.",
+        "type": "questioning_of_the_government",
+        "nativeType": "ES-interpelacion"
+      },
+      "dateStart": "2024-03-13T12:24:00+01:00",
+      "dateEnd": "2024-03-13T12:30:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_028/cortes/15_000400_028_0_24734_729882.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1529882I",
+        "duration": 360.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_028_0_24734_729882",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "José Félix Tezanos Tortajada",
+          "lastname": "Tezanos Tortajada",
+          "firstname": "José Félix",
+          "type": "member of government",
+          "role": "Ministro de Política Territorial y Memoria Democrática"
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 66
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 30
+      },
+      "agendaItem": {
+        "title": "Moción consecuencia de interpelación urgente relativa a la\nresponsabilidad del Gobierno en los hechos que derivaron en las\ndetenciones por el presunto cobro de comisiones ilegales en la venta de\nmascarillas durante la pandemia de la COVID-19.",
+        "officialTitle": "Moción consecuencia de interpelación urgente relativa a la\nresponsabilidad del Gobierno en los hechos que derivaron en las\ndetenciones por el presunto cobro de comisiones ilegales en la venta de\nmascarillas durante la pandemia de la COVID-19.",
+        "type": "regular",
+        "nativeType": "ES-mocion"
+      },
+      "dateStart": "2024-03-13T12:30:00+01:00",
+      "dateEnd": "2024-03-13T12:38:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_028/cortes/15_000400_028_0_24734_729885.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1529885I",
+        "duration": 480.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_028_0_24734_729885",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Jaime Eduardo de Olano Vela",
+          "lastname": "Olano Vela",
+          "firstname": "Jaime Eduardo de",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Popular en el Congreso"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 67
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 30
+      },
+      "agendaItem": {
+        "title": "Moción consecuencia de interpelación urgente relativa a la\nresponsabilidad del Gobierno en los hechos que derivaron en las\ndetenciones por el presunto cobro de comisiones ilegales en la venta de\nmascarillas durante la pandemia de la COVID-19.",
+        "officialTitle": "Moción consecuencia de interpelación urgente relativa a la\nresponsabilidad del Gobierno en los hechos que derivaron en las\ndetenciones por el presunto cobro de comisiones ilegales en la venta de\nmascarillas durante la pandemia de la COVID-19.",
+        "type": "regular",
+        "nativeType": "ES-mocion"
+      },
+      "dateStart": "2024-03-13T12:38:00+01:00",
+      "dateEnd": "2024-03-13T12:44:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_028/cortes/15_000400_028_0_24734_729886.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1529886I",
+        "duration": 360.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_028_0_24734_729886",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Jorge Campos Asensi",
+          "lastname": "Campos Asensi",
+          "firstname": "Jorge",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario VOX"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 68
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 30
+      },
+      "agendaItem": {
+        "title": "Moción consecuencia de interpelación urgente relativa a la\nresponsabilidad del Gobierno en los hechos que derivaron en las\ndetenciones por el presunto cobro de comisiones ilegales en la venta de\nmascarillas durante la pandemia de la COVID-19.",
+        "officialTitle": "Moción consecuencia de interpelación urgente relativa a la\nresponsabilidad del Gobierno en los hechos que derivaron en las\ndetenciones por el presunto cobro de comisiones ilegales en la venta de\nmascarillas durante la pandemia de la COVID-19.",
+        "type": "regular",
+        "nativeType": "ES-mocion"
+      },
+      "dateStart": "2024-03-13T12:44:00+01:00",
+      "dateEnd": "2024-03-13T12:47:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_028/cortes/15_000400_028_0_24734_729887.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1529887I",
+        "duration": 180.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_028_0_24734_729887",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Alberto Catalán Higueras",
+          "lastname": "Catalán Higueras",
+          "firstname": "Alberto",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Mixto"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 69
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 30
+      },
+      "agendaItem": {
+        "title": "Moción consecuencia de interpelación urgente relativa a la\nresponsabilidad del Gobierno en los hechos que derivaron en las\ndetenciones por el presunto cobro de comisiones ilegales en la venta de\nmascarillas durante la pandemia de la COVID-19.",
+        "officialTitle": "Moción consecuencia de interpelación urgente relativa a la\nresponsabilidad del Gobierno en los hechos que derivaron en las\ndetenciones por el presunto cobro de comisiones ilegales en la venta de\nmascarillas durante la pandemia de la COVID-19.",
+        "type": "regular",
+        "nativeType": "ES-mocion"
+      },
+      "dateStart": "2024-03-13T12:47:00+01:00",
+      "dateEnd": "2024-03-13T12:50:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_028/cortes/15_000400_028_0_24734_729888.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1529888I",
+        "duration": 180.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_028_0_24734_729888",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Néstor Rego Candamil",
+          "lastname": "Rego Candamil",
+          "firstname": "Néstor",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Mixto"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 70
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 30
+      },
+      "agendaItem": {
+        "title": "Moción consecuencia de interpelación urgente relativa a la\nresponsabilidad del Gobierno en los hechos que derivaron en las\ndetenciones por el presunto cobro de comisiones ilegales en la venta de\nmascarillas durante la pandemia de la COVID-19.",
+        "officialTitle": "Moción consecuencia de interpelación urgente relativa a la\nresponsabilidad del Gobierno en los hechos que derivaron en las\ndetenciones por el presunto cobro de comisiones ilegales en la venta de\nmascarillas durante la pandemia de la COVID-19.",
+        "type": "regular",
+        "nativeType": "ES-mocion"
+      },
+      "dateStart": "2024-03-13T12:50:00+01:00",
+      "dateEnd": "2024-03-13T12:52:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_028/cortes/15_000400_028_0_24734_729889.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1529889I",
+        "duration": 120.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_028_0_24734_729889",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Javier Sánchez Serna",
+          "lastname": "Sánchez Serna",
+          "firstname": "Javier",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Mixto"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 71
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 30
+      },
+      "agendaItem": {
+        "title": "Moción consecuencia de interpelación urgente relativa a la\nresponsabilidad del Gobierno en los hechos que derivaron en las\ndetenciones por el presunto cobro de comisiones ilegales en la venta de\nmascarillas durante la pandemia de la COVID-19.",
+        "officialTitle": "Moción consecuencia de interpelación urgente relativa a la\nresponsabilidad del Gobierno en los hechos que derivaron en las\ndetenciones por el presunto cobro de comisiones ilegales en la venta de\nmascarillas durante la pandemia de la COVID-19.",
+        "type": "regular",
+        "nativeType": "ES-mocion"
+      },
+      "dateStart": "2024-03-13T12:52:00+01:00",
+      "dateEnd": "2024-03-13T12:53:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_028/cortes/15_000400_028_0_24734_729890.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1529890I",
+        "duration": 60.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_028_0_24734_729890",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Mikel Legarda Uriarte",
+          "lastname": "Legarda Uriarte",
+          "firstname": "Mikel",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Vasco (EAJ-PNV)"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 72
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 30
+      },
+      "agendaItem": {
+        "title": "Moción consecuencia de interpelación urgente relativa a la\nresponsabilidad del Gobierno en los hechos que derivaron en las\ndetenciones por el presunto cobro de comisiones ilegales en la venta de\nmascarillas durante la pandemia de la COVID-19.",
+        "officialTitle": "Moción consecuencia de interpelación urgente relativa a la\nresponsabilidad del Gobierno en los hechos que derivaron en las\ndetenciones por el presunto cobro de comisiones ilegales en la venta de\nmascarillas durante la pandemia de la COVID-19.",
+        "type": "regular",
+        "nativeType": "ES-mocion"
+      },
+      "dateStart": "2024-03-13T12:53:00+01:00",
+      "dateEnd": "2024-03-13T12:59:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_028/cortes/15_000400_028_0_24734_729891.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1529891I",
+        "duration": 360.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_028_0_24734_729891",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Oskar Matute García de Jalón",
+          "lastname": "Matute García de Jalón",
+          "firstname": "Oskar",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Euskal Herria Bildu"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 73
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 30
+      },
+      "agendaItem": {
+        "title": "Moción consecuencia de interpelación urgente relativa a la\nresponsabilidad del Gobierno en los hechos que derivaron en las\ndetenciones por el presunto cobro de comisiones ilegales en la venta de\nmascarillas durante la pandemia de la COVID-19.",
+        "officialTitle": "Moción consecuencia de interpelación urgente relativa a la\nresponsabilidad del Gobierno en los hechos que derivaron en las\ndetenciones por el presunto cobro de comisiones ilegales en la venta de\nmascarillas durante la pandemia de la COVID-19.",
+        "type": "regular",
+        "nativeType": "ES-mocion"
+      },
+      "dateStart": "2024-03-13T12:59:00+01:00",
+      "dateEnd": "2024-03-13T13:07:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_028/cortes/15_000400_028_0_24734_729892.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1529892I",
+        "duration": 480.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_028_0_24734_729892",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Vicenç Vidal Matas",
+          "lastname": "Vidal Matas",
+          "firstname": "Vicenç",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Plurinacional SUMAR"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 74
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 30
+      },
+      "agendaItem": {
+        "title": "Moción consecuencia de interpelación urgente relativa a la\nresponsabilidad del Gobierno en los hechos que derivaron en las\ndetenciones por el presunto cobro de comisiones ilegales en la venta de\nmascarillas durante la pandemia de la COVID-19.",
+        "officialTitle": "Moción consecuencia de interpelación urgente relativa a la\nresponsabilidad del Gobierno en los hechos que derivaron en las\ndetenciones por el presunto cobro de comisiones ilegales en la venta de\nmascarillas durante la pandemia de la COVID-19.",
+        "type": "regular",
+        "nativeType": "ES-mocion"
+      },
+      "dateStart": "2024-03-13T13:07:00+01:00",
+      "dateEnd": "2024-03-13T13:13:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_028/cortes/15_000400_028_0_24734_729893.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1529893I",
+        "duration": 360.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_028_0_24734_729893",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Montse Mínguez García",
+          "lastname": "Mínguez García",
+          "firstname": "Montse",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Socialista"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 75
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 30
+      },
+      "agendaItem": {
+        "title": "Moción consecuencia de interpelación urgente relativa a la\nresponsabilidad del Gobierno en los hechos que derivaron en las\ndetenciones por el presunto cobro de comisiones ilegales en la venta de\nmascarillas durante la pandemia de la COVID-19.",
+        "officialTitle": "Moción consecuencia de interpelación urgente relativa a la\nresponsabilidad del Gobierno en los hechos que derivaron en las\ndetenciones por el presunto cobro de comisiones ilegales en la venta de\nmascarillas durante la pandemia de la COVID-19.",
+        "type": "regular",
+        "nativeType": "ES-mocion"
+      },
+      "dateStart": "2024-03-13T13:13:00+01:00",
+      "dateEnd": "2024-03-13T13:13:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_028/cortes/15_000400_028_0_24734_729894.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1529894I",
+        "duration": 0.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_028_0_24734_729894",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Jaime Eduardo de Olano Vela",
+          "lastname": "Olano Vela",
+          "firstname": "Jaime Eduardo de",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Popular en el Congreso"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 76
+    }
+  ]
+}

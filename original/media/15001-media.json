@@ -1,0 +1,165 @@
+{
+  "meta": {
+    "session": "15001",
+    "processing": {
+      "parse_media": "2026-05-23T07:17:41"
+    },
+    "dateStart": "2023-08-17T14:09:00+02:00",
+    "dateEnd": "2023-08-17T14:24:00+02:00"
+  },
+  "data": [
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 1
+      },
+      "agendaItem": {
+        "title": "Juramento o promesa de acatamiento de la Constitución",
+        "officialTitle": "Juramento o promesa de acatamiento de la Constitución",
+        "type": "oath",
+        "nativeType": "ES-juramento"
+      },
+      "dateStart": "2023-08-17T14:09:00+02:00",
+      "dateEnd": "2023-08-17T14:10:00+02:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_001/cortes/15_000400_001_1_24044_725087.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1525087I",
+        "duration": 60.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_001_1_24044_725087",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "María José Rodríguez de Millán Parro",
+          "lastname": "Rodríguez de Millán Parro",
+          "firstname": "María José",
+          "type": "memberOfParliament"
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 1
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 1
+      },
+      "agendaItem": {
+        "title": "Juramento o promesa de acatamiento de la Constitución",
+        "officialTitle": "Juramento o promesa de acatamiento de la Constitución",
+        "type": "oath",
+        "nativeType": "ES-juramento"
+      },
+      "dateStart": "2023-08-17T14:10:00+02:00",
+      "dateEnd": "2023-08-17T14:12:00+02:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_001/cortes/15_000400_001_1_24044_725088.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1525088I",
+        "duration": 120.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_001_1_24044_725088",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Concepción Gamarra Ruiz-Clavijo",
+          "lastname": "Gamarra Ruiz-Clavijo",
+          "firstname": "Concepción",
+          "type": "memberOfParliament"
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 2
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 1
+      },
+      "agendaItem": {
+        "title": "Juramento o promesa de acatamiento de la Constitución",
+        "officialTitle": "Juramento o promesa de acatamiento de la Constitución",
+        "type": "oath",
+        "nativeType": "ES-juramento"
+      },
+      "dateStart": "2023-08-17T14:12:00+02:00",
+      "dateEnd": "2023-08-17T14:13:00+02:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_001/cortes/15_000400_001_1_24044_725089.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1525089I",
+        "duration": 60.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_001_1_24044_725089",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Francina Armengol Socias",
+          "lastname": "Armengol Socias",
+          "firstname": "Francina",
+          "type": "person",
+          "role": "Presidenta del Congreso de los Diputados"
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 3
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 1
+      },
+      "agendaItem": {
+        "title": "Discurso de la señora presidenta del Congreso",
+        "officialTitle": "Discurso de la señora presidenta del Congreso",
+        "type": "regular"
+      },
+      "dateStart": "2023-08-17T14:14:00+02:00",
+      "dateEnd": "2023-08-17T14:24:00+02:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_001/cortes/15_000400_001_1_24044_725092.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1525092I",
+        "duration": 600.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_001_1_24044_725092",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Francina Armengol Socias",
+          "lastname": "Armengol Socias",
+          "firstname": "Francina",
+          "type": "person",
+          "role": "Presidenta del Congreso de los Diputados"
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 4
+    }
+  ]
+}

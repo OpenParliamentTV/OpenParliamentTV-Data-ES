@@ -1,0 +1,2166 @@
+{
+  "meta": {
+    "session": "15136",
+    "processing": {
+      "parse_media": "2026-05-23T07:17:41"
+    },
+    "dateStart": "2025-09-16T15:03:00+02:00",
+    "dateEnd": "2025-09-16T21:06:00+02:00"
+  },
+  "data": [
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 136
+      },
+      "agendaItem": {
+        "title": "Proposición de Ley Orgánica de modificación de la Ley Orgánica\n4/2000, de 11 de enero, sobre derechos y libertades de los extranjeros en\nEspaña y su integración social, para restringir la regularización de\ninmigrantes ilegales a través del arraigo.",
+        "officialTitle": "Proposición de Ley Orgánica de modificación de la Ley Orgánica\n4/2000, de 11 de enero, sobre derechos y libertades de los extranjeros en\nEspaña y su integración social, para restringir la regularización de\ninmigrantes ilegales a través del arraigo.",
+        "type": "regular",
+        "nativeType": "ES-ley"
+      },
+      "dateStart": "2025-09-16T15:03:00+02:00",
+      "dateEnd": "2025-09-16T15:14:00+02:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_131/cortes/15_000400_131_0_26490_758668.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1558668I",
+        "duration": 660.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_131_0_26490_758668",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Rocío De Meer Méndez",
+          "lastname": "De Meer Méndez",
+          "firstname": "Rocío",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario VOX"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 1
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 136
+      },
+      "agendaItem": {
+        "title": "Proposición de Ley Orgánica de modificación de la Ley Orgánica\n4/2000, de 11 de enero, sobre derechos y libertades de los extranjeros en\nEspaña y su integración social, para restringir la regularización de\ninmigrantes ilegales a través del arraigo.",
+        "officialTitle": "Proposición de Ley Orgánica de modificación de la Ley Orgánica\n4/2000, de 11 de enero, sobre derechos y libertades de los extranjeros en\nEspaña y su integración social, para restringir la regularización de\ninmigrantes ilegales a través del arraigo.",
+        "type": "regular",
+        "nativeType": "ES-ley"
+      },
+      "dateStart": "2025-09-16T15:14:00+02:00",
+      "dateEnd": "2025-09-16T15:19:00+02:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_131/cortes/15_000400_131_0_26490_758670.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1558670I",
+        "duration": 300.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_131_0_26490_758670",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Javier Sánchez Serna",
+          "lastname": "Sánchez Serna",
+          "firstname": "Javier",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Mixto"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 2
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 136
+      },
+      "agendaItem": {
+        "title": "Proposición de Ley Orgánica de modificación de la Ley Orgánica\n4/2000, de 11 de enero, sobre derechos y libertades de los extranjeros en\nEspaña y su integración social, para restringir la regularización de\ninmigrantes ilegales a través del arraigo.",
+        "officialTitle": "Proposición de Ley Orgánica de modificación de la Ley Orgánica\n4/2000, de 11 de enero, sobre derechos y libertades de los extranjeros en\nEspaña y su integración social, para restringir la regularización de\ninmigrantes ilegales a través del arraigo.",
+        "type": "regular",
+        "nativeType": "ES-ley"
+      },
+      "dateStart": "2025-09-16T15:19:00+02:00",
+      "dateEnd": "2025-09-16T15:27:00+02:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_131/cortes/15_000400_131_0_26490_758671.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1558671I",
+        "duration": 480.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_131_0_26490_758671",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Mikel Legarda Uriarte",
+          "lastname": "Legarda Uriarte",
+          "firstname": "Mikel",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Vasco (EAJ-PNV)"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 3
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 136
+      },
+      "agendaItem": {
+        "title": "Proposición de Ley Orgánica de modificación de la Ley Orgánica\n4/2000, de 11 de enero, sobre derechos y libertades de los extranjeros en\nEspaña y su integración social, para restringir la regularización de\ninmigrantes ilegales a través del arraigo.",
+        "officialTitle": "Proposición de Ley Orgánica de modificación de la Ley Orgánica\n4/2000, de 11 de enero, sobre derechos y libertades de los extranjeros en\nEspaña y su integración social, para restringir la regularización de\ninmigrantes ilegales a través del arraigo.",
+        "type": "regular",
+        "nativeType": "ES-ley"
+      },
+      "dateStart": "2025-09-16T15:27:00+02:00",
+      "dateEnd": "2025-09-16T15:36:00+02:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_131/cortes/15_000400_131_0_26490_758672.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1558672I",
+        "duration": 540.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_131_0_26490_758672",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Jon Iñarritu García",
+          "lastname": "Iñarritu García",
+          "firstname": "Jon",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Euskal Herria Bildu"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 4
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 136
+      },
+      "agendaItem": {
+        "title": "Proposición de Ley Orgánica de modificación de la Ley Orgánica\n4/2000, de 11 de enero, sobre derechos y libertades de los extranjeros en\nEspaña y su integración social, para restringir la regularización de\ninmigrantes ilegales a través del arraigo.",
+        "officialTitle": "Proposición de Ley Orgánica de modificación de la Ley Orgánica\n4/2000, de 11 de enero, sobre derechos y libertades de los extranjeros en\nEspaña y su integración social, para restringir la regularización de\ninmigrantes ilegales a través del arraigo.",
+        "type": "regular",
+        "nativeType": "ES-ley"
+      },
+      "dateStart": "2025-09-16T15:36:00+02:00",
+      "dateEnd": "2025-09-16T15:43:00+02:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_131/cortes/15_000400_131_0_26490_758673.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1558673I",
+        "duration": 420.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_131_0_26490_758673",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Jordi Salvador i Duch",
+          "lastname": "Salvador i Duch",
+          "firstname": "Jordi",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Republicano"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 5
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 136
+      },
+      "agendaItem": {
+        "title": "Proposición de Ley Orgánica de modificación de la Ley Orgánica\n4/2000, de 11 de enero, sobre derechos y libertades de los extranjeros en\nEspaña y su integración social, para restringir la regularización de\ninmigrantes ilegales a través del arraigo.",
+        "officialTitle": "Proposición de Ley Orgánica de modificación de la Ley Orgánica\n4/2000, de 11 de enero, sobre derechos y libertades de los extranjeros en\nEspaña y su integración social, para restringir la regularización de\ninmigrantes ilegales a través del arraigo.",
+        "type": "regular",
+        "nativeType": "ES-ley"
+      },
+      "dateStart": "2025-09-16T15:43:00+02:00",
+      "dateEnd": "2025-09-16T15:52:00+02:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_131/cortes/15_000400_131_0_26490_758674.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1558674I",
+        "duration": 540.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_131_0_26490_758674",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Candela López Tagliafico",
+          "lastname": "López Tagliafico",
+          "firstname": "Candela",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Plurinacional SUMAR"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 6
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 136
+      },
+      "agendaItem": {
+        "title": "Proposición de Ley Orgánica de modificación de la Ley Orgánica\n4/2000, de 11 de enero, sobre derechos y libertades de los extranjeros en\nEspaña y su integración social, para restringir la regularización de\ninmigrantes ilegales a través del arraigo.",
+        "officialTitle": "Proposición de Ley Orgánica de modificación de la Ley Orgánica\n4/2000, de 11 de enero, sobre derechos y libertades de los extranjeros en\nEspaña y su integración social, para restringir la regularización de\ninmigrantes ilegales a través del arraigo.",
+        "type": "regular",
+        "nativeType": "ES-ley"
+      },
+      "dateStart": "2025-09-16T15:52:00+02:00",
+      "dateEnd": "2025-09-16T16:02:00+02:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_131/cortes/15_000400_131_0_26490_758675.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1558675I",
+        "duration": 600.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_131_0_26490_758675",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Luc Andre Diouf Dioh",
+          "lastname": "Diouf Dioh",
+          "firstname": "Luc Andre",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Socialista"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 7
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 136
+      },
+      "agendaItem": {
+        "title": "Proposición de Ley Orgánica de modificación de la Ley Orgánica\n4/2000, de 11 de enero, sobre derechos y libertades de los extranjeros en\nEspaña y su integración social, para restringir la regularización de\ninmigrantes ilegales a través del arraigo.",
+        "officialTitle": "Proposición de Ley Orgánica de modificación de la Ley Orgánica\n4/2000, de 11 de enero, sobre derechos y libertades de los extranjeros en\nEspaña y su integración social, para restringir la regularización de\ninmigrantes ilegales a través del arraigo.",
+        "type": "regular",
+        "nativeType": "ES-ley"
+      },
+      "dateStart": "2025-09-16T16:02:00+02:00",
+      "dateEnd": "2025-09-16T16:11:00+02:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_131/cortes/15_000400_131_0_26490_758676.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1558676I",
+        "duration": 540.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_131_0_26490_758676",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Maribel Sánchez Torregrosa",
+          "lastname": "Sánchez Torregrosa",
+          "firstname": "Maribel",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Popular en el Congreso"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 8
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 136
+      },
+      "agendaItem": {
+        "title": "Proposición de Ley Orgánica de modificación de la Ley Orgánica\n4/2000, de 11 de enero, sobre derechos y libertades de los extranjeros en\nEspaña y su integración social, para restringir la regularización de\ninmigrantes ilegales a través del arraigo.",
+        "officialTitle": "Proposición de Ley Orgánica de modificación de la Ley Orgánica\n4/2000, de 11 de enero, sobre derechos y libertades de los extranjeros en\nEspaña y su integración social, para restringir la regularización de\ninmigrantes ilegales a través del arraigo.",
+        "type": "regular",
+        "nativeType": "ES-ley"
+      },
+      "dateStart": "2025-09-16T16:11:00+02:00",
+      "dateEnd": "2025-09-16T16:12:00+02:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_131/cortes/15_000400_131_0_26490_758677.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1558677I",
+        "duration": 60.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_131_0_26490_758677",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Rocío De Meer Méndez",
+          "lastname": "De Meer Méndez",
+          "firstname": "Rocío",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario VOX"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 9
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 136
+      },
+      "agendaItem": {
+        "title": "Proposición de Ley de creación de la Oficina de prevención de la\ncorrupción.",
+        "officialTitle": "Proposición de Ley de creación de la Oficina de prevención de la\ncorrupción.",
+        "type": "regular",
+        "nativeType": "ES-ley"
+      },
+      "dateStart": "2025-09-16T16:12:00+02:00",
+      "dateEnd": "2025-09-16T16:25:00+02:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_131/cortes/15_000400_131_0_26490_758679.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1558679I",
+        "duration": 780.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_131_0_26490_758679",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Enrique Fernando Santiago Romero",
+          "lastname": "Santiago Romero",
+          "firstname": "Enrique Fernando",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Plurinacional SUMAR"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 10
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 136
+      },
+      "agendaItem": {
+        "title": "Proposición de Ley de creación de la Oficina de prevención de la\ncorrupción.",
+        "officialTitle": "Proposición de Ley de creación de la Oficina de prevención de la\ncorrupción.",
+        "type": "regular",
+        "nativeType": "ES-ley"
+      },
+      "dateStart": "2025-09-16T16:25:00+02:00",
+      "dateEnd": "2025-09-16T16:28:00+02:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_131/cortes/15_000400_131_0_26490_758680.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1558680I",
+        "duration": 180.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_131_0_26490_758680",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Alberto Catalán Higueras",
+          "lastname": "Catalán Higueras",
+          "firstname": "Alberto",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Mixto"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 11
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 136
+      },
+      "agendaItem": {
+        "title": "Proposición de Ley de creación de la Oficina de prevención de la\ncorrupción.",
+        "officialTitle": "Proposición de Ley de creación de la Oficina de prevención de la\ncorrupción.",
+        "type": "regular",
+        "nativeType": "ES-ley"
+      },
+      "dateStart": "2025-09-16T16:28:00+02:00",
+      "dateEnd": "2025-09-16T16:32:00+02:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_131/cortes/15_000400_131_0_26490_758681.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1558681I",
+        "duration": 240.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_131_0_26490_758681",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Cristina Valido García",
+          "lastname": "Valido García",
+          "firstname": "Cristina",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Mixto"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 12
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 136
+      },
+      "agendaItem": {
+        "title": "Proposición de Ley de creación de la Oficina de prevención de la\ncorrupción.",
+        "officialTitle": "Proposición de Ley de creación de la Oficina de prevención de la\ncorrupción.",
+        "type": "regular",
+        "nativeType": "ES-ley"
+      },
+      "dateStart": "2025-09-16T16:32:00+02:00",
+      "dateEnd": "2025-09-16T16:37:00+02:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_131/cortes/15_000400_131_0_26490_758682.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1558682I",
+        "duration": 300.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_131_0_26490_758682",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Martina Velarde Gómez",
+          "lastname": "Velarde Gómez",
+          "firstname": "Martina",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Mixto"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 13
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 136
+      },
+      "agendaItem": {
+        "title": "Proposición de Ley de creación de la Oficina de prevención de la\ncorrupción.",
+        "officialTitle": "Proposición de Ley de creación de la Oficina de prevención de la\ncorrupción.",
+        "type": "regular",
+        "nativeType": "ES-ley"
+      },
+      "dateStart": "2025-09-16T16:37:00+02:00",
+      "dateEnd": "2025-09-16T16:44:00+02:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_131/cortes/15_000400_131_0_26490_758683.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1558683I",
+        "duration": 420.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_131_0_26490_758683",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Mikel Legarda Uriarte",
+          "lastname": "Legarda Uriarte",
+          "firstname": "Mikel",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Vasco (EAJ-PNV)"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 14
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 136
+      },
+      "agendaItem": {
+        "title": "Proposición de Ley de creación de la Oficina de prevención de la\ncorrupción.",
+        "officialTitle": "Proposición de Ley de creación de la Oficina de prevención de la\ncorrupción.",
+        "type": "regular",
+        "nativeType": "ES-ley"
+      },
+      "dateStart": "2025-09-16T16:44:00+02:00",
+      "dateEnd": "2025-09-16T16:52:00+02:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_131/cortes/15_000400_131_0_26490_758684.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1558684I",
+        "duration": 480.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_131_0_26490_758684",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Oskar Matute García de Jalón",
+          "lastname": "Matute García de Jalón",
+          "firstname": "Oskar",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Euskal Herria Bildu"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 15
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 136
+      },
+      "agendaItem": {
+        "title": "Proposición de Ley de creación de la Oficina de prevención de la\ncorrupción.",
+        "officialTitle": "Proposición de Ley de creación de la Oficina de prevención de la\ncorrupción.",
+        "type": "regular",
+        "nativeType": "ES-ley"
+      },
+      "dateStart": "2025-09-16T16:52:00+02:00",
+      "dateEnd": "2025-09-16T17:01:00+02:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_131/cortes/15_000400_131_0_26490_758685.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1558685I",
+        "duration": 540.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_131_0_26490_758685",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Josep Pagès i Massó",
+          "lastname": "Pagès i Massó",
+          "firstname": "Josep",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Junts per Catalunya"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 16
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 136
+      },
+      "agendaItem": {
+        "title": "Proposición de Ley de creación de la Oficina de prevención de la\ncorrupción.",
+        "officialTitle": "Proposición de Ley de creación de la Oficina de prevención de la\ncorrupción.",
+        "type": "regular",
+        "nativeType": "ES-ley"
+      },
+      "dateStart": "2025-09-16T17:01:00+02:00",
+      "dateEnd": "2025-09-16T17:10:00+02:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_131/cortes/15_000400_131_0_26490_758686.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1558686I",
+        "duration": 540.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_131_0_26490_758686",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Francesc-Marc Álvaro Vidal",
+          "lastname": "Álvaro Vidal",
+          "firstname": "Francesc-Marc",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Republicano"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 17
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 136
+      },
+      "agendaItem": {
+        "title": "Proposición de Ley de creación de la Oficina de prevención de la\ncorrupción.",
+        "officialTitle": "Proposición de Ley de creación de la Oficina de prevención de la\ncorrupción.",
+        "type": "regular",
+        "nativeType": "ES-ley"
+      },
+      "dateStart": "2025-09-16T17:10:00+02:00",
+      "dateEnd": "2025-09-16T17:19:00+02:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_131/cortes/15_000400_131_0_26490_758687.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1558687I",
+        "duration": 540.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_131_0_26490_758687",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Andrés Alberto Rodríguez Almeida",
+          "lastname": "Rodríguez Almeida",
+          "firstname": "Andrés Alberto",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario VOX"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 18
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 136
+      },
+      "agendaItem": {
+        "title": "Proposición de Ley de creación de la Oficina de prevención de la\ncorrupción.",
+        "officialTitle": "Proposición de Ley de creación de la Oficina de prevención de la\ncorrupción.",
+        "type": "regular",
+        "nativeType": "ES-ley"
+      },
+      "dateStart": "2025-09-16T17:19:00+02:00",
+      "dateEnd": "2025-09-16T17:26:00+02:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_131/cortes/15_000400_131_0_26490_758688.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1558688I",
+        "duration": 420.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_131_0_26490_758688",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Pepe Mercadal Baquero",
+          "lastname": "Mercadal Baquero",
+          "firstname": "Pepe",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Socialista"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 19
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 136
+      },
+      "agendaItem": {
+        "title": "Proposición de Ley de creación de la Oficina de prevención de la\ncorrupción.",
+        "officialTitle": "Proposición de Ley de creación de la Oficina de prevención de la\ncorrupción.",
+        "type": "regular",
+        "nativeType": "ES-ley"
+      },
+      "dateStart": "2025-09-16T17:26:00+02:00",
+      "dateEnd": "2025-09-16T17:35:00+02:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_131/cortes/15_000400_131_0_26490_758689.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1558689I",
+        "duration": 540.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_131_0_26490_758689",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Edurne Uriarte Bengoechea",
+          "lastname": "Uriarte Bengoechea",
+          "firstname": "Edurne",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Popular en el Congreso"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 20
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 136
+      },
+      "agendaItem": {
+        "title": "Proposición no de Ley relativa al incremento de la inseguridad en\nEspaña.",
+        "officialTitle": "Proposición no de Ley relativa al incremento de la inseguridad en\nEspaña.",
+        "type": "regular"
+      },
+      "dateStart": "2025-09-16T17:35:00+02:00",
+      "dateEnd": "2025-09-16T17:44:00+02:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_131/cortes/15_000400_131_0_26490_758692.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1558692I",
+        "duration": 540.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_131_0_26490_758692",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Ignacio Gil Lázaro",
+          "lastname": "Gil Lázaro",
+          "firstname": "Ignacio",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario VOX"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 21
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 136
+      },
+      "agendaItem": {
+        "title": "Proposición no de Ley relativa al incremento de la inseguridad en\nEspaña.",
+        "officialTitle": "Proposición no de Ley relativa al incremento de la inseguridad en\nEspaña.",
+        "type": "regular"
+      },
+      "dateStart": "2025-09-16T17:44:00+02:00",
+      "dateEnd": "2025-09-16T17:50:00+02:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_131/cortes/15_000400_131_0_26490_758693.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1558693I",
+        "duration": 360.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_131_0_26490_758693",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Àgueda Micó Micó",
+          "lastname": "Micó Micó",
+          "firstname": "Àgueda",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Mixto"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 22
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 136
+      },
+      "agendaItem": {
+        "title": "Proposición no de Ley relativa al incremento de la inseguridad en\nEspaña.",
+        "officialTitle": "Proposición no de Ley relativa al incremento de la inseguridad en\nEspaña.",
+        "type": "regular"
+      },
+      "dateStart": "2025-09-16T17:50:00+02:00",
+      "dateEnd": "2025-09-16T17:58:00+02:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_131/cortes/15_000400_131_0_26490_758694.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1558694I",
+        "duration": 480.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_131_0_26490_758694",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Francesc-Marc Álvaro Vidal",
+          "lastname": "Álvaro Vidal",
+          "firstname": "Francesc-Marc",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Republicano"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 23
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 136
+      },
+      "agendaItem": {
+        "title": "Proposición no de Ley relativa al incremento de la inseguridad en\nEspaña.",
+        "officialTitle": "Proposición no de Ley relativa al incremento de la inseguridad en\nEspaña.",
+        "type": "regular"
+      },
+      "dateStart": "2025-09-16T17:58:00+02:00",
+      "dateEnd": "2025-09-16T18:05:00+02:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_131/cortes/15_000400_131_0_26490_758695.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1558695I",
+        "duration": 420.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_131_0_26490_758695",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Alberto Ibáñez Mezquita",
+          "lastname": "Ibáñez Mezquita",
+          "firstname": "Alberto",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Plurinacional SUMAR"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 24
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 136
+      },
+      "agendaItem": {
+        "title": "Proposición no de Ley relativa al incremento de la inseguridad en\nEspaña.",
+        "officialTitle": "Proposición no de Ley relativa al incremento de la inseguridad en\nEspaña.",
+        "type": "regular"
+      },
+      "dateStart": "2025-09-16T18:05:00+02:00",
+      "dateEnd": "2025-09-16T18:11:00+02:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_131/cortes/15_000400_131_0_26490_758696.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1558696I",
+        "duration": 360.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_131_0_26490_758696",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Manuel Arribas Maroto",
+          "lastname": "Arribas Maroto",
+          "firstname": "Manuel",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Socialista"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 25
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 136
+      },
+      "agendaItem": {
+        "title": "Proposición no de Ley relativa al incremento de la inseguridad en\nEspaña.",
+        "officialTitle": "Proposición no de Ley relativa al incremento de la inseguridad en\nEspaña.",
+        "type": "regular"
+      },
+      "dateStart": "2025-09-16T18:11:00+02:00",
+      "dateEnd": "2025-09-16T18:18:00+02:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_131/cortes/15_000400_131_0_26490_758697.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1558697I",
+        "duration": 420.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_131_0_26490_758697",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Fernando De Rosa Torner",
+          "lastname": "De Rosa Torner",
+          "firstname": "Fernando",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Popular en el Congreso"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 26
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 136
+      },
+      "agendaItem": {
+        "title": "Proposición no de Ley relativa al establecimiento por ley de un\ndespido realmente restaurativo y disuasorio.",
+        "officialTitle": "Proposición no de Ley relativa al establecimiento por ley de un\ndespido realmente restaurativo y disuasorio.",
+        "type": "regular"
+      },
+      "dateStart": "2025-09-16T18:18:00+02:00",
+      "dateEnd": "2025-09-16T18:25:00+02:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_131/cortes/15_000400_131_0_26490_758699.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1558699I",
+        "duration": 420.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_131_0_26490_758699",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Verónica Martínez Barbero",
+          "lastname": "Martínez Barbero",
+          "firstname": "Verónica",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Plurinacional SUMAR"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 27
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 136
+      },
+      "agendaItem": {
+        "title": "Proposición no de Ley relativa al establecimiento por ley de un\ndespido realmente restaurativo y disuasorio.",
+        "officialTitle": "Proposición no de Ley relativa al establecimiento por ley de un\ndespido realmente restaurativo y disuasorio.",
+        "type": "regular"
+      },
+      "dateStart": "2025-09-16T18:26:00+02:00",
+      "dateEnd": "2025-09-16T18:30:00+02:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_131/cortes/15_000400_131_1_26493_758705.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1558705I",
+        "duration": 240.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_131_1_26493_758705",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Josep Maria Cervera Pinart",
+          "lastname": "Cervera Pinart",
+          "firstname": "Josep Maria",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Junts per Catalunya"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 28
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 136
+      },
+      "agendaItem": {
+        "title": "Proposición no de Ley relativa al establecimiento por ley de un\ndespido realmente restaurativo y disuasorio.",
+        "officialTitle": "Proposición no de Ley relativa al establecimiento por ley de un\ndespido realmente restaurativo y disuasorio.",
+        "type": "regular"
+      },
+      "dateStart": "2025-09-16T18:30:00+02:00",
+      "dateEnd": "2025-09-16T18:34:00+02:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_131/cortes/15_000400_131_1_26493_758706.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1558706I",
+        "duration": 240.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_131_1_26493_758706",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Néstor Rego Candamil",
+          "lastname": "Rego Candamil",
+          "firstname": "Néstor",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Mixto"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 29
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 136
+      },
+      "agendaItem": {
+        "title": "Proposición no de Ley relativa al establecimiento por ley de un\ndespido realmente restaurativo y disuasorio.",
+        "officialTitle": "Proposición no de Ley relativa al establecimiento por ley de un\ndespido realmente restaurativo y disuasorio.",
+        "type": "regular"
+      },
+      "dateStart": "2025-09-16T18:34:00+02:00",
+      "dateEnd": "2025-09-16T18:37:00+02:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_131/cortes/15_000400_131_1_26493_758707.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1558707I",
+        "duration": 180.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_131_1_26493_758707",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Noemí Santana Perera",
+          "lastname": "Santana Perera",
+          "firstname": "Noemí",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Mixto"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 30
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 136
+      },
+      "agendaItem": {
+        "title": "Proposición no de Ley relativa al establecimiento por ley de un\ndespido realmente restaurativo y disuasorio.",
+        "officialTitle": "Proposición no de Ley relativa al establecimiento por ley de un\ndespido realmente restaurativo y disuasorio.",
+        "type": "regular"
+      },
+      "dateStart": "2025-09-16T18:37:00+02:00",
+      "dateEnd": "2025-09-16T18:42:00+02:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_131/cortes/15_000400_131_1_26493_758708.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1558708I",
+        "duration": 300.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_131_1_26493_758708",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Idoia Sagastizabal Unzetabarrenetxea",
+          "lastname": "Sagastizabal Unzetabarrenetxea",
+          "firstname": "Idoia",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Vasco (EAJ-PNV)"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 31
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 136
+      },
+      "agendaItem": {
+        "title": "Proposición no de Ley relativa al establecimiento por ley de un\ndespido realmente restaurativo y disuasorio.",
+        "officialTitle": "Proposición no de Ley relativa al establecimiento por ley de un\ndespido realmente restaurativo y disuasorio.",
+        "type": "regular"
+      },
+      "dateStart": "2025-09-16T18:42:00+02:00",
+      "dateEnd": "2025-09-16T18:48:00+02:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_131/cortes/15_000400_131_1_26493_758709.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1558709I",
+        "duration": 360.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_131_1_26493_758709",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Oskar Matute García de Jalón",
+          "lastname": "Matute García de Jalón",
+          "firstname": "Oskar",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Euskal Herria Bildu"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 32
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 136
+      },
+      "agendaItem": {
+        "title": "Proposición no de Ley relativa al establecimiento por ley de un\ndespido realmente restaurativo y disuasorio.",
+        "officialTitle": "Proposición no de Ley relativa al establecimiento por ley de un\ndespido realmente restaurativo y disuasorio.",
+        "type": "regular"
+      },
+      "dateStart": "2025-09-16T18:48:00+02:00",
+      "dateEnd": "2025-09-16T18:55:00+02:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_131/cortes/15_000400_131_1_26493_758710.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1558710I",
+        "duration": 420.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_131_1_26493_758710",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Jordi Salvador i Duch",
+          "lastname": "Salvador i Duch",
+          "firstname": "Jordi",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Republicano"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 33
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 136
+      },
+      "agendaItem": {
+        "title": "Proposición no de Ley relativa al establecimiento por ley de un\ndespido realmente restaurativo y disuasorio.",
+        "officialTitle": "Proposición no de Ley relativa al establecimiento por ley de un\ndespido realmente restaurativo y disuasorio.",
+        "type": "regular"
+      },
+      "dateStart": "2025-09-16T18:55:00+02:00",
+      "dateEnd": "2025-09-16T19:02:00+02:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_131/cortes/15_000400_131_1_26493_758711.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1558711I",
+        "duration": 420.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_131_1_26493_758711",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Juan José Aizcorbe Torra",
+          "lastname": "Aizcorbe Torra",
+          "firstname": "Juan José",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario VOX"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 34
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 136
+      },
+      "agendaItem": {
+        "title": "Proposición no de Ley relativa al establecimiento por ley de un\ndespido realmente restaurativo y disuasorio.",
+        "officialTitle": "Proposición no de Ley relativa al establecimiento por ley de un\ndespido realmente restaurativo y disuasorio.",
+        "type": "regular"
+      },
+      "dateStart": "2025-09-16T19:02:00+02:00",
+      "dateEnd": "2025-09-16T19:08:00+02:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_131/cortes/15_000400_131_1_26493_758712.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1558712I",
+        "duration": 360.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_131_1_26493_758712",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Ada Santana Aguilera",
+          "lastname": "Santana Aguilera",
+          "firstname": "Ada",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Socialista"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 35
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 136
+      },
+      "agendaItem": {
+        "title": "Proposición no de Ley relativa al establecimiento por ley de un\ndespido realmente restaurativo y disuasorio.",
+        "officialTitle": "Proposición no de Ley relativa al establecimiento por ley de un\ndespido realmente restaurativo y disuasorio.",
+        "type": "regular"
+      },
+      "dateStart": "2025-09-16T19:08:00+02:00",
+      "dateEnd": "2025-09-16T19:15:00+02:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_131/cortes/15_000400_131_1_26493_758713.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1558713I",
+        "duration": 420.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_131_1_26493_758713",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Jaime Eduardo de Olano Vela",
+          "lastname": "Olano Vela",
+          "firstname": "Jaime Eduardo de",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Popular en el Congreso"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 36
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 136
+      },
+      "agendaItem": {
+        "title": "Moción consecuencia de interpelación urgente sobre los trámites,\nplazos y presupuestos para la licitación de las obras de construcción de\nlas nuevas estaciones ferroviarias de Pamplona y Tudela enmarcadas en el\nCorredor Navarro de Alta Velocidad.",
+        "officialTitle": "Moción consecuencia de interpelación urgente sobre los trámites,\nplazos y presupuestos para la licitación de las obras de construcción de\nlas nuevas estaciones ferroviarias de Pamplona y Tudela enmarcadas en el\nCorredor Navarro de Alta Velocidad.",
+        "type": "regular",
+        "nativeType": "ES-mocion"
+      },
+      "dateStart": "2025-09-16T19:15:00+02:00",
+      "dateEnd": "2025-09-16T19:23:00+02:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_131/cortes/15_000400_131_1_26493_758716.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1558716I",
+        "duration": 480.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_131_1_26493_758716",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Alberto Catalán Higueras",
+          "lastname": "Catalán Higueras",
+          "firstname": "Alberto",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Mixto"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 37
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 136
+      },
+      "agendaItem": {
+        "title": "Moción consecuencia de interpelación urgente sobre los trámites,\nplazos y presupuestos para la licitación de las obras de construcción de\nlas nuevas estaciones ferroviarias de Pamplona y Tudela enmarcadas en el\nCorredor Navarro de Alta Velocidad.",
+        "officialTitle": "Moción consecuencia de interpelación urgente sobre los trámites,\nplazos y presupuestos para la licitación de las obras de construcción de\nlas nuevas estaciones ferroviarias de Pamplona y Tudela enmarcadas en el\nCorredor Navarro de Alta Velocidad.",
+        "type": "regular",
+        "nativeType": "ES-mocion"
+      },
+      "dateStart": "2025-09-16T19:23:00+02:00",
+      "dateEnd": "2025-09-16T19:30:00+02:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_131/cortes/15_000400_131_1_26493_758717.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1558717I",
+        "duration": 420.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_131_1_26493_758717",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Adriana Maldonado López",
+          "lastname": "Maldonado López",
+          "firstname": "Adriana",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Socialista"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 38
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 136
+      },
+      "agendaItem": {
+        "title": "Moción consecuencia de interpelación urgente sobre los trámites,\nplazos y presupuestos para la licitación de las obras de construcción de\nlas nuevas estaciones ferroviarias de Pamplona y Tudela enmarcadas en el\nCorredor Navarro de Alta Velocidad.",
+        "officialTitle": "Moción consecuencia de interpelación urgente sobre los trámites,\nplazos y presupuestos para la licitación de las obras de construcción de\nlas nuevas estaciones ferroviarias de Pamplona y Tudela enmarcadas en el\nCorredor Navarro de Alta Velocidad.",
+        "type": "regular",
+        "nativeType": "ES-mocion"
+      },
+      "dateStart": "2025-09-16T19:30:00+02:00",
+      "dateEnd": "2025-09-16T19:36:00+02:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_131/cortes/15_000400_131_1_26493_758718.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1558718I",
+        "duration": 360.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_131_1_26493_758718",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Nerea Renteria Lasanta",
+          "lastname": "Renteria Lasanta",
+          "firstname": "Nerea",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Vasco (EAJ-PNV)"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 39
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 136
+      },
+      "agendaItem": {
+        "title": "Moción consecuencia de interpelación urgente sobre los trámites,\nplazos y presupuestos para la licitación de las obras de construcción de\nlas nuevas estaciones ferroviarias de Pamplona y Tudela enmarcadas en el\nCorredor Navarro de Alta Velocidad.",
+        "officialTitle": "Moción consecuencia de interpelación urgente sobre los trámites,\nplazos y presupuestos para la licitación de las obras de construcción de\nlas nuevas estaciones ferroviarias de Pamplona y Tudela enmarcadas en el\nCorredor Navarro de Alta Velocidad.",
+        "type": "regular",
+        "nativeType": "ES-mocion"
+      },
+      "dateStart": "2025-09-16T19:36:00+02:00",
+      "dateEnd": "2025-09-16T19:42:00+02:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_131/cortes/15_000400_131_1_26493_758719.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1558719I",
+        "duration": 360.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_131_1_26493_758719",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Mikel Otero Gabirondo",
+          "lastname": "Otero Gabirondo",
+          "firstname": "Mikel",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Euskal Herria Bildu"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 40
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 136
+      },
+      "agendaItem": {
+        "title": "Moción consecuencia de interpelación urgente sobre los trámites,\nplazos y presupuestos para la licitación de las obras de construcción de\nlas nuevas estaciones ferroviarias de Pamplona y Tudela enmarcadas en el\nCorredor Navarro de Alta Velocidad.",
+        "officialTitle": "Moción consecuencia de interpelación urgente sobre los trámites,\nplazos y presupuestos para la licitación de las obras de construcción de\nlas nuevas estaciones ferroviarias de Pamplona y Tudela enmarcadas en el\nCorredor Navarro de Alta Velocidad.",
+        "type": "regular",
+        "nativeType": "ES-mocion"
+      },
+      "dateStart": "2025-09-16T19:42:00+02:00",
+      "dateEnd": "2025-09-16T19:48:00+02:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_131/cortes/15_000400_131_1_26493_758720.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1558720I",
+        "duration": 360.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_131_1_26493_758720",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Lander Martínez Hierro",
+          "lastname": "Martínez Hierro",
+          "firstname": "Lander",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Plurinacional SUMAR"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 41
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 136
+      },
+      "agendaItem": {
+        "title": "Moción consecuencia de interpelación urgente sobre los trámites,\nplazos y presupuestos para la licitación de las obras de construcción de\nlas nuevas estaciones ferroviarias de Pamplona y Tudela enmarcadas en el\nCorredor Navarro de Alta Velocidad.",
+        "officialTitle": "Moción consecuencia de interpelación urgente sobre los trámites,\nplazos y presupuestos para la licitación de las obras de construcción de\nlas nuevas estaciones ferroviarias de Pamplona y Tudela enmarcadas en el\nCorredor Navarro de Alta Velocidad.",
+        "type": "regular",
+        "nativeType": "ES-mocion"
+      },
+      "dateStart": "2025-09-16T19:48:00+02:00",
+      "dateEnd": "2025-09-16T19:54:00+02:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_131/cortes/15_000400_131_1_26493_758721.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1558721I",
+        "duration": 360.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_131_1_26493_758721",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Carina Mejías Sánchez",
+          "lastname": "Mejías Sánchez",
+          "firstname": "Carina",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario VOX"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 42
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 136
+      },
+      "agendaItem": {
+        "title": "Moción consecuencia de interpelación urgente sobre los trámites,\nplazos y presupuestos para la licitación de las obras de construcción de\nlas nuevas estaciones ferroviarias de Pamplona y Tudela enmarcadas en el\nCorredor Navarro de Alta Velocidad.",
+        "officialTitle": "Moción consecuencia de interpelación urgente sobre los trámites,\nplazos y presupuestos para la licitación de las obras de construcción de\nlas nuevas estaciones ferroviarias de Pamplona y Tudela enmarcadas en el\nCorredor Navarro de Alta Velocidad.",
+        "type": "regular",
+        "nativeType": "ES-mocion"
+      },
+      "dateStart": "2025-09-16T19:54:00+02:00",
+      "dateEnd": "2025-09-16T19:59:00+02:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_131/cortes/15_000400_131_1_26493_758722.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1558722I",
+        "duration": 300.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_131_1_26493_758722",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Carlos García Adanero",
+          "lastname": "García Adanero",
+          "firstname": "Carlos",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Popular en el Congreso"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 43
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 136
+      },
+      "agendaItem": {
+        "title": "Moción consecuencia de interpelación urgente relativa a las\nactuaciones necesarias y urgentes que precisa el transporte ferroviario\nen Galicia.",
+        "officialTitle": "Moción consecuencia de interpelación urgente relativa a las\nactuaciones necesarias y urgentes que precisa el transporte ferroviario\nen Galicia.",
+        "type": "regular",
+        "nativeType": "ES-mocion"
+      },
+      "dateStart": "2025-09-16T19:59:00+02:00",
+      "dateEnd": "2025-09-16T20:08:00+02:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_131/cortes/15_000400_131_1_26493_758724.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1558724I",
+        "duration": 540.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_131_1_26493_758724",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Néstor Rego Candamil",
+          "lastname": "Rego Candamil",
+          "firstname": "Néstor",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Mixto"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 44
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 136
+      },
+      "agendaItem": {
+        "title": "Moción consecuencia de interpelación urgente relativa a las\nactuaciones necesarias y urgentes que precisa el transporte ferroviario\nen Galicia.",
+        "officialTitle": "Moción consecuencia de interpelación urgente relativa a las\nactuaciones necesarias y urgentes que precisa el transporte ferroviario\nen Galicia.",
+        "type": "regular",
+        "nativeType": "ES-mocion"
+      },
+      "dateStart": "2025-09-16T20:08:00+02:00",
+      "dateEnd": "2025-09-16T20:15:00+02:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_131/cortes/15_000400_131_1_26493_758725.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1558725I",
+        "duration": 420.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_131_1_26493_758725",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "José Manuel Lago Peñas",
+          "lastname": "Lago Peñas",
+          "firstname": "José Manuel",
+          "type": "memberOfParliament"
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 45
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 136
+      },
+      "agendaItem": {
+        "title": "Moción consecuencia de interpelación urgente relativa a las\nactuaciones necesarias y urgentes que precisa el transporte ferroviario\nen Galicia.",
+        "officialTitle": "Moción consecuencia de interpelación urgente relativa a las\nactuaciones necesarias y urgentes que precisa el transporte ferroviario\nen Galicia.",
+        "type": "regular",
+        "nativeType": "ES-mocion"
+      },
+      "dateStart": "2025-09-16T20:15:00+02:00",
+      "dateEnd": "2025-09-16T20:23:00+02:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_131/cortes/15_000400_131_1_26493_758726.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1558726I",
+        "duration": 480.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_131_1_26493_758726",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "José María Sánchez García",
+          "lastname": "Sánchez García",
+          "firstname": "José María",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario VOX"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 46
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 136
+      },
+      "agendaItem": {
+        "title": "Moción consecuencia de interpelación urgente relativa a las\nactuaciones necesarias y urgentes que precisa el transporte ferroviario\nen Galicia.",
+        "officialTitle": "Moción consecuencia de interpelación urgente relativa a las\nactuaciones necesarias y urgentes que precisa el transporte ferroviario\nen Galicia.",
+        "type": "regular",
+        "nativeType": "ES-mocion"
+      },
+      "dateStart": "2025-09-16T20:23:00+02:00",
+      "dateEnd": "2025-09-16T20:29:00+02:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_131/cortes/15_000400_131_1_26493_758727.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1558727I",
+        "duration": 360.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_131_1_26493_758727",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Patricia Otero Rodríguez",
+          "lastname": "Otero Rodríguez",
+          "firstname": "Patricia",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Socialista"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 47
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 136
+      },
+      "agendaItem": {
+        "title": "Moción consecuencia de interpelación urgente relativa a las\nactuaciones necesarias y urgentes que precisa el transporte ferroviario\nen Galicia.",
+        "officialTitle": "Moción consecuencia de interpelación urgente relativa a las\nactuaciones necesarias y urgentes que precisa el transporte ferroviario\nen Galicia.",
+        "type": "regular",
+        "nativeType": "ES-mocion"
+      },
+      "dateStart": "2025-09-16T20:29:00+02:00",
+      "dateEnd": "2025-09-16T20:36:00+02:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_131/cortes/15_000400_131_1_26493_758728.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1558728I",
+        "duration": 420.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_131_1_26493_758728",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Celso Luis Delgado Arce",
+          "lastname": "Delgado Arce",
+          "firstname": "Celso Luis",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Popular en el Congreso"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 48
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 136
+      },
+      "agendaItem": {
+        "title": "Moción consecuencia de interpelación urgente sobre cuál es la\npolítica del Gobierno en materia de inmigración.",
+        "officialTitle": "Moción consecuencia de interpelación urgente sobre cuál es la\npolítica del Gobierno en materia de inmigración.",
+        "type": "regular",
+        "nativeType": "ES-mocion"
+      },
+      "dateStart": "2025-09-16T20:36:00+02:00",
+      "dateEnd": "2025-09-16T20:45:00+02:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_131/cortes/15_000400_131_1_26493_758730.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1558730I",
+        "duration": 540.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_131_1_26493_758730",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Lourdes Méndez Monasterio",
+          "lastname": "Méndez Monasterio",
+          "firstname": "Lourdes",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario VOX"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 49
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 136
+      },
+      "agendaItem": {
+        "title": "Moción consecuencia de interpelación urgente sobre cuál es la\npolítica del Gobierno en materia de inmigración.",
+        "officialTitle": "Moción consecuencia de interpelación urgente sobre cuál es la\npolítica del Gobierno en materia de inmigración.",
+        "type": "regular",
+        "nativeType": "ES-mocion"
+      },
+      "dateStart": "2025-09-16T20:45:00+02:00",
+      "dateEnd": "2025-09-16T20:52:00+02:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_131/cortes/15_000400_131_1_26493_758731.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1558731I",
+        "duration": 420.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_131_1_26493_758731",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Ana Isabel Alós López",
+          "lastname": "Alós López",
+          "firstname": "Ana Isabel",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Popular en el Congreso"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 50
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 136
+      },
+      "agendaItem": {
+        "title": "Moción consecuencia de interpelación urgente sobre cuál es la\npolítica del Gobierno en materia de inmigración.",
+        "officialTitle": "Moción consecuencia de interpelación urgente sobre cuál es la\npolítica del Gobierno en materia de inmigración.",
+        "type": "regular",
+        "nativeType": "ES-mocion"
+      },
+      "dateStart": "2025-09-16T20:52:00+02:00",
+      "dateEnd": "2025-09-16T20:59:00+02:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_131/cortes/15_000400_131_1_26493_758732.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1558732I",
+        "duration": 420.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_131_1_26493_758732",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Vicenç Vidal Matas",
+          "lastname": "Vidal Matas",
+          "firstname": "Vicenç",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Plurinacional SUMAR"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 51
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 136
+      },
+      "agendaItem": {
+        "title": "Moción consecuencia de interpelación urgente sobre cuál es la\npolítica del Gobierno en materia de inmigración.",
+        "officialTitle": "Moción consecuencia de interpelación urgente sobre cuál es la\npolítica del Gobierno en materia de inmigración.",
+        "type": "regular",
+        "nativeType": "ES-mocion"
+      },
+      "dateStart": "2025-09-16T20:59:00+02:00",
+      "dateEnd": "2025-09-16T21:00:00+02:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_131/cortes/15_000400_131_1_26493_758733.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1558733I",
+        "duration": 60.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_131_1_26493_758733",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "José María Figaredo Álvarez-Sala",
+          "lastname": "Figaredo Álvarez-Sala",
+          "firstname": "José María",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario VOX"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 52
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 136
+      },
+      "agendaItem": {
+        "title": "Moción consecuencia de interpelación urgente sobre cuál es la\npolítica del Gobierno en materia de inmigración.",
+        "officialTitle": "Moción consecuencia de interpelación urgente sobre cuál es la\npolítica del Gobierno en materia de inmigración.",
+        "type": "regular",
+        "nativeType": "ES-mocion"
+      },
+      "dateStart": "2025-09-16T21:00:00+02:00",
+      "dateEnd": "2025-09-16T21:06:00+02:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_131/cortes/15_000400_131_1_26493_758734.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1558734I",
+        "duration": 360.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_131_1_26493_758734",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Vicente Montávez Aguillaume",
+          "lastname": "Montávez Aguillaume",
+          "firstname": "Vicente",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Socialista"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 53
+    }
+  ]
+}

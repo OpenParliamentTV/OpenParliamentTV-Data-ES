@@ -1,0 +1,627 @@
+{
+  "meta": {
+    "session": "15055",
+    "processing": {
+      "parse_media": "2026-05-23T07:17:41"
+    },
+    "dateStart": "2024-07-04T12:04:00+02:00",
+    "dateEnd": "2024-07-04T13:36:00+02:00"
+  },
+  "data": [
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 55
+      },
+      "agendaItem": {
+        "title": "Juramento o promesa de acatamiento de la Constitución",
+        "officialTitle": "Juramento o promesa de acatamiento de la Constitución",
+        "type": "oath",
+        "nativeType": "ES-juramento"
+      },
+      "dateStart": "2024-07-04T12:04:00+02:00",
+      "dateEnd": "2024-07-04T12:04:00+02:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_053/cortes/15_000400_053_0_25085_737039.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1537039I",
+        "duration": 0.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_053_0_25085_737039",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Cristina Moreno Borrás",
+          "lastname": "Moreno Borrás",
+          "firstname": "Cristina",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Popular en el Congreso"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 1
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 55
+      },
+      "agendaItem": {
+        "title": "Proposición de Ley Orgánica de reforma de la Ley Orgánica 6/1985, de\n1 de julio, del Poder Judicial y de reforma de la Ley 50/1981, de 30 de\ndiciembre, por la que se regula el Estatuto Orgánico del Ministerio\nFiscal.",
+        "officialTitle": "Proposición de Ley Orgánica de reforma de la Ley Orgánica 6/1985, de\n1 de julio, del Poder Judicial y de reforma de la Ley 50/1981, de 30 de\ndiciembre, por la que se regula el Estatuto Orgánico del Ministerio\nFiscal.",
+        "type": "regular",
+        "nativeType": "ES-ley"
+      },
+      "dateStart": "2024-07-04T12:05:00+02:00",
+      "dateEnd": "2024-07-04T12:19:00+02:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_053/cortes/15_000400_053_0_25085_737040.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1537040I",
+        "duration": 840.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_053_0_25085_737040",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Miguel Tellado Filgueira",
+          "lastname": "Tellado Filgueira",
+          "firstname": "Miguel",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Popular en el Congreso"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 2
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 55
+      },
+      "agendaItem": {
+        "title": "Proposición de Ley Orgánica de reforma de la Ley Orgánica 6/1985, de\n1 de julio, del Poder Judicial y de reforma de la Ley 50/1981, de 30 de\ndiciembre, por la que se regula el Estatuto Orgánico del Ministerio\nFiscal.",
+        "officialTitle": "Proposición de Ley Orgánica de reforma de la Ley Orgánica 6/1985, de\n1 de julio, del Poder Judicial y de reforma de la Ley 50/1981, de 30 de\ndiciembre, por la que se regula el Estatuto Orgánico del Ministerio\nFiscal.",
+        "type": "regular",
+        "nativeType": "ES-ley"
+      },
+      "dateStart": "2024-07-04T12:19:00+02:00",
+      "dateEnd": "2024-07-04T12:33:00+02:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_053/cortes/15_000400_053_0_25085_737042.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1537042I",
+        "duration": 840.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_053_0_25085_737042",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Patxi López Álvarez",
+          "lastname": "López Álvarez",
+          "firstname": "Patxi",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Socialista"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 3
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 55
+      },
+      "agendaItem": {
+        "title": "Proposición de Ley Orgánica de reforma de la Ley Orgánica 6/1985, de\n1 de julio, del Poder Judicial y de reforma de la Ley 50/1981, de 30 de\ndiciembre, por la que se regula el Estatuto Orgánico del Ministerio\nFiscal.",
+        "officialTitle": "Proposición de Ley Orgánica de reforma de la Ley Orgánica 6/1985, de\n1 de julio, del Poder Judicial y de reforma de la Ley 50/1981, de 30 de\ndiciembre, por la que se regula el Estatuto Orgánico del Ministerio\nFiscal.",
+        "type": "regular",
+        "nativeType": "ES-ley"
+      },
+      "dateStart": "2024-07-04T12:33:00+02:00",
+      "dateEnd": "2024-07-04T12:36:00+02:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_053/cortes/15_000400_053_0_25085_737043.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1537043I",
+        "duration": 180.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_053_0_25085_737043",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Alberto Catalán Higueras",
+          "lastname": "Catalán Higueras",
+          "firstname": "Alberto",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Mixto"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 4
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 55
+      },
+      "agendaItem": {
+        "title": "Proposición de Ley Orgánica de reforma de la Ley Orgánica 6/1985, de\n1 de julio, del Poder Judicial y de reforma de la Ley 50/1981, de 30 de\ndiciembre, por la que se regula el Estatuto Orgánico del Ministerio\nFiscal.",
+        "officialTitle": "Proposición de Ley Orgánica de reforma de la Ley Orgánica 6/1985, de\n1 de julio, del Poder Judicial y de reforma de la Ley 50/1981, de 30 de\ndiciembre, por la que se regula el Estatuto Orgánico del Ministerio\nFiscal.",
+        "type": "regular",
+        "nativeType": "ES-ley"
+      },
+      "dateStart": "2024-07-04T12:36:00+02:00",
+      "dateEnd": "2024-07-04T12:38:00+02:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_053/cortes/15_000400_053_0_25085_737044.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1537044I",
+        "duration": 120.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_053_0_25085_737044",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Cristina Valido García",
+          "lastname": "Valido García",
+          "firstname": "Cristina",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Mixto"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 5
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 55
+      },
+      "agendaItem": {
+        "title": "Proposición de Ley Orgánica de reforma de la Ley Orgánica 6/1985, de\n1 de julio, del Poder Judicial y de reforma de la Ley 50/1981, de 30 de\ndiciembre, por la que se regula el Estatuto Orgánico del Ministerio\nFiscal.",
+        "officialTitle": "Proposición de Ley Orgánica de reforma de la Ley Orgánica 6/1985, de\n1 de julio, del Poder Judicial y de reforma de la Ley 50/1981, de 30 de\ndiciembre, por la que se regula el Estatuto Orgánico del Ministerio\nFiscal.",
+        "type": "regular",
+        "nativeType": "ES-ley"
+      },
+      "dateStart": "2024-07-04T12:38:00+02:00",
+      "dateEnd": "2024-07-04T12:41:00+02:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_053/cortes/15_000400_053_0_25085_737045.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1537045I",
+        "duration": 180.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_053_0_25085_737045",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Néstor Rego Candamil",
+          "lastname": "Rego Candamil",
+          "firstname": "Néstor",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Mixto"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 6
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 55
+      },
+      "agendaItem": {
+        "title": "Proposición de Ley Orgánica de reforma de la Ley Orgánica 6/1985, de\n1 de julio, del Poder Judicial y de reforma de la Ley 50/1981, de 30 de\ndiciembre, por la que se regula el Estatuto Orgánico del Ministerio\nFiscal.",
+        "officialTitle": "Proposición de Ley Orgánica de reforma de la Ley Orgánica 6/1985, de\n1 de julio, del Poder Judicial y de reforma de la Ley 50/1981, de 30 de\ndiciembre, por la que se regula el Estatuto Orgánico del Ministerio\nFiscal.",
+        "type": "regular",
+        "nativeType": "ES-ley"
+      },
+      "dateStart": "2024-07-04T12:41:00+02:00",
+      "dateEnd": "2024-07-04T12:45:00+02:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_053/cortes/15_000400_053_0_25085_737046.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1537046I",
+        "duration": 240.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_053_0_25085_737046",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Ione Belarra Urteaga",
+          "lastname": "Belarra Urteaga",
+          "firstname": "Ione",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Mixto"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 7
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 55
+      },
+      "agendaItem": {
+        "title": "Proposición de Ley Orgánica de reforma de la Ley Orgánica 6/1985, de\n1 de julio, del Poder Judicial y de reforma de la Ley 50/1981, de 30 de\ndiciembre, por la que se regula el Estatuto Orgánico del Ministerio\nFiscal.",
+        "officialTitle": "Proposición de Ley Orgánica de reforma de la Ley Orgánica 6/1985, de\n1 de julio, del Poder Judicial y de reforma de la Ley 50/1981, de 30 de\ndiciembre, por la que se regula el Estatuto Orgánico del Ministerio\nFiscal.",
+        "type": "regular",
+        "nativeType": "ES-ley"
+      },
+      "dateStart": "2024-07-04T12:45:00+02:00",
+      "dateEnd": "2024-07-04T12:53:00+02:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_053/cortes/15_000400_053_0_25085_737047.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1537047I",
+        "duration": 480.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_053_0_25085_737047",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Mikel Legarda Uriarte",
+          "lastname": "Legarda Uriarte",
+          "firstname": "Mikel",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Vasco (EAJ-PNV)"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 8
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 55
+      },
+      "agendaItem": {
+        "title": "Proposición de Ley Orgánica de reforma de la Ley Orgánica 6/1985, de\n1 de julio, del Poder Judicial y de reforma de la Ley 50/1981, de 30 de\ndiciembre, por la que se regula el Estatuto Orgánico del Ministerio\nFiscal.",
+        "officialTitle": "Proposición de Ley Orgánica de reforma de la Ley Orgánica 6/1985, de\n1 de julio, del Poder Judicial y de reforma de la Ley 50/1981, de 30 de\ndiciembre, por la que se regula el Estatuto Orgánico del Ministerio\nFiscal.",
+        "type": "regular",
+        "nativeType": "ES-ley"
+      },
+      "dateStart": "2024-07-04T12:53:00+02:00",
+      "dateEnd": "2024-07-04T13:01:00+02:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_053/cortes/15_000400_053_0_25085_737048.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1537048I",
+        "duration": 480.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_053_0_25085_737048",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Mertxe Aizpurua Arzallus",
+          "lastname": "Aizpurua Arzallus",
+          "firstname": "Mertxe",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Euskal Herria Bildu"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 9
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 55
+      },
+      "agendaItem": {
+        "title": "Proposición de Ley Orgánica de reforma de la Ley Orgánica 6/1985, de\n1 de julio, del Poder Judicial y de reforma de la Ley 50/1981, de 30 de\ndiciembre, por la que se regula el Estatuto Orgánico del Ministerio\nFiscal.",
+        "officialTitle": "Proposición de Ley Orgánica de reforma de la Ley Orgánica 6/1985, de\n1 de julio, del Poder Judicial y de reforma de la Ley 50/1981, de 30 de\ndiciembre, por la que se regula el Estatuto Orgánico del Ministerio\nFiscal.",
+        "type": "regular",
+        "nativeType": "ES-ley"
+      },
+      "dateStart": "2024-07-04T13:01:00+02:00",
+      "dateEnd": "2024-07-04T13:08:00+02:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_053/cortes/15_000400_053_0_25085_737049.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1537049I",
+        "duration": 420.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_053_0_25085_737049",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Míriam Nogueras i Camero",
+          "lastname": "Nogueras i Camero",
+          "firstname": "Míriam",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Junts per Catalunya"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 10
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 55
+      },
+      "agendaItem": {
+        "title": "Proposición de Ley Orgánica de reforma de la Ley Orgánica 6/1985, de\n1 de julio, del Poder Judicial y de reforma de la Ley 50/1981, de 30 de\ndiciembre, por la que se regula el Estatuto Orgánico del Ministerio\nFiscal.",
+        "officialTitle": "Proposición de Ley Orgánica de reforma de la Ley Orgánica 6/1985, de\n1 de julio, del Poder Judicial y de reforma de la Ley 50/1981, de 30 de\ndiciembre, por la que se regula el Estatuto Orgánico del Ministerio\nFiscal.",
+        "type": "regular",
+        "nativeType": "ES-ley"
+      },
+      "dateStart": "2024-07-04T13:08:00+02:00",
+      "dateEnd": "2024-07-04T13:11:00+02:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_053/cortes/15_000400_053_0_25085_737050.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1537050I",
+        "duration": 180.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_053_0_25085_737050",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Miguel Tellado Filgueira",
+          "lastname": "Tellado Filgueira",
+          "firstname": "Miguel",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Popular en el Congreso"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 11
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 55
+      },
+      "agendaItem": {
+        "title": "Proposición de Ley Orgánica de reforma de la Ley Orgánica 6/1985, de\n1 de julio, del Poder Judicial y de reforma de la Ley 50/1981, de 30 de\ndiciembre, por la que se regula el Estatuto Orgánico del Ministerio\nFiscal.",
+        "officialTitle": "Proposición de Ley Orgánica de reforma de la Ley Orgánica 6/1985, de\n1 de julio, del Poder Judicial y de reforma de la Ley 50/1981, de 30 de\ndiciembre, por la que se regula el Estatuto Orgánico del Ministerio\nFiscal.",
+        "type": "regular",
+        "nativeType": "ES-ley"
+      },
+      "dateStart": "2024-07-04T13:11:00+02:00",
+      "dateEnd": "2024-07-04T13:19:00+02:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_053/cortes/15_000400_053_0_25085_737051.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1537051I",
+        "duration": 480.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_053_0_25085_737051",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Gabriel Rufián Romero",
+          "lastname": "Rufián Romero",
+          "firstname": "Gabriel",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Republicano"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 12
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 55
+      },
+      "agendaItem": {
+        "title": "Proposición de Ley Orgánica de reforma de la Ley Orgánica 6/1985, de\n1 de julio, del Poder Judicial y de reforma de la Ley 50/1981, de 30 de\ndiciembre, por la que se regula el Estatuto Orgánico del Ministerio\nFiscal.",
+        "officialTitle": "Proposición de Ley Orgánica de reforma de la Ley Orgánica 6/1985, de\n1 de julio, del Poder Judicial y de reforma de la Ley 50/1981, de 30 de\ndiciembre, por la que se regula el Estatuto Orgánico del Ministerio\nFiscal.",
+        "type": "regular",
+        "nativeType": "ES-ley"
+      },
+      "dateStart": "2024-07-04T13:19:00+02:00",
+      "dateEnd": "2024-07-04T13:20:00+02:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_053/cortes/15_000400_053_0_25085_737052.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1537052I",
+        "duration": 60.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_053_0_25085_737052",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Enrique Belda Pérez-Pedrero",
+          "lastname": "Belda Pérez-Pedrero",
+          "firstname": "Enrique",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Popular en el Congreso"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 13
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 55
+      },
+      "agendaItem": {
+        "title": "Proposición de Ley Orgánica de reforma de la Ley Orgánica 6/1985, de\n1 de julio, del Poder Judicial y de reforma de la Ley 50/1981, de 30 de\ndiciembre, por la que se regula el Estatuto Orgánico del Ministerio\nFiscal.",
+        "officialTitle": "Proposición de Ley Orgánica de reforma de la Ley Orgánica 6/1985, de\n1 de julio, del Poder Judicial y de reforma de la Ley 50/1981, de 30 de\ndiciembre, por la que se regula el Estatuto Orgánico del Ministerio\nFiscal.",
+        "type": "regular",
+        "nativeType": "ES-ley"
+      },
+      "dateStart": "2024-07-04T13:20:00+02:00",
+      "dateEnd": "2024-07-04T13:28:00+02:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_053/cortes/15_000400_053_0_25085_737053.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1537053I",
+        "duration": 480.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_053_0_25085_737053",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Enrique Fernando Santiago Romero",
+          "lastname": "Santiago Romero",
+          "firstname": "Enrique Fernando",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Plurinacional SUMAR"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 14
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 55
+      },
+      "agendaItem": {
+        "title": "Proposición de Ley Orgánica de reforma de la Ley Orgánica 6/1985, de\n1 de julio, del Poder Judicial y de reforma de la Ley 50/1981, de 30 de\ndiciembre, por la que se regula el Estatuto Orgánico del Ministerio\nFiscal.",
+        "officialTitle": "Proposición de Ley Orgánica de reforma de la Ley Orgánica 6/1985, de\n1 de julio, del Poder Judicial y de reforma de la Ley 50/1981, de 30 de\ndiciembre, por la que se regula el Estatuto Orgánico del Ministerio\nFiscal.",
+        "type": "regular",
+        "nativeType": "ES-ley"
+      },
+      "dateStart": "2024-07-04T13:28:00+02:00",
+      "dateEnd": "2024-07-04T13:36:00+02:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_053/cortes/15_000400_053_0_25085_737054.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1537054I",
+        "duration": 480.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_053_0_25085_737054",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "María José Rodríguez de Millán Parro",
+          "lastname": "Rodríguez de Millán Parro",
+          "firstname": "María José",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario VOX"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 15
+    }
+  ]
+}

@@ -1,0 +1,1286 @@
+{
+  "meta": {
+    "session": "15088",
+    "processing": {
+      "parse_media": "2026-05-23T07:17:41"
+    },
+    "dateStart": "2024-12-12T09:04:00+01:00",
+    "dateEnd": "2024-12-12T12:35:00+01:00"
+  },
+  "data": [
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 88
+      },
+      "agendaItem": {
+        "title": "Proposición de Ley Orgánica de protección de las libertades y\nseguridad ciudadana.",
+        "officialTitle": "Proposición de Ley Orgánica de protección de las libertades y\nseguridad ciudadana.",
+        "type": "regular",
+        "nativeType": "ES-ley"
+      },
+      "dateStart": "2024-12-12T09:04:00+01:00",
+      "dateEnd": "2024-12-12T09:19:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_085/cortes/15_000400_085_0_25578_744259.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1544259I",
+        "duration": 900.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_085_0_25578_744259",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Francisco Javier Ortega Smith-Molina",
+          "lastname": "Ortega Smith-Molina",
+          "firstname": "Francisco Javier",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario VOX"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 1
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 88
+      },
+      "agendaItem": {
+        "title": "Proposición de Ley Orgánica de protección de las libertades y\nseguridad ciudadana.",
+        "officialTitle": "Proposición de Ley Orgánica de protección de las libertades y\nseguridad ciudadana.",
+        "type": "regular",
+        "nativeType": "ES-ley"
+      },
+      "dateStart": "2024-12-12T09:19:00+01:00",
+      "dateEnd": "2024-12-12T09:33:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_085/cortes/15_000400_085_0_25578_744260.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1544260I",
+        "duration": 840.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_085_0_25578_744260",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Ana Belén Vázquez Blanco",
+          "lastname": "Vázquez Blanco",
+          "firstname": "Ana Belén",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Popular en el Congreso"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 2
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 88
+      },
+      "agendaItem": {
+        "title": "Proposición de Ley Orgánica de protección de las libertades y\nseguridad ciudadana.",
+        "officialTitle": "Proposición de Ley Orgánica de protección de las libertades y\nseguridad ciudadana.",
+        "type": "regular",
+        "nativeType": "ES-ley"
+      },
+      "dateStart": "2024-12-12T09:33:00+01:00",
+      "dateEnd": "2024-12-12T09:47:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_085/cortes/15_000400_085_0_25578_744261.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1544261I",
+        "duration": 840.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_085_0_25578_744261",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Enrique Fernando Santiago Romero",
+          "lastname": "Santiago Romero",
+          "firstname": "Enrique Fernando",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Plurinacional SUMAR"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 3
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 88
+      },
+      "agendaItem": {
+        "title": "Proposición de Ley Orgánica de protección de las libertades y\nseguridad ciudadana.",
+        "officialTitle": "Proposición de Ley Orgánica de protección de las libertades y\nseguridad ciudadana.",
+        "type": "regular",
+        "nativeType": "ES-ley"
+      },
+      "dateStart": "2024-12-12T09:47:00+01:00",
+      "dateEnd": "2024-12-12T09:54:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_085/cortes/15_000400_085_0_25578_744262.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1544262I",
+        "duration": 420.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_085_0_25578_744262",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Francisco Javier Ortega Smith-Molina",
+          "lastname": "Ortega Smith-Molina",
+          "firstname": "Francisco Javier",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario VOX"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 4
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 88
+      },
+      "agendaItem": {
+        "title": "Proposición de Ley Orgánica de protección de las libertades y\nseguridad ciudadana.",
+        "officialTitle": "Proposición de Ley Orgánica de protección de las libertades y\nseguridad ciudadana.",
+        "type": "regular",
+        "nativeType": "ES-ley"
+      },
+      "dateStart": "2024-12-12T09:54:00+01:00",
+      "dateEnd": "2024-12-12T10:01:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_085/cortes/15_000400_085_0_25578_744263.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1544263I",
+        "duration": 420.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_085_0_25578_744263",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Ana Belén Vázquez Blanco",
+          "lastname": "Vázquez Blanco",
+          "firstname": "Ana Belén",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Popular en el Congreso"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 5
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 88
+      },
+      "agendaItem": {
+        "title": "Proposición de Ley Orgánica de protección de las libertades y\nseguridad ciudadana.",
+        "officialTitle": "Proposición de Ley Orgánica de protección de las libertades y\nseguridad ciudadana.",
+        "type": "regular",
+        "nativeType": "ES-ley"
+      },
+      "dateStart": "2024-12-12T10:01:00+01:00",
+      "dateEnd": "2024-12-12T10:06:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_085/cortes/15_000400_085_0_25578_744264.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1544264I",
+        "duration": 300.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_085_0_25578_744264",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Enrique Fernando Santiago Romero",
+          "lastname": "Santiago Romero",
+          "firstname": "Enrique Fernando",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Plurinacional SUMAR"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 6
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 88
+      },
+      "agendaItem": {
+        "title": "Proposición de Ley Orgánica de protección de las libertades y\nseguridad ciudadana.",
+        "officialTitle": "Proposición de Ley Orgánica de protección de las libertades y\nseguridad ciudadana.",
+        "type": "regular",
+        "nativeType": "ES-ley"
+      },
+      "dateStart": "2024-12-12T10:06:00+01:00",
+      "dateEnd": "2024-12-12T10:09:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_085/cortes/15_000400_085_0_25578_744265.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1544265I",
+        "duration": 180.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_085_0_25578_744265",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Alberto Catalán Higueras",
+          "lastname": "Catalán Higueras",
+          "firstname": "Alberto",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Mixto"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 7
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 88
+      },
+      "agendaItem": {
+        "title": "Proposición de Ley Orgánica de protección de las libertades y\nseguridad ciudadana.",
+        "officialTitle": "Proposición de Ley Orgánica de protección de las libertades y\nseguridad ciudadana.",
+        "type": "regular",
+        "nativeType": "ES-ley"
+      },
+      "dateStart": "2024-12-12T10:09:00+01:00",
+      "dateEnd": "2024-12-12T10:13:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_085/cortes/15_000400_085_0_25578_744266.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1544266I",
+        "duration": 240.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_085_0_25578_744266",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Néstor Rego Candamil",
+          "lastname": "Rego Candamil",
+          "firstname": "Néstor",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Mixto"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 8
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 88
+      },
+      "agendaItem": {
+        "title": "Proposición de Ley Orgánica de protección de las libertades y\nseguridad ciudadana.",
+        "officialTitle": "Proposición de Ley Orgánica de protección de las libertades y\nseguridad ciudadana.",
+        "type": "regular",
+        "nativeType": "ES-ley"
+      },
+      "dateStart": "2024-12-12T10:13:00+01:00",
+      "dateEnd": "2024-12-12T10:17:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_085/cortes/15_000400_085_0_25578_744267.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1544267I",
+        "duration": 240.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_085_0_25578_744267",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Ione Belarra Urteaga",
+          "lastname": "Belarra Urteaga",
+          "firstname": "Ione",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Mixto"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 9
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 88
+      },
+      "agendaItem": {
+        "title": "Proposición de Ley Orgánica de protección de las libertades y\nseguridad ciudadana.",
+        "officialTitle": "Proposición de Ley Orgánica de protección de las libertades y\nseguridad ciudadana.",
+        "type": "regular",
+        "nativeType": "ES-ley"
+      },
+      "dateStart": "2024-12-12T10:17:00+01:00",
+      "dateEnd": "2024-12-12T10:21:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_085/cortes/15_000400_085_0_25578_744268.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1544268I",
+        "duration": 240.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_085_0_25578_744268",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Mikel Legarda Uriarte",
+          "lastname": "Legarda Uriarte",
+          "firstname": "Mikel",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Vasco (EAJ-PNV)"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 10
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 88
+      },
+      "agendaItem": {
+        "title": "Proposición de Ley Orgánica de protección de las libertades y\nseguridad ciudadana.",
+        "officialTitle": "Proposición de Ley Orgánica de protección de las libertades y\nseguridad ciudadana.",
+        "type": "regular",
+        "nativeType": "ES-ley"
+      },
+      "dateStart": "2024-12-12T10:21:00+01:00",
+      "dateEnd": "2024-12-12T10:30:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_085/cortes/15_000400_085_0_25578_744269.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1544269I",
+        "duration": 540.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_085_0_25578_744269",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Jon Iñarritu García",
+          "lastname": "Iñarritu García",
+          "firstname": "Jon",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Euskal Herria Bildu"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 11
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 88
+      },
+      "agendaItem": {
+        "title": "Proposición de Ley Orgánica de protección de las libertades y\nseguridad ciudadana.",
+        "officialTitle": "Proposición de Ley Orgánica de protección de las libertades y\nseguridad ciudadana.",
+        "type": "regular",
+        "nativeType": "ES-ley"
+      },
+      "dateStart": "2024-12-12T10:30:00+01:00",
+      "dateEnd": "2024-12-12T10:38:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_085/cortes/15_000400_085_0_25578_744270.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1544270I",
+        "duration": 480.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_085_0_25578_744270",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Francesc-Marc Álvaro Vidal",
+          "lastname": "Álvaro Vidal",
+          "firstname": "Francesc-Marc",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Republicano"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 12
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 88
+      },
+      "agendaItem": {
+        "title": "Proposición de Ley Orgánica de protección de las libertades y\nseguridad ciudadana.",
+        "officialTitle": "Proposición de Ley Orgánica de protección de las libertades y\nseguridad ciudadana.",
+        "type": "regular",
+        "nativeType": "ES-ley"
+      },
+      "dateStart": "2024-12-12T10:38:00+01:00",
+      "dateEnd": "2024-12-12T10:46:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_085/cortes/15_000400_085_0_25578_744271.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1544271I",
+        "duration": 480.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_085_0_25578_744271",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "María Carmen Sánchez Díaz",
+          "lastname": "Sánchez Díaz",
+          "firstname": "María Carmen",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Socialista"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 13
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 88
+      },
+      "agendaItem": {
+        "title": "Proposición de Ley Orgánica de protección de las libertades y\nseguridad ciudadana.",
+        "officialTitle": "Proposición de Ley Orgánica de protección de las libertades y\nseguridad ciudadana.",
+        "type": "regular",
+        "nativeType": "ES-ley"
+      },
+      "dateStart": "2024-12-12T10:46:00+01:00",
+      "dateEnd": "2024-12-12T10:47:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_085/cortes/15_000400_085_0_25578_744273.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1544273I",
+        "duration": 60.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_085_0_25578_744273",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "María Jesús Moro Almaraz",
+          "lastname": "Moro Almaraz",
+          "firstname": "María Jesús",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Popular en el Congreso"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 14
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 88
+      },
+      "agendaItem": {
+        "title": "Proposición de Ley Orgánica de protección de las libertades y\nseguridad ciudadana.",
+        "officialTitle": "Proposición de Ley Orgánica de protección de las libertades y\nseguridad ciudadana.",
+        "type": "regular",
+        "nativeType": "ES-ley"
+      },
+      "dateStart": "2024-12-12T10:47:00+01:00",
+      "dateEnd": "2024-12-12T10:48:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_085/cortes/15_000400_085_0_25578_744274.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1544274I",
+        "duration": 60.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_085_0_25578_744274",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Alfonso Rodríguez Gómez de Celis",
+          "lastname": "Rodríguez Gómez de Celis",
+          "firstname": "Alfonso",
+          "type": "person",
+          "role": "Vicepresidente primero de la Mesa del Congreso de los Diputados",
+          "faction": {
+            "label": "Grupo Parlamentario Socialista"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 15
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 88
+      },
+      "agendaItem": {
+        "title": "Proposición de Ley Orgánica de protección de las libertades y\nseguridad ciudadana.",
+        "officialTitle": "Proposición de Ley Orgánica de protección de las libertades y\nseguridad ciudadana.",
+        "type": "regular",
+        "nativeType": "ES-ley"
+      },
+      "dateStart": "2024-12-12T10:48:00+01:00",
+      "dateEnd": "2024-12-12T10:49:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_085/cortes/15_000400_085_0_25578_744275.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1544275I",
+        "duration": 60.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_085_0_25578_744275",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Patxi López Álvarez",
+          "lastname": "López Álvarez",
+          "firstname": "Patxi",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Socialista"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 16
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 88
+      },
+      "agendaItem": {
+        "title": "Proposición de Ley Orgánica de protección de las libertades y\nseguridad ciudadana.",
+        "officialTitle": "Proposición de Ley Orgánica de protección de las libertades y\nseguridad ciudadana.",
+        "type": "regular",
+        "nativeType": "ES-ley"
+      },
+      "dateStart": "2024-12-12T10:49:00+01:00",
+      "dateEnd": "2024-12-12T10:50:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_085/cortes/15_000400_085_0_25578_744276.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1544276I",
+        "duration": 60.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_085_0_25578_744276",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Francisco Javier Ortega Smith-Molina",
+          "lastname": "Ortega Smith-Molina",
+          "firstname": "Francisco Javier",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario VOX"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 17
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 88
+      },
+      "agendaItem": {
+        "title": "Real Decreto-ley 7/2024, de 11 de noviembre, por el que se adoptan\nmedidas urgentes para el impulso del Plan de respuesta inmediata,\nreconstrucción y relanzamiento frente a los daños causados por la\nDepresión Aislada en Niveles Altos (DANA) en diferentes municipios entre\nel 28 de octubre y el 4 de noviembre de 2024.",
+        "officialTitle": "Real Decreto-ley 7/2024, de 11 de noviembre, por el que se adoptan\nmedidas urgentes para el impulso del Plan de respuesta inmediata,\nreconstrucción y relanzamiento frente a los daños causados por la\nDepresión Aislada en Niveles Altos (DANA) en diferentes municipios entre\nel 28 de octubre y el 4 de noviembre de 2024.",
+        "type": "regular",
+        "nativeType": "ES-ley"
+      },
+      "dateStart": "2024-12-12T10:51:00+01:00",
+      "dateEnd": "2024-12-12T11:03:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_085/cortes/15_000400_085_0_25578_744279.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1544279I",
+        "duration": 720.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_085_0_25578_744279",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Félix Bolaños García",
+          "lastname": "Bolaños García",
+          "firstname": "Félix",
+          "type": "member of government",
+          "role": "Ministro de la Presidencia, Justicia y Relaciones con las Cortes",
+          "faction": {
+            "label": "Grupo Parlamentario Socialista"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 18
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 88
+      },
+      "agendaItem": {
+        "title": "Real Decreto-ley 7/2024, de 11 de noviembre, por el que se adoptan\nmedidas urgentes para el impulso del Plan de respuesta inmediata,\nreconstrucción y relanzamiento frente a los daños causados por la\nDepresión Aislada en Niveles Altos (DANA) en diferentes municipios entre\nel 28 de octubre y el 4 de noviembre de 2024.",
+        "officialTitle": "Real Decreto-ley 7/2024, de 11 de noviembre, por el que se adoptan\nmedidas urgentes para el impulso del Plan de respuesta inmediata,\nreconstrucción y relanzamiento frente a los daños causados por la\nDepresión Aislada en Niveles Altos (DANA) en diferentes municipios entre\nel 28 de octubre y el 4 de noviembre de 2024.",
+        "type": "regular",
+        "nativeType": "ES-ley"
+      },
+      "dateStart": "2024-12-12T11:03:00+01:00",
+      "dateEnd": "2024-12-12T11:12:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_085/cortes/15_000400_085_0_25578_744280.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1544280I",
+        "duration": 540.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_085_0_25578_744280",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Martina Velarde Gómez",
+          "lastname": "Velarde Gómez",
+          "firstname": "Martina",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Mixto"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 19
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 88
+      },
+      "agendaItem": {
+        "title": "Real Decreto-ley 7/2024, de 11 de noviembre, por el que se adoptan\nmedidas urgentes para el impulso del Plan de respuesta inmediata,\nreconstrucción y relanzamiento frente a los daños causados por la\nDepresión Aislada en Niveles Altos (DANA) en diferentes municipios entre\nel 28 de octubre y el 4 de noviembre de 2024.",
+        "officialTitle": "Real Decreto-ley 7/2024, de 11 de noviembre, por el que se adoptan\nmedidas urgentes para el impulso del Plan de respuesta inmediata,\nreconstrucción y relanzamiento frente a los daños causados por la\nDepresión Aislada en Niveles Altos (DANA) en diferentes municipios entre\nel 28 de octubre y el 4 de noviembre de 2024.",
+        "type": "regular",
+        "nativeType": "ES-ley"
+      },
+      "dateStart": "2024-12-12T11:12:00+01:00",
+      "dateEnd": "2024-12-12T11:15:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_085/cortes/15_000400_085_0_25578_744281.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1544281I",
+        "duration": 180.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_085_0_25578_744281",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Idoia Sagastizabal Unzetabarrenetxea",
+          "lastname": "Sagastizabal Unzetabarrenetxea",
+          "firstname": "Idoia",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Vasco (EAJ-PNV)"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 20
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 88
+      },
+      "agendaItem": {
+        "title": "Real Decreto-ley 7/2024, de 11 de noviembre, por el que se adoptan\nmedidas urgentes para el impulso del Plan de respuesta inmediata,\nreconstrucción y relanzamiento frente a los daños causados por la\nDepresión Aislada en Niveles Altos (DANA) en diferentes municipios entre\nel 28 de octubre y el 4 de noviembre de 2024.",
+        "officialTitle": "Real Decreto-ley 7/2024, de 11 de noviembre, por el que se adoptan\nmedidas urgentes para el impulso del Plan de respuesta inmediata,\nreconstrucción y relanzamiento frente a los daños causados por la\nDepresión Aislada en Niveles Altos (DANA) en diferentes municipios entre\nel 28 de octubre y el 4 de noviembre de 2024.",
+        "type": "regular",
+        "nativeType": "ES-ley"
+      },
+      "dateStart": "2024-12-12T11:15:00+01:00",
+      "dateEnd": "2024-12-12T11:18:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_085/cortes/15_000400_085_0_25578_744282.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1544282I",
+        "duration": 180.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_085_0_25578_744282",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Mertxe Aizpurua Arzallus",
+          "lastname": "Aizpurua Arzallus",
+          "firstname": "Mertxe",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Euskal Herria Bildu"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 21
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 88
+      },
+      "agendaItem": {
+        "title": "Real Decreto-ley 7/2024, de 11 de noviembre, por el que se adoptan\nmedidas urgentes para el impulso del Plan de respuesta inmediata,\nreconstrucción y relanzamiento frente a los daños causados por la\nDepresión Aislada en Niveles Altos (DANA) en diferentes municipios entre\nel 28 de octubre y el 4 de noviembre de 2024.",
+        "officialTitle": "Real Decreto-ley 7/2024, de 11 de noviembre, por el que se adoptan\nmedidas urgentes para el impulso del Plan de respuesta inmediata,\nreconstrucción y relanzamiento frente a los daños causados por la\nDepresión Aislada en Niveles Altos (DANA) en diferentes municipios entre\nel 28 de octubre y el 4 de noviembre de 2024.",
+        "type": "regular",
+        "nativeType": "ES-ley"
+      },
+      "dateStart": "2024-12-12T11:18:00+01:00",
+      "dateEnd": "2024-12-12T11:25:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_085/cortes/15_000400_085_0_25578_744283.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1544283I",
+        "duration": 420.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_085_0_25578_744283",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Jordi Salvador i Duch",
+          "lastname": "Salvador i Duch",
+          "firstname": "Jordi",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Republicano"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 22
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 88
+      },
+      "agendaItem": {
+        "title": "Real Decreto-ley 7/2024, de 11 de noviembre, por el que se adoptan\nmedidas urgentes para el impulso del Plan de respuesta inmediata,\nreconstrucción y relanzamiento frente a los daños causados por la\nDepresión Aislada en Niveles Altos (DANA) en diferentes municipios entre\nel 28 de octubre y el 4 de noviembre de 2024.",
+        "officialTitle": "Real Decreto-ley 7/2024, de 11 de noviembre, por el que se adoptan\nmedidas urgentes para el impulso del Plan de respuesta inmediata,\nreconstrucción y relanzamiento frente a los daños causados por la\nDepresión Aislada en Niveles Altos (DANA) en diferentes municipios entre\nel 28 de octubre y el 4 de noviembre de 2024.",
+        "type": "regular",
+        "nativeType": "ES-ley"
+      },
+      "dateStart": "2024-12-12T11:25:00+01:00",
+      "dateEnd": "2024-12-12T11:34:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_085/cortes/15_000400_085_0_25578_744284.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1544284I",
+        "duration": 540.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_085_0_25578_744284",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Àgueda Micó Micó",
+          "lastname": "Micó Micó",
+          "firstname": "Àgueda",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Plurinacional SUMAR"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 23
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 88
+      },
+      "agendaItem": {
+        "title": "Real Decreto-ley 7/2024, de 11 de noviembre, por el que se adoptan\nmedidas urgentes para el impulso del Plan de respuesta inmediata,\nreconstrucción y relanzamiento frente a los daños causados por la\nDepresión Aislada en Niveles Altos (DANA) en diferentes municipios entre\nel 28 de octubre y el 4 de noviembre de 2024.",
+        "officialTitle": "Real Decreto-ley 7/2024, de 11 de noviembre, por el que se adoptan\nmedidas urgentes para el impulso del Plan de respuesta inmediata,\nreconstrucción y relanzamiento frente a los daños causados por la\nDepresión Aislada en Niveles Altos (DANA) en diferentes municipios entre\nel 28 de octubre y el 4 de noviembre de 2024.",
+        "type": "regular",
+        "nativeType": "ES-ley"
+      },
+      "dateStart": "2024-12-12T11:34:00+01:00",
+      "dateEnd": "2024-12-12T11:43:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_085/cortes/15_000400_085_0_25578_744285.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1544285I",
+        "duration": 540.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_085_0_25578_744285",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "José María Figaredo Álvarez-Sala",
+          "lastname": "Figaredo Álvarez-Sala",
+          "firstname": "José María",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario VOX"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 24
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 88
+      },
+      "agendaItem": {
+        "title": "Real Decreto-ley 7/2024, de 11 de noviembre, por el que se adoptan\nmedidas urgentes para el impulso del Plan de respuesta inmediata,\nreconstrucción y relanzamiento frente a los daños causados por la\nDepresión Aislada en Niveles Altos (DANA) en diferentes municipios entre\nel 28 de octubre y el 4 de noviembre de 2024.",
+        "officialTitle": "Real Decreto-ley 7/2024, de 11 de noviembre, por el que se adoptan\nmedidas urgentes para el impulso del Plan de respuesta inmediata,\nreconstrucción y relanzamiento frente a los daños causados por la\nDepresión Aislada en Niveles Altos (DANA) en diferentes municipios entre\nel 28 de octubre y el 4 de noviembre de 2024.",
+        "type": "regular",
+        "nativeType": "ES-ley"
+      },
+      "dateStart": "2024-12-12T11:43:00+01:00",
+      "dateEnd": "2024-12-12T11:51:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_085/cortes/15_000400_085_0_25578_744286.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1544286I",
+        "duration": 480.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_085_0_25578_744286",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Artemi Rallo Lombarte",
+          "lastname": "Rallo Lombarte",
+          "firstname": "Artemi",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Socialista"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 25
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 88
+      },
+      "agendaItem": {
+        "title": "Real Decreto-ley 7/2024, de 11 de noviembre, por el que se adoptan\nmedidas urgentes para el impulso del Plan de respuesta inmediata,\nreconstrucción y relanzamiento frente a los daños causados por la\nDepresión Aislada en Niveles Altos (DANA) en diferentes municipios entre\nel 28 de octubre y el 4 de noviembre de 2024.",
+        "officialTitle": "Real Decreto-ley 7/2024, de 11 de noviembre, por el que se adoptan\nmedidas urgentes para el impulso del Plan de respuesta inmediata,\nreconstrucción y relanzamiento frente a los daños causados por la\nDepresión Aislada en Niveles Altos (DANA) en diferentes municipios entre\nel 28 de octubre y el 4 de noviembre de 2024.",
+        "type": "regular",
+        "nativeType": "ES-ley"
+      },
+      "dateStart": "2024-12-12T11:51:00+01:00",
+      "dateEnd": "2024-12-12T12:00:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_085/cortes/15_000400_085_0_25578_744287.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1544287I",
+        "duration": 540.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_085_0_25578_744287",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Juan Bravo Baena",
+          "lastname": "Bravo Baena",
+          "firstname": "Juan",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Popular en el Congreso"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 26
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 88
+      },
+      "agendaItem": {
+        "title": "Real Decreto-ley 7/2024, de 11 de noviembre, por el que se adoptan\nmedidas urgentes para el impulso del Plan de respuesta inmediata,\nreconstrucción y relanzamiento frente a los daños causados por la\nDepresión Aislada en Niveles Altos (DANA) en diferentes municipios entre\nel 28 de octubre y el 4 de noviembre de 2024.",
+        "officialTitle": "Real Decreto-ley 7/2024, de 11 de noviembre, por el que se adoptan\nmedidas urgentes para el impulso del Plan de respuesta inmediata,\nreconstrucción y relanzamiento frente a los daños causados por la\nDepresión Aislada en Niveles Altos (DANA) en diferentes municipios entre\nel 28 de octubre y el 4 de noviembre de 2024.",
+        "type": "regular",
+        "nativeType": "ES-ley"
+      },
+      "dateStart": "2024-12-12T12:00:00+01:00",
+      "dateEnd": "2024-12-12T12:05:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_085/cortes/15_000400_085_0_25578_744288.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1544288I",
+        "duration": 300.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_085_0_25578_744288",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Félix Bolaños García",
+          "lastname": "Bolaños García",
+          "firstname": "Félix",
+          "type": "member of government",
+          "role": "Ministro de la Presidencia, Justicia y Relaciones con las Cortes",
+          "faction": {
+            "label": "Grupo Parlamentario Socialista"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 27
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 88
+      },
+      "agendaItem": {
+        "title": "Proposición de Ley para la mejora de la protección de las personas\ndonantes en vivo de órganos o tejidos para su posterior trasplante.",
+        "officialTitle": "Proposición de Ley para la mejora de la protección de las personas\ndonantes en vivo de órganos o tejidos para su posterior trasplante.",
+        "type": "regular",
+        "nativeType": "ES-ley"
+      },
+      "dateStart": "2024-12-12T12:06:00+01:00",
+      "dateEnd": "2024-12-12T12:10:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_085/cortes/15_000400_085_1_25580_744296.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1544296I",
+        "duration": 240.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_085_1_25580_744296",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Vicenç Vidal Matas",
+          "lastname": "Vidal Matas",
+          "firstname": "Vicenç",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Plurinacional SUMAR"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 28
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 88
+      },
+      "agendaItem": {
+        "title": "Proposición de Ley para la mejora de la protección de las personas\ndonantes en vivo de órganos o tejidos para su posterior trasplante.",
+        "officialTitle": "Proposición de Ley para la mejora de la protección de las personas\ndonantes en vivo de órganos o tejidos para su posterior trasplante.",
+        "type": "regular",
+        "nativeType": "ES-ley"
+      },
+      "dateStart": "2024-12-12T12:10:00+01:00",
+      "dateEnd": "2024-12-12T12:19:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_085/cortes/15_000400_085_1_25580_744297.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1544297I",
+        "duration": 540.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_085_1_25580_744297",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "María de los Reyes Romero Vilches",
+          "lastname": "Romero Vilches",
+          "firstname": "María de los Reyes",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario VOX"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 29
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 88
+      },
+      "agendaItem": {
+        "title": "Proposición de Ley para la mejora de la protección de las personas\ndonantes en vivo de órganos o tejidos para su posterior trasplante.",
+        "officialTitle": "Proposición de Ley para la mejora de la protección de las personas\ndonantes en vivo de órganos o tejidos para su posterior trasplante.",
+        "type": "regular",
+        "nativeType": "ES-ley"
+      },
+      "dateStart": "2024-12-12T12:19:00+01:00",
+      "dateEnd": "2024-12-12T12:27:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_085/cortes/15_000400_085_1_25580_744298.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1544298I",
+        "duration": 480.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_085_1_25580_744298",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "María Mercè Perea i Conillas",
+          "lastname": "Perea i Conillas",
+          "firstname": "María Mercè",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Socialista"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 30
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 88
+      },
+      "agendaItem": {
+        "title": "Proposición de Ley para la mejora de la protección de las personas\ndonantes en vivo de órganos o tejidos para su posterior trasplante.",
+        "officialTitle": "Proposición de Ley para la mejora de la protección de las personas\ndonantes en vivo de órganos o tejidos para su posterior trasplante.",
+        "type": "regular",
+        "nativeType": "ES-ley"
+      },
+      "dateStart": "2024-12-12T12:27:00+01:00",
+      "dateEnd": "2024-12-12T12:35:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_085/cortes/15_000400_085_1_25580_744299.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1544299I",
+        "duration": 480.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_085_1_25580_744299",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Antonio Cavacasillas Rodríguez",
+          "lastname": "Cavacasillas Rodríguez",
+          "firstname": "Antonio",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Popular en el Congreso"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 31
+    }
+  ]
+}

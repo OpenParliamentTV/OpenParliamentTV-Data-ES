@@ -1,0 +1,2814 @@
+{
+  "meta": {
+    "session": "15001",
+    "processing": {
+      "parse_proceedings": "2026-05-23T19:13:19"
+    },
+    "dateStart": null,
+    "dateEnd": null
+  },
+  "data": [
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 1
+      },
+      "speechIndex": 1001,
+      "originID": "DSCD-15-PL-1-1",
+      "originTextID": "DSCD-15-PL-1-1",
+      "agendaItem": {
+        "title": "Sesión plenaria",
+        "officialTitle": "Sesión plenaria"
+      },
+      "people": [
+        {
+          "label": "Narbona Ruiz",
+          "lastname": "Narbona Ruiz",
+          "context": "president",
+          "type": "memberOfParliament",
+          "role": "Presidenta De La Mesa De Edad"
+        }
+      ],
+      "textContents": [
+        {
+          "type": "proceedings",
+          "language": "ES-es",
+          "originTextID": "DSCD-15-PL-1-1",
+          "sourceURI": "https://www.congreso.es/public_oficiales/L15/CONG/DS/PL/DSCD-15-PL-1.PDF#page=3",
+          "creator": "Congreso de los Diputados",
+          "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+          "textBody": [
+            {
+              "type": "speech",
+              "text": "Señorías, vamos a dar comienzo a la sesión. De acuerdo con lo dispuesto en el artículo 2 del Reglamento del Congreso de los Diputados, la Mesa de Edad ha quedado constituida por el diputado electo de mayor edad de los presentes, doña Cristina Narbona Ruiz, como presidenta y por los dos más jóvenes como secretarios, a saber, doña Ada Santana Aguilera y don Ferran Verdejo Vicente, según los datos que constan en la Cámara. Página 4 Señorías, me permitirán unas muy breves palabras antes de dar comienzo formal a esta sesión. Creo que todos podemos compartir que, más allá de las diferencias que existen entre los idearios de cada uno de los grupos parlamentarios que conforman esta Cámara, a todos nos incumbe por igual la extraordinaria responsabilidad que significa la confianza que han depositado en nosotros los ciudadanos con su voto. Más allá, por lo tanto, de esas diferencias lógicas, todos estamos obligados a cumplir con esa confianza que se nos ha otorgado. Creo que deberíamos tener muy en cuenta, al menos, la necesidad de demostrar, en primer lugar, honestidad; en segundo lugar, rigor; en tercer lugar, empatía, y en cuarto lugar, respeto. Honestidad, integridad, ejemplaridad, rendición de cuentas para que contribuyamos a que nuestra sociedad considere la política como debería ser considerada: como esa capacidad para mejorar la vida de las personas y no como un instrumento para intereses particulares. Estamos aquí para trabajar por el interés general, por la preservación de los bienes comunes. Además de la honestidad, de la integridad y de la necesaria rendición de cuentas y la transparencia en la que estamos todos y todas obligados, también estamos obligados, señorías, al máximo rigor en el ejercicio de nuestras funciones de legislación y de control al Gobierno. Un rigor que es más necesario que nunca en un mundo extraordinariamente complejo, que se enfrenta con desafíos para cuya solución todos y cada uno de nosotros y de nosotras debe tener muy en cuenta la ciencia, el conocimiento científico, los expertos en cada materia. No se puede legislar, no se puede avanzar en políticas como las relativas a la emergencia climática sin tener en cuenta a la comunidad científica. No se puede avanzar en la lucha contra todo tipo de violencia contra las mujeres, por el hecho de ser mujeres, sin comprender mejor cómo podemos prevenir y evitar esta lacra. No se puede tampoco trabajar como parlamentarios en cuanto a la transformación digital de nuestro sistema productivo sin tener el apoyo de aquellos expertos que pueden orientarnos en nuestra labor. Aquí no estamos encerrados en una burbuja de cristal, necesitamos a las personas que más saben de cada tema para poder cumplir con nuestra labor con la máxima eficiencia. Señorías, por supuesto, para ello también necesitamos desarrollar el máximo de empatía, de diálogo con los ciudadanos, de capacidad de escucha y también de capacidad de explicación. La política si no se explica, si no llega a los ciudadanos, no cumple con toda su función. De manera que, también, empatía. Toda la empatía que podamos. Cada uno, en nuestras circunscripciones, debemos ser identificables por los ciudadanos por la proximidad que demostremos y la comprensión de sus problemas. Por último, pero no menos importante, señorías, estamos todos y todas obligados a practicar el respeto. El respeto es la materia prima principal de la convivencia y nosotros, como diputados y diputadas, tenemos la responsabilidad y la obligación de mejorar la convivencia en nuestro país. Lo que aquí decimos, cómo nos comportamos, cómo actuamos, en absoluto se queda dentro de las paredes de este edificio, trasciende. Los ciudadanos nos están viendo, nos están escuchando, ven cómo nos comportamos y tenemos que tener en cuenta que el respeto que aquí practiquemos los unos con los otros es el respeto que le debemos a todos y cada uno de los ciudadanos, hayan votado a quien hayan votado. Señorías, España -?nos dice la Constitución- es un Estado social y democrático de derecho; un Estado cuyo ordenamiento jurídico se rige por los principios de libertad, de justicia, de igualdad y de pluralismo político. Dentro de un rato todos acataremos la Constitución. Esto también debe unirnos: el respeto a esos principios fundamentales. En este país costó mucho, costó sangre, costó dolor que pudiéramos disfrutar de una democracia. Hoy estamos aquí para practicarla. Muchas gracias, señorías. Pasamos a iniciar la sesión. (Aplausos). REAL DECRETO DE CONVOCATORIA DE ELECCIONES.",
+              "sentences": [
+                {
+                  "text": "Señorías, vamos a dar comienzo a la sesión."
+                },
+                {
+                  "text": "De acuerdo con lo dispuesto en el artículo 2 del Reglamento del Congreso de los Diputados, la Mesa de Edad ha quedado constituida por el diputado electo de mayor edad de los presentes, doña Cristina Narbona Ruiz, como presidenta y por los dos más jóvenes como secretarios, a saber, doña Ada Santana Aguilera y don Ferran Verdejo Vicente, según los datos que constan en la Cámara."
+                },
+                {
+                  "text": "Página 4 Señorías, me permitirán unas muy breves palabras antes de dar comienzo formal a esta sesión."
+                },
+                {
+                  "text": "Creo que todos podemos compartir que, más allá de las diferencias que existen entre los idearios de cada uno de los grupos parlamentarios que conforman esta Cámara, a todos nos incumbe por igual la extraordinaria responsabilidad que significa la confianza que han depositado en nosotros los ciudadanos con su voto."
+                },
+                {
+                  "text": "Más allá, por lo tanto, de esas diferencias lógicas, todos estamos obligados a cumplir con esa confianza que se nos ha otorgado."
+                },
+                {
+                  "text": "Creo que deberíamos tener muy en cuenta, al menos, la necesidad de demostrar, en primer lugar, honestidad; en segundo lugar, rigor; en tercer lugar, empatía, y en cuarto lugar, respeto."
+                },
+                {
+                  "text": "Honestidad, integridad, ejemplaridad, rendición de cuentas para que contribuyamos a que nuestra sociedad considere la política como debería ser considerada: como esa capacidad para mejorar la vida de las personas y no como un instrumento para intereses particulares."
+                },
+                {
+                  "text": "Estamos aquí para trabajar por el interés general, por la preservación de los bienes comunes."
+                },
+                {
+                  "text": "Además de la honestidad, de la integridad y de la necesaria rendición de cuentas y la transparencia en la que estamos todos y todas obligados, también estamos obligados, señorías, al máximo rigor en el ejercicio de nuestras funciones de legislación y de control al Gobierno."
+                },
+                {
+                  "text": "Un rigor que es más necesario que nunca en un mundo extraordinariamente complejo, que se enfrenta con desafíos para cuya solución todos y cada uno de nosotros y de nosotras debe tener muy en cuenta la ciencia, el conocimiento científico, los expertos en cada materia."
+                },
+                {
+                  "text": "No se puede legislar, no se puede avanzar en políticas como las relativas a la emergencia climática sin tener en cuenta a la comunidad científica."
+                },
+                {
+                  "text": "No se puede avanzar en la lucha contra todo tipo de violencia contra las mujeres, por el hecho de ser mujeres, sin comprender mejor cómo podemos prevenir y evitar esta lacra."
+                },
+                {
+                  "text": "No se puede tampoco trabajar como parlamentarios en cuanto a la transformación digital de nuestro sistema productivo sin tener el apoyo de aquellos expertos que pueden orientarnos en nuestra labor."
+                },
+                {
+                  "text": "Aquí no estamos encerrados en una burbuja de cristal, necesitamos a las personas que más saben de cada tema para poder cumplir con nuestra labor con la máxima eficiencia."
+                },
+                {
+                  "text": "Señorías, por supuesto, para ello también necesitamos desarrollar el máximo de empatía, de diálogo con los ciudadanos, de capacidad de escucha y también de capacidad de explicación."
+                },
+                {
+                  "text": "La política si no se explica, si no llega a los ciudadanos, no cumple con toda su función."
+                },
+                {
+                  "text": "De manera que, también, empatía."
+                },
+                {
+                  "text": "Toda la empatía que podamos."
+                },
+                {
+                  "text": "Cada uno, en nuestras circunscripciones, debemos ser identificables por los ciudadanos por la proximidad que demostremos y la comprensión de sus problemas."
+                },
+                {
+                  "text": "Por último, pero no menos importante, señorías, estamos todos y todas obligados a practicar el respeto."
+                },
+                {
+                  "text": "El respeto es la materia prima principal de la convivencia y nosotros, como diputados y diputadas, tenemos la responsabilidad y la obligación de mejorar la convivencia en nuestro país."
+                },
+                {
+                  "text": "Lo que aquí decimos, cómo nos comportamos, cómo actuamos, en absoluto se queda dentro de las paredes de este edificio, trasciende."
+                },
+                {
+                  "text": "Los ciudadanos nos están viendo, nos están escuchando, ven cómo nos comportamos y tenemos que tener en cuenta que el respeto que aquí practiquemos los unos con los otros es el respeto que le debemos a todos y cada uno de los ciudadanos, hayan votado a quien hayan votado."
+                },
+                {
+                  "text": "Señorías, España -?nos dice la Constitución- es un Estado social y democrático de derecho; un Estado cuyo ordenamiento jurídico se rige por los principios de libertad, de justicia, de igualdad y de pluralismo político."
+                },
+                {
+                  "text": "Dentro de un rato todos acataremos la Constitución."
+                },
+                {
+                  "text": "Esto también debe unirnos: el respeto a esos principios fundamentales."
+                },
+                {
+                  "text": "En este país costó mucho, costó sangre, costó dolor que pudiéramos disfrutar de una democracia."
+                },
+                {
+                  "text": "Hoy estamos aquí para practicarla."
+                },
+                {
+                  "text": "Muchas gracias, señorías."
+                },
+                {
+                  "text": "Pasamos a iniciar la sesión. ("
+                },
+                {
+                  "text": "Aplausos)."
+                },
+                {
+                  "text": "REAL DECRETO DE CONVOCATORIA DE ELECCIONES."
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "documents": [],
+      "debug": {
+        "page": 3
+      }
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 1
+      },
+      "speechIndex": 1002,
+      "originID": "DSCD-15-PL-1-2",
+      "originTextID": "DSCD-15-PL-1-2",
+      "agendaItem": {
+        "title": "Sesión plenaria",
+        "officialTitle": "Sesión plenaria"
+      },
+      "people": [
+        {
+          "label": "Narbona Ruiz",
+          "lastname": "Narbona Ruiz",
+          "context": "president",
+          "type": "memberOfParliament",
+          "role": "Presidenta De La Mesa De Edad"
+        }
+      ],
+      "textContents": [
+        {
+          "type": "proceedings",
+          "language": "ES-es",
+          "originTextID": "DSCD-15-PL-1-2",
+          "sourceURI": "https://www.congreso.es/public_oficiales/L15/CONG/DS/PL/DSCD-15-PL-1.PDF#page=4",
+          "creator": "Congreso de los Diputados",
+          "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+          "textBody": [
+            {
+              "type": "speech",
+              "text": "Señorías, de conformidad con lo establecido por el artículo 3 del Reglamento, por los señores secretarios de la Mesa de Edad, se va a dar lectura al real decreto de convocatoria, a la relación de las señoras y señores diputados electos y a la relación de recursos contencioso-electorales interpuestos. La señora secretaria primera de la Mesa de Edad tiene la palabra.",
+              "sentences": [
+                {
+                  "text": "Señorías, de conformidad con lo establecido por el artículo 3 del Reglamento, por los señores secretarios de la Mesa de Edad, se va a dar lectura al real decreto de convocatoria, a la relación de las señoras y señores diputados electos y a la relación de recursos contencioso-electorales interpuestos."
+                },
+                {
+                  "text": "La señora secretaria primera de la Mesa de Edad tiene la palabra."
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "documents": [],
+      "debug": {
+        "page": 4
+      }
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 1
+      },
+      "speechIndex": 1003,
+      "originID": "DSCD-15-PL-1-3",
+      "originTextID": "DSCD-15-PL-1-3",
+      "agendaItem": {
+        "title": "Sesión plenaria",
+        "officialTitle": "Sesión plenaria"
+      },
+      "people": [
+        {
+          "label": "Santana Aguilera",
+          "lastname": "Santana Aguilera",
+          "context": "main-speaker",
+          "type": "memberOfParliament",
+          "role": "Secretaria De La Mesa De Edad"
+        }
+      ],
+      "textContents": [
+        {
+          "type": "proceedings",
+          "language": "ES-es",
+          "originTextID": "DSCD-15-PL-1-3",
+          "sourceURI": "https://www.congreso.es/public_oficiales/L15/CONG/DS/PL/DSCD-15-PL-1.PDF#page=4",
+          "creator": "Congreso de los Diputados",
+          "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+          "textBody": [
+            {
+              "type": "speech",
+              "text": "Artículo 5 del Real Decreto 400/2023, de 29 de mayo, de disolución del Congreso de los Diputados y del Senado y de convocatoria de elecciones: Celebradas las elecciones convocadas por este real decreto, las Cámaras resultantes se reunirán, en sesiones constitutivas, el día 17 de agosto de 2023 a las diez horas. Dado en Madrid, el 29 de mayo de 2023. Felipe, Rey. El presidente del Gobierno, Pedro Sánchez Pérez-Castejón. Página 5 RELACIÓN ALFABÉTICA DE SEÑORAS Y SEÑORES DIPUTADOS ELECTOS. Por los señores secretarios de la Mesa de Edad, señora Santana Aguilera y señor Verdejo Vicente, se procede a dar lectura de la lista de las señoras y los señores diputados electos. ABADES MARTÍNEZ, Cristina ÁBALOS MECO, José Luis ABASCAL CONDE, Santiago ACEDO REYES, Sofía ACEVES GALINDO, José Luis ADRIO TARACIDO, María AGIRRETXEA URRESTI, Joseba Andoni AGÜERA GAGO, Cristina AIZCORBE TORRA, Juan José AIZPURUA ARZALLUS, Mertxe ALBARES BUENO, José Manuel ALCARAZ MARTOS, Francisco José ALEGRÍA CONTINENTE, María Pilar ALFONSO CENDÓN, Javier ALFONSO SILVESTRE, Alma ALÍA AGUADO, María Pilar ALONSO CANTORNÉ, Fèlix ALÓS LÓPEZ, Ana Isabel ÁLVAREZ DE TOLEDO PERALTA-RAMOS, Cayetana ÁLVAREZ FANJUL, Beatriz ÁLVAREZ GONZÁLEZ, Alicia ÁLVARO VIDAL, Francesc-Marc ANDALA UBBI, Teslem ANDRÉS AÑÓN, Carmen ANTONA GÓMEZ, Asier ARAGONÉS MENDIGUCHÍA, Carlos ARANDA VARGAS, Francisco ARGOTA CASTRO, Trinidad Carmen ARGÜELLES GARCÍA, Silverio ARMARIO GONZÁLEZ, Blanca ARMENGOL SOCIAS, Francina ARRIBAS MAROTO, Manuel ASARTA CUEVAS, Alberto AZORÍN SALAR, Lázaro BADIA CASAS, Eloi BASSA COLL, Montserrat BATET LAMAÑA, Meritxell BEAMONTE MESA, Luis María BELARRA URTEAGA, Ione BELDA PÉREZ-PEDRERO, Enrique BELMONTE GÓMEZ, Rafael Benigno BENDODO BENASAYAG, Elías BERMÚDEZ DE CASTRO FERNÁNDEZ, José Antonio BLANQUER ALCARAZ, Patricia BOADA DANÉS, Júlia BOLAÑOS GARCÍA, Félix BORREGO CORTÉS, Isabel María BRAVO BAENA, Juan CABEZÓN CASAS, Tomás CALVO GÓMEZ, Pilar CALVO POYATO, Carmen Página 6 CAMPOS ASENSI, Jorge CANTALAPIEDRA ÁLVAREZ, María de las Mercedes CARAZO HERMOSO, Eduardo CARBALLEDO BERLANGA, María Eugenia CASARES HONTAÑÓN, Pedro CASTILLA ÁLVAREZ, María Carmen CATALÁN HIGUERAS, Alberto CAVACASILLAS RODRÍGUEZ, Antonio CELAYA BREY, Javier CERCAS MENA, Blanca CERDÁN LEÓN, Santos CERVERA PINART, Josep María CHAMORRO DELMO, Ricardo CLAVELL LÓPEZ, Óscar CLEMENTE MUÑOZ, Raquel COBO CARMONA, Ana COBO PÉREZ, Noelia COBO VEGA, Manuel COFIÑO FERNÁNDEZ, Rafael CONDE BAJÉN, Agustín CONDE LÓPEZ, Francisco José CORTÉS CARBALLO, Mario CORUJO BERRIEL, María Dolores CRESPÍN RUBIO, Rafaela CRUSET DOMÈNECH, Josep María CRUZ SANTANA, Gabriel CRUZ-GUZMÁN GARCÍA, María Soledad CUESTA RODRÍGUEZ, María del Socorro DE ANDRÉS GUERRA, Javier DE LAS CUEVAS CORTÉS, Félix DE LOS SANTOS GONZÁLEZ, Jaime Miguel DE LUNA TOBARRA, Llanos DE MEER MÉNDEZ, Rocío DE ROSA TORNER, Fernando DEL MORAL LEAL, María Luisa DEL VALLE RODRÍGUEZ, Emilio Jesús DELGADO ARCE, Celso Luis DELGADO-TARAMONA HERNÁNDEZ, Jimena DÍAZ MARÍN, Raúl DÍAZ PÉREZ, Yolanda DIOUF DIOH, Luc Andre ERREJÓN GALVÁN, Íñigo ESTEBAN BRAVO, Aitor FABRA PART, Alberto FAGÚNDEZ CAMPO, Antidio FANECA LÓPEZ, María Luisa FERNÁNDEZ BENÉITEZ, Andrea FERNÁNDEZ GONZÁLEZ, María Mercedes FERNÁNDEZ HERNÁNDEZ, Pedro FERNÁNDEZ HERRANZ, Sandra FERNÁNDEZ RÍOS, Tomás FIGAREDO ÁLVAREZ-SALA, José María FLORES JUBERÍAS, Carlos FLORIANO CORRALES, Carlos Javier FOLCH BLANC, Javier José Página 7 FRANCO GONZÁLEZ, Silvia FULLAONDO LA CRUZ, Marije FÚNEZ DE GREGORIO, Carmen GALLARDO BARRENA, Pedro Ignacio GAMARRA RUIZ-CLAVIJO, Concepción GARCÍA ADANERO, Carlos GARCÍA BERNAL, Begoña GARCÍA FÉLIX, Manuel GARCÍA GOMIS, David GARCÍA GURRUTXAGA, María Luisa GARCÍA LÓPEZ, Maribel GARCÍA MORÍS, Roberto GARRE MURCIA, Cristóbal GARRIDO JIMÉNEZ, Elisa GARRIDO VALENZUELA, Irene GAVIN I VALLS, Isidre GIL DE REBOLEÑO LASTORTRES, Esther GIL LÁZARO, Ignacio GIL SANTIAGO, Carlos GÓMEZ BESTEIRO, José Ramón GÓMEZ HERNÁNDEZ, Héctor GONZÁLEZ BELLA, María del Mar GONZÁLEZ FERNÁNDEZ, Mercedes GONZÁLEZ GRACIA, Juan Antonio GONZÁLEZ LÓPEZ, Nahuel GONZÁLEZ PONS, Esteban GONZÁLEZ VÁZQUEZ, Marta GONZÁLEZ-ROBATTO PEROTE, Jacobo GRANDE-MARLASKA GÓMEZ, Fernando GRANOLLERS CUNILLERA, Inés GUERRA LÓPEZ, Sonia GUIJARRO CEBALLOS, María GUIJARRO GARCÍA, Txema GUINART MORENO, Lídia GUTIÉRREZ PRIETO, Sergio HERNÁNDEZ QUERO, Carlos HERNANDO FRAILE, Rafael Antonio HERNANDO VERA, Antonio HERRERA GARCÍA, Milena HERRERO BONO, José Alberto HISPÁN IGLESIAS DE USSEL, Pablo HOCES ÍÑIGUEZ, Ignacio HOYO JULIÁ, Belén HUGUET TOUS, Pedro Luis IBÁÑEZ HERNANDO, Ángel IBÁÑEZ MEZQUITA, Alberto ICETA I LLORENS, Miquel INIESTA EGIDO, Isabel IÑARRITU GARCÍA, Jon JEREZ ANTEQUERA, Juan Carlos JIMÉNEZ LINUESA, Beatriz JORDÀ I ROURA, Teresa LAMUÀ ESTAÑOL, Marc LASTRA FERNÁNDEZ, Adriana LEAL FERNÁNDEZ, Isaura Página 8 LEGARDA URIARTE, Mikel LIMA GARCÍA, Laura María LLAMAZARES DOMINGO, Esther LLORENS CARBONELL, Teresa LOIS GONZÁLEZ, Marta LÓPEZ ÁGUEDA, Óscar LÓPEZ ÁLVAREZ, Patxi LÓPEZ CANO, Ignacio LÓPEZ MARAVER, Ángel LORENTE ANAYA, Macarena LUCAS AYALA, Francisco MACÍAS GATA, Alfonso Carlos MADRENAS I MIR, Marta MADRID OLMO, Bartolomé MALDONADO LÓPEZ, Adriana MARCOS ORTEGA, Milagros MARÍ BOSÓ, José Vicente MARÍN GONZÁLEZ, Luis Alberto MARISCAL ANAYA, Guillermo MARISCAL ZABALA, Manuel MARQUÉS ATÉS, Amador MARTÍN BLANCO, Nacho MARTÍN GARCÍA, Pedro Samuel MARTÍN MARTÍNEZ, Andreu MARTÍN RODRÍGUEZ, Margarita MARTÍN URRIZA, Carlos MARTÍNEZ BARBERO, Verónica MARTÍNEZ GÓMEZ, Antonio MARTÍNEZ HIERRO, Lander MARTÍNEZ LABELLA, Ana MARTÍNEZ RAMÍREZ, Carmen MARTÍNEZ SALMERÓN, Joaquín MARTÍNEZ SEIJO, María Luz MATOS CASTRO, Sergio Carlos MATUTE GARCÍA DE JALÓN, Oskar MEJÍAS SÁNCHEZ, Carina MELGAREJO MORENO, Joaquín MELLADO SIERRA, Valle MÉNDEZ MONASTERIO, Lourdes MERCADAL BAQUERO, Pepe MERINO MARTÍNEZ, Javier MESQUIDA MAYANS, Joan MICÓ MICÓ, Àgueda MÍNGUEZ GARCÍA, Montse MIÑONES CONDE, José MONEO DÍEZ, María Sandra MONTERO CUADRADO, María Jesús MONTESINOS DE MIGUEL, Macarena MORALEJA GÓMEZ, Tristana María MORALES ÁLVAREZ, Álvaro MORANT RIPOLL, Diana MORO ALMARAZ, María Jesús MUÑOZ ABRINES, Pedro MUÑOZ DE LA IGLESIA, Ester NACARINO-BRABO JIMÉNEZ, Aurora Página 9 NARBONA RUIZ, Cristina NASARRE OLIVA, Begoña NAVARRO LACOBA, Carmen NAVARRO LÓPEZ, Pedro NOGUERAS I CAMERO, Míriam NORIEGA GÓMEZ, Javier NÚÑEZ FEIJÓO, Alberto NÚÑEZ GONZÁLEZ, Noelia OLANO VELA, Jaime Eduardo de ORTEGA SMITH-MOLINA, Francisco Javier PALENCIA RUBIO, Héctor PANIAGUA NÚÑEZ, Miguel Ángel PARRA APARICIO, Julia PARRA GALLEGO, Agustín PASCUAL ROCAMORA, Sandra PASTOR JULIÁN, Ana María PEDREÑO MOLINA, Juan Luis PEÑA CAMARERO, Esther PEREA I CONILLAS, María Mercè PÉREZ CORONADO, Pablo PÉREZ LÓPEZ, Álvaro PÉREZ ORTIZ, Isabel María PÉREZ OSMA, Daniel PÉREZ RECUERDA, Isabel Gema PIN FERRANDO, Gala PISARELLO PRADOS, Gerardo PLANAS PUCHADES, Luis PLAZA GARCÍA, Inés POBLADOR PACHECO, María Araceli POSE MESURA, Modesto POZUETA FERNÁNDEZ, Isabel PRIETO SERRANO, María Isabel PUENTE SANTIAGO, Óscar PUEYO SANZ, Jorge PUJOL BONELL, Eduard PUY FRAGA, Pedro QUINTANA CARBALLO, Rosa QUINTANILLA NAVARRO, Miguel Ángel RALLO LOMBARTE, Artemi RAMAJO PRADA, Óscar RAMÍREZ CARNER, Arnau RAMÍREZ DEL RÍO, José RAMÍREZ MARTÍN, María Lourdes RAMÍREZ MORENO, María de las Nieves RAMOS ESTEBAN, César Joaquín REDONDO CÁRDENAS, Gonzalo REGADES FERNÁNDEZ, David REGO CANDAMIL, Néstor REQUENA RUIZ, Juan Diego REY DE LAS HERAS, Luis Alfonso REYNAL REILLO, Esperanza RIBERA RODRÍGUEZ, Teresa RIVERA ARIAS, Engracia RIVERA DE LA CRUZ, Marta María RIVES ARCAYNA, Caridad Página 10 ROBLES FERNÁNDEZ, Margarita ROBLES LÓPEZ, Joaquín RODRÍGUEZ ALMEIDA, Andrés Alberto RODRÍGUEZ CALLEJA, Patricia RODRÍGUEZ DE MILLÁN PARRO, María José RODRÍGUEZ GARCÍA, Isabel RODRÍGUEZ GÓMEZ DE CELIS, Alfonso RODRÍGUEZ SALAS, José Antonio RODRÍGUEZ SERRA, Santi ROJAS GARCÍA, Carlos ROJAS MANRIQUE, Juan Antonio ROJO BLAS, Alberto ROMÁN JASANADA, Antonio ROMANÍ CANTERA, José Ignacio ROMERO POZO, Rafaela ROMERO VILCHES, María de los Reyes ROS MARTÍNEZ, Susana RUEDA PERELLÓ, Patricia RUFIÁN ROMERO, Gabriel RUIZ BOIX, Juan Carlos RUIZ DE PINEDO UNDIANO, Iñaki RUIZ SOLÁS, María de la Cabeza SÁEZ ALONSO-MUÑUMER, Pablo SÁEZ CRUZ, Emilio SAGASTIZABAL UNZETABARRENETXEA, Idoia SAHUQUILLO GARCÍA, Luis Carlos SALAZAR RODRÍGUEZ, Francisco José SALVADOR I DUCH, Jordi SÁNCHEZ DÍAZ, María Carmen SÁNCHEZ GARCÍA, José María SÁNCHEZ JIMÉNEZ, Raquel SÁNCHEZ OJEDA, Carlos Alberto SÁNCHEZ PÉREZ, César SÁNCHEZ PÉREZ-CASTEJÓN, Pedro SÁNCHEZ SERNA, Javier SÁNCHEZ SIERRA, María del Mar SÁNCHEZ TORREGROSA, Maribel SANCHO ÍÑIGUEZ, Herminio Rufino SANTANA AGUILERA, Ada SANTANA PERERA, Noemí SANTIAGO ROMERO, Enrique Fernando SANTOS MARAVER, Agustín SANZ MARTÍNEZ, Luisa SARRIÀ MORELL, Vicent Manuel SASTRE UYÁ, Miguel Ángel SAYAS LÓPEZ, Sergio SÉMPER PASCUAL, Borja SENDEROS ORAÁ, Daniel SERRADA PARIENTE, David SERRANO MARTÍNEZ, Juan Francisco SIERRA CABALLERO, Francisco SIMANCAS SIMANCAS, Rafael SOLER MUR, Alejandro SUMELZO JORDÁN, Susana TABOADELA ÁLVAREZ, Obdulia Página 11 TARNO BLANCO, Ricardo TELLADO FILGUEIRA, Miguel TENIENTE SÁNCHEZ, Cristina TOLÓN JAIME, Milagros TOMÁS OLIVARES, Violante TOSCANO DE BALBÍN, Carla TRENZANO RUBIO, Marta VALERO MORALES, Juan Antonio VALIDO GARCÍA, Cristina VALLUGERA BALAÑÀ, Pilar VAQUERO MONTERO, Maribel VARELA PAZOS, Marta VÁZQUEZ BLANCO, Ana Belén VÁZQUEZ JIMÉNEZ, María del Mar VÁZQUEZ VEGA, Pablo VELARDE GÓMEZ, Martina VELASCO MORILLO, Elvira VELASCO RETAMOSA, José Manuel VERANO DOMÍNGUEZ, Bella VERDEJO VICENTE, Ferran VERSTRYNGE REVUELTA, Lilith VIDAL MATAS, Vicenç VIDAL SÁEZ, Aina ZARAGOZA ALONSO, José",
+              "sentences": [
+                {
+                  "text": "Artículo 5 del Real Decreto 400/2023, de 29 de mayo, de disolución del Congreso de los Diputados y del Senado y de convocatoria de elecciones: Celebradas las elecciones convocadas por este real decreto, las Cámaras resultantes se reunirán, en sesiones constitutivas, el día 17 de agosto de 2023 a las diez horas."
+                },
+                {
+                  "text": "Dado en Madrid, el 29 de mayo de 2023."
+                },
+                {
+                  "text": "Felipe, Rey."
+                },
+                {
+                  "text": "El presidente del Gobierno, Pedro Sánchez Pérez-Castejón."
+                },
+                {
+                  "text": "Página 5 RELACIÓN ALFABÉTICA DE SEÑORAS Y SEÑORES DIPUTADOS ELECTOS."
+                },
+                {
+                  "text": "Por los señores secretarios de la Mesa de Edad, señora Santana Aguilera y señor Verdejo Vicente, se procede a dar lectura de la lista de las señoras y los señores diputados electos."
+                },
+                {
+                  "text": "ABADES MARTÍNEZ, Cristina ÁBALOS MECO, José Luis ABASCAL CONDE, Santiago ACEDO REYES, Sofía ACEVES GALINDO, José Luis ADRIO TARACIDO, María AGIRRETXEA URRESTI, Joseba Andoni AGÜERA GAGO, Cristina AIZCORBE TORRA, Juan José AIZPURUA ARZALLUS, Mertxe ALBARES BUENO, José Manuel ALCARAZ MARTOS, Francisco José ALEGRÍA CONTINENTE, María Pilar ALFONSO CENDÓN, Javier ALFONSO SILVESTRE, Alma ALÍA AGUADO, María Pilar ALONSO CANTORNÉ, Fèlix ALÓS LÓPEZ, Ana Isabel ÁLVAREZ DE TOLEDO PERALTA-RAMOS, Cayetana ÁLVAREZ FANJUL, Beatriz ÁLVAREZ GONZÁLEZ, Alicia ÁLVARO VIDAL, Francesc-Marc ANDALA UBBI, Teslem ANDRÉS AÑÓN, Carmen ANTONA GÓMEZ, Asier ARAGONÉS MENDIGUCHÍA, Carlos ARANDA VARGAS, Francisco ARGOTA CASTRO, Trinidad Carmen ARGÜELLES GARCÍA, Silverio ARMARIO GONZÁLEZ, Blanca ARMENGOL SOCIAS, Francina ARRIBAS MAROTO, Manuel ASARTA CUEVAS, Alberto AZORÍN SALAR, Lázaro BADIA CASAS, Eloi BASSA COLL, Montserrat BATET LAMAÑA, Meritxell BEAMONTE MESA, Luis María BELARRA URTEAGA, Ione BELDA PÉREZ-PEDRERO, Enrique BELMONTE GÓMEZ, Rafael Benigno BENDODO BENASAYAG, Elías BERMÚDEZ DE CASTRO FERNÁNDEZ, José Antonio BLANQUER ALCARAZ, Patricia BOADA DANÉS, Júlia BOLAÑOS GARCÍA, Félix BORREGO CORTÉS, Isabel María BRAVO BAENA, Juan CABEZÓN CASAS, Tomás CALVO GÓMEZ, Pilar CALVO POYATO, Carmen Página 6 CAMPOS ASENSI, Jorge CANTALAPIEDRA ÁLVAREZ, María de las Mercedes CARAZO HERMOSO, Eduardo CARBALLEDO BERLANGA, María Eugenia CASARES HONTAÑÓN, Pedro CASTILLA ÁLVAREZ, María Carmen CATALÁN HIGUERAS, Alberto CAVACASILLAS RODRÍGUEZ, Antonio CELAYA BREY, Javier CERCAS MENA, Blanca CERDÁN LEÓN, Santos CERVERA PINART, Josep María CHAMORRO DELMO, Ricardo CLAVELL LÓPEZ, Óscar CLEMENTE MUÑOZ, Raquel COBO CARMONA, Ana COBO PÉREZ, Noelia COBO VEGA, Manuel COFIÑO FERNÁNDEZ, Rafael CONDE BAJÉN, Agustín CONDE LÓPEZ, Francisco José CORTÉS CARBALLO, Mario CORUJO BERRIEL, María Dolores CRESPÍN RUBIO, Rafaela CRUSET DOMÈNECH, Josep María CRUZ SANTANA, Gabriel CRUZ-GUZMÁN GARCÍA, María Soledad CUESTA RODRÍGUEZ, María del Socorro DE ANDRÉS GUERRA, Javier DE LAS CUEVAS CORTÉS, Félix DE LOS SANTOS GONZÁLEZ, Jaime Miguel DE LUNA TOBARRA, Llanos DE MEER MÉNDEZ, Rocío DE ROSA TORNER, Fernando DEL MORAL LEAL, María Luisa DEL VALLE RODRÍGUEZ, Emilio Jesús DELGADO ARCE, Celso Luis DELGADO-TARAMONA HERNÁNDEZ, Jimena DÍAZ MARÍN, Raúl DÍAZ PÉREZ, Yolanda DIOUF DIOH, Luc Andre ERREJÓN GALVÁN, Íñigo ESTEBAN BRAVO, Aitor FABRA PART, Alberto FAGÚNDEZ CAMPO, Antidio FANECA LÓPEZ, María Luisa FERNÁNDEZ BENÉITEZ, Andrea FERNÁNDEZ GONZÁLEZ, María Mercedes FERNÁNDEZ HERNÁNDEZ, Pedro FERNÁNDEZ HERRANZ, Sandra FERNÁNDEZ RÍOS, Tomás FIGAREDO ÁLVAREZ-SALA, José María FLORES JUBERÍAS, Carlos FLORIANO CORRALES, Carlos Javier FOLCH BLANC, Javier José Página 7 FRANCO GONZÁLEZ, Silvia FULLAONDO LA CRUZ, Marije FÚNEZ DE GREGORIO, Carmen GALLARDO BARRENA, Pedro Ignacio GAMARRA RUIZ-CLAVIJO, Concepción GARCÍA ADANERO, Carlos GARCÍA BERNAL, Begoña GARCÍA FÉLIX, Manuel GARCÍA GOMIS, David GARCÍA GURRUTXAGA, María Luisa GARCÍA LÓPEZ, Maribel GARCÍA MORÍS, Roberto GARRE MURCIA, Cristóbal GARRIDO JIMÉNEZ, Elisa GARRIDO VALENZUELA, Irene GAVIN I VALLS, Isidre GIL DE REBOLEÑO LASTORTRES, Esther GIL LÁZARO, Ignacio GIL SANTIAGO, Carlos GÓMEZ BESTEIRO, José Ramón GÓMEZ HERNÁNDEZ, Héctor GONZÁLEZ BELLA, María del Mar GONZÁLEZ FERNÁNDEZ, Mercedes GONZÁLEZ GRACIA, Juan Antonio GONZÁLEZ LÓPEZ, Nahuel GONZÁLEZ PONS, Esteban GONZÁLEZ VÁZQUEZ, Marta GONZÁLEZ-ROBATTO PEROTE, Jacobo GRANDE-MARLASKA GÓMEZ, Fernando GRANOLLERS CUNILLERA, Inés GUERRA LÓPEZ, Sonia GUIJARRO CEBALLOS, María GUIJARRO GARCÍA, Txema GUINART MORENO, Lídia GUTIÉRREZ PRIETO, Sergio HERNÁNDEZ QUERO, Carlos HERNANDO FRAILE, Rafael Antonio HERNANDO VERA, Antonio HERRERA GARCÍA, Milena HERRERO BONO, José Alberto HISPÁN IGLESIAS DE USSEL, Pablo HOCES ÍÑIGUEZ, Ignacio HOYO JULIÁ, Belén HUGUET TOUS, Pedro Luis IBÁÑEZ HERNANDO, Ángel IBÁÑEZ MEZQUITA, Alberto ICETA I LLORENS, Miquel INIESTA EGIDO, Isabel IÑARRITU GARCÍA, Jon JEREZ ANTEQUERA, Juan Carlos JIMÉNEZ LINUESA, Beatriz JORDÀ I ROURA, Teresa LAMUÀ ESTAÑOL, Marc LASTRA FERNÁNDEZ, Adriana LEAL FERNÁNDEZ, Isaura Página 8 LEGARDA URIARTE, Mikel LIMA GARCÍA, Laura María LLAMAZARES DOMINGO, Esther LLORENS CARBONELL, Teresa LOIS GONZÁLEZ, Marta LÓPEZ ÁGUEDA, Óscar LÓPEZ ÁLVAREZ, Patxi LÓPEZ CANO, Ignacio LÓPEZ MARAVER, Ángel LORENTE ANAYA, Macarena LUCAS AYALA, Francisco MACÍAS GATA, Alfonso Carlos MADRENAS I MIR, Marta MADRID OLMO, Bartolomé MALDONADO LÓPEZ, Adriana MARCOS ORTEGA, Milagros MARÍ BOSÓ, José Vicente MARÍN GONZÁLEZ, Luis Alberto MARISCAL ANAYA, Guillermo MARISCAL ZABALA, Manuel MARQUÉS ATÉS, Amador MARTÍN BLANCO, Nacho MARTÍN GARCÍA, Pedro Samuel MARTÍN MARTÍNEZ, Andreu MARTÍN RODRÍGUEZ, Margarita MARTÍN URRIZA, Carlos MARTÍNEZ BARBERO, Verónica MARTÍNEZ GÓMEZ, Antonio MARTÍNEZ HIERRO, Lander MARTÍNEZ LABELLA, Ana MARTÍNEZ RAMÍREZ, Carmen MARTÍNEZ SALMERÓN, Joaquín MARTÍNEZ SEIJO, María Luz MATOS CASTRO, Sergio Carlos MATUTE GARCÍA DE JALÓN, Oskar MEJÍAS SÁNCHEZ, Carina MELGAREJO MORENO, Joaquín MELLADO SIERRA, Valle MÉNDEZ MONASTERIO, Lourdes MERCADAL BAQUERO, Pepe MERINO MARTÍNEZ, Javier MESQUIDA MAYANS, Joan MICÓ MICÓ, Àgueda MÍNGUEZ GARCÍA, Montse MIÑONES CONDE, José MONEO DÍEZ, María Sandra MONTERO CUADRADO, María Jesús MONTESINOS DE MIGUEL, Macarena MORALEJA GÓMEZ, Tristana María MORALES ÁLVAREZ, Álvaro MORANT RIPOLL, Diana MORO ALMARAZ, María Jesús MUÑOZ ABRINES, Pedro MUÑOZ DE LA IGLESIA, Ester NACARINO-BRABO JIMÉNEZ, Aurora Página 9 NARBONA RUIZ, Cristina NASARRE OLIVA, Begoña NAVARRO LACOBA, Carmen NAVARRO LÓPEZ, Pedro NOGUERAS I CAMERO, Míriam NORIEGA GÓMEZ, Javier NÚÑEZ FEIJÓO, Alberto NÚÑEZ GONZÁLEZ, Noelia OLANO VELA, Jaime Eduardo de ORTEGA SMITH-MOLINA, Francisco Javier PALENCIA RUBIO, Héctor PANIAGUA NÚÑEZ, Miguel Ángel PARRA APARICIO, Julia PARRA GALLEGO, Agustín PASCUAL ROCAMORA, Sandra PASTOR JULIÁN, Ana María PEDREÑO MOLINA, Juan Luis PEÑA CAMARERO, Esther PEREA I CONILLAS, María Mercè PÉREZ CORONADO, Pablo PÉREZ LÓPEZ, Álvaro PÉREZ ORTIZ, Isabel María PÉREZ OSMA, Daniel PÉREZ RECUERDA, Isabel Gema PIN FERRANDO, Gala PISARELLO PRADOS, Gerardo PLANAS PUCHADES, Luis PLAZA GARCÍA, Inés POBLADOR PACHECO, María Araceli POSE MESURA, Modesto POZUETA FERNÁNDEZ, Isabel PRIETO SERRANO, María Isabel PUENTE SANTIAGO, Óscar PUEYO SANZ, Jorge PUJOL BONELL, Eduard PUY FRAGA, Pedro QUINTANA CARBALLO, Rosa QUINTANILLA NAVARRO, Miguel Ángel RALLO LOMBARTE, Artemi RAMAJO PRADA, Óscar RAMÍREZ CARNER, Arnau RAMÍREZ DEL RÍO, José RAMÍREZ MARTÍN, María Lourdes RAMÍREZ MORENO, María de las Nieves RAMOS ESTEBAN, César Joaquín REDONDO CÁRDENAS, Gonzalo REGADES FERNÁNDEZ, David REGO CANDAMIL, Néstor REQUENA RUIZ, Juan Diego REY DE LAS HERAS, Luis Alfonso REYNAL REILLO, Esperanza RIBERA RODRÍGUEZ, Teresa RIVERA ARIAS, Engracia RIVERA DE LA CRUZ, Marta María RIVES ARCAYNA, Caridad Página 10 ROBLES FERNÁNDEZ, Margarita ROBLES LÓPEZ, Joaquín RODRÍGUEZ ALMEIDA, Andrés Alberto RODRÍGUEZ CALLEJA, Patricia RODRÍGUEZ DE MILLÁN PARRO, María José RODRÍGUEZ GARCÍA, Isabel RODRÍGUEZ GÓMEZ DE CELIS, Alfonso RODRÍGUEZ SALAS, José Antonio RODRÍGUEZ SERRA, Santi ROJAS GARCÍA, Carlos ROJAS MANRIQUE, Juan Antonio ROJO BLAS, Alberto ROMÁN JASANADA, Antonio ROMANÍ CANTERA, José Ignacio ROMERO POZO, Rafaela ROMERO VILCHES, María de los Reyes ROS MARTÍNEZ, Susana RUEDA PERELLÓ, Patricia RUFIÁN ROMERO, Gabriel RUIZ BOIX, Juan Carlos RUIZ DE PINEDO UNDIANO, Iñaki RUIZ SOLÁS, María de la Cabeza SÁEZ ALONSO-MUÑUMER, Pablo SÁEZ CRUZ, Emilio SAGASTIZABAL UNZETABARRENETXEA, Idoia SAHUQUILLO GARCÍA, Luis Carlos SALAZAR RODRÍGUEZ, Francisco José SALVADOR I DUCH, Jordi SÁNCHEZ DÍAZ, María Carmen SÁNCHEZ GARCÍA, José María SÁNCHEZ JIMÉNEZ, Raquel SÁNCHEZ OJEDA, Carlos Alberto SÁNCHEZ PÉREZ, César SÁNCHEZ PÉREZ-CASTEJÓN, Pedro SÁNCHEZ SERNA, Javier SÁNCHEZ SIERRA, María del Mar SÁNCHEZ TORREGROSA, Maribel SANCHO ÍÑIGUEZ, Herminio Rufino SANTANA AGUILERA, Ada SANTANA PERERA, Noemí SANTIAGO ROMERO, Enrique Fernando SANTOS MARAVER, Agustín SANZ MARTÍNEZ, Luisa SARRIÀ MORELL, Vicent Manuel SASTRE UYÁ, Miguel Ángel SAYAS LÓPEZ, Sergio SÉMPER PASCUAL, Borja SENDEROS ORAÁ, Daniel SERRADA PARIENTE, David SERRANO MARTÍNEZ, Juan Francisco SIERRA CABALLERO, Francisco SIMANCAS SIMANCAS, Rafael SOLER MUR, Alejandro SUMELZO JORDÁN, Susana TABOADELA ÁLVAREZ, Obdulia Página 11 TARNO BLANCO, Ricardo TELLADO FILGUEIRA, Miguel TENIENTE SÁNCHEZ, Cristina TOLÓN JAIME, Milagros TOMÁS OLIVARES, Violante TOSCANO DE BALBÍN, Carla TRENZANO RUBIO, Marta VALERO MORALES, Juan Antonio VALIDO GARCÍA, Cristina VALLUGERA BALAÑÀ, Pilar VAQUERO MONTERO, Maribel VARELA PAZOS, Marta VÁZQUEZ BLANCO, Ana Belén VÁZQUEZ JIMÉNEZ, María del Mar VÁZQUEZ VEGA, Pablo VELARDE GÓMEZ, Martina VELASCO MORILLO, Elvira VELASCO RETAMOSA, José Manuel VERANO DOMÍNGUEZ, Bella VERDEJO VICENTE, Ferran VERSTRYNGE REVUELTA, Lilith VIDAL MATAS, Vicenç VIDAL SÁEZ, Aina ZARAGOZA ALONSO, José"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "documents": [],
+      "debug": {
+        "page": 4
+      }
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 1
+      },
+      "speechIndex": 1004,
+      "originID": "DSCD-15-PL-1-4",
+      "originTextID": "DSCD-15-PL-1-4",
+      "agendaItem": {
+        "title": "Sesión plenaria",
+        "officialTitle": "Sesión plenaria"
+      },
+      "people": [
+        {
+          "label": "Narbona Ruiz",
+          "lastname": "Narbona Ruiz",
+          "context": "president",
+          "type": "memberOfParliament",
+          "role": "Presidenta De La Mesa De Edad"
+        }
+      ],
+      "textContents": [
+        {
+          "type": "proceedings",
+          "language": "ES-es",
+          "originTextID": "DSCD-15-PL-1-4",
+          "sourceURI": "https://www.congreso.es/public_oficiales/L15/CONG/DS/PL/DSCD-15-PL-1.PDF#page=11",
+          "creator": "Congreso de los Diputados",
+          "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+          "textBody": [
+            {
+              "type": "speech",
+              "text": "Señorías, ¿alguna señora diputada o señor diputado no ha sido nombrado? (Pausa).",
+              "sentences": [
+                {
+                  "text": "Señorías, ¿alguna señora diputada o señor diputado no ha sido nombrado? ("
+                },
+                {
+                  "text": "Pausa)."
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "documents": [],
+      "debug": {
+        "page": 11
+      }
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 1
+      },
+      "speechIndex": 1005,
+      "originID": "DSCD-15-PL-1-5",
+      "originTextID": "DSCD-15-PL-1-5",
+      "agendaItem": {
+        "title": "Sesión plenaria",
+        "officialTitle": "Sesión plenaria"
+      },
+      "people": [
+        {
+          "label": "Andala Ubbi",
+          "lastname": "Andala Ubbi",
+          "context": "main-speaker",
+          "type": "memberOfParliament"
+        }
+      ],
+      "textContents": [
+        {
+          "type": "proceedings",
+          "language": "ES-es",
+          "originTextID": "DSCD-15-PL-1-5",
+          "sourceURI": "https://www.congreso.es/public_oficiales/L15/CONG/DS/PL/DSCD-15-PL-1.PDF#page=11",
+          "creator": "Congreso de los Diputados",
+          "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+          "textBody": [
+            {
+              "type": "speech",
+              "text": "Yo no he sido nombrada.",
+              "sentences": [
+                {
+                  "text": "Yo no he sido nombrada."
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "documents": [],
+      "debug": {
+        "page": 11
+      }
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 1
+      },
+      "speechIndex": 1006,
+      "originID": "DSCD-15-PL-1-6",
+      "originTextID": "DSCD-15-PL-1-6",
+      "agendaItem": {
+        "title": "Sesión plenaria",
+        "officialTitle": "Sesión plenaria"
+      },
+      "people": [
+        {
+          "label": "Narbona Ruiz",
+          "lastname": "Narbona Ruiz",
+          "context": "president",
+          "type": "memberOfParliament",
+          "role": "Presidenta De La Mesa De Edad"
+        }
+      ],
+      "textContents": [
+        {
+          "type": "proceedings",
+          "language": "ES-es",
+          "originTextID": "DSCD-15-PL-1-6",
+          "sourceURI": "https://www.congreso.es/public_oficiales/L15/CONG/DS/PL/DSCD-15-PL-1.PDF#page=11",
+          "creator": "Congreso de los Diputados",
+          "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+          "textBody": [
+            {
+              "type": "speech",
+              "text": "Perdone, ¿no ha sido nombrada? ¿Cuál es su nombre?",
+              "sentences": [
+                {
+                  "text": "Perdone, ¿no ha sido nombrada? ¿"
+                },
+                {
+                  "text": "Cuál es su nombre?"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "documents": [],
+      "debug": {
+        "page": 11
+      }
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 1
+      },
+      "speechIndex": 1007,
+      "originID": "DSCD-15-PL-1-7",
+      "originTextID": "DSCD-15-PL-1-7",
+      "agendaItem": {
+        "title": "Sesión plenaria",
+        "officialTitle": "Sesión plenaria"
+      },
+      "people": [
+        {
+          "label": "Andala Ubbi",
+          "lastname": "Andala Ubbi",
+          "context": "main-speaker",
+          "type": "memberOfParliament"
+        }
+      ],
+      "textContents": [
+        {
+          "type": "proceedings",
+          "language": "ES-es",
+          "originTextID": "DSCD-15-PL-1-7",
+          "sourceURI": "https://www.congreso.es/public_oficiales/L15/CONG/DS/PL/DSCD-15-PL-1.PDF#page=11",
+          "creator": "Congreso de los Diputados",
+          "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+          "textBody": [
+            {
+              "type": "speech",
+              "text": "Teslem Andala Ubbi o Tesh Sidi.",
+              "sentences": [
+                {
+                  "text": "Teslem Andala Ubbi o Tesh Sidi."
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "documents": [],
+      "debug": {
+        "page": 11
+      }
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 1
+      },
+      "speechIndex": 1008,
+      "originID": "DSCD-15-PL-1-8",
+      "originTextID": "DSCD-15-PL-1-8",
+      "agendaItem": {
+        "title": "Sesión plenaria",
+        "officialTitle": "Sesión plenaria"
+      },
+      "people": [
+        {
+          "label": "Narbona Ruiz",
+          "lastname": "Narbona Ruiz",
+          "context": "president",
+          "type": "memberOfParliament",
+          "role": "Presidenta De La Mesa De Edad"
+        }
+      ],
+      "textContents": [
+        {
+          "type": "proceedings",
+          "language": "ES-es",
+          "originTextID": "DSCD-15-PL-1-8",
+          "sourceURI": "https://www.congreso.es/public_oficiales/L15/CONG/DS/PL/DSCD-15-PL-1.PDF#page=11",
+          "creator": "Congreso de los Diputados",
+          "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+          "textBody": [
+            {
+              "type": "speech",
+              "text": "Muchas gracias, diputada. De acuerdo, se ha corregido el fallo en la lectura. RECURSOS CONTENCIOSO-ELECTORALES INTERPUESTOS.",
+              "sentences": [
+                {
+                  "text": "Muchas gracias, diputada."
+                },
+                {
+                  "text": "De acuerdo, se ha corregido el fallo en la lectura."
+                },
+                {
+                  "text": "RECURSOS CONTENCIOSO-ELECTORALES INTERPUESTOS."
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "documents": [],
+      "debug": {
+        "page": 11
+      }
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 1
+      },
+      "speechIndex": 1009,
+      "originID": "DSCD-15-PL-1-9",
+      "originTextID": "DSCD-15-PL-1-9",
+      "agendaItem": {
+        "title": "Sesión plenaria",
+        "officialTitle": "Sesión plenaria"
+      },
+      "people": [
+        {
+          "label": "Narbona Ruiz",
+          "lastname": "Narbona Ruiz",
+          "context": "president",
+          "type": "memberOfParliament",
+          "role": "Presidenta De La Mesa De Edad"
+        }
+      ],
+      "textContents": [
+        {
+          "type": "proceedings",
+          "language": "ES-es",
+          "originTextID": "DSCD-15-PL-1-9",
+          "sourceURI": "https://www.congreso.es/public_oficiales/L15/CONG/DS/PL/DSCD-15-PL-1.PDF#page=11",
+          "creator": "Congreso de los Diputados",
+          "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+          "textBody": [
+            {
+              "type": "speech",
+              "text": "Pasamos a la lectura, por parte de la señora secretaria primera de la Mesa de Edad, de la relación de recursos contencioso-electorales interpuestos.",
+              "sentences": [
+                {
+                  "text": "Pasamos a la lectura, por parte de la señora secretaria primera de la Mesa de Edad, de la relación de recursos contencioso-electorales interpuestos."
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "documents": [],
+      "debug": {
+        "page": 11
+      }
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 1
+      },
+      "speechIndex": 1010,
+      "originID": "DSCD-15-PL-1-10",
+      "originTextID": "DSCD-15-PL-1-10",
+      "agendaItem": {
+        "title": "Sesión plenaria",
+        "officialTitle": "Sesión plenaria"
+      },
+      "people": [
+        {
+          "label": "Santana Aguilera",
+          "lastname": "Santana Aguilera",
+          "context": "main-speaker",
+          "type": "memberOfParliament",
+          "role": "Secretaria De La Mesa De Edad"
+        }
+      ],
+      "textContents": [
+        {
+          "type": "proceedings",
+          "language": "ES-es",
+          "originTextID": "DSCD-15-PL-1-10",
+          "sourceURI": "https://www.congreso.es/public_oficiales/L15/CONG/DS/PL/DSCD-15-PL-1.PDF#page=11",
+          "creator": "Congreso de los Diputados",
+          "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+          "textBody": [
+            {
+              "type": "speech",
+              "text": "Relación de recursos contencioso-electorales. En relación con las elecciones al Congreso de los Diputados y el Senado convocadas por Real Decreto 400/2023, de 29 de mayo, y celebradas el 23 de julio, el señor presidente de la Junta Electoral Central, mediante oficio de 14 de agosto de 2023, notificó que el pasado 11 de agosto el Partido Socialista Obrero Español interpuso recurso contencioso-electoral contra el acto de proclamación de candidatos electos en las elecciones al Congreso de los Diputados en la circunscripción de Madrid. Asimismo, se informa de que en el resto de circunscripciones no se ha interpuesto recurso contencioso-electoral contra la proclamación de electos.",
+              "sentences": [
+                {
+                  "text": "Relación de recursos contencioso-electorales."
+                },
+                {
+                  "text": "En relación con las elecciones al Congreso de los Diputados y el Senado convocadas por Real Decreto 400/2023, de 29 de mayo, y celebradas el 23 de julio, el señor presidente de la Junta Electoral Central, mediante oficio de 14 de agosto de 2023, notificó que el pasado 11 de agosto el Partido Socialista Obrero Español interpuso recurso contencioso-electoral contra el acto de proclamación de candidatos electos en las elecciones al Congreso de los Diputados en la circunscripción de Madrid."
+                },
+                {
+                  "text": "Asimismo, se informa de que en el resto de circunscripciones no se ha interpuesto recurso contencioso-electoral contra la proclamación de electos."
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "documents": [],
+      "debug": {
+        "page": 11
+      }
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 1
+      },
+      "speechIndex": 1011,
+      "originID": "DSCD-15-PL-1-11",
+      "originTextID": "DSCD-15-PL-1-11",
+      "agendaItem": {
+        "title": "Sesión plenaria",
+        "officialTitle": "Sesión plenaria"
+      },
+      "people": [
+        {
+          "label": "Narbona Ruiz",
+          "lastname": "Narbona Ruiz",
+          "context": "president",
+          "type": "memberOfParliament",
+          "role": "Presidenta De La Mesa De Edad"
+        }
+      ],
+      "textContents": [
+        {
+          "type": "proceedings",
+          "language": "ES-es",
+          "originTextID": "DSCD-15-PL-1-11",
+          "sourceURI": "https://www.congreso.es/public_oficiales/L15/CONG/DS/PL/DSCD-15-PL-1.PDF#page=11",
+          "creator": "Congreso de los Diputados",
+          "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+          "textBody": [
+            {
+              "type": "speech",
+              "text": "Muchas gracias. Página 12 ELECCIÓN DE LA MESA DEL CONGRESO DE LOS DIPUTADOS: - ELECCIÓN DEL PRESIDENTE.",
+              "sentences": [
+                {
+                  "text": "Muchas gracias."
+                },
+                {
+                  "text": "Página 12 ELECCIÓN DE LA MESA DEL CONGRESO DE LOS DIPUTADOS: - ELECCIÓN DEL PRESIDENTE."
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "documents": [],
+      "debug": {
+        "page": 11
+      }
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 1
+      },
+      "speechIndex": 1012,
+      "originID": "DSCD-15-PL-1-12",
+      "originTextID": "DSCD-15-PL-1-12",
+      "agendaItem": {
+        "title": "Sesión plenaria",
+        "officialTitle": "Sesión plenaria"
+      },
+      "people": [
+        {
+          "label": "Narbona Ruiz",
+          "lastname": "Narbona Ruiz",
+          "context": "president",
+          "type": "memberOfParliament",
+          "role": "Presidenta De La Mesa De Edad"
+        }
+      ],
+      "textContents": [
+        {
+          "type": "proceedings",
+          "language": "ES-es",
+          "originTextID": "DSCD-15-PL-1-12",
+          "sourceURI": "https://www.congreso.es/public_oficiales/L15/CONG/DS/PL/DSCD-15-PL-1.PDF#page=12",
+          "creator": "Congreso de los Diputados",
+          "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+          "textBody": [
+            {
+              "type": "speech",
+              "text": "Vamos a proceder seguidamente a la elección de la Mesa del Congreso de los Diputados de acuerdo con el procedimiento previsto en el artículo 37 del Reglamento. En primer lugar, se elegirá al presidente de la Cámara. La votación tendrá carácter secreto y se realizará por papeleta. Cada diputado escribirá solo un nombre en la papeleta y resultará elegido el que obtenga el voto de la mayoría absoluta de los miembros de la Cámara. Si ninguno obtuviera en primera votación dicha mayoría, se repetirá la elección entre los que hayan alcanzado las dos mayores votaciones y resultará elegido el que obtenga más votos. Por los señores secretarios de la Mesa de Edad se procederá a continuación al llamamiento por orden alfabético de las señoras y señores diputados para que depositen la papeleta en la correspondiente urna, y los miembros de la Mesa de Edad votaremos al final. Comienza la votación. Por los secretarios de la Mesa de Edad, señora Santana Aguilera y señor Verdejo Vicente, se procede al llamamiento de las señoras y los señores diputados electos, quienes van depositando sus papeletas en la urna. Terminada la votación, dijo",
+              "sentences": [
+                {
+                  "text": "Vamos a proceder seguidamente a la elección de la Mesa del Congreso de los Diputados de acuerdo con el procedimiento previsto en el artículo 37 del Reglamento."
+                },
+                {
+                  "text": "En primer lugar, se elegirá al presidente de la Cámara."
+                },
+                {
+                  "text": "La votación tendrá carácter secreto y se realizará por papeleta."
+                },
+                {
+                  "text": "Cada diputado escribirá solo un nombre en la papeleta y resultará elegido el que obtenga el voto de la mayoría absoluta de los miembros de la Cámara."
+                },
+                {
+                  "text": "Si ninguno obtuviera en primera votación dicha mayoría, se repetirá la elección entre los que hayan alcanzado las dos mayores votaciones y resultará elegido el que obtenga más votos."
+                },
+                {
+                  "text": "Por los señores secretarios de la Mesa de Edad se procederá a continuación al llamamiento por orden alfabético de las señoras y señores diputados para que depositen la papeleta en la correspondiente urna, y los miembros de la Mesa de Edad votaremos al final."
+                },
+                {
+                  "text": "Comienza la votación."
+                },
+                {
+                  "text": "Por los secretarios de la Mesa de Edad, señora Santana Aguilera y señor Verdejo Vicente, se procede al llamamiento de las señoras y los señores diputados electos, quienes van depositando sus papeletas en la urna."
+                },
+                {
+                  "text": "Terminada la votación, dijo"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "documents": [],
+      "debug": {
+        "page": 12
+      }
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 1
+      },
+      "speechIndex": 1013,
+      "originID": "DSCD-15-PL-1-13",
+      "originTextID": "DSCD-15-PL-1-13",
+      "agendaItem": {
+        "title": "Sesión plenaria",
+        "officialTitle": "Sesión plenaria"
+      },
+      "people": [
+        {
+          "label": "Narbona Ruiz",
+          "lastname": "Narbona Ruiz",
+          "context": "president",
+          "type": "memberOfParliament",
+          "role": "Presidenta De La Mesa De Edad"
+        }
+      ],
+      "textContents": [
+        {
+          "type": "proceedings",
+          "language": "ES-es",
+          "originTextID": "DSCD-15-PL-1-13",
+          "sourceURI": "https://www.congreso.es/public_oficiales/L15/CONG/DS/PL/DSCD-15-PL-1.PDF#page=12",
+          "creator": "Congreso de los Diputados",
+          "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+          "textBody": [
+            {
+              "type": "speech",
+              "text": "Señorías, ¿hay alguna señora diputada o algún señor diputado que no haya ejercido el voto? (Pausa). Pasamos entonces al cómputo. Realizado el escrutinio, dijo",
+              "sentences": [
+                {
+                  "text": "Señorías, ¿hay alguna señora diputada o algún señor diputado que no haya ejercido el voto? ("
+                },
+                {
+                  "text": "Pausa)."
+                },
+                {
+                  "text": "Pasamos entonces al cómputo."
+                },
+                {
+                  "text": "Realizado el escrutinio, dijo"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "documents": [],
+      "debug": {
+        "page": 12
+      }
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 1
+      },
+      "speechIndex": 1014,
+      "originID": "DSCD-15-PL-1-14",
+      "originTextID": "DSCD-15-PL-1-14",
+      "agendaItem": {
+        "title": "Sesión plenaria",
+        "officialTitle": "Sesión plenaria"
+      },
+      "people": [
+        {
+          "label": "Narbona Ruiz",
+          "lastname": "Narbona Ruiz",
+          "context": "president",
+          "type": "memberOfParliament",
+          "role": "Presidenta De La Mesa De Edad"
+        }
+      ],
+      "textContents": [
+        {
+          "type": "proceedings",
+          "language": "ES-es",
+          "originTextID": "DSCD-15-PL-1-14",
+          "sourceURI": "https://www.congreso.es/public_oficiales/L15/CONG/DS/PL/DSCD-15-PL-1.PDF#page=12",
+          "creator": "Congreso de los Diputados",
+          "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+          "textBody": [
+            {
+              "type": "speech",
+              "text": "Señorías, el resultado de la votación ha sido el siguiente: votos emitidos 350; 178 a favor de doña Francina Armengol Socias. (Aplausos de la mayoría de las señoras y los señores diputados electos, puestos en pie.-Aplausos de los miembros del Gobierno en funciones, puestos en pie). Señorías, sigamos con el cómputo: 129 1 a favor de doña Concepción Gamarra Ruiz-Clavijo y 33 a favor de don Ignacio Gil Lázaro. Al haber obtenido el voto de la mayoría absoluta de los miembros de la Cámara, 176, queda, en consecuencia, proclamada presidenta del Congreso de los Diputados doña Francina Armengol Socias. (Aplausos de la mayoría de las señoras y los señores diputados electos, puestos en pie.-Aplausos de los miembros del Gobierno en funciones, puestos en pie). - ELECCIÓN DE LOS VICEPRESIDENTES.",
+              "sentences": [
+                {
+                  "text": "Señorías, el resultado de la votación ha sido el siguiente: votos emitidos 350; 178 a favor de doña Francina Armengol Socias. ("
+                },
+                {
+                  "text": "Aplausos de la mayoría de las señoras y los señores diputados electos, puestos en pie.-Aplausos de los miembros del Gobierno en funciones, puestos en pie)."
+                },
+                {
+                  "text": "Señorías, sigamos con el cómputo: 129 1 a favor de doña Concepción Gamarra Ruiz-Clavijo y 33 a favor de don Ignacio Gil Lázaro."
+                },
+                {
+                  "text": "Al haber obtenido el voto de la mayoría absoluta de los miembros de la Cámara, 176, queda, en consecuencia, proclamada presidenta del Congreso de los Diputados doña Francina Armengol Socias. ("
+                },
+                {
+                  "text": "Aplausos de la mayoría de las señoras y los señores diputados electos, puestos en pie.-Aplausos de los miembros del Gobierno en funciones, puestos en pie). -"
+                },
+                {
+                  "text": "ELECCIÓN DE LOS VICEPRESIDENTES."
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "documents": [],
+      "debug": {
+        "page": 12
+      }
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 1
+      },
+      "speechIndex": 1015,
+      "originID": "DSCD-15-PL-1-15",
+      "originTextID": "DSCD-15-PL-1-15",
+      "agendaItem": {
+        "title": "Sesión plenaria",
+        "officialTitle": "Sesión plenaria"
+      },
+      "people": [
+        {
+          "label": "Narbona Ruiz",
+          "lastname": "Narbona Ruiz",
+          "context": "president",
+          "type": "memberOfParliament",
+          "role": "Presidenta De La Mesa De Edad"
+        }
+      ],
+      "textContents": [
+        {
+          "type": "proceedings",
+          "language": "ES-es",
+          "originTextID": "DSCD-15-PL-1-15",
+          "sourceURI": "https://www.congreso.es/public_oficiales/L15/CONG/DS/PL/DSCD-15-PL-1.PDF#page=12",
+          "creator": "Congreso de los Diputados",
+          "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+          "textBody": [
+            {
+              "type": "speech",
+              "text": "Señorías, se elegirán a continuación los cuatro vicepresidentes. Cada diputado escribirá un solo nombre en la papeleta para la elección de vicepresidentes. Resultarán elegidos, por orden sucesivo, como vicepresidentes los cuatro que obtengan mayor número de votos. Si en alguna votación se produjera empate, se celebrarán sucesivas votaciones entre los candidatos igualados en votos hasta que el empate quede dirimido. Por los señores secretarios de la Mesa de Edad se procederá al llamamiento por orden alfabético de las señoras y los señores diputados para que depositen la papeleta en la urna correspondiente. Los miembros de la Mesa de Edad votaremos al final. Comienza la votación. 1 El resultado correcto es de 139 votos a favor de doña Concepción Gamarra Ruiz-Clavijo, según aclara la señora presidenta de la Mesa de Edad en una intervención posterior durante la elección de los vicepresidentes. Página 13 Por los señores secretarios de la Mesa de Edad, señora Santana Aguilera y señor Verdejo Vicente, se procede al llamamiento de las señoras y los señores diputados electos, quienes van depositando sus papeletas en la urna. Terminada la votación, dijo",
+              "sentences": [
+                {
+                  "text": "Señorías, se elegirán a continuación los cuatro vicepresidentes."
+                },
+                {
+                  "text": "Cada diputado escribirá un solo nombre en la papeleta para la elección de vicepresidentes."
+                },
+                {
+                  "text": "Resultarán elegidos, por orden sucesivo, como vicepresidentes los cuatro que obtengan mayor número de votos."
+                },
+                {
+                  "text": "Si en alguna votación se produjera empate, se celebrarán sucesivas votaciones entre los candidatos igualados en votos hasta que el empate quede dirimido."
+                },
+                {
+                  "text": "Por los señores secretarios de la Mesa de Edad se procederá al llamamiento por orden alfabético de las señoras y los señores diputados para que depositen la papeleta en la urna correspondiente."
+                },
+                {
+                  "text": "Los miembros de la Mesa de Edad votaremos al final."
+                },
+                {
+                  "text": "Comienza la votación."
+                },
+                {
+                  "text": "1 El resultado correcto es de 139 votos a favor de doña Concepción Gamarra Ruiz-Clavijo, según aclara la señora presidenta de la Mesa de Edad en una intervención posterior durante la elección de los vicepresidentes."
+                },
+                {
+                  "text": "Página 13 Por los señores secretarios de la Mesa de Edad, señora Santana Aguilera y señor Verdejo Vicente, se procede al llamamiento de las señoras y los señores diputados electos, quienes van depositando sus papeletas en la urna."
+                },
+                {
+                  "text": "Terminada la votación, dijo"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "documents": [],
+      "debug": {
+        "page": 12
+      }
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 1
+      },
+      "speechIndex": 1016,
+      "originID": "DSCD-15-PL-1-16",
+      "originTextID": "DSCD-15-PL-1-16",
+      "agendaItem": {
+        "title": "Sesión plenaria",
+        "officialTitle": "Sesión plenaria"
+      },
+      "people": [
+        {
+          "label": "Narbona Ruiz",
+          "lastname": "Narbona Ruiz",
+          "context": "president",
+          "type": "memberOfParliament",
+          "role": "Presidenta De La Mesa De Edad"
+        }
+      ],
+      "textContents": [
+        {
+          "type": "proceedings",
+          "language": "ES-es",
+          "originTextID": "DSCD-15-PL-1-16",
+          "sourceURI": "https://www.congreso.es/public_oficiales/L15/CONG/DS/PL/DSCD-15-PL-1.PDF#page=13",
+          "creator": "Congreso de los Diputados",
+          "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+          "textBody": [
+            {
+              "type": "speech",
+              "text": "Señorías, antes de pasar al recuento de esta segunda votación, quería comunicarles que, previamente, parece que se ha entendido que eran 129 votos para la señora Concepción Gamarra Ruiz-Clavijo. Son 139 votos. Lo digo simplemente para que quede constancia de ello. Realizado el escrutinio, dijo",
+              "sentences": [
+                {
+                  "text": "Señorías, antes de pasar al recuento de esta segunda votación, quería comunicarles que, previamente, parece que se ha entendido que eran 129 votos para la señora Concepción Gamarra Ruiz-Clavijo."
+                },
+                {
+                  "text": "Son 139 votos."
+                },
+                {
+                  "text": "Lo digo simplemente para que quede constancia de ello."
+                },
+                {
+                  "text": "Realizado el escrutinio, dijo"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "documents": [],
+      "debug": {
+        "page": 13
+      }
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 1
+      },
+      "speechIndex": 1017,
+      "originID": "DSCD-15-PL-1-17",
+      "originTextID": "DSCD-15-PL-1-17",
+      "agendaItem": {
+        "title": "Sesión plenaria",
+        "officialTitle": "Sesión plenaria"
+      },
+      "people": [
+        {
+          "label": "Narbona Ruiz",
+          "lastname": "Narbona Ruiz",
+          "context": "president",
+          "type": "memberOfParliament",
+          "role": "Presidenta De La Mesa De Edad"
+        }
+      ],
+      "textContents": [
+        {
+          "type": "proceedings",
+          "language": "ES-es",
+          "originTextID": "DSCD-15-PL-1-17",
+          "sourceURI": "https://www.congreso.es/public_oficiales/L15/CONG/DS/PL/DSCD-15-PL-1.PDF#page=13",
+          "creator": "Congreso de los Diputados",
+          "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+          "textBody": [
+            {
+              "type": "speech",
+              "text": "Señorías, el resultado de la votación para la elección de los cuatro vicepresidentes ha sido el siguiente: votos emitidos, 350; 113 a favor de don Alfonso Rodríguez Gómez de Celis; 73 a favor de don José Antonio Bermúdez de Castro Fernández; 65 a favor de doña Marta González Vázquez; 65 a favor de doña Esther Gil de Reboleño Lastortres; 33 a favor de don Ignacio Gil Lázaro, y 1 voto en blanco. Habiéndose producido un empate, de acuerdo con lo dispuesto en el artículo 37.3 del Reglamento, tenemos que realizar una nueva votación entre Marta González y Esther Gil. Por los señores secretarios de la Mesa de Edad se procederá de nuevo al llamamiento por orden alfabético. (Rumores). Señorías, antes vamos a hacer un receso de veinte minutos, ¿de acuerdo? (Rumores). Me dicen que con cinco es suficiente. (Pausa). Señorías, vayan tomando asiento. Señorías, vamos a proceder a una nueva votación. Les recuerdo que es una votación que se produce entre Marta González Vázquez y Esther Gil de Reboleño Lastortres. Se procederá, a continuación, por los secretarios de la Mesa al llamamiento de las señoras y los señores diputados. Comienza la votación. Por los secretarios de la Mesa de Edad, señora Santana Aguilera y señor Verdejo Vicente, se procede al llamamiento de las señoras y los señores diputados electos, quienes van depositando sus papeletas en la urna. Terminada la votación, dijo",
+              "sentences": [
+                {
+                  "text": "Señorías, el resultado de la votación para la elección de los cuatro vicepresidentes ha sido el siguiente: votos emitidos, 350; 113 a favor de don Alfonso Rodríguez Gómez de Celis; 73 a favor de don José Antonio Bermúdez de Castro Fernández; 65 a favor de doña Marta González Vázquez; 65 a favor de doña Esther Gil de Reboleño Lastortres; 33 a favor de don Ignacio Gil Lázaro, y 1 voto en blanco."
+                },
+                {
+                  "text": "Habiéndose producido un empate, de acuerdo con lo dispuesto en el artículo 37.3 del Reglamento, tenemos que realizar una nueva votación entre Marta González y Esther Gil."
+                },
+                {
+                  "text": "Por los señores secretarios de la Mesa de Edad se procederá de nuevo al llamamiento por orden alfabético. ("
+                },
+                {
+                  "text": "Rumores)."
+                },
+                {
+                  "text": "Señorías, antes vamos a hacer un receso de veinte minutos, ¿de acuerdo? ("
+                },
+                {
+                  "text": "Rumores)."
+                },
+                {
+                  "text": "Me dicen que con cinco es suficiente. ("
+                },
+                {
+                  "text": "Pausa)."
+                },
+                {
+                  "text": "Señorías, vayan tomando asiento."
+                },
+                {
+                  "text": "Señorías, vamos a proceder a una nueva votación."
+                },
+                {
+                  "text": "Les recuerdo que es una votación que se produce entre Marta González Vázquez y Esther Gil de Reboleño Lastortres."
+                },
+                {
+                  "text": "Se procederá, a continuación, por los secretarios de la Mesa al llamamiento de las señoras y los señores diputados."
+                },
+                {
+                  "text": "Comienza la votación."
+                },
+                {
+                  "text": "Por los secretarios de la Mesa de Edad, señora Santana Aguilera y señor Verdejo Vicente, se procede al llamamiento de las señoras y los señores diputados electos, quienes van depositando sus papeletas en la urna."
+                },
+                {
+                  "text": "Terminada la votación, dijo"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "documents": [],
+      "debug": {
+        "page": 13
+      }
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 1
+      },
+      "speechIndex": 1018,
+      "originID": "DSCD-15-PL-1-18",
+      "originTextID": "DSCD-15-PL-1-18",
+      "agendaItem": {
+        "title": "Sesión plenaria",
+        "officialTitle": "Sesión plenaria"
+      },
+      "people": [
+        {
+          "label": "Narbona Ruiz",
+          "lastname": "Narbona Ruiz",
+          "context": "president",
+          "type": "memberOfParliament",
+          "role": "Presidenta De La Mesa De Edad"
+        }
+      ],
+      "textContents": [
+        {
+          "type": "proceedings",
+          "language": "ES-es",
+          "originTextID": "DSCD-15-PL-1-18",
+          "sourceURI": "https://www.congreso.es/public_oficiales/L15/CONG/DS/PL/DSCD-15-PL-1.PDF#page=13",
+          "creator": "Congreso de los Diputados",
+          "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+          "textBody": [
+            {
+              "type": "speech",
+              "text": "¿Algún diputado no ha sido llamado para votar? (Pausa). Pasamos entonces al recuento. Realizado el escrutinio, dijo",
+              "sentences": [
+                {
+                  "text": "¿Algún diputado no ha sido llamado para votar? ("
+                },
+                {
+                  "text": "Pausa)."
+                },
+                {
+                  "text": "Pasamos entonces al recuento."
+                },
+                {
+                  "text": "Realizado el escrutinio, dijo"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "documents": [],
+      "debug": {
+        "page": 13
+      }
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 1
+      },
+      "speechIndex": 1019,
+      "originID": "DSCD-15-PL-1-19",
+      "originTextID": "DSCD-15-PL-1-19",
+      "agendaItem": {
+        "title": "Sesión plenaria",
+        "officialTitle": "Sesión plenaria"
+      },
+      "people": [
+        {
+          "label": "Narbona Ruiz",
+          "lastname": "Narbona Ruiz",
+          "context": "president",
+          "type": "memberOfParliament",
+          "role": "Presidenta De La Mesa De Edad"
+        }
+      ],
+      "textContents": [
+        {
+          "type": "proceedings",
+          "language": "ES-es",
+          "originTextID": "DSCD-15-PL-1-19",
+          "sourceURI": "https://www.congreso.es/public_oficiales/L15/CONG/DS/PL/DSCD-15-PL-1.PDF#page=13",
+          "creator": "Congreso de los Diputados",
+          "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+          "textBody": [
+            {
+              "type": "speech",
+              "text": "Señorías, el resultado de la votación ha sido el siguiente: votos emitidos, 350; 139, a favor de doña Marta González; 178, a favor de doña Esther Gil; 33 votos en blanco. (Aplausos de las señoras y señores diputados electos, algunos puestos en pie.-Aplausos de los miembros del Gobierno en funciones, puestos en pie). Quedan, por lo tanto, proclamados: vicepresidente primero, don Alfonso Rodríguez Gómez de Celis; vicepresidente segundo, don José Antonio Bermúdez de Castro; vicepresidenta tercera, doña Esther Gil de Reboleño; vicepresidenta cuarta, doña Marta González Vázquez. (Aplausos). - ELECCIÓN DE LOS SECRETARIOS.",
+              "sentences": [
+                {
+                  "text": "Señorías, el resultado de la votación ha sido el siguiente: votos emitidos, 350; 139, a favor de doña Marta González; 178, a favor de doña Esther Gil; 33 votos en blanco. ("
+                },
+                {
+                  "text": "Aplausos de las señoras y señores diputados electos, algunos puestos en pie.-Aplausos de los miembros del Gobierno en funciones, puestos en pie)."
+                },
+                {
+                  "text": "Quedan, por lo tanto, proclamados: vicepresidente primero, don Alfonso Rodríguez Gómez de Celis; vicepresidente segundo, don José Antonio Bermúdez de Castro; vicepresidenta tercera, doña Esther Gil de Reboleño; vicepresidenta cuarta, doña Marta González Vázquez. ("
+                },
+                {
+                  "text": "Aplausos). -"
+                },
+                {
+                  "text": "ELECCIÓN DE LOS SECRETARIOS."
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "documents": [],
+      "debug": {
+        "page": 13
+      }
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 1
+      },
+      "speechIndex": 1020,
+      "originID": "DSCD-15-PL-1-20",
+      "originTextID": "DSCD-15-PL-1-20",
+      "agendaItem": {
+        "title": "Sesión plenaria",
+        "officialTitle": "Sesión plenaria"
+      },
+      "people": [
+        {
+          "label": "Narbona Ruiz",
+          "lastname": "Narbona Ruiz",
+          "context": "president",
+          "type": "memberOfParliament",
+          "role": "Presidenta De La Mesa De Edad"
+        }
+      ],
+      "textContents": [
+        {
+          "type": "proceedings",
+          "language": "ES-es",
+          "originTextID": "DSCD-15-PL-1-20",
+          "sourceURI": "https://www.congreso.es/public_oficiales/L15/CONG/DS/PL/DSCD-15-PL-1.PDF#page=13",
+          "creator": "Congreso de los Diputados",
+          "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+          "textBody": [
+            {
+              "type": "speech",
+              "text": "Señorías, se elegirán a continuación los cuatro secretarios. Cada diputado escribirá solo un nombre en la papeleta para la elección de secretarios. Resultarán elegidos por orden sucesivo como secretarios los cuatro que obtengan mayor número de votos. Si en alguna votación se produjera empate, se celebrarán sucesivas votaciones entre los candidatos igualados en votos. Página 14 Por los señores secretarios de la Mesa de Edad se procede a continuación al llamamiento por orden alfabético de las señoras y los señores diputados. Comienza la votación. Por los señores secretarios de la Mesa de Edad, señora Santana Aguilera y señor Verdejo Vicente, se procede al llamamiento de las señoras y los señores diputados electos, quienes van depositando sus papeletas en la urna. Terminada la votación, dijo",
+              "sentences": [
+                {
+                  "text": "Señorías, se elegirán a continuación los cuatro secretarios."
+                },
+                {
+                  "text": "Cada diputado escribirá solo un nombre en la papeleta para la elección de secretarios."
+                },
+                {
+                  "text": "Resultarán elegidos por orden sucesivo como secretarios los cuatro que obtengan mayor número de votos."
+                },
+                {
+                  "text": "Si en alguna votación se produjera empate, se celebrarán sucesivas votaciones entre los candidatos igualados en votos."
+                },
+                {
+                  "text": "Página 14 Por los señores secretarios de la Mesa de Edad se procede a continuación al llamamiento por orden alfabético de las señoras y los señores diputados."
+                },
+                {
+                  "text": "Comienza la votación."
+                },
+                {
+                  "text": "Por los señores secretarios de la Mesa de Edad, señora Santana Aguilera y señor Verdejo Vicente, se procede al llamamiento de las señoras y los señores diputados electos, quienes van depositando sus papeletas en la urna."
+                },
+                {
+                  "text": "Terminada la votación, dijo"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "documents": [],
+      "debug": {
+        "page": 13
+      }
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 1
+      },
+      "speechIndex": 1021,
+      "originID": "DSCD-15-PL-1-21",
+      "originTextID": "DSCD-15-PL-1-21",
+      "agendaItem": {
+        "title": "Sesión plenaria",
+        "officialTitle": "Sesión plenaria"
+      },
+      "people": [
+        {
+          "label": "Narbona Ruiz",
+          "lastname": "Narbona Ruiz",
+          "context": "president",
+          "type": "memberOfParliament",
+          "role": "Presidenta De La Mesa De Edad"
+        }
+      ],
+      "textContents": [
+        {
+          "type": "proceedings",
+          "language": "ES-es",
+          "originTextID": "DSCD-15-PL-1-21",
+          "sourceURI": "https://www.congreso.es/public_oficiales/L15/CONG/DS/PL/DSCD-15-PL-1.PDF#page=14",
+          "creator": "Congreso de los Diputados",
+          "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+          "textBody": [
+            {
+              "type": "speech",
+              "text": "¿Alguna diputada o algún diputado no ha votado? (Pausa). Pasamos al recuento. (Pausa). Realizado el escrutinio, dijo",
+              "sentences": [
+                {
+                  "text": "¿Alguna diputada o algún diputado no ha votado? ("
+                },
+                {
+                  "text": "Pausa)."
+                },
+                {
+                  "text": "Pasamos al recuento. ("
+                },
+                {
+                  "text": "Pausa)."
+                },
+                {
+                  "text": "Realizado el escrutinio, dijo"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "documents": [],
+      "debug": {
+        "page": 14
+      }
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 1
+      },
+      "speechIndex": 1022,
+      "originID": "DSCD-15-PL-1-22",
+      "originTextID": "DSCD-15-PL-1-22",
+      "agendaItem": {
+        "title": "Sesión plenaria",
+        "officialTitle": "Sesión plenaria"
+      },
+      "people": [
+        {
+          "label": "Narbona Ruiz",
+          "lastname": "Narbona Ruiz",
+          "context": "president",
+          "type": "memberOfParliament",
+          "role": "Presidenta De La Mesa De Edad"
+        }
+      ],
+      "textContents": [
+        {
+          "type": "proceedings",
+          "language": "ES-es",
+          "originTextID": "DSCD-15-PL-1-22",
+          "sourceURI": "https://www.congreso.es/public_oficiales/L15/CONG/DS/PL/DSCD-15-PL-1.PDF#page=14",
+          "creator": "Congreso de los Diputados",
+          "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+          "textBody": [
+            {
+              "type": "speech",
+              "text": "Señorías, el resultado de la votación ha sido el siguiente: votos emitidos, 350; 101 a favor de don Gerardo Pisarello Prados; 77 a favor de doña Isaura Leal Fernández; 71 a favor de don Guillermo Mariscal Anaya; 67 a favor de doña Carmen Navarro Lacoba; 33 a favor de don Ignacio Gil Lázaro, y 1 voto en blanco. En consecuencia, queda proclamado secretario primero don Gerardo Pisarello Prados; secretaria segunda, doña Isaura Leal Fernández; secretario tercero, don Guillermo Mariscal Anaya, y secretaria cuarta, doña Carmen Navarro Lacoba. (Aplausos de las señoras y señores diputados electos, algunos puestos en pie.-Aplausos de los miembros del Gobierno en funciones, puestos en pie). Señorías, concluidas las votaciones y antes de solicitar a los miembros de la Mesa que suban aquí, quiero desearles a todos lo mejor en esta legislatura, y lo hago recordando un hermoso poema de Kavafis, Itaca, que dice que cuando emprendemos un viaje debemos rogar que sea largo y que esté lleno de experiencias y de conocimientos. (Aplausos). Ruego, por favor, a la señora presidenta y a los señores vicepresidentes y secretarios elegidos en este acto que ocupen sus puestos en la Mesa del Congreso de los Diputados. Muchísimas gracias. (Así lo hacen los miembros de la Mesa.-Aplausos). JURAMENTO O PROMESA DE ACATAMIENTO DE LA CONSTITUCIÓN.",
+              "sentences": [
+                {
+                  "text": "Señorías, el resultado de la votación ha sido el siguiente: votos emitidos, 350; 101 a favor de don Gerardo Pisarello Prados; 77 a favor de doña Isaura Leal Fernández; 71 a favor de don Guillermo Mariscal Anaya; 67 a favor de doña Carmen Navarro Lacoba; 33 a favor de don Ignacio Gil Lázaro, y 1 voto en blanco."
+                },
+                {
+                  "text": "En consecuencia, queda proclamado secretario primero don Gerardo Pisarello Prados; secretaria segunda, doña Isaura Leal Fernández; secretario tercero, don Guillermo Mariscal Anaya, y secretaria cuarta, doña Carmen Navarro Lacoba. ("
+                },
+                {
+                  "text": "Aplausos de las señoras y señores diputados electos, algunos puestos en pie.-Aplausos de los miembros del Gobierno en funciones, puestos en pie)."
+                },
+                {
+                  "text": "Señorías, concluidas las votaciones y antes de solicitar a los miembros de la Mesa que suban aquí, quiero desearles a todos lo mejor en esta legislatura, y lo hago recordando un hermoso poema de Kavafis, Itaca, que dice que cuando emprendemos un viaje debemos rogar que sea largo y que esté lleno de experiencias y de conocimientos. ("
+                },
+                {
+                  "text": "Aplausos)."
+                },
+                {
+                  "text": "Ruego, por favor, a la señora presidenta y a los señores vicepresidentes y secretarios elegidos en este acto que ocupen sus puestos en la Mesa del Congreso de los Diputados."
+                },
+                {
+                  "text": "Muchísimas gracias. ("
+                },
+                {
+                  "text": "Así lo hacen los miembros de la Mesa.-Aplausos)."
+                },
+                {
+                  "text": "JURAMENTO O PROMESA DE ACATAMIENTO DE LA CONSTITUCIÓN."
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "documents": [],
+      "debug": {
+        "page": 14
+      }
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 1
+      },
+      "speechIndex": 1023,
+      "originID": "DSCD-15-PL-1-23",
+      "originTextID": "DSCD-15-PL-1-23",
+      "agendaItem": {
+        "title": "Sesión plenaria",
+        "officialTitle": "Sesión plenaria"
+      },
+      "people": [
+        {
+          "label": "Armengol Socias",
+          "lastname": "Armengol Socias",
+          "context": "president",
+          "type": "memberOfParliament",
+          "role": "Presidenta Del Congreso De Los Diputados"
+        }
+      ],
+      "textContents": [
+        {
+          "type": "proceedings",
+          "language": "ES-es",
+          "originTextID": "DSCD-15-PL-1-23",
+          "sourceURI": "https://www.congreso.es/public_oficiales/L15/CONG/DS/PL/DSCD-15-PL-1.PDF#page=14",
+          "creator": "Congreso de los Diputados",
+          "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+          "textBody": [
+            {
+              "type": "speech",
+              "text": "Bos días, buenos días, egun on, bon dia. Muchísimas gracias. Señorías, si les parece, vamos a proceder al juramento o promesa de acatamiento a la Constitución de todos los miembros de la Cámara en los términos previstos en el Reglamento y en la resolución de la Presidencia de 30 de noviembre de 1989. Ruego a los miembros de la Mesa que se pongan en pie. Prometo acatar la Constitución y cumplir fielmente mis obligaciones como presidenta del Congreso de los Diputados. Señor don Alfonso Rodríguez Gómez de Celis, ¿jura o promete acatar la Constitución y cumplir fielmente sus obligaciones como vicepresidente primero?",
+              "sentences": [
+                {
+                  "text": "Bos días, buenos días, egun on, bon dia."
+                },
+                {
+                  "text": "Muchísimas gracias."
+                },
+                {
+                  "text": "Señorías, si les parece, vamos a proceder al juramento o promesa de acatamiento a la Constitución de todos los miembros de la Cámara en los términos previstos en el Reglamento y en la resolución de la Presidencia de 30 de noviembre de 1989."
+                },
+                {
+                  "text": "Ruego a los miembros de la Mesa que se pongan en pie."
+                },
+                {
+                  "text": "Prometo acatar la Constitución y cumplir fielmente mis obligaciones como presidenta del Congreso de los Diputados."
+                },
+                {
+                  "text": "Señor don Alfonso Rodríguez Gómez de Celis, ¿jura o promete acatar la Constitución y cumplir fielmente sus obligaciones como vicepresidente primero?"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "documents": [],
+      "debug": {
+        "page": 14
+      }
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 1
+      },
+      "speechIndex": 1024,
+      "originID": "DSCD-15-PL-1-24",
+      "originTextID": "DSCD-15-PL-1-24",
+      "agendaItem": {
+        "title": "Sesión plenaria",
+        "officialTitle": "Sesión plenaria"
+      },
+      "people": [
+        {
+          "label": "Rodríguez Gómez De Celis",
+          "lastname": "Rodríguez Gómez De Celis",
+          "context": "main-speaker",
+          "type": "memberOfParliament"
+        }
+      ],
+      "textContents": [
+        {
+          "type": "proceedings",
+          "language": "ES-es",
+          "originTextID": "DSCD-15-PL-1-24",
+          "sourceURI": "https://www.congreso.es/public_oficiales/L15/CONG/DS/PL/DSCD-15-PL-1.PDF#page=14",
+          "creator": "Congreso de los Diputados",
+          "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+          "textBody": [
+            {
+              "type": "speech",
+              "text": "Sí, prometo.",
+              "sentences": [
+                {
+                  "text": "Sí, prometo."
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "documents": [],
+      "debug": {
+        "page": 14
+      }
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 1
+      },
+      "speechIndex": 1025,
+      "originID": "DSCD-15-PL-1-25",
+      "originTextID": "DSCD-15-PL-1-25",
+      "agendaItem": {
+        "title": "Sesión plenaria",
+        "officialTitle": "Sesión plenaria"
+      },
+      "people": [
+        {
+          "label": "Presidenta",
+          "lastname": "Presidenta",
+          "context": "main-speaker",
+          "type": "memberOfParliament"
+        }
+      ],
+      "textContents": [
+        {
+          "type": "proceedings",
+          "language": "ES-es",
+          "originTextID": "DSCD-15-PL-1-25",
+          "sourceURI": "https://www.congreso.es/public_oficiales/L15/CONG/DS/PL/DSCD-15-PL-1.PDF#page=14",
+          "creator": "Congreso de los Diputados",
+          "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+          "textBody": [
+            {
+              "type": "speech",
+              "text": "Señor don José Antonio Bermúdez de Castro Fernández, ¿jura o promete acatar la Constitución y cumplir fielmente sus obligaciones como vicepresidente segundo?",
+              "sentences": [
+                {
+                  "text": "Señor don José Antonio Bermúdez de Castro Fernández, ¿jura o promete acatar la Constitución y cumplir fielmente sus obligaciones como vicepresidente segundo?"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "documents": [],
+      "debug": {
+        "page": 14
+      }
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 1
+      },
+      "speechIndex": 1026,
+      "originID": "DSCD-15-PL-1-26",
+      "originTextID": "DSCD-15-PL-1-26",
+      "agendaItem": {
+        "title": "Sesión plenaria",
+        "officialTitle": "Sesión plenaria"
+      },
+      "people": [
+        {
+          "label": "Bermúdez De Castro Fernández",
+          "lastname": "Bermúdez De Castro Fernández",
+          "context": "main-speaker",
+          "type": "memberOfParliament"
+        }
+      ],
+      "textContents": [
+        {
+          "type": "proceedings",
+          "language": "ES-es",
+          "originTextID": "DSCD-15-PL-1-26",
+          "sourceURI": "https://www.congreso.es/public_oficiales/L15/CONG/DS/PL/DSCD-15-PL-1.PDF#page=14",
+          "creator": "Congreso de los Diputados",
+          "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+          "textBody": [
+            {
+              "type": "speech",
+              "text": "Sí, juro.",
+              "sentences": [
+                {
+                  "text": "Sí, juro."
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "documents": [],
+      "debug": {
+        "page": 14
+      }
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 1
+      },
+      "speechIndex": 1027,
+      "originID": "DSCD-15-PL-1-27",
+      "originTextID": "DSCD-15-PL-1-27",
+      "agendaItem": {
+        "title": "Sesión plenaria",
+        "officialTitle": "Sesión plenaria"
+      },
+      "people": [
+        {
+          "label": "Presidenta",
+          "lastname": "Presidenta",
+          "context": "main-speaker",
+          "type": "memberOfParliament"
+        }
+      ],
+      "textContents": [
+        {
+          "type": "proceedings",
+          "language": "ES-es",
+          "originTextID": "DSCD-15-PL-1-27",
+          "sourceURI": "https://www.congreso.es/public_oficiales/L15/CONG/DS/PL/DSCD-15-PL-1.PDF#page=14",
+          "creator": "Congreso de los Diputados",
+          "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+          "textBody": [
+            {
+              "type": "speech",
+              "text": "Señora doña Esther Gil de Reboleño Lastortres, ¿jura o promete acatar la Constitución y cumplir fielmente sus obligaciones como vicepresidenta tercera?",
+              "sentences": [
+                {
+                  "text": "Señora doña Esther Gil de Reboleño Lastortres, ¿jura o promete acatar la Constitución y cumplir fielmente sus obligaciones como vicepresidenta tercera?"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "documents": [],
+      "debug": {
+        "page": 14
+      }
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 1
+      },
+      "speechIndex": 1028,
+      "originID": "DSCD-15-PL-1-28",
+      "originTextID": "DSCD-15-PL-1-28",
+      "agendaItem": {
+        "title": "Sesión plenaria",
+        "officialTitle": "Sesión plenaria"
+      },
+      "people": [
+        {
+          "label": "Gil De Reboleño Lastortres",
+          "lastname": "Gil De Reboleño Lastortres",
+          "context": "main-speaker",
+          "type": "memberOfParliament"
+        }
+      ],
+      "textContents": [
+        {
+          "type": "proceedings",
+          "language": "ES-es",
+          "originTextID": "DSCD-15-PL-1-28",
+          "sourceURI": "https://www.congreso.es/public_oficiales/L15/CONG/DS/PL/DSCD-15-PL-1.PDF#page=14",
+          "creator": "Congreso de los Diputados",
+          "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+          "textBody": [
+            {
+              "type": "speech",
+              "text": "Sí, prometo por una España plurinacional y feminista. (Rumores). Página 15",
+              "sentences": [
+                {
+                  "text": "Sí, prometo por una España plurinacional y feminista. ("
+                },
+                {
+                  "text": "Rumores)."
+                },
+                {
+                  "text": "Página 15"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "documents": [],
+      "debug": {
+        "page": 14
+      }
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 1
+      },
+      "speechIndex": 1029,
+      "originID": "DSCD-15-PL-1-29",
+      "originTextID": "DSCD-15-PL-1-29",
+      "agendaItem": {
+        "title": "Sesión plenaria",
+        "officialTitle": "Sesión plenaria"
+      },
+      "people": [
+        {
+          "label": "Presidenta",
+          "lastname": "Presidenta",
+          "context": "main-speaker",
+          "type": "memberOfParliament"
+        }
+      ],
+      "textContents": [
+        {
+          "type": "proceedings",
+          "language": "ES-es",
+          "originTextID": "DSCD-15-PL-1-29",
+          "sourceURI": "https://www.congreso.es/public_oficiales/L15/CONG/DS/PL/DSCD-15-PL-1.PDF#page=15",
+          "creator": "Congreso de los Diputados",
+          "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+          "textBody": [
+            {
+              "type": "speech",
+              "text": "Señora doña Marta González Vázquez, ¿jura o promete acatar la Constitución y cumplir fielmente sus obligaciones como vicepresidenta cuarta?",
+              "sentences": [
+                {
+                  "text": "Señora doña Marta González Vázquez, ¿jura o promete acatar la Constitución y cumplir fielmente sus obligaciones como vicepresidenta cuarta?"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "documents": [],
+      "debug": {
+        "page": 15
+      }
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 1
+      },
+      "speechIndex": 1030,
+      "originID": "DSCD-15-PL-1-30",
+      "originTextID": "DSCD-15-PL-1-30",
+      "agendaItem": {
+        "title": "Sesión plenaria",
+        "officialTitle": "Sesión plenaria"
+      },
+      "people": [
+        {
+          "label": "González Vázquez",
+          "lastname": "González Vázquez",
+          "context": "main-speaker",
+          "type": "memberOfParliament"
+        }
+      ],
+      "textContents": [
+        {
+          "type": "proceedings",
+          "language": "ES-es",
+          "originTextID": "DSCD-15-PL-1-30",
+          "sourceURI": "https://www.congreso.es/public_oficiales/L15/CONG/DS/PL/DSCD-15-PL-1.PDF#page=15",
+          "creator": "Congreso de los Diputados",
+          "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+          "textBody": [
+            {
+              "type": "speech",
+              "text": "Sí, prometo.",
+              "sentences": [
+                {
+                  "text": "Sí, prometo."
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "documents": [],
+      "debug": {
+        "page": 15
+      }
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 1
+      },
+      "speechIndex": 1031,
+      "originID": "DSCD-15-PL-1-31",
+      "originTextID": "DSCD-15-PL-1-31",
+      "agendaItem": {
+        "title": "Sesión plenaria",
+        "officialTitle": "Sesión plenaria"
+      },
+      "people": [
+        {
+          "label": "Presidenta",
+          "lastname": "Presidenta",
+          "context": "main-speaker",
+          "type": "memberOfParliament"
+        }
+      ],
+      "textContents": [
+        {
+          "type": "proceedings",
+          "language": "ES-es",
+          "originTextID": "DSCD-15-PL-1-31",
+          "sourceURI": "https://www.congreso.es/public_oficiales/L15/CONG/DS/PL/DSCD-15-PL-1.PDF#page=15",
+          "creator": "Congreso de los Diputados",
+          "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+          "textBody": [
+            {
+              "type": "speech",
+              "text": "Señor don Gerardo Pisarello Prados, ¿jura o promete acatar la Constitución y cumplir fielmente sus obligaciones como secretario primero?",
+              "sentences": [
+                {
+                  "text": "Señor don Gerardo Pisarello Prados, ¿jura o promete acatar la Constitución y cumplir fielmente sus obligaciones como secretario primero?"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "documents": [],
+      "debug": {
+        "page": 15
+      }
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 1
+      },
+      "speechIndex": 1032,
+      "originID": "DSCD-15-PL-1-32",
+      "originTextID": "DSCD-15-PL-1-32",
+      "agendaItem": {
+        "title": "Sesión plenaria",
+        "officialTitle": "Sesión plenaria"
+      },
+      "people": [
+        {
+          "label": "Pisarello Prados",
+          "lastname": "Pisarello Prados",
+          "context": "main-speaker",
+          "type": "memberOfParliament"
+        }
+      ],
+      "textContents": [
+        {
+          "type": "proceedings",
+          "language": "ES-es",
+          "originTextID": "DSCD-15-PL-1-32",
+          "sourceURI": "https://www.congreso.es/public_oficiales/L15/CONG/DS/PL/DSCD-15-PL-1.PDF#page=15",
+          "creator": "Congreso de los Diputados",
+          "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+          "textBody": [
+            {
+              "type": "speech",
+              "text": "Per un nou temps republicà, prometo.",
+              "sentences": [
+                {
+                  "text": "Per un nou temps republicà, prometo."
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "documents": [],
+      "debug": {
+        "page": 15
+      }
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 1
+      },
+      "speechIndex": 1033,
+      "originID": "DSCD-15-PL-1-33",
+      "originTextID": "DSCD-15-PL-1-33",
+      "agendaItem": {
+        "title": "Sesión plenaria",
+        "officialTitle": "Sesión plenaria"
+      },
+      "people": [
+        {
+          "label": "Presidenta",
+          "lastname": "Presidenta",
+          "context": "main-speaker",
+          "type": "memberOfParliament"
+        }
+      ],
+      "textContents": [
+        {
+          "type": "proceedings",
+          "language": "ES-es",
+          "originTextID": "DSCD-15-PL-1-33",
+          "sourceURI": "https://www.congreso.es/public_oficiales/L15/CONG/DS/PL/DSCD-15-PL-1.PDF#page=15",
+          "creator": "Congreso de los Diputados",
+          "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+          "textBody": [
+            {
+              "type": "speech",
+              "text": "Señora doña Isaura Leal Fernández, ¿jura o promete acatar la Constitución y cumplir fielmente sus obligaciones como secretaria segunda?",
+              "sentences": [
+                {
+                  "text": "Señora doña Isaura Leal Fernández, ¿jura o promete acatar la Constitución y cumplir fielmente sus obligaciones como secretaria segunda?"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "documents": [],
+      "debug": {
+        "page": 15
+      }
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 1
+      },
+      "speechIndex": 1034,
+      "originID": "DSCD-15-PL-1-34",
+      "originTextID": "DSCD-15-PL-1-34",
+      "agendaItem": {
+        "title": "Sesión plenaria",
+        "officialTitle": "Sesión plenaria"
+      },
+      "people": [
+        {
+          "label": "Leal Fernández",
+          "lastname": "Leal Fernández",
+          "context": "main-speaker",
+          "type": "memberOfParliament"
+        }
+      ],
+      "textContents": [
+        {
+          "type": "proceedings",
+          "language": "ES-es",
+          "originTextID": "DSCD-15-PL-1-34",
+          "sourceURI": "https://www.congreso.es/public_oficiales/L15/CONG/DS/PL/DSCD-15-PL-1.PDF#page=15",
+          "creator": "Congreso de los Diputados",
+          "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+          "textBody": [
+            {
+              "type": "speech",
+              "text": "Sí, prometo.",
+              "sentences": [
+                {
+                  "text": "Sí, prometo."
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "documents": [],
+      "debug": {
+        "page": 15
+      }
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 1
+      },
+      "speechIndex": 1035,
+      "originID": "DSCD-15-PL-1-35",
+      "originTextID": "DSCD-15-PL-1-35",
+      "agendaItem": {
+        "title": "Sesión plenaria",
+        "officialTitle": "Sesión plenaria"
+      },
+      "people": [
+        {
+          "label": "Presidenta",
+          "lastname": "Presidenta",
+          "context": "main-speaker",
+          "type": "memberOfParliament"
+        }
+      ],
+      "textContents": [
+        {
+          "type": "proceedings",
+          "language": "ES-es",
+          "originTextID": "DSCD-15-PL-1-35",
+          "sourceURI": "https://www.congreso.es/public_oficiales/L15/CONG/DS/PL/DSCD-15-PL-1.PDF#page=15",
+          "creator": "Congreso de los Diputados",
+          "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+          "textBody": [
+            {
+              "type": "speech",
+              "text": "Señor don Guillermo Mariscal Anaya, ¿jura o promete acatar la Constitución y cumplir fielmente sus obligaciones como secretario tercero?",
+              "sentences": [
+                {
+                  "text": "Señor don Guillermo Mariscal Anaya, ¿jura o promete acatar la Constitución y cumplir fielmente sus obligaciones como secretario tercero?"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "documents": [],
+      "debug": {
+        "page": 15
+      }
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 1
+      },
+      "speechIndex": 1036,
+      "originID": "DSCD-15-PL-1-36",
+      "originTextID": "DSCD-15-PL-1-36",
+      "agendaItem": {
+        "title": "Sesión plenaria",
+        "officialTitle": "Sesión plenaria"
+      },
+      "people": [
+        {
+          "label": "Mariscal Anaya",
+          "lastname": "Mariscal Anaya",
+          "context": "main-speaker",
+          "type": "memberOfParliament"
+        }
+      ],
+      "textContents": [
+        {
+          "type": "proceedings",
+          "language": "ES-es",
+          "originTextID": "DSCD-15-PL-1-36",
+          "sourceURI": "https://www.congreso.es/public_oficiales/L15/CONG/DS/PL/DSCD-15-PL-1.PDF#page=15",
+          "creator": "Congreso de los Diputados",
+          "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+          "textBody": [
+            {
+              "type": "speech",
+              "text": "Sí, juro.",
+              "sentences": [
+                {
+                  "text": "Sí, juro."
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "documents": [],
+      "debug": {
+        "page": 15
+      }
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 1
+      },
+      "speechIndex": 1037,
+      "originID": "DSCD-15-PL-1-37",
+      "originTextID": "DSCD-15-PL-1-37",
+      "agendaItem": {
+        "title": "Sesión plenaria",
+        "officialTitle": "Sesión plenaria"
+      },
+      "people": [
+        {
+          "label": "Presidenta",
+          "lastname": "Presidenta",
+          "context": "main-speaker",
+          "type": "memberOfParliament"
+        }
+      ],
+      "textContents": [
+        {
+          "type": "proceedings",
+          "language": "ES-es",
+          "originTextID": "DSCD-15-PL-1-37",
+          "sourceURI": "https://www.congreso.es/public_oficiales/L15/CONG/DS/PL/DSCD-15-PL-1.PDF#page=15",
+          "creator": "Congreso de los Diputados",
+          "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+          "textBody": [
+            {
+              "type": "speech",
+              "text": "Señora doña Carmen Navarro Lacoba, ¿jura o promete acatar la Constitución y cumplir fielmente sus obligaciones como secretaria cuarta?",
+              "sentences": [
+                {
+                  "text": "Señora doña Carmen Navarro Lacoba, ¿jura o promete acatar la Constitución y cumplir fielmente sus obligaciones como secretaria cuarta?"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "documents": [],
+      "debug": {
+        "page": 15
+      }
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 1
+      },
+      "speechIndex": 1038,
+      "originID": "DSCD-15-PL-1-38",
+      "originTextID": "DSCD-15-PL-1-38",
+      "agendaItem": {
+        "title": "Sesión plenaria",
+        "officialTitle": "Sesión plenaria"
+      },
+      "people": [
+        {
+          "label": "Navarro Lacoba",
+          "lastname": "Navarro Lacoba",
+          "context": "main-speaker",
+          "type": "memberOfParliament"
+        }
+      ],
+      "textContents": [
+        {
+          "type": "proceedings",
+          "language": "ES-es",
+          "originTextID": "DSCD-15-PL-1-38",
+          "sourceURI": "https://www.congreso.es/public_oficiales/L15/CONG/DS/PL/DSCD-15-PL-1.PDF#page=15",
+          "creator": "Congreso de los Diputados",
+          "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+          "textBody": [
+            {
+              "type": "speech",
+              "text": "Sí, juro.",
+              "sentences": [
+                {
+                  "text": "Sí, juro."
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "documents": [],
+      "debug": {
+        "page": 15
+      }
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 1
+      },
+      "speechIndex": 1039,
+      "originID": "DSCD-15-PL-1-39",
+      "originTextID": "DSCD-15-PL-1-39",
+      "agendaItem": {
+        "title": "Sesión plenaria",
+        "officialTitle": "Sesión plenaria"
+      },
+      "people": [
+        {
+          "label": "Presidenta",
+          "lastname": "Presidenta",
+          "context": "main-speaker",
+          "type": "memberOfParliament"
+        }
+      ],
+      "textContents": [
+        {
+          "type": "proceedings",
+          "language": "ES-es",
+          "originTextID": "DSCD-15-PL-1-39",
+          "sourceURI": "https://www.congreso.es/public_oficiales/L15/CONG/DS/PL/DSCD-15-PL-1.PDF#page=15",
+          "creator": "Congreso de los Diputados",
+          "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+          "textBody": [
+            {
+              "type": "speech",
+              "text": "Perfecto, pueden sentarse. Pasemos ahora al juramento general. Señorías, ¿juráis o prometéis acatar la Constitución? Ruego al señor secretario primero que inicie el llamamiento por orden alfabético para que las señoras y señores diputados puedan proceder al acatamiento. Por los secretarios de la Mesa se procede a dar lectura de la lista de las señoras y los señores diputados electos, quienes juran, prometen o lo hacen utilizando otras fórmulas de acatamiento de la Constitución.",
+              "sentences": [
+                {
+                  "text": "Perfecto, pueden sentarse."
+                },
+                {
+                  "text": "Pasemos ahora al juramento general."
+                },
+                {
+                  "text": "Señorías, ¿juráis o prometéis acatar la Constitución?"
+                },
+                {
+                  "text": "Ruego al señor secretario primero que inicie el llamamiento por orden alfabético para que las señoras y señores diputados puedan proceder al acatamiento."
+                },
+                {
+                  "text": "Por los secretarios de la Mesa se procede a dar lectura de la lista de las señoras y los señores diputados electos, quienes juran, prometen o lo hacen utilizando otras fórmulas de acatamiento de la Constitución."
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "documents": [],
+      "debug": {
+        "page": 15
+      }
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 1
+      },
+      "speechIndex": 1040,
+      "originID": "DSCD-15-PL-1-40",
+      "originTextID": "DSCD-15-PL-1-40",
+      "agendaItem": {
+        "title": "Sesión plenaria",
+        "officialTitle": "Sesión plenaria"
+      },
+      "people": [
+        {
+          "label": "Presidenta",
+          "lastname": "Presidenta",
+          "context": "main-speaker",
+          "type": "memberOfParliament"
+        }
+      ],
+      "textContents": [
+        {
+          "type": "proceedings",
+          "language": "ES-es",
+          "originTextID": "DSCD-15-PL-1-40",
+          "sourceURI": "https://www.congreso.es/public_oficiales/L15/CONG/DS/PL/DSCD-15-PL-1.PDF#page=15",
+          "creator": "Congreso de los Diputados",
+          "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+          "textBody": [
+            {
+              "type": "speech",
+              "text": "Un poco de silencio, por favor, que no se escucha nada. (La señora Rodríguez de Millán Parro pide la palabra). Tiene la palabra.",
+              "sentences": [
+                {
+                  "text": "Un poco de silencio, por favor, que no se escucha nada. ("
+                },
+                {
+                  "text": "La señora Rodríguez de Millán Parro pide la palabra)."
+                },
+                {
+                  "text": "Tiene la palabra."
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "documents": [],
+      "debug": {
+        "page": 15
+      }
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 1
+      },
+      "speechIndex": 1041,
+      "originID": "DSCD-15-PL-1-41",
+      "originTextID": "DSCD-15-PL-1-41",
+      "agendaItem": {
+        "title": "Sesión plenaria",
+        "officialTitle": "Sesión plenaria"
+      },
+      "people": [
+        {
+          "label": "Rodríguez De Millán Parro",
+          "lastname": "Rodríguez De Millán Parro",
+          "context": "main-speaker",
+          "type": "memberOfParliament"
+        }
+      ],
+      "textContents": [
+        {
+          "type": "proceedings",
+          "language": "ES-es",
+          "originTextID": "DSCD-15-PL-1-41",
+          "sourceURI": "https://www.congreso.es/public_oficiales/L15/CONG/DS/PL/DSCD-15-PL-1.PDF#page=15",
+          "creator": "Congreso de los Diputados",
+          "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+          "textBody": [
+            {
+              "type": "speech",
+              "text": "Gracias, presidenta. Solicito la palabra sobre la base del artículo 72.1 del Reglamento de la Cámara, ya que, con ocasión de la promesa o juramento que han formulado determinados diputados, se han visto incumplidos los artículos 4 y 20 del Reglamento de la Cámara. Igualmente se ha visto incumplida la Sentencia del Tribunal Constitucional 119/1990, de 21 de junio, que establece que en ningún caso podrán tenerse por válidas expresiones que condicionen o contradigan la naturaleza del juramento, y determina como válida exclusivamente la fórmula precedente al mismo de «por imperativo legal». Por otra parte, sobre la base del artículo 3 de la Constitución, no puede darse por válida la promesa o juramento en una lengua distinta del castellano, entre otras cosas, porque aquí hay muchos diputados que no entienden cuál ha sido la formulación y no sabemos si están acatando la Constitución o la están atacando. Por todo ello, se solicita a la Presidencia que declare la invalidez de dichas promesas o juramentos, así como la no adquisición de la condición plena de aquellos diputados que las han formulado. Muchas gracias. (Aplausos.-La señora Gamarra Ruiz-Clavijo pide la palabra).",
+              "sentences": [
+                {
+                  "text": "Gracias, presidenta."
+                },
+                {
+                  "text": "Solicito la palabra sobre la base del artículo 72.1 del Reglamento de la Cámara, ya que, con ocasión de la promesa o juramento que han formulado determinados diputados, se han visto incumplidos los artículos 4 y 20 del Reglamento de la Cámara."
+                },
+                {
+                  "text": "Igualmente se ha visto incumplida la Sentencia del Tribunal Constitucional 119/1990, de 21 de junio, que establece que en ningún caso podrán tenerse por válidas expresiones que condicionen o contradigan la naturaleza del juramento, y determina como válida exclusivamente la fórmula precedente al mismo de «por imperativo legal»."
+                },
+                {
+                  "text": "Por otra parte, sobre la base del artículo 3 de la Constitución, no puede darse por válida la promesa o juramento en una lengua distinta del castellano, entre otras cosas, porque aquí hay muchos diputados que no entienden cuál ha sido la formulación y no sabemos si están acatando la Constitución o la están atacando."
+                },
+                {
+                  "text": "Por todo ello, se solicita a la Presidencia que declare la invalidez de dichas promesas o juramentos, así como la no adquisición de la condición plena de aquellos diputados que las han formulado."
+                },
+                {
+                  "text": "Muchas gracias. ("
+                },
+                {
+                  "text": "Aplausos.-La señora Gamarra Ruiz-Clavijo pide la palabra)."
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "documents": [],
+      "debug": {
+        "page": 15
+      }
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 1
+      },
+      "speechIndex": 1042,
+      "originID": "DSCD-15-PL-1-42",
+      "originTextID": "DSCD-15-PL-1-42",
+      "agendaItem": {
+        "title": "Sesión plenaria",
+        "officialTitle": "Sesión plenaria"
+      },
+      "people": [
+        {
+          "label": "Presidenta",
+          "lastname": "Presidenta",
+          "context": "main-speaker",
+          "type": "memberOfParliament"
+        }
+      ],
+      "textContents": [
+        {
+          "type": "proceedings",
+          "language": "ES-es",
+          "originTextID": "DSCD-15-PL-1-42",
+          "sourceURI": "https://www.congreso.es/public_oficiales/L15/CONG/DS/PL/DSCD-15-PL-1.PDF#page=15",
+          "creator": "Congreso de los Diputados",
+          "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+          "textBody": [
+            {
+              "type": "speech",
+              "text": "Muchas gracias. Señora Gamarra, tiene la palabra.",
+              "sentences": [
+                {
+                  "text": "Muchas gracias."
+                },
+                {
+                  "text": "Señora Gamarra, tiene la palabra."
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "documents": [],
+      "debug": {
+        "page": 15
+      }
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 1
+      },
+      "speechIndex": 1043,
+      "originID": "DSCD-15-PL-1-43",
+      "originTextID": "DSCD-15-PL-1-43",
+      "agendaItem": {
+        "title": "Sesión plenaria",
+        "officialTitle": "Sesión plenaria"
+      },
+      "people": [
+        {
+          "label": "Gamarra Ruiz-Clavijo",
+          "lastname": "Gamarra Ruiz-Clavijo",
+          "context": "main-speaker",
+          "type": "memberOfParliament"
+        }
+      ],
+      "textContents": [
+        {
+          "type": "proceedings",
+          "language": "ES-es",
+          "originTextID": "DSCD-15-PL-1-43",
+          "sourceURI": "https://www.congreso.es/public_oficiales/L15/CONG/DS/PL/DSCD-15-PL-1.PDF#page=15",
+          "creator": "Congreso de los Diputados",
+          "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+          "textBody": [
+            {
+              "type": "speech",
+              "text": "Presidenta, solicito la palabra al amparo del artículo 72 del Reglamento y en aplicación y en relación con los artículos 4, 20, 32.1 y 32.2 del citado Reglamento. La solicitamos para pedir a la Presidencia, aunque sea ya habiendo concluido el juramento, a posteriori, que se respete y haga respetar el Reglamento por parte de todos los miembros de esta Cámara. Página 16 Evidentemente, sabemos de la flexibilidad con la que se puede dotar a su prestación, pero sin duda alguna lo que hemos vivido aquí por parte de alrededor de una veintena de diputados excede lo que es flexibilidad. Estamos ante supuestos en los que se ha desnaturalizado y vaciado del contenido que debe tener, posiblemente, el acatamiento. Por tanto, instamos a la Presidencia y a la Mesa, dado que no solo afecta a aquellos diputados que han llevado a cabo de esta manera el no acatamiento, sino que también afectaría al ius in officium de todos los parlamentarios, que proceda a la revisión de los acatamientos que se han formulado durante esta mañana. A la vista del mismo, le pedimos que en esta revisión de los formulamientos se tenga en cuenta no solo lo que dice el Reglamento, sino también lo que dice la ley electoral y la jurisprudencia del Tribunal Constitucional. Del mismo modo, le trasladamos que este grupo parlamentario -queremos dejar constancia de ello- se reserva las acciones legales oportunas que pudiera tener previsto ejercer si constatáramos que se ha llevado a cabo la vulneración y que, por tanto, no se ha producido el acatamiento por parte de algunas de sus señorías. Muchísimas gracias. (Aplausos).",
+              "sentences": [
+                {
+                  "text": "Presidenta, solicito la palabra al amparo del artículo 72 del Reglamento y en aplicación y en relación con los artículos 4, 20, 32.1 y 32.2 del citado Reglamento."
+                },
+                {
+                  "text": "La solicitamos para pedir a la Presidencia, aunque sea ya habiendo concluido el juramento, a posteriori, que se respete y haga respetar el Reglamento por parte de todos los miembros de esta Cámara."
+                },
+                {
+                  "text": "Página 16 Evidentemente, sabemos de la flexibilidad con la que se puede dotar a su prestación, pero sin duda alguna lo que hemos vivido aquí por parte de alrededor de una veintena de diputados excede lo que es flexibilidad."
+                },
+                {
+                  "text": "Estamos ante supuestos en los que se ha desnaturalizado y vaciado del contenido que debe tener, posiblemente, el acatamiento."
+                },
+                {
+                  "text": "Por tanto, instamos a la Presidencia y a la Mesa, dado que no solo afecta a aquellos diputados que han llevado a cabo de esta manera el no acatamiento, sino que también afectaría al ius in officium de todos los parlamentarios, que proceda a la revisión de los acatamientos que se han formulado durante esta mañana."
+                },
+                {
+                  "text": "A la vista del mismo, le pedimos que en esta revisión de los formulamientos se tenga en cuenta no solo lo que dice el Reglamento, sino también lo que dice la ley electoral y la jurisprudencia del Tribunal Constitucional."
+                },
+                {
+                  "text": "Del mismo modo, le trasladamos que este grupo parlamentario -queremos dejar constancia de ello- se reserva las acciones legales oportunas que pudiera tener previsto ejercer si constatáramos que se ha llevado a cabo la vulneración y que, por tanto, no se ha producido el acatamiento por parte de algunas de sus señorías."
+                },
+                {
+                  "text": "Muchísimas gracias. ("
+                },
+                {
+                  "text": "Aplausos)."
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "documents": [],
+      "debug": {
+        "page": 15
+      }
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 1
+      },
+      "speechIndex": 1044,
+      "originID": "DSCD-15-PL-1-44",
+      "originTextID": "DSCD-15-PL-1-44",
+      "agendaItem": {
+        "title": "Sesión plenaria",
+        "officialTitle": "Sesión plenaria"
+      },
+      "people": [
+        {
+          "label": "Presidenta",
+          "lastname": "Presidenta",
+          "context": "main-speaker",
+          "type": "memberOfParliament"
+        }
+      ],
+      "textContents": [
+        {
+          "type": "proceedings",
+          "language": "ES-es",
+          "originTextID": "DSCD-15-PL-1-44",
+          "sourceURI": "https://www.congreso.es/public_oficiales/L15/CONG/DS/PL/DSCD-15-PL-1.PDF#page=16",
+          "creator": "Congreso de los Diputados",
+          "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+          "textBody": [
+            {
+              "type": "speech",
+              "text": "Muchas gracias por sus intervenciones. Una vez oídas sus intervenciones y los acatamientos de promesa y los juramentos de los diputados, les tengo que decir que esta Presidencia, en el ejercicio de la competencia exclusiva que le es propia, entiende que todas las fórmulas que se han usado de acatamiento se ajustan a lo previsto en el artículo 4 del Reglamento de la Cámara y a la Resolución de la Presidencia del 30 de noviembre de 1989. (Rumores). Les pido un poco de silencio y respeto. Pero, sobre todo, se amparan en la doctrina de la Junta Electoral Central y en la jurisprudencia del Tribunal Constitucional, y sobre todo a raíz de la última sentencia del Tribunal Constitucional. Por tanto, entiendo que todas las señoras y los señores diputados que han contestado al llamamiento han adquirido la condición plena de diputados y diputadas, y les doy la enhorabuena a todos ustedes. (Aplausos). DISCURSO DE LA SEÑORA PRESIDENTA DEL CONGRESO DE LOS DIPUTADOS.",
+              "sentences": [
+                {
+                  "text": "Muchas gracias por sus intervenciones."
+                },
+                {
+                  "text": "Una vez oídas sus intervenciones y los acatamientos de promesa y los juramentos de los diputados, les tengo que decir que esta Presidencia, en el ejercicio de la competencia exclusiva que le es propia, entiende que todas las fórmulas que se han usado de acatamiento se ajustan a lo previsto en el artículo 4 del Reglamento de la Cámara y a la Resolución de la Presidencia del 30 de noviembre de 1989. ("
+                },
+                {
+                  "text": "Rumores)."
+                },
+                {
+                  "text": "Les pido un poco de silencio y respeto."
+                },
+                {
+                  "text": "Pero, sobre todo, se amparan en la doctrina de la Junta Electoral Central y en la jurisprudencia del Tribunal Constitucional, y sobre todo a raíz de la última sentencia del Tribunal Constitucional."
+                },
+                {
+                  "text": "Por tanto, entiendo que todas las señoras y los señores diputados que han contestado al llamamiento han adquirido la condición plena de diputados y diputadas, y les doy la enhorabuena a todos ustedes. ("
+                },
+                {
+                  "text": "Aplausos)."
+                },
+                {
+                  "text": "DISCURSO DE LA SEÑORA PRESIDENTA DEL CONGRESO DE LOS DIPUTADOS."
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "documents": [],
+      "debug": {
+        "page": 16
+      }
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 1
+      },
+      "speechIndex": 1045,
+      "originID": "DSCD-15-PL-1-45",
+      "originTextID": "DSCD-15-PL-1-45",
+      "agendaItem": {
+        "title": "Sesión plenaria",
+        "officialTitle": "Sesión plenaria"
+      },
+      "people": [
+        {
+          "label": "Presidenta",
+          "lastname": "Presidenta",
+          "context": "main-speaker",
+          "type": "memberOfParliament"
+        }
+      ],
+      "textContents": [
+        {
+          "type": "proceedings",
+          "language": "ES-es",
+          "originTextID": "DSCD-15-PL-1-45",
+          "sourceURI": "https://www.congreso.es/public_oficiales/L15/CONG/DS/PL/DSCD-15-PL-1.PDF#page=16",
+          "creator": "Congreso de los Diputados",
+          "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+          "textBody": [
+            {
+              "type": "speech",
+              "text": "Me permitirán unas breves palabras. Señores diputados, señoras diputadas, miembros en funciones del Gobierno, autoridades, ciudadanos y ciudadanas, en un día tan importante para nuestra democracia y tan emotivo para todas y para todos los presentes, quiero empezar con un agradecimiento sincero, no solo en mi nombre, sino también en el de toda la nueva Mesa del Congreso. Es para nosotras y nosotros un inmenso honor asumir el reto que hoy nos es encomendado. Pero permítanme que, antes que nada, envíe todo mi apoyo, y estoy seguro de que el de toda la Cámara, a los afectados por el terrible incendio que asola la isla de Tenerife. (Aplausos). Queremos trasladar también nuestra fuerza y agradecimiento a todos los cuerpos que están trabajando duramente en su extinción. Señorías, hoy afrontamos la enorme responsabilidad de ser representantes de la voluntad popular, y lo hacemos conscientes de la complejidad del contexto: en plena Presidencia española de la Unión Europa; con las democracias sufriendo la erosión de fuerzas que quieren acabar con ellas desde dentro; con desafíos enormes como el de la emergencia climática, que ya está afectando a nuestras vidas y que nos debe empujar a tomar medidas más urgentes y contundentes; con responsabilidades mayúsculas, como la que nos exige la lucha contra la desigualdad, contra todas las desigualdades, y en nuestro país y como mujer no puedo obviar que uno de los retos que tenemos es el de la desigualdad que todavía sufren las mujeres. La peor lacra de nuestra democracia es que las mujeres somos maltratadas y asesinadas por el simple hecho de ser mujeres. Por eso quiero condenar los últimos asesinatos machistas que se han producido en nuestro país este mismo mes de agosto y que elevan a treinta y cinco el número de mujeres asesinadas en lo que llevamos de año. La cifra es insoportable, cada víctima lo es, y eso nos obliga a hacer mucho más para afrontar un problema que debemos combatir todos y todas. Quiero por ello que mi primer compromiso como presidenta de esta Cámara, que ha de representar siempre el entendimiento y la concordia, sea trabajar sin descanso para que unidas acabemos con la violencia machista. (Aplausos). Señorías, estamos en un momento de transformación global sin precedentes, con retos extraordinarios, como el que nos pide seguir modernizando nuestra economía y continuar adaptando nuestra sociedad a una digitalización que ya marca nuestro presente, y con amenazas que creíamos que nunca iban a volver a producirse, como lo es una guerra en Europa, que nos obliga a defender sin fisuras nuestros valores democráticos. Y es precisamente esto lo trascendente de la jornada de hoy, que pese a todo la constitución Página 17 de la XV Legislatura se produce en la más absoluta normalidad; la normalidad de acatar las normas, que dan la serenidad necesaria a la ciudadanía de que nuestras instituciones democráticas funcionan; la normalidad de asumir los resultados y, con la constitución de esta Cámara, reconocernos entre todos como iguales, representantes de la voluntad popular. En este momento tan lleno de incertidumbres es bueno encontrar guías, brújulas que nos ayuden a transitar con mayor seguridad el camino que hoy empezamos a andar. Quiero reivindicar por ello una figura política, humana e intelectual que, sin hacer ruido, contribuyó a consolidar nuestra democracia. Me estoy refiriendo a Félix Pons, un mallorquín ejemplar y excepcional que presidió esta Cámara durante una década y que nos dejó demasiado pronto. «El Parlamento debe irradiar claridad y autenticidad», decía en uno de sus primeros discursos como presidente del Congreso, donde fijaba como meta conseguir «la máxima proximidad de las instituciones a los ciudadanos» y advertía que eso sería «tanto más fácil cuanto mejor comprendan los ciudadanos lo que dicen y hacen sus representantes». Hoy el objetivo que planteaba Félix Pons hace casi treinta años sigue siendo absolutamente vigente: conseguir que los ciudadanos y ciudadanas sientan que el Congreso, que las instituciones democráticas, en definitiva, son importantes para ellos porque lo que aquí se decide les afectará en su día a día, y esto solo será posible si ven la política como algo útil, como algo que pueda contribuir a solucionar sus problemas y mejorar sus vidas, porque la política es la herramienta más potente para transformar la sociedad. De lo que se trata es de ponerla al servicio de la ciudadanía y en beneficio de la ciudadanía. Se trata de evitar trasladar tensiones gratuitas y enfrentamientos estériles que solo contribuyen a dividir y, en su lugar, de contribuir al progreso de nuestra sociedad a partir del debate y del acuerdo. Se trata de sumar, de practicar el diálogo, de hablar, de falar, de hitz egin, de parlar, y de hacerlo para avanzar, porque España siempre avanza cuando se reconoce en su pluralidad y diversidad. La riqueza de este país reside en su carácter plural, y ahora tenemos ante nosotros la oportunidad de demostrar que la pluralidad de nuestro país es nuestra gran riqueza, que la convivencia de culturas, tradiciones y lenguas distintas nos hace mejores. Para ello, debemos abandonar los miedos, huir de las divisiones, escapar de posiciones uniformes que nos empobrecen y asumir que esta es la España real y que es mejor, que es desde el debate y desde el diálogo desde donde toda esta riqueza brilla, asumiendo que cada uno pueda defender ideas desde posiciones ideológicas incluso antagónicas, respetando siempre las ideas del otro, sin odio, sin insultos, para evitar que la ciudadanía nos vea como el problema y no como la solución. Porque desde el respeto caben y se pueden defender todas las ideas; porque aceptar sin reparos la pluralidad de pensamientos e identidades que conviven en nuestro país nos enriquece, y es esta pluralidad la que está obligada a reflejar esta Cámara para acercarse mucho más a la España real, que es diversa, que está llena de colores y cargada de matices. Para avanzar en este camino, quiero manifestar mi compromiso con el castellano, el catalán, el euskera y el gallego, así como la riqueza lingüística que suponen. Y quiero anunciarles que esta Presidencia permitirá la utilización de todos esos idiomas en el Congreso desde esta sesión constitutiva. (Aplausos). Defender la democracia parlamentaria -y esto es lo que nos corresponde a todos nosotros y nosotras- es preservar y respetar la diversidad que convive en nuestro país y que las urnas han llevado hasta aquí. Esta escucha de la diversidad Salvador Espriu la expresó como nadie en uno de sus poemas: «Recorda sempre això, Sepharad / Fes que siguin segurs els ponts del diàleg / i mira de comprendre i estimar / les raons i les parles diverses dels teus fills». «Recuerda siempre esto, Sepharad / haz que sean seguros los puentes del diálogo / y trata de comprender y amar / las diversas razones y hablas de tus hijos». Les invito a construir entre todos los espacios para que esta España real se vea representada en esta Cámara; que esta España real se conozca y se reconozca mejor desde la escucha y el diálogo; que los pueblos se entiendan y que la diversidad, los credos, las razas, las identidades, no sean barreras. Como las barreras y los techos de cristal que han tumbado en el otro lado del planeta nuestras futbolistas, que están haciendo historia en Nueva Zelanda y Australia. (Aplausos). Ellas, como tantas otras mujeres a lo largo de nuestra historia, nos dan esperanza, dan esperanza a los jóvenes, nos hacen creer que podemos ganar un futuro mejor. Yo me comprometo a trabajar para que no sea una anécdota que la Presidencia del Congreso la ejerza una mujer, una mujer que viene de unas islas unidas al continente por nuestro maravilloso Mediterráneo, una tierra frágil y con una lengua y cultura propias. Yo me comprometo a trabajar para mejorar nuestra democracia, porque, como dijo María Zambrano, si se hubiera de definir la democracia, podría hacerse diciendo que es la sociedad en la cual no solo es permitido, sino exigido el ser persona. Página 18 Eskerrik asko, muchas gracias, moltíssimes gràcies, moitas grazas. (Aplausos de la mayoría de las señoras y los señores diputados, puestos en pie.-Aplausos de los miembros del Gobierno en funciones, puestos en pie). Ahora, de conformidad con lo dispuesto en el artículo 4 del Reglamento de la Cámara, declaro constituido el Congreso de los Diputados. De este hecho se dará cuenta a su majestad el Rey, al Senado y al Gobierno. Se levanta la sesión. (Aplausos). Eran las dos y veinticinco minutos de la tarde. \n \n \n \n \n \n \n \n \n \n\n\n\n\n\n\n \n \n \n \n \n \n \n \n\n\n \n\n \n \n \n \n\n \n \n\n \n \n\n\n\n\n\n\n\n \n\n\n\n\n\n\n \n \n \n \n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n Oculto \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n\n \n Contacto | \n Sugerencias |\n Accesibilidad |\n Mapa Web \n \n \n \n \n \n \n \n Preguntas Frecuentes | \n Aviso legal |\n Protección de datos |\n Política de Cookies \n \n \n \n \n \n Congreso de los Diputados - Plaza de las Cortes, núm. 1 - 28014 - MADRID\n \n \n \n \n \n \n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n \n\n \n\n\n\n\n\n \n\n\n\n \n\n\n\n\n\n\n\n\n\n \n\n \n\n\n\n\n\n \n\n\n\n \n\n\n\n\n\n\n\n\n\n\n\n \n// \n \n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n \n // \n \n\n\n\n \n\n \n\n \n // \n \n\n\n\n\n\n\n\n\n\n\n\n\n \n\n \n\n \n\n \n \n\n\n \n// \n \n\n\n\n\n\n\n\n\n\n \n\n\n\n\n \n //",
+              "sentences": [
+                {
+                  "text": "Me permitirán unas breves palabras."
+                },
+                {
+                  "text": "Señores diputados, señoras diputadas, miembros en funciones del Gobierno, autoridades, ciudadanos y ciudadanas, en un día tan importante para nuestra democracia y tan emotivo para todas y para todos los presentes, quiero empezar con un agradecimiento sincero, no solo en mi nombre, sino también en el de toda la nueva Mesa del Congreso."
+                },
+                {
+                  "text": "Es para nosotras y nosotros un inmenso honor asumir el reto que hoy nos es encomendado."
+                },
+                {
+                  "text": "Pero permítanme que, antes que nada, envíe todo mi apoyo, y estoy seguro de que el de toda la Cámara, a los afectados por el terrible incendio que asola la isla de Tenerife. ("
+                },
+                {
+                  "text": "Aplausos)."
+                },
+                {
+                  "text": "Queremos trasladar también nuestra fuerza y agradecimiento a todos los cuerpos que están trabajando duramente en su extinción."
+                },
+                {
+                  "text": "Señorías, hoy afrontamos la enorme responsabilidad de ser representantes de la voluntad popular, y lo hacemos conscientes de la complejidad del contexto: en plena Presidencia española de la Unión Europa; con las democracias sufriendo la erosión de fuerzas que quieren acabar con ellas desde dentro; con desafíos enormes como el de la emergencia climática, que ya está afectando a nuestras vidas y que nos debe empujar a tomar medidas más urgentes y contundentes; con responsabilidades mayúsculas, como la que nos exige la lucha contra la desigualdad, contra todas las desigualdades, y en nuestro país y como mujer no puedo obviar que uno de los retos que tenemos es el de la desigualdad que todavía sufren las mujeres."
+                },
+                {
+                  "text": "La peor lacra de nuestra democracia es que las mujeres somos maltratadas y asesinadas por el simple hecho de ser mujeres."
+                },
+                {
+                  "text": "Por eso quiero condenar los últimos asesinatos machistas que se han producido en nuestro país este mismo mes de agosto y que elevan a treinta y cinco el número de mujeres asesinadas en lo que llevamos de año."
+                },
+                {
+                  "text": "La cifra es insoportable, cada víctima lo es, y eso nos obliga a hacer mucho más para afrontar un problema que debemos combatir todos y todas."
+                },
+                {
+                  "text": "Quiero por ello que mi primer compromiso como presidenta de esta Cámara, que ha de representar siempre el entendimiento y la concordia, sea trabajar sin descanso para que unidas acabemos con la violencia machista. ("
+                },
+                {
+                  "text": "Aplausos)."
+                },
+                {
+                  "text": "Señorías, estamos en un momento de transformación global sin precedentes, con retos extraordinarios, como el que nos pide seguir modernizando nuestra economía y continuar adaptando nuestra sociedad a una digitalización que ya marca nuestro presente, y con amenazas que creíamos que nunca iban a volver a producirse, como lo es una guerra en Europa, que nos obliga a defender sin fisuras nuestros valores democráticos."
+                },
+                {
+                  "text": "Y es precisamente esto lo trascendente de la jornada de hoy, que pese a todo la constitución Página 17 de la XV Legislatura se produce en la más absoluta normalidad; la normalidad de acatar las normas, que dan la serenidad necesaria a la ciudadanía de que nuestras instituciones democráticas funcionan; la normalidad de asumir los resultados y, con la constitución de esta Cámara, reconocernos entre todos como iguales, representantes de la voluntad popular."
+                },
+                {
+                  "text": "En este momento tan lleno de incertidumbres es bueno encontrar guías, brújulas que nos ayuden a transitar con mayor seguridad el camino que hoy empezamos a andar."
+                },
+                {
+                  "text": "Quiero reivindicar por ello una figura política, humana e intelectual que, sin hacer ruido, contribuyó a consolidar nuestra democracia."
+                },
+                {
+                  "text": "Me estoy refiriendo a Félix Pons, un mallorquín ejemplar y excepcional que presidió esta Cámara durante una década y que nos dejó demasiado pronto. «"
+                },
+                {
+                  "text": "El Parlamento debe irradiar claridad y autenticidad», decía en uno de sus primeros discursos como presidente del Congreso, donde fijaba como meta conseguir «la máxima proximidad de las instituciones a los ciudadanos» y advertía que eso sería «tanto más fácil cuanto mejor comprendan los ciudadanos lo que dicen y hacen sus representantes»."
+                },
+                {
+                  "text": "Hoy el objetivo que planteaba Félix Pons hace casi treinta años sigue siendo absolutamente vigente: conseguir que los ciudadanos y ciudadanas sientan que el Congreso, que las instituciones democráticas, en definitiva, son importantes para ellos porque lo que aquí se decide les afectará en su día a día, y esto solo será posible si ven la política como algo útil, como algo que pueda contribuir a solucionar sus problemas y mejorar sus vidas, porque la política es la herramienta más potente para transformar la sociedad."
+                },
+                {
+                  "text": "De lo que se trata es de ponerla al servicio de la ciudadanía y en beneficio de la ciudadanía."
+                },
+                {
+                  "text": "Se trata de evitar trasladar tensiones gratuitas y enfrentamientos estériles que solo contribuyen a dividir y, en su lugar, de contribuir al progreso de nuestra sociedad a partir del debate y del acuerdo."
+                },
+                {
+                  "text": "Se trata de sumar, de practicar el diálogo, de hablar, de falar, de hitz egin, de parlar, y de hacerlo para avanzar, porque España siempre avanza cuando se reconoce en su pluralidad y diversidad."
+                },
+                {
+                  "text": "La riqueza de este país reside en su carácter plural, y ahora tenemos ante nosotros la oportunidad de demostrar que la pluralidad de nuestro país es nuestra gran riqueza, que la convivencia de culturas, tradiciones y lenguas distintas nos hace mejores."
+                },
+                {
+                  "text": "Para ello, debemos abandonar los miedos, huir de las divisiones, escapar de posiciones uniformes que nos empobrecen y asumir que esta es la España real y que es mejor, que es desde el debate y desde el diálogo desde donde toda esta riqueza brilla, asumiendo que cada uno pueda defender ideas desde posiciones ideológicas incluso antagónicas, respetando siempre las ideas del otro, sin odio, sin insultos, para evitar que la ciudadanía nos vea como el problema y no como la solución."
+                },
+                {
+                  "text": "Porque desde el respeto caben y se pueden defender todas las ideas; porque aceptar sin reparos la pluralidad de pensamientos e identidades que conviven en nuestro país nos enriquece, y es esta pluralidad la que está obligada a reflejar esta Cámara para acercarse mucho más a la España real, que es diversa, que está llena de colores y cargada de matices."
+                },
+                {
+                  "text": "Para avanzar en este camino, quiero manifestar mi compromiso con el castellano, el catalán, el euskera y el gallego, así como la riqueza lingüística que suponen."
+                },
+                {
+                  "text": "Y quiero anunciarles que esta Presidencia permitirá la utilización de todos esos idiomas en el Congreso desde esta sesión constitutiva. ("
+                },
+                {
+                  "text": "Aplausos)."
+                },
+                {
+                  "text": "Defender la democracia parlamentaria -y esto es lo que nos corresponde a todos nosotros y nosotras- es preservar y respetar la diversidad que convive en nuestro país y que las urnas han llevado hasta aquí."
+                },
+                {
+                  "text": "Esta escucha de la diversidad Salvador Espriu la expresó como nadie en uno de sus poemas: «Recorda sempre això, Sepharad / Fes que siguin segurs els ponts del diàleg / i mira de comprendre i estimar / les raons i les parles diverses dels teus fills». «"
+                },
+                {
+                  "text": "Recuerda siempre esto, Sepharad / haz que sean seguros los puentes del diálogo / y trata de comprender y amar / las diversas razones y hablas de tus hijos»."
+                },
+                {
+                  "text": "Les invito a construir entre todos los espacios para que esta España real se vea representada en esta Cámara; que esta España real se conozca y se reconozca mejor desde la escucha y el diálogo; que los pueblos se entiendan y que la diversidad, los credos, las razas, las identidades, no sean barreras."
+                },
+                {
+                  "text": "Como las barreras y los techos de cristal que han tumbado en el otro lado del planeta nuestras futbolistas, que están haciendo historia en Nueva Zelanda y Australia. ("
+                },
+                {
+                  "text": "Aplausos)."
+                },
+                {
+                  "text": "Ellas, como tantas otras mujeres a lo largo de nuestra historia, nos dan esperanza, dan esperanza a los jóvenes, nos hacen creer que podemos ganar un futuro mejor."
+                },
+                {
+                  "text": "Yo me comprometo a trabajar para que no sea una anécdota que la Presidencia del Congreso la ejerza una mujer, una mujer que viene de unas islas unidas al continente por nuestro maravilloso Mediterráneo, una tierra frágil y con una lengua y cultura propias."
+                },
+                {
+                  "text": "Yo me comprometo a trabajar para mejorar nuestra democracia, porque, como dijo María Zambrano, si se hubiera de definir la democracia, podría hacerse diciendo que es la sociedad en la cual no solo es permitido, sino exigido el ser persona."
+                },
+                {
+                  "text": "Página 18 Eskerrik asko, muchas gracias, moltíssimes gràcies, moitas grazas. ("
+                },
+                {
+                  "text": "Aplausos de la mayoría de las señoras y los señores diputados, puestos en pie.-Aplausos de los miembros del Gobierno en funciones, puestos en pie)."
+                },
+                {
+                  "text": "Ahora, de conformidad con lo dispuesto en el artículo 4 del Reglamento de la Cámara, declaro constituido el Congreso de los Diputados."
+                },
+                {
+                  "text": "De este hecho se dará cuenta a su majestad el Rey, al Senado y al Gobierno."
+                },
+                {
+                  "text": "Se levanta la sesión. ("
+                },
+                {
+                  "text": "Aplausos)."
+                },
+                {
+                  "text": "Eran las dos y veinticinco minutos de la tarde."
+                },
+                {
+                  "text": "Oculto \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n\n \n Contacto | \n Sugerencias |\n Accesibilidad |\n Mapa Web \n \n \n \n \n \n \n \n Preguntas Frecuentes | \n Aviso legal |\n Protección de datos |\n Política de Cookies \n \n \n \n \n \n Congreso de los Diputados - Plaza de las Cortes, núm. 1 - 28014 - MADRID\n \n \n \n \n \n \n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n \n\n \n\n\n\n\n\n \n\n\n\n \n\n\n\n\n\n\n\n\n\n \n\n \n\n\n\n\n\n \n\n\n\n \n\n\n\n\n\n\n\n\n\n\n\n \n// \n \n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n \n // \n \n\n\n\n \n\n \n\n \n // \n \n\n\n\n\n\n\n\n\n\n\n\n\n \n\n \n\n \n\n \n \n\n\n \n// \n \n\n\n\n\n\n\n\n\n\n \n\n\n\n\n \n //"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "documents": [],
+      "debug": {
+        "page": 16
+      }
+    }
+  ]
+}

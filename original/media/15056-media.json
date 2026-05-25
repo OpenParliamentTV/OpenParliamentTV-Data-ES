@@ -1,0 +1,1203 @@
+{
+  "meta": {
+    "session": "15056",
+    "processing": {
+      "parse_media": "2026-05-23T07:17:41"
+    },
+    "dateStart": "2024-07-11T11:03:00+02:00",
+    "dateEnd": "2024-07-11T14:52:00+02:00"
+  },
+  "data": [
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 56
+      },
+      "agendaItem": {
+        "title": "Proyecto de Ley Orgánica del derecho de defensa.",
+        "officialTitle": "Proyecto de Ley Orgánica del derecho de defensa.",
+        "type": "regular",
+        "nativeType": "ES-ley"
+      },
+      "dateStart": "2024-07-11T11:03:00+02:00",
+      "dateEnd": "2024-07-11T11:08:00+02:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_054/cortes/15_000400_054_0_25105_737080.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1537080I",
+        "duration": 300.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_054_0_25105_737080",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Néstor Rego Candamil",
+          "lastname": "Rego Candamil",
+          "firstname": "Néstor",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Mixto"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 1
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 56
+      },
+      "agendaItem": {
+        "title": "Proyecto de Ley Orgánica del derecho de defensa.",
+        "officialTitle": "Proyecto de Ley Orgánica del derecho de defensa.",
+        "type": "regular",
+        "nativeType": "ES-ley"
+      },
+      "dateStart": "2024-07-11T11:08:00+02:00",
+      "dateEnd": "2024-07-11T11:13:00+02:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_054/cortes/15_000400_054_0_25105_737081.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1537081I",
+        "duration": 300.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_054_0_25105_737081",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Martina Velarde Gómez",
+          "lastname": "Velarde Gómez",
+          "firstname": "Martina",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Mixto"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 2
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 56
+      },
+      "agendaItem": {
+        "title": "Proyecto de Ley Orgánica del derecho de defensa.",
+        "officialTitle": "Proyecto de Ley Orgánica del derecho de defensa.",
+        "type": "regular",
+        "nativeType": "ES-ley"
+      },
+      "dateStart": "2024-07-11T11:13:00+02:00",
+      "dateEnd": "2024-07-11T11:24:00+02:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_054/cortes/15_000400_054_0_25105_737082.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1537082I",
+        "duration": 660.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_054_0_25105_737082",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "José María Sánchez García",
+          "lastname": "Sánchez García",
+          "firstname": "José María",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario VOX"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 3
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 56
+      },
+      "agendaItem": {
+        "title": "Proyecto de Ley Orgánica del derecho de defensa.",
+        "officialTitle": "Proyecto de Ley Orgánica del derecho de defensa.",
+        "type": "regular",
+        "nativeType": "ES-ley"
+      },
+      "dateStart": "2024-07-11T11:24:00+02:00",
+      "dateEnd": "2024-07-11T11:33:00+02:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_054/cortes/15_000400_054_0_25105_737083.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1537083I",
+        "duration": 540.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_054_0_25105_737083",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "María del Mar González Bella",
+          "lastname": "González Bella",
+          "firstname": "María del Mar",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Popular en el Congreso"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 4
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 56
+      },
+      "agendaItem": {
+        "title": "Proyecto de Ley Orgánica del derecho de defensa.",
+        "officialTitle": "Proyecto de Ley Orgánica del derecho de defensa.",
+        "type": "regular",
+        "nativeType": "ES-ley"
+      },
+      "dateStart": "2024-07-11T11:33:00+02:00",
+      "dateEnd": "2024-07-11T11:39:00+02:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_054/cortes/15_000400_054_0_25105_737084.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1537084I",
+        "duration": 360.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_054_0_25105_737084",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Mikel Legarda Uriarte",
+          "lastname": "Legarda Uriarte",
+          "firstname": "Mikel",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Vasco (EAJ-PNV)"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 5
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 56
+      },
+      "agendaItem": {
+        "title": "Proyecto de Ley Orgánica del derecho de defensa.",
+        "officialTitle": "Proyecto de Ley Orgánica del derecho de defensa.",
+        "type": "regular",
+        "nativeType": "ES-ley"
+      },
+      "dateStart": "2024-07-11T11:39:00+02:00",
+      "dateEnd": "2024-07-11T11:48:00+02:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_054/cortes/15_000400_054_0_25105_737085.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1537085I",
+        "duration": 540.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_054_0_25105_737085",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Jon Iñarritu García",
+          "lastname": "Iñarritu García",
+          "firstname": "Jon",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Euskal Herria Bildu"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 6
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 56
+      },
+      "agendaItem": {
+        "title": "Proyecto de Ley Orgánica del derecho de defensa.",
+        "officialTitle": "Proyecto de Ley Orgánica del derecho de defensa.",
+        "type": "regular",
+        "nativeType": "ES-ley"
+      },
+      "dateStart": "2024-07-11T11:48:00+02:00",
+      "dateEnd": "2024-07-11T11:54:00+02:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_054/cortes/15_000400_054_0_25105_737086.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1537086I",
+        "duration": 360.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_054_0_25105_737086",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Josep Maria Cervera Pinart",
+          "lastname": "Cervera Pinart",
+          "firstname": "Josep Maria",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Junts per Catalunya"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 7
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 56
+      },
+      "agendaItem": {
+        "title": "Proyecto de Ley Orgánica del derecho de defensa.",
+        "officialTitle": "Proyecto de Ley Orgánica del derecho de defensa.",
+        "type": "regular",
+        "nativeType": "ES-ley"
+      },
+      "dateStart": "2024-07-11T11:54:00+02:00",
+      "dateEnd": "2024-07-11T12:01:00+02:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_054/cortes/15_000400_054_0_25105_737087.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1537087I",
+        "duration": 420.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_054_0_25105_737087",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Pilar Vallugera Balañà",
+          "lastname": "Vallugera Balañà",
+          "firstname": "Pilar",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Republicano"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 8
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 56
+      },
+      "agendaItem": {
+        "title": "Proyecto de Ley Orgánica del derecho de defensa.",
+        "officialTitle": "Proyecto de Ley Orgánica del derecho de defensa.",
+        "type": "regular",
+        "nativeType": "ES-ley"
+      },
+      "dateStart": "2024-07-11T12:01:00+02:00",
+      "dateEnd": "2024-07-11T12:09:00+02:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_054/cortes/15_000400_054_0_25105_737088.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1537088I",
+        "duration": 480.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_054_0_25105_737088",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Enrique Fernando Santiago Romero",
+          "lastname": "Santiago Romero",
+          "firstname": "Enrique Fernando",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Plurinacional SUMAR"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 9
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 56
+      },
+      "agendaItem": {
+        "title": "Proyecto de Ley Orgánica del derecho de defensa.",
+        "officialTitle": "Proyecto de Ley Orgánica del derecho de defensa.",
+        "type": "regular",
+        "nativeType": "ES-ley"
+      },
+      "dateStart": "2024-07-11T12:09:00+02:00",
+      "dateEnd": "2024-07-11T12:18:00+02:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_054/cortes/15_000400_054_0_25105_737089.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1537089I",
+        "duration": 540.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_054_0_25105_737089",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Joaquín Martínez Salmerón",
+          "lastname": "Martínez Salmerón",
+          "firstname": "Joaquín",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Socialista"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 10
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 56
+      },
+      "agendaItem": {
+        "title": "Proyecto de Ley Orgánica del derecho de defensa.",
+        "officialTitle": "Proyecto de Ley Orgánica del derecho de defensa.",
+        "type": "regular",
+        "nativeType": "ES-ley"
+      },
+      "dateStart": "2024-07-11T12:18:00+02:00",
+      "dateEnd": "2024-07-11T12:20:00+02:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_054/cortes/15_000400_054_0_25105_737090.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1537090I",
+        "duration": 120.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_054_0_25105_737090",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Félix Bolaños García",
+          "lastname": "Bolaños García",
+          "firstname": "Félix",
+          "type": "member of government",
+          "role": "Ministro de la Presidencia, Justicia y Relaciones con las Cortes",
+          "faction": {
+            "label": "Grupo Parlamentario Socialista"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 11
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 56
+      },
+      "agendaItem": {
+        "title": "Proyecto de Ley Orgánica de medidas en materia de eficiencia del\nServicio Público de Justicia.",
+        "officialTitle": "Proyecto de Ley Orgánica de medidas en materia de eficiencia del\nServicio Público de Justicia.",
+        "type": "regular",
+        "nativeType": "ES-ley"
+      },
+      "dateStart": "2024-07-11T12:28:00+02:00",
+      "dateEnd": "2024-07-11T12:39:00+02:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_054/cortes/15_000400_054_0_25105_737094.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1537094I",
+        "duration": 660.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_054_0_25105_737094",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Félix Bolaños García",
+          "lastname": "Bolaños García",
+          "firstname": "Félix",
+          "type": "member of government",
+          "role": "Ministro de la Presidencia, Justicia y Relaciones con las Cortes",
+          "faction": {
+            "label": "Grupo Parlamentario Socialista"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 12
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 56
+      },
+      "agendaItem": {
+        "title": "Proyecto de Ley Orgánica de medidas en materia de eficiencia del\nServicio Público de Justicia.",
+        "officialTitle": "Proyecto de Ley Orgánica de medidas en materia de eficiencia del\nServicio Público de Justicia.",
+        "type": "regular",
+        "nativeType": "ES-ley"
+      },
+      "dateStart": "2024-07-11T12:39:00+02:00",
+      "dateEnd": "2024-07-11T12:54:00+02:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_054/cortes/15_000400_054_0_25105_737095.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1537095I",
+        "duration": 900.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_054_0_25105_737095",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "María Jesús Moro Almaraz",
+          "lastname": "Moro Almaraz",
+          "firstname": "María Jesús",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Popular en el Congreso"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 13
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 56
+      },
+      "agendaItem": {
+        "title": "Proyecto de Ley Orgánica de medidas en materia de eficiencia del\nServicio Público de Justicia.",
+        "officialTitle": "Proyecto de Ley Orgánica de medidas en materia de eficiencia del\nServicio Público de Justicia.",
+        "type": "regular",
+        "nativeType": "ES-ley"
+      },
+      "dateStart": "2024-07-11T12:54:00+02:00",
+      "dateEnd": "2024-07-11T13:01:00+02:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_054/cortes/15_000400_054_0_25105_737096.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1537096I",
+        "duration": 420.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_054_0_25105_737096",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Néstor Rego Candamil",
+          "lastname": "Rego Candamil",
+          "firstname": "Néstor",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Mixto"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 14
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 56
+      },
+      "agendaItem": {
+        "title": "Proyecto de Ley Orgánica de medidas en materia de eficiencia del\nServicio Público de Justicia.",
+        "officialTitle": "Proyecto de Ley Orgánica de medidas en materia de eficiencia del\nServicio Público de Justicia.",
+        "type": "regular",
+        "nativeType": "ES-ley"
+      },
+      "dateStart": "2024-07-11T13:01:00+02:00",
+      "dateEnd": "2024-07-11T13:06:00+02:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_054/cortes/15_000400_054_0_25105_737097.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1537097I",
+        "duration": 300.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_054_0_25105_737097",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Mikel Legarda Uriarte",
+          "lastname": "Legarda Uriarte",
+          "firstname": "Mikel",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Vasco (EAJ-PNV)"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 15
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 56
+      },
+      "agendaItem": {
+        "title": "Proyecto de Ley Orgánica de medidas en materia de eficiencia del\nServicio Público de Justicia.",
+        "officialTitle": "Proyecto de Ley Orgánica de medidas en materia de eficiencia del\nServicio Público de Justicia.",
+        "type": "regular",
+        "nativeType": "ES-ley"
+      },
+      "dateStart": "2024-07-11T13:06:00+02:00",
+      "dateEnd": "2024-07-11T13:11:00+02:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_054/cortes/15_000400_054_0_25105_737098.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1537098I",
+        "duration": 300.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_054_0_25105_737098",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Josep Maria Cervera Pinart",
+          "lastname": "Cervera Pinart",
+          "firstname": "Josep Maria",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Junts per Catalunya"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 16
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 56
+      },
+      "agendaItem": {
+        "title": "Proyecto de Ley Orgánica de medidas en materia de eficiencia del\nServicio Público de Justicia.",
+        "officialTitle": "Proyecto de Ley Orgánica de medidas en materia de eficiencia del\nServicio Público de Justicia.",
+        "type": "regular",
+        "nativeType": "ES-ley"
+      },
+      "dateStart": "2024-07-11T13:11:00+02:00",
+      "dateEnd": "2024-07-11T13:16:00+02:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_054/cortes/15_000400_054_0_25105_737099.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1537099I",
+        "duration": 300.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_054_0_25105_737099",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Pilar Vallugera Balañà",
+          "lastname": "Vallugera Balañà",
+          "firstname": "Pilar",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Republicano"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 17
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 56
+      },
+      "agendaItem": {
+        "title": "Proyecto de Ley Orgánica de medidas en materia de eficiencia del\nServicio Público de Justicia.",
+        "officialTitle": "Proyecto de Ley Orgánica de medidas en materia de eficiencia del\nServicio Público de Justicia.",
+        "type": "regular",
+        "nativeType": "ES-ley"
+      },
+      "dateStart": "2024-07-11T13:16:00+02:00",
+      "dateEnd": "2024-07-11T13:25:00+02:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_054/cortes/15_000400_054_0_25105_737100.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1537100I",
+        "duration": 540.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_054_0_25105_737100",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Verónica Martínez Barbero",
+          "lastname": "Martínez Barbero",
+          "firstname": "Verónica",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Plurinacional SUMAR"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 18
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 56
+      },
+      "agendaItem": {
+        "title": "Proyecto de Ley Orgánica de medidas en materia de eficiencia del\nServicio Público de Justicia.",
+        "officialTitle": "Proyecto de Ley Orgánica de medidas en materia de eficiencia del\nServicio Público de Justicia.",
+        "type": "regular",
+        "nativeType": "ES-ley"
+      },
+      "dateStart": "2024-07-11T13:25:00+02:00",
+      "dateEnd": "2024-07-11T13:33:00+02:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_054/cortes/15_000400_054_0_25105_737101.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1537101I",
+        "duration": 480.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_054_0_25105_737101",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Juan José Aizcorbe Torra",
+          "lastname": "Aizcorbe Torra",
+          "firstname": "Juan José",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario VOX"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 19
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 56
+      },
+      "agendaItem": {
+        "title": "Proyecto de Ley Orgánica de medidas en materia de eficiencia del\nServicio Público de Justicia.",
+        "officialTitle": "Proyecto de Ley Orgánica de medidas en materia de eficiencia del\nServicio Público de Justicia.",
+        "type": "regular",
+        "nativeType": "ES-ley"
+      },
+      "dateStart": "2024-07-11T13:33:00+02:00",
+      "dateEnd": "2024-07-11T13:40:00+02:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_054/cortes/15_000400_054_0_25105_737102.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1537102I",
+        "duration": 420.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_054_0_25105_737102",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Víctor Javier Ruiz de Diego",
+          "lastname": "Ruiz de Diego",
+          "firstname": "Víctor Javier",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Socialista"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 20
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 56
+      },
+      "agendaItem": {
+        "title": "Proposición de Ley Orgánica de reforma de la Ley Orgánica 6/1985, de\n1 de julio, del Poder Judicial y de reforma de la Ley 50/1981, de 30 de\ndiciembre, por la que se regula el Estatuto Orgánico del Ministerio\nFiscal.",
+        "officialTitle": "Proposición de Ley Orgánica de reforma de la Ley Orgánica 6/1985, de\n1 de julio, del Poder Judicial y de reforma de la Ley 50/1981, de 30 de\ndiciembre, por la que se regula el Estatuto Orgánico del Ministerio\nFiscal.",
+        "type": "regular",
+        "nativeType": "ES-ley"
+      },
+      "dateStart": "2024-07-11T13:40:00+02:00",
+      "dateEnd": "2024-07-11T13:54:00+02:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_054/cortes/15_000400_054_0_25105_737104.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1537104I",
+        "duration": 840.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_054_0_25105_737104",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Ione Belarra Urteaga",
+          "lastname": "Belarra Urteaga",
+          "firstname": "Ione",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Mixto"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 21
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 56
+      },
+      "agendaItem": {
+        "title": "Proposición de Ley Orgánica de reforma de la Ley Orgánica 6/1985, de\n1 de julio, del Poder Judicial y de reforma de la Ley 50/1981, de 30 de\ndiciembre, por la que se regula el Estatuto Orgánico del Ministerio\nFiscal.",
+        "officialTitle": "Proposición de Ley Orgánica de reforma de la Ley Orgánica 6/1985, de\n1 de julio, del Poder Judicial y de reforma de la Ley 50/1981, de 30 de\ndiciembre, por la que se regula el Estatuto Orgánico del Ministerio\nFiscal.",
+        "type": "regular",
+        "nativeType": "ES-ley"
+      },
+      "dateStart": "2024-07-11T13:54:00+02:00",
+      "dateEnd": "2024-07-11T14:07:00+02:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_054/cortes/15_000400_054_0_25105_737105.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1537105I",
+        "duration": 780.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_054_0_25105_737105",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Francisco Javier Ortega Smith-Molina",
+          "lastname": "Ortega Smith-Molina",
+          "firstname": "Francisco Javier",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario VOX"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 22
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 56
+      },
+      "agendaItem": {
+        "title": "Proposición de Ley Orgánica de reforma de la Ley Orgánica 6/1985, de\n1 de julio, del Poder Judicial y de reforma de la Ley 50/1981, de 30 de\ndiciembre, por la que se regula el Estatuto Orgánico del Ministerio\nFiscal.",
+        "officialTitle": "Proposición de Ley Orgánica de reforma de la Ley Orgánica 6/1985, de\n1 de julio, del Poder Judicial y de reforma de la Ley 50/1981, de 30 de\ndiciembre, por la que se regula el Estatuto Orgánico del Ministerio\nFiscal.",
+        "type": "regular",
+        "nativeType": "ES-ley"
+      },
+      "dateStart": "2024-07-11T14:07:00+02:00",
+      "dateEnd": "2024-07-11T14:10:00+02:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_054/cortes/15_000400_054_0_25105_737106.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1537106I",
+        "duration": 180.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_054_0_25105_737106",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Mikel Legarda Uriarte",
+          "lastname": "Legarda Uriarte",
+          "firstname": "Mikel",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Vasco (EAJ-PNV)"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 23
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 56
+      },
+      "agendaItem": {
+        "title": "Proposición de Ley Orgánica de reforma de la Ley Orgánica 6/1985, de\n1 de julio, del Poder Judicial y de reforma de la Ley 50/1981, de 30 de\ndiciembre, por la que se regula el Estatuto Orgánico del Ministerio\nFiscal.",
+        "officialTitle": "Proposición de Ley Orgánica de reforma de la Ley Orgánica 6/1985, de\n1 de julio, del Poder Judicial y de reforma de la Ley 50/1981, de 30 de\ndiciembre, por la que se regula el Estatuto Orgánico del Ministerio\nFiscal.",
+        "type": "regular",
+        "nativeType": "ES-ley"
+      },
+      "dateStart": "2024-07-11T14:10:00+02:00",
+      "dateEnd": "2024-07-11T14:18:00+02:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_054/cortes/15_000400_054_0_25105_737107.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1537107I",
+        "duration": 480.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_054_0_25105_737107",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Josep Maria Cervera Pinart",
+          "lastname": "Cervera Pinart",
+          "firstname": "Josep Maria",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Junts per Catalunya"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 24
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 56
+      },
+      "agendaItem": {
+        "title": "Proposición de Ley Orgánica de reforma de la Ley Orgánica 6/1985, de\n1 de julio, del Poder Judicial y de reforma de la Ley 50/1981, de 30 de\ndiciembre, por la que se regula el Estatuto Orgánico del Ministerio\nFiscal.",
+        "officialTitle": "Proposición de Ley Orgánica de reforma de la Ley Orgánica 6/1985, de\n1 de julio, del Poder Judicial y de reforma de la Ley 50/1981, de 30 de\ndiciembre, por la que se regula el Estatuto Orgánico del Ministerio\nFiscal.",
+        "type": "regular",
+        "nativeType": "ES-ley"
+      },
+      "dateStart": "2024-07-11T14:18:00+02:00",
+      "dateEnd": "2024-07-11T14:24:00+02:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_054/cortes/15_000400_054_0_25105_737108.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1537108I",
+        "duration": 360.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_054_0_25105_737108",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Gabriel Rufián Romero",
+          "lastname": "Rufián Romero",
+          "firstname": "Gabriel",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Republicano"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 25
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 56
+      },
+      "agendaItem": {
+        "title": "Proposición de Ley Orgánica de reforma de la Ley Orgánica 6/1985, de\n1 de julio, del Poder Judicial y de reforma de la Ley 50/1981, de 30 de\ndiciembre, por la que se regula el Estatuto Orgánico del Ministerio\nFiscal.",
+        "officialTitle": "Proposición de Ley Orgánica de reforma de la Ley Orgánica 6/1985, de\n1 de julio, del Poder Judicial y de reforma de la Ley 50/1981, de 30 de\ndiciembre, por la que se regula el Estatuto Orgánico del Ministerio\nFiscal.",
+        "type": "regular",
+        "nativeType": "ES-ley"
+      },
+      "dateStart": "2024-07-11T14:24:00+02:00",
+      "dateEnd": "2024-07-11T14:33:00+02:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_054/cortes/15_000400_054_0_25105_737109.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1537109I",
+        "duration": 540.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_054_0_25105_737109",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Àgueda Micó Micó",
+          "lastname": "Micó Micó",
+          "firstname": "Àgueda",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Plurinacional SUMAR"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 26
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 56
+      },
+      "agendaItem": {
+        "title": "Proposición de Ley Orgánica de reforma de la Ley Orgánica 6/1985, de\n1 de julio, del Poder Judicial y de reforma de la Ley 50/1981, de 30 de\ndiciembre, por la que se regula el Estatuto Orgánico del Ministerio\nFiscal.",
+        "officialTitle": "Proposición de Ley Orgánica de reforma de la Ley Orgánica 6/1985, de\n1 de julio, del Poder Judicial y de reforma de la Ley 50/1981, de 30 de\ndiciembre, por la que se regula el Estatuto Orgánico del Ministerio\nFiscal.",
+        "type": "regular",
+        "nativeType": "ES-ley"
+      },
+      "dateStart": "2024-07-11T14:33:00+02:00",
+      "dateEnd": "2024-07-11T14:41:00+02:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_054/cortes/15_000400_054_0_25105_737110.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1537110I",
+        "duration": 480.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_054_0_25105_737110",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Isaura Leal Fernández",
+          "lastname": "Leal Fernández",
+          "firstname": "Isaura",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Socialista"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 27
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 56
+      },
+      "agendaItem": {
+        "title": "Proposición de Ley Orgánica de reforma de la Ley Orgánica 6/1985, de\n1 de julio, del Poder Judicial y de reforma de la Ley 50/1981, de 30 de\ndiciembre, por la que se regula el Estatuto Orgánico del Ministerio\nFiscal.",
+        "officialTitle": "Proposición de Ley Orgánica de reforma de la Ley Orgánica 6/1985, de\n1 de julio, del Poder Judicial y de reforma de la Ley 50/1981, de 30 de\ndiciembre, por la que se regula el Estatuto Orgánico del Ministerio\nFiscal.",
+        "type": "regular",
+        "nativeType": "ES-ley"
+      },
+      "dateStart": "2024-07-11T14:41:00+02:00",
+      "dateEnd": "2024-07-11T14:51:00+02:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_054/cortes/15_000400_054_0_25105_737111.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1537111I",
+        "duration": 600.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_054_0_25105_737111",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Miguel Tellado Filgueira",
+          "lastname": "Tellado Filgueira",
+          "firstname": "Miguel",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Popular en el Congreso"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 28
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 56
+      },
+      "agendaItem": {
+        "title": "Proposición de Ley Orgánica de reforma de la Ley Orgánica 6/1985, de\n1 de julio, del Poder Judicial y de reforma de la Ley 50/1981, de 30 de\ndiciembre, por la que se regula el Estatuto Orgánico del Ministerio\nFiscal.",
+        "officialTitle": "Proposición de Ley Orgánica de reforma de la Ley Orgánica 6/1985, de\n1 de julio, del Poder Judicial y de reforma de la Ley 50/1981, de 30 de\ndiciembre, por la que se regula el Estatuto Orgánico del Ministerio\nFiscal.",
+        "type": "regular",
+        "nativeType": "ES-ley"
+      },
+      "dateStart": "2024-07-11T14:51:00+02:00",
+      "dateEnd": "2024-07-11T14:52:00+02:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_054/cortes/15_000400_054_0_25105_737112.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1537112I",
+        "duration": 60.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_054_0_25105_737112",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Ione Belarra Urteaga",
+          "lastname": "Belarra Urteaga",
+          "firstname": "Ione",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Mixto"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 29
+    }
+  ]
+}

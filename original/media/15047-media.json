@@ -1,0 +1,2612 @@
+{
+  "meta": {
+    "session": "15047",
+    "processing": {
+      "parse_media": "2026-05-23T07:17:41"
+    },
+    "dateStart": "2024-06-12T09:07:00+02:00",
+    "dateEnd": "2024-06-12T12:34:00+02:00"
+  },
+  "data": [
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 47
+      },
+      "agendaItem": {
+        "title": "¿Cree que su Gobierno es sostenible?",
+        "officialTitle": "¿Cree que su Gobierno es sostenible?",
+        "type": "qa",
+        "nativeType": "ES-pregunta"
+      },
+      "dateStart": "2024-06-12T09:07:00+02:00",
+      "dateEnd": "2024-06-12T09:10:00+02:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_045/cortes/15_000400_045_0_25035_736952.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1536952I",
+        "duration": 180.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_045_0_25035_736952",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Alberto Núñez Feijóo",
+          "lastname": "Núñez Feijóo",
+          "firstname": "Alberto",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Popular en el Congreso"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 1
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 47
+      },
+      "agendaItem": {
+        "title": "¿Cree que su Gobierno es sostenible?",
+        "officialTitle": "¿Cree que su Gobierno es sostenible?",
+        "type": "qa",
+        "nativeType": "ES-pregunta"
+      },
+      "dateStart": "2024-06-12T09:10:00+02:00",
+      "dateEnd": "2024-06-12T09:13:00+02:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_045/cortes/15_000400_045_0_25035_736953.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1536953I",
+        "duration": 180.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_045_0_25035_736953",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Pedro Sánchez Pérez-Castejón",
+          "lastname": "Sánchez Pérez-Castejón",
+          "firstname": "Pedro",
+          "type": "member of government",
+          "role": "Presidente del Gobierno",
+          "faction": {
+            "label": "Grupo Parlamentario Socialista"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 2
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 47
+      },
+      "agendaItem": {
+        "title": "¿Está dispuesto a meternos en una guerra para tapar su corrupción?",
+        "officialTitle": "¿Está dispuesto a meternos en una guerra para tapar su corrupción?",
+        "type": "qa",
+        "nativeType": "ES-pregunta"
+      },
+      "dateStart": "2024-06-12T09:13:00+02:00",
+      "dateEnd": "2024-06-12T09:14:00+02:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_045/cortes/15_000400_045_0_25035_736956.mp4\nhttps://www.congreso.es/audiovisual/video/leg15/400/15_000400_045/cortes/15_000400_045_0_25035_736958.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1536956I https://app.congreso.es/v1/15736958I",
+        "duration": 60.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_045_0_25035_736958",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Santiago Abascal Conde",
+          "lastname": "Abascal Conde",
+          "firstname": "Santiago",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario VOX"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 3
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 47
+      },
+      "agendaItem": {
+        "title": "¿Está dispuesto a meternos en una guerra para tapar su corrupción?",
+        "officialTitle": "¿Está dispuesto a meternos en una guerra para tapar su corrupción?",
+        "type": "qa",
+        "nativeType": "ES-pregunta"
+      },
+      "dateStart": "2024-06-12T09:14:00+02:00",
+      "dateEnd": "2024-06-12T09:14:00+02:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_045/cortes/15_000400_045_0_25035_736957.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1536957I",
+        "duration": 0.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_045_0_25035_736957",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Pedro Sánchez Pérez-Castejón",
+          "lastname": "Sánchez Pérez-Castejón",
+          "firstname": "Pedro",
+          "type": "member of government",
+          "role": "Presidente del Gobierno",
+          "faction": {
+            "label": "Grupo Parlamentario Socialista"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 4
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 47
+      },
+      "agendaItem": {
+        "title": "¿Está dispuesto a meternos en una guerra para tapar su corrupción?",
+        "officialTitle": "¿Está dispuesto a meternos en una guerra para tapar su corrupción?",
+        "type": "qa",
+        "nativeType": "ES-pregunta"
+      },
+      "dateStart": "2024-06-12T09:16:00+02:00",
+      "dateEnd": "2024-06-12T09:19:00+02:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_045/cortes/15_000400_045_0_25035_736959.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1536959I",
+        "duration": 180.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_045_0_25035_736959",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Pedro Sánchez Pérez-Castejón",
+          "lastname": "Sánchez Pérez-Castejón",
+          "firstname": "Pedro",
+          "type": "member of government",
+          "role": "Presidente del Gobierno",
+          "faction": {
+            "label": "Grupo Parlamentario Socialista"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 5
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 47
+      },
+      "agendaItem": {
+        "title": "¿Teme una moción de censura?",
+        "officialTitle": "¿Teme una moción de censura?",
+        "type": "qa",
+        "nativeType": "ES-pregunta"
+      },
+      "dateStart": "2024-06-12T09:19:00+02:00",
+      "dateEnd": "2024-06-12T09:19:00+02:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_045/cortes/15_000400_045_0_25035_736961.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1536961I",
+        "duration": 0.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_045_0_25035_736961",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Gabriel Rufián Romero",
+          "lastname": "Rufián Romero",
+          "firstname": "Gabriel",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Republicano"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 6
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 47
+      },
+      "agendaItem": {
+        "title": "¿Teme una moción de censura?",
+        "officialTitle": "¿Teme una moción de censura?",
+        "type": "qa",
+        "nativeType": "ES-pregunta"
+      },
+      "dateStart": "2024-06-12T09:19:00+02:00",
+      "dateEnd": "2024-06-12T09:20:00+02:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_045/cortes/15_000400_045_0_25035_736962.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1536962I",
+        "duration": 60.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_045_0_25035_736962",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Pedro Sánchez Pérez-Castejón",
+          "lastname": "Sánchez Pérez-Castejón",
+          "firstname": "Pedro",
+          "type": "member of government",
+          "role": "Presidente del Gobierno",
+          "faction": {
+            "label": "Grupo Parlamentario Socialista"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 7
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 47
+      },
+      "agendaItem": {
+        "title": "¿Teme una moción de censura?",
+        "officialTitle": "¿Teme una moción de censura?",
+        "type": "qa",
+        "nativeType": "ES-pregunta"
+      },
+      "dateStart": "2024-06-12T09:20:00+02:00",
+      "dateEnd": "2024-06-12T09:22:00+02:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_045/cortes/15_000400_045_0_25035_736963.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1536963I",
+        "duration": 120.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_045_0_25035_736963",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Gabriel Rufián Romero",
+          "lastname": "Rufián Romero",
+          "firstname": "Gabriel",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Republicano"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 8
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 47
+      },
+      "agendaItem": {
+        "title": "¿Teme una moción de censura?",
+        "officialTitle": "¿Teme una moción de censura?",
+        "type": "qa",
+        "nativeType": "ES-pregunta"
+      },
+      "dateStart": "2024-06-12T09:22:00+02:00",
+      "dateEnd": "2024-06-12T09:25:00+02:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_045/cortes/15_000400_045_0_25035_736964.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1536964I",
+        "duration": 180.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_045_0_25035_736964",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Pedro Sánchez Pérez-Castejón",
+          "lastname": "Sánchez Pérez-Castejón",
+          "firstname": "Pedro",
+          "type": "member of government",
+          "role": "Presidente del Gobierno",
+          "faction": {
+            "label": "Grupo Parlamentario Socialista"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 9
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 47
+      },
+      "agendaItem": {
+        "title": "¿Está de acuerdo usted con la Vicepresidenta Segunda cuando esta\nafirma que la economía española no va como un cohete?",
+        "officialTitle": "¿Está de acuerdo usted con la Vicepresidenta Segunda cuando esta\nafirma que la economía española no va como un cohete?",
+        "type": "qa",
+        "nativeType": "ES-pregunta"
+      },
+      "dateStart": "2024-06-12T09:25:00+02:00",
+      "dateEnd": "2024-06-12T09:27:00+02:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_045/cortes/15_000400_045_0_25035_736966.mp4\nhttps://www.congreso.es/audiovisual/video/leg15/400/15_000400_045/cortes/15_000400_045_0_25035_736968.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1536966I https://app.congreso.es/v1/15736968I",
+        "duration": 120.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_045_0_25035_736968",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Concepción Gamarra Ruiz-Clavijo",
+          "lastname": "Gamarra Ruiz-Clavijo",
+          "firstname": "Concepción",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Popular en el Congreso"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 10
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 47
+      },
+      "agendaItem": {
+        "title": "¿Está de acuerdo usted con la Vicepresidenta Segunda cuando esta\nafirma que la economía española no va como un cohete?",
+        "officialTitle": "¿Está de acuerdo usted con la Vicepresidenta Segunda cuando esta\nafirma que la economía española no va como un cohete?",
+        "type": "qa",
+        "nativeType": "ES-pregunta"
+      },
+      "dateStart": "2024-06-12T09:26:00+02:00",
+      "dateEnd": "2024-06-12T09:29:00+02:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_045/cortes/15_000400_045_0_25035_736967.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1536967I",
+        "duration": 180.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_045_0_25035_736967",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "María Jesús Montero Cuadrado",
+          "lastname": "Montero Cuadrado",
+          "firstname": "María Jesús",
+          "type": "member of government",
+          "role": "Vicepresidenta Primera del Gobierno y Ministra de Hacienda",
+          "faction": {
+            "label": "Grupo Parlamentario Socialista"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 11
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 47
+      },
+      "agendaItem": {
+        "title": "¿Está de acuerdo usted con la Vicepresidenta Segunda cuando esta\nafirma que la economía española no va como un cohete?",
+        "officialTitle": "¿Está de acuerdo usted con la Vicepresidenta Segunda cuando esta\nafirma que la economía española no va como un cohete?",
+        "type": "qa",
+        "nativeType": "ES-pregunta"
+      },
+      "dateStart": "2024-06-12T09:30:00+02:00",
+      "dateEnd": "2024-06-12T09:31:00+02:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_045/cortes/15_000400_045_0_25035_736969.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1536969I",
+        "duration": 60.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_045_0_25035_736969",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "María Jesús Montero Cuadrado",
+          "lastname": "Montero Cuadrado",
+          "firstname": "María Jesús",
+          "type": "member of government",
+          "role": "Vicepresidenta Primera del Gobierno y Ministra de Hacienda",
+          "faction": {
+            "label": "Grupo Parlamentario Socialista"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 12
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 47
+      },
+      "agendaItem": {
+        "title": "¿Cuánto vale la palabra del Gobierno?",
+        "officialTitle": "¿Cuánto vale la palabra del Gobierno?",
+        "type": "qa",
+        "nativeType": "ES-pregunta"
+      },
+      "dateStart": "2024-06-12T09:31:00+02:00",
+      "dateEnd": "2024-06-12T09:33:00+02:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_045/cortes/15_000400_045_0_25035_736971.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1536971I",
+        "duration": 120.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_045_0_25035_736971",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Elías Bendodo Benasayag",
+          "lastname": "Bendodo Benasayag",
+          "firstname": "Elías",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Popular en el Congreso"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 13
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 47
+      },
+      "agendaItem": {
+        "title": "¿Cuánto vale la palabra del Gobierno?",
+        "officialTitle": "¿Cuánto vale la palabra del Gobierno?",
+        "type": "qa",
+        "nativeType": "ES-pregunta"
+      },
+      "dateStart": "2024-06-12T09:33:00+02:00",
+      "dateEnd": "2024-06-12T09:34:00+02:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_045/cortes/15_000400_045_0_25035_736972.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1536972I",
+        "duration": 60.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_045_0_25035_736972",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "María Jesús Montero Cuadrado",
+          "lastname": "Montero Cuadrado",
+          "firstname": "María Jesús",
+          "type": "member of government",
+          "role": "Vicepresidenta Primera del Gobierno y Ministra de Hacienda",
+          "faction": {
+            "label": "Grupo Parlamentario Socialista"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 14
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 47
+      },
+      "agendaItem": {
+        "title": "¿Cuánto vale la palabra del Gobierno?",
+        "officialTitle": "¿Cuánto vale la palabra del Gobierno?",
+        "type": "qa",
+        "nativeType": "ES-pregunta"
+      },
+      "dateStart": "2024-06-12T09:34:00+02:00",
+      "dateEnd": "2024-06-12T09:35:00+02:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_045/cortes/15_000400_045_0_25035_736973.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1536973I",
+        "duration": 60.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_045_0_25035_736973",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Elías Bendodo Benasayag",
+          "lastname": "Bendodo Benasayag",
+          "firstname": "Elías",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Popular en el Congreso"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 15
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 47
+      },
+      "agendaItem": {
+        "title": "¿Cuánto vale la palabra del Gobierno?",
+        "officialTitle": "¿Cuánto vale la palabra del Gobierno?",
+        "type": "qa",
+        "nativeType": "ES-pregunta"
+      },
+      "dateStart": "2024-06-12T09:35:00+02:00",
+      "dateEnd": "2024-06-12T09:37:00+02:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_045/cortes/15_000400_045_0_25035_736974.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1536974I",
+        "duration": 120.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_045_0_25035_736974",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "María Jesús Montero Cuadrado",
+          "lastname": "Montero Cuadrado",
+          "firstname": "María Jesús",
+          "type": "member of government",
+          "role": "Vicepresidenta Primera del Gobierno y Ministra de Hacienda",
+          "faction": {
+            "label": "Grupo Parlamentario Socialista"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 16
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 47
+      },
+      "agendaItem": {
+        "title": "¿Cree usted que la gente lo está pasando mal?",
+        "officialTitle": "¿Cree usted que la gente lo está pasando mal?",
+        "type": "qa",
+        "nativeType": "ES-pregunta"
+      },
+      "dateStart": "2024-06-12T09:37:00+02:00",
+      "dateEnd": "2024-06-12T09:38:00+02:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_045/cortes/15_000400_045_0_25035_736976.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1536976I",
+        "duration": 60.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_045_0_25035_736976",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Juan Bravo Baena",
+          "lastname": "Bravo Baena",
+          "firstname": "Juan",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Popular en el Congreso"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 17
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 47
+      },
+      "agendaItem": {
+        "title": "¿Cree usted que la gente lo está pasando mal?",
+        "officialTitle": "¿Cree usted que la gente lo está pasando mal?",
+        "type": "qa",
+        "nativeType": "ES-pregunta"
+      },
+      "dateStart": "2024-06-12T09:38:00+02:00",
+      "dateEnd": "2024-06-12T09:39:00+02:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_045/cortes/15_000400_045_0_25035_736977.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1536977I",
+        "duration": 60.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_045_0_25035_736977",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "María Jesús Montero Cuadrado",
+          "lastname": "Montero Cuadrado",
+          "firstname": "María Jesús",
+          "type": "member of government",
+          "role": "Vicepresidenta Primera del Gobierno y Ministra de Hacienda",
+          "faction": {
+            "label": "Grupo Parlamentario Socialista"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 18
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 47
+      },
+      "agendaItem": {
+        "title": "¿Cree usted que la gente lo está pasando mal?",
+        "officialTitle": "¿Cree usted que la gente lo está pasando mal?",
+        "type": "qa",
+        "nativeType": "ES-pregunta"
+      },
+      "dateStart": "2024-06-12T09:39:00+02:00",
+      "dateEnd": "2024-06-12T09:41:00+02:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_045/cortes/15_000400_045_0_25035_736978.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1536978I",
+        "duration": 120.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_045_0_25035_736978",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Juan Bravo Baena",
+          "lastname": "Bravo Baena",
+          "firstname": "Juan",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Popular en el Congreso"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 19
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 47
+      },
+      "agendaItem": {
+        "title": "¿Cree usted que la gente lo está pasando mal?",
+        "officialTitle": "¿Cree usted que la gente lo está pasando mal?",
+        "type": "qa",
+        "nativeType": "ES-pregunta"
+      },
+      "dateStart": "2024-06-12T09:41:00+02:00",
+      "dateEnd": "2024-06-12T09:43:00+02:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_045/cortes/15_000400_045_0_25035_736979.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1536979I",
+        "duration": 120.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_045_0_25035_736979",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "María Jesús Montero Cuadrado",
+          "lastname": "Montero Cuadrado",
+          "firstname": "María Jesús",
+          "type": "member of government",
+          "role": "Vicepresidenta Primera del Gobierno y Ministra de Hacienda",
+          "faction": {
+            "label": "Grupo Parlamentario Socialista"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 20
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 47
+      },
+      "agendaItem": {
+        "title": "¿Cómo piensa cumplir los objetivos asumidos en materia de energía y\ncambio climático con la Unión Europea?",
+        "officialTitle": "¿Cómo piensa cumplir los objetivos asumidos en materia de energía y\ncambio climático con la Unión Europea?",
+        "type": "qa",
+        "nativeType": "ES-pregunta"
+      },
+      "dateStart": "2024-06-12T09:43:00+02:00",
+      "dateEnd": "2024-06-12T09:45:00+02:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_045/cortes/15_000400_045_0_25035_736981.mp4\nhttps://www.congreso.es/audiovisual/video/leg15/400/15_000400_045/cortes/15_000400_045_0_25035_736983.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1536981I https://app.congreso.es/v1/15736983I",
+        "duration": 120.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_045_0_25035_736983",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Miguel Tellado Filgueira",
+          "lastname": "Tellado Filgueira",
+          "firstname": "Miguel",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Popular en el Congreso"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 21
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 47
+      },
+      "agendaItem": {
+        "title": "¿Cómo piensa cumplir los objetivos asumidos en materia de energía y\ncambio climático con la Unión Europea?",
+        "officialTitle": "¿Cómo piensa cumplir los objetivos asumidos en materia de energía y\ncambio climático con la Unión Europea?",
+        "type": "qa",
+        "nativeType": "ES-pregunta"
+      },
+      "dateStart": "2024-06-12T09:45:00+02:00",
+      "dateEnd": "2024-06-12T09:46:00+02:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_045/cortes/15_000400_045_0_25035_736982.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1536982I",
+        "duration": 60.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_045_0_25035_736982",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Teresa Ribera Rodríguez",
+          "lastname": "Ribera Rodríguez",
+          "firstname": "Teresa",
+          "type": "member of government",
+          "role": "Vicepresidenta Tercera del Gobierno y Ministra para la Transición\nEcológica y el Reto Demográfico"
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 22
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 47
+      },
+      "agendaItem": {
+        "title": "¿Cómo piensa cumplir los objetivos asumidos en materia de energía y\ncambio climático con la Unión Europea?",
+        "officialTitle": "¿Cómo piensa cumplir los objetivos asumidos en materia de energía y\ncambio climático con la Unión Europea?",
+        "type": "qa",
+        "nativeType": "ES-pregunta"
+      },
+      "dateStart": "2024-06-12T09:47:00+02:00",
+      "dateEnd": "2024-06-12T09:49:00+02:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_045/cortes/15_000400_045_0_25035_736984.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1536984I",
+        "duration": 120.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_045_0_25035_736984",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Teresa Ribera Rodríguez",
+          "lastname": "Ribera Rodríguez",
+          "firstname": "Teresa",
+          "type": "member of government",
+          "role": "Vicepresidenta Tercera del Gobierno y Ministra para la Transición\nEcológica y el Reto Demográfico"
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 23
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 47
+      },
+      "agendaItem": {
+        "title": "¿Cómo va a afectar el Proyecto de Ley de Comercio de Derechos de\nEmisión a los intereses de los españoles?",
+        "officialTitle": "¿Cómo va a afectar el Proyecto de Ley de Comercio de Derechos de\nEmisión a los intereses de los españoles?",
+        "type": "qa",
+        "nativeType": "ES-pregunta"
+      },
+      "dateStart": "2024-06-12T09:49:00+02:00",
+      "dateEnd": "2024-06-12T09:50:00+02:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_045/cortes/15_000400_045_0_25035_736986.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1536986I",
+        "duration": 60.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_045_0_25035_736986",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Macarena Montesinos de Miguel",
+          "lastname": "Montesinos de Miguel",
+          "firstname": "Macarena",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Popular en el Congreso"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 24
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 47
+      },
+      "agendaItem": {
+        "title": "¿Cómo va a afectar el Proyecto de Ley de Comercio de Derechos de\nEmisión a los intereses de los españoles?",
+        "officialTitle": "¿Cómo va a afectar el Proyecto de Ley de Comercio de Derechos de\nEmisión a los intereses de los españoles?",
+        "type": "qa",
+        "nativeType": "ES-pregunta"
+      },
+      "dateStart": "2024-06-12T09:50:00+02:00",
+      "dateEnd": "2024-06-12T09:51:00+02:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_045/cortes/15_000400_045_0_25035_736987.mp4\nhttps://www.congreso.es/audiovisual/video/leg15/400/15_000400_045/cortes/15_000400_045_0_25035_736989.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1536987I https://app.congreso.es/v1/15736989I",
+        "duration": 60.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_045_0_25035_736989",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Teresa Ribera Rodríguez",
+          "lastname": "Ribera Rodríguez",
+          "firstname": "Teresa",
+          "type": "member of government",
+          "role": "Vicepresidenta Tercera del Gobierno y Ministra para la Transición\nEcológica y el Reto Demográfico"
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 25
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 47
+      },
+      "agendaItem": {
+        "title": "¿Cómo va a afectar el Proyecto de Ley de Comercio de Derechos de\nEmisión a los intereses de los españoles?",
+        "officialTitle": "¿Cómo va a afectar el Proyecto de Ley de Comercio de Derechos de\nEmisión a los intereses de los españoles?",
+        "type": "qa",
+        "nativeType": "ES-pregunta"
+      },
+      "dateStart": "2024-06-12T09:51:00+02:00",
+      "dateEnd": "2024-06-12T09:53:00+02:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_045/cortes/15_000400_045_0_25035_736988.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1536988I",
+        "duration": 120.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_045_0_25035_736988",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Macarena Montesinos de Miguel",
+          "lastname": "Montesinos de Miguel",
+          "firstname": "Macarena",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Popular en el Congreso"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 26
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 47
+      },
+      "agendaItem": {
+        "title": "¿Considera este Gobierno que la política de defensa es una política\nde Estado?",
+        "officialTitle": "¿Considera este Gobierno que la política de defensa es una política\nde Estado?",
+        "type": "qa",
+        "nativeType": "ES-pregunta"
+      },
+      "dateStart": "2024-06-12T09:54:00+02:00",
+      "dateEnd": "2024-06-12T09:56:00+02:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_045/cortes/15_000400_045_0_25035_736991.mp4\nhttps://www.congreso.es/audiovisual/video/leg15/400/15_000400_045/cortes/15_000400_045_0_25035_736993.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1536991I https://app.congreso.es/v1/15736993I",
+        "duration": 120.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_045_0_25035_736993",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Carlos Rojas García",
+          "lastname": "Rojas García",
+          "firstname": "Carlos",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Popular en el Congreso"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 27
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 47
+      },
+      "agendaItem": {
+        "title": "¿Considera este Gobierno que la política de defensa es una política\nde Estado?",
+        "officialTitle": "¿Considera este Gobierno que la política de defensa es una política\nde Estado?",
+        "type": "qa",
+        "nativeType": "ES-pregunta"
+      },
+      "dateStart": "2024-06-12T09:56:00+02:00",
+      "dateEnd": "2024-06-12T09:58:00+02:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_045/cortes/15_000400_045_0_25035_736992.mp4\nhttps://www.congreso.es/audiovisual/video/leg15/400/15_000400_045/cortes/15_000400_045_0_25035_736994.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1536992I https://app.congreso.es/v1/15736994I",
+        "duration": 120.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_045_0_25035_736994",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Margarita Robles Fernández",
+          "lastname": "Robles Fernández",
+          "firstname": "Margarita",
+          "type": "member of government",
+          "role": "Ministra de Defensa"
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 28
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 47
+      },
+      "agendaItem": {
+        "title": "¿Cómo va a garantizar el Gobierno un país en paz en el contexto de la\nescalada bélica?",
+        "officialTitle": "¿Cómo va a garantizar el Gobierno un país en paz en el contexto de la\nescalada bélica?",
+        "type": "qa",
+        "nativeType": "ES-pregunta"
+      },
+      "dateStart": "2024-06-12T09:59:00+02:00",
+      "dateEnd": "2024-06-12T10:00:00+02:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_045/cortes/15_000400_045_0_25035_736996.mp4\nhttps://www.congreso.es/audiovisual/video/leg15/400/15_000400_045/cortes/15_000400_045_0_25035_736998.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1536996I https://app.congreso.es/v1/15736998I",
+        "duration": 60.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_045_0_25035_736998",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Ione Belarra Urteaga",
+          "lastname": "Belarra Urteaga",
+          "firstname": "Ione",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Mixto"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 29
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 47
+      },
+      "agendaItem": {
+        "title": "¿Cómo va a garantizar el Gobierno un país en paz en el contexto de la\nescalada bélica?",
+        "officialTitle": "¿Cómo va a garantizar el Gobierno un país en paz en el contexto de la\nescalada bélica?",
+        "type": "qa",
+        "nativeType": "ES-pregunta"
+      },
+      "dateStart": "2024-06-12T10:00:00+02:00",
+      "dateEnd": "2024-06-12T10:01:00+02:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_045/cortes/15_000400_045_0_25035_736997.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1536997I",
+        "duration": 60.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_045_0_25035_736997",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Margarita Robles Fernández",
+          "lastname": "Robles Fernández",
+          "firstname": "Margarita",
+          "type": "member of government",
+          "role": "Ministra de Defensa"
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 30
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 47
+      },
+      "agendaItem": {
+        "title": "¿Cómo va a garantizar el Gobierno un país en paz en el contexto de la\nescalada bélica?",
+        "officialTitle": "¿Cómo va a garantizar el Gobierno un país en paz en el contexto de la\nescalada bélica?",
+        "type": "qa",
+        "nativeType": "ES-pregunta"
+      },
+      "dateStart": "2024-06-12T10:03:00+02:00",
+      "dateEnd": "2024-06-12T10:04:00+02:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_045/cortes/15_000400_045_0_25035_736999.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1536999I",
+        "duration": 60.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_045_0_25035_736999",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Margarita Robles Fernández",
+          "lastname": "Robles Fernández",
+          "firstname": "Margarita",
+          "type": "member of government",
+          "role": "Ministra de Defensa"
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 31
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 47
+      },
+      "agendaItem": {
+        "title": "¿Considera útil y suficiente lo que está haciendo el Gobierno para\nsolucionar los problemas del Sistema Nacional de Salud?",
+        "officialTitle": "¿Considera útil y suficiente lo que está haciendo el Gobierno para\nsolucionar los problemas del Sistema Nacional de Salud?",
+        "type": "regular"
+      },
+      "dateStart": "2024-06-12T10:04:00+02:00",
+      "dateEnd": "2024-06-12T10:05:00+02:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_045/cortes/15_000400_045_0_25035_737001.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1537001I",
+        "duration": 60.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_045_0_25035_737001",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Ester Muñoz de la Iglesia",
+          "lastname": "Muñoz de la Iglesia",
+          "firstname": "Ester",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Popular en el Congreso"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 32
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 47
+      },
+      "agendaItem": {
+        "title": "¿Considera útil y suficiente lo que está haciendo el Gobierno para\nsolucionar los problemas del Sistema Nacional de Salud?",
+        "officialTitle": "¿Considera útil y suficiente lo que está haciendo el Gobierno para\nsolucionar los problemas del Sistema Nacional de Salud?",
+        "type": "qa",
+        "nativeType": "ES-pregunta"
+      },
+      "dateStart": "2024-06-12T10:05:00+02:00",
+      "dateEnd": "2024-06-12T10:05:00+02:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_045/cortes/15_000400_045_0_25035_737002.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1537002I",
+        "duration": 0.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_045_0_25035_737002",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Mónica García Gómez",
+          "lastname": "García Gómez",
+          "firstname": "Mónica",
+          "type": "member of government",
+          "role": "Ministra de Sanidad"
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 33
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 47
+      },
+      "agendaItem": {
+        "title": "¿Considera útil y suficiente lo que está haciendo el Gobierno para\nsolucionar los problemas del Sistema Nacional de Salud?",
+        "officialTitle": "¿Considera útil y suficiente lo que está haciendo el Gobierno para\nsolucionar los problemas del Sistema Nacional de Salud?",
+        "type": "qa",
+        "nativeType": "ES-pregunta"
+      },
+      "dateStart": "2024-06-12T10:05:00+02:00",
+      "dateEnd": "2024-06-12T10:08:00+02:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_045/cortes/15_000400_045_0_25035_737003.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1537003I",
+        "duration": 180.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_045_0_25035_737003",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Ester Muñoz de la Iglesia",
+          "lastname": "Muñoz de la Iglesia",
+          "firstname": "Ester",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Popular en el Congreso"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 34
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 47
+      },
+      "agendaItem": {
+        "title": "¿Considera útil y suficiente lo que está haciendo el Gobierno para\nsolucionar los problemas del Sistema Nacional de Salud?",
+        "officialTitle": "¿Considera útil y suficiente lo que está haciendo el Gobierno para\nsolucionar los problemas del Sistema Nacional de Salud?",
+        "type": "qa",
+        "nativeType": "ES-pregunta"
+      },
+      "dateStart": "2024-06-12T10:08:00+02:00",
+      "dateEnd": "2024-06-12T10:10:00+02:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_045/cortes/15_000400_045_0_25035_737004.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1537004I",
+        "duration": 120.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_045_0_25035_737004",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Mónica García Gómez",
+          "lastname": "García Gómez",
+          "firstname": "Mónica",
+          "type": "member of government",
+          "role": "Ministra de Sanidad"
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 35
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 47
+      },
+      "agendaItem": {
+        "title": "¿Qué medidas tomará para atajar la falta de profesionales sanitarios\nen centros de salud?",
+        "officialTitle": "¿Qué medidas tomará para atajar la falta de profesionales sanitarios\nen centros de salud?",
+        "type": "qa",
+        "nativeType": "ES-pregunta"
+      },
+      "dateStart": "2024-06-12T10:10:00+02:00",
+      "dateEnd": "2024-06-12T10:12:00+02:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_045/cortes/15_000400_045_0_25035_737006.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1537006I",
+        "duration": 120.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_045_0_25035_737006",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Iñaki Ruiz de Pinedo Undiano",
+          "lastname": "Ruiz de Pinedo Undiano",
+          "firstname": "Iñaki",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Euskal Herria Bildu"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 36
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 47
+      },
+      "agendaItem": {
+        "title": "¿Qué medidas tomará para atajar la falta de profesionales sanitarios\nen centros de salud?",
+        "officialTitle": "¿Qué medidas tomará para atajar la falta de profesionales sanitarios\nen centros de salud?",
+        "type": "qa",
+        "nativeType": "ES-pregunta"
+      },
+      "dateStart": "2024-06-12T10:12:00+02:00",
+      "dateEnd": "2024-06-12T10:15:00+02:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_045/cortes/15_000400_045_0_25035_737007.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1537007I",
+        "duration": 180.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_045_0_25035_737007",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Mónica García Gómez",
+          "lastname": "García Gómez",
+          "firstname": "Mónica",
+          "type": "member of government",
+          "role": "Ministra de Sanidad"
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 37
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 47
+      },
+      "agendaItem": {
+        "title": "¿Qué medidas tomará para atajar la falta de profesionales sanitarios\nen centros de salud?",
+        "officialTitle": "¿Qué medidas tomará para atajar la falta de profesionales sanitarios\nen centros de salud?",
+        "type": "qa",
+        "nativeType": "ES-pregunta"
+      },
+      "dateStart": "2024-06-12T10:14:00+02:00",
+      "dateEnd": "2024-06-12T10:16:00+02:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_045/cortes/15_000400_045_0_25035_737008.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1537008I",
+        "duration": 120.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_045_0_25035_737008",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Iñaki Ruiz de Pinedo Undiano",
+          "lastname": "Ruiz de Pinedo Undiano",
+          "firstname": "Iñaki",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Euskal Herria Bildu"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 38
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 47
+      },
+      "agendaItem": {
+        "title": "¿Qué medidas tomará para atajar la falta de profesionales sanitarios\nen centros de salud?",
+        "officialTitle": "¿Qué medidas tomará para atajar la falta de profesionales sanitarios\nen centros de salud?",
+        "type": "qa",
+        "nativeType": "ES-pregunta"
+      },
+      "dateStart": "2024-06-12T10:16:00+02:00",
+      "dateEnd": "2024-06-12T10:16:00+02:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_045/cortes/15_000400_045_0_25035_737010.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1537010I",
+        "duration": 0.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_045_0_25035_737010",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Mónica García Gómez",
+          "lastname": "García Gómez",
+          "firstname": "Mónica",
+          "type": "member of government",
+          "role": "Ministra de Sanidad"
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 39
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 47
+      },
+      "agendaItem": {
+        "title": "¿Por qué no ha establecido el Ministerio de Sanidad medidas ante la\nescasez de profesionales de atención de Familia y Comunitaria?",
+        "officialTitle": "¿Por qué no ha establecido el Ministerio de Sanidad medidas ante la\nescasez de profesionales de atención de Familia y Comunitaria?",
+        "type": "qa",
+        "nativeType": "ES-pregunta"
+      },
+      "dateStart": "2024-06-12T10:16:00+02:00",
+      "dateEnd": "2024-06-12T10:18:00+02:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_045/cortes/15_000400_045_0_25035_737012.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1537012I",
+        "duration": 120.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_045_0_25035_737012",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Maribel Vaquero Montero",
+          "lastname": "Vaquero Montero",
+          "firstname": "Maribel",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Vasco (EAJ-PNV)"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 40
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 47
+      },
+      "agendaItem": {
+        "title": "¿Por qué no ha establecido el Ministerio de Sanidad medidas ante la\nescasez de profesionales de atención de Familia y Comunitaria?",
+        "officialTitle": "¿Por qué no ha establecido el Ministerio de Sanidad medidas ante la\nescasez de profesionales de atención de Familia y Comunitaria?",
+        "type": "qa",
+        "nativeType": "ES-pregunta"
+      },
+      "dateStart": "2024-06-12T10:18:00+02:00",
+      "dateEnd": "2024-06-12T10:21:00+02:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_045/cortes/15_000400_045_0_25035_737013.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1537013I",
+        "duration": 180.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_045_0_25035_737013",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Mónica García Gómez",
+          "lastname": "García Gómez",
+          "firstname": "Mónica",
+          "type": "member of government",
+          "role": "Ministra de Sanidad"
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 41
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 47
+      },
+      "agendaItem": {
+        "title": "¿Por qué no ha establecido el Ministerio de Sanidad medidas ante la\nescasez de profesionales de atención de Familia y Comunitaria?",
+        "officialTitle": "¿Por qué no ha establecido el Ministerio de Sanidad medidas ante la\nescasez de profesionales de atención de Familia y Comunitaria?",
+        "type": "qa",
+        "nativeType": "ES-pregunta"
+      },
+      "dateStart": "2024-06-12T10:21:00+02:00",
+      "dateEnd": "2024-06-12T10:21:00+02:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_045/cortes/15_000400_045_0_25035_737014.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1537014I",
+        "duration": 0.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_045_0_25035_737014",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Maribel Vaquero Montero",
+          "lastname": "Vaquero Montero",
+          "firstname": "Maribel",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Vasco (EAJ-PNV)"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 42
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 47
+      },
+      "agendaItem": {
+        "title": "¿Por qué no ha establecido el Ministerio de Sanidad medidas ante la\nescasez de profesionales de atención de Familia y Comunitaria?",
+        "officialTitle": "¿Por qué no ha establecido el Ministerio de Sanidad medidas ante la\nescasez de profesionales de atención de Familia y Comunitaria?",
+        "type": "qa",
+        "nativeType": "ES-pregunta"
+      },
+      "dateStart": "2024-06-12T10:21:00+02:00",
+      "dateEnd": "2024-06-12T10:22:00+02:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_045/cortes/15_000400_045_0_25035_737015.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1537015I",
+        "duration": 60.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_045_0_25035_737015",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Mónica García Gómez",
+          "lastname": "García Gómez",
+          "firstname": "Mónica",
+          "type": "member of government",
+          "role": "Ministra de Sanidad"
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 43
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 47
+      },
+      "agendaItem": {
+        "title": "¿Considera que este Gobierno protege adecuadamente el prestigio de la\nUniversidad española?",
+        "officialTitle": "¿Considera que este Gobierno protege adecuadamente el prestigio de la\nUniversidad española?",
+        "type": "qa",
+        "nativeType": "ES-pregunta"
+      },
+      "dateStart": "2024-06-12T10:22:00+02:00",
+      "dateEnd": "2024-06-12T10:24:00+02:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_045/cortes/15_000400_045_0_25035_737017.mp4\nhttps://www.congreso.es/audiovisual/video/leg15/400/15_000400_045/cortes/15_000400_045_0_25035_737019.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1537017I https://app.congreso.es/v1/15737019I",
+        "duration": 120.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_045_0_25035_737019",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Pedro Navarro López",
+          "lastname": "Navarro López",
+          "firstname": "Pedro",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Popular en el Congreso"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 44
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 47
+      },
+      "agendaItem": {
+        "title": "¿Considera que este Gobierno protege adecuadamente el prestigio de la\nUniversidad española?",
+        "officialTitle": "¿Considera que este Gobierno protege adecuadamente el prestigio de la\nUniversidad española?",
+        "type": "qa",
+        "nativeType": "ES-pregunta"
+      },
+      "dateStart": "2024-06-12T10:24:00+02:00",
+      "dateEnd": "2024-06-12T10:25:00+02:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_045/cortes/15_000400_045_0_25035_737018.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1537018I",
+        "duration": 60.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_045_0_25035_737018",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Diana Morant Ripoll",
+          "lastname": "Morant Ripoll",
+          "firstname": "Diana",
+          "type": "member of government",
+          "role": "Ministra de Ciencia, Innovación y Universidades"
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 45
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 47
+      },
+      "agendaItem": {
+        "title": "¿Considera que este Gobierno protege adecuadamente el prestigio de la\nUniversidad española?",
+        "officialTitle": "¿Considera que este Gobierno protege adecuadamente el prestigio de la\nUniversidad española?",
+        "type": "qa",
+        "nativeType": "ES-pregunta"
+      },
+      "dateStart": "2024-06-12T10:26:00+02:00",
+      "dateEnd": "2024-06-12T10:28:00+02:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_045/cortes/15_000400_045_0_25035_737020.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1537020I",
+        "duration": 120.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_045_0_25035_737020",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Diana Morant Ripoll",
+          "lastname": "Morant Ripoll",
+          "firstname": "Diana",
+          "type": "member of government",
+          "role": "Ministra de Ciencia, Innovación y Universidades"
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 46
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 47
+      },
+      "agendaItem": {
+        "title": "¿Cree que es asumible la situación en la que se encuentran los\njóvenes?",
+        "officialTitle": "¿Cree que es asumible la situación en la que se encuentran los\njóvenes?",
+        "type": "qa",
+        "nativeType": "ES-pregunta"
+      },
+      "dateStart": "2024-06-12T10:28:00+02:00",
+      "dateEnd": "2024-06-12T10:28:00+02:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_045/cortes/15_000400_045_1_24994_734937.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1534937I",
+        "duration": 0.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_045_1_24994_734937",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Josep Maria Cruset Domènech",
+          "lastname": "Cruset Domènech",
+          "firstname": "Josep Maria",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Junts per Catalunya"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 47
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 47
+      },
+      "agendaItem": {
+        "title": "¿Cree que es asumible la situación en la que se encuentran los\njóvenes?",
+        "officialTitle": "¿Cree que es asumible la situación en la que se encuentran los\njóvenes?",
+        "type": "qa",
+        "nativeType": "ES-pregunta"
+      },
+      "dateStart": "2024-06-12T10:28:00+02:00",
+      "dateEnd": "2024-06-12T10:29:00+02:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_045/cortes/15_000400_045_1_24994_734938.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1534938I",
+        "duration": 60.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_045_1_24994_734938",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Sira Abed Rego",
+          "lastname": "Rego",
+          "firstname": "Sira Abed",
+          "type": "member of government",
+          "role": "Ministra de Juventud e Infancia"
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 48
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 47
+      },
+      "agendaItem": {
+        "title": "¿Cree que es asumible la situación en la que se encuentran los\njóvenes?",
+        "officialTitle": "¿Cree que es asumible la situación en la que se encuentran los\njóvenes?",
+        "type": "qa",
+        "nativeType": "ES-pregunta"
+      },
+      "dateStart": "2024-06-12T10:29:00+02:00",
+      "dateEnd": "2024-06-12T10:32:00+02:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_045/cortes/15_000400_045_1_24994_734939.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1534939I",
+        "duration": 180.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_045_1_24994_734939",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Josep Maria Cruset Domènech",
+          "lastname": "Cruset Domènech",
+          "firstname": "Josep Maria",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Junts per Catalunya"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 49
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 47
+      },
+      "agendaItem": {
+        "title": "¿Cree que es asumible la situación en la que se encuentran los\njóvenes?",
+        "officialTitle": "¿Cree que es asumible la situación en la que se encuentran los\njóvenes?",
+        "type": "qa",
+        "nativeType": "ES-pregunta"
+      },
+      "dateStart": "2024-06-12T10:32:00+02:00",
+      "dateEnd": "2024-06-12T10:34:00+02:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_045/cortes/15_000400_045_1_24994_734940.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1534940I",
+        "duration": 120.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_045_1_24994_734940",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Sira Abed Rego",
+          "lastname": "Rego",
+          "firstname": "Sira Abed",
+          "type": "member of government",
+          "role": "Ministra de Juventud e Infancia"
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 50
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 47
+      },
+      "agendaItem": {
+        "title": "Interpelación urgente relativa a las políticas que pretende\nimplementar el Gobierno para abordar la turistificación y la problemática\nrelacionada con la misma.",
+        "officialTitle": "Interpelación urgente relativa a las políticas que pretende\nimplementar el Gobierno para abordar la turistificación y la problemática\nrelacionada con la misma.",
+        "type": "questioning_of_the_government",
+        "nativeType": "ES-interpelacion"
+      },
+      "dateStart": "2024-06-12T10:34:00+02:00",
+      "dateEnd": "2024-06-12T10:48:00+02:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_045/cortes/15_000400_045_1_24994_734943.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1534943I",
+        "duration": 840.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_045_1_24994_734943",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Noemí Santana Perera",
+          "lastname": "Santana Perera",
+          "firstname": "Noemí",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Mixto"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 51
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 47
+      },
+      "agendaItem": {
+        "title": "Interpelación urgente relativa a las políticas que pretende\nimplementar el Gobierno para abordar la turistificación y la problemática\nrelacionada con la misma.",
+        "officialTitle": "Interpelación urgente relativa a las políticas que pretende\nimplementar el Gobierno para abordar la turistificación y la problemática\nrelacionada con la misma.",
+        "type": "questioning_of_the_government",
+        "nativeType": "ES-interpelacion"
+      },
+      "dateStart": "2024-06-12T10:48:00+02:00",
+      "dateEnd": "2024-06-12T11:01:00+02:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_045/cortes/15_000400_045_1_24994_734944.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1534944I",
+        "duration": 780.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_045_1_24994_734944",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Jordi Hereu Boher",
+          "lastname": "Hereu Boher",
+          "firstname": "Jordi",
+          "type": "member of government",
+          "role": "Ministro de Industria y Turismo"
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 52
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 47
+      },
+      "agendaItem": {
+        "title": "Interpelación urgente relativa a las políticas que pretende\nimplementar el Gobierno para abordar la turistificación y la problemática\nrelacionada con la misma.",
+        "officialTitle": "Interpelación urgente relativa a las políticas que pretende\nimplementar el Gobierno para abordar la turistificación y la problemática\nrelacionada con la misma.",
+        "type": "questioning_of_the_government",
+        "nativeType": "ES-interpelacion"
+      },
+      "dateStart": "2024-06-12T11:01:00+02:00",
+      "dateEnd": "2024-06-12T11:08:00+02:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_045/cortes/15_000400_045_1_24994_734945.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1534945I",
+        "duration": 420.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_045_1_24994_734945",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Noemí Santana Perera",
+          "lastname": "Santana Perera",
+          "firstname": "Noemí",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Mixto"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 53
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 47
+      },
+      "agendaItem": {
+        "title": "Interpelación urgente relativa a las políticas que pretende\nimplementar el Gobierno para abordar la turistificación y la problemática\nrelacionada con la misma.",
+        "officialTitle": "Interpelación urgente relativa a las políticas que pretende\nimplementar el Gobierno para abordar la turistificación y la problemática\nrelacionada con la misma.",
+        "type": "questioning_of_the_government",
+        "nativeType": "ES-interpelacion"
+      },
+      "dateStart": "2024-06-12T11:08:00+02:00",
+      "dateEnd": "2024-06-12T11:14:00+02:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_045/cortes/15_000400_045_1_24994_734946.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1534946I",
+        "duration": 360.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_045_1_24994_734946",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Jordi Hereu Boher",
+          "lastname": "Hereu Boher",
+          "firstname": "Jordi",
+          "type": "member of government",
+          "role": "Ministro de Industria y Turismo"
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 54
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 47
+      },
+      "agendaItem": {
+        "title": "Interpelación urgente a la Vicepresidenta Segunda del Gobierno y\nMinistra de Trabajo y Economía Social sobre las medidas que va a adoptar\nel Gobierno para garantizar el empleo estable y de calidad en España.",
+        "officialTitle": "Interpelación urgente a la Vicepresidenta Segunda del Gobierno y\nMinistra de Trabajo y Economía Social sobre las medidas que va a adoptar\nel Gobierno para garantizar el empleo estable y de calidad en España.",
+        "type": "questioning_of_the_government",
+        "nativeType": "ES-interpelacion"
+      },
+      "dateStart": "2024-06-12T11:15:00+02:00",
+      "dateEnd": "2024-06-12T11:28:00+02:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_045/cortes/15_000400_045_1_24994_734948.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1534948I",
+        "duration": 780.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_045_1_24994_734948",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "David García Gomis",
+          "lastname": "García Gomis",
+          "firstname": "David",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario VOX"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 55
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 47
+      },
+      "agendaItem": {
+        "title": "Interpelación urgente a la Vicepresidenta Segunda del Gobierno y\nMinistra de Trabajo y Economía Social sobre las medidas que va a adoptar\nel Gobierno para garantizar el empleo estable y de calidad en España.",
+        "officialTitle": "Interpelación urgente a la Vicepresidenta Segunda del Gobierno y\nMinistra de Trabajo y Economía Social sobre las medidas que va a adoptar\nel Gobierno para garantizar el empleo estable y de calidad en España.",
+        "type": "questioning_of_the_government",
+        "nativeType": "ES-interpelacion"
+      },
+      "dateStart": "2024-06-12T11:28:00+02:00",
+      "dateEnd": "2024-06-12T11:42:00+02:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_045/cortes/15_000400_045_1_24994_734949.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1534949I",
+        "duration": 840.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_045_1_24994_734949",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Yolanda Díaz Pérez",
+          "lastname": "Díaz Pérez",
+          "firstname": "Yolanda",
+          "type": "member of government",
+          "role": "Vicepresidenta Segunda y Ministra de Trabajo y Economía Social",
+          "faction": {
+            "label": "Grupo Parlamentario Plurinacional SUMAR"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 56
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 47
+      },
+      "agendaItem": {
+        "title": "Interpelación urgente a la Vicepresidenta Segunda del Gobierno y\nMinistra de Trabajo y Economía Social sobre las medidas que va a adoptar\nel Gobierno para garantizar el empleo estable y de calidad en España.",
+        "officialTitle": "Interpelación urgente a la Vicepresidenta Segunda del Gobierno y\nMinistra de Trabajo y Economía Social sobre las medidas que va a adoptar\nel Gobierno para garantizar el empleo estable y de calidad en España.",
+        "type": "questioning_of_the_government",
+        "nativeType": "ES-interpelacion"
+      },
+      "dateStart": "2024-06-12T11:42:00+02:00",
+      "dateEnd": "2024-06-12T11:48:00+02:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_045/cortes/15_000400_045_1_24994_734950.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1534950I",
+        "duration": 360.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_045_1_24994_734950",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "David García Gomis",
+          "lastname": "García Gomis",
+          "firstname": "David",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario VOX"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 57
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 47
+      },
+      "agendaItem": {
+        "title": "Interpelación urgente a la Vicepresidenta Segunda del Gobierno y\nMinistra de Trabajo y Economía Social sobre las medidas que va a adoptar\nel Gobierno para garantizar el empleo estable y de calidad en España.",
+        "officialTitle": "Interpelación urgente a la Vicepresidenta Segunda del Gobierno y\nMinistra de Trabajo y Economía Social sobre las medidas que va a adoptar\nel Gobierno para garantizar el empleo estable y de calidad en España.",
+        "type": "questioning_of_the_government",
+        "nativeType": "ES-interpelacion"
+      },
+      "dateStart": "2024-06-12T11:48:00+02:00",
+      "dateEnd": "2024-06-12T11:54:00+02:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_045/cortes/15_000400_045_1_24994_734951.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1534951I",
+        "duration": 360.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_045_1_24994_734951",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Yolanda Díaz Pérez",
+          "lastname": "Díaz Pérez",
+          "firstname": "Yolanda",
+          "type": "member of government",
+          "role": "Vicepresidenta Segunda y Ministra de Trabajo y Economía Social",
+          "faction": {
+            "label": "Grupo Parlamentario Plurinacional SUMAR"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 58
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 47
+      },
+      "agendaItem": {
+        "title": "Moción consecuencia de interpelación urgente sobre la medida en que\nla acción del Gobierno en torno a la guerra contra Hamás puede afectar al\nmercado laboral español.",
+        "officialTitle": "Moción consecuencia de interpelación urgente sobre la medida en que\nla acción del Gobierno en torno a la guerra contra Hamás puede afectar al\nmercado laboral español.",
+        "type": "regular",
+        "nativeType": "ES-mocion"
+      },
+      "dateStart": "2024-06-12T11:54:00+02:00",
+      "dateEnd": "2024-06-12T12:03:00+02:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_045/cortes/15_000400_045_0_24994_734954.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1534954I",
+        "duration": 540.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_045_0_24994_734954",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Carlos Flores Juberías",
+          "lastname": "Flores Juberías",
+          "firstname": "Carlos",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario VOX"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 59
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 47
+      },
+      "agendaItem": {
+        "title": "Moción consecuencia de interpelación urgente sobre la medida en que\nla acción del Gobierno en torno a la guerra contra Hamás puede afectar al\nmercado laboral español.",
+        "officialTitle": "Moción consecuencia de interpelación urgente sobre la medida en que\nla acción del Gobierno en torno a la guerra contra Hamás puede afectar al\nmercado laboral español.",
+        "type": "regular",
+        "nativeType": "ES-mocion"
+      },
+      "dateStart": "2024-06-12T12:03:00+02:00",
+      "dateEnd": "2024-06-12T12:08:00+02:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_045/cortes/15_000400_045_0_24994_734955.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1534955I",
+        "duration": 300.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_045_0_24994_734955",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Javier Sánchez Serna",
+          "lastname": "Sánchez Serna",
+          "firstname": "Javier",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Mixto"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 60
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 47
+      },
+      "agendaItem": {
+        "title": "Moción consecuencia de interpelación urgente sobre la medida en que\nla acción del Gobierno en torno a la guerra contra Hamás puede afectar al\nmercado laboral español.",
+        "officialTitle": "Moción consecuencia de interpelación urgente sobre la medida en que\nla acción del Gobierno en torno a la guerra contra Hamás puede afectar al\nmercado laboral español.",
+        "type": "regular",
+        "nativeType": "ES-mocion"
+      },
+      "dateStart": "2024-06-12T12:08:00+02:00",
+      "dateEnd": "2024-06-12T12:14:00+02:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_045/cortes/15_000400_045_0_24994_734956.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1534956I",
+        "duration": 360.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_045_0_24994_734956",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Aitor Esteban Bravo",
+          "lastname": "Esteban Bravo",
+          "firstname": "Aitor",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Vasco (EAJ-PNV)"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 61
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 47
+      },
+      "agendaItem": {
+        "title": "Moción consecuencia de interpelación urgente sobre la medida en que\nla acción del Gobierno en torno a la guerra contra Hamás puede afectar al\nmercado laboral español.",
+        "officialTitle": "Moción consecuencia de interpelación urgente sobre la medida en que\nla acción del Gobierno en torno a la guerra contra Hamás puede afectar al\nmercado laboral español.",
+        "type": "regular",
+        "nativeType": "ES-mocion"
+      },
+      "dateStart": "2024-06-12T12:14:00+02:00",
+      "dateEnd": "2024-06-12T12:19:00+02:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_045/cortes/15_000400_045_0_24994_734957.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1534957I",
+        "duration": 300.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_045_0_24994_734957",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Agustín Santos Maraver",
+          "lastname": "Santos Maraver",
+          "firstname": "Agustín",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Plurinacional SUMAR"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 62
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 47
+      },
+      "agendaItem": {
+        "title": "Moción consecuencia de interpelación urgente sobre la medida en que\nla acción del Gobierno en torno a la guerra contra Hamás puede afectar al\nmercado laboral español.",
+        "officialTitle": "Moción consecuencia de interpelación urgente sobre la medida en que\nla acción del Gobierno en torno a la guerra contra Hamás puede afectar al\nmercado laboral español.",
+        "type": "regular",
+        "nativeType": "ES-mocion"
+      },
+      "dateStart": "2024-06-12T12:19:00+02:00",
+      "dateEnd": "2024-06-12T12:26:00+02:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_045/cortes/15_000400_045_0_24994_734958.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1534958I",
+        "duration": 420.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_045_0_24994_734958",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Juan Francisco Serrano Martínez",
+          "lastname": "Serrano Martínez",
+          "firstname": "Juan Francisco",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Socialista"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 63
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 47
+      },
+      "agendaItem": {
+        "title": "Moción consecuencia de interpelación urgente sobre la medida en que\nla acción del Gobierno en torno a la guerra contra Hamás puede afectar al\nmercado laboral español.",
+        "officialTitle": "Moción consecuencia de interpelación urgente sobre la medida en que\nla acción del Gobierno en torno a la guerra contra Hamás puede afectar al\nmercado laboral español.",
+        "type": "regular",
+        "nativeType": "ES-mocion"
+      },
+      "dateStart": "2024-06-12T12:26:00+02:00",
+      "dateEnd": "2024-06-12T12:34:00+02:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_045/cortes/15_000400_045_0_24994_734959.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1534959I",
+        "duration": 480.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_045_0_24994_734959",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "José Manuel Velasco Retamosa",
+          "lastname": "Velasco Retamosa",
+          "firstname": "José Manuel",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Popular en el Congreso"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 64
+    }
+  ]
+}

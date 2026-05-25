@@ -1,0 +1,2178 @@
+{
+  "meta": {
+    "session": "15170",
+    "processing": {
+      "parse_media": "2026-05-23T07:17:41"
+    },
+    "dateStart": "2026-02-26T09:01:00+01:00",
+    "dateEnd": "2026-02-26T14:54:00+01:00"
+  },
+  "data": [
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 170
+      },
+      "agendaItem": {
+        "title": "Real Decreto-ley 1/2026, de 27 de enero, de ayudas a las víctimas de\nlos accidentes ferroviarios de Adamuz (Córdoba) y Gélida (Barcelona).",
+        "officialTitle": "Real Decreto-ley 1/2026, de 27 de enero, de ayudas a las víctimas de\nlos accidentes ferroviarios de Adamuz (Córdoba) y Gélida (Barcelona).",
+        "type": "regular",
+        "nativeType": "ES-ley"
+      },
+      "dateStart": "2026-02-26T09:01:00+01:00",
+      "dateEnd": "2026-02-26T09:13:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_164/cortes/15_000400_164_0_27033_768615.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1568615I",
+        "duration": 720.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_164_0_27033_768615",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Ángel Víctor Torres Pérez",
+          "lastname": "Torres Pérez",
+          "firstname": "Ángel Víctor",
+          "type": "member of government",
+          "role": "Ministro de Política Territorial y Memoria Democrática"
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 1
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 170
+      },
+      "agendaItem": {
+        "title": "Real Decreto-ley 1/2026, de 27 de enero, de ayudas a las víctimas de\nlos accidentes ferroviarios de Adamuz (Córdoba) y Gélida (Barcelona).",
+        "officialTitle": "Real Decreto-ley 1/2026, de 27 de enero, de ayudas a las víctimas de\nlos accidentes ferroviarios de Adamuz (Córdoba) y Gélida (Barcelona).",
+        "type": "regular",
+        "nativeType": "ES-ley"
+      },
+      "dateStart": "2026-02-26T09:13:00+01:00",
+      "dateEnd": "2026-02-26T09:17:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_164/cortes/15_000400_164_0_27033_768616.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1568616I",
+        "duration": 240.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_164_0_27033_768616",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Alberto Catalán Higueras",
+          "lastname": "Catalán Higueras",
+          "firstname": "Alberto",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Mixto"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 2
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 170
+      },
+      "agendaItem": {
+        "title": "Real Decreto-ley 1/2026, de 27 de enero, de ayudas a las víctimas de\nlos accidentes ferroviarios de Adamuz (Córdoba) y Gélida (Barcelona).",
+        "officialTitle": "Real Decreto-ley 1/2026, de 27 de enero, de ayudas a las víctimas de\nlos accidentes ferroviarios de Adamuz (Córdoba) y Gélida (Barcelona).",
+        "type": "regular",
+        "nativeType": "ES-ley"
+      },
+      "dateStart": "2026-02-26T09:17:00+01:00",
+      "dateEnd": "2026-02-26T09:22:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_164/cortes/15_000400_164_0_27033_768617.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1568617I",
+        "duration": 300.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_164_0_27033_768617",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Martina Velarde Gómez",
+          "lastname": "Velarde Gómez",
+          "firstname": "Martina",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Mixto"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 3
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 170
+      },
+      "agendaItem": {
+        "title": "Real Decreto-ley 1/2026, de 27 de enero, de ayudas a las víctimas de\nlos accidentes ferroviarios de Adamuz (Córdoba) y Gélida (Barcelona).",
+        "officialTitle": "Real Decreto-ley 1/2026, de 27 de enero, de ayudas a las víctimas de\nlos accidentes ferroviarios de Adamuz (Córdoba) y Gélida (Barcelona).",
+        "type": "regular",
+        "nativeType": "ES-ley"
+      },
+      "dateStart": "2026-02-26T09:22:00+01:00",
+      "dateEnd": "2026-02-26T09:26:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_164/cortes/15_000400_164_0_27033_768618.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1568618I",
+        "duration": 240.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_164_0_27033_768618",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Nerea Renteria Lasanta",
+          "lastname": "Renteria Lasanta",
+          "firstname": "Nerea",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Vasco (EAJ-PNV)"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 4
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 170
+      },
+      "agendaItem": {
+        "title": "Real Decreto-ley 1/2026, de 27 de enero, de ayudas a las víctimas de\nlos accidentes ferroviarios de Adamuz (Córdoba) y Gélida (Barcelona).",
+        "officialTitle": "Real Decreto-ley 1/2026, de 27 de enero, de ayudas a las víctimas de\nlos accidentes ferroviarios de Adamuz (Córdoba) y Gélida (Barcelona).",
+        "type": "regular",
+        "nativeType": "ES-ley"
+      },
+      "dateStart": "2026-02-26T09:26:00+01:00",
+      "dateEnd": "2026-02-26T09:30:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_164/cortes/15_000400_164_0_27033_768619.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1568619I",
+        "duration": 240.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_164_0_27033_768619",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Mikel Otero Gabirondo",
+          "lastname": "Otero Gabirondo",
+          "firstname": "Mikel",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Euskal Herria Bildu"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 5
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 170
+      },
+      "agendaItem": {
+        "title": "Real Decreto-ley 1/2026, de 27 de enero, de ayudas a las víctimas de\nlos accidentes ferroviarios de Adamuz (Córdoba) y Gélida (Barcelona).",
+        "officialTitle": "Real Decreto-ley 1/2026, de 27 de enero, de ayudas a las víctimas de\nlos accidentes ferroviarios de Adamuz (Córdoba) y Gélida (Barcelona).",
+        "type": "regular",
+        "nativeType": "ES-ley"
+      },
+      "dateStart": "2026-02-26T09:30:00+01:00",
+      "dateEnd": "2026-02-26T09:38:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_164/cortes/15_000400_164_0_27033_768620.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1568620I",
+        "duration": 480.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_164_0_27033_768620",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Isidre Gavin i Valls",
+          "lastname": "Gavin i Valls",
+          "firstname": "Isidre",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Junts per Catalunya"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 6
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 170
+      },
+      "agendaItem": {
+        "title": "Real Decreto-ley 1/2026, de 27 de enero, de ayudas a las víctimas de\nlos accidentes ferroviarios de Adamuz (Córdoba) y Gélida (Barcelona).",
+        "officialTitle": "Real Decreto-ley 1/2026, de 27 de enero, de ayudas a las víctimas de\nlos accidentes ferroviarios de Adamuz (Córdoba) y Gélida (Barcelona).",
+        "type": "regular",
+        "nativeType": "ES-ley"
+      },
+      "dateStart": "2026-02-26T09:38:00+01:00",
+      "dateEnd": "2026-02-26T09:44:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_164/cortes/15_000400_164_0_27033_768621.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1568621I",
+        "duration": 360.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_164_0_27033_768621",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Inés Granollers Cunillera",
+          "lastname": "Granollers Cunillera",
+          "firstname": "Inés",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Republicano"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 7
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 170
+      },
+      "agendaItem": {
+        "title": "Real Decreto-ley 1/2026, de 27 de enero, de ayudas a las víctimas de\nlos accidentes ferroviarios de Adamuz (Córdoba) y Gélida (Barcelona).",
+        "officialTitle": "Real Decreto-ley 1/2026, de 27 de enero, de ayudas a las víctimas de\nlos accidentes ferroviarios de Adamuz (Córdoba) y Gélida (Barcelona).",
+        "type": "regular",
+        "nativeType": "ES-ley"
+      },
+      "dateStart": "2026-02-26T09:44:00+01:00",
+      "dateEnd": "2026-02-26T09:51:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_164/cortes/15_000400_164_0_27033_768622.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1568622I",
+        "duration": 420.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_164_0_27033_768622",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Fèlix Alonso Cantorné",
+          "lastname": "Alonso Cantorné",
+          "firstname": "Fèlix",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Plurinacional SUMAR"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 8
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 170
+      },
+      "agendaItem": {
+        "title": "Real Decreto-ley 1/2026, de 27 de enero, de ayudas a las víctimas de\nlos accidentes ferroviarios de Adamuz (Córdoba) y Gélida (Barcelona).",
+        "officialTitle": "Real Decreto-ley 1/2026, de 27 de enero, de ayudas a las víctimas de\nlos accidentes ferroviarios de Adamuz (Córdoba) y Gélida (Barcelona).",
+        "type": "regular",
+        "nativeType": "ES-ley"
+      },
+      "dateStart": "2026-02-26T09:51:00+01:00",
+      "dateEnd": "2026-02-26T10:00:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_164/cortes/15_000400_164_0_27033_768623.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1568623I",
+        "duration": 540.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_164_0_27033_768623",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Carina Mejías Sánchez",
+          "lastname": "Mejías Sánchez",
+          "firstname": "Carina",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario VOX"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 9
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 170
+      },
+      "agendaItem": {
+        "title": "Real Decreto-ley 1/2026, de 27 de enero, de ayudas a las víctimas de\nlos accidentes ferroviarios de Adamuz (Córdoba) y Gélida (Barcelona).",
+        "officialTitle": "Real Decreto-ley 1/2026, de 27 de enero, de ayudas a las víctimas de\nlos accidentes ferroviarios de Adamuz (Córdoba) y Gélida (Barcelona).",
+        "type": "regular",
+        "nativeType": "ES-ley"
+      },
+      "dateStart": "2026-02-26T10:00:00+01:00",
+      "dateEnd": "2026-02-26T10:09:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_164/cortes/15_000400_164_0_27033_768624.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1568624I",
+        "duration": 540.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_164_0_27033_768624",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Rafaela Crespín Rubio",
+          "lastname": "Crespín Rubio",
+          "firstname": "Rafaela",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Socialista"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 10
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 170
+      },
+      "agendaItem": {
+        "title": "Real Decreto-ley 1/2026, de 27 de enero, de ayudas a las víctimas de\nlos accidentes ferroviarios de Adamuz (Córdoba) y Gélida (Barcelona).",
+        "officialTitle": "Real Decreto-ley 1/2026, de 27 de enero, de ayudas a las víctimas de\nlos accidentes ferroviarios de Adamuz (Córdoba) y Gélida (Barcelona).",
+        "type": "regular",
+        "nativeType": "ES-ley"
+      },
+      "dateStart": "2026-02-26T10:09:00+01:00",
+      "dateEnd": "2026-02-26T10:18:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_164/cortes/15_000400_164_0_27033_768625.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1568625I",
+        "duration": 540.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_164_0_27033_768625",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Bartolomé Madrid Olmo",
+          "lastname": "Madrid Olmo",
+          "firstname": "Bartolomé",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Popular en el Congreso"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 11
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 170
+      },
+      "agendaItem": {
+        "title": "Real Decreto-ley 2/2026, de 3 de febrero, por el que se adoptan\nmedidas urgentes para hacer frente a situaciones de vulnerabilidad\nsocial, en materia tributaria y relativas a los recursos de los sistemas\nde financiación territorial.",
+        "officialTitle": "Real Decreto-ley 2/2026, de 3 de febrero, por el que se adoptan\nmedidas urgentes para hacer frente a situaciones de vulnerabilidad\nsocial, en materia tributaria y relativas a los recursos de los sistemas\nde financiación territorial.",
+        "type": "regular",
+        "nativeType": "ES-ley"
+      },
+      "dateStart": "2026-02-26T10:18:00+01:00",
+      "dateEnd": "2026-02-26T10:33:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_164/cortes/15_000400_164_0_27033_768627.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1568627I",
+        "duration": 900.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_164_0_27033_768627",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Félix Bolaños García",
+          "lastname": "Bolaños García",
+          "firstname": "Félix",
+          "type": "member of government",
+          "role": "Ministro de la Presidencia, Justicia y Relaciones con las Cortes",
+          "faction": {
+            "label": "Grupo Parlamentario Socialista"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 12
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 170
+      },
+      "agendaItem": {
+        "title": "Real Decreto-ley 2/2026, de 3 de febrero, por el que se adoptan\nmedidas urgentes para hacer frente a situaciones de vulnerabilidad\nsocial, en materia tributaria y relativas a los recursos de los sistemas\nde financiación territorial.",
+        "officialTitle": "Real Decreto-ley 2/2026, de 3 de febrero, por el que se adoptan\nmedidas urgentes para hacer frente a situaciones de vulnerabilidad\nsocial, en materia tributaria y relativas a los recursos de los sistemas\nde financiación territorial.",
+        "type": "regular",
+        "nativeType": "ES-ley"
+      },
+      "dateStart": "2026-02-26T10:33:00+01:00",
+      "dateEnd": "2026-02-26T10:35:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_164/cortes/15_000400_164_0_27033_768628.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1568628I",
+        "duration": 120.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_164_0_27033_768628",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Àgueda Micó Micó",
+          "lastname": "Micó Micó",
+          "firstname": "Àgueda",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Mixto"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 13
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 170
+      },
+      "agendaItem": {
+        "title": "Real Decreto-ley 2/2026, de 3 de febrero, por el que se adoptan\nmedidas urgentes para hacer frente a situaciones de vulnerabilidad\nsocial, en materia tributaria y relativas a los recursos de los sistemas\nde financiación territorial.",
+        "officialTitle": "Real Decreto-ley 2/2026, de 3 de febrero, por el que se adoptan\nmedidas urgentes para hacer frente a situaciones de vulnerabilidad\nsocial, en materia tributaria y relativas a los recursos de los sistemas\nde financiación territorial.",
+        "type": "regular",
+        "nativeType": "ES-ley"
+      },
+      "dateStart": "2026-02-26T10:35:00+01:00",
+      "dateEnd": "2026-02-26T10:37:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_164/cortes/15_000400_164_0_27033_768629.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1568629I",
+        "duration": 120.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_164_0_27033_768629",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Alberto Catalán Higueras",
+          "lastname": "Catalán Higueras",
+          "firstname": "Alberto",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Mixto"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 14
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 170
+      },
+      "agendaItem": {
+        "title": "Real Decreto-ley 2/2026, de 3 de febrero, por el que se adoptan\nmedidas urgentes para hacer frente a situaciones de vulnerabilidad\nsocial, en materia tributaria y relativas a los recursos de los sistemas\nde financiación territorial.",
+        "officialTitle": "Real Decreto-ley 2/2026, de 3 de febrero, por el que se adoptan\nmedidas urgentes para hacer frente a situaciones de vulnerabilidad\nsocial, en materia tributaria y relativas a los recursos de los sistemas\nde financiación territorial.",
+        "type": "regular",
+        "nativeType": "ES-ley"
+      },
+      "dateStart": "2026-02-26T10:37:00+01:00",
+      "dateEnd": "2026-02-26T10:40:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_164/cortes/15_000400_164_0_27033_768630.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1568630I",
+        "duration": 180.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_164_0_27033_768630",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Néstor Rego Candamil",
+          "lastname": "Rego Candamil",
+          "firstname": "Néstor",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Mixto"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 15
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 170
+      },
+      "agendaItem": {
+        "title": "Real Decreto-ley 2/2026, de 3 de febrero, por el que se adoptan\nmedidas urgentes para hacer frente a situaciones de vulnerabilidad\nsocial, en materia tributaria y relativas a los recursos de los sistemas\nde financiación territorial.",
+        "officialTitle": "Real Decreto-ley 2/2026, de 3 de febrero, por el que se adoptan\nmedidas urgentes para hacer frente a situaciones de vulnerabilidad\nsocial, en materia tributaria y relativas a los recursos de los sistemas\nde financiación territorial.",
+        "type": "regular",
+        "nativeType": "ES-ley"
+      },
+      "dateStart": "2026-02-26T10:40:00+01:00",
+      "dateEnd": "2026-02-26T10:43:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_164/cortes/15_000400_164_0_27033_768631.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1568631I",
+        "duration": 180.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_164_0_27033_768631",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Ione Belarra Urteaga",
+          "lastname": "Belarra Urteaga",
+          "firstname": "Ione",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Mixto"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 16
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 170
+      },
+      "agendaItem": {
+        "title": "Real Decreto-ley 2/2026, de 3 de febrero, por el que se adoptan\nmedidas urgentes para hacer frente a situaciones de vulnerabilidad\nsocial, en materia tributaria y relativas a los recursos de los sistemas\nde financiación territorial.",
+        "officialTitle": "Real Decreto-ley 2/2026, de 3 de febrero, por el que se adoptan\nmedidas urgentes para hacer frente a situaciones de vulnerabilidad\nsocial, en materia tributaria y relativas a los recursos de los sistemas\nde financiación territorial.",
+        "type": "regular",
+        "nativeType": "ES-ley"
+      },
+      "dateStart": "2026-02-26T10:43:00+01:00",
+      "dateEnd": "2026-02-26T10:51:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_164/cortes/15_000400_164_0_27033_768632.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1568632I",
+        "duration": 480.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_164_0_27033_768632",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Idoia Sagastizabal Unzetabarrenetxea",
+          "lastname": "Sagastizabal Unzetabarrenetxea",
+          "firstname": "Idoia",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Vasco (EAJ-PNV)"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 17
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 170
+      },
+      "agendaItem": {
+        "title": "Real Decreto-ley 2/2026, de 3 de febrero, por el que se adoptan\nmedidas urgentes para hacer frente a situaciones de vulnerabilidad\nsocial, en materia tributaria y relativas a los recursos de los sistemas\nde financiación territorial.",
+        "officialTitle": "Real Decreto-ley 2/2026, de 3 de febrero, por el que se adoptan\nmedidas urgentes para hacer frente a situaciones de vulnerabilidad\nsocial, en materia tributaria y relativas a los recursos de los sistemas\nde financiación territorial.",
+        "type": "regular",
+        "nativeType": "ES-ley"
+      },
+      "dateStart": "2026-02-26T10:51:00+01:00",
+      "dateEnd": "2026-02-26T10:57:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_164/cortes/15_000400_164_0_27033_768633.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1568633I",
+        "duration": 360.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_164_0_27033_768633",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Oskar Matute García de Jalón",
+          "lastname": "Matute García de Jalón",
+          "firstname": "Oskar",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Euskal Herria Bildu"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 18
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 170
+      },
+      "agendaItem": {
+        "title": "Real Decreto-ley 2/2026, de 3 de febrero, por el que se adoptan\nmedidas urgentes para hacer frente a situaciones de vulnerabilidad\nsocial, en materia tributaria y relativas a los recursos de los sistemas\nde financiación territorial.",
+        "officialTitle": "Real Decreto-ley 2/2026, de 3 de febrero, por el que se adoptan\nmedidas urgentes para hacer frente a situaciones de vulnerabilidad\nsocial, en materia tributaria y relativas a los recursos de los sistemas\nde financiación territorial.",
+        "type": "regular",
+        "nativeType": "ES-ley"
+      },
+      "dateStart": "2026-02-26T10:57:00+01:00",
+      "dateEnd": "2026-02-26T11:05:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_164/cortes/15_000400_164_0_27033_768634.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1568634I",
+        "duration": 480.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_164_0_27033_768634",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Marta Madrenas i Mir",
+          "lastname": "Madrenas i Mir",
+          "firstname": "Marta",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Junts per Catalunya"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 19
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 170
+      },
+      "agendaItem": {
+        "title": "Real Decreto-ley 2/2026, de 3 de febrero, por el que se adoptan\nmedidas urgentes para hacer frente a situaciones de vulnerabilidad\nsocial, en materia tributaria y relativas a los recursos de los sistemas\nde financiación territorial.",
+        "officialTitle": "Real Decreto-ley 2/2026, de 3 de febrero, por el que se adoptan\nmedidas urgentes para hacer frente a situaciones de vulnerabilidad\nsocial, en materia tributaria y relativas a los recursos de los sistemas\nde financiación territorial.",
+        "type": "regular",
+        "nativeType": "ES-ley"
+      },
+      "dateStart": "2026-02-26T11:05:00+01:00",
+      "dateEnd": "2026-02-26T11:14:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_164/cortes/15_000400_164_0_27033_768635.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1568635I",
+        "duration": 540.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_164_0_27033_768635",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Jordi Salvador i Duch",
+          "lastname": "Salvador i Duch",
+          "firstname": "Jordi",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Republicano"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 20
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 170
+      },
+      "agendaItem": {
+        "title": "Real Decreto-ley 2/2026, de 3 de febrero, por el que se adoptan\nmedidas urgentes para hacer frente a situaciones de vulnerabilidad\nsocial, en materia tributaria y relativas a los recursos de los sistemas\nde financiación territorial.",
+        "officialTitle": "Real Decreto-ley 2/2026, de 3 de febrero, por el que se adoptan\nmedidas urgentes para hacer frente a situaciones de vulnerabilidad\nsocial, en materia tributaria y relativas a los recursos de los sistemas\nde financiación territorial.",
+        "type": "regular",
+        "nativeType": "ES-ley"
+      },
+      "dateStart": "2026-02-26T11:14:00+01:00",
+      "dateEnd": "2026-02-26T11:23:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_164/cortes/15_000400_164_0_27033_768636.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1568636I",
+        "duration": 540.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_164_0_27033_768636",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Aina Vidal Sáez",
+          "lastname": "Vidal Sáez",
+          "firstname": "Aina",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Plurinacional SUMAR"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 21
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 170
+      },
+      "agendaItem": {
+        "title": "Real Decreto-ley 2/2026, de 3 de febrero, por el que se adoptan\nmedidas urgentes para hacer frente a situaciones de vulnerabilidad\nsocial, en materia tributaria y relativas a los recursos de los sistemas\nde financiación territorial.",
+        "officialTitle": "Real Decreto-ley 2/2026, de 3 de febrero, por el que se adoptan\nmedidas urgentes para hacer frente a situaciones de vulnerabilidad\nsocial, en materia tributaria y relativas a los recursos de los sistemas\nde financiación territorial.",
+        "type": "regular",
+        "nativeType": "ES-ley"
+      },
+      "dateStart": "2026-02-26T11:23:00+01:00",
+      "dateEnd": "2026-02-26T11:31:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_164/cortes/15_000400_164_0_27033_768637.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1568637I",
+        "duration": 480.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_164_0_27033_768637",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Carlos Hernández Quero",
+          "lastname": "Hernández Quero",
+          "firstname": "Carlos",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario VOX"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 22
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 170
+      },
+      "agendaItem": {
+        "title": "Real Decreto-ley 2/2026, de 3 de febrero, por el que se adoptan\nmedidas urgentes para hacer frente a situaciones de vulnerabilidad\nsocial, en materia tributaria y relativas a los recursos de los sistemas\nde financiación territorial.",
+        "officialTitle": "Real Decreto-ley 2/2026, de 3 de febrero, por el que se adoptan\nmedidas urgentes para hacer frente a situaciones de vulnerabilidad\nsocial, en materia tributaria y relativas a los recursos de los sistemas\nde financiación territorial.",
+        "type": "regular",
+        "nativeType": "ES-ley"
+      },
+      "dateStart": "2026-02-26T11:31:00+01:00",
+      "dateEnd": "2026-02-26T11:38:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_164/cortes/15_000400_164_0_27033_768638.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1568638I",
+        "duration": 420.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_164_0_27033_768638",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Montse Mínguez García",
+          "lastname": "Mínguez García",
+          "firstname": "Montse",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Socialista"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 23
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 170
+      },
+      "agendaItem": {
+        "title": "Real Decreto-ley 2/2026, de 3 de febrero, por el que se adoptan\nmedidas urgentes para hacer frente a situaciones de vulnerabilidad\nsocial, en materia tributaria y relativas a los recursos de los sistemas\nde financiación territorial.",
+        "officialTitle": "Real Decreto-ley 2/2026, de 3 de febrero, por el que se adoptan\nmedidas urgentes para hacer frente a situaciones de vulnerabilidad\nsocial, en materia tributaria y relativas a los recursos de los sistemas\nde financiación territorial.",
+        "type": "regular",
+        "nativeType": "ES-ley"
+      },
+      "dateStart": "2026-02-26T11:39:00+01:00",
+      "dateEnd": "2026-02-26T11:48:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_164/cortes/15_000400_164_1_27034_768642.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1568642I",
+        "duration": 540.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_164_1_27034_768642",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "José Vicente Marí Bosó",
+          "lastname": "Marí Bosó",
+          "firstname": "José Vicente",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Popular en el Congreso"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 24
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 170
+      },
+      "agendaItem": {
+        "title": "Real Decreto-ley 3/2026, de 3 de febrero, para la revalorización de\nlas pensiones públicas y otras medidas urgentes en materia de Seguridad\nSocial.",
+        "officialTitle": "Real Decreto-ley 3/2026, de 3 de febrero, para la revalorización de\nlas pensiones públicas y otras medidas urgentes en materia de Seguridad\nSocial.",
+        "type": "regular",
+        "nativeType": "ES-ley"
+      },
+      "dateStart": "2026-02-26T11:48:00+01:00",
+      "dateEnd": "2026-02-26T11:58:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_164/cortes/15_000400_164_1_27034_768644.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1568644I",
+        "duration": 600.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_164_1_27034_768644",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Elma Saiz Delgado",
+          "lastname": "Saiz Delgado",
+          "firstname": "Elma",
+          "type": "member of government",
+          "role": "Ministra de Inclusión, Seguridad Social y Migraciones"
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 25
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 170
+      },
+      "agendaItem": {
+        "title": "Real Decreto-ley 3/2026, de 3 de febrero, para la revalorización de\nlas pensiones públicas y otras medidas urgentes en materia de Seguridad\nSocial.",
+        "officialTitle": "Real Decreto-ley 3/2026, de 3 de febrero, para la revalorización de\nlas pensiones públicas y otras medidas urgentes en materia de Seguridad\nSocial.",
+        "type": "regular",
+        "nativeType": "ES-ley"
+      },
+      "dateStart": "2026-02-26T11:58:00+01:00",
+      "dateEnd": "2026-02-26T12:01:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_164/cortes/15_000400_164_1_27034_768645.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1568645I",
+        "duration": 180.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_164_1_27034_768645",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Àgueda Micó Micó",
+          "lastname": "Micó Micó",
+          "firstname": "Àgueda",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Mixto"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 26
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 170
+      },
+      "agendaItem": {
+        "title": "Real Decreto-ley 3/2026, de 3 de febrero, para la revalorización de\nlas pensiones públicas y otras medidas urgentes en materia de Seguridad\nSocial.",
+        "officialTitle": "Real Decreto-ley 3/2026, de 3 de febrero, para la revalorización de\nlas pensiones públicas y otras medidas urgentes en materia de Seguridad\nSocial.",
+        "type": "regular",
+        "nativeType": "ES-ley"
+      },
+      "dateStart": "2026-02-26T12:01:00+01:00",
+      "dateEnd": "2026-02-26T12:03:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_164/cortes/15_000400_164_1_27034_768646.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1568646I",
+        "duration": 120.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_164_1_27034_768646",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Alberto Catalán Higueras",
+          "lastname": "Catalán Higueras",
+          "firstname": "Alberto",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Mixto"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 27
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 170
+      },
+      "agendaItem": {
+        "title": "Real Decreto-ley 3/2026, de 3 de febrero, para la revalorización de\nlas pensiones públicas y otras medidas urgentes en materia de Seguridad\nSocial.",
+        "officialTitle": "Real Decreto-ley 3/2026, de 3 de febrero, para la revalorización de\nlas pensiones públicas y otras medidas urgentes en materia de Seguridad\nSocial.",
+        "type": "regular",
+        "nativeType": "ES-ley"
+      },
+      "dateStart": "2026-02-26T12:03:00+01:00",
+      "dateEnd": "2026-02-26T12:05:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_164/cortes/15_000400_164_1_27034_768647.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1568647I",
+        "duration": 120.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_164_1_27034_768647",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Cristina Valido García",
+          "lastname": "Valido García",
+          "firstname": "Cristina",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Mixto"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 28
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 170
+      },
+      "agendaItem": {
+        "title": "Real Decreto-ley 3/2026, de 3 de febrero, para la revalorización de\nlas pensiones públicas y otras medidas urgentes en materia de Seguridad\nSocial.",
+        "officialTitle": "Real Decreto-ley 3/2026, de 3 de febrero, para la revalorización de\nlas pensiones públicas y otras medidas urgentes en materia de Seguridad\nSocial.",
+        "type": "regular",
+        "nativeType": "ES-ley"
+      },
+      "dateStart": "2026-02-26T12:05:00+01:00",
+      "dateEnd": "2026-02-26T12:08:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_164/cortes/15_000400_164_1_27034_768648.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1568648I",
+        "duration": 180.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_164_1_27034_768648",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Néstor Rego Candamil",
+          "lastname": "Rego Candamil",
+          "firstname": "Néstor",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Mixto"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 29
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 170
+      },
+      "agendaItem": {
+        "title": "Real Decreto-ley 3/2026, de 3 de febrero, para la revalorización de\nlas pensiones públicas y otras medidas urgentes en materia de Seguridad\nSocial.",
+        "officialTitle": "Real Decreto-ley 3/2026, de 3 de febrero, para la revalorización de\nlas pensiones públicas y otras medidas urgentes en materia de Seguridad\nSocial.",
+        "type": "regular",
+        "nativeType": "ES-ley"
+      },
+      "dateStart": "2026-02-26T12:08:00+01:00",
+      "dateEnd": "2026-02-26T12:12:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_164/cortes/15_000400_164_1_27034_768649.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1568649I",
+        "duration": 240.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_164_1_27034_768649",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Noemí Santana Perera",
+          "lastname": "Santana Perera",
+          "firstname": "Noemí",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Mixto"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 30
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 170
+      },
+      "agendaItem": {
+        "title": "Real Decreto-ley 3/2026, de 3 de febrero, para la revalorización de\nlas pensiones públicas y otras medidas urgentes en materia de Seguridad\nSocial.",
+        "officialTitle": "Real Decreto-ley 3/2026, de 3 de febrero, para la revalorización de\nlas pensiones públicas y otras medidas urgentes en materia de Seguridad\nSocial.",
+        "type": "regular",
+        "nativeType": "ES-ley"
+      },
+      "dateStart": "2026-02-26T12:12:00+01:00",
+      "dateEnd": "2026-02-26T12:17:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_164/cortes/15_000400_164_1_27034_768650.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1568650I",
+        "duration": 300.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_164_1_27034_768650",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Idoia Sagastizabal Unzetabarrenetxea",
+          "lastname": "Sagastizabal Unzetabarrenetxea",
+          "firstname": "Idoia",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Vasco (EAJ-PNV)"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 31
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 170
+      },
+      "agendaItem": {
+        "title": "Real Decreto-ley 3/2026, de 3 de febrero, para la revalorización de\nlas pensiones públicas y otras medidas urgentes en materia de Seguridad\nSocial.",
+        "officialTitle": "Real Decreto-ley 3/2026, de 3 de febrero, para la revalorización de\nlas pensiones públicas y otras medidas urgentes en materia de Seguridad\nSocial.",
+        "type": "regular",
+        "nativeType": "ES-ley"
+      },
+      "dateStart": "2026-02-26T12:17:00+01:00",
+      "dateEnd": "2026-02-26T12:25:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_164/cortes/15_000400_164_1_27034_768651.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1568651I",
+        "duration": 480.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_164_1_27034_768651",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Oskar Matute García de Jalón",
+          "lastname": "Matute García de Jalón",
+          "firstname": "Oskar",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Euskal Herria Bildu"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 32
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 170
+      },
+      "agendaItem": {
+        "title": "Real Decreto-ley 3/2026, de 3 de febrero, para la revalorización de\nlas pensiones públicas y otras medidas urgentes en materia de Seguridad\nSocial.",
+        "officialTitle": "Real Decreto-ley 3/2026, de 3 de febrero, para la revalorización de\nlas pensiones públicas y otras medidas urgentes en materia de Seguridad\nSocial.",
+        "type": "regular",
+        "nativeType": "ES-ley"
+      },
+      "dateStart": "2026-02-26T12:25:00+01:00",
+      "dateEnd": "2026-02-26T12:32:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_164/cortes/15_000400_164_1_27034_768652.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1568652I",
+        "duration": 420.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_164_1_27034_768652",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Josep Maria Cervera Pinart",
+          "lastname": "Cervera Pinart",
+          "firstname": "Josep Maria",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Junts per Catalunya"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 33
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 170
+      },
+      "agendaItem": {
+        "title": "Real Decreto-ley 3/2026, de 3 de febrero, para la revalorización de\nlas pensiones públicas y otras medidas urgentes en materia de Seguridad\nSocial.",
+        "officialTitle": "Real Decreto-ley 3/2026, de 3 de febrero, para la revalorización de\nlas pensiones públicas y otras medidas urgentes en materia de Seguridad\nSocial.",
+        "type": "regular",
+        "nativeType": "ES-ley"
+      },
+      "dateStart": "2026-02-26T12:32:00+01:00",
+      "dateEnd": "2026-02-26T12:37:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_164/cortes/15_000400_164_1_27034_768653.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1568653I",
+        "duration": 300.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_164_1_27034_768653",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Jordi Salvador i Duch",
+          "lastname": "Salvador i Duch",
+          "firstname": "Jordi",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Republicano"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 34
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 170
+      },
+      "agendaItem": {
+        "title": "Real Decreto-ley 3/2026, de 3 de febrero, para la revalorización de\nlas pensiones públicas y otras medidas urgentes en materia de Seguridad\nSocial.",
+        "officialTitle": "Real Decreto-ley 3/2026, de 3 de febrero, para la revalorización de\nlas pensiones públicas y otras medidas urgentes en materia de Seguridad\nSocial.",
+        "type": "regular",
+        "nativeType": "ES-ley"
+      },
+      "dateStart": "2026-02-26T12:37:00+01:00",
+      "dateEnd": "2026-02-26T12:43:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_164/cortes/15_000400_164_1_27034_768654.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1568654I",
+        "duration": 360.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_164_1_27034_768654",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Lander Martínez Hierro",
+          "lastname": "Martínez Hierro",
+          "firstname": "Lander",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Plurinacional SUMAR"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 35
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 170
+      },
+      "agendaItem": {
+        "title": "Real Decreto-ley 3/2026, de 3 de febrero, para la revalorización de\nlas pensiones públicas y otras medidas urgentes en materia de Seguridad\nSocial.",
+        "officialTitle": "Real Decreto-ley 3/2026, de 3 de febrero, para la revalorización de\nlas pensiones públicas y otras medidas urgentes en materia de Seguridad\nSocial.",
+        "type": "regular",
+        "nativeType": "ES-ley"
+      },
+      "dateStart": "2026-02-26T12:43:00+01:00",
+      "dateEnd": "2026-02-26T12:52:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_164/cortes/15_000400_164_1_27034_768655.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1568655I",
+        "duration": 540.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_164_1_27034_768655",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "José María Figaredo Álvarez-Sala",
+          "lastname": "Figaredo Álvarez-Sala",
+          "firstname": "José María",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario VOX"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 36
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 170
+      },
+      "agendaItem": {
+        "title": "Real Decreto-ley 3/2026, de 3 de febrero, para la revalorización de\nlas pensiones públicas y otras medidas urgentes en materia de Seguridad\nSocial.",
+        "officialTitle": "Real Decreto-ley 3/2026, de 3 de febrero, para la revalorización de\nlas pensiones públicas y otras medidas urgentes en materia de Seguridad\nSocial.",
+        "type": "regular",
+        "nativeType": "ES-ley"
+      },
+      "dateStart": "2026-02-26T12:52:00+01:00",
+      "dateEnd": "2026-02-26T13:00:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_164/cortes/15_000400_164_1_27034_768656.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1568656I",
+        "duration": 480.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_164_1_27034_768656",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Esther Peña Camarero",
+          "lastname": "Peña Camarero",
+          "firstname": "Esther",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Socialista"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 37
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 170
+      },
+      "agendaItem": {
+        "title": "Real Decreto-ley 3/2026, de 3 de febrero, para la revalorización de\nlas pensiones públicas y otras medidas urgentes en materia de Seguridad\nSocial.",
+        "officialTitle": "Real Decreto-ley 3/2026, de 3 de febrero, para la revalorización de\nlas pensiones públicas y otras medidas urgentes en materia de Seguridad\nSocial.",
+        "type": "regular",
+        "nativeType": "ES-ley"
+      },
+      "dateStart": "2026-02-26T13:00:00+01:00",
+      "dateEnd": "2026-02-26T13:09:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_164/cortes/15_000400_164_1_27034_768657.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1568657I",
+        "duration": 540.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_164_1_27034_768657",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Miguel Ángel Paniagua Núñez",
+          "lastname": "Paniagua Núñez",
+          "firstname": "Miguel Ángel",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Popular en el Congreso"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 38
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 170
+      },
+      "agendaItem": {
+        "title": "Real Decreto-ley 4/2026, de 10 de febrero, por el que se garantiza la\naccesibilidad equitativa a bienes y servicios en situaciones de\nemergencia.",
+        "officialTitle": "Real Decreto-ley 4/2026, de 10 de febrero, por el que se garantiza la\naccesibilidad equitativa a bienes y servicios en situaciones de\nemergencia.",
+        "type": "regular",
+        "nativeType": "ES-ley"
+      },
+      "dateStart": "2026-02-26T13:09:00+01:00",
+      "dateEnd": "2026-02-26T13:18:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_164/cortes/15_000400_164_1_27034_768659.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1568659I",
+        "duration": 540.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_164_1_27034_768659",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Pablo Bustinduy Amador",
+          "lastname": "Bustinduy Amador",
+          "firstname": "Pablo",
+          "type": "member of government",
+          "role": "Ministro de Derechos Sociales, Consumo y Agenda 2030"
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 39
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 170
+      },
+      "agendaItem": {
+        "title": "Real Decreto-ley 4/2026, de 10 de febrero, por el que se garantiza la\naccesibilidad equitativa a bienes y servicios en situaciones de\nemergencia.",
+        "officialTitle": "Real Decreto-ley 4/2026, de 10 de febrero, por el que se garantiza la\naccesibilidad equitativa a bienes y servicios en situaciones de\nemergencia.",
+        "type": "regular",
+        "nativeType": "ES-ley"
+      },
+      "dateStart": "2026-02-26T13:18:00+01:00",
+      "dateEnd": "2026-02-26T13:31:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_164/cortes/15_000400_164_1_27034_768660.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1568660I",
+        "duration": 780.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_164_1_27034_768660",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Carlos Flores Juberías",
+          "lastname": "Flores Juberías",
+          "firstname": "Carlos",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario VOX"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 40
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 170
+      },
+      "agendaItem": {
+        "title": "Real Decreto-ley 4/2026, de 10 de febrero, por el que se garantiza la\naccesibilidad equitativa a bienes y servicios en situaciones de\nemergencia.",
+        "officialTitle": "Real Decreto-ley 4/2026, de 10 de febrero, por el que se garantiza la\naccesibilidad equitativa a bienes y servicios en situaciones de\nemergencia.",
+        "type": "regular",
+        "nativeType": "ES-ley"
+      },
+      "dateStart": "2026-02-26T13:31:00+01:00",
+      "dateEnd": "2026-02-26T13:42:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_164/cortes/15_000400_164_1_27034_768661.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1568661I",
+        "duration": 660.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_164_1_27034_768661",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Manuel Lago Peñas",
+          "lastname": "Lago Peñas",
+          "firstname": "Manuel",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Plurinacional SUMAR"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 41
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 170
+      },
+      "agendaItem": {
+        "title": "Real Decreto-ley 4/2026, de 10 de febrero, por el que se garantiza la\naccesibilidad equitativa a bienes y servicios en situaciones de\nemergencia.",
+        "officialTitle": "Real Decreto-ley 4/2026, de 10 de febrero, por el que se garantiza la\naccesibilidad equitativa a bienes y servicios en situaciones de\nemergencia.",
+        "type": "regular",
+        "nativeType": "ES-ley"
+      },
+      "dateStart": "2026-02-26T13:42:00+01:00",
+      "dateEnd": "2026-02-26T13:48:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_164/cortes/15_000400_164_1_27034_768662.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1568662I",
+        "duration": 360.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_164_1_27034_768662",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Carlos Flores Juberías",
+          "lastname": "Flores Juberías",
+          "firstname": "Carlos",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario VOX"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 42
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 170
+      },
+      "agendaItem": {
+        "title": "Real Decreto-ley 4/2026, de 10 de febrero, por el que se garantiza la\naccesibilidad equitativa a bienes y servicios en situaciones de\nemergencia.",
+        "officialTitle": "Real Decreto-ley 4/2026, de 10 de febrero, por el que se garantiza la\naccesibilidad equitativa a bienes y servicios en situaciones de\nemergencia.",
+        "type": "regular",
+        "nativeType": "ES-ley"
+      },
+      "dateStart": "2026-02-26T13:48:00+01:00",
+      "dateEnd": "2026-02-26T13:50:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_164/cortes/15_000400_164_1_27034_768663.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1568663I",
+        "duration": 120.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_164_1_27034_768663",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Manuel Lago Peñas",
+          "lastname": "Lago Peñas",
+          "firstname": "Manuel",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Plurinacional SUMAR"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 43
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 170
+      },
+      "agendaItem": {
+        "title": "Real Decreto-ley 4/2026, de 10 de febrero, por el que se garantiza la\naccesibilidad equitativa a bienes y servicios en situaciones de\nemergencia.",
+        "officialTitle": "Real Decreto-ley 4/2026, de 10 de febrero, por el que se garantiza la\naccesibilidad equitativa a bienes y servicios en situaciones de\nemergencia.",
+        "type": "regular",
+        "nativeType": "ES-ley"
+      },
+      "dateStart": "2026-02-26T13:50:00+01:00",
+      "dateEnd": "2026-02-26T13:53:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_164/cortes/15_000400_164_1_27034_768664.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1568664I",
+        "duration": 180.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_164_1_27034_768664",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Cristina Valido García",
+          "lastname": "Valido García",
+          "firstname": "Cristina",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Mixto"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 44
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 170
+      },
+      "agendaItem": {
+        "title": "Real Decreto-ley 4/2026, de 10 de febrero, por el que se garantiza la\naccesibilidad equitativa a bienes y servicios en situaciones de\nemergencia.",
+        "officialTitle": "Real Decreto-ley 4/2026, de 10 de febrero, por el que se garantiza la\naccesibilidad equitativa a bienes y servicios en situaciones de\nemergencia.",
+        "type": "regular",
+        "nativeType": "ES-ley"
+      },
+      "dateStart": "2026-02-26T13:53:00+01:00",
+      "dateEnd": "2026-02-26T13:57:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_164/cortes/15_000400_164_1_27034_768665.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1568665I",
+        "duration": 240.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_164_1_27034_768665",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Néstor Rego Candamil",
+          "lastname": "Rego Candamil",
+          "firstname": "Néstor",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Mixto"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 45
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 170
+      },
+      "agendaItem": {
+        "title": "Real Decreto-ley 4/2026, de 10 de febrero, por el que se garantiza la\naccesibilidad equitativa a bienes y servicios en situaciones de\nemergencia.",
+        "officialTitle": "Real Decreto-ley 4/2026, de 10 de febrero, por el que se garantiza la\naccesibilidad equitativa a bienes y servicios en situaciones de\nemergencia.",
+        "type": "regular",
+        "nativeType": "ES-ley"
+      },
+      "dateStart": "2026-02-26T13:57:00+01:00",
+      "dateEnd": "2026-02-26T14:01:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_164/cortes/15_000400_164_1_27034_768666.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1568666I",
+        "duration": 240.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_164_1_27034_768666",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Javier Sánchez Serna",
+          "lastname": "Sánchez Serna",
+          "firstname": "Javier",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Mixto"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 46
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 170
+      },
+      "agendaItem": {
+        "title": "Real Decreto-ley 4/2026, de 10 de febrero, por el que se garantiza la\naccesibilidad equitativa a bienes y servicios en situaciones de\nemergencia.",
+        "officialTitle": "Real Decreto-ley 4/2026, de 10 de febrero, por el que se garantiza la\naccesibilidad equitativa a bienes y servicios en situaciones de\nemergencia.",
+        "type": "regular",
+        "nativeType": "ES-ley"
+      },
+      "dateStart": "2026-02-26T14:01:00+01:00",
+      "dateEnd": "2026-02-26T14:06:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_164/cortes/15_000400_164_1_27034_768667.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1568667I",
+        "duration": 300.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_164_1_27034_768667",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Idoia Sagastizabal Unzetabarrenetxea",
+          "lastname": "Sagastizabal Unzetabarrenetxea",
+          "firstname": "Idoia",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Vasco (EAJ-PNV)"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 47
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 170
+      },
+      "agendaItem": {
+        "title": "Real Decreto-ley 4/2026, de 10 de febrero, por el que se garantiza la\naccesibilidad equitativa a bienes y servicios en situaciones de\nemergencia.",
+        "officialTitle": "Real Decreto-ley 4/2026, de 10 de febrero, por el que se garantiza la\naccesibilidad equitativa a bienes y servicios en situaciones de\nemergencia.",
+        "type": "regular",
+        "nativeType": "ES-ley"
+      },
+      "dateStart": "2026-02-26T14:06:00+01:00",
+      "dateEnd": "2026-02-26T14:13:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_164/cortes/15_000400_164_1_27034_768668.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1568668I",
+        "duration": 420.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_164_1_27034_768668",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Marije Fullaondo la Cruz",
+          "lastname": "Fullaondo la Cruz",
+          "firstname": "Marije",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Euskal Herria Bildu"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 48
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 170
+      },
+      "agendaItem": {
+        "title": "Real Decreto-ley 4/2026, de 10 de febrero, por el que se garantiza la\naccesibilidad equitativa a bienes y servicios en situaciones de\nemergencia.",
+        "officialTitle": "Real Decreto-ley 4/2026, de 10 de febrero, por el que se garantiza la\naccesibilidad equitativa a bienes y servicios en situaciones de\nemergencia.",
+        "type": "regular",
+        "nativeType": "ES-ley"
+      },
+      "dateStart": "2026-02-26T14:13:00+01:00",
+      "dateEnd": "2026-02-26T14:21:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_164/cortes/15_000400_164_1_27034_768669.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1568669I",
+        "duration": 480.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_164_1_27034_768669",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Josep Maria Cruset Domènech",
+          "lastname": "Cruset Domènech",
+          "firstname": "Josep Maria",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Junts per Catalunya"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 49
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 170
+      },
+      "agendaItem": {
+        "title": "Real Decreto-ley 4/2026, de 10 de febrero, por el que se garantiza la\naccesibilidad equitativa a bienes y servicios en situaciones de\nemergencia.",
+        "officialTitle": "Real Decreto-ley 4/2026, de 10 de febrero, por el que se garantiza la\naccesibilidad equitativa a bienes y servicios en situaciones de\nemergencia.",
+        "type": "regular",
+        "nativeType": "ES-ley"
+      },
+      "dateStart": "2026-02-26T14:21:00+01:00",
+      "dateEnd": "2026-02-26T14:28:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_164/cortes/15_000400_164_1_27034_768670.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1568670I",
+        "duration": 420.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_164_1_27034_768670",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Inés Granollers Cunillera",
+          "lastname": "Granollers Cunillera",
+          "firstname": "Inés",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Republicano"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 50
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 170
+      },
+      "agendaItem": {
+        "title": "Real Decreto-ley 4/2026, de 10 de febrero, por el que se garantiza la\naccesibilidad equitativa a bienes y servicios en situaciones de\nemergencia.",
+        "officialTitle": "Real Decreto-ley 4/2026, de 10 de febrero, por el que se garantiza la\naccesibilidad equitativa a bienes y servicios en situaciones de\nemergencia.",
+        "type": "regular",
+        "nativeType": "ES-ley"
+      },
+      "dateStart": "2026-02-26T14:28:00+01:00",
+      "dateEnd": "2026-02-26T14:36:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_164/cortes/15_000400_164_1_27034_768671.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1568671I",
+        "duration": 480.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_164_1_27034_768671",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Javier Alfonso Cendón",
+          "lastname": "Alfonso Cendón",
+          "firstname": "Javier",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Socialista"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 51
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 170
+      },
+      "agendaItem": {
+        "title": "Real Decreto-ley 4/2026, de 10 de febrero, por el que se garantiza la\naccesibilidad equitativa a bienes y servicios en situaciones de\nemergencia.",
+        "officialTitle": "Real Decreto-ley 4/2026, de 10 de febrero, por el que se garantiza la\naccesibilidad equitativa a bienes y servicios en situaciones de\nemergencia.",
+        "type": "regular",
+        "nativeType": "ES-ley"
+      },
+      "dateStart": "2026-02-26T14:36:00+01:00",
+      "dateEnd": "2026-02-26T14:45:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_164/cortes/15_000400_164_1_27034_768672.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1568672I",
+        "duration": 540.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_164_1_27034_768672",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "María Pilar Alía Aguado",
+          "lastname": "Alía Aguado",
+          "firstname": "María Pilar",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Popular en el Congreso"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 52
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 170
+      },
+      "agendaItem": {
+        "title": "Real Decreto-ley 4/2026, de 10 de febrero, por el que se garantiza la\naccesibilidad equitativa a bienes y servicios en situaciones de\nemergencia.",
+        "officialTitle": "Real Decreto-ley 4/2026, de 10 de febrero, por el que se garantiza la\naccesibilidad equitativa a bienes y servicios en situaciones de\nemergencia.",
+        "type": "regular",
+        "nativeType": "ES-ley"
+      },
+      "dateStart": "2026-02-26T14:45:00+01:00",
+      "dateEnd": "2026-02-26T14:54:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_164/cortes/15_000400_164_1_27034_768673.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1568673I",
+        "duration": 540.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_164_1_27034_768673",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Pablo Bustinduy Amador",
+          "lastname": "Bustinduy Amador",
+          "firstname": "Pablo",
+          "type": "member of government",
+          "role": "Ministro de Derechos Sociales, Consumo y Agenda 2030"
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 53
+    }
+  ]
+}

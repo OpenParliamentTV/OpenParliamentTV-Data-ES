@@ -1,0 +1,2045 @@
+{
+  "meta": {
+    "session": "15089",
+    "processing": {
+      "parse_media": "2026-05-23T07:17:41"
+    },
+    "dateStart": "2024-12-17T15:07:00+01:00",
+    "dateEnd": "2024-12-17T20:44:00+01:00"
+  },
+  "data": [
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 89
+      },
+      "agendaItem": {
+        "title": "Juramento o promesa de acatamiento de la Constitución",
+        "officialTitle": "Juramento o promesa de acatamiento de la Constitución",
+        "type": "oath",
+        "nativeType": "ES-juramento"
+      },
+      "dateStart": "2024-12-17T15:07:00+01:00",
+      "dateEnd": "2024-12-17T15:07:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_086/cortes/15_000400_086_0_25606_744855.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1544855I",
+        "duration": 0.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_086_0_25606_744855",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Raúl Cuevas Larrosa",
+          "lastname": "Cuevas Larrosa",
+          "firstname": "Raúl",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Popular en el Congreso"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 1
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 89
+      },
+      "agendaItem": {
+        "title": "Proposición de Ley para la regulación de los contratos de alquiler\ntemporales y alquiler de habitaciones.",
+        "officialTitle": "Proposición de Ley para la regulación de los contratos de alquiler\ntemporales y alquiler de habitaciones.",
+        "type": "regular",
+        "nativeType": "ES-ley"
+      },
+      "dateStart": "2024-12-17T15:09:00+01:00",
+      "dateEnd": "2024-12-17T15:23:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_086/cortes/15_000400_086_0_25606_744860.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1544860I",
+        "duration": 840.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_086_0_25606_744860",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Gala Pin Ferrando",
+          "lastname": "Pin Ferrando",
+          "firstname": "Gala",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Plurinacional SUMAR"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 2
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 89
+      },
+      "agendaItem": {
+        "title": "Proposición de Ley para la regulación de los contratos de alquiler\ntemporales y alquiler de habitaciones.",
+        "officialTitle": "Proposición de Ley para la regulación de los contratos de alquiler\ntemporales y alquiler de habitaciones.",
+        "type": "regular",
+        "nativeType": "ES-ley"
+      },
+      "dateStart": "2024-12-17T15:23:00+01:00",
+      "dateEnd": "2024-12-17T15:33:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_086/cortes/15_000400_086_0_25606_744861.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1544861I",
+        "duration": 600.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_086_0_25606_744861",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Pilar Vallugera Balañà",
+          "lastname": "Vallugera Balañà",
+          "firstname": "Pilar",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Republicano"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 3
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 89
+      },
+      "agendaItem": {
+        "title": "Proposición de Ley para la regulación de los contratos de alquiler\ntemporales y alquiler de habitaciones.",
+        "officialTitle": "Proposición de Ley para la regulación de los contratos de alquiler\ntemporales y alquiler de habitaciones.",
+        "type": "regular",
+        "nativeType": "ES-ley"
+      },
+      "dateStart": "2024-12-17T15:33:00+01:00",
+      "dateEnd": "2024-12-17T15:44:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_086/cortes/15_000400_086_0_25606_744862.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1544862I",
+        "duration": 660.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_086_0_25606_744862",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Oskar Matute García de Jalón",
+          "lastname": "Matute García de Jalón",
+          "firstname": "Oskar",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Euskal Herria Bildu"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 4
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 89
+      },
+      "agendaItem": {
+        "title": "Proposición de Ley para la regulación de los contratos de alquiler\ntemporales y alquiler de habitaciones.",
+        "officialTitle": "Proposición de Ley para la regulación de los contratos de alquiler\ntemporales y alquiler de habitaciones.",
+        "type": "regular",
+        "nativeType": "ES-ley"
+      },
+      "dateStart": "2024-12-17T15:44:00+01:00",
+      "dateEnd": "2024-12-17T15:51:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_086/cortes/15_000400_086_0_25606_744863.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1544863I",
+        "duration": 420.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_086_0_25606_744863",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Ione Belarra Urteaga",
+          "lastname": "Belarra Urteaga",
+          "firstname": "Ione",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Mixto"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 5
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 89
+      },
+      "agendaItem": {
+        "title": "Proposición de Ley para la regulación de los contratos de alquiler\ntemporales y alquiler de habitaciones.",
+        "officialTitle": "Proposición de Ley para la regulación de los contratos de alquiler\ntemporales y alquiler de habitaciones.",
+        "type": "regular",
+        "nativeType": "ES-ley"
+      },
+      "dateStart": "2024-12-17T15:51:00+01:00",
+      "dateEnd": "2024-12-17T15:59:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_086/cortes/15_000400_086_0_25606_744864.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1544864I",
+        "duration": 480.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_086_0_25606_744864",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Néstor Rego Candamil",
+          "lastname": "Rego Candamil",
+          "firstname": "Néstor",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Mixto"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 6
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 89
+      },
+      "agendaItem": {
+        "title": "Proposición de Ley para la regulación de los contratos de alquiler\ntemporales y alquiler de habitaciones.",
+        "officialTitle": "Proposición de Ley para la regulación de los contratos de alquiler\ntemporales y alquiler de habitaciones.",
+        "type": "regular",
+        "nativeType": "ES-ley"
+      },
+      "dateStart": "2024-12-17T15:59:00+01:00",
+      "dateEnd": "2024-12-17T16:07:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_086/cortes/15_000400_086_0_25606_744865.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1544865I",
+        "duration": 480.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_086_0_25606_744865",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Maribel Vaquero Montero",
+          "lastname": "Vaquero Montero",
+          "firstname": "Maribel",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Vasco (EAJ-PNV)"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 7
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 89
+      },
+      "agendaItem": {
+        "title": "Proposición de Ley para la regulación de los contratos de alquiler\ntemporales y alquiler de habitaciones.",
+        "officialTitle": "Proposición de Ley para la regulación de los contratos de alquiler\ntemporales y alquiler de habitaciones.",
+        "type": "regular",
+        "nativeType": "ES-ley"
+      },
+      "dateStart": "2024-12-17T16:07:00+01:00",
+      "dateEnd": "2024-12-17T16:15:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_086/cortes/15_000400_086_0_25606_744866.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1544866I",
+        "duration": 480.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_086_0_25606_744866",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Marta Madrenas i Mir",
+          "lastname": "Madrenas i Mir",
+          "firstname": "Marta",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Junts per Catalunya"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 8
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 89
+      },
+      "agendaItem": {
+        "title": "Proposición de Ley para la regulación de los contratos de alquiler\ntemporales y alquiler de habitaciones.",
+        "officialTitle": "Proposición de Ley para la regulación de los contratos de alquiler\ntemporales y alquiler de habitaciones.",
+        "type": "regular",
+        "nativeType": "ES-ley"
+      },
+      "dateStart": "2024-12-17T16:15:00+01:00",
+      "dateEnd": "2024-12-17T16:24:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_086/cortes/15_000400_086_0_25606_744867.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1544867I",
+        "duration": 540.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_086_0_25606_744867",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Carlos Hernández Quero",
+          "lastname": "Hernández Quero",
+          "firstname": "Carlos",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario VOX"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 9
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 89
+      },
+      "agendaItem": {
+        "title": "Proposición de Ley para la regulación de los contratos de alquiler\ntemporales y alquiler de habitaciones.",
+        "officialTitle": "Proposición de Ley para la regulación de los contratos de alquiler\ntemporales y alquiler de habitaciones.",
+        "type": "regular",
+        "nativeType": "ES-ley"
+      },
+      "dateStart": "2024-12-17T16:24:00+01:00",
+      "dateEnd": "2024-12-17T16:33:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_086/cortes/15_000400_086_0_25606_744868.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1544868I",
+        "duration": 540.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_086_0_25606_744868",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Guillermo Hita Téllez",
+          "lastname": "Hita Téllez",
+          "firstname": "Guillermo",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Socialista"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 10
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 89
+      },
+      "agendaItem": {
+        "title": "Proposición de Ley para la regulación de los contratos de alquiler\ntemporales y alquiler de habitaciones.",
+        "officialTitle": "Proposición de Ley para la regulación de los contratos de alquiler\ntemporales y alquiler de habitaciones.",
+        "type": "regular",
+        "nativeType": "ES-ley"
+      },
+      "dateStart": "2024-12-17T16:33:00+01:00",
+      "dateEnd": "2024-12-17T16:41:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_086/cortes/15_000400_086_0_25606_744869.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1544869I",
+        "duration": 480.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_086_0_25606_744869",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Joan Mesquida Mayans",
+          "lastname": "Mesquida Mayans",
+          "firstname": "Joan",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Popular en el Congreso"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 11
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 89
+      },
+      "agendaItem": {
+        "title": "Proposición de Ley de modificación del Real Decreto Legislativo\n1/2007, de 16 de noviembre, por el que se aprueba el texto refundido de\nla Ley General para la Defensa de los Consumidores y Usuarios y otras\nleyes complementarias, para prevenir la práctica de la reduflación y\nproteger los derechos de las personas consumidoras.",
+        "officialTitle": "Proposición de Ley de modificación del Real Decreto Legislativo\n1/2007, de 16 de noviembre, por el que se aprueba el texto refundido de\nla Ley General para la Defensa de los Consumidores y Usuarios y otras\nleyes complementarias, para prevenir la práctica de la reduflación y\nproteger los derechos de las personas consumidoras.",
+        "type": "regular",
+        "nativeType": "ES-ley"
+      },
+      "dateStart": "2024-12-17T16:41:00+01:00",
+      "dateEnd": "2024-12-17T16:54:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_086/cortes/15_000400_086_0_25606_744871.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1544871I",
+        "duration": 780.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_086_0_25606_744871",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Isabel Iniesta Egido",
+          "lastname": "Iniesta Egido",
+          "firstname": "Isabel",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Socialista"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 12
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 89
+      },
+      "agendaItem": {
+        "title": "Proposición de Ley de modificación del Real Decreto Legislativo\n1/2007, de 16 de noviembre, por el que se aprueba el texto refundido de\nla Ley General para la Defensa de los Consumidores y Usuarios y otras\nleyes complementarias, para prevenir la práctica de la reduflación y\nproteger los derechos de las personas consumidoras.",
+        "officialTitle": "Proposición de Ley de modificación del Real Decreto Legislativo\n1/2007, de 16 de noviembre, por el que se aprueba el texto refundido de\nla Ley General para la Defensa de los Consumidores y Usuarios y otras\nleyes complementarias, para prevenir la práctica de la reduflación y\nproteger los derechos de las personas consumidoras.",
+        "type": "regular",
+        "nativeType": "ES-ley"
+      },
+      "dateStart": "2024-12-17T16:54:00+01:00",
+      "dateEnd": "2024-12-17T16:57:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_086/cortes/15_000400_086_0_25606_744872.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1544872I",
+        "duration": 180.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_086_0_25606_744872",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Idoia Sagastizabal Unzetabarrenetxea",
+          "lastname": "Sagastizabal Unzetabarrenetxea",
+          "firstname": "Idoia",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Vasco (EAJ-PNV)"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 13
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 89
+      },
+      "agendaItem": {
+        "title": "Proposición de Ley de modificación del Real Decreto Legislativo\n1/2007, de 16 de noviembre, por el que se aprueba el texto refundido de\nla Ley General para la Defensa de los Consumidores y Usuarios y otras\nleyes complementarias, para prevenir la práctica de la reduflación y\nproteger los derechos de las personas consumidoras.",
+        "officialTitle": "Proposición de Ley de modificación del Real Decreto Legislativo\n1/2007, de 16 de noviembre, por el que se aprueba el texto refundido de\nla Ley General para la Defensa de los Consumidores y Usuarios y otras\nleyes complementarias, para prevenir la práctica de la reduflación y\nproteger los derechos de las personas consumidoras.",
+        "type": "regular",
+        "nativeType": "ES-ley"
+      },
+      "dateStart": "2024-12-17T16:57:00+01:00",
+      "dateEnd": "2024-12-17T17:03:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_086/cortes/15_000400_086_0_25606_744873.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1544873I",
+        "duration": 360.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_086_0_25606_744873",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Iñaki Ruiz de Pinedo Undiano",
+          "lastname": "Ruiz de Pinedo Undiano",
+          "firstname": "Iñaki",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Euskal Herria Bildu"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 14
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 89
+      },
+      "agendaItem": {
+        "title": "Proposición de Ley de modificación del Real Decreto Legislativo\n1/2007, de 16 de noviembre, por el que se aprueba el texto refundido de\nla Ley General para la Defensa de los Consumidores y Usuarios y otras\nleyes complementarias, para prevenir la práctica de la reduflación y\nproteger los derechos de las personas consumidoras.",
+        "officialTitle": "Proposición de Ley de modificación del Real Decreto Legislativo\n1/2007, de 16 de noviembre, por el que se aprueba el texto refundido de\nla Ley General para la Defensa de los Consumidores y Usuarios y otras\nleyes complementarias, para prevenir la práctica de la reduflación y\nproteger los derechos de las personas consumidoras.",
+        "type": "regular",
+        "nativeType": "ES-ley"
+      },
+      "dateStart": "2024-12-17T17:03:00+01:00",
+      "dateEnd": "2024-12-17T17:11:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_086/cortes/15_000400_086_0_25606_744874.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1544874I",
+        "duration": 480.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_086_0_25606_744874",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Josep Maria Cruset Domènech",
+          "lastname": "Cruset Domènech",
+          "firstname": "Josep Maria",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Junts per Catalunya"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 15
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 89
+      },
+      "agendaItem": {
+        "title": "Proposición de Ley de modificación del Real Decreto Legislativo\n1/2007, de 16 de noviembre, por el que se aprueba el texto refundido de\nla Ley General para la Defensa de los Consumidores y Usuarios y otras\nleyes complementarias, para prevenir la práctica de la reduflación y\nproteger los derechos de las personas consumidoras.",
+        "officialTitle": "Proposición de Ley de modificación del Real Decreto Legislativo\n1/2007, de 16 de noviembre, por el que se aprueba el texto refundido de\nla Ley General para la Defensa de los Consumidores y Usuarios y otras\nleyes complementarias, para prevenir la práctica de la reduflación y\nproteger los derechos de las personas consumidoras.",
+        "type": "regular",
+        "nativeType": "ES-ley"
+      },
+      "dateStart": "2024-12-17T17:11:00+01:00",
+      "dateEnd": "2024-12-17T17:17:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_086/cortes/15_000400_086_0_25606_744875.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1544875I",
+        "duration": 360.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_086_0_25606_744875",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Jordi Salvador i Duch",
+          "lastname": "Salvador i Duch",
+          "firstname": "Jordi",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Republicano"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 16
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 89
+      },
+      "agendaItem": {
+        "title": "Proposición de Ley de modificación del Real Decreto Legislativo\n1/2007, de 16 de noviembre, por el que se aprueba el texto refundido de\nla Ley General para la Defensa de los Consumidores y Usuarios y otras\nleyes complementarias, para prevenir la práctica de la reduflación y\nproteger los derechos de las personas consumidoras.",
+        "officialTitle": "Proposición de Ley de modificación del Real Decreto Legislativo\n1/2007, de 16 de noviembre, por el que se aprueba el texto refundido de\nla Ley General para la Defensa de los Consumidores y Usuarios y otras\nleyes complementarias, para prevenir la práctica de la reduflación y\nproteger los derechos de las personas consumidoras.",
+        "type": "regular",
+        "nativeType": "ES-ley"
+      },
+      "dateStart": "2024-12-17T17:17:00+01:00",
+      "dateEnd": "2024-12-17T17:25:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_086/cortes/15_000400_086_0_25606_744876.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1544876I",
+        "duration": 480.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_086_0_25606_744876",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Fèlix Alonso Cantorné",
+          "lastname": "Alonso Cantorné",
+          "firstname": "Fèlix",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Plurinacional SUMAR"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 17
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 89
+      },
+      "agendaItem": {
+        "title": "Proposición de Ley de modificación del Real Decreto Legislativo\n1/2007, de 16 de noviembre, por el que se aprueba el texto refundido de\nla Ley General para la Defensa de los Consumidores y Usuarios y otras\nleyes complementarias, para prevenir la práctica de la reduflación y\nproteger los derechos de las personas consumidoras.",
+        "officialTitle": "Proposición de Ley de modificación del Real Decreto Legislativo\n1/2007, de 16 de noviembre, por el que se aprueba el texto refundido de\nla Ley General para la Defensa de los Consumidores y Usuarios y otras\nleyes complementarias, para prevenir la práctica de la reduflación y\nproteger los derechos de las personas consumidoras.",
+        "type": "regular",
+        "nativeType": "ES-ley"
+      },
+      "dateStart": "2024-12-17T17:25:00+01:00",
+      "dateEnd": "2024-12-17T17:33:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_086/cortes/15_000400_086_0_25606_744877.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1544877I",
+        "duration": 480.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_086_0_25606_744877",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Jacobo González-Robatto Perote",
+          "lastname": "González-Robatto Perote",
+          "firstname": "Jacobo",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario VOX"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 18
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 89
+      },
+      "agendaItem": {
+        "title": "Proposición de Ley de modificación del Real Decreto Legislativo\n1/2007, de 16 de noviembre, por el que se aprueba el texto refundido de\nla Ley General para la Defensa de los Consumidores y Usuarios y otras\nleyes complementarias, para prevenir la práctica de la reduflación y\nproteger los derechos de las personas consumidoras.",
+        "officialTitle": "Proposición de Ley de modificación del Real Decreto Legislativo\n1/2007, de 16 de noviembre, por el que se aprueba el texto refundido de\nla Ley General para la Defensa de los Consumidores y Usuarios y otras\nleyes complementarias, para prevenir la práctica de la reduflación y\nproteger los derechos de las personas consumidoras.",
+        "type": "regular",
+        "nativeType": "ES-ley"
+      },
+      "dateStart": "2024-12-17T17:33:00+01:00",
+      "dateEnd": "2024-12-17T17:41:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_086/cortes/15_000400_086_0_25606_744878.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1544878I",
+        "duration": 480.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_086_0_25606_744878",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Silverio Argüelles García",
+          "lastname": "Argüelles García",
+          "firstname": "Silverio",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Popular en el Congreso"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 19
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 89
+      },
+      "agendaItem": {
+        "title": "Proposición no de Ley relativa al aumento de la indemnización por\ndespido improcedente.",
+        "officialTitle": "Proposición no de Ley relativa al aumento de la indemnización por\ndespido improcedente.",
+        "type": "regular"
+      },
+      "dateStart": "2024-12-17T17:41:00+01:00",
+      "dateEnd": "2024-12-17T17:49:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_086/cortes/15_000400_086_0_25606_744881.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1544881I",
+        "duration": 480.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_086_0_25606_744881",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Oskar Matute García de Jalón",
+          "lastname": "Matute García de Jalón",
+          "firstname": "Oskar",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Euskal Herria Bildu"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 20
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 89
+      },
+      "agendaItem": {
+        "title": "Proposición no de Ley relativa al aumento de la indemnización por\ndespido improcedente.",
+        "officialTitle": "Proposición no de Ley relativa al aumento de la indemnización por\ndespido improcedente.",
+        "type": "regular"
+      },
+      "dateStart": "2024-12-17T17:49:00+01:00",
+      "dateEnd": "2024-12-17T17:54:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_086/cortes/15_000400_086_0_25606_744882.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1544882I",
+        "duration": 300.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_086_0_25606_744882",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Josep Maria Cervera Pinart",
+          "lastname": "Cervera Pinart",
+          "firstname": "Josep Maria",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Junts per Catalunya"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 21
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 89
+      },
+      "agendaItem": {
+        "title": "Proposición no de Ley relativa al aumento de la indemnización por\ndespido improcedente.",
+        "officialTitle": "Proposición no de Ley relativa al aumento de la indemnización por\ndespido improcedente.",
+        "type": "regular"
+      },
+      "dateStart": "2024-12-17T17:54:00+01:00",
+      "dateEnd": "2024-12-17T17:57:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_086/cortes/15_000400_086_0_25606_744883.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1544883I",
+        "duration": 180.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_086_0_25606_744883",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Néstor Rego Candamil",
+          "lastname": "Rego Candamil",
+          "firstname": "Néstor",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Mixto"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 22
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 89
+      },
+      "agendaItem": {
+        "title": "Proposición no de Ley relativa al aumento de la indemnización por\ndespido improcedente.",
+        "officialTitle": "Proposición no de Ley relativa al aumento de la indemnización por\ndespido improcedente.",
+        "type": "regular"
+      },
+      "dateStart": "2024-12-17T17:57:00+01:00",
+      "dateEnd": "2024-12-17T18:00:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_086/cortes/15_000400_086_0_25606_744884.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1544884I",
+        "duration": 180.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_086_0_25606_744884",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Noemí Santana Perera",
+          "lastname": "Santana Perera",
+          "firstname": "Noemí",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Mixto"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 23
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 89
+      },
+      "agendaItem": {
+        "title": "Proposición no de Ley relativa al aumento de la indemnización por\ndespido improcedente.",
+        "officialTitle": "Proposición no de Ley relativa al aumento de la indemnización por\ndespido improcedente.",
+        "type": "regular"
+      },
+      "dateStart": "2024-12-17T18:00:00+01:00",
+      "dateEnd": "2024-12-17T18:05:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_086/cortes/15_000400_086_0_25606_744885.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1544885I",
+        "duration": 300.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_086_0_25606_744885",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Idoia Sagastizabal Unzetabarrenetxea",
+          "lastname": "Sagastizabal Unzetabarrenetxea",
+          "firstname": "Idoia",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Vasco (EAJ-PNV)"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 24
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 89
+      },
+      "agendaItem": {
+        "title": "Proposición no de Ley relativa al aumento de la indemnización por\ndespido improcedente.",
+        "officialTitle": "Proposición no de Ley relativa al aumento de la indemnización por\ndespido improcedente.",
+        "type": "regular"
+      },
+      "dateStart": "2024-12-17T18:05:00+01:00",
+      "dateEnd": "2024-12-17T18:11:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_086/cortes/15_000400_086_0_25606_744886.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1544886I",
+        "duration": 360.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_086_0_25606_744886",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Jordi Salvador i Duch",
+          "lastname": "Salvador i Duch",
+          "firstname": "Jordi",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Republicano"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 25
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 89
+      },
+      "agendaItem": {
+        "title": "Proposición no de Ley relativa al aumento de la indemnización por\ndespido improcedente.",
+        "officialTitle": "Proposición no de Ley relativa al aumento de la indemnización por\ndespido improcedente.",
+        "type": "regular"
+      },
+      "dateStart": "2024-12-17T18:11:00+01:00",
+      "dateEnd": "2024-12-17T18:17:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_086/cortes/15_000400_086_1_25630_745474.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1545474I",
+        "duration": 360.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_086_1_25630_745474",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Verónica Martínez Barbero",
+          "lastname": "Martínez Barbero",
+          "firstname": "Verónica",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Plurinacional SUMAR"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 26
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 89
+      },
+      "agendaItem": {
+        "title": "Proposición no de Ley relativa al aumento de la indemnización por\ndespido improcedente.",
+        "officialTitle": "Proposición no de Ley relativa al aumento de la indemnización por\ndespido improcedente.",
+        "type": "regular"
+      },
+      "dateStart": "2024-12-17T18:17:00+01:00",
+      "dateEnd": "2024-12-17T18:23:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_086/cortes/15_000400_086_1_25630_745475.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1545475I",
+        "duration": 360.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_086_1_25630_745475",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "David García Gomis",
+          "lastname": "García Gomis",
+          "firstname": "David",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario VOX"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 27
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 89
+      },
+      "agendaItem": {
+        "title": "Proposición no de Ley relativa al aumento de la indemnización por\ndespido improcedente.",
+        "officialTitle": "Proposición no de Ley relativa al aumento de la indemnización por\ndespido improcedente.",
+        "type": "regular"
+      },
+      "dateStart": "2024-12-17T18:23:00+01:00",
+      "dateEnd": "2024-12-17T18:31:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_086/cortes/15_000400_086_1_25630_745477.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1545477I",
+        "duration": 480.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_086_1_25630_745477",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Blanca Cercas Mena",
+          "lastname": "Cercas Mena",
+          "firstname": "Blanca",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Socialista"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 28
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 89
+      },
+      "agendaItem": {
+        "title": "Proposición no de Ley relativa al aumento de la indemnización por\ndespido improcedente.",
+        "officialTitle": "Proposición no de Ley relativa al aumento de la indemnización por\ndespido improcedente.",
+        "type": "regular"
+      },
+      "dateStart": "2024-12-17T18:31:00+01:00",
+      "dateEnd": "2024-12-17T18:38:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_086/cortes/15_000400_086_1_25630_745478.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1545478I",
+        "duration": 420.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_086_1_25630_745478",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "María Isabel Prieto Serrano",
+          "lastname": "Prieto Serrano",
+          "firstname": "María Isabel",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Popular en el Congreso"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 29
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 89
+      },
+      "agendaItem": {
+        "title": "Proposición no de Ley relativa a garantizar la dotación adecuada de\nrecursos para asegurar el pleno cumplimiento de la \"Ley para mejorar la\ncalidad de vida de personas con Esclerosis Lateral Amiotrófica y otras\nenfermedades o procesos de alta complejidad y curso irreversible\".",
+        "officialTitle": "Proposición no de Ley relativa a garantizar la dotación adecuada de\nrecursos para asegurar el pleno cumplimiento de la \"Ley para mejorar la\ncalidad de vida de personas con Esclerosis Lateral Amiotrófica y otras\nenfermedades o procesos de alta complejidad y curso irreversible\".",
+        "type": "regular"
+      },
+      "dateStart": "2024-12-17T18:38:00+01:00",
+      "dateEnd": "2024-12-17T18:46:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_086/cortes/15_000400_086_1_25630_745480.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1545480I",
+        "duration": 480.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_086_1_25630_745480",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Ester Muñoz de la Iglesia",
+          "lastname": "Muñoz de la Iglesia",
+          "firstname": "Ester",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Popular en el Congreso"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 30
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 89
+      },
+      "agendaItem": {
+        "title": "Proposición no de Ley relativa a garantizar la dotación adecuada de\nrecursos para asegurar el pleno cumplimiento de la \"Ley para mejorar la\ncalidad de vida de personas con Esclerosis Lateral Amiotrófica y otras\nenfermedades o procesos de alta complejidad y curso irreversible\".",
+        "officialTitle": "Proposición no de Ley relativa a garantizar la dotación adecuada de\nrecursos para asegurar el pleno cumplimiento de la \"Ley para mejorar la\ncalidad de vida de personas con Esclerosis Lateral Amiotrófica y otras\nenfermedades o procesos de alta complejidad y curso irreversible\".",
+        "type": "regular"
+      },
+      "dateStart": "2024-12-17T18:46:00+01:00",
+      "dateEnd": "2024-12-17T18:47:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_086/cortes/15_000400_086_1_25630_745481.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1545481I",
+        "duration": 60.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_086_1_25630_745481",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Maribel Vaquero Montero",
+          "lastname": "Vaquero Montero",
+          "firstname": "Maribel",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Vasco (EAJ-PNV)"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 31
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 89
+      },
+      "agendaItem": {
+        "title": "Proposición no de Ley relativa a garantizar la dotación adecuada de\nrecursos para asegurar el pleno cumplimiento de la \"Ley para mejorar la\ncalidad de vida de personas con Esclerosis Lateral Amiotrófica y otras\nenfermedades o procesos de alta complejidad y curso irreversible\".",
+        "officialTitle": "Proposición no de Ley relativa a garantizar la dotación adecuada de\nrecursos para asegurar el pleno cumplimiento de la \"Ley para mejorar la\ncalidad de vida de personas con Esclerosis Lateral Amiotrófica y otras\nenfermedades o procesos de alta complejidad y curso irreversible\".",
+        "type": "regular"
+      },
+      "dateStart": "2024-12-17T18:47:00+01:00",
+      "dateEnd": "2024-12-17T18:53:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_086/cortes/15_000400_086_1_25630_745482.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1545482I",
+        "duration": 360.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_086_1_25630_745482",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Pilar Calvo Gómez",
+          "lastname": "Calvo Gómez",
+          "firstname": "Pilar",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Junts per Catalunya"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 32
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 89
+      },
+      "agendaItem": {
+        "title": "Proposición no de Ley relativa a garantizar la dotación adecuada de\nrecursos para asegurar el pleno cumplimiento de la \"Ley para mejorar la\ncalidad de vida de personas con Esclerosis Lateral Amiotrófica y otras\nenfermedades o procesos de alta complejidad y curso irreversible\".",
+        "officialTitle": "Proposición no de Ley relativa a garantizar la dotación adecuada de\nrecursos para asegurar el pleno cumplimiento de la \"Ley para mejorar la\ncalidad de vida de personas con Esclerosis Lateral Amiotrófica y otras\nenfermedades o procesos de alta complejidad y curso irreversible\".",
+        "type": "regular"
+      },
+      "dateStart": "2024-12-17T18:53:00+01:00",
+      "dateEnd": "2024-12-17T18:57:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_086/cortes/15_000400_086_1_25630_745483.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1545483I",
+        "duration": 240.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_086_1_25630_745483",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Jordi Salvador i Duch",
+          "lastname": "Salvador i Duch",
+          "firstname": "Jordi",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Republicano"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 33
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 89
+      },
+      "agendaItem": {
+        "title": "Proposición no de Ley relativa a garantizar la dotación adecuada de\nrecursos para asegurar el pleno cumplimiento de la \"Ley para mejorar la\ncalidad de vida de personas con Esclerosis Lateral Amiotrófica y otras\nenfermedades o procesos de alta complejidad y curso irreversible\".",
+        "officialTitle": "Proposición no de Ley relativa a garantizar la dotación adecuada de\nrecursos para asegurar el pleno cumplimiento de la \"Ley para mejorar la\ncalidad de vida de personas con Esclerosis Lateral Amiotrófica y otras\nenfermedades o procesos de alta complejidad y curso irreversible\".",
+        "type": "regular"
+      },
+      "dateStart": "2024-12-17T18:57:00+01:00",
+      "dateEnd": "2024-12-17T19:03:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_086/cortes/15_000400_086_1_25630_745484.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1545484I",
+        "duration": 360.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_086_1_25630_745484",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Rafael Cofiño Fernández",
+          "lastname": "Cofiño Fernández",
+          "firstname": "Rafael",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Plurinacional SUMAR"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 34
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 89
+      },
+      "agendaItem": {
+        "title": "Proposición no de Ley relativa a garantizar la dotación adecuada de\nrecursos para asegurar el pleno cumplimiento de la \"Ley para mejorar la\ncalidad de vida de personas con Esclerosis Lateral Amiotrófica y otras\nenfermedades o procesos de alta complejidad y curso irreversible\".",
+        "officialTitle": "Proposición no de Ley relativa a garantizar la dotación adecuada de\nrecursos para asegurar el pleno cumplimiento de la \"Ley para mejorar la\ncalidad de vida de personas con Esclerosis Lateral Amiotrófica y otras\nenfermedades o procesos de alta complejidad y curso irreversible\".",
+        "type": "regular"
+      },
+      "dateStart": "2024-12-17T19:03:00+01:00",
+      "dateEnd": "2024-12-17T19:10:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_086/cortes/15_000400_086_1_25630_745485.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1545485I",
+        "duration": 420.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_086_1_25630_745485",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "María de la Cabeza Ruiz Solás",
+          "lastname": "Ruiz Solás",
+          "firstname": "María de la Cabeza",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario VOX"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 35
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 89
+      },
+      "agendaItem": {
+        "title": "Proposición no de Ley relativa a garantizar la dotación adecuada de\nrecursos para asegurar el pleno cumplimiento de la \"Ley para mejorar la\ncalidad de vida de personas con Esclerosis Lateral Amiotrófica y otras\nenfermedades o procesos de alta complejidad y curso irreversible\".",
+        "officialTitle": "Proposición no de Ley relativa a garantizar la dotación adecuada de\nrecursos para asegurar el pleno cumplimiento de la \"Ley para mejorar la\ncalidad de vida de personas con Esclerosis Lateral Amiotrófica y otras\nenfermedades o procesos de alta complejidad y curso irreversible\".",
+        "type": "regular"
+      },
+      "dateStart": "2024-12-17T19:10:00+01:00",
+      "dateEnd": "2024-12-17T19:16:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_086/cortes/15_000400_086_1_25630_745486.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1545486I",
+        "duration": 360.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_086_1_25630_745486",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Emilio Sáez Cruz",
+          "lastname": "Sáez Cruz",
+          "firstname": "Emilio",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Socialista"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 36
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 89
+      },
+      "agendaItem": {
+        "title": "Moción consecuencia de interpelación urgente sobre las medidas que va\na tomar el Gobierno para garantizar el acceso a la red y atender los\nnuevos suministros necesarios para la industria en sus procesos de\nreindustrialización y descarbonización.",
+        "officialTitle": "Moción consecuencia de interpelación urgente sobre las medidas que va\na tomar el Gobierno para garantizar el acceso a la red y atender los\nnuevos suministros necesarios para la industria en sus procesos de\nreindustrialización y descarbonización.",
+        "type": "regular",
+        "nativeType": "ES-mocion"
+      },
+      "dateStart": "2024-12-17T19:17:00+01:00",
+      "dateEnd": "2024-12-17T19:23:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_086/cortes/15_000400_086_1_25630_745489.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1545489I",
+        "duration": 360.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_086_1_25630_745489",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Idoia Sagastizabal Unzetabarrenetxea",
+          "lastname": "Sagastizabal Unzetabarrenetxea",
+          "firstname": "Idoia",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Vasco (EAJ-PNV)"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 37
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 89
+      },
+      "agendaItem": {
+        "title": "Moción consecuencia de interpelación urgente sobre las medidas que va\na tomar el Gobierno para garantizar el acceso a la red y atender los\nnuevos suministros necesarios para la industria en sus procesos de\nreindustrialización y descarbonización.",
+        "officialTitle": "Moción consecuencia de interpelación urgente sobre las medidas que va\na tomar el Gobierno para garantizar el acceso a la red y atender los\nnuevos suministros necesarios para la industria en sus procesos de\nreindustrialización y descarbonización.",
+        "type": "regular",
+        "nativeType": "ES-mocion"
+      },
+      "dateStart": "2024-12-17T19:23:00+01:00",
+      "dateEnd": "2024-12-17T19:29:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_086/cortes/15_000400_086_1_25630_745490.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1545490I",
+        "duration": 360.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_086_1_25630_745490",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Teresa Jordà i Roura",
+          "lastname": "Jordà i Roura",
+          "firstname": "Teresa",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Republicano"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 38
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 89
+      },
+      "agendaItem": {
+        "title": "Moción consecuencia de interpelación urgente sobre las medidas que va\na tomar el Gobierno para garantizar el acceso a la red y atender los\nnuevos suministros necesarios para la industria en sus procesos de\nreindustrialización y descarbonización.",
+        "officialTitle": "Moción consecuencia de interpelación urgente sobre las medidas que va\na tomar el Gobierno para garantizar el acceso a la red y atender los\nnuevos suministros necesarios para la industria en sus procesos de\nreindustrialización y descarbonización.",
+        "type": "regular",
+        "nativeType": "ES-mocion"
+      },
+      "dateStart": "2024-12-17T19:29:00+01:00",
+      "dateEnd": "2024-12-17T19:36:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_086/cortes/15_000400_086_1_25630_745491.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1545491I",
+        "duration": 420.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_086_1_25630_745491",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Vicenç Vidal Matas",
+          "lastname": "Vidal Matas",
+          "firstname": "Vicenç",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Plurinacional SUMAR"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 39
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 89
+      },
+      "agendaItem": {
+        "title": "Moción consecuencia de interpelación urgente sobre las medidas que va\na tomar el Gobierno para garantizar el acceso a la red y atender los\nnuevos suministros necesarios para la industria en sus procesos de\nreindustrialización y descarbonización.",
+        "officialTitle": "Moción consecuencia de interpelación urgente sobre las medidas que va\na tomar el Gobierno para garantizar el acceso a la red y atender los\nnuevos suministros necesarios para la industria en sus procesos de\nreindustrialización y descarbonización.",
+        "type": "regular",
+        "nativeType": "ES-mocion"
+      },
+      "dateStart": "2024-12-17T19:36:00+01:00",
+      "dateEnd": "2024-12-17T19:44:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_086/cortes/15_000400_086_1_25630_745492.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1545492I",
+        "duration": 480.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_086_1_25630_745492",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Andrés Alberto Rodríguez Almeida",
+          "lastname": "Rodríguez Almeida",
+          "firstname": "Andrés Alberto",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario VOX"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 40
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 89
+      },
+      "agendaItem": {
+        "title": "Moción consecuencia de interpelación urgente sobre las medidas que va\na tomar el Gobierno para garantizar el acceso a la red y atender los\nnuevos suministros necesarios para la industria en sus procesos de\nreindustrialización y descarbonización.",
+        "officialTitle": "Moción consecuencia de interpelación urgente sobre las medidas que va\na tomar el Gobierno para garantizar el acceso a la red y atender los\nnuevos suministros necesarios para la industria en sus procesos de\nreindustrialización y descarbonización.",
+        "type": "regular",
+        "nativeType": "ES-mocion"
+      },
+      "dateStart": "2024-12-17T19:44:00+01:00",
+      "dateEnd": "2024-12-17T19:50:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_086/cortes/15_000400_086_1_25630_745493.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1545493I",
+        "duration": 360.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_086_1_25630_745493",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Andreu Martín Martínez",
+          "lastname": "Martín Martínez",
+          "firstname": "Andreu",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Socialista"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 41
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 89
+      },
+      "agendaItem": {
+        "title": "Moción consecuencia de interpelación urgente sobre las medidas que va\na tomar el Gobierno para garantizar el acceso a la red y atender los\nnuevos suministros necesarios para la industria en sus procesos de\nreindustrialización y descarbonización.",
+        "officialTitle": "Moción consecuencia de interpelación urgente sobre las medidas que va\na tomar el Gobierno para garantizar el acceso a la red y atender los\nnuevos suministros necesarios para la industria en sus procesos de\nreindustrialización y descarbonización.",
+        "type": "regular",
+        "nativeType": "ES-mocion"
+      },
+      "dateStart": "2024-12-17T19:50:00+01:00",
+      "dateEnd": "2024-12-17T19:54:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_086/cortes/15_000400_086_1_25630_745494.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1545494I",
+        "duration": 240.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_086_1_25630_745494",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Alberto Catalán Higueras",
+          "lastname": "Catalán Higueras",
+          "firstname": "Alberto",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Mixto"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 42
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 89
+      },
+      "agendaItem": {
+        "title": "Moción consecuencia de interpelación urgente sobre las medidas que va\na tomar el Gobierno para garantizar el acceso a la red y atender los\nnuevos suministros necesarios para la industria en sus procesos de\nreindustrialización y descarbonización.",
+        "officialTitle": "Moción consecuencia de interpelación urgente sobre las medidas que va\na tomar el Gobierno para garantizar el acceso a la red y atender los\nnuevos suministros necesarios para la industria en sus procesos de\nreindustrialización y descarbonización.",
+        "type": "regular",
+        "nativeType": "ES-mocion"
+      },
+      "dateStart": "2024-12-17T19:54:00+01:00",
+      "dateEnd": "2024-12-17T19:57:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_086/cortes/15_000400_086_1_25630_745495.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1545495I",
+        "duration": 180.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_086_1_25630_745495",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Cristina Valido García",
+          "lastname": "Valido García",
+          "firstname": "Cristina",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Mixto"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 43
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 89
+      },
+      "agendaItem": {
+        "title": "Moción consecuencia de interpelación urgente sobre las medidas que va\na tomar el Gobierno para garantizar el acceso a la red y atender los\nnuevos suministros necesarios para la industria en sus procesos de\nreindustrialización y descarbonización.",
+        "officialTitle": "Moción consecuencia de interpelación urgente sobre las medidas que va\na tomar el Gobierno para garantizar el acceso a la red y atender los\nnuevos suministros necesarios para la industria en sus procesos de\nreindustrialización y descarbonización.",
+        "type": "regular",
+        "nativeType": "ES-mocion"
+      },
+      "dateStart": "2024-12-17T19:57:00+01:00",
+      "dateEnd": "2024-12-17T20:03:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_086/cortes/15_000400_086_1_25630_745496.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1545496I",
+        "duration": 360.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_086_1_25630_745496",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Josep Maria Cruset Domènech",
+          "lastname": "Cruset Domènech",
+          "firstname": "Josep Maria",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Junts per Catalunya"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 44
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 89
+      },
+      "agendaItem": {
+        "title": "Moción consecuencia de interpelación urgente sobre las medidas que va\na tomar el Gobierno para garantizar el acceso a la red y atender los\nnuevos suministros necesarios para la industria en sus procesos de\nreindustrialización y descarbonización.",
+        "officialTitle": "Moción consecuencia de interpelación urgente sobre las medidas que va\na tomar el Gobierno para garantizar el acceso a la red y atender los\nnuevos suministros necesarios para la industria en sus procesos de\nreindustrialización y descarbonización.",
+        "type": "regular",
+        "nativeType": "ES-mocion"
+      },
+      "dateStart": "2024-12-17T20:03:00+01:00",
+      "dateEnd": "2024-12-17T20:10:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_086/cortes/15_000400_086_1_25630_745497.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1545497I",
+        "duration": 420.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_086_1_25630_745497",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Juan Diego Requena Ruiz",
+          "lastname": "Requena Ruiz",
+          "firstname": "Juan Diego",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Popular en el Congreso"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 45
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 89
+      },
+      "agendaItem": {
+        "title": "Moción consecuencia de interpelación urgente sobre cuál va a ser la\npolítica del Gobierno en materia de agua y fuentes de energía y su\nimpacto en la economía española.",
+        "officialTitle": "Moción consecuencia de interpelación urgente sobre cuál va a ser la\npolítica del Gobierno en materia de agua y fuentes de energía y su\nimpacto en la economía española.",
+        "type": "regular",
+        "nativeType": "ES-mocion"
+      },
+      "dateStart": "2024-12-17T20:11:00+01:00",
+      "dateEnd": "2024-12-17T20:19:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_086/cortes/15_000400_086_1_25630_745500.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1545500I",
+        "duration": 480.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_086_1_25630_745500",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Ricardo Chamorro Delmo",
+          "lastname": "Chamorro Delmo",
+          "firstname": "Ricardo",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario VOX"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 46
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 89
+      },
+      "agendaItem": {
+        "title": "Moción consecuencia de interpelación urgente sobre cuál va a ser la\npolítica del Gobierno en materia de agua y fuentes de energía y su\nimpacto en la economía española.",
+        "officialTitle": "Moción consecuencia de interpelación urgente sobre cuál va a ser la\npolítica del Gobierno en materia de agua y fuentes de energía y su\nimpacto en la economía española.",
+        "type": "regular",
+        "nativeType": "ES-mocion"
+      },
+      "dateStart": "2024-12-17T20:19:00+01:00",
+      "dateEnd": "2024-12-17T20:25:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_086/cortes/15_000400_086_1_25630_745503.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1545503I",
+        "duration": 360.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_086_1_25630_745503",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Javier Sánchez Serna",
+          "lastname": "Sánchez Serna",
+          "firstname": "Javier",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Mixto"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 47
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 89
+      },
+      "agendaItem": {
+        "title": "Moción consecuencia de interpelación urgente sobre cuál va a ser la\npolítica del Gobierno en materia de agua y fuentes de energía y su\nimpacto en la economía española.",
+        "officialTitle": "Moción consecuencia de interpelación urgente sobre cuál va a ser la\npolítica del Gobierno en materia de agua y fuentes de energía y su\nimpacto en la economía española.",
+        "type": "regular",
+        "nativeType": "ES-mocion"
+      },
+      "dateStart": "2024-12-17T20:25:00+01:00",
+      "dateEnd": "2024-12-17T20:31:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_086/cortes/15_000400_086_1_25630_745504.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1545504I",
+        "duration": 360.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_086_1_25630_745504",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Eloi Badia Casas",
+          "lastname": "Badia Casas",
+          "firstname": "Eloi",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Plurinacional SUMAR"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 48
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 89
+      },
+      "agendaItem": {
+        "title": "Moción consecuencia de interpelación urgente sobre cuál va a ser la\npolítica del Gobierno en materia de agua y fuentes de energía y su\nimpacto en la economía española.",
+        "officialTitle": "Moción consecuencia de interpelación urgente sobre cuál va a ser la\npolítica del Gobierno en materia de agua y fuentes de energía y su\nimpacto en la economía española.",
+        "type": "regular",
+        "nativeType": "ES-mocion"
+      },
+      "dateStart": "2024-12-17T20:31:00+01:00",
+      "dateEnd": "2024-12-17T20:37:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_086/cortes/15_000400_086_1_25630_745505.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1545505I",
+        "duration": 360.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_086_1_25630_745505",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Roberto García Morís",
+          "lastname": "García Morís",
+          "firstname": "Roberto",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Socialista"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 49
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 89
+      },
+      "agendaItem": {
+        "title": "Moción consecuencia de interpelación urgente sobre cuál va a ser la\npolítica del Gobierno en materia de agua y fuentes de energía y su\nimpacto en la economía española.",
+        "officialTitle": "Moción consecuencia de interpelación urgente sobre cuál va a ser la\npolítica del Gobierno en materia de agua y fuentes de energía y su\nimpacto en la economía española.",
+        "type": "regular",
+        "nativeType": "ES-mocion"
+      },
+      "dateStart": "2024-12-17T20:37:00+01:00",
+      "dateEnd": "2024-12-17T20:44:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_086/cortes/15_000400_086_1_25630_745506.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1545506I",
+        "duration": 420.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_086_1_25630_745506",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Joaquín Melgarejo Moreno",
+          "lastname": "Melgarejo Moreno",
+          "firstname": "Joaquín",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Popular en el Congreso"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 50
+    }
+  ]
+}

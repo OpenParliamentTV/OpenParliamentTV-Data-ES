@@ -1,0 +1,588 @@
+{
+  "meta": {
+    "session": "15006",
+    "processing": {
+      "parse_media": "2026-05-23T07:17:41"
+    },
+    "dateStart": "2023-09-29T12:18:00+02:00",
+    "dateEnd": "2023-09-29T13:31:00+02:00"
+  },
+  "data": [
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 6
+      },
+      "agendaItem": {
+        "title": "Propuesta de candidato a la Presidencia del Gobierno de don Alberto\nNúñez Feijóo, una vez celebradas las consultas con los representantes\ndesignados por los grupos políticos con representación parlamentaria,\nprevista en el artículo 99.1 de la Constitución.",
+        "officialTitle": "Propuesta de candidato a la Presidencia del Gobierno de don Alberto\nNúñez Feijóo, una vez celebradas las consultas con los representantes\ndesignados por los grupos políticos con representación parlamentaria,\nprevista en el artículo 99.1 de la Constitución.",
+        "type": "election",
+        "nativeType": "ES-investidura"
+      },
+      "dateStart": "2023-09-29T12:18:00+02:00",
+      "dateEnd": "2023-09-29T12:29:00+02:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_006/cortes/15_000400_006_0_24169_725378.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1525378I",
+        "duration": 660.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_006_0_24169_725378",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Alberto Núñez Feijóo",
+          "lastname": "Núñez Feijóo",
+          "firstname": "Alberto",
+          "type": "person",
+          "role": "Candidato a la presidencia del Gobierno",
+          "faction": {
+            "label": "Grupo Parlamentario Popular en el Congreso"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 1
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 6
+      },
+      "agendaItem": {
+        "title": "Propuesta de candidato a la Presidencia del Gobierno de don Alberto\nNúñez Feijóo, una vez celebradas las consultas con los representantes\ndesignados por los grupos políticos con representación parlamentaria,\nprevista en el artículo 99.1 de la Constitución.",
+        "officialTitle": "Propuesta de candidato a la Presidencia del Gobierno de don Alberto\nNúñez Feijóo, una vez celebradas las consultas con los representantes\ndesignados por los grupos políticos con representación parlamentaria,\nprevista en el artículo 99.1 de la Constitución.",
+        "type": "election",
+        "nativeType": "ES-investidura"
+      },
+      "dateStart": "2023-09-29T12:31:00+02:00",
+      "dateEnd": "2023-09-29T12:38:00+02:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_006/cortes/15_000400_006_0_24169_725379.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1525379I",
+        "duration": 420.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_006_0_24169_725379",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Óscar Puente Santiago",
+          "lastname": "Puente Santiago",
+          "firstname": "Óscar",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Socialista"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 2
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 6
+      },
+      "agendaItem": {
+        "title": "Propuesta de candidato a la Presidencia del Gobierno de don Alberto\nNúñez Feijóo, una vez celebradas las consultas con los representantes\ndesignados por los grupos políticos con representación parlamentaria,\nprevista en el artículo 99.1 de la Constitución.",
+        "officialTitle": "Propuesta de candidato a la Presidencia del Gobierno de don Alberto\nNúñez Feijóo, una vez celebradas las consultas con los representantes\ndesignados por los grupos políticos con representación parlamentaria,\nprevista en el artículo 99.1 de la Constitución.",
+        "type": "election",
+        "nativeType": "ES-investidura"
+      },
+      "dateStart": "2023-09-29T12:38:00+02:00",
+      "dateEnd": "2023-09-29T12:44:00+02:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_006/cortes/15_000400_006_0_24169_725380.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1525380I",
+        "duration": 360.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_006_0_24169_725380",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Santiago Abascal Conde",
+          "lastname": "Abascal Conde",
+          "firstname": "Santiago",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario VOX"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 3
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 6
+      },
+      "agendaItem": {
+        "title": "Propuesta de candidato a la Presidencia del Gobierno de don Alberto\nNúñez Feijóo, una vez celebradas las consultas con los representantes\ndesignados por los grupos políticos con representación parlamentaria,\nprevista en el artículo 99.1 de la Constitución.",
+        "officialTitle": "Propuesta de candidato a la Presidencia del Gobierno de don Alberto\nNúñez Feijóo, una vez celebradas las consultas con los representantes\ndesignados por los grupos políticos con representación parlamentaria,\nprevista en el artículo 99.1 de la Constitución.",
+        "type": "election",
+        "nativeType": "ES-investidura"
+      },
+      "dateStart": "2023-09-29T12:44:00+02:00",
+      "dateEnd": "2023-09-29T12:51:00+02:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_006/cortes/15_000400_006_0_24169_725381.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1525381I",
+        "duration": 420.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_006_0_24169_725381",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Marta Lois González",
+          "lastname": "Lois González",
+          "firstname": "Marta",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Plurinacional SUMAR"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 4
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 6
+      },
+      "agendaItem": {
+        "title": "Propuesta de candidato a la Presidencia del Gobierno de don Alberto\nNúñez Feijóo, una vez celebradas las consultas con los representantes\ndesignados por los grupos políticos con representación parlamentaria,\nprevista en el artículo 99.1 de la Constitución.",
+        "officialTitle": "Propuesta de candidato a la Presidencia del Gobierno de don Alberto\nNúñez Feijóo, una vez celebradas las consultas con los representantes\ndesignados por los grupos políticos con representación parlamentaria,\nprevista en el artículo 99.1 de la Constitución.",
+        "type": "election",
+        "nativeType": "ES-investidura"
+      },
+      "dateStart": "2023-09-29T12:52:00+02:00",
+      "dateEnd": "2023-09-29T12:58:00+02:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_006/cortes/15_000400_006_0_24169_725382.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1525382I",
+        "duration": 360.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_006_0_24169_725382",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Teresa Jordà i Roura",
+          "lastname": "Jordà i Roura",
+          "firstname": "Teresa",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Republicano"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 5
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 6
+      },
+      "agendaItem": {
+        "title": "Propuesta de candidato a la Presidencia del Gobierno de don Alberto\nNúñez Feijóo, una vez celebradas las consultas con los representantes\ndesignados por los grupos políticos con representación parlamentaria,\nprevista en el artículo 99.1 de la Constitución.",
+        "officialTitle": "Propuesta de candidato a la Presidencia del Gobierno de don Alberto\nNúñez Feijóo, una vez celebradas las consultas con los representantes\ndesignados por los grupos políticos con representación parlamentaria,\nprevista en el artículo 99.1 de la Constitución.",
+        "type": "election",
+        "nativeType": "ES-investidura"
+      },
+      "dateStart": "2023-09-29T12:58:00+02:00",
+      "dateEnd": "2023-09-29T12:59:00+02:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_006/cortes/15_000400_006_0_24169_725383.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1525383I",
+        "duration": 60.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_006_0_24169_725383",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Concepción Gamarra Ruiz-Clavijo",
+          "lastname": "Gamarra Ruiz-Clavijo",
+          "firstname": "Concepción",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Popular en el Congreso"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 6
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 6
+      },
+      "agendaItem": {
+        "title": "Propuesta de candidato a la Presidencia del Gobierno de don Alberto\nNúñez Feijóo, una vez celebradas las consultas con los representantes\ndesignados por los grupos políticos con representación parlamentaria,\nprevista en el artículo 99.1 de la Constitución.",
+        "officialTitle": "Propuesta de candidato a la Presidencia del Gobierno de don Alberto\nNúñez Feijóo, una vez celebradas las consultas con los representantes\ndesignados por los grupos políticos con representación parlamentaria,\nprevista en el artículo 99.1 de la Constitución.",
+        "type": "election",
+        "nativeType": "ES-investidura"
+      },
+      "dateStart": "2023-09-29T12:59:00+02:00",
+      "dateEnd": "2023-09-29T12:59:00+02:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_006/cortes/15_000400_006_0_24169_725385.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1525385I",
+        "duration": 0.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_006_0_24169_725385",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Francina Armengol Socias",
+          "lastname": "Armengol Socias",
+          "firstname": "Francina",
+          "type": "person",
+          "role": "Presidenta del Congreso de los Diputados",
+          "faction": {
+            "label": "Grupo Parlamentario Socialista"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 7
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 6
+      },
+      "agendaItem": {
+        "title": "Propuesta de candidato a la Presidencia del Gobierno de don Alberto\nNúñez Feijóo, una vez celebradas las consultas con los representantes\ndesignados por los grupos políticos con representación parlamentaria,\nprevista en el artículo 99.1 de la Constitución.",
+        "officialTitle": "Propuesta de candidato a la Presidencia del Gobierno de don Alberto\nNúñez Feijóo, una vez celebradas las consultas con los representantes\ndesignados por los grupos políticos con representación parlamentaria,\nprevista en el artículo 99.1 de la Constitución.",
+        "type": "election",
+        "nativeType": "ES-investidura"
+      },
+      "dateStart": "2023-09-29T13:00:00+02:00",
+      "dateEnd": "2023-09-29T13:04:00+02:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_006/cortes/15_000400_006_0_24169_725384.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1525384I",
+        "duration": 240.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_006_0_24169_725384",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Míriam Nogueras i Camero",
+          "lastname": "Nogueras i Camero",
+          "firstname": "Míriam",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Junts per Catalunya"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 8
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 6
+      },
+      "agendaItem": {
+        "title": "Propuesta de candidato a la Presidencia del Gobierno de don Alberto\nNúñez Feijóo, una vez celebradas las consultas con los representantes\ndesignados por los grupos políticos con representación parlamentaria,\nprevista en el artículo 99.1 de la Constitución.",
+        "officialTitle": "Propuesta de candidato a la Presidencia del Gobierno de don Alberto\nNúñez Feijóo, una vez celebradas las consultas con los representantes\ndesignados por los grupos políticos con representación parlamentaria,\nprevista en el artículo 99.1 de la Constitución.",
+        "type": "election",
+        "nativeType": "ES-investidura"
+      },
+      "dateStart": "2023-09-29T13:05:00+02:00",
+      "dateEnd": "2023-09-29T13:10:00+02:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_006/cortes/15_000400_006_0_24169_725386.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1525386I",
+        "duration": 300.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_006_0_24169_725386",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Oskar Matute García de Jalón",
+          "lastname": "Matute García de Jalón",
+          "firstname": "Oskar",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Euskal Herria Bildu"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 9
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 6
+      },
+      "agendaItem": {
+        "title": "Propuesta de candidato a la Presidencia del Gobierno de don Alberto\nNúñez Feijóo, una vez celebradas las consultas con los representantes\ndesignados por los grupos políticos con representación parlamentaria,\nprevista en el artículo 99.1 de la Constitución.",
+        "officialTitle": "Propuesta de candidato a la Presidencia del Gobierno de don Alberto\nNúñez Feijóo, una vez celebradas las consultas con los representantes\ndesignados por los grupos políticos con representación parlamentaria,\nprevista en el artículo 99.1 de la Constitución.",
+        "type": "election",
+        "nativeType": "ES-investidura"
+      },
+      "dateStart": "2023-09-29T13:11:00+02:00",
+      "dateEnd": "2023-09-29T13:15:00+02:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_006/cortes/15_000400_006_0_24169_725387.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1525387I",
+        "duration": 240.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_006_0_24169_725387",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Aitor Esteban Bravo",
+          "lastname": "Esteban Bravo",
+          "firstname": "Aitor",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Vasco (EAJ-PNV)"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 10
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 6
+      },
+      "agendaItem": {
+        "title": "Propuesta de candidato a la Presidencia del Gobierno de don Alberto\nNúñez Feijóo, una vez celebradas las consultas con los representantes\ndesignados por los grupos políticos con representación parlamentaria,\nprevista en el artículo 99.1 de la Constitución.",
+        "officialTitle": "Propuesta de candidato a la Presidencia del Gobierno de don Alberto\nNúñez Feijóo, una vez celebradas las consultas con los representantes\ndesignados por los grupos políticos con representación parlamentaria,\nprevista en el artículo 99.1 de la Constitución.",
+        "type": "election",
+        "nativeType": "ES-investidura"
+      },
+      "dateStart": "2023-09-29T13:16:00+02:00",
+      "dateEnd": "2023-09-29T13:19:00+02:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_006/cortes/15_000400_006_0_24169_725388.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1525388I",
+        "duration": 180.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_006_0_24169_725388",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Néstor Rego Candamil",
+          "lastname": "Rego Candamil",
+          "firstname": "Néstor",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Mixto"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 11
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 6
+      },
+      "agendaItem": {
+        "title": "Propuesta de candidato a la Presidencia del Gobierno de don Alberto\nNúñez Feijóo, una vez celebradas las consultas con los representantes\ndesignados por los grupos políticos con representación parlamentaria,\nprevista en el artículo 99.1 de la Constitución.",
+        "officialTitle": "Propuesta de candidato a la Presidencia del Gobierno de don Alberto\nNúñez Feijóo, una vez celebradas las consultas con los representantes\ndesignados por los grupos políticos con representación parlamentaria,\nprevista en el artículo 99.1 de la Constitución.",
+        "type": "election",
+        "nativeType": "ES-investidura"
+      },
+      "dateStart": "2023-09-29T13:19:00+02:00",
+      "dateEnd": "2023-09-29T13:22:00+02:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_006/cortes/15_000400_006_0_24169_725389.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1525389I",
+        "duration": 180.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_006_0_24169_725389",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Cristina Valido García",
+          "lastname": "Valido García",
+          "firstname": "Cristina",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Mixto"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 12
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 6
+      },
+      "agendaItem": {
+        "title": "Propuesta de candidato a la Presidencia del Gobierno de don Alberto\nNúñez Feijóo, una vez celebradas las consultas con los representantes\ndesignados por los grupos políticos con representación parlamentaria,\nprevista en el artículo 99.1 de la Constitución.",
+        "officialTitle": "Propuesta de candidato a la Presidencia del Gobierno de don Alberto\nNúñez Feijóo, una vez celebradas las consultas con los representantes\ndesignados por los grupos políticos con representación parlamentaria,\nprevista en el artículo 99.1 de la Constitución.",
+        "type": "election",
+        "nativeType": "ES-investidura"
+      },
+      "dateStart": "2023-09-29T13:22:00+02:00",
+      "dateEnd": "2023-09-29T13:23:00+02:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_006/cortes/15_000400_006_0_24169_725390.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1525390I",
+        "duration": 60.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_006_0_24169_725390",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Alberto Catalán Higueras",
+          "lastname": "Catalán Higueras",
+          "firstname": "Alberto",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Mixto"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 13
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 6
+      },
+      "agendaItem": {
+        "title": "Propuesta de candidato a la Presidencia del Gobierno de don Alberto\nNúñez Feijóo, una vez celebradas las consultas con los representantes\ndesignados por los grupos políticos con representación parlamentaria,\nprevista en el artículo 99.1 de la Constitución.",
+        "officialTitle": "Propuesta de candidato a la Presidencia del Gobierno de don Alberto\nNúñez Feijóo, una vez celebradas las consultas con los representantes\ndesignados por los grupos políticos con representación parlamentaria,\nprevista en el artículo 99.1 de la Constitución.",
+        "type": "election",
+        "nativeType": "ES-investidura"
+      },
+      "dateStart": "2023-09-29T13:24:00+02:00",
+      "dateEnd": "2023-09-29T13:31:00+02:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_006/cortes/15_000400_006_0_24169_725391.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1525391I",
+        "duration": 420.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_006_0_24169_725391",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Concepción Gamarra Ruiz-Clavijo",
+          "lastname": "Gamarra Ruiz-Clavijo",
+          "firstname": "Concepción",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Popular en el Congreso"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 14
+    }
+  ]
+}

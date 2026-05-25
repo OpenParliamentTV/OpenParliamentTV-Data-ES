@@ -1,0 +1,1958 @@
+{
+  "meta": {
+    "session": "15118",
+    "processing": {
+      "parse_media": "2026-05-23T07:17:41"
+    },
+    "dateStart": "2025-05-27T15:04:00+02:00",
+    "dateEnd": "2025-05-27T20:08:00+02:00"
+  },
+  "data": [
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 118
+      },
+      "agendaItem": {
+        "title": "Proposición de Ley relativa a incrementar las medidas de prevención\nen el consumo de alcohol y drogas por los conductores, en especial por\nconductores profesionales de vehículos de transporte de pasajeros y\nmercancías.",
+        "officialTitle": "Proposición de Ley relativa a incrementar las medidas de prevención\nen el consumo de alcohol y drogas por los conductores, en especial por\nconductores profesionales de vehículos de transporte de pasajeros y\nmercancías.",
+        "type": "regular",
+        "nativeType": "ES-ley"
+      },
+      "dateStart": "2025-05-27T15:04:00+02:00",
+      "dateEnd": "2025-05-27T15:12:00+02:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_114/cortes/15_000400_114_0_26161_753963.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1553963I",
+        "duration": 480.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_114_0_26161_753963",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Sandra Pascual Rocamora",
+          "lastname": "Pascual Rocamora",
+          "firstname": "Sandra",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Popular en el Congreso"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 1
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 118
+      },
+      "agendaItem": {
+        "title": "Proposición de Ley relativa a incrementar las medidas de prevención\nen el consumo de alcohol y drogas por los conductores, en especial por\nconductores profesionales de vehículos de transporte de pasajeros y\nmercancías.",
+        "officialTitle": "Proposición de Ley relativa a incrementar las medidas de prevención\nen el consumo de alcohol y drogas por los conductores, en especial por\nconductores profesionales de vehículos de transporte de pasajeros y\nmercancías.",
+        "type": "regular",
+        "nativeType": "ES-ley"
+      },
+      "dateStart": "2025-05-27T15:12:00+02:00",
+      "dateEnd": "2025-05-27T15:19:00+02:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_114/cortes/15_000400_114_0_26161_753964.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1553964I",
+        "duration": 420.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_114_0_26161_753964",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Nerea Renteria Lasanta",
+          "lastname": "Renteria Lasanta",
+          "firstname": "Nerea",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Vasco (EAJ-PNV)"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 2
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 118
+      },
+      "agendaItem": {
+        "title": "Proposición de Ley relativa a incrementar las medidas de prevención\nen el consumo de alcohol y drogas por los conductores, en especial por\nconductores profesionales de vehículos de transporte de pasajeros y\nmercancías.",
+        "officialTitle": "Proposición de Ley relativa a incrementar las medidas de prevención\nen el consumo de alcohol y drogas por los conductores, en especial por\nconductores profesionales de vehículos de transporte de pasajeros y\nmercancías.",
+        "type": "regular",
+        "nativeType": "ES-ley"
+      },
+      "dateStart": "2025-05-27T15:19:00+02:00",
+      "dateEnd": "2025-05-27T15:26:00+02:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_114/cortes/15_000400_114_0_26161_753965.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1553965I",
+        "duration": 420.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_114_0_26161_753965",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Inés Granollers Cunillera",
+          "lastname": "Granollers Cunillera",
+          "firstname": "Inés",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Republicano"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 3
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 118
+      },
+      "agendaItem": {
+        "title": "Proposición de Ley relativa a incrementar las medidas de prevención\nen el consumo de alcohol y drogas por los conductores, en especial por\nconductores profesionales de vehículos de transporte de pasajeros y\nmercancías.",
+        "officialTitle": "Proposición de Ley relativa a incrementar las medidas de prevención\nen el consumo de alcohol y drogas por los conductores, en especial por\nconductores profesionales de vehículos de transporte de pasajeros y\nmercancías.",
+        "type": "regular",
+        "nativeType": "ES-ley"
+      },
+      "dateStart": "2025-05-27T15:26:00+02:00",
+      "dateEnd": "2025-05-27T15:34:00+02:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_114/cortes/15_000400_114_0_26161_753966.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1553966I",
+        "duration": 480.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_114_0_26161_753966",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Fèlix Alonso Cantorné",
+          "lastname": "Alonso Cantorné",
+          "firstname": "Fèlix",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Plurinacional SUMAR"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 4
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 118
+      },
+      "agendaItem": {
+        "title": "Proposición de Ley relativa a incrementar las medidas de prevención\nen el consumo de alcohol y drogas por los conductores, en especial por\nconductores profesionales de vehículos de transporte de pasajeros y\nmercancías.",
+        "officialTitle": "Proposición de Ley relativa a incrementar las medidas de prevención\nen el consumo de alcohol y drogas por los conductores, en especial por\nconductores profesionales de vehículos de transporte de pasajeros y\nmercancías.",
+        "type": "regular",
+        "nativeType": "ES-ley"
+      },
+      "dateStart": "2025-05-27T15:34:00+02:00",
+      "dateEnd": "2025-05-27T15:41:00+02:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_114/cortes/15_000400_114_0_26161_753967.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1553967I",
+        "duration": 420.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_114_0_26161_753967",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Francisco José Alcaraz Martos",
+          "lastname": "Alcaraz Martos",
+          "firstname": "Francisco José",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario VOX"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 5
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 118
+      },
+      "agendaItem": {
+        "title": "Proposición de Ley relativa a incrementar las medidas de prevención\nen el consumo de alcohol y drogas por los conductores, en especial por\nconductores profesionales de vehículos de transporte de pasajeros y\nmercancías.",
+        "officialTitle": "Proposición de Ley relativa a incrementar las medidas de prevención\nen el consumo de alcohol y drogas por los conductores, en especial por\nconductores profesionales de vehículos de transporte de pasajeros y\nmercancías.",
+        "type": "regular",
+        "nativeType": "ES-ley"
+      },
+      "dateStart": "2025-05-27T15:41:00+02:00",
+      "dateEnd": "2025-05-27T15:48:00+02:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_114/cortes/15_000400_114_0_26161_753968.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1553968I",
+        "duration": 420.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_114_0_26161_753968",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Manuel Arribas Maroto",
+          "lastname": "Arribas Maroto",
+          "firstname": "Manuel",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Socialista"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 6
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 118
+      },
+      "agendaItem": {
+        "title": "Proposición de Ley Orgánica por la que se modifica la Ley Orgánica\n2/2023, de 22 de marzo, del Sistema Universitario.",
+        "officialTitle": "Proposición de Ley Orgánica por la que se modifica la Ley Orgánica\n2/2023, de 22 de marzo, del Sistema Universitario.",
+        "type": "regular",
+        "nativeType": "ES-ley"
+      },
+      "dateStart": "2025-05-27T15:48:00+02:00",
+      "dateEnd": "2025-05-27T16:00:00+02:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_114/cortes/15_000400_114_0_26161_753971.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1553971I",
+        "duration": 720.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_114_0_26161_753971",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Roberto García Morís",
+          "lastname": "García Morís",
+          "firstname": "Roberto",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Socialista"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 7
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 118
+      },
+      "agendaItem": {
+        "title": "Proposición de Ley Orgánica por la que se modifica la Ley Orgánica\n2/2023, de 22 de marzo, del Sistema Universitario.",
+        "officialTitle": "Proposición de Ley Orgánica por la que se modifica la Ley Orgánica\n2/2023, de 22 de marzo, del Sistema Universitario.",
+        "type": "regular",
+        "nativeType": "ES-ley"
+      },
+      "dateStart": "2025-05-27T16:00:00+02:00",
+      "dateEnd": "2025-05-27T16:13:00+02:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_114/cortes/15_000400_114_0_26161_753972.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1553972I",
+        "duration": 780.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_114_0_26161_753972",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Joaquín Robles López",
+          "lastname": "Robles López",
+          "firstname": "Joaquín",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario VOX"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 8
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 118
+      },
+      "agendaItem": {
+        "title": "Proposición de Ley Orgánica por la que se modifica la Ley Orgánica\n2/2023, de 22 de marzo, del Sistema Universitario.",
+        "officialTitle": "Proposición de Ley Orgánica por la que se modifica la Ley Orgánica\n2/2023, de 22 de marzo, del Sistema Universitario.",
+        "type": "regular",
+        "nativeType": "ES-ley"
+      },
+      "dateStart": "2025-05-27T16:13:00+02:00",
+      "dateEnd": "2025-05-27T16:18:00+02:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_114/cortes/15_000400_114_0_26161_753973.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1553973I",
+        "duration": 300.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_114_0_26161_753973",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Roberto García Morís",
+          "lastname": "García Morís",
+          "firstname": "Roberto",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Socialista"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 9
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 118
+      },
+      "agendaItem": {
+        "title": "Proposición de Ley Orgánica por la que se modifica la Ley Orgánica\n2/2023, de 22 de marzo, del Sistema Universitario.",
+        "officialTitle": "Proposición de Ley Orgánica por la que se modifica la Ley Orgánica\n2/2023, de 22 de marzo, del Sistema Universitario.",
+        "type": "regular",
+        "nativeType": "ES-ley"
+      },
+      "dateStart": "2025-05-27T16:18:00+02:00",
+      "dateEnd": "2025-05-27T16:24:00+02:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_114/cortes/15_000400_114_0_26161_753974.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1553974I",
+        "duration": 360.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_114_0_26161_753974",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Joaquín Robles López",
+          "lastname": "Robles López",
+          "firstname": "Joaquín",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario VOX"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 10
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 118
+      },
+      "agendaItem": {
+        "title": "Proposición de Ley Orgánica por la que se modifica la Ley Orgánica\n2/2023, de 22 de marzo, del Sistema Universitario.",
+        "officialTitle": "Proposición de Ley Orgánica por la que se modifica la Ley Orgánica\n2/2023, de 22 de marzo, del Sistema Universitario.",
+        "type": "regular",
+        "nativeType": "ES-ley"
+      },
+      "dateStart": "2025-05-27T16:24:00+02:00",
+      "dateEnd": "2025-05-27T16:30:00+02:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_114/cortes/15_000400_114_0_26161_753975.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1553975I",
+        "duration": 360.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_114_0_26161_753975",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Noemí Santana Perera",
+          "lastname": "Santana Perera",
+          "firstname": "Noemí",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Mixto"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 11
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 118
+      },
+      "agendaItem": {
+        "title": "Proposición de Ley Orgánica por la que se modifica la Ley Orgánica\n2/2023, de 22 de marzo, del Sistema Universitario.",
+        "officialTitle": "Proposición de Ley Orgánica por la que se modifica la Ley Orgánica\n2/2023, de 22 de marzo, del Sistema Universitario.",
+        "type": "regular",
+        "nativeType": "ES-ley"
+      },
+      "dateStart": "2025-05-27T16:30:00+02:00",
+      "dateEnd": "2025-05-27T16:37:00+02:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_114/cortes/15_000400_114_0_26161_753976.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1553976I",
+        "duration": 420.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_114_0_26161_753976",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Joseba Andoni Agirretxea Urresti",
+          "lastname": "Agirretxea Urresti",
+          "firstname": "Joseba Andoni",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Vasco (EAJ-PNV)"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 12
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 118
+      },
+      "agendaItem": {
+        "title": "Proposición de Ley Orgánica por la que se modifica la Ley Orgánica\n2/2023, de 22 de marzo, del Sistema Universitario.",
+        "officialTitle": "Proposición de Ley Orgánica por la que se modifica la Ley Orgánica\n2/2023, de 22 de marzo, del Sistema Universitario.",
+        "type": "regular",
+        "nativeType": "ES-ley"
+      },
+      "dateStart": "2025-05-27T16:37:00+02:00",
+      "dateEnd": "2025-05-27T16:40:00+02:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_114/cortes/15_000400_114_0_26161_753977.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1553977I",
+        "duration": 180.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_114_0_26161_753977",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Marije Fullaondo la Cruz",
+          "lastname": "Fullaondo la Cruz",
+          "firstname": "Marije",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Euskal Herria Bildu"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 13
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 118
+      },
+      "agendaItem": {
+        "title": "Proposición de Ley Orgánica por la que se modifica la Ley Orgánica\n2/2023, de 22 de marzo, del Sistema Universitario.",
+        "officialTitle": "Proposición de Ley Orgánica por la que se modifica la Ley Orgánica\n2/2023, de 22 de marzo, del Sistema Universitario.",
+        "type": "regular",
+        "nativeType": "ES-ley"
+      },
+      "dateStart": "2025-05-27T16:40:00+02:00",
+      "dateEnd": "2025-05-27T16:49:00+02:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_114/cortes/15_000400_114_0_26161_753978.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1553978I",
+        "duration": 540.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_114_0_26161_753978",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Josep Pagès i Massó",
+          "lastname": "Pagès i Massó",
+          "firstname": "Josep",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Junts per Catalunya"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 14
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 118
+      },
+      "agendaItem": {
+        "title": "Proposición de Ley Orgánica por la que se modifica la Ley Orgánica\n2/2023, de 22 de marzo, del Sistema Universitario.",
+        "officialTitle": "Proposición de Ley Orgánica por la que se modifica la Ley Orgánica\n2/2023, de 22 de marzo, del Sistema Universitario.",
+        "type": "regular",
+        "nativeType": "ES-ley"
+      },
+      "dateStart": "2025-05-27T16:49:00+02:00",
+      "dateEnd": "2025-05-27T16:55:00+02:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_114/cortes/15_000400_114_0_26161_753979.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1553979I",
+        "duration": 360.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_114_0_26161_753979",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Etna Estrems Fayos",
+          "lastname": "Estrems Fayos",
+          "firstname": "Etna",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Republicano"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 15
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 118
+      },
+      "agendaItem": {
+        "title": "Proposición de Ley Orgánica por la que se modifica la Ley Orgánica\n2/2023, de 22 de marzo, del Sistema Universitario.",
+        "officialTitle": "Proposición de Ley Orgánica por la que se modifica la Ley Orgánica\n2/2023, de 22 de marzo, del Sistema Universitario.",
+        "type": "regular",
+        "nativeType": "ES-ley"
+      },
+      "dateStart": "2025-05-27T16:55:00+02:00",
+      "dateEnd": "2025-05-27T17:04:00+02:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_114/cortes/15_000400_114_0_26161_753980.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1553980I",
+        "duration": 540.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_114_0_26161_753980",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Candela López Tagliafico",
+          "lastname": "López Tagliafico",
+          "firstname": "Candela",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Plurinacional SUMAR"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 16
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 118
+      },
+      "agendaItem": {
+        "title": "Proposición de Ley Orgánica por la que se modifica la Ley Orgánica\n2/2023, de 22 de marzo, del Sistema Universitario.",
+        "officialTitle": "Proposición de Ley Orgánica por la que se modifica la Ley Orgánica\n2/2023, de 22 de marzo, del Sistema Universitario.",
+        "type": "regular",
+        "nativeType": "ES-ley"
+      },
+      "dateStart": "2025-05-27T17:04:00+02:00",
+      "dateEnd": "2025-05-27T17:11:00+02:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_114/cortes/15_000400_114_0_26161_753981.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1553981I",
+        "duration": 420.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_114_0_26161_753981",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Pedro Navarro López",
+          "lastname": "Navarro López",
+          "firstname": "Pedro",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Popular en el Congreso"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 17
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 118
+      },
+      "agendaItem": {
+        "title": "Proposición no de Ley relativa a financiar con máxima urgencia la\n\"Ley 3/2024, de 30 de octubre, para mejorar la calidad de vida de\npersonas con Esclerosis Lateral Amiotrófica y otras enfermedades o\nprocesos de alta complejidad y curso irreversible\".",
+        "officialTitle": "Proposición no de Ley relativa a financiar con máxima urgencia la\n\"Ley 3/2024, de 30 de octubre, para mejorar la calidad de vida de\npersonas con Esclerosis Lateral Amiotrófica y otras enfermedades o\nprocesos de alta complejidad y curso irreversible\".",
+        "type": "regular"
+      },
+      "dateStart": "2025-05-27T17:12:00+02:00",
+      "dateEnd": "2025-05-27T17:20:00+02:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_114/cortes/15_000400_114_0_26161_753984.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1553984I",
+        "duration": 480.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_114_0_26161_753984",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Ester Muñoz de la Iglesia",
+          "lastname": "Muñoz de la Iglesia",
+          "firstname": "Ester",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Popular en el Congreso"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 18
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 118
+      },
+      "agendaItem": {
+        "title": "Proposición no de Ley relativa a financiar con máxima urgencia la\n\"Ley 3/2024, de 30 de octubre, para mejorar la calidad de vida de\npersonas con Esclerosis Lateral Amiotrófica y otras enfermedades o\nprocesos de alta complejidad y curso irreversible\".",
+        "officialTitle": "Proposición no de Ley relativa a financiar con máxima urgencia la\n\"Ley 3/2024, de 30 de octubre, para mejorar la calidad de vida de\npersonas con Esclerosis Lateral Amiotrófica y otras enfermedades o\nprocesos de alta complejidad y curso irreversible\".",
+        "type": "regular"
+      },
+      "dateStart": "2025-05-27T17:20:00+02:00",
+      "dateEnd": "2025-05-27T17:26:00+02:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_114/cortes/15_000400_114_0_26161_753985.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1553985I",
+        "duration": 360.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_114_0_26161_753985",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Inés Plaza García",
+          "lastname": "Plaza García",
+          "firstname": "Inés",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Socialista"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 19
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 118
+      },
+      "agendaItem": {
+        "title": "Proposición no de Ley relativa a financiar con máxima urgencia la\n\"Ley 3/2024, de 30 de octubre, para mejorar la calidad de vida de\npersonas con Esclerosis Lateral Amiotrófica y otras enfermedades o\nprocesos de alta complejidad y curso irreversible\".",
+        "officialTitle": "Proposición no de Ley relativa a financiar con máxima urgencia la\n\"Ley 3/2024, de 30 de octubre, para mejorar la calidad de vida de\npersonas con Esclerosis Lateral Amiotrófica y otras enfermedades o\nprocesos de alta complejidad y curso irreversible\".",
+        "type": "regular"
+      },
+      "dateStart": "2025-05-27T17:26:00+02:00",
+      "dateEnd": "2025-05-27T17:28:00+02:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_114/cortes/15_000400_114_0_26161_753986.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1553986I",
+        "duration": 120.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_114_0_26161_753986",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Alberto Catalán Higueras",
+          "lastname": "Catalán Higueras",
+          "firstname": "Alberto",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Mixto"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 20
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 118
+      },
+      "agendaItem": {
+        "title": "Proposición no de Ley relativa a financiar con máxima urgencia la\n\"Ley 3/2024, de 30 de octubre, para mejorar la calidad de vida de\npersonas con Esclerosis Lateral Amiotrófica y otras enfermedades o\nprocesos de alta complejidad y curso irreversible\".",
+        "officialTitle": "Proposición no de Ley relativa a financiar con máxima urgencia la\n\"Ley 3/2024, de 30 de octubre, para mejorar la calidad de vida de\npersonas con Esclerosis Lateral Amiotrófica y otras enfermedades o\nprocesos de alta complejidad y curso irreversible\".",
+        "type": "regular"
+      },
+      "dateStart": "2025-05-27T17:28:00+02:00",
+      "dateEnd": "2025-05-27T17:30:00+02:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_114/cortes/15_000400_114_0_26161_753987.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1553987I",
+        "duration": 120.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_114_0_26161_753987",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Cristina Valido García",
+          "lastname": "Valido García",
+          "firstname": "Cristina",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Mixto"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 21
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 118
+      },
+      "agendaItem": {
+        "title": "Proposición no de Ley relativa a financiar con máxima urgencia la\n\"Ley 3/2024, de 30 de octubre, para mejorar la calidad de vida de\npersonas con Esclerosis Lateral Amiotrófica y otras enfermedades o\nprocesos de alta complejidad y curso irreversible\".",
+        "officialTitle": "Proposición no de Ley relativa a financiar con máxima urgencia la\n\"Ley 3/2024, de 30 de octubre, para mejorar la calidad de vida de\npersonas con Esclerosis Lateral Amiotrófica y otras enfermedades o\nprocesos de alta complejidad y curso irreversible\".",
+        "type": "regular"
+      },
+      "dateStart": "2025-05-27T17:30:00+02:00",
+      "dateEnd": "2025-05-27T17:32:00+02:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_114/cortes/15_000400_114_0_26161_753988.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1553988I",
+        "duration": 120.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_114_0_26161_753988",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Néstor Rego Candamil",
+          "lastname": "Rego Candamil",
+          "firstname": "Néstor",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Mixto"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 22
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 118
+      },
+      "agendaItem": {
+        "title": "Proposición no de Ley relativa a financiar con máxima urgencia la\n\"Ley 3/2024, de 30 de octubre, para mejorar la calidad de vida de\npersonas con Esclerosis Lateral Amiotrófica y otras enfermedades o\nprocesos de alta complejidad y curso irreversible\".",
+        "officialTitle": "Proposición no de Ley relativa a financiar con máxima urgencia la\n\"Ley 3/2024, de 30 de octubre, para mejorar la calidad de vida de\npersonas con Esclerosis Lateral Amiotrófica y otras enfermedades o\nprocesos de alta complejidad y curso irreversible\".",
+        "type": "regular"
+      },
+      "dateStart": "2025-05-27T17:32:00+02:00",
+      "dateEnd": "2025-05-27T17:35:00+02:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_114/cortes/15_000400_114_0_26161_753989.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1553989I",
+        "duration": 180.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_114_0_26161_753989",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Noemí Santana Perera",
+          "lastname": "Santana Perera",
+          "firstname": "Noemí",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Mixto"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 23
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 118
+      },
+      "agendaItem": {
+        "title": "Proposición no de Ley relativa a financiar con máxima urgencia la\n\"Ley 3/2024, de 30 de octubre, para mejorar la calidad de vida de\npersonas con Esclerosis Lateral Amiotrófica y otras enfermedades o\nprocesos de alta complejidad y curso irreversible\".",
+        "officialTitle": "Proposición no de Ley relativa a financiar con máxima urgencia la\n\"Ley 3/2024, de 30 de octubre, para mejorar la calidad de vida de\npersonas con Esclerosis Lateral Amiotrófica y otras enfermedades o\nprocesos de alta complejidad y curso irreversible\".",
+        "type": "regular"
+      },
+      "dateStart": "2025-05-27T17:35:00+02:00",
+      "dateEnd": "2025-05-27T17:41:00+02:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_114/cortes/15_000400_114_0_26161_753990.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1553990I",
+        "duration": 360.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_114_0_26161_753990",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Joseba Andoni Agirretxea Urresti",
+          "lastname": "Agirretxea Urresti",
+          "firstname": "Joseba Andoni",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Vasco (EAJ-PNV)"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 24
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 118
+      },
+      "agendaItem": {
+        "title": "Proposición no de Ley relativa a financiar con máxima urgencia la\n\"Ley 3/2024, de 30 de octubre, para mejorar la calidad de vida de\npersonas con Esclerosis Lateral Amiotrófica y otras enfermedades o\nprocesos de alta complejidad y curso irreversible\".",
+        "officialTitle": "Proposición no de Ley relativa a financiar con máxima urgencia la\n\"Ley 3/2024, de 30 de octubre, para mejorar la calidad de vida de\npersonas con Esclerosis Lateral Amiotrófica y otras enfermedades o\nprocesos de alta complejidad y curso irreversible\".",
+        "type": "regular"
+      },
+      "dateStart": "2025-05-27T17:41:00+02:00",
+      "dateEnd": "2025-05-27T17:46:00+02:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_114/cortes/15_000400_114_0_26161_753991.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1553991I",
+        "duration": 300.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_114_0_26161_753991",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Marije Fullaondo la Cruz",
+          "lastname": "Fullaondo la Cruz",
+          "firstname": "Marije",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Euskal Herria Bildu"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 25
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 118
+      },
+      "agendaItem": {
+        "title": "Proposición no de Ley relativa a financiar con máxima urgencia la\n\"Ley 3/2024, de 30 de octubre, para mejorar la calidad de vida de\npersonas con Esclerosis Lateral Amiotrófica y otras enfermedades o\nprocesos de alta complejidad y curso irreversible\".",
+        "officialTitle": "Proposición no de Ley relativa a financiar con máxima urgencia la\n\"Ley 3/2024, de 30 de octubre, para mejorar la calidad de vida de\npersonas con Esclerosis Lateral Amiotrófica y otras enfermedades o\nprocesos de alta complejidad y curso irreversible\".",
+        "type": "regular"
+      },
+      "dateStart": "2025-05-27T17:46:00+02:00",
+      "dateEnd": "2025-05-27T17:52:00+02:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_114/cortes/15_000400_114_0_26161_753992.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1553992I",
+        "duration": 360.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_114_0_26161_753992",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Pilar Calvo Gómez",
+          "lastname": "Calvo Gómez",
+          "firstname": "Pilar",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Junts per Catalunya"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 26
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 118
+      },
+      "agendaItem": {
+        "title": "Proposición no de Ley relativa a financiar con máxima urgencia la\n\"Ley 3/2024, de 30 de octubre, para mejorar la calidad de vida de\npersonas con Esclerosis Lateral Amiotrófica y otras enfermedades o\nprocesos de alta complejidad y curso irreversible\".",
+        "officialTitle": "Proposición no de Ley relativa a financiar con máxima urgencia la\n\"Ley 3/2024, de 30 de octubre, para mejorar la calidad de vida de\npersonas con Esclerosis Lateral Amiotrófica y otras enfermedades o\nprocesos de alta complejidad y curso irreversible\".",
+        "type": "regular"
+      },
+      "dateStart": "2025-05-27T17:52:00+02:00",
+      "dateEnd": "2025-05-27T17:57:00+02:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_114/cortes/15_000400_114_0_26161_753993.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1553993I",
+        "duration": 300.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_114_0_26161_753993",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Jordi Salvador i Duch",
+          "lastname": "Salvador i Duch",
+          "firstname": "Jordi",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Republicano"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 27
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 118
+      },
+      "agendaItem": {
+        "title": "Proposición no de Ley relativa a financiar con máxima urgencia la\n\"Ley 3/2024, de 30 de octubre, para mejorar la calidad de vida de\npersonas con Esclerosis Lateral Amiotrófica y otras enfermedades o\nprocesos de alta complejidad y curso irreversible\".",
+        "officialTitle": "Proposición no de Ley relativa a financiar con máxima urgencia la\n\"Ley 3/2024, de 30 de octubre, para mejorar la calidad de vida de\npersonas con Esclerosis Lateral Amiotrófica y otras enfermedades o\nprocesos de alta complejidad y curso irreversible\".",
+        "type": "regular"
+      },
+      "dateStart": "2025-05-27T17:57:00+02:00",
+      "dateEnd": "2025-05-27T18:03:00+02:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_114/cortes/15_000400_114_0_26161_753994.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1553994I",
+        "duration": 360.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_114_0_26161_753994",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Rafael Cofiño Fernández",
+          "lastname": "Cofiño Fernández",
+          "firstname": "Rafael",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Plurinacional SUMAR"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 28
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 118
+      },
+      "agendaItem": {
+        "title": "Proposición no de Ley relativa a financiar con máxima urgencia la\n\"Ley 3/2024, de 30 de octubre, para mejorar la calidad de vida de\npersonas con Esclerosis Lateral Amiotrófica y otras enfermedades o\nprocesos de alta complejidad y curso irreversible\".",
+        "officialTitle": "Proposición no de Ley relativa a financiar con máxima urgencia la\n\"Ley 3/2024, de 30 de octubre, para mejorar la calidad de vida de\npersonas con Esclerosis Lateral Amiotrófica y otras enfermedades o\nprocesos de alta complejidad y curso irreversible\".",
+        "type": "regular"
+      },
+      "dateStart": "2025-05-27T18:03:00+02:00",
+      "dateEnd": "2025-05-27T18:10:00+02:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_114/cortes/15_000400_114_0_26161_753995.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1553995I",
+        "duration": 420.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_114_0_26161_753995",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "María de la Cabeza Ruiz Solás",
+          "lastname": "Ruiz Solás",
+          "firstname": "María de la Cabeza",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario VOX"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 29
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 118
+      },
+      "agendaItem": {
+        "title": "Proposición no de Ley relativa a financiar con máxima urgencia la\n\"Ley 3/2024, de 30 de octubre, para mejorar la calidad de vida de\npersonas con Esclerosis Lateral Amiotrófica y otras enfermedades o\nprocesos de alta complejidad y curso irreversible\".",
+        "officialTitle": "Proposición no de Ley relativa a financiar con máxima urgencia la\n\"Ley 3/2024, de 30 de octubre, para mejorar la calidad de vida de\npersonas con Esclerosis Lateral Amiotrófica y otras enfermedades o\nprocesos de alta complejidad y curso irreversible\".",
+        "type": "regular"
+      },
+      "dateStart": "2025-05-27T18:10:00+02:00",
+      "dateEnd": "2025-05-27T18:10:00+02:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_114/cortes/15_000400_114_0_26161_753998.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1553998I",
+        "duration": 0.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_114_0_26161_753998",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Ester Muñoz de la Iglesia",
+          "lastname": "Muñoz de la Iglesia",
+          "firstname": "Ester",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Popular en el Congreso"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 30
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 118
+      },
+      "agendaItem": {
+        "title": "Proposición no de Ley de reconocimiento del movimiento vecinal.",
+        "officialTitle": "Proposición no de Ley de reconocimiento del movimiento vecinal.",
+        "type": "regular"
+      },
+      "dateStart": "2025-05-27T18:10:00+02:00",
+      "dateEnd": "2025-05-27T18:18:00+02:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_114/cortes/15_000400_114_0_26161_753997.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1553997I",
+        "duration": 480.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_114_0_26161_753997",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Susana Ros Martínez",
+          "lastname": "Ros Martínez",
+          "firstname": "Susana",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Socialista"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 31
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 118
+      },
+      "agendaItem": {
+        "title": "Proposición no de Ley de reconocimiento del movimiento vecinal.",
+        "officialTitle": "Proposición no de Ley de reconocimiento del movimiento vecinal.",
+        "type": "regular"
+      },
+      "dateStart": "2025-05-27T18:18:00+02:00",
+      "dateEnd": "2025-05-27T18:22:00+02:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_114/cortes/15_000400_114_1_26163_754004.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1554004I",
+        "duration": 240.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_114_1_26163_754004",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Mikel Legarda Uriarte",
+          "lastname": "Legarda Uriarte",
+          "firstname": "Mikel",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Vasco (EAJ-PNV)"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 32
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 118
+      },
+      "agendaItem": {
+        "title": "Proposición no de Ley de reconocimiento del movimiento vecinal.",
+        "officialTitle": "Proposición no de Ley de reconocimiento del movimiento vecinal.",
+        "type": "regular"
+      },
+      "dateStart": "2025-05-27T18:22:00+02:00",
+      "dateEnd": "2025-05-27T18:28:00+02:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_114/cortes/15_000400_114_1_26163_754005.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1554005I",
+        "duration": 360.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_114_1_26163_754005",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Isidre Gavin i Valls",
+          "lastname": "Gavin i Valls",
+          "firstname": "Isidre",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Junts per Catalunya"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 33
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 118
+      },
+      "agendaItem": {
+        "title": "Proposición no de Ley de reconocimiento del movimiento vecinal.",
+        "officialTitle": "Proposición no de Ley de reconocimiento del movimiento vecinal.",
+        "type": "regular"
+      },
+      "dateStart": "2025-05-27T18:28:00+02:00",
+      "dateEnd": "2025-05-27T18:34:00+02:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_114/cortes/15_000400_114_1_26163_754006.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1554006I",
+        "duration": 360.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_114_1_26163_754006",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Lander Martínez Hierro",
+          "lastname": "Martínez Hierro",
+          "firstname": "Lander",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Plurinacional SUMAR"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 34
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 118
+      },
+      "agendaItem": {
+        "title": "Proposición no de Ley de reconocimiento del movimiento vecinal.",
+        "officialTitle": "Proposición no de Ley de reconocimiento del movimiento vecinal.",
+        "type": "regular"
+      },
+      "dateStart": "2025-05-27T18:34:00+02:00",
+      "dateEnd": "2025-05-27T18:40:00+02:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_114/cortes/15_000400_114_1_26163_754007.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1554007I",
+        "duration": 360.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_114_1_26163_754007",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Martina Velarde Gómez",
+          "lastname": "Velarde Gómez",
+          "firstname": "Martina",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Mixto"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 35
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 118
+      },
+      "agendaItem": {
+        "title": "Proposición no de Ley de reconocimiento del movimiento vecinal.",
+        "officialTitle": "Proposición no de Ley de reconocimiento del movimiento vecinal.",
+        "type": "regular"
+      },
+      "dateStart": "2025-05-27T18:40:00+02:00",
+      "dateEnd": "2025-05-27T18:46:00+02:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_114/cortes/15_000400_114_1_26163_754008.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1554008I",
+        "duration": 360.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_114_1_26163_754008",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Oskar Matute García de Jalón",
+          "lastname": "Matute García de Jalón",
+          "firstname": "Oskar",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Euskal Herria Bildu"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 36
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 118
+      },
+      "agendaItem": {
+        "title": "Proposición no de Ley de reconocimiento del movimiento vecinal.",
+        "officialTitle": "Proposición no de Ley de reconocimiento del movimiento vecinal.",
+        "type": "regular"
+      },
+      "dateStart": "2025-05-27T18:46:00+02:00",
+      "dateEnd": "2025-05-27T18:51:00+02:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_114/cortes/15_000400_114_1_26163_754009.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1554009I",
+        "duration": 300.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_114_1_26163_754009",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Jordi Salvador i Duch",
+          "lastname": "Salvador i Duch",
+          "firstname": "Jordi",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Republicano"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 37
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 118
+      },
+      "agendaItem": {
+        "title": "Proposición no de Ley de reconocimiento del movimiento vecinal.",
+        "officialTitle": "Proposición no de Ley de reconocimiento del movimiento vecinal.",
+        "type": "regular"
+      },
+      "dateStart": "2025-05-27T18:51:00+02:00",
+      "dateEnd": "2025-05-27T18:58:00+02:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_114/cortes/15_000400_114_1_26163_754010.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1554010I",
+        "duration": 420.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_114_1_26163_754010",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Carlos Hernández Quero",
+          "lastname": "Hernández Quero",
+          "firstname": "Carlos",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario VOX"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 38
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 118
+      },
+      "agendaItem": {
+        "title": "Proposición no de Ley de reconocimiento del movimiento vecinal.",
+        "officialTitle": "Proposición no de Ley de reconocimiento del movimiento vecinal.",
+        "type": "regular"
+      },
+      "dateStart": "2025-05-27T18:58:00+02:00",
+      "dateEnd": "2025-05-27T19:04:00+02:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_114/cortes/15_000400_114_1_26163_754011.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1554011I",
+        "duration": 360.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_114_1_26163_754011",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Fernando De Rosa Torner",
+          "lastname": "De Rosa Torner",
+          "firstname": "Fernando",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Popular en el Congreso"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 39
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 118
+      },
+      "agendaItem": {
+        "title": "Moción consecuencia de interpelación urgente sobre las medidas que\npretende adoptar el Gobierno para garantizar el funcionamiento de la red\nferroviaria.",
+        "officialTitle": "Moción consecuencia de interpelación urgente sobre las medidas que\npretende adoptar el Gobierno para garantizar el funcionamiento de la red\nferroviaria.",
+        "type": "regular",
+        "nativeType": "ES-mocion"
+      },
+      "dateStart": "2025-05-27T19:04:00+02:00",
+      "dateEnd": "2025-05-27T19:13:00+02:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_114/cortes/15_000400_114_1_26163_754014.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1554014I",
+        "duration": 540.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_114_1_26163_754014",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Patricia Rueda Perelló",
+          "lastname": "Rueda Perelló",
+          "firstname": "Patricia",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario VOX"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 40
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 118
+      },
+      "agendaItem": {
+        "title": "Moción consecuencia de interpelación urgente sobre las medidas que\npretende adoptar el Gobierno para garantizar el funcionamiento de la red\nferroviaria.",
+        "officialTitle": "Moción consecuencia de interpelación urgente sobre las medidas que\npretende adoptar el Gobierno para garantizar el funcionamiento de la red\nferroviaria.",
+        "type": "regular",
+        "nativeType": "ES-mocion"
+      },
+      "dateStart": "2025-05-27T19:13:00+02:00",
+      "dateEnd": "2025-05-27T19:19:00+02:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_114/cortes/15_000400_114_1_26163_754015.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1554015I",
+        "duration": 360.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_114_1_26163_754015",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Jorge Pueyo Sanz",
+          "lastname": "Pueyo Sanz",
+          "firstname": "Jorge",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Plurinacional SUMAR"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 41
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 118
+      },
+      "agendaItem": {
+        "title": "Moción consecuencia de interpelación urgente sobre las medidas que\npretende adoptar el Gobierno para garantizar el funcionamiento de la red\nferroviaria.",
+        "officialTitle": "Moción consecuencia de interpelación urgente sobre las medidas que\npretende adoptar el Gobierno para garantizar el funcionamiento de la red\nferroviaria.",
+        "type": "regular",
+        "nativeType": "ES-mocion"
+      },
+      "dateStart": "2025-05-27T19:19:00+02:00",
+      "dateEnd": "2025-05-27T19:26:00+02:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_114/cortes/15_000400_114_1_26163_754016.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1554016I",
+        "duration": 420.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_114_1_26163_754016",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Ferran Verdejo Vicente",
+          "lastname": "Verdejo Vicente",
+          "firstname": "Ferran",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Socialista"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 42
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 118
+      },
+      "agendaItem": {
+        "title": "Moción consecuencia de interpelación urgente sobre las medidas que\npretende adoptar el Gobierno para garantizar el funcionamiento de la red\nferroviaria.",
+        "officialTitle": "Moción consecuencia de interpelación urgente sobre las medidas que\npretende adoptar el Gobierno para garantizar el funcionamiento de la red\nferroviaria.",
+        "type": "regular",
+        "nativeType": "ES-mocion"
+      },
+      "dateStart": "2025-05-27T19:26:00+02:00",
+      "dateEnd": "2025-05-27T19:33:00+02:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_114/cortes/15_000400_114_1_26163_754017.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1554017I",
+        "duration": 420.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_114_1_26163_754017",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Javier Merino Martínez",
+          "lastname": "Merino Martínez",
+          "firstname": "Javier",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Popular en el Congreso"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 43
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 118
+      },
+      "agendaItem": {
+        "title": "Moción consecuencia de interpelación urgente sobre las medidas que va\na adoptar el Gobierno para terminar con la precariedad residencial y\ngarantizar un hogar digno a los españoles.",
+        "officialTitle": "Moción consecuencia de interpelación urgente sobre las medidas que va\na adoptar el Gobierno para terminar con la precariedad residencial y\ngarantizar un hogar digno a los españoles.",
+        "type": "regular",
+        "nativeType": "ES-mocion"
+      },
+      "dateStart": "2025-05-27T19:33:00+02:00",
+      "dateEnd": "2025-05-27T19:42:00+02:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_114/cortes/15_000400_114_1_26163_754019.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1554019I",
+        "duration": 540.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_114_1_26163_754019",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Ignacio Hoces Íñiguez",
+          "lastname": "Hoces Íñiguez",
+          "firstname": "Ignacio",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario VOX"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 44
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 118
+      },
+      "agendaItem": {
+        "title": "Moción consecuencia de interpelación urgente sobre las medidas que va\na adoptar el Gobierno para terminar con la precariedad residencial y\ngarantizar un hogar digno a los españoles.",
+        "officialTitle": "Moción consecuencia de interpelación urgente sobre las medidas que va\na adoptar el Gobierno para terminar con la precariedad residencial y\ngarantizar un hogar digno a los españoles.",
+        "type": "regular",
+        "nativeType": "ES-mocion"
+      },
+      "dateStart": "2025-05-27T19:42:00+02:00",
+      "dateEnd": "2025-05-27T19:47:00+02:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_114/cortes/15_000400_114_1_26163_754020.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1554020I",
+        "duration": 300.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_114_1_26163_754020",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Noemí Santana Perera",
+          "lastname": "Santana Perera",
+          "firstname": "Noemí",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Mixto"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 45
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 118
+      },
+      "agendaItem": {
+        "title": "Moción consecuencia de interpelación urgente sobre las medidas que va\na adoptar el Gobierno para terminar con la precariedad residencial y\ngarantizar un hogar digno a los españoles.",
+        "officialTitle": "Moción consecuencia de interpelación urgente sobre las medidas que va\na adoptar el Gobierno para terminar con la precariedad residencial y\ngarantizar un hogar digno a los españoles.",
+        "type": "regular",
+        "nativeType": "ES-mocion"
+      },
+      "dateStart": "2025-05-27T19:47:00+02:00",
+      "dateEnd": "2025-05-27T19:55:00+02:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_114/cortes/15_000400_114_1_26163_754021.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1554021I",
+        "duration": 480.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_114_1_26163_754021",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Alberto Ibáñez Mezquita",
+          "lastname": "Ibáñez Mezquita",
+          "firstname": "Alberto",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Plurinacional SUMAR"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 46
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 118
+      },
+      "agendaItem": {
+        "title": "Moción consecuencia de interpelación urgente sobre las medidas que va\na adoptar el Gobierno para terminar con la precariedad residencial y\ngarantizar un hogar digno a los españoles.",
+        "officialTitle": "Moción consecuencia de interpelación urgente sobre las medidas que va\na adoptar el Gobierno para terminar con la precariedad residencial y\ngarantizar un hogar digno a los españoles.",
+        "type": "regular",
+        "nativeType": "ES-mocion"
+      },
+      "dateStart": "2025-05-27T19:55:00+02:00",
+      "dateEnd": "2025-05-27T20:01:00+02:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_114/cortes/15_000400_114_1_26163_754022.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1554022I",
+        "duration": 360.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_114_1_26163_754022",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Milena Herrera García",
+          "lastname": "Herrera García",
+          "firstname": "Milena",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Socialista"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 47
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 118
+      },
+      "agendaItem": {
+        "title": "Moción consecuencia de interpelación urgente sobre las medidas que va\na adoptar el Gobierno para terminar con la precariedad residencial y\ngarantizar un hogar digno a los españoles.",
+        "officialTitle": "Moción consecuencia de interpelación urgente sobre las medidas que va\na adoptar el Gobierno para terminar con la precariedad residencial y\ngarantizar un hogar digno a los españoles.",
+        "type": "regular",
+        "nativeType": "ES-mocion"
+      },
+      "dateStart": "2025-05-27T20:01:00+02:00",
+      "dateEnd": "2025-05-27T20:08:00+02:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_114/cortes/15_000400_114_1_26163_754023.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1554023I",
+        "duration": 420.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_114_1_26163_754023",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Joan Mesquida Mayans",
+          "lastname": "Mesquida Mayans",
+          "firstname": "Joan",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Popular en el Congreso"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 48
+    }
+  ]
+}

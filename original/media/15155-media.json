@@ -1,0 +1,2725 @@
+{
+  "meta": {
+    "session": "15155",
+    "processing": {
+      "parse_media": "2026-05-23T07:17:41"
+    },
+    "dateStart": "2025-11-26T09:02:00+01:00",
+    "dateEnd": "2025-11-26T12:38:00+01:00"
+  },
+  "data": [
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 155
+      },
+      "agendaItem": {
+        "title": "¿Quién va a pedir perdón a los españoles?",
+        "officialTitle": "¿Quién va a pedir perdón a los españoles?",
+        "type": "qa",
+        "nativeType": "ES-pregunta"
+      },
+      "dateStart": "2025-11-26T09:02:00+01:00",
+      "dateEnd": "2025-11-26T09:03:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_150/cortes/15_000400_150_0_26765_764662.mp4\nhttps://www.congreso.es/audiovisual/video/leg15/400/15_000400_150/cortes/15_000400_150_0_26765_764664.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1564662I https://app.congreso.es/v1/15764664I",
+        "duration": 60.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_150_0_26765_764664",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Alberto Núñez Feijóo",
+          "lastname": "Núñez Feijóo",
+          "firstname": "Alberto",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Popular en el Congreso"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 1
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 155
+      },
+      "agendaItem": {
+        "title": "¿Quién va a pedir perdón a los españoles?",
+        "officialTitle": "¿Quién va a pedir perdón a los españoles?",
+        "type": "qa",
+        "nativeType": "ES-pregunta"
+      },
+      "dateStart": "2025-11-26T09:03:00+01:00",
+      "dateEnd": "2025-11-26T09:05:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_150/cortes/15_000400_150_0_26765_764663.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1564663I",
+        "duration": 120.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_150_0_26765_764663",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Pedro Sánchez Pérez-Castejón",
+          "lastname": "Sánchez Pérez-Castejón",
+          "firstname": "Pedro",
+          "type": "member of government",
+          "role": "Presidente del Gobierno",
+          "faction": {
+            "label": "Grupo Parlamentario Socialista"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 2
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 155
+      },
+      "agendaItem": {
+        "title": "¿Quién va a pedir perdón a los españoles?",
+        "officialTitle": "¿Quién va a pedir perdón a los españoles?",
+        "type": "qa",
+        "nativeType": "ES-pregunta"
+      },
+      "dateStart": "2025-11-26T09:08:00+01:00",
+      "dateEnd": "2025-11-26T09:09:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_150/cortes/15_000400_150_0_26765_764665.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1564665I",
+        "duration": 60.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_150_0_26765_764665",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Pedro Sánchez Pérez-Castejón",
+          "lastname": "Sánchez Pérez-Castejón",
+          "firstname": "Pedro",
+          "type": "member of government",
+          "role": "Presidente del Gobierno",
+          "faction": {
+            "label": "Grupo Parlamentario Socialista"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 3
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 155
+      },
+      "agendaItem": {
+        "title": "¿Cuándo va a desclasificar el Gobierno los documentos del caso de\nMikel Zabalza?",
+        "officialTitle": "¿Cuándo va a desclasificar el Gobierno los documentos del caso de\nMikel Zabalza?",
+        "type": "qa",
+        "nativeType": "ES-pregunta"
+      },
+      "dateStart": "2025-11-26T09:09:00+01:00",
+      "dateEnd": "2025-11-26T09:10:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_150/cortes/15_000400_150_0_26765_764667.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1564667I",
+        "duration": 60.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_150_0_26765_764667",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Maribel Vaquero Montero",
+          "lastname": "Vaquero Montero",
+          "firstname": "Maribel",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Vasco (EAJ-PNV)"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 4
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 155
+      },
+      "agendaItem": {
+        "title": "¿Cuándo va a desclasificar el Gobierno los documentos del caso de\nMikel Zabalza?",
+        "officialTitle": "¿Cuándo va a desclasificar el Gobierno los documentos del caso de\nMikel Zabalza?",
+        "type": "qa",
+        "nativeType": "ES-pregunta"
+      },
+      "dateStart": "2025-11-26T09:10:00+01:00",
+      "dateEnd": "2025-11-26T09:12:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_150/cortes/15_000400_150_0_26765_764668.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1564668I",
+        "duration": 120.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_150_0_26765_764668",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Pedro Sánchez Pérez-Castejón",
+          "lastname": "Sánchez Pérez-Castejón",
+          "firstname": "Pedro",
+          "type": "member of government",
+          "role": "Presidente del Gobierno",
+          "faction": {
+            "label": "Grupo Parlamentario Socialista"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 5
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 155
+      },
+      "agendaItem": {
+        "title": "¿Cuándo va a desclasificar el Gobierno los documentos del caso de\nMikel Zabalza?",
+        "officialTitle": "¿Cuándo va a desclasificar el Gobierno los documentos del caso de\nMikel Zabalza?",
+        "type": "qa",
+        "nativeType": "ES-pregunta"
+      },
+      "dateStart": "2025-11-26T09:12:00+01:00",
+      "dateEnd": "2025-11-26T09:13:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_150/cortes/15_000400_150_0_26765_764669.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1564669I",
+        "duration": 60.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_150_0_26765_764669",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Maribel Vaquero Montero",
+          "lastname": "Vaquero Montero",
+          "firstname": "Maribel",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Vasco (EAJ-PNV)"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 6
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 155
+      },
+      "agendaItem": {
+        "title": "¿Cuándo va a desclasificar el Gobierno los documentos del caso de\nMikel Zabalza?",
+        "officialTitle": "¿Cuándo va a desclasificar el Gobierno los documentos del caso de\nMikel Zabalza?",
+        "type": "qa",
+        "nativeType": "ES-pregunta"
+      },
+      "dateStart": "2025-11-26T09:13:00+01:00",
+      "dateEnd": "2025-11-26T09:14:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_150/cortes/15_000400_150_0_26765_764670.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1564670I",
+        "duration": 60.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_150_0_26765_764670",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Pedro Sánchez Pérez-Castejón",
+          "lastname": "Sánchez Pérez-Castejón",
+          "firstname": "Pedro",
+          "type": "member of government",
+          "role": "Presidente del Gobierno",
+          "faction": {
+            "label": "Grupo Parlamentario Socialista"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 7
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 155
+      },
+      "agendaItem": {
+        "title": "¿Por qué cree que los distintos Gobiernos de España cuando legislan y\npresupuestan, olvidan sistemáticamente el derecho de Canarias a un trato\nsingular y diferenciado como recoge su Estatuto de Autonomía, su régimen\neconómico y fiscal y su condición de Región Ultraperiférica?",
+        "officialTitle": "¿Por qué cree que los distintos Gobiernos de España cuando legislan y\npresupuestan, olvidan sistemáticamente el derecho de Canarias a un trato\nsingular y diferenciado como recoge su Estatuto de Autonomía, su régimen\neconómico y fiscal y su condición de Región Ultraperiférica?",
+        "type": "qa",
+        "nativeType": "ES-pregunta"
+      },
+      "dateStart": "2025-11-26T09:14:00+01:00",
+      "dateEnd": "2025-11-26T09:14:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_150/cortes/15_000400_150_0_26765_764672.mp4\nhttps://www.congreso.es/audiovisual/video/leg15/400/15_000400_150/cortes/15_000400_150_0_26765_764674.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1564672I https://app.congreso.es/v1/15764674I",
+        "duration": 0.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_150_0_26765_764674",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Cristina Valido García",
+          "lastname": "Valido García",
+          "firstname": "Cristina",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Mixto"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 8
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 155
+      },
+      "agendaItem": {
+        "title": "¿Por qué cree que los distintos Gobiernos de España cuando legislan y\npresupuestan, olvidan sistemáticamente el derecho de Canarias a un trato\nsingular y diferenciado como recoge su Estatuto de Autonomía, su régimen\neconómico y fiscal y su condición de Región Ultraperiférica?",
+        "officialTitle": "¿Por qué cree que los distintos Gobiernos de España cuando legislan y\npresupuestan, olvidan sistemáticamente el derecho de Canarias a un trato\nsingular y diferenciado como recoge su Estatuto de Autonomía, su régimen\neconómico y fiscal y su condición de Región Ultraperiférica?",
+        "type": "qa",
+        "nativeType": "ES-pregunta"
+      },
+      "dateStart": "2025-11-26T09:14:00+01:00",
+      "dateEnd": "2025-11-26T09:16:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_150/cortes/15_000400_150_0_26765_764673.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1564673I",
+        "duration": 120.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_150_0_26765_764673",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Pedro Sánchez Pérez-Castejón",
+          "lastname": "Sánchez Pérez-Castejón",
+          "firstname": "Pedro",
+          "type": "member of government",
+          "role": "Presidente del Gobierno",
+          "faction": {
+            "label": "Grupo Parlamentario Socialista"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 9
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 155
+      },
+      "agendaItem": {
+        "title": "¿Por qué cree que los distintos Gobiernos de España cuando legislan y\npresupuestan, olvidan sistemáticamente el derecho de Canarias a un trato\nsingular y diferenciado como recoge su Estatuto de Autonomía, su régimen\neconómico y fiscal y su condición de Región Ultraperiférica?",
+        "officialTitle": "¿Por qué cree que los distintos Gobiernos de España cuando legislan y\npresupuestan, olvidan sistemáticamente el derecho de Canarias a un trato\nsingular y diferenciado como recoge su Estatuto de Autonomía, su régimen\neconómico y fiscal y su condición de Región Ultraperiférica?",
+        "type": "qa",
+        "nativeType": "ES-pregunta"
+      },
+      "dateStart": "2025-11-26T09:19:00+01:00",
+      "dateEnd": "2025-11-26T09:19:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_150/cortes/15_000400_150_0_26765_764675.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1564675I",
+        "duration": 0.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_150_0_26765_764675",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Pedro Sánchez Pérez-Castejón",
+          "lastname": "Sánchez Pérez-Castejón",
+          "firstname": "Pedro",
+          "type": "member of government",
+          "role": "Presidente del Gobierno",
+          "faction": {
+            "label": "Grupo Parlamentario Socialista"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 10
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 155
+      },
+      "agendaItem": {
+        "title": "¿Hasta cuándo van a seguir degradando la imagen de España?",
+        "officialTitle": "¿Hasta cuándo van a seguir degradando la imagen de España?",
+        "type": "qa",
+        "nativeType": "ES-pregunta"
+      },
+      "dateStart": "2025-11-26T09:19:00+01:00",
+      "dateEnd": "2025-11-26T09:21:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_150/cortes/15_000400_150_0_26765_764677.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1564677I",
+        "duration": 120.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_150_0_26765_764677",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Ester Muñoz de la Iglesia",
+          "lastname": "Muñoz de la Iglesia",
+          "firstname": "Ester",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Popular en el Congreso"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 11
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 155
+      },
+      "agendaItem": {
+        "title": "¿Hasta cuándo van a seguir degradando la imagen de España?",
+        "officialTitle": "¿Hasta cuándo van a seguir degradando la imagen de España?",
+        "type": "qa",
+        "nativeType": "ES-pregunta"
+      },
+      "dateStart": "2025-11-26T09:21:00+01:00",
+      "dateEnd": "2025-11-26T09:23:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_150/cortes/15_000400_150_0_26765_764678.mp4\nhttps://www.congreso.es/audiovisual/video/leg15/400/15_000400_150/cortes/15_000400_150_0_26765_764680.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1564678I https://app.congreso.es/v1/15764680I",
+        "duration": 120.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_150_0_26765_764680",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "María Jesús Montero Cuadrado",
+          "lastname": "Montero Cuadrado",
+          "firstname": "María Jesús",
+          "type": "member of government",
+          "role": "Vicepresidenta Primera del Gobierno y Ministra de Hacienda",
+          "faction": {
+            "label": "Grupo Parlamentario Socialista"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 12
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 155
+      },
+      "agendaItem": {
+        "title": "¿Hasta cuándo van a seguir degradando la imagen de España?",
+        "officialTitle": "¿Hasta cuándo van a seguir degradando la imagen de España?",
+        "type": "qa",
+        "nativeType": "ES-pregunta"
+      },
+      "dateStart": "2025-11-26T09:23:00+01:00",
+      "dateEnd": "2025-11-26T09:24:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_150/cortes/15_000400_150_0_26765_764679.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1564679I",
+        "duration": 60.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_150_0_26765_764679",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Ester Muñoz de la Iglesia",
+          "lastname": "Muñoz de la Iglesia",
+          "firstname": "Ester",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Popular en el Congreso"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 13
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 155
+      },
+      "agendaItem": {
+        "title": "¿Cree que está cumpliendo los compromisos que adquirió en el\nMinisterio?",
+        "officialTitle": "¿Cree que está cumpliendo los compromisos que adquirió en el\nMinisterio?",
+        "type": "qa",
+        "nativeType": "ES-pregunta"
+      },
+      "dateStart": "2025-11-26T09:26:00+01:00",
+      "dateEnd": "2025-11-26T09:27:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_150/cortes/15_000400_150_0_26765_764682.mp4\nhttps://www.congreso.es/audiovisual/video/leg15/400/15_000400_150/cortes/15_000400_150_0_26765_764684.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1564682I https://app.congreso.es/v1/15764684I",
+        "duration": 60.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_150_0_26765_764684",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Elías Bendodo Benasayag",
+          "lastname": "Bendodo Benasayag",
+          "firstname": "Elías",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Popular en el Congreso"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 14
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 155
+      },
+      "agendaItem": {
+        "title": "¿Cree que está cumpliendo los compromisos que adquirió en el\nMinisterio?",
+        "officialTitle": "¿Cree que está cumpliendo los compromisos que adquirió en el\nMinisterio?",
+        "type": "qa",
+        "nativeType": "ES-pregunta"
+      },
+      "dateStart": "2025-11-26T09:27:00+01:00",
+      "dateEnd": "2025-11-26T09:28:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_150/cortes/15_000400_150_0_26765_764683.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1564683I",
+        "duration": 60.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_150_0_26765_764683",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "María Jesús Montero Cuadrado",
+          "lastname": "Montero Cuadrado",
+          "firstname": "María Jesús",
+          "type": "member of government",
+          "role": "Vicepresidenta Primera del Gobierno y Ministra de Hacienda",
+          "faction": {
+            "label": "Grupo Parlamentario Socialista"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 15
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 155
+      },
+      "agendaItem": {
+        "title": "¿Cree que está cumpliendo los compromisos que adquirió en el\nMinisterio?",
+        "officialTitle": "¿Cree que está cumpliendo los compromisos que adquirió en el\nMinisterio?",
+        "type": "qa",
+        "nativeType": "ES-pregunta"
+      },
+      "dateStart": "2025-11-26T09:29:00+01:00",
+      "dateEnd": "2025-11-26T09:32:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_150/cortes/15_000400_150_0_26765_764685.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1564685I",
+        "duration": 180.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_150_0_26765_764685",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "María Jesús Montero Cuadrado",
+          "lastname": "Montero Cuadrado",
+          "firstname": "María Jesús",
+          "type": "member of government",
+          "role": "Vicepresidenta Primera del Gobierno y Ministra de Hacienda",
+          "faction": {
+            "label": "Grupo Parlamentario Socialista"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 16
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 155
+      },
+      "agendaItem": {
+        "title": "¿Distingue el Gobierno la presión fiscal del esfuerzo fiscal?",
+        "officialTitle": "¿Distingue el Gobierno la presión fiscal del esfuerzo fiscal?",
+        "type": "qa",
+        "nativeType": "ES-pregunta"
+      },
+      "dateStart": "2025-11-26T09:32:00+01:00",
+      "dateEnd": "2025-11-26T09:34:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_150/cortes/15_000400_150_0_26765_764687.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1564687I",
+        "duration": 120.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_150_0_26765_764687",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "José María Figaredo Álvarez-Sala",
+          "lastname": "Figaredo Álvarez-Sala",
+          "firstname": "José María",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario VOX"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 17
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 155
+      },
+      "agendaItem": {
+        "title": "¿Distingue el Gobierno la presión fiscal del esfuerzo fiscal?",
+        "officialTitle": "¿Distingue el Gobierno la presión fiscal del esfuerzo fiscal?",
+        "type": "qa",
+        "nativeType": "ES-pregunta"
+      },
+      "dateStart": "2025-11-26T09:34:00+01:00",
+      "dateEnd": "2025-11-26T09:35:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_150/cortes/15_000400_150_0_26765_764688.mp4\nhttps://www.congreso.es/audiovisual/video/leg15/400/15_000400_150/cortes/15_000400_150_0_26765_764690.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1564688I https://app.congreso.es/v1/15764690I",
+        "duration": 60.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_150_0_26765_764690",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "María Jesús Montero Cuadrado",
+          "lastname": "Montero Cuadrado",
+          "firstname": "María Jesús",
+          "type": "member of government",
+          "role": "Vicepresidenta Primera del Gobierno y Ministra de Hacienda",
+          "faction": {
+            "label": "Grupo Parlamentario Socialista"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 18
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 155
+      },
+      "agendaItem": {
+        "title": "¿Distingue el Gobierno la presión fiscal del esfuerzo fiscal?",
+        "officialTitle": "¿Distingue el Gobierno la presión fiscal del esfuerzo fiscal?",
+        "type": "qa",
+        "nativeType": "ES-pregunta"
+      },
+      "dateStart": "2025-11-26T09:35:00+01:00",
+      "dateEnd": "2025-11-26T09:36:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_150/cortes/15_000400_150_0_26765_764689.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1564689I",
+        "duration": 60.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_150_0_26765_764689",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "José María Figaredo Álvarez-Sala",
+          "lastname": "Figaredo Álvarez-Sala",
+          "firstname": "José María",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario VOX"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 19
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 155
+      },
+      "agendaItem": {
+        "title": "¿Cómo valora el acompañamiento que hace su Gobierno a las empresas\ncatalanas?",
+        "officialTitle": "¿Cómo valora el acompañamiento que hace su Gobierno a las empresas\ncatalanas?",
+        "type": "qa",
+        "nativeType": "ES-pregunta"
+      },
+      "dateStart": "2025-11-26T09:38:00+01:00",
+      "dateEnd": "2025-11-26T09:39:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_150/cortes/15_000400_150_0_26765_764692.mp4\nhttps://www.congreso.es/audiovisual/video/leg15/400/15_000400_150/cortes/15_000400_150_0_26765_764694.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1564692I https://app.congreso.es/v1/15764694I",
+        "duration": 60.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_150_0_26765_764694",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Josep Maria Cervera Pinart",
+          "lastname": "Cervera Pinart",
+          "firstname": "Josep Maria",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Junts per Catalunya"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 20
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 155
+      },
+      "agendaItem": {
+        "title": "¿Cómo valora el acompañamiento que hace su Gobierno a las empresas\ncatalanas?",
+        "officialTitle": "¿Cómo valora el acompañamiento que hace su Gobierno a las empresas\ncatalanas?",
+        "type": "qa",
+        "nativeType": "ES-pregunta"
+      },
+      "dateStart": "2025-11-26T09:39:00+01:00",
+      "dateEnd": "2025-11-26T09:39:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_150/cortes/15_000400_150_0_26765_764693.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1564693I",
+        "duration": 0.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_150_0_26765_764693",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Yolanda Díaz Pérez",
+          "lastname": "Díaz Pérez",
+          "firstname": "Yolanda",
+          "type": "member of government",
+          "role": "Vicepresidenta Segunda y Ministra de Trabajo y Economía Social",
+          "faction": {
+            "label": "Grupo Parlamentario Plurinacional SUMAR"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 21
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 155
+      },
+      "agendaItem": {
+        "title": "¿Cómo valora el acompañamiento que hace su Gobierno a las empresas\ncatalanas?",
+        "officialTitle": "¿Cómo valora el acompañamiento que hace su Gobierno a las empresas\ncatalanas?",
+        "type": "qa",
+        "nativeType": "ES-pregunta"
+      },
+      "dateStart": "2025-11-26T09:41:00+01:00",
+      "dateEnd": "2025-11-26T09:43:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_150/cortes/15_000400_150_0_26765_764695.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1564695I",
+        "duration": 120.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_150_0_26765_764695",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Yolanda Díaz Pérez",
+          "lastname": "Díaz Pérez",
+          "firstname": "Yolanda",
+          "type": "member of government",
+          "role": "Vicepresidenta Segunda y Ministra de Trabajo y Economía Social",
+          "faction": {
+            "label": "Grupo Parlamentario Plurinacional SUMAR"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 22
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 155
+      },
+      "agendaItem": {
+        "title": "¿Está funcionando la política energética de este Gobierno?",
+        "officialTitle": "¿Está funcionando la política energética de este Gobierno?",
+        "type": "qa",
+        "nativeType": "ES-pregunta"
+      },
+      "dateStart": "2025-11-26T09:43:00+01:00",
+      "dateEnd": "2025-11-26T09:44:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_150/cortes/15_000400_150_0_26765_764697.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1564697I",
+        "duration": 60.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_150_0_26765_764697",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Guillermo Mariscal Anaya",
+          "lastname": "Mariscal Anaya",
+          "firstname": "Guillermo",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Popular en el Congreso"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 23
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 155
+      },
+      "agendaItem": {
+        "title": "¿Está funcionando la política energética de este Gobierno?",
+        "officialTitle": "¿Está funcionando la política energética de este Gobierno?",
+        "type": "qa",
+        "nativeType": "ES-pregunta"
+      },
+      "dateStart": "2025-11-26T09:44:00+01:00",
+      "dateEnd": "2025-11-26T09:45:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_150/cortes/15_000400_150_0_26765_764698.mp4\nhttps://www.congreso.es/audiovisual/video/leg15/400/15_000400_150/cortes/15_000400_150_0_26765_764700.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1564698I https://app.congreso.es/v1/15764700I",
+        "duration": 60.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_150_0_26765_764700",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Sara Aagesen Muñoz",
+          "lastname": "Aagesen Muñoz",
+          "firstname": "Sara",
+          "type": "member of government",
+          "role": "Vicepresidenta Tercera y Ministra para la Transición Ecológica y el\nReto Demográfico"
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 24
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 155
+      },
+      "agendaItem": {
+        "title": "¿Está funcionando la política energética de este Gobierno?",
+        "officialTitle": "¿Está funcionando la política energética de este Gobierno?",
+        "type": "qa",
+        "nativeType": "ES-pregunta"
+      },
+      "dateStart": "2025-11-26T09:45:00+01:00",
+      "dateEnd": "2025-11-26T09:47:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_150/cortes/15_000400_150_0_26765_764699.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1564699I",
+        "duration": 120.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_150_0_26765_764699",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Guillermo Mariscal Anaya",
+          "lastname": "Mariscal Anaya",
+          "firstname": "Guillermo",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Popular en el Congreso"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 25
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 155
+      },
+      "agendaItem": {
+        "title": "¿Cree que la \"verdad se ha abierto paso\"?",
+        "officialTitle": "¿Cree que la \"verdad se ha abierto paso\"?",
+        "type": "qa",
+        "nativeType": "ES-pregunta"
+      },
+      "dateStart": "2025-11-26T09:49:00+01:00",
+      "dateEnd": "2025-11-26T09:50:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_150/cortes/15_000400_150_0_26765_764702.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1564702I",
+        "duration": 60.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_150_0_26765_764702",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Miguel Tellado Filgueira",
+          "lastname": "Tellado Filgueira",
+          "firstname": "Miguel",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Popular en el Congreso"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 26
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 155
+      },
+      "agendaItem": {
+        "title": "¿Cree que la \"verdad se ha abierto paso\"?",
+        "officialTitle": "¿Cree que la \"verdad se ha abierto paso\"?",
+        "type": "qa",
+        "nativeType": "ES-pregunta"
+      },
+      "dateStart": "2025-11-26T09:50:00+01:00",
+      "dateEnd": "2025-11-26T09:52:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_150/cortes/15_000400_150_0_26765_764703.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1564703I",
+        "duration": 120.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_150_0_26765_764703",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Félix Bolaños García",
+          "lastname": "Bolaños García",
+          "firstname": "Félix",
+          "type": "member of government",
+          "role": "Ministro de la Presidencia, Justicia y Relaciones con las Cortes",
+          "faction": {
+            "label": "Grupo Parlamentario Socialista"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 27
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 155
+      },
+      "agendaItem": {
+        "title": "¿Cree que la \"verdad se ha abierto paso\"?",
+        "officialTitle": "¿Cree que la \"verdad se ha abierto paso\"?",
+        "type": "qa",
+        "nativeType": "ES-pregunta"
+      },
+      "dateStart": "2025-11-26T09:52:00+01:00",
+      "dateEnd": "2025-11-26T09:54:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_150/cortes/15_000400_150_0_26765_764704.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1564704I",
+        "duration": 120.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_150_0_26765_764704",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Miguel Tellado Filgueira",
+          "lastname": "Tellado Filgueira",
+          "firstname": "Miguel",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Popular en el Congreso"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 28
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 155
+      },
+      "agendaItem": {
+        "title": "¿Cree que la \"verdad se ha abierto paso\"?",
+        "officialTitle": "¿Cree que la \"verdad se ha abierto paso\"?",
+        "type": "qa",
+        "nativeType": "ES-pregunta"
+      },
+      "dateStart": "2025-11-26T09:54:00+01:00",
+      "dateEnd": "2025-11-26T09:55:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_150/cortes/15_000400_150_0_26765_764705.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1564705I",
+        "duration": 60.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_150_0_26765_764705",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Félix Bolaños García",
+          "lastname": "Bolaños García",
+          "firstname": "Félix",
+          "type": "member of government",
+          "role": "Ministro de la Presidencia, Justicia y Relaciones con las Cortes",
+          "faction": {
+            "label": "Grupo Parlamentario Socialista"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 29
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 155
+      },
+      "agendaItem": {
+        "title": "¿Ha llegado el momento de que asuma su responsabilidad como Ministro\nde Justicia?",
+        "officialTitle": "¿Ha llegado el momento de que asuma su responsabilidad como Ministro\nde Justicia?",
+        "type": "qa",
+        "nativeType": "ES-pregunta"
+      },
+      "dateStart": "2025-11-26T09:55:00+01:00",
+      "dateEnd": "2025-11-26T09:57:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_150/cortes/15_000400_150_0_26765_764707.mp4\nhttps://www.congreso.es/audiovisual/video/leg15/400/15_000400_150/cortes/15_000400_150_0_26765_764709.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1564707I https://app.congreso.es/v1/15764709I",
+        "duration": 120.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_150_0_26765_764709",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Concepción Gamarra Ruiz-Clavijo",
+          "lastname": "Gamarra Ruiz-Clavijo",
+          "firstname": "Concepción",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Popular en el Congreso"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 30
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 155
+      },
+      "agendaItem": {
+        "title": "¿Ha llegado el momento de que asuma su responsabilidad como Ministro\nde Justicia?",
+        "officialTitle": "¿Ha llegado el momento de que asuma su responsabilidad como Ministro\nde Justicia?",
+        "type": "qa",
+        "nativeType": "ES-pregunta"
+      },
+      "dateStart": "2025-11-26T09:57:00+01:00",
+      "dateEnd": "2025-11-26T09:58:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_150/cortes/15_000400_150_0_26765_764708.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1564708I",
+        "duration": 60.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_150_0_26765_764708",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Félix Bolaños García",
+          "lastname": "Bolaños García",
+          "firstname": "Félix",
+          "type": "member of government",
+          "role": "Ministro de la Presidencia, Justicia y Relaciones con las Cortes",
+          "faction": {
+            "label": "Grupo Parlamentario Socialista"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 31
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 155
+      },
+      "agendaItem": {
+        "title": "¿Ha llegado el momento de que asuma su responsabilidad como Ministro\nde Justicia?",
+        "officialTitle": "¿Ha llegado el momento de que asuma su responsabilidad como Ministro\nde Justicia?",
+        "type": "qa",
+        "nativeType": "ES-pregunta"
+      },
+      "dateStart": "2025-11-26T10:00:00+01:00",
+      "dateEnd": "2025-11-26T10:01:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_150/cortes/15_000400_150_0_26765_764710.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1564710I",
+        "duration": 60.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_150_0_26765_764710",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Félix Bolaños García",
+          "lastname": "Bolaños García",
+          "firstname": "Félix",
+          "type": "member of government",
+          "role": "Ministro de la Presidencia, Justicia y Relaciones con las Cortes",
+          "faction": {
+            "label": "Grupo Parlamentario Socialista"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 32
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 155
+      },
+      "agendaItem": {
+        "title": "¿Va a pedir el Gobierno expresamente perdón a los españoles?",
+        "officialTitle": "¿Va a pedir el Gobierno expresamente perdón a los españoles?",
+        "type": "qa",
+        "nativeType": "ES-pregunta"
+      },
+      "dateStart": "2025-11-26T10:01:00+01:00",
+      "dateEnd": "2025-11-26T10:01:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_150/cortes/15_000400_150_0_26765_764712.mp4\nhttps://www.congreso.es/audiovisual/video/leg15/400/15_000400_150/cortes/15_000400_150_0_26765_764714.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1564712I https://app.congreso.es/v1/15764714I",
+        "duration": 0.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_150_0_26765_764714",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Ignacio Gil Lázaro",
+          "lastname": "Gil Lázaro",
+          "firstname": "Ignacio",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario VOX"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 33
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 155
+      },
+      "agendaItem": {
+        "title": "¿Va a pedir el Gobierno expresamente perdón a los españoles?",
+        "officialTitle": "¿Va a pedir el Gobierno expresamente perdón a los españoles?",
+        "type": "qa",
+        "nativeType": "ES-pregunta"
+      },
+      "dateStart": "2025-11-26T10:01:00+01:00",
+      "dateEnd": "2025-11-26T10:02:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_150/cortes/15_000400_150_0_26765_764713.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1564713I",
+        "duration": 60.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_150_0_26765_764713",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Félix Bolaños García",
+          "lastname": "Bolaños García",
+          "firstname": "Félix",
+          "type": "member of government",
+          "role": "Ministro de la Presidencia, Justicia y Relaciones con las Cortes",
+          "faction": {
+            "label": "Grupo Parlamentario Socialista"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 34
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 155
+      },
+      "agendaItem": {
+        "title": "¿Va a pedir el Gobierno expresamente perdón a los españoles?",
+        "officialTitle": "¿Va a pedir el Gobierno expresamente perdón a los españoles?",
+        "type": "qa",
+        "nativeType": "ES-pregunta"
+      },
+      "dateStart": "2025-11-26T10:05:00+01:00",
+      "dateEnd": "2025-11-26T10:07:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_150/cortes/15_000400_150_0_26765_764715.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1564715I",
+        "duration": 120.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_150_0_26765_764715",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Félix Bolaños García",
+          "lastname": "Bolaños García",
+          "firstname": "Félix",
+          "type": "member of government",
+          "role": "Ministro de la Presidencia, Justicia y Relaciones con las Cortes",
+          "faction": {
+            "label": "Grupo Parlamentario Socialista"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 35
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 155
+      },
+      "agendaItem": {
+        "title": "¿Qué pasos dará el Gobierno para esclarecer casos como el de Mikel\nZabalza del que se cumplen 40 años?",
+        "officialTitle": "¿Qué pasos dará el Gobierno para esclarecer casos como el de Mikel\nZabalza del que se cumplen 40 años?",
+        "type": "qa",
+        "nativeType": "ES-pregunta"
+      },
+      "dateStart": "2025-11-26T10:07:00+01:00",
+      "dateEnd": "2025-11-26T10:07:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_150/cortes/15_000400_150_0_26765_764717.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1564717I",
+        "duration": 0.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_150_0_26765_764717",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Jon Iñarritu García",
+          "lastname": "Iñarritu García",
+          "firstname": "Jon",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Euskal Herria Bildu"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 36
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 155
+      },
+      "agendaItem": {
+        "title": "¿Qué pasos dará el Gobierno para esclarecer casos como el de Mikel\nZabalza del que se cumplen 40 años?",
+        "officialTitle": "¿Qué pasos dará el Gobierno para esclarecer casos como el de Mikel\nZabalza del que se cumplen 40 años?",
+        "type": "qa",
+        "nativeType": "ES-pregunta"
+      },
+      "dateStart": "2025-11-26T10:07:00+01:00",
+      "dateEnd": "2025-11-26T10:08:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_150/cortes/15_000400_150_0_26765_764718.mp4\nhttps://www.congreso.es/audiovisual/video/leg15/400/15_000400_150/cortes/15_000400_150_0_26765_764720.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1564718I https://app.congreso.es/v1/15764720I",
+        "duration": 60.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_150_0_26765_764720",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Félix Bolaños García",
+          "lastname": "Bolaños García",
+          "firstname": "Félix",
+          "type": "member of government",
+          "role": "Ministro de la Presidencia, Justicia y Relaciones con las Cortes",
+          "faction": {
+            "label": "Grupo Parlamentario Socialista"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 37
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 155
+      },
+      "agendaItem": {
+        "title": "¿Qué pasos dará el Gobierno para esclarecer casos como el de Mikel\nZabalza del que se cumplen 40 años?",
+        "officialTitle": "¿Qué pasos dará el Gobierno para esclarecer casos como el de Mikel\nZabalza del que se cumplen 40 años?",
+        "type": "qa",
+        "nativeType": "ES-pregunta"
+      },
+      "dateStart": "2025-11-26T10:08:00+01:00",
+      "dateEnd": "2025-11-26T10:11:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_150/cortes/15_000400_150_0_26765_764719.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1564719I",
+        "duration": 180.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_150_0_26765_764719",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Jon Iñarritu García",
+          "lastname": "Iñarritu García",
+          "firstname": "Jon",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Euskal Herria Bildu"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 38
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 155
+      },
+      "agendaItem": {
+        "title": "¿Se considera usted feminista?",
+        "officialTitle": "¿Se considera usted feminista?",
+        "type": "qa",
+        "nativeType": "ES-pregunta"
+      },
+      "dateStart": "2025-11-26T10:13:00+01:00",
+      "dateEnd": "2025-11-26T10:13:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_150/cortes/15_000400_150_0_26765_764722.mp4\nhttps://www.congreso.es/audiovisual/video/leg15/400/15_000400_150/cortes/15_000400_150_0_26765_764724.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1564722I https://app.congreso.es/v1/15764724I",
+        "duration": 0.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_150_0_26765_764724",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Patricia Rodríguez Calleja",
+          "lastname": "Rodríguez Calleja",
+          "firstname": "Patricia",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Popular en el Congreso"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 39
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 155
+      },
+      "agendaItem": {
+        "title": "¿Se considera usted feminista?",
+        "officialTitle": "¿Se considera usted feminista?",
+        "type": "qa",
+        "nativeType": "ES-pregunta"
+      },
+      "dateStart": "2025-11-26T10:13:00+01:00",
+      "dateEnd": "2025-11-26T10:13:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_150/cortes/15_000400_150_0_26765_764723.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1564723I",
+        "duration": 0.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_150_0_26765_764723",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Pilar Alegría Continente",
+          "lastname": "Alegría Continente",
+          "firstname": "Pilar",
+          "type": "member of government",
+          "role": "Ministra de Educación, Formación Profesional y Deportes"
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 40
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 155
+      },
+      "agendaItem": {
+        "title": "¿Se considera usted feminista?",
+        "officialTitle": "¿Se considera usted feminista?",
+        "type": "qa",
+        "nativeType": "ES-pregunta"
+      },
+      "dateStart": "2025-11-26T10:16:00+01:00",
+      "dateEnd": "2025-11-26T10:18:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_150/cortes/15_000400_150_0_26765_764725.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1564725I",
+        "duration": 120.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_150_0_26765_764725",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Pilar Alegría Continente",
+          "lastname": "Alegría Continente",
+          "firstname": "Pilar",
+          "type": "member of government",
+          "role": "Ministra de Educación, Formación Profesional y Deportes"
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 41
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 155
+      },
+      "agendaItem": {
+        "title": "¿Ha tenido éxito la política educativa de este Gobierno?",
+        "officialTitle": "¿Ha tenido éxito la política educativa de este Gobierno?",
+        "type": "qa",
+        "nativeType": "ES-pregunta"
+      },
+      "dateStart": "2025-11-26T10:18:00+01:00",
+      "dateEnd": "2025-11-26T10:21:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_150/cortes/15_000400_150_0_26765_764727.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1564727I",
+        "duration": 180.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_150_0_26765_764727",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Óscar Clavell López",
+          "lastname": "Clavell López",
+          "firstname": "Óscar",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Popular en el Congreso"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 42
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 155
+      },
+      "agendaItem": {
+        "title": "¿Ha tenido éxito la política educativa de este Gobierno?",
+        "officialTitle": "¿Ha tenido éxito la política educativa de este Gobierno?",
+        "type": "qa",
+        "nativeType": "ES-pregunta"
+      },
+      "dateStart": "2025-11-26T10:21:00+01:00",
+      "dateEnd": "2025-11-26T10:22:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_150/cortes/15_000400_150_0_26765_764728.mp4\nhttps://www.congreso.es/audiovisual/video/leg15/400/15_000400_150/cortes/15_000400_150_0_26765_764730.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1564728I https://app.congreso.es/v1/15764730I",
+        "duration": 60.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_150_0_26765_764730",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Pilar Alegría Continente",
+          "lastname": "Alegría Continente",
+          "firstname": "Pilar",
+          "type": "member of government",
+          "role": "Ministra de Educación, Formación Profesional y Deportes"
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 43
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 155
+      },
+      "agendaItem": {
+        "title": "¿Ha tenido éxito la política educativa de este Gobierno?",
+        "officialTitle": "¿Ha tenido éxito la política educativa de este Gobierno?",
+        "type": "qa",
+        "nativeType": "ES-pregunta"
+      },
+      "dateStart": "2025-11-26T10:22:00+01:00",
+      "dateEnd": "2025-11-26T10:22:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_150/cortes/15_000400_150_0_26765_764729.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1564729I",
+        "duration": 0.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_150_0_26765_764729",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Óscar Clavell López",
+          "lastname": "Clavell López",
+          "firstname": "Óscar",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Popular en el Congreso"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 44
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 155
+      },
+      "agendaItem": {
+        "title": "¿Considera el Gobierno que las políticas de memoria histórica dan\nrespuesta por igual a las experiencias de las mujeres y de los hombres?",
+        "officialTitle": "¿Considera el Gobierno que las políticas de memoria histórica dan\nrespuesta por igual a las experiencias de las mujeres y de los hombres?",
+        "type": "qa",
+        "nativeType": "ES-pregunta"
+      },
+      "dateStart": "2025-11-26T10:24:00+01:00",
+      "dateEnd": "2025-11-26T10:26:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_150/cortes/15_000400_150_0_26765_764732.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1564732I",
+        "duration": 120.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_150_0_26765_764732",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Etna Estrems Fayos",
+          "lastname": "Estrems Fayos",
+          "firstname": "Etna",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Republicano"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 45
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 155
+      },
+      "agendaItem": {
+        "title": "¿Considera el Gobierno que las políticas de memoria histórica dan\nrespuesta por igual a las experiencias de las mujeres y de los hombres?",
+        "officialTitle": "¿Considera el Gobierno que las políticas de memoria histórica dan\nrespuesta por igual a las experiencias de las mujeres y de los hombres?",
+        "type": "qa",
+        "nativeType": "ES-pregunta"
+      },
+      "dateStart": "2025-11-26T10:26:00+01:00",
+      "dateEnd": "2025-11-26T10:28:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_150/cortes/15_000400_150_0_26765_764733.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1564733I",
+        "duration": 120.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_150_0_26765_764733",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Ángel Víctor Torres Pérez",
+          "lastname": "Torres Pérez",
+          "firstname": "Ángel Víctor",
+          "type": "member of government",
+          "role": "Ministro de Política Territorial y Memoria Democrática"
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 46
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 155
+      },
+      "agendaItem": {
+        "title": "¿Considera el Gobierno que las políticas de memoria histórica dan\nrespuesta por igual a las experiencias de las mujeres y de los hombres?",
+        "officialTitle": "¿Considera el Gobierno que las políticas de memoria histórica dan\nrespuesta por igual a las experiencias de las mujeres y de los hombres?",
+        "type": "qa",
+        "nativeType": "ES-pregunta"
+      },
+      "dateStart": "2025-11-26T10:28:00+01:00",
+      "dateEnd": "2025-11-26T10:29:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_150/cortes/15_000400_150_0_26765_764734.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1564734I",
+        "duration": 60.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_150_0_26765_764734",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Etna Estrems Fayos",
+          "lastname": "Estrems Fayos",
+          "firstname": "Etna",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Republicano"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 47
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 155
+      },
+      "agendaItem": {
+        "title": "¿Considera el Gobierno que las políticas de memoria histórica dan\nrespuesta por igual a las experiencias de las mujeres y de los hombres?",
+        "officialTitle": "¿Considera el Gobierno que las políticas de memoria histórica dan\nrespuesta por igual a las experiencias de las mujeres y de los hombres?",
+        "type": "qa",
+        "nativeType": "ES-pregunta"
+      },
+      "dateStart": "2025-11-26T10:29:00+01:00",
+      "dateEnd": "2025-11-26T10:30:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_150/cortes/15_000400_150_0_26765_764735.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1564735I",
+        "duration": 60.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_150_0_26765_764735",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Ángel Víctor Torres Pérez",
+          "lastname": "Torres Pérez",
+          "firstname": "Ángel Víctor",
+          "type": "member of government",
+          "role": "Ministro de Política Territorial y Memoria Democrática"
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 48
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 155
+      },
+      "agendaItem": {
+        "title": "¿Piensa cumplir los mandatos de esta Cámara?",
+        "officialTitle": "¿Piensa cumplir los mandatos de esta Cámara?",
+        "type": "qa",
+        "nativeType": "ES-pregunta"
+      },
+      "dateStart": "2025-11-26T10:30:00+01:00",
+      "dateEnd": "2025-11-26T10:31:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_150/cortes/15_000400_150_0_26765_764737.mp4\nhttps://www.congreso.es/audiovisual/video/leg15/400/15_000400_150/cortes/15_000400_150_0_26765_764739.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1564737I https://app.congreso.es/v1/15764739I",
+        "duration": 60.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_150_0_26765_764739",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Sergio Sayas López",
+          "lastname": "Sayas López",
+          "firstname": "Sergio",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Popular en el Congreso"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 49
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 155
+      },
+      "agendaItem": {
+        "title": "¿Piensa cumplir los mandatos de esta Cámara?",
+        "officialTitle": "¿Piensa cumplir los mandatos de esta Cámara?",
+        "type": "qa",
+        "nativeType": "ES-pregunta"
+      },
+      "dateStart": "2025-11-26T10:31:00+01:00",
+      "dateEnd": "2025-11-26T10:31:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_150/cortes/15_000400_150_0_26765_764738.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1564738I",
+        "duration": 0.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_150_0_26765_764738",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Isabel Rodríguez García",
+          "lastname": "Rodríguez García",
+          "firstname": "Isabel",
+          "type": "member of government",
+          "role": "Ministra de Vivienda y Agenda Urbana"
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 50
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 155
+      },
+      "agendaItem": {
+        "title": "¿Piensa cumplir los mandatos de esta Cámara?",
+        "officialTitle": "¿Piensa cumplir los mandatos de esta Cámara?",
+        "type": "qa",
+        "nativeType": "ES-pregunta"
+      },
+      "dateStart": "2025-11-26T10:33:00+01:00",
+      "dateEnd": "2025-11-26T10:36:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_150/cortes/15_000400_150_0_26765_764740.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1564740I",
+        "duration": 180.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_150_0_26765_764740",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Isabel Rodríguez García",
+          "lastname": "Rodríguez García",
+          "firstname": "Isabel",
+          "type": "member of government",
+          "role": "Ministra de Vivienda y Agenda Urbana"
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 51
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 155
+      },
+      "agendaItem": {
+        "title": "¿Ha hecho usted todo lo posible?",
+        "officialTitle": "¿Ha hecho usted todo lo posible?",
+        "type": "qa",
+        "nativeType": "ES-pregunta"
+      },
+      "dateStart": "2025-11-26T10:36:00+01:00",
+      "dateEnd": "2025-11-26T10:39:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_150/cortes/15_000400_150_0_26765_764742.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1564742I",
+        "duration": 180.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_150_0_26765_764742",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Jaime Miguel De los Santos González",
+          "lastname": "De los Santos González",
+          "firstname": "Jaime Miguel",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Popular en el Congreso"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 52
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 155
+      },
+      "agendaItem": {
+        "title": "¿Ha hecho usted todo lo posible?",
+        "officialTitle": "¿Ha hecho usted todo lo posible?",
+        "type": "qa",
+        "nativeType": "ES-pregunta"
+      },
+      "dateStart": "2025-11-26T10:39:00+01:00",
+      "dateEnd": "2025-11-26T10:41:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_150/cortes/15_000400_150_0_26765_764743.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1564743I",
+        "duration": 120.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_150_0_26765_764743",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Ana María del Carmen Redondo García",
+          "lastname": "Redondo García",
+          "firstname": "Ana María del Carmen",
+          "type": "member of government",
+          "role": "Ministra de Igualdad"
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 53
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 155
+      },
+      "agendaItem": {
+        "title": "¿Ha hecho usted todo lo posible?",
+        "officialTitle": "¿Ha hecho usted todo lo posible?",
+        "type": "qa",
+        "nativeType": "ES-pregunta"
+      },
+      "dateStart": "2025-11-26T10:41:00+01:00",
+      "dateEnd": "2025-11-26T10:42:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_150/cortes/15_000400_150_0_26765_764744.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1564744I",
+        "duration": 60.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_150_0_26765_764744",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Jaime Miguel De los Santos González",
+          "lastname": "De los Santos González",
+          "firstname": "Jaime Miguel",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Popular en el Congreso"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 54
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 155
+      },
+      "agendaItem": {
+        "title": "Interpelación urgente relativa a la mejora de la financiación en\nGalicia.",
+        "officialTitle": "Interpelación urgente relativa a la mejora de la financiación en\nGalicia.",
+        "type": "questioning_of_the_government",
+        "nativeType": "ES-interpelacion"
+      },
+      "dateStart": "2025-11-26T10:42:00+01:00",
+      "dateEnd": "2025-11-26T10:57:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_150/cortes/15_000400_150_0_26765_764747.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1564747I",
+        "duration": 900.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_150_0_26765_764747",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Néstor Rego Candamil",
+          "lastname": "Rego Candamil",
+          "firstname": "Néstor",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Mixto"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 55
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 155
+      },
+      "agendaItem": {
+        "title": "Interpelación urgente relativa a la mejora de la financiación en\nGalicia.",
+        "officialTitle": "Interpelación urgente relativa a la mejora de la financiación en\nGalicia.",
+        "type": "questioning_of_the_government",
+        "nativeType": "ES-interpelacion"
+      },
+      "dateStart": "2025-11-26T10:57:00+01:00",
+      "dateEnd": "2025-11-26T11:09:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_150/cortes/15_000400_150_0_26765_764748.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1564748I",
+        "duration": 720.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_150_0_26765_764748",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "María Jesús Montero Cuadrado",
+          "lastname": "Montero Cuadrado",
+          "firstname": "María Jesús",
+          "type": "member of government",
+          "role": "Vicepresidenta Primera del Gobierno y Ministra de Hacienda",
+          "faction": {
+            "label": "Grupo Parlamentario Socialista"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 56
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 155
+      },
+      "agendaItem": {
+        "title": "Interpelación urgente relativa a la mejora de la financiación en\nGalicia.",
+        "officialTitle": "Interpelación urgente relativa a la mejora de la financiación en\nGalicia.",
+        "type": "questioning_of_the_government",
+        "nativeType": "ES-interpelacion"
+      },
+      "dateStart": "2025-11-26T11:09:00+01:00",
+      "dateEnd": "2025-11-26T11:15:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_150/cortes/15_000400_150_0_26765_764749.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1564749I",
+        "duration": 360.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_150_0_26765_764749",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Néstor Rego Candamil",
+          "lastname": "Rego Candamil",
+          "firstname": "Néstor",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Mixto"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 57
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 155
+      },
+      "agendaItem": {
+        "title": "Interpelación urgente relativa a la mejora de la financiación en\nGalicia.",
+        "officialTitle": "Interpelación urgente relativa a la mejora de la financiación en\nGalicia.",
+        "type": "questioning_of_the_government",
+        "nativeType": "ES-interpelacion"
+      },
+      "dateStart": "2025-11-26T11:15:00+01:00",
+      "dateEnd": "2025-11-26T11:21:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_150/cortes/15_000400_150_0_26765_764750.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1564750I",
+        "duration": 360.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_150_0_26765_764750",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "María Jesús Montero Cuadrado",
+          "lastname": "Montero Cuadrado",
+          "firstname": "María Jesús",
+          "type": "member of government",
+          "role": "Vicepresidenta Primera del Gobierno y Ministra de Hacienda",
+          "faction": {
+            "label": "Grupo Parlamentario Socialista"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 58
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 155
+      },
+      "agendaItem": {
+        "title": "Interpelación urgente al Ministro de la Presidencia, Justicia y\nRelaciones con las Cortes sobre las medidas que va a tomar el Gobierno\ndespués de conocer la condena del Fiscal General del Estado.",
+        "officialTitle": "Interpelación urgente al Ministro de la Presidencia, Justicia y\nRelaciones con las Cortes sobre las medidas que va a tomar el Gobierno\ndespués de conocer la condena del Fiscal General del Estado.",
+        "type": "questioning_of_the_government",
+        "nativeType": "ES-interpelacion"
+      },
+      "dateStart": "2025-11-26T11:21:00+01:00",
+      "dateEnd": "2025-11-26T11:34:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_150/cortes/15_000400_150_0_26765_764752.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1564752I",
+        "duration": 780.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_150_0_26765_764752",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "María José Rodríguez de Millán Parro",
+          "lastname": "Rodríguez de Millán Parro",
+          "firstname": "María José",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario VOX"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 59
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 155
+      },
+      "agendaItem": {
+        "title": "Interpelación urgente al Ministro de la Presidencia, Justicia y\nRelaciones con las Cortes sobre las medidas que va a tomar el Gobierno\ndespués de conocer la condena del Fiscal General del Estado.",
+        "officialTitle": "Interpelación urgente al Ministro de la Presidencia, Justicia y\nRelaciones con las Cortes sobre las medidas que va a tomar el Gobierno\ndespués de conocer la condena del Fiscal General del Estado.",
+        "type": "questioning_of_the_government",
+        "nativeType": "ES-interpelacion"
+      },
+      "dateStart": "2025-11-26T11:34:00+01:00",
+      "dateEnd": "2025-11-26T11:47:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_150/cortes/15_000400_150_0_26765_764754.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1564754I",
+        "duration": 780.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_150_0_26765_764754",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Félix Bolaños García",
+          "lastname": "Bolaños García",
+          "firstname": "Félix",
+          "type": "member of government",
+          "role": "Ministro de la Presidencia, Justicia y Relaciones con las Cortes",
+          "faction": {
+            "label": "Grupo Parlamentario Socialista"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 60
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 155
+      },
+      "agendaItem": {
+        "title": "Interpelación urgente al Ministro de la Presidencia, Justicia y\nRelaciones con las Cortes sobre las medidas que va a tomar el Gobierno\ndespués de conocer la condena del Fiscal General del Estado.",
+        "officialTitle": "Interpelación urgente al Ministro de la Presidencia, Justicia y\nRelaciones con las Cortes sobre las medidas que va a tomar el Gobierno\ndespués de conocer la condena del Fiscal General del Estado.",
+        "type": "questioning_of_the_government",
+        "nativeType": "ES-interpelacion"
+      },
+      "dateStart": "2025-11-26T11:47:00+01:00",
+      "dateEnd": "2025-11-26T11:53:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_150/cortes/15_000400_150_0_26765_764755.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1564755I",
+        "duration": 360.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_150_0_26765_764755",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "María José Rodríguez de Millán Parro",
+          "lastname": "Rodríguez de Millán Parro",
+          "firstname": "María José",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario VOX"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 61
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 155
+      },
+      "agendaItem": {
+        "title": "Interpelación urgente al Ministro de la Presidencia, Justicia y\nRelaciones con las Cortes sobre las medidas que va a tomar el Gobierno\ndespués de conocer la condena del Fiscal General del Estado.",
+        "officialTitle": "Interpelación urgente al Ministro de la Presidencia, Justicia y\nRelaciones con las Cortes sobre las medidas que va a tomar el Gobierno\ndespués de conocer la condena del Fiscal General del Estado.",
+        "type": "questioning_of_the_government",
+        "nativeType": "ES-interpelacion"
+      },
+      "dateStart": "2025-11-26T11:53:00+01:00",
+      "dateEnd": "2025-11-26T11:59:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_150/cortes/15_000400_150_0_26765_764756.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1564756I",
+        "duration": 360.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_150_0_26765_764756",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Félix Bolaños García",
+          "lastname": "Bolaños García",
+          "firstname": "Félix",
+          "type": "member of government",
+          "role": "Ministro de la Presidencia, Justicia y Relaciones con las Cortes",
+          "faction": {
+            "label": "Grupo Parlamentario Socialista"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 62
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 155
+      },
+      "agendaItem": {
+        "title": "Interpelación urgente al Ministro de la Presidencia, Justicia y\nRelaciones con las Cortes para rendir cuentas del deterioro sin\nprecedentes al que este Gobierno ha sometido a las instituciones del\nEstado, en particular, tras la sentencia condenatoria al Fiscal General\ndel Estado.",
+        "officialTitle": "Interpelación urgente al Ministro de la Presidencia, Justicia y\nRelaciones con las Cortes para rendir cuentas del deterioro sin\nprecedentes al que este Gobierno ha sometido a las instituciones del\nEstado, en particular, tras la sentencia condenatoria al Fiscal General\ndel Estado.",
+        "type": "questioning_of_the_government",
+        "nativeType": "ES-interpelacion"
+      },
+      "dateStart": "2025-11-26T11:59:00+01:00",
+      "dateEnd": "2025-11-26T12:12:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_150/cortes/15_000400_150_0_26765_764758.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1564758I",
+        "duration": 780.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_150_0_26765_764758",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Cayetana Álvarez de Toledo Peralta-Ramos",
+          "lastname": "Álvarez de Toledo Peralta-Ramos",
+          "firstname": "Cayetana",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Popular en el Congreso"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 63
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 155
+      },
+      "agendaItem": {
+        "title": "Interpelación urgente al Ministro de la Presidencia, Justicia y\nRelaciones con las Cortes para rendir cuentas del deterioro sin\nprecedentes al que este Gobierno ha sometido a las instituciones del\nEstado, en particular, tras la sentencia condenatoria al Fiscal General\ndel Estado.",
+        "officialTitle": "Interpelación urgente al Ministro de la Presidencia, Justicia y\nRelaciones con las Cortes para rendir cuentas del deterioro sin\nprecedentes al que este Gobierno ha sometido a las instituciones del\nEstado, en particular, tras la sentencia condenatoria al Fiscal General\ndel Estado.",
+        "type": "questioning_of_the_government",
+        "nativeType": "ES-interpelacion"
+      },
+      "dateStart": "2025-11-26T12:12:00+01:00",
+      "dateEnd": "2025-11-26T12:26:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_150/cortes/15_000400_150_0_26765_764759.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1564759I",
+        "duration": 840.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_150_0_26765_764759",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Félix Bolaños García",
+          "lastname": "Bolaños García",
+          "firstname": "Félix",
+          "type": "member of government",
+          "role": "Ministro de la Presidencia, Justicia y Relaciones con las Cortes",
+          "faction": {
+            "label": "Grupo Parlamentario Socialista"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 64
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 155
+      },
+      "agendaItem": {
+        "title": "Interpelación urgente al Ministro de la Presidencia, Justicia y\nRelaciones con las Cortes para rendir cuentas del deterioro sin\nprecedentes al que este Gobierno ha sometido a las instituciones del\nEstado, en particular, tras la sentencia condenatoria al Fiscal General\ndel Estado.",
+        "officialTitle": "Interpelación urgente al Ministro de la Presidencia, Justicia y\nRelaciones con las Cortes para rendir cuentas del deterioro sin\nprecedentes al que este Gobierno ha sometido a las instituciones del\nEstado, en particular, tras la sentencia condenatoria al Fiscal General\ndel Estado.",
+        "type": "questioning_of_the_government",
+        "nativeType": "ES-interpelacion"
+      },
+      "dateStart": "2025-11-26T12:26:00+01:00",
+      "dateEnd": "2025-11-26T12:32:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_150/cortes/15_000400_150_0_26765_764760.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1564760I",
+        "duration": 360.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_150_0_26765_764760",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Cayetana Álvarez de Toledo Peralta-Ramos",
+          "lastname": "Álvarez de Toledo Peralta-Ramos",
+          "firstname": "Cayetana",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Popular en el Congreso"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 65
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 155
+      },
+      "agendaItem": {
+        "title": "Interpelación urgente al Ministro de la Presidencia, Justicia y\nRelaciones con las Cortes para rendir cuentas del deterioro sin\nprecedentes al que este Gobierno ha sometido a las instituciones del\nEstado, en particular, tras la sentencia condenatoria al Fiscal General\ndel Estado.",
+        "officialTitle": "Interpelación urgente al Ministro de la Presidencia, Justicia y\nRelaciones con las Cortes para rendir cuentas del deterioro sin\nprecedentes al que este Gobierno ha sometido a las instituciones del\nEstado, en particular, tras la sentencia condenatoria al Fiscal General\ndel Estado.",
+        "type": "questioning_of_the_government",
+        "nativeType": "ES-interpelacion"
+      },
+      "dateStart": "2025-11-26T12:32:00+01:00",
+      "dateEnd": "2025-11-26T12:38:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_150/cortes/15_000400_150_0_26765_764761.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1564761I",
+        "duration": 360.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_150_0_26765_764761",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Félix Bolaños García",
+          "lastname": "Bolaños García",
+          "firstname": "Félix",
+          "type": "member of government",
+          "role": "Ministro de la Presidencia, Justicia y Relaciones con las Cortes",
+          "faction": {
+            "label": "Grupo Parlamentario Socialista"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 66
+    }
+  ]
+}

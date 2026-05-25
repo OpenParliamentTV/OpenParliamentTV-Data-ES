@@ -1,0 +1,1844 @@
+{
+  "meta": {
+    "session": "15062",
+    "processing": {
+      "parse_media": "2026-05-23T07:17:41"
+    },
+    "dateStart": "2024-09-17T15:04:00+02:00",
+    "dateEnd": "2024-09-17T20:32:00+02:00"
+  },
+  "data": [
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 62
+      },
+      "agendaItem": {
+        "title": "Juramento o promesa de acatamiento de la Constitución",
+        "officialTitle": "Juramento o promesa de acatamiento de la Constitución",
+        "type": "oath",
+        "nativeType": "ES-juramento"
+      },
+      "dateStart": "2024-09-17T15:04:00+02:00",
+      "dateEnd": "2024-09-17T15:05:00+02:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_059/cortes/15_000400_059_0_25218_738001.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1538001I",
+        "duration": 60.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_059_0_25218_738001",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Ainhoa Molina León",
+          "lastname": "Molina León",
+          "firstname": "Ainhoa",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Popular en el Congreso"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 1
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 62
+      },
+      "agendaItem": {
+        "title": "Juramento o promesa de acatamiento de la Constitución",
+        "officialTitle": "Juramento o promesa de acatamiento de la Constitución",
+        "type": "oath",
+        "nativeType": "ES-juramento"
+      },
+      "dateStart": "2024-09-17T15:05:00+02:00",
+      "dateEnd": "2024-09-17T15:05:00+02:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_059/cortes/15_000400_059_0_25218_738002.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1538002I",
+        "duration": 0.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_059_0_25218_738002",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Vicente Montávez Aguillaume",
+          "lastname": "Montávez Aguillaume",
+          "firstname": "Vicente",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Socialista"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 2
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 62
+      },
+      "agendaItem": {
+        "title": "Proposición de Ley relativa a la regulación de los contratos de\nalquiler de vivienda por temporada y alquiler de habitaciones.",
+        "officialTitle": "Proposición de Ley relativa a la regulación de los contratos de\nalquiler de vivienda por temporada y alquiler de habitaciones.",
+        "type": "regular",
+        "nativeType": "ES-ley"
+      },
+      "dateStart": "2024-09-17T15:06:00+02:00",
+      "dateEnd": "2024-09-17T15:22:00+02:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_059/cortes/15_000400_059_0_25218_738004.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1538004I",
+        "duration": 960.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_059_0_25218_738004",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Íñigo Errejón Galván",
+          "lastname": "Errejón Galván",
+          "firstname": "Íñigo",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Plurinacional SUMAR"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 3
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 62
+      },
+      "agendaItem": {
+        "title": "Proposición de Ley relativa a la regulación de los contratos de\nalquiler de vivienda por temporada y alquiler de habitaciones.",
+        "officialTitle": "Proposición de Ley relativa a la regulación de los contratos de\nalquiler de vivienda por temporada y alquiler de habitaciones.",
+        "type": "regular",
+        "nativeType": "ES-ley"
+      },
+      "dateStart": "2024-09-17T15:22:00+02:00",
+      "dateEnd": "2024-09-17T15:27:00+02:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_059/cortes/15_000400_059_0_25218_738005.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1538005I",
+        "duration": 300.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_059_0_25218_738005",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Néstor Rego Candamil",
+          "lastname": "Rego Candamil",
+          "firstname": "Néstor",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Mixto"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 4
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 62
+      },
+      "agendaItem": {
+        "title": "Proposición de Ley relativa a la regulación de los contratos de\nalquiler de vivienda por temporada y alquiler de habitaciones.",
+        "officialTitle": "Proposición de Ley relativa a la regulación de los contratos de\nalquiler de vivienda por temporada y alquiler de habitaciones.",
+        "type": "regular",
+        "nativeType": "ES-ley"
+      },
+      "dateStart": "2024-09-17T15:27:00+02:00",
+      "dateEnd": "2024-09-17T15:32:00+02:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_059/cortes/15_000400_059_0_25218_738006.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1538006I",
+        "duration": 300.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_059_0_25218_738006",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Ione Belarra Urteaga",
+          "lastname": "Belarra Urteaga",
+          "firstname": "Ione",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Mixto"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 5
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 62
+      },
+      "agendaItem": {
+        "title": "Proposición de Ley relativa a la regulación de los contratos de\nalquiler de vivienda por temporada y alquiler de habitaciones.",
+        "officialTitle": "Proposición de Ley relativa a la regulación de los contratos de\nalquiler de vivienda por temporada y alquiler de habitaciones.",
+        "type": "regular",
+        "nativeType": "ES-ley"
+      },
+      "dateStart": "2024-09-17T15:32:00+02:00",
+      "dateEnd": "2024-09-17T15:38:00+02:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_059/cortes/15_000400_059_0_25218_738007.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1538007I",
+        "duration": 360.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_059_0_25218_738007",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Maribel Vaquero Montero",
+          "lastname": "Vaquero Montero",
+          "firstname": "Maribel",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Vasco (EAJ-PNV)"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 6
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 62
+      },
+      "agendaItem": {
+        "title": "Proposición de Ley relativa a la regulación de los contratos de\nalquiler de vivienda por temporada y alquiler de habitaciones.",
+        "officialTitle": "Proposición de Ley relativa a la regulación de los contratos de\nalquiler de vivienda por temporada y alquiler de habitaciones.",
+        "type": "regular",
+        "nativeType": "ES-ley"
+      },
+      "dateStart": "2024-09-17T15:38:00+02:00",
+      "dateEnd": "2024-09-17T15:48:00+02:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_059/cortes/15_000400_059_0_25218_738008.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1538008I",
+        "duration": 600.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_059_0_25218_738008",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Oskar Matute García de Jalón",
+          "lastname": "Matute García de Jalón",
+          "firstname": "Oskar",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Euskal Herria Bildu"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 7
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 62
+      },
+      "agendaItem": {
+        "title": "Proposición de Ley relativa a la regulación de los contratos de\nalquiler de vivienda por temporada y alquiler de habitaciones.",
+        "officialTitle": "Proposición de Ley relativa a la regulación de los contratos de\nalquiler de vivienda por temporada y alquiler de habitaciones.",
+        "type": "regular",
+        "nativeType": "ES-ley"
+      },
+      "dateStart": "2024-09-17T15:48:00+02:00",
+      "dateEnd": "2024-09-17T15:57:00+02:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_059/cortes/15_000400_059_0_25218_738009.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1538009I",
+        "duration": 540.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_059_0_25218_738009",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Marta Madrenas i Mir",
+          "lastname": "Madrenas i Mir",
+          "firstname": "Marta",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Junts per Catalunya"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 8
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 62
+      },
+      "agendaItem": {
+        "title": "Proposición de Ley relativa a la regulación de los contratos de\nalquiler de vivienda por temporada y alquiler de habitaciones.",
+        "officialTitle": "Proposición de Ley relativa a la regulación de los contratos de\nalquiler de vivienda por temporada y alquiler de habitaciones.",
+        "type": "regular",
+        "nativeType": "ES-ley"
+      },
+      "dateStart": "2024-09-17T15:57:00+02:00",
+      "dateEnd": "2024-09-17T16:06:00+02:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_059/cortes/15_000400_059_0_25218_738010.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1538010I",
+        "duration": 540.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_059_0_25218_738010",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Pilar Vallugera Balañà",
+          "lastname": "Vallugera Balañà",
+          "firstname": "Pilar",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Republicano"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 9
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 62
+      },
+      "agendaItem": {
+        "title": "Proposición de Ley relativa a la regulación de los contratos de\nalquiler de vivienda por temporada y alquiler de habitaciones.",
+        "officialTitle": "Proposición de Ley relativa a la regulación de los contratos de\nalquiler de vivienda por temporada y alquiler de habitaciones.",
+        "type": "regular",
+        "nativeType": "ES-ley"
+      },
+      "dateStart": "2024-09-17T16:06:00+02:00",
+      "dateEnd": "2024-09-17T16:15:00+02:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_059/cortes/15_000400_059_0_25218_738011.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1538011I",
+        "duration": 540.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_059_0_25218_738011",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Ignacio Hoces Íñiguez",
+          "lastname": "Hoces Íñiguez",
+          "firstname": "Ignacio",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario VOX"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 10
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 62
+      },
+      "agendaItem": {
+        "title": "Proposición de Ley relativa a la regulación de los contratos de\nalquiler de vivienda por temporada y alquiler de habitaciones.",
+        "officialTitle": "Proposición de Ley relativa a la regulación de los contratos de\nalquiler de vivienda por temporada y alquiler de habitaciones.",
+        "type": "regular",
+        "nativeType": "ES-ley"
+      },
+      "dateStart": "2024-09-17T16:15:00+02:00",
+      "dateEnd": "2024-09-17T16:24:00+02:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_059/cortes/15_000400_059_0_25218_738012.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1538012I",
+        "duration": 540.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_059_0_25218_738012",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Javier Rodríguez Palacios",
+          "lastname": "Rodríguez Palacios",
+          "firstname": "Javier",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Socialista"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 11
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 62
+      },
+      "agendaItem": {
+        "title": "Proposición de Ley relativa a la regulación de los contratos de\nalquiler de vivienda por temporada y alquiler de habitaciones.",
+        "officialTitle": "Proposición de Ley relativa a la regulación de los contratos de\nalquiler de vivienda por temporada y alquiler de habitaciones.",
+        "type": "regular",
+        "nativeType": "ES-ley"
+      },
+      "dateStart": "2024-09-17T16:24:00+02:00",
+      "dateEnd": "2024-09-17T16:33:00+02:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_059/cortes/15_000400_059_0_25218_738013.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1538013I",
+        "duration": 540.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_059_0_25218_738013",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "María Soledad Cruz-Guzmán García",
+          "lastname": "Cruz-Guzmán García",
+          "firstname": "María Soledad",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Popular en el Congreso"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 12
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 62
+      },
+      "agendaItem": {
+        "title": "Proposición de Ley Orgánica en materia de multirreincidencia, por la\nque se modifica la Ley Orgánica 10/1995, de 23 de noviembre, del Código\nPenal y la Ley de Enjuiciamiento Criminal, aprobada por Real Decreto de\n14 de septiembre de 1882.",
+        "officialTitle": "Proposición de Ley Orgánica en materia de multirreincidencia, por la\nque se modifica la Ley Orgánica 10/1995, de 23 de noviembre, del Código\nPenal y la Ley de Enjuiciamiento Criminal, aprobada por Real Decreto de\n14 de septiembre de 1882.",
+        "type": "regular",
+        "nativeType": "ES-ley"
+      },
+      "dateStart": "2024-09-17T16:33:00+02:00",
+      "dateEnd": "2024-09-17T16:48:00+02:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_059/cortes/15_000400_059_0_25218_738015.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1538015I",
+        "duration": 900.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_059_0_25218_738015",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Marta Madrenas i Mir",
+          "lastname": "Madrenas i Mir",
+          "firstname": "Marta",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Junts per Catalunya"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 13
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 62
+      },
+      "agendaItem": {
+        "title": "Proposición de Ley Orgánica en materia de multirreincidencia, por la\nque se modifica la Ley Orgánica 10/1995, de 23 de noviembre, del Código\nPenal y la Ley de Enjuiciamiento Criminal, aprobada por Real Decreto de\n14 de septiembre de 1882.",
+        "officialTitle": "Proposición de Ley Orgánica en materia de multirreincidencia, por la\nque se modifica la Ley Orgánica 10/1995, de 23 de noviembre, del Código\nPenal y la Ley de Enjuiciamiento Criminal, aprobada por Real Decreto de\n14 de septiembre de 1882.",
+        "type": "regular",
+        "nativeType": "ES-ley"
+      },
+      "dateStart": "2024-09-17T16:48:00+02:00",
+      "dateEnd": "2024-09-17T16:52:00+02:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_059/cortes/15_000400_059_0_25218_738016.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1538016I",
+        "duration": 240.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_059_0_25218_738016",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Alberto Catalán Higueras",
+          "lastname": "Catalán Higueras",
+          "firstname": "Alberto",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Mixto"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 14
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 62
+      },
+      "agendaItem": {
+        "title": "Proposición de Ley Orgánica en materia de multirreincidencia, por la\nque se modifica la Ley Orgánica 10/1995, de 23 de noviembre, del Código\nPenal y la Ley de Enjuiciamiento Criminal, aprobada por Real Decreto de\n14 de septiembre de 1882.",
+        "officialTitle": "Proposición de Ley Orgánica en materia de multirreincidencia, por la\nque se modifica la Ley Orgánica 10/1995, de 23 de noviembre, del Código\nPenal y la Ley de Enjuiciamiento Criminal, aprobada por Real Decreto de\n14 de septiembre de 1882.",
+        "type": "regular",
+        "nativeType": "ES-ley"
+      },
+      "dateStart": "2024-09-17T16:52:00+02:00",
+      "dateEnd": "2024-09-17T16:58:00+02:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_059/cortes/15_000400_059_0_25218_738017.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1538017I",
+        "duration": 360.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_059_0_25218_738017",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Martina Velarde Gómez",
+          "lastname": "Velarde Gómez",
+          "firstname": "Martina",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Mixto"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 15
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 62
+      },
+      "agendaItem": {
+        "title": "Proposición de Ley Orgánica en materia de multirreincidencia, por la\nque se modifica la Ley Orgánica 10/1995, de 23 de noviembre, del Código\nPenal y la Ley de Enjuiciamiento Criminal, aprobada por Real Decreto de\n14 de septiembre de 1882.",
+        "officialTitle": "Proposición de Ley Orgánica en materia de multirreincidencia, por la\nque se modifica la Ley Orgánica 10/1995, de 23 de noviembre, del Código\nPenal y la Ley de Enjuiciamiento Criminal, aprobada por Real Decreto de\n14 de septiembre de 1882.",
+        "type": "regular",
+        "nativeType": "ES-ley"
+      },
+      "dateStart": "2024-09-17T16:58:00+02:00",
+      "dateEnd": "2024-09-17T17:03:00+02:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_059/cortes/15_000400_059_0_25218_738018.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1538018I",
+        "duration": 300.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_059_0_25218_738018",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Mikel Legarda Uriarte",
+          "lastname": "Legarda Uriarte",
+          "firstname": "Mikel",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Vasco (EAJ-PNV)"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 16
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 62
+      },
+      "agendaItem": {
+        "title": "Proposición de Ley Orgánica en materia de multirreincidencia, por la\nque se modifica la Ley Orgánica 10/1995, de 23 de noviembre, del Código\nPenal y la Ley de Enjuiciamiento Criminal, aprobada por Real Decreto de\n14 de septiembre de 1882.",
+        "officialTitle": "Proposición de Ley Orgánica en materia de multirreincidencia, por la\nque se modifica la Ley Orgánica 10/1995, de 23 de noviembre, del Código\nPenal y la Ley de Enjuiciamiento Criminal, aprobada por Real Decreto de\n14 de septiembre de 1882.",
+        "type": "regular",
+        "nativeType": "ES-ley"
+      },
+      "dateStart": "2024-09-17T17:03:00+02:00",
+      "dateEnd": "2024-09-17T17:08:00+02:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_059/cortes/15_000400_059_0_25218_738019.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1538019I",
+        "duration": 300.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_059_0_25218_738019",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Gabriel Rufián Romero",
+          "lastname": "Rufián Romero",
+          "firstname": "Gabriel",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Republicano"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 17
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 62
+      },
+      "agendaItem": {
+        "title": "Proposición de Ley Orgánica en materia de multirreincidencia, por la\nque se modifica la Ley Orgánica 10/1995, de 23 de noviembre, del Código\nPenal y la Ley de Enjuiciamiento Criminal, aprobada por Real Decreto de\n14 de septiembre de 1882.",
+        "officialTitle": "Proposición de Ley Orgánica en materia de multirreincidencia, por la\nque se modifica la Ley Orgánica 10/1995, de 23 de noviembre, del Código\nPenal y la Ley de Enjuiciamiento Criminal, aprobada por Real Decreto de\n14 de septiembre de 1882.",
+        "type": "regular",
+        "nativeType": "ES-ley"
+      },
+      "dateStart": "2024-09-17T17:08:00+02:00",
+      "dateEnd": "2024-09-17T17:17:00+02:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_059/cortes/15_000400_059_0_25218_738020.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1538020I",
+        "duration": 540.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_059_0_25218_738020",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Enrique Fernando Santiago Romero",
+          "lastname": "Santiago Romero",
+          "firstname": "Enrique Fernando",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Plurinacional SUMAR"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 18
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 62
+      },
+      "agendaItem": {
+        "title": "Proposición de Ley Orgánica en materia de multirreincidencia, por la\nque se modifica la Ley Orgánica 10/1995, de 23 de noviembre, del Código\nPenal y la Ley de Enjuiciamiento Criminal, aprobada por Real Decreto de\n14 de septiembre de 1882.",
+        "officialTitle": "Proposición de Ley Orgánica en materia de multirreincidencia, por la\nque se modifica la Ley Orgánica 10/1995, de 23 de noviembre, del Código\nPenal y la Ley de Enjuiciamiento Criminal, aprobada por Real Decreto de\n14 de septiembre de 1882.",
+        "type": "regular",
+        "nativeType": "ES-ley"
+      },
+      "dateStart": "2024-09-17T17:17:00+02:00",
+      "dateEnd": "2024-09-17T17:25:00+02:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_059/cortes/15_000400_059_0_25218_738021.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1538021I",
+        "duration": 480.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_059_0_25218_738021",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Francisco Javier Ortega Smith-Molina",
+          "lastname": "Ortega Smith-Molina",
+          "firstname": "Francisco Javier",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario VOX"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 19
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 62
+      },
+      "agendaItem": {
+        "title": "Proposición de Ley Orgánica en materia de multirreincidencia, por la\nque se modifica la Ley Orgánica 10/1995, de 23 de noviembre, del Código\nPenal y la Ley de Enjuiciamiento Criminal, aprobada por Real Decreto de\n14 de septiembre de 1882.",
+        "officialTitle": "Proposición de Ley Orgánica en materia de multirreincidencia, por la\nque se modifica la Ley Orgánica 10/1995, de 23 de noviembre, del Código\nPenal y la Ley de Enjuiciamiento Criminal, aprobada por Real Decreto de\n14 de septiembre de 1882.",
+        "type": "regular",
+        "nativeType": "ES-ley"
+      },
+      "dateStart": "2024-09-17T17:25:00+02:00",
+      "dateEnd": "2024-09-17T17:33:00+02:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_059/cortes/15_000400_059_0_25218_738022.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1538022I",
+        "duration": 480.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_059_0_25218_738022",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "María Mercè Perea i Conillas",
+          "lastname": "Perea i Conillas",
+          "firstname": "María Mercè",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Socialista"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 20
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 62
+      },
+      "agendaItem": {
+        "title": "Proposición de Ley Orgánica en materia de multirreincidencia, por la\nque se modifica la Ley Orgánica 10/1995, de 23 de noviembre, del Código\nPenal y la Ley de Enjuiciamiento Criminal, aprobada por Real Decreto de\n14 de septiembre de 1882.",
+        "officialTitle": "Proposición de Ley Orgánica en materia de multirreincidencia, por la\nque se modifica la Ley Orgánica 10/1995, de 23 de noviembre, del Código\nPenal y la Ley de Enjuiciamiento Criminal, aprobada por Real Decreto de\n14 de septiembre de 1882.",
+        "type": "regular",
+        "nativeType": "ES-ley"
+      },
+      "dateStart": "2024-09-17T17:33:00+02:00",
+      "dateEnd": "2024-09-17T17:43:00+02:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_059/cortes/15_000400_059_0_25218_738023.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1538023I",
+        "duration": 600.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_059_0_25218_738023",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "María Jesús Moro Almaraz",
+          "lastname": "Moro Almaraz",
+          "firstname": "María Jesús",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Popular en el Congreso"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 21
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 62
+      },
+      "agendaItem": {
+        "title": "Proyecto de Ley Orgánica por la que se modifica la Ley Orgánica\n7/2014, de 12 de noviembre, sobre intercambio de información de\nantecedentes penales y consideración de resoluciones judiciales penales\nen la Unión Europea, para su adecuación a la normativa de la Unión\nEuropea sobre el Sistema Europeo de Información de Antecedentes Penales\n(ECRIS).",
+        "officialTitle": "Proyecto de Ley Orgánica por la que se modifica la Ley Orgánica\n7/2014, de 12 de noviembre, sobre intercambio de información de\nantecedentes penales y consideración de resoluciones judiciales penales\nen la Unión Europea, para su adecuación a la normativa de la Unión\nEuropea sobre el Sistema Europeo de Información de Antecedentes Penales\n(ECRIS).",
+        "type": "regular",
+        "nativeType": "ES-ley"
+      },
+      "dateStart": "2024-09-17T17:44:00+02:00",
+      "dateEnd": "2024-09-17T17:51:00+02:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_059/cortes/15_000400_059_0_25218_738026.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1538026I",
+        "duration": 420.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_059_0_25218_738026",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Martina Velarde Gómez",
+          "lastname": "Velarde Gómez",
+          "firstname": "Martina",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Mixto"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 22
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 62
+      },
+      "agendaItem": {
+        "title": "Proyecto de Ley Orgánica por la que se modifica la Ley Orgánica\n7/2014, de 12 de noviembre, sobre intercambio de información de\nantecedentes penales y consideración de resoluciones judiciales penales\nen la Unión Europea, para su adecuación a la normativa de la Unión\nEuropea sobre el Sistema Europeo de Información de Antecedentes Penales\n(ECRIS).",
+        "officialTitle": "Proyecto de Ley Orgánica por la que se modifica la Ley Orgánica\n7/2014, de 12 de noviembre, sobre intercambio de información de\nantecedentes penales y consideración de resoluciones judiciales penales\nen la Unión Europea, para su adecuación a la normativa de la Unión\nEuropea sobre el Sistema Europeo de Información de Antecedentes Penales\n(ECRIS).",
+        "type": "regular",
+        "nativeType": "ES-ley"
+      },
+      "dateStart": "2024-09-17T17:51:00+02:00",
+      "dateEnd": "2024-09-17T17:58:00+02:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_059/cortes/15_000400_059_0_25218_738027.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1538027I",
+        "duration": 420.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_059_0_25218_738027",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Mikel Legarda Uriarte",
+          "lastname": "Legarda Uriarte",
+          "firstname": "Mikel",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Vasco (EAJ-PNV)"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 23
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 62
+      },
+      "agendaItem": {
+        "title": "Proyecto de Ley Orgánica por la que se modifica la Ley Orgánica\n7/2014, de 12 de noviembre, sobre intercambio de información de\nantecedentes penales y consideración de resoluciones judiciales penales\nen la Unión Europea, para su adecuación a la normativa de la Unión\nEuropea sobre el Sistema Europeo de Información de Antecedentes Penales\n(ECRIS).",
+        "officialTitle": "Proyecto de Ley Orgánica por la que se modifica la Ley Orgánica\n7/2014, de 12 de noviembre, sobre intercambio de información de\nantecedentes penales y consideración de resoluciones judiciales penales\nen la Unión Europea, para su adecuación a la normativa de la Unión\nEuropea sobre el Sistema Europeo de Información de Antecedentes Penales\n(ECRIS).",
+        "type": "regular",
+        "nativeType": "ES-ley"
+      },
+      "dateStart": "2024-09-17T17:58:00+02:00",
+      "dateEnd": "2024-09-17T18:04:00+02:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_059/cortes/15_000400_059_0_25218_738028.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1538028I",
+        "duration": 360.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_059_0_25218_738028",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Jon Iñarritu García",
+          "lastname": "Iñarritu García",
+          "firstname": "Jon",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Euskal Herria Bildu"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 24
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 62
+      },
+      "agendaItem": {
+        "title": "Proyecto de Ley Orgánica por la que se modifica la Ley Orgánica\n7/2014, de 12 de noviembre, sobre intercambio de información de\nantecedentes penales y consideración de resoluciones judiciales penales\nen la Unión Europea, para su adecuación a la normativa de la Unión\nEuropea sobre el Sistema Europeo de Información de Antecedentes Penales\n(ECRIS).",
+        "officialTitle": "Proyecto de Ley Orgánica por la que se modifica la Ley Orgánica\n7/2014, de 12 de noviembre, sobre intercambio de información de\nantecedentes penales y consideración de resoluciones judiciales penales\nen la Unión Europea, para su adecuación a la normativa de la Unión\nEuropea sobre el Sistema Europeo de Información de Antecedentes Penales\n(ECRIS).",
+        "type": "regular",
+        "nativeType": "ES-ley"
+      },
+      "dateStart": "2024-09-17T18:04:00+02:00",
+      "dateEnd": "2024-09-17T18:15:00+02:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_059/cortes/15_000400_059_0_25218_738029.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1538029I",
+        "duration": 660.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_059_0_25218_738029",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Jorge Pueyo Sanz",
+          "lastname": "Pueyo Sanz",
+          "firstname": "Jorge",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Plurinacional SUMAR"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 25
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 62
+      },
+      "agendaItem": {
+        "title": "Proyecto de Ley Orgánica por la que se modifica la Ley Orgánica\n7/2014, de 12 de noviembre, sobre intercambio de información de\nantecedentes penales y consideración de resoluciones judiciales penales\nen la Unión Europea, para su adecuación a la normativa de la Unión\nEuropea sobre el Sistema Europeo de Información de Antecedentes Penales\n(ECRIS).",
+        "officialTitle": "Proyecto de Ley Orgánica por la que se modifica la Ley Orgánica\n7/2014, de 12 de noviembre, sobre intercambio de información de\nantecedentes penales y consideración de resoluciones judiciales penales\nen la Unión Europea, para su adecuación a la normativa de la Unión\nEuropea sobre el Sistema Europeo de Información de Antecedentes Penales\n(ECRIS).",
+        "type": "regular",
+        "nativeType": "ES-ley"
+      },
+      "dateStart": "2024-09-17T18:15:00+02:00",
+      "dateEnd": "2024-09-17T18:20:00+02:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_059/cortes/15_000400_059_0_25218_738030.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1538030I",
+        "duration": 300.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_059_0_25218_738030",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Emilio Jesús Del Valle Rodríguez",
+          "lastname": "Del Valle Rodríguez",
+          "firstname": "Emilio Jesús",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario VOX"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 26
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 62
+      },
+      "agendaItem": {
+        "title": "Proyecto de Ley Orgánica por la que se modifica la Ley Orgánica\n7/2014, de 12 de noviembre, sobre intercambio de información de\nantecedentes penales y consideración de resoluciones judiciales penales\nen la Unión Europea, para su adecuación a la normativa de la Unión\nEuropea sobre el Sistema Europeo de Información de Antecedentes Penales\n(ECRIS).",
+        "officialTitle": "Proyecto de Ley Orgánica por la que se modifica la Ley Orgánica\n7/2014, de 12 de noviembre, sobre intercambio de información de\nantecedentes penales y consideración de resoluciones judiciales penales\nen la Unión Europea, para su adecuación a la normativa de la Unión\nEuropea sobre el Sistema Europeo de Información de Antecedentes Penales\n(ECRIS).",
+        "type": "regular",
+        "nativeType": "ES-ley"
+      },
+      "dateStart": "2024-09-17T18:20:00+02:00",
+      "dateEnd": "2024-09-17T18:27:00+02:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_059/cortes/15_000400_059_0_25218_738031.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1538031I",
+        "duration": 420.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_059_0_25218_738031",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Artemi Rallo Lombarte",
+          "lastname": "Rallo Lombarte",
+          "firstname": "Artemi",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Socialista"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 27
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 62
+      },
+      "agendaItem": {
+        "title": "Proyecto de Ley Orgánica por la que se modifica la Ley Orgánica\n7/2014, de 12 de noviembre, sobre intercambio de información de\nantecedentes penales y consideración de resoluciones judiciales penales\nen la Unión Europea, para su adecuación a la normativa de la Unión\nEuropea sobre el Sistema Europeo de Información de Antecedentes Penales\n(ECRIS).",
+        "officialTitle": "Proyecto de Ley Orgánica por la que se modifica la Ley Orgánica\n7/2014, de 12 de noviembre, sobre intercambio de información de\nantecedentes penales y consideración de resoluciones judiciales penales\nen la Unión Europea, para su adecuación a la normativa de la Unión\nEuropea sobre el Sistema Europeo de Información de Antecedentes Penales\n(ECRIS).",
+        "type": "regular",
+        "nativeType": "ES-ley"
+      },
+      "dateStart": "2024-09-17T18:27:00+02:00",
+      "dateEnd": "2024-09-17T18:36:00+02:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_059/cortes/15_000400_059_0_25218_738032.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1538032I",
+        "duration": 540.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_059_0_25218_738032",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "José Manuel Velasco Retamosa",
+          "lastname": "Velasco Retamosa",
+          "firstname": "José Manuel",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Popular en el Congreso"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 28
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 62
+      },
+      "agendaItem": {
+        "title": "Proposición no de Ley relativa a la defensa del principio de la caja\núnica de la Seguridad Social.",
+        "officialTitle": "Proposición no de Ley relativa a la defensa del principio de la caja\núnica de la Seguridad Social.",
+        "type": "regular"
+      },
+      "dateStart": "2024-09-17T18:37:00+02:00",
+      "dateEnd": "2024-09-17T18:45:00+02:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_059/cortes/15_000400_059_0_25218_738035.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1538035I",
+        "duration": 480.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_059_0_25218_738035",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Juan José Aizcorbe Torra",
+          "lastname": "Aizcorbe Torra",
+          "firstname": "Juan José",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario VOX"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 29
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 62
+      },
+      "agendaItem": {
+        "title": "Proposición no de Ley relativa a la defensa del principio de la caja\núnica de la Seguridad Social.",
+        "officialTitle": "Proposición no de Ley relativa a la defensa del principio de la caja\núnica de la Seguridad Social.",
+        "type": "regular"
+      },
+      "dateStart": "2024-09-17T18:45:00+02:00",
+      "dateEnd": "2024-09-17T18:51:00+02:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_059/cortes/15_000400_059_0_25218_738036.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1538036I",
+        "duration": 360.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_059_0_25218_738036",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Idoia Sagastizabal Unzetabarrenetxea",
+          "lastname": "Sagastizabal Unzetabarrenetxea",
+          "firstname": "Idoia",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Vasco (EAJ-PNV)"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 30
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 62
+      },
+      "agendaItem": {
+        "title": "Proposición no de Ley relativa a la defensa del principio de la caja\núnica de la Seguridad Social.",
+        "officialTitle": "Proposición no de Ley relativa a la defensa del principio de la caja\núnica de la Seguridad Social.",
+        "type": "regular"
+      },
+      "dateStart": "2024-09-17T18:51:00+02:00",
+      "dateEnd": "2024-09-17T18:57:00+02:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_059/cortes/15_000400_059_0_25218_738037.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1538037I",
+        "duration": 360.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_059_0_25218_738037",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Verónica Martínez Barbero",
+          "lastname": "Martínez Barbero",
+          "firstname": "Verónica",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Plurinacional SUMAR"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 31
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 62
+      },
+      "agendaItem": {
+        "title": "Proposición no de Ley relativa a la defensa del principio de la caja\núnica de la Seguridad Social.",
+        "officialTitle": "Proposición no de Ley relativa a la defensa del principio de la caja\núnica de la Seguridad Social.",
+        "type": "regular"
+      },
+      "dateStart": "2024-09-17T18:57:00+02:00",
+      "dateEnd": "2024-09-17T19:03:00+02:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_059/cortes/15_000400_059_0_25218_738038.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1538038I",
+        "duration": 360.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_059_0_25218_738038",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Alberto Mayoral de Lamo",
+          "lastname": "Mayoral de Lamo",
+          "firstname": "Alberto",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Socialista"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 32
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 62
+      },
+      "agendaItem": {
+        "title": "Proposición no de Ley relativa a la defensa del principio de la caja\núnica de la Seguridad Social.",
+        "officialTitle": "Proposición no de Ley relativa a la defensa del principio de la caja\núnica de la Seguridad Social.",
+        "type": "regular"
+      },
+      "dateStart": "2024-09-17T19:03:00+02:00",
+      "dateEnd": "2024-09-17T19:10:00+02:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_059/cortes/15_000400_059_0_25218_738039.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1538039I",
+        "duration": 420.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_059_0_25218_738039",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Isabel Gema Pérez Recuerda",
+          "lastname": "Pérez Recuerda",
+          "firstname": "Isabel Gema",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Popular en el Congreso"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 33
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 62
+      },
+      "agendaItem": {
+        "title": "Proposición no de Ley relativa a la creación de una empresa pública\npara la gestión pública de las concesiones administrativas y centrales\nhidroeléctricas.",
+        "officialTitle": "Proposición no de Ley relativa a la creación de una empresa pública\npara la gestión pública de las concesiones administrativas y centrales\nhidroeléctricas.",
+        "type": "regular"
+      },
+      "dateStart": "2024-09-17T19:10:00+02:00",
+      "dateEnd": "2024-09-17T19:18:00+02:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_059/cortes/15_000400_059_0_25218_738041.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1538041I",
+        "duration": 480.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_059_0_25218_738041",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Juan Antonio Valero Morales",
+          "lastname": "Valero Morales",
+          "firstname": "Juan Antonio",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Plurinacional SUMAR"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 34
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 62
+      },
+      "agendaItem": {
+        "title": "Proposición no de Ley relativa a la creación de una empresa pública\npara la gestión pública de las concesiones administrativas y centrales\nhidroeléctricas.",
+        "officialTitle": "Proposición no de Ley relativa a la creación de una empresa pública\npara la gestión pública de las concesiones administrativas y centrales\nhidroeléctricas.",
+        "type": "regular"
+      },
+      "dateStart": "2024-09-17T19:18:00+02:00",
+      "dateEnd": "2024-09-17T19:25:00+02:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_059/cortes/15_000400_059_0_25218_738042.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1538042I",
+        "duration": 420.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_059_0_25218_738042",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Néstor Rego Candamil",
+          "lastname": "Rego Candamil",
+          "firstname": "Néstor",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Mixto"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 35
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 62
+      },
+      "agendaItem": {
+        "title": "Proposición no de Ley relativa a la creación de una empresa pública\npara la gestión pública de las concesiones administrativas y centrales\nhidroeléctricas.",
+        "officialTitle": "Proposición no de Ley relativa a la creación de una empresa pública\npara la gestión pública de las concesiones administrativas y centrales\nhidroeléctricas.",
+        "type": "regular"
+      },
+      "dateStart": "2024-09-17T19:25:00+02:00",
+      "dateEnd": "2024-09-17T19:31:00+02:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_059/cortes/15_000400_059_0_25218_738043.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1538043I",
+        "duration": 360.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_059_0_25218_738043",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "José María Figaredo Álvarez-Sala",
+          "lastname": "Figaredo Álvarez-Sala",
+          "firstname": "José María",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario VOX"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 36
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 62
+      },
+      "agendaItem": {
+        "title": "Proposición no de Ley relativa a la creación de una empresa pública\npara la gestión pública de las concesiones administrativas y centrales\nhidroeléctricas.",
+        "officialTitle": "Proposición no de Ley relativa a la creación de una empresa pública\npara la gestión pública de las concesiones administrativas y centrales\nhidroeléctricas.",
+        "type": "regular"
+      },
+      "dateStart": "2024-09-17T19:31:00+02:00",
+      "dateEnd": "2024-09-17T19:38:00+02:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_059/cortes/15_000400_059_0_25218_738046.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1538046I",
+        "duration": 420.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_059_0_25218_738046",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Idoia Sagastizabal Unzetabarrenetxea",
+          "lastname": "Sagastizabal Unzetabarrenetxea",
+          "firstname": "Idoia",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Vasco (EAJ-PNV)"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 37
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 62
+      },
+      "agendaItem": {
+        "title": "Proposición no de Ley relativa a la creación de una empresa pública\npara la gestión pública de las concesiones administrativas y centrales\nhidroeléctricas.",
+        "officialTitle": "Proposición no de Ley relativa a la creación de una empresa pública\npara la gestión pública de las concesiones administrativas y centrales\nhidroeléctricas.",
+        "type": "regular"
+      },
+      "dateStart": "2024-09-17T19:38:00+02:00",
+      "dateEnd": "2024-09-17T19:42:00+02:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_059/cortes/15_000400_059_1_25221_738050.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1538050I",
+        "duration": 240.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_059_1_25221_738050",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Pilar Calvo Gómez",
+          "lastname": "Calvo Gómez",
+          "firstname": "Pilar",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Junts per Catalunya"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 38
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 62
+      },
+      "agendaItem": {
+        "title": "Proposición no de Ley relativa a la creación de una empresa pública\npara la gestión pública de las concesiones administrativas y centrales\nhidroeléctricas.",
+        "officialTitle": "Proposición no de Ley relativa a la creación de una empresa pública\npara la gestión pública de las concesiones administrativas y centrales\nhidroeléctricas.",
+        "type": "regular"
+      },
+      "dateStart": "2024-09-17T19:42:00+02:00",
+      "dateEnd": "2024-09-17T19:48:00+02:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_059/cortes/15_000400_059_1_25221_738051.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1538051I",
+        "duration": 360.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_059_1_25221_738051",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Teresa Jordà i Roura",
+          "lastname": "Jordà i Roura",
+          "firstname": "Teresa",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Republicano"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 39
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 62
+      },
+      "agendaItem": {
+        "title": "Proposición no de Ley relativa a la creación de una empresa pública\npara la gestión pública de las concesiones administrativas y centrales\nhidroeléctricas.",
+        "officialTitle": "Proposición no de Ley relativa a la creación de una empresa pública\npara la gestión pública de las concesiones administrativas y centrales\nhidroeléctricas.",
+        "type": "regular"
+      },
+      "dateStart": "2024-09-17T19:48:00+02:00",
+      "dateEnd": "2024-09-17T19:55:00+02:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_059/cortes/15_000400_059_1_25221_738052.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1538052I",
+        "duration": 420.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_059_1_25221_738052",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "María de las Nieves Ramírez Moreno",
+          "lastname": "Ramírez Moreno",
+          "firstname": "María de las Nieves",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Socialista"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 40
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 62
+      },
+      "agendaItem": {
+        "title": "Proposición no de Ley relativa a la creación de una empresa pública\npara la gestión pública de las concesiones administrativas y centrales\nhidroeléctricas.",
+        "officialTitle": "Proposición no de Ley relativa a la creación de una empresa pública\npara la gestión pública de las concesiones administrativas y centrales\nhidroeléctricas.",
+        "type": "regular"
+      },
+      "dateStart": "2024-09-17T19:55:00+02:00",
+      "dateEnd": "2024-09-17T20:02:00+02:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_059/cortes/15_000400_059_1_25221_738053.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1538053I",
+        "duration": 420.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_059_1_25221_738053",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Juan Diego Requena Ruiz",
+          "lastname": "Requena Ruiz",
+          "firstname": "Juan Diego",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Popular en el Congreso"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 41
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 62
+      },
+      "agendaItem": {
+        "title": "Moción consecuencia de interpelación urgente sobre las medidas que el\nGobierno va a adoptar para paliar la situación de emergencia\nhabitacional.",
+        "officialTitle": "Moción consecuencia de interpelación urgente sobre las medidas que el\nGobierno va a adoptar para paliar la situación de emergencia\nhabitacional.",
+        "type": "regular",
+        "nativeType": "ES-mocion"
+      },
+      "dateStart": "2024-09-17T20:03:00+02:00",
+      "dateEnd": "2024-09-17T20:12:00+02:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_059/cortes/15_000400_059_1_25221_738056.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1538056I",
+        "duration": 540.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_059_1_25221_738056",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Carlos Hernández Quero",
+          "lastname": "Hernández Quero",
+          "firstname": "Carlos",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario VOX"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 42
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 62
+      },
+      "agendaItem": {
+        "title": "Moción consecuencia de interpelación urgente sobre las medidas que el\nGobierno va a adoptar para paliar la situación de emergencia\nhabitacional.",
+        "officialTitle": "Moción consecuencia de interpelación urgente sobre las medidas que el\nGobierno va a adoptar para paliar la situación de emergencia\nhabitacional.",
+        "type": "regular",
+        "nativeType": "ES-mocion"
+      },
+      "dateStart": "2024-09-17T20:12:00+02:00",
+      "dateEnd": "2024-09-17T20:19:00+02:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_059/cortes/15_000400_059_1_25221_738057.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1538057I",
+        "duration": 420.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_059_1_25221_738057",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Alberto Ibáñez Mezquita",
+          "lastname": "Ibáñez Mezquita",
+          "firstname": "Alberto",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Plurinacional SUMAR"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 43
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 62
+      },
+      "agendaItem": {
+        "title": "Moción consecuencia de interpelación urgente sobre las medidas que el\nGobierno va a adoptar para paliar la situación de emergencia\nhabitacional.",
+        "officialTitle": "Moción consecuencia de interpelación urgente sobre las medidas que el\nGobierno va a adoptar para paliar la situación de emergencia\nhabitacional.",
+        "type": "regular",
+        "nativeType": "ES-mocion"
+      },
+      "dateStart": "2024-09-17T20:19:00+02:00",
+      "dateEnd": "2024-09-17T20:25:00+02:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_059/cortes/15_000400_059_1_25221_738058.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1538058I",
+        "duration": 360.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_059_1_25221_738058",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Ignasi Conesa Coma",
+          "lastname": "Conesa Coma",
+          "firstname": "Ignasi",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Socialista"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 44
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 62
+      },
+      "agendaItem": {
+        "title": "Moción consecuencia de interpelación urgente sobre las medidas que el\nGobierno va a adoptar para paliar la situación de emergencia\nhabitacional.",
+        "officialTitle": "Moción consecuencia de interpelación urgente sobre las medidas que el\nGobierno va a adoptar para paliar la situación de emergencia\nhabitacional.",
+        "type": "regular",
+        "nativeType": "ES-mocion"
+      },
+      "dateStart": "2024-09-17T20:25:00+02:00",
+      "dateEnd": "2024-09-17T20:32:00+02:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_059/cortes/15_000400_059_1_25221_738059.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1538059I",
+        "duration": 420.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_059_1_25221_738059",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Joan Mesquida Mayans",
+          "lastname": "Mesquida Mayans",
+          "firstname": "Joan",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Popular en el Congreso"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 45
+    }
+  ]
+}

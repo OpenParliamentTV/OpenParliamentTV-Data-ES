@@ -1,0 +1,2535 @@
+{
+  "meta": {
+    "session": "15134",
+    "processing": {
+      "parse_media": "2026-05-23T07:17:41"
+    },
+    "dateStart": "2025-09-09T15:04:00+02:00",
+    "dateEnd": "2025-09-09T22:06:00+02:00"
+  },
+  "data": [
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 134
+      },
+      "agendaItem": {
+        "title": "Juramento o promesa de acatamiento de la Constitución",
+        "officialTitle": "Juramento o promesa de acatamiento de la Constitución",
+        "type": "oath",
+        "nativeType": "ES-juramento"
+      },
+      "dateStart": "2025-09-09T15:04:00+02:00",
+      "dateEnd": "2025-09-09T15:04:00+02:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_129/cortes/15_000400_129_0_26468_758190.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1558190I",
+        "duration": 0.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_129_0_26468_758190",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Pablo Antuñano Colina",
+          "lastname": "Antuñano Colina",
+          "firstname": "Pablo",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Socialista"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 1
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 134
+      },
+      "agendaItem": {
+        "title": "Juramento o promesa de acatamiento de la Constitución",
+        "officialTitle": "Juramento o promesa de acatamiento de la Constitución",
+        "type": "oath",
+        "nativeType": "ES-juramento"
+      },
+      "dateStart": "2025-09-09T15:04:00+02:00",
+      "dateEnd": "2025-09-09T15:04:00+02:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_129/cortes/15_000400_129_0_26468_758191.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1558191I",
+        "duration": 0.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_129_0_26468_758191",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "María Elvira Rodríguez Herrer",
+          "lastname": "Rodríguez Herrer",
+          "firstname": "María Elvira",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Popular en el Congreso"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 2
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 134
+      },
+      "agendaItem": {
+        "title": "Juramento o promesa de acatamiento de la Constitución",
+        "officialTitle": "Juramento o promesa de acatamiento de la Constitución",
+        "type": "oath",
+        "nativeType": "ES-juramento"
+      },
+      "dateStart": "2025-09-09T15:04:00+02:00",
+      "dateEnd": "2025-09-09T15:05:00+02:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_129/cortes/15_000400_129_0_26468_758192.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1558192I",
+        "duration": 60.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_129_0_26468_758192",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Álvaro Fernández Heredia",
+          "lastname": "Fernández Heredia",
+          "firstname": "Álvaro",
+          "type": "memberOfParliament"
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 3
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 134
+      },
+      "agendaItem": {
+        "title": "Proposición de Ley relativa a la escolarización del alumnado con\nnecesidades educativas especiales (Orgánica).",
+        "officialTitle": "Proposición de Ley relativa a la escolarización del alumnado con\nnecesidades educativas especiales (Orgánica).",
+        "type": "regular",
+        "nativeType": "ES-ley"
+      },
+      "dateStart": "2025-09-09T15:05:00+02:00",
+      "dateEnd": "2025-09-09T15:19:00+02:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_129/cortes/15_000400_129_0_26468_758195.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1558195I",
+        "duration": 840.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_129_0_26468_758195",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "María Sandra Moneo Díez",
+          "lastname": "Moneo Díez",
+          "firstname": "María Sandra",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Popular en el Congreso"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 4
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 134
+      },
+      "agendaItem": {
+        "title": "Proposición de Ley relativa a la escolarización del alumnado con\nnecesidades educativas especiales (Orgánica).",
+        "officialTitle": "Proposición de Ley relativa a la escolarización del alumnado con\nnecesidades educativas especiales (Orgánica).",
+        "type": "regular",
+        "nativeType": "ES-ley"
+      },
+      "dateStart": "2025-09-09T15:19:00+02:00",
+      "dateEnd": "2025-09-09T15:24:00+02:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_129/cortes/15_000400_129_0_26468_758196.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1558196I",
+        "duration": 300.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_129_0_26468_758196",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Alberto Catalán Higueras",
+          "lastname": "Catalán Higueras",
+          "firstname": "Alberto",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Mixto"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 5
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 134
+      },
+      "agendaItem": {
+        "title": "Proposición de Ley relativa a la escolarización del alumnado con\nnecesidades educativas especiales (Orgánica).",
+        "officialTitle": "Proposición de Ley relativa a la escolarización del alumnado con\nnecesidades educativas especiales (Orgánica).",
+        "type": "regular",
+        "nativeType": "ES-ley"
+      },
+      "dateStart": "2025-09-09T15:24:00+02:00",
+      "dateEnd": "2025-09-09T15:28:00+02:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_129/cortes/15_000400_129_0_26468_758197.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1558197I",
+        "duration": 240.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_129_0_26468_758197",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Javier Sánchez Serna",
+          "lastname": "Sánchez Serna",
+          "firstname": "Javier",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Mixto"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 6
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 134
+      },
+      "agendaItem": {
+        "title": "Proposición de Ley relativa a la escolarización del alumnado con\nnecesidades educativas especiales (Orgánica).",
+        "officialTitle": "Proposición de Ley relativa a la escolarización del alumnado con\nnecesidades educativas especiales (Orgánica).",
+        "type": "regular",
+        "nativeType": "ES-ley"
+      },
+      "dateStart": "2025-09-09T15:28:00+02:00",
+      "dateEnd": "2025-09-09T15:35:00+02:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_129/cortes/15_000400_129_0_26468_758198.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1558198I",
+        "duration": 420.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_129_0_26468_758198",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Joseba Andoni Agirretxea Urresti",
+          "lastname": "Agirretxea Urresti",
+          "firstname": "Joseba Andoni",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Vasco (EAJ-PNV)"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 7
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 134
+      },
+      "agendaItem": {
+        "title": "Proposición de Ley relativa a la escolarización del alumnado con\nnecesidades educativas especiales (Orgánica).",
+        "officialTitle": "Proposición de Ley relativa a la escolarización del alumnado con\nnecesidades educativas especiales (Orgánica).",
+        "type": "regular",
+        "nativeType": "ES-ley"
+      },
+      "dateStart": "2025-09-09T15:35:00+02:00",
+      "dateEnd": "2025-09-09T15:42:00+02:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_129/cortes/15_000400_129_0_26468_758199.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1558199I",
+        "duration": 420.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_129_0_26468_758199",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Marije Fullaondo la Cruz",
+          "lastname": "Fullaondo la Cruz",
+          "firstname": "Marije",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Euskal Herria Bildu"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 8
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 134
+      },
+      "agendaItem": {
+        "title": "Proposición de Ley relativa a la escolarización del alumnado con\nnecesidades educativas especiales (Orgánica).",
+        "officialTitle": "Proposición de Ley relativa a la escolarización del alumnado con\nnecesidades educativas especiales (Orgánica).",
+        "type": "regular",
+        "nativeType": "ES-ley"
+      },
+      "dateStart": "2025-09-09T15:42:00+02:00",
+      "dateEnd": "2025-09-09T15:47:00+02:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_129/cortes/15_000400_129_0_26468_758200.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1558200I",
+        "duration": 300.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_129_0_26468_758200",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Josep Maria Cervera Pinart",
+          "lastname": "Cervera Pinart",
+          "firstname": "Josep Maria",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Junts per Catalunya"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 9
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 134
+      },
+      "agendaItem": {
+        "title": "Proposición de Ley relativa a la escolarización del alumnado con\nnecesidades educativas especiales (Orgánica).",
+        "officialTitle": "Proposición de Ley relativa a la escolarización del alumnado con\nnecesidades educativas especiales (Orgánica).",
+        "type": "regular",
+        "nativeType": "ES-ley"
+      },
+      "dateStart": "2025-09-09T15:47:00+02:00",
+      "dateEnd": "2025-09-09T15:53:00+02:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_129/cortes/15_000400_129_0_26468_758201.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1558201I",
+        "duration": 360.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_129_0_26468_758201",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Etna Estrems Fayos",
+          "lastname": "Estrems Fayos",
+          "firstname": "Etna",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Republicano"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 10
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 134
+      },
+      "agendaItem": {
+        "title": "Proposición de Ley relativa a la escolarización del alumnado con\nnecesidades educativas especiales (Orgánica).",
+        "officialTitle": "Proposición de Ley relativa a la escolarización del alumnado con\nnecesidades educativas especiales (Orgánica).",
+        "type": "regular",
+        "nativeType": "ES-ley"
+      },
+      "dateStart": "2025-09-09T15:53:00+02:00",
+      "dateEnd": "2025-09-09T16:01:00+02:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_129/cortes/15_000400_129_0_26468_758202.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1558202I",
+        "duration": 480.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_129_0_26468_758202",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Rafael Cofiño Fernández",
+          "lastname": "Cofiño Fernández",
+          "firstname": "Rafael",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Plurinacional SUMAR"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 11
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 134
+      },
+      "agendaItem": {
+        "title": "Proposición de Ley relativa a la escolarización del alumnado con\nnecesidades educativas especiales (Orgánica).",
+        "officialTitle": "Proposición de Ley relativa a la escolarización del alumnado con\nnecesidades educativas especiales (Orgánica).",
+        "type": "regular",
+        "nativeType": "ES-ley"
+      },
+      "dateStart": "2025-09-09T16:01:00+02:00",
+      "dateEnd": "2025-09-09T16:10:00+02:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_129/cortes/15_000400_129_0_26468_758203.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1558203I",
+        "duration": 540.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_129_0_26468_758203",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "José Ramírez del Río",
+          "lastname": "Ramírez del Río",
+          "firstname": "José",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario VOX"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 12
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 134
+      },
+      "agendaItem": {
+        "title": "Proposición de Ley relativa a la escolarización del alumnado con\nnecesidades educativas especiales (Orgánica).",
+        "officialTitle": "Proposición de Ley relativa a la escolarización del alumnado con\nnecesidades educativas especiales (Orgánica).",
+        "type": "regular",
+        "nativeType": "ES-ley"
+      },
+      "dateStart": "2025-09-09T16:10:00+02:00",
+      "dateEnd": "2025-09-09T16:18:00+02:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_129/cortes/15_000400_129_0_26468_758204.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1558204I",
+        "duration": 480.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_129_0_26468_758204",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Maribel García López",
+          "lastname": "García López",
+          "firstname": "Maribel",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Socialista"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 13
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 134
+      },
+      "agendaItem": {
+        "title": "Proposición de Ley para el impulso de la inclusión laboral de las\npersonas con discapacidad a través de la cuota de reserva de empleo en\nlas empresas.",
+        "officialTitle": "Proposición de Ley para el impulso de la inclusión laboral de las\npersonas con discapacidad a través de la cuota de reserva de empleo en\nlas empresas.",
+        "type": "regular",
+        "nativeType": "ES-ley"
+      },
+      "dateStart": "2025-09-09T16:19:00+02:00",
+      "dateEnd": "2025-09-09T16:31:00+02:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_129/cortes/15_000400_129_0_26468_758206.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1558206I",
+        "duration": 720.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_129_0_26468_758206",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Emilio Sáez Cruz",
+          "lastname": "Sáez Cruz",
+          "firstname": "Emilio",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Socialista"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 14
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 134
+      },
+      "agendaItem": {
+        "title": "Proposición de Ley para el impulso de la inclusión laboral de las\npersonas con discapacidad a través de la cuota de reserva de empleo en\nlas empresas.",
+        "officialTitle": "Proposición de Ley para el impulso de la inclusión laboral de las\npersonas con discapacidad a través de la cuota de reserva de empleo en\nlas empresas.",
+        "type": "regular",
+        "nativeType": "ES-ley"
+      },
+      "dateStart": "2025-09-09T16:31:00+02:00",
+      "dateEnd": "2025-09-09T16:37:00+02:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_129/cortes/15_000400_129_0_26468_758207.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1558207I",
+        "duration": 360.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_129_0_26468_758207",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Nerea Renteria Lasanta",
+          "lastname": "Renteria Lasanta",
+          "firstname": "Nerea",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Vasco (EAJ-PNV)"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 15
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 134
+      },
+      "agendaItem": {
+        "title": "Proposición de Ley para el impulso de la inclusión laboral de las\npersonas con discapacidad a través de la cuota de reserva de empleo en\nlas empresas.",
+        "officialTitle": "Proposición de Ley para el impulso de la inclusión laboral de las\npersonas con discapacidad a través de la cuota de reserva de empleo en\nlas empresas.",
+        "type": "regular",
+        "nativeType": "ES-ley"
+      },
+      "dateStart": "2025-09-09T16:37:00+02:00",
+      "dateEnd": "2025-09-09T16:44:00+02:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_129/cortes/15_000400_129_0_26468_758208.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1558208I",
+        "duration": 420.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_129_0_26468_758208",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Oskar Matute García de Jalón",
+          "lastname": "Matute García de Jalón",
+          "firstname": "Oskar",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Euskal Herria Bildu"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 16
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 134
+      },
+      "agendaItem": {
+        "title": "Proposición de Ley para el impulso de la inclusión laboral de las\npersonas con discapacidad a través de la cuota de reserva de empleo en\nlas empresas.",
+        "officialTitle": "Proposición de Ley para el impulso de la inclusión laboral de las\npersonas con discapacidad a través de la cuota de reserva de empleo en\nlas empresas.",
+        "type": "regular",
+        "nativeType": "ES-ley"
+      },
+      "dateStart": "2025-09-09T16:44:00+02:00",
+      "dateEnd": "2025-09-09T16:50:00+02:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_129/cortes/15_000400_129_0_26468_758209.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1558209I",
+        "duration": 360.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_129_0_26468_758209",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Josep Maria Cervera Pinart",
+          "lastname": "Cervera Pinart",
+          "firstname": "Josep Maria",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Junts per Catalunya"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 17
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 134
+      },
+      "agendaItem": {
+        "title": "Proposición de Ley para el impulso de la inclusión laboral de las\npersonas con discapacidad a través de la cuota de reserva de empleo en\nlas empresas.",
+        "officialTitle": "Proposición de Ley para el impulso de la inclusión laboral de las\npersonas con discapacidad a través de la cuota de reserva de empleo en\nlas empresas.",
+        "type": "regular",
+        "nativeType": "ES-ley"
+      },
+      "dateStart": "2025-09-09T16:50:00+02:00",
+      "dateEnd": "2025-09-09T16:57:00+02:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_129/cortes/15_000400_129_0_26468_758210.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1558210I",
+        "duration": 420.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_129_0_26468_758210",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Jordi Salvador i Duch",
+          "lastname": "Salvador i Duch",
+          "firstname": "Jordi",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Republicano"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 18
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 134
+      },
+      "agendaItem": {
+        "title": "Proposición de Ley para el impulso de la inclusión laboral de las\npersonas con discapacidad a través de la cuota de reserva de empleo en\nlas empresas.",
+        "officialTitle": "Proposición de Ley para el impulso de la inclusión laboral de las\npersonas con discapacidad a través de la cuota de reserva de empleo en\nlas empresas.",
+        "type": "regular",
+        "nativeType": "ES-ley"
+      },
+      "dateStart": "2025-09-09T16:57:00+02:00",
+      "dateEnd": "2025-09-09T17:04:00+02:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_129/cortes/15_000400_129_0_26468_758211.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1558211I",
+        "duration": 420.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_129_0_26468_758211",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Aina Vidal Sáez",
+          "lastname": "Vidal Sáez",
+          "firstname": "Aina",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Plurinacional SUMAR"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 19
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 134
+      },
+      "agendaItem": {
+        "title": "Proposición de Ley para el impulso de la inclusión laboral de las\npersonas con discapacidad a través de la cuota de reserva de empleo en\nlas empresas.",
+        "officialTitle": "Proposición de Ley para el impulso de la inclusión laboral de las\npersonas con discapacidad a través de la cuota de reserva de empleo en\nlas empresas.",
+        "type": "regular",
+        "nativeType": "ES-ley"
+      },
+      "dateStart": "2025-09-09T17:04:00+02:00",
+      "dateEnd": "2025-09-09T17:12:00+02:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_129/cortes/15_000400_129_0_26468_758212.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1558212I",
+        "duration": 480.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_129_0_26468_758212",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Juan José Aizcorbe Torra",
+          "lastname": "Aizcorbe Torra",
+          "firstname": "Juan José",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario VOX"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 20
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 134
+      },
+      "agendaItem": {
+        "title": "Proposición de Ley para el impulso de la inclusión laboral de las\npersonas con discapacidad a través de la cuota de reserva de empleo en\nlas empresas.",
+        "officialTitle": "Proposición de Ley para el impulso de la inclusión laboral de las\npersonas con discapacidad a través de la cuota de reserva de empleo en\nlas empresas.",
+        "type": "regular",
+        "nativeType": "ES-ley"
+      },
+      "dateStart": "2025-09-09T17:12:00+02:00",
+      "dateEnd": "2025-09-09T17:21:00+02:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_129/cortes/15_000400_129_0_26468_758213.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1558213I",
+        "duration": 540.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_129_0_26468_758213",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Violante Tomás Olivares",
+          "lastname": "Tomás Olivares",
+          "firstname": "Violante",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Popular en el Congreso"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 21
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 134
+      },
+      "agendaItem": {
+        "title": "Real Decreto-ley 9/2025, de 29 de julio, por el que se amplía el\npermiso de nacimiento y cuidado, mediante la modificación del texto\nrefundido de la Ley del Estatuto de los Trabajadores, aprobado por el\nReal Decreto Legislativo 2/2015, de 23 de octubre, el texto refundido de\nla Ley del Estatuto Básico del Empleado Público, aprobado por el Real\nDecreto Legislativo 5/2015, de 30 de octubre, y el texto refundido de la\nLey General de la Seguridad Social, aprobado por el Real Decreto\nLegislativo 8/2015, de 30 de octubre, para completar la transposición de\nla Directiva (UE) 2019/1158 del Parlamento Europeo y del Consejo, de 20\nde junio de 2019, relativa a la conciliación de la vida familiar y la\nvida profesional de los progenitores y los cuidadores, y por la que se\nderoga la Directiva 2010/18/UE del Consejo.",
+        "officialTitle": "Real Decreto-ley 9/2025, de 29 de julio, por el que se amplía el\npermiso de nacimiento y cuidado, mediante la modificación del texto\nrefundido de la Ley del Estatuto de los Trabajadores, aprobado por el\nReal Decreto Legislativo 2/2015, de 23 de octubre, el texto refundido de\nla Ley del Estatuto Básico del Empleado Público, aprobado por el Real\nDecreto Legislativo 5/2015, de 30 de octubre, y el texto refundido de la\nLey General de la Seguridad Social, aprobado por el Real Decreto\nLegislativo 8/2015, de 30 de octubre, para completar la transposición de\nla Directiva (UE) 2019/1158 del Parlamento Europeo y del Consejo, de 20\nde junio de 2019, relativa a la conciliación de la vida familiar y la\nvida profesional de los progenitores y los cuidadores, y por la que se\nderoga la Directiva 2010/18/UE del Consejo.",
+        "type": "regular",
+        "nativeType": "ES-ley"
+      },
+      "dateStart": "2025-09-09T17:22:00+02:00",
+      "dateEnd": "2025-09-09T17:52:00+02:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_129/cortes/15_000400_129_0_26468_758216.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1558216I",
+        "duration": 1800.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_129_0_26468_758216",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Yolanda Díaz Pérez",
+          "lastname": "Díaz Pérez",
+          "firstname": "Yolanda",
+          "type": "member of government",
+          "role": "Vicepresidenta Segunda y Ministra de Trabajo y Economía Social",
+          "faction": {
+            "label": "Grupo Parlamentario Plurinacional SUMAR"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 22
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 134
+      },
+      "agendaItem": {
+        "title": "Real Decreto-ley 9/2025, de 29 de julio, por el que se amplía el\npermiso de nacimiento y cuidado, mediante la modificación del texto\nrefundido de la Ley del Estatuto de los Trabajadores, aprobado por el\nReal Decreto Legislativo 2/2015, de 23 de octubre, el texto refundido de\nla Ley del Estatuto Básico del Empleado Público, aprobado por el Real\nDecreto Legislativo 5/2015, de 30 de octubre, y el texto refundido de la\nLey General de la Seguridad Social, aprobado por el Real Decreto\nLegislativo 8/2015, de 30 de octubre, para completar la transposición de\nla Directiva (UE) 2019/1158 del Parlamento Europeo y del Consejo, de 20\nde junio de 2019, relativa a la conciliación de la vida familiar y la\nvida profesional de los progenitores y los cuidadores, y por la que se\nderoga la Directiva 2010/18/UE del Consejo.",
+        "officialTitle": "Real Decreto-ley 9/2025, de 29 de julio, por el que se amplía el\npermiso de nacimiento y cuidado, mediante la modificación del texto\nrefundido de la Ley del Estatuto de los Trabajadores, aprobado por el\nReal Decreto Legislativo 2/2015, de 23 de octubre, el texto refundido de\nla Ley del Estatuto Básico del Empleado Público, aprobado por el Real\nDecreto Legislativo 5/2015, de 30 de octubre, y el texto refundido de la\nLey General de la Seguridad Social, aprobado por el Real Decreto\nLegislativo 8/2015, de 30 de octubre, para completar la transposición de\nla Directiva (UE) 2019/1158 del Parlamento Europeo y del Consejo, de 20\nde junio de 2019, relativa a la conciliación de la vida familiar y la\nvida profesional de los progenitores y los cuidadores, y por la que se\nderoga la Directiva 2010/18/UE del Consejo.",
+        "type": "regular",
+        "nativeType": "ES-ley"
+      },
+      "dateStart": "2025-09-09T17:52:00+02:00",
+      "dateEnd": "2025-09-09T17:55:00+02:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_129/cortes/15_000400_129_0_26468_758217.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1558217I",
+        "duration": 180.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_129_0_26468_758217",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Àgueda Micó Micó",
+          "lastname": "Micó Micó",
+          "firstname": "Àgueda",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Mixto"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 23
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 134
+      },
+      "agendaItem": {
+        "title": "Real Decreto-ley 9/2025, de 29 de julio, por el que se amplía el\npermiso de nacimiento y cuidado, mediante la modificación del texto\nrefundido de la Ley del Estatuto de los Trabajadores, aprobado por el\nReal Decreto Legislativo 2/2015, de 23 de octubre, el texto refundido de\nla Ley del Estatuto Básico del Empleado Público, aprobado por el Real\nDecreto Legislativo 5/2015, de 30 de octubre, y el texto refundido de la\nLey General de la Seguridad Social, aprobado por el Real Decreto\nLegislativo 8/2015, de 30 de octubre, para completar la transposición de\nla Directiva (UE) 2019/1158 del Parlamento Europeo y del Consejo, de 20\nde junio de 2019, relativa a la conciliación de la vida familiar y la\nvida profesional de los progenitores y los cuidadores, y por la que se\nderoga la Directiva 2010/18/UE del Consejo.",
+        "officialTitle": "Real Decreto-ley 9/2025, de 29 de julio, por el que se amplía el\npermiso de nacimiento y cuidado, mediante la modificación del texto\nrefundido de la Ley del Estatuto de los Trabajadores, aprobado por el\nReal Decreto Legislativo 2/2015, de 23 de octubre, el texto refundido de\nla Ley del Estatuto Básico del Empleado Público, aprobado por el Real\nDecreto Legislativo 5/2015, de 30 de octubre, y el texto refundido de la\nLey General de la Seguridad Social, aprobado por el Real Decreto\nLegislativo 8/2015, de 30 de octubre, para completar la transposición de\nla Directiva (UE) 2019/1158 del Parlamento Europeo y del Consejo, de 20\nde junio de 2019, relativa a la conciliación de la vida familiar y la\nvida profesional de los progenitores y los cuidadores, y por la que se\nderoga la Directiva 2010/18/UE del Consejo.",
+        "type": "regular",
+        "nativeType": "ES-ley"
+      },
+      "dateStart": "2025-09-09T17:55:00+02:00",
+      "dateEnd": "2025-09-09T17:59:00+02:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_129/cortes/15_000400_129_0_26468_758218.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1558218I",
+        "duration": 240.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_129_0_26468_758218",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Néstor Rego Candamil",
+          "lastname": "Rego Candamil",
+          "firstname": "Néstor",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Mixto"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 24
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 134
+      },
+      "agendaItem": {
+        "title": "Real Decreto-ley 9/2025, de 29 de julio, por el que se amplía el\npermiso de nacimiento y cuidado, mediante la modificación del texto\nrefundido de la Ley del Estatuto de los Trabajadores, aprobado por el\nReal Decreto Legislativo 2/2015, de 23 de octubre, el texto refundido de\nla Ley del Estatuto Básico del Empleado Público, aprobado por el Real\nDecreto Legislativo 5/2015, de 30 de octubre, y el texto refundido de la\nLey General de la Seguridad Social, aprobado por el Real Decreto\nLegislativo 8/2015, de 30 de octubre, para completar la transposición de\nla Directiva (UE) 2019/1158 del Parlamento Europeo y del Consejo, de 20\nde junio de 2019, relativa a la conciliación de la vida familiar y la\nvida profesional de los progenitores y los cuidadores, y por la que se\nderoga la Directiva 2010/18/UE del Consejo.",
+        "officialTitle": "Real Decreto-ley 9/2025, de 29 de julio, por el que se amplía el\npermiso de nacimiento y cuidado, mediante la modificación del texto\nrefundido de la Ley del Estatuto de los Trabajadores, aprobado por el\nReal Decreto Legislativo 2/2015, de 23 de octubre, el texto refundido de\nla Ley del Estatuto Básico del Empleado Público, aprobado por el Real\nDecreto Legislativo 5/2015, de 30 de octubre, y el texto refundido de la\nLey General de la Seguridad Social, aprobado por el Real Decreto\nLegislativo 8/2015, de 30 de octubre, para completar la transposición de\nla Directiva (UE) 2019/1158 del Parlamento Europeo y del Consejo, de 20\nde junio de 2019, relativa a la conciliación de la vida familiar y la\nvida profesional de los progenitores y los cuidadores, y por la que se\nderoga la Directiva 2010/18/UE del Consejo.",
+        "type": "regular",
+        "nativeType": "ES-ley"
+      },
+      "dateStart": "2025-09-09T17:59:00+02:00",
+      "dateEnd": "2025-09-09T18:02:00+02:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_129/cortes/15_000400_129_0_26468_758219.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1558219I",
+        "duration": 180.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_129_0_26468_758219",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Noemí Santana Perera",
+          "lastname": "Santana Perera",
+          "firstname": "Noemí",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Mixto"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 25
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 134
+      },
+      "agendaItem": {
+        "title": "Real Decreto-ley 9/2025, de 29 de julio, por el que se amplía el\npermiso de nacimiento y cuidado, mediante la modificación del texto\nrefundido de la Ley del Estatuto de los Trabajadores, aprobado por el\nReal Decreto Legislativo 2/2015, de 23 de octubre, el texto refundido de\nla Ley del Estatuto Básico del Empleado Público, aprobado por el Real\nDecreto Legislativo 5/2015, de 30 de octubre, y el texto refundido de la\nLey General de la Seguridad Social, aprobado por el Real Decreto\nLegislativo 8/2015, de 30 de octubre, para completar la transposición de\nla Directiva (UE) 2019/1158 del Parlamento Europeo y del Consejo, de 20\nde junio de 2019, relativa a la conciliación de la vida familiar y la\nvida profesional de los progenitores y los cuidadores, y por la que se\nderoga la Directiva 2010/18/UE del Consejo.",
+        "officialTitle": "Real Decreto-ley 9/2025, de 29 de julio, por el que se amplía el\npermiso de nacimiento y cuidado, mediante la modificación del texto\nrefundido de la Ley del Estatuto de los Trabajadores, aprobado por el\nReal Decreto Legislativo 2/2015, de 23 de octubre, el texto refundido de\nla Ley del Estatuto Básico del Empleado Público, aprobado por el Real\nDecreto Legislativo 5/2015, de 30 de octubre, y el texto refundido de la\nLey General de la Seguridad Social, aprobado por el Real Decreto\nLegislativo 8/2015, de 30 de octubre, para completar la transposición de\nla Directiva (UE) 2019/1158 del Parlamento Europeo y del Consejo, de 20\nde junio de 2019, relativa a la conciliación de la vida familiar y la\nvida profesional de los progenitores y los cuidadores, y por la que se\nderoga la Directiva 2010/18/UE del Consejo.",
+        "type": "regular",
+        "nativeType": "ES-ley"
+      },
+      "dateStart": "2025-09-09T18:03:00+02:00",
+      "dateEnd": "2025-09-09T18:09:00+02:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_129/cortes/15_000400_129_0_26468_758220.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1558220I",
+        "duration": 360.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_129_0_26468_758220",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Idoia Sagastizabal Unzetabarrenetxea",
+          "lastname": "Sagastizabal Unzetabarrenetxea",
+          "firstname": "Idoia",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Vasco (EAJ-PNV)"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 26
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 134
+      },
+      "agendaItem": {
+        "title": "Real Decreto-ley 9/2025, de 29 de julio, por el que se amplía el\npermiso de nacimiento y cuidado, mediante la modificación del texto\nrefundido de la Ley del Estatuto de los Trabajadores, aprobado por el\nReal Decreto Legislativo 2/2015, de 23 de octubre, el texto refundido de\nla Ley del Estatuto Básico del Empleado Público, aprobado por el Real\nDecreto Legislativo 5/2015, de 30 de octubre, y el texto refundido de la\nLey General de la Seguridad Social, aprobado por el Real Decreto\nLegislativo 8/2015, de 30 de octubre, para completar la transposición de\nla Directiva (UE) 2019/1158 del Parlamento Europeo y del Consejo, de 20\nde junio de 2019, relativa a la conciliación de la vida familiar y la\nvida profesional de los progenitores y los cuidadores, y por la que se\nderoga la Directiva 2010/18/UE del Consejo.",
+        "officialTitle": "Real Decreto-ley 9/2025, de 29 de julio, por el que se amplía el\npermiso de nacimiento y cuidado, mediante la modificación del texto\nrefundido de la Ley del Estatuto de los Trabajadores, aprobado por el\nReal Decreto Legislativo 2/2015, de 23 de octubre, el texto refundido de\nla Ley del Estatuto Básico del Empleado Público, aprobado por el Real\nDecreto Legislativo 5/2015, de 30 de octubre, y el texto refundido de la\nLey General de la Seguridad Social, aprobado por el Real Decreto\nLegislativo 8/2015, de 30 de octubre, para completar la transposición de\nla Directiva (UE) 2019/1158 del Parlamento Europeo y del Consejo, de 20\nde junio de 2019, relativa a la conciliación de la vida familiar y la\nvida profesional de los progenitores y los cuidadores, y por la que se\nderoga la Directiva 2010/18/UE del Consejo.",
+        "type": "regular",
+        "nativeType": "ES-ley"
+      },
+      "dateStart": "2025-09-09T18:09:00+02:00",
+      "dateEnd": "2025-09-09T18:16:00+02:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_129/cortes/15_000400_129_0_26468_758221.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1558221I",
+        "duration": 420.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_129_0_26468_758221",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Mertxe Aizpurua Arzallus",
+          "lastname": "Aizpurua Arzallus",
+          "firstname": "Mertxe",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Euskal Herria Bildu"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 27
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 134
+      },
+      "agendaItem": {
+        "title": "Real Decreto-ley 9/2025, de 29 de julio, por el que se amplía el\npermiso de nacimiento y cuidado, mediante la modificación del texto\nrefundido de la Ley del Estatuto de los Trabajadores, aprobado por el\nReal Decreto Legislativo 2/2015, de 23 de octubre, el texto refundido de\nla Ley del Estatuto Básico del Empleado Público, aprobado por el Real\nDecreto Legislativo 5/2015, de 30 de octubre, y el texto refundido de la\nLey General de la Seguridad Social, aprobado por el Real Decreto\nLegislativo 8/2015, de 30 de octubre, para completar la transposición de\nla Directiva (UE) 2019/1158 del Parlamento Europeo y del Consejo, de 20\nde junio de 2019, relativa a la conciliación de la vida familiar y la\nvida profesional de los progenitores y los cuidadores, y por la que se\nderoga la Directiva 2010/18/UE del Consejo.",
+        "officialTitle": "Real Decreto-ley 9/2025, de 29 de julio, por el que se amplía el\npermiso de nacimiento y cuidado, mediante la modificación del texto\nrefundido de la Ley del Estatuto de los Trabajadores, aprobado por el\nReal Decreto Legislativo 2/2015, de 23 de octubre, el texto refundido de\nla Ley del Estatuto Básico del Empleado Público, aprobado por el Real\nDecreto Legislativo 5/2015, de 30 de octubre, y el texto refundido de la\nLey General de la Seguridad Social, aprobado por el Real Decreto\nLegislativo 8/2015, de 30 de octubre, para completar la transposición de\nla Directiva (UE) 2019/1158 del Parlamento Europeo y del Consejo, de 20\nde junio de 2019, relativa a la conciliación de la vida familiar y la\nvida profesional de los progenitores y los cuidadores, y por la que se\nderoga la Directiva 2010/18/UE del Consejo.",
+        "type": "regular",
+        "nativeType": "ES-ley"
+      },
+      "dateStart": "2025-09-09T18:17:00+02:00",
+      "dateEnd": "2025-09-09T18:23:00+02:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_129/cortes/15_000400_129_1_26470_758225.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1558225I",
+        "duration": 360.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_129_1_26470_758225",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Josep Maria Cervera Pinart",
+          "lastname": "Cervera Pinart",
+          "firstname": "Josep Maria",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Junts per Catalunya"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 28
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 134
+      },
+      "agendaItem": {
+        "title": "Real Decreto-ley 9/2025, de 29 de julio, por el que se amplía el\npermiso de nacimiento y cuidado, mediante la modificación del texto\nrefundido de la Ley del Estatuto de los Trabajadores, aprobado por el\nReal Decreto Legislativo 2/2015, de 23 de octubre, el texto refundido de\nla Ley del Estatuto Básico del Empleado Público, aprobado por el Real\nDecreto Legislativo 5/2015, de 30 de octubre, y el texto refundido de la\nLey General de la Seguridad Social, aprobado por el Real Decreto\nLegislativo 8/2015, de 30 de octubre, para completar la transposición de\nla Directiva (UE) 2019/1158 del Parlamento Europeo y del Consejo, de 20\nde junio de 2019, relativa a la conciliación de la vida familiar y la\nvida profesional de los progenitores y los cuidadores, y por la que se\nderoga la Directiva 2010/18/UE del Consejo.",
+        "officialTitle": "Real Decreto-ley 9/2025, de 29 de julio, por el que se amplía el\npermiso de nacimiento y cuidado, mediante la modificación del texto\nrefundido de la Ley del Estatuto de los Trabajadores, aprobado por el\nReal Decreto Legislativo 2/2015, de 23 de octubre, el texto refundido de\nla Ley del Estatuto Básico del Empleado Público, aprobado por el Real\nDecreto Legislativo 5/2015, de 30 de octubre, y el texto refundido de la\nLey General de la Seguridad Social, aprobado por el Real Decreto\nLegislativo 8/2015, de 30 de octubre, para completar la transposición de\nla Directiva (UE) 2019/1158 del Parlamento Europeo y del Consejo, de 20\nde junio de 2019, relativa a la conciliación de la vida familiar y la\nvida profesional de los progenitores y los cuidadores, y por la que se\nderoga la Directiva 2010/18/UE del Consejo.",
+        "type": "regular",
+        "nativeType": "ES-ley"
+      },
+      "dateStart": "2025-09-09T18:23:00+02:00",
+      "dateEnd": "2025-09-09T18:30:00+02:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_129/cortes/15_000400_129_1_26470_758227.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1558227I",
+        "duration": 420.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_129_1_26470_758227",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Jordi Salvador i Duch",
+          "lastname": "Salvador i Duch",
+          "firstname": "Jordi",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Republicano"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 29
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 134
+      },
+      "agendaItem": {
+        "title": "Real Decreto-ley 9/2025, de 29 de julio, por el que se amplía el\npermiso de nacimiento y cuidado, mediante la modificación del texto\nrefundido de la Ley del Estatuto de los Trabajadores, aprobado por el\nReal Decreto Legislativo 2/2015, de 23 de octubre, el texto refundido de\nla Ley del Estatuto Básico del Empleado Público, aprobado por el Real\nDecreto Legislativo 5/2015, de 30 de octubre, y el texto refundido de la\nLey General de la Seguridad Social, aprobado por el Real Decreto\nLegislativo 8/2015, de 30 de octubre, para completar la transposición de\nla Directiva (UE) 2019/1158 del Parlamento Europeo y del Consejo, de 20\nde junio de 2019, relativa a la conciliación de la vida familiar y la\nvida profesional de los progenitores y los cuidadores, y por la que se\nderoga la Directiva 2010/18/UE del Consejo.",
+        "officialTitle": "Real Decreto-ley 9/2025, de 29 de julio, por el que se amplía el\npermiso de nacimiento y cuidado, mediante la modificación del texto\nrefundido de la Ley del Estatuto de los Trabajadores, aprobado por el\nReal Decreto Legislativo 2/2015, de 23 de octubre, el texto refundido de\nla Ley del Estatuto Básico del Empleado Público, aprobado por el Real\nDecreto Legislativo 5/2015, de 30 de octubre, y el texto refundido de la\nLey General de la Seguridad Social, aprobado por el Real Decreto\nLegislativo 8/2015, de 30 de octubre, para completar la transposición de\nla Directiva (UE) 2019/1158 del Parlamento Europeo y del Consejo, de 20\nde junio de 2019, relativa a la conciliación de la vida familiar y la\nvida profesional de los progenitores y los cuidadores, y por la que se\nderoga la Directiva 2010/18/UE del Consejo.",
+        "type": "regular",
+        "nativeType": "ES-ley"
+      },
+      "dateStart": "2025-09-09T18:30:00+02:00",
+      "dateEnd": "2025-09-09T18:38:00+02:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_129/cortes/15_000400_129_1_26470_758229.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1558229I",
+        "duration": 480.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_129_1_26470_758229",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Júlia Boada Danés",
+          "lastname": "Boada Danés",
+          "firstname": "Júlia",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Plurinacional SUMAR"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 30
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 134
+      },
+      "agendaItem": {
+        "title": "Real Decreto-ley 9/2025, de 29 de julio, por el que se amplía el\npermiso de nacimiento y cuidado, mediante la modificación del texto\nrefundido de la Ley del Estatuto de los Trabajadores, aprobado por el\nReal Decreto Legislativo 2/2015, de 23 de octubre, el texto refundido de\nla Ley del Estatuto Básico del Empleado Público, aprobado por el Real\nDecreto Legislativo 5/2015, de 30 de octubre, y el texto refundido de la\nLey General de la Seguridad Social, aprobado por el Real Decreto\nLegislativo 8/2015, de 30 de octubre, para completar la transposición de\nla Directiva (UE) 2019/1158 del Parlamento Europeo y del Consejo, de 20\nde junio de 2019, relativa a la conciliación de la vida familiar y la\nvida profesional de los progenitores y los cuidadores, y por la que se\nderoga la Directiva 2010/18/UE del Consejo.",
+        "officialTitle": "Real Decreto-ley 9/2025, de 29 de julio, por el que se amplía el\npermiso de nacimiento y cuidado, mediante la modificación del texto\nrefundido de la Ley del Estatuto de los Trabajadores, aprobado por el\nReal Decreto Legislativo 2/2015, de 23 de octubre, el texto refundido de\nla Ley del Estatuto Básico del Empleado Público, aprobado por el Real\nDecreto Legislativo 5/2015, de 30 de octubre, y el texto refundido de la\nLey General de la Seguridad Social, aprobado por el Real Decreto\nLegislativo 8/2015, de 30 de octubre, para completar la transposición de\nla Directiva (UE) 2019/1158 del Parlamento Europeo y del Consejo, de 20\nde junio de 2019, relativa a la conciliación de la vida familiar y la\nvida profesional de los progenitores y los cuidadores, y por la que se\nderoga la Directiva 2010/18/UE del Consejo.",
+        "type": "regular",
+        "nativeType": "ES-ley"
+      },
+      "dateStart": "2025-09-09T18:38:00+02:00",
+      "dateEnd": "2025-09-09T18:46:00+02:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_129/cortes/15_000400_129_1_26470_758230.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1558230I",
+        "duration": 480.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_129_1_26470_758230",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "María de la Cabeza Ruiz Solás",
+          "lastname": "Ruiz Solás",
+          "firstname": "María de la Cabeza",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario VOX"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 31
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 134
+      },
+      "agendaItem": {
+        "title": "Real Decreto-ley 9/2025, de 29 de julio, por el que se amplía el\npermiso de nacimiento y cuidado, mediante la modificación del texto\nrefundido de la Ley del Estatuto de los Trabajadores, aprobado por el\nReal Decreto Legislativo 2/2015, de 23 de octubre, el texto refundido de\nla Ley del Estatuto Básico del Empleado Público, aprobado por el Real\nDecreto Legislativo 5/2015, de 30 de octubre, y el texto refundido de la\nLey General de la Seguridad Social, aprobado por el Real Decreto\nLegislativo 8/2015, de 30 de octubre, para completar la transposición de\nla Directiva (UE) 2019/1158 del Parlamento Europeo y del Consejo, de 20\nde junio de 2019, relativa a la conciliación de la vida familiar y la\nvida profesional de los progenitores y los cuidadores, y por la que se\nderoga la Directiva 2010/18/UE del Consejo.",
+        "officialTitle": "Real Decreto-ley 9/2025, de 29 de julio, por el que se amplía el\npermiso de nacimiento y cuidado, mediante la modificación del texto\nrefundido de la Ley del Estatuto de los Trabajadores, aprobado por el\nReal Decreto Legislativo 2/2015, de 23 de octubre, el texto refundido de\nla Ley del Estatuto Básico del Empleado Público, aprobado por el Real\nDecreto Legislativo 5/2015, de 30 de octubre, y el texto refundido de la\nLey General de la Seguridad Social, aprobado por el Real Decreto\nLegislativo 8/2015, de 30 de octubre, para completar la transposición de\nla Directiva (UE) 2019/1158 del Parlamento Europeo y del Consejo, de 20\nde junio de 2019, relativa a la conciliación de la vida familiar y la\nvida profesional de los progenitores y los cuidadores, y por la que se\nderoga la Directiva 2010/18/UE del Consejo.",
+        "type": "regular",
+        "nativeType": "ES-ley"
+      },
+      "dateStart": "2025-09-09T18:46:00+02:00",
+      "dateEnd": "2025-09-09T18:56:00+02:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_129/cortes/15_000400_129_1_26470_758231.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1558231I",
+        "duration": 600.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_129_1_26470_758231",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Elisa Garrido Jiménez",
+          "lastname": "Garrido Jiménez",
+          "firstname": "Elisa",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Socialista"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 32
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 134
+      },
+      "agendaItem": {
+        "title": "Real Decreto-ley 9/2025, de 29 de julio, por el que se amplía el\npermiso de nacimiento y cuidado, mediante la modificación del texto\nrefundido de la Ley del Estatuto de los Trabajadores, aprobado por el\nReal Decreto Legislativo 2/2015, de 23 de octubre, el texto refundido de\nla Ley del Estatuto Básico del Empleado Público, aprobado por el Real\nDecreto Legislativo 5/2015, de 30 de octubre, y el texto refundido de la\nLey General de la Seguridad Social, aprobado por el Real Decreto\nLegislativo 8/2015, de 30 de octubre, para completar la transposición de\nla Directiva (UE) 2019/1158 del Parlamento Europeo y del Consejo, de 20\nde junio de 2019, relativa a la conciliación de la vida familiar y la\nvida profesional de los progenitores y los cuidadores, y por la que se\nderoga la Directiva 2010/18/UE del Consejo.",
+        "officialTitle": "Real Decreto-ley 9/2025, de 29 de julio, por el que se amplía el\npermiso de nacimiento y cuidado, mediante la modificación del texto\nrefundido de la Ley del Estatuto de los Trabajadores, aprobado por el\nReal Decreto Legislativo 2/2015, de 23 de octubre, el texto refundido de\nla Ley del Estatuto Básico del Empleado Público, aprobado por el Real\nDecreto Legislativo 5/2015, de 30 de octubre, y el texto refundido de la\nLey General de la Seguridad Social, aprobado por el Real Decreto\nLegislativo 8/2015, de 30 de octubre, para completar la transposición de\nla Directiva (UE) 2019/1158 del Parlamento Europeo y del Consejo, de 20\nde junio de 2019, relativa a la conciliación de la vida familiar y la\nvida profesional de los progenitores y los cuidadores, y por la que se\nderoga la Directiva 2010/18/UE del Consejo.",
+        "type": "regular",
+        "nativeType": "ES-ley"
+      },
+      "dateStart": "2025-09-09T18:56:00+02:00",
+      "dateEnd": "2025-09-09T19:06:00+02:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_129/cortes/15_000400_129_1_26470_758232.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1558232I",
+        "duration": 600.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_129_1_26470_758232",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Carmen Fúnez de Gregorio",
+          "lastname": "Fúnez de Gregorio",
+          "firstname": "Carmen",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Popular en el Congreso"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 33
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 134
+      },
+      "agendaItem": {
+        "title": "Proposición no de Ley relativa a garantizar la igualdad de los\nespañoles para afrontar el inicio del curso escolar 2025/2026.",
+        "officialTitle": "Proposición no de Ley relativa a garantizar la igualdad de los\nespañoles para afrontar el inicio del curso escolar 2025/2026.",
+        "type": "regular"
+      },
+      "dateStart": "2025-09-09T19:06:00+02:00",
+      "dateEnd": "2025-09-09T19:15:00+02:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_129/cortes/15_000400_129_1_26470_758236.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1558236I",
+        "duration": 540.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_129_1_26470_758236",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Óscar Clavell López",
+          "lastname": "Clavell López",
+          "firstname": "Óscar",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Popular en el Congreso"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 34
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 134
+      },
+      "agendaItem": {
+        "title": "Proposición no de Ley relativa a garantizar la igualdad de los\nespañoles para afrontar el inicio del curso escolar 2025/2026.",
+        "officialTitle": "Proposición no de Ley relativa a garantizar la igualdad de los\nespañoles para afrontar el inicio del curso escolar 2025/2026.",
+        "type": "regular"
+      },
+      "dateStart": "2025-09-09T19:15:00+02:00",
+      "dateEnd": "2025-09-09T19:22:00+02:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_129/cortes/15_000400_129_1_26470_758237.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1558237I",
+        "duration": 420.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_129_1_26470_758237",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Joaquín Robles López",
+          "lastname": "Robles López",
+          "firstname": "Joaquín",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario VOX"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 35
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 134
+      },
+      "agendaItem": {
+        "title": "Proposición no de Ley relativa a garantizar la igualdad de los\nespañoles para afrontar el inicio del curso escolar 2025/2026.",
+        "officialTitle": "Proposición no de Ley relativa a garantizar la igualdad de los\nespañoles para afrontar el inicio del curso escolar 2025/2026.",
+        "type": "regular"
+      },
+      "dateStart": "2025-09-09T19:22:00+02:00",
+      "dateEnd": "2025-09-09T19:28:00+02:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_129/cortes/15_000400_129_1_26470_758238.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1558238I",
+        "duration": 360.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_129_1_26470_758238",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Àgueda Micó Micó",
+          "lastname": "Micó Micó",
+          "firstname": "Àgueda",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Mixto"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 36
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 134
+      },
+      "agendaItem": {
+        "title": "Proposición no de Ley relativa a garantizar la igualdad de los\nespañoles para afrontar el inicio del curso escolar 2025/2026.",
+        "officialTitle": "Proposición no de Ley relativa a garantizar la igualdad de los\nespañoles para afrontar el inicio del curso escolar 2025/2026.",
+        "type": "regular"
+      },
+      "dateStart": "2025-09-09T19:28:00+02:00",
+      "dateEnd": "2025-09-09T19:33:00+02:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_129/cortes/15_000400_129_1_26470_758239.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1558239I",
+        "duration": 300.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_129_1_26470_758239",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Joseba Andoni Agirretxea Urresti",
+          "lastname": "Agirretxea Urresti",
+          "firstname": "Joseba Andoni",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Vasco (EAJ-PNV)"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 37
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 134
+      },
+      "agendaItem": {
+        "title": "Proposición no de Ley relativa a garantizar la igualdad de los\nespañoles para afrontar el inicio del curso escolar 2025/2026.",
+        "officialTitle": "Proposición no de Ley relativa a garantizar la igualdad de los\nespañoles para afrontar el inicio del curso escolar 2025/2026.",
+        "type": "regular"
+      },
+      "dateStart": "2025-09-09T19:33:00+02:00",
+      "dateEnd": "2025-09-09T19:37:00+02:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_129/cortes/15_000400_129_1_26470_758240.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1558240I",
+        "duration": 240.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_129_1_26470_758240",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Marije Fullaondo la Cruz",
+          "lastname": "Fullaondo la Cruz",
+          "firstname": "Marije",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Euskal Herria Bildu"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 38
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 134
+      },
+      "agendaItem": {
+        "title": "Proposición no de Ley relativa a garantizar la igualdad de los\nespañoles para afrontar el inicio del curso escolar 2025/2026.",
+        "officialTitle": "Proposición no de Ley relativa a garantizar la igualdad de los\nespañoles para afrontar el inicio del curso escolar 2025/2026.",
+        "type": "regular"
+      },
+      "dateStart": "2025-09-09T19:37:00+02:00",
+      "dateEnd": "2025-09-09T19:43:00+02:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_129/cortes/15_000400_129_1_26470_758241.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1558241I",
+        "duration": 360.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_129_1_26470_758241",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Etna Estrems Fayos",
+          "lastname": "Estrems Fayos",
+          "firstname": "Etna",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Republicano"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 39
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 134
+      },
+      "agendaItem": {
+        "title": "Proposición no de Ley relativa a garantizar la igualdad de los\nespañoles para afrontar el inicio del curso escolar 2025/2026.",
+        "officialTitle": "Proposición no de Ley relativa a garantizar la igualdad de los\nespañoles para afrontar el inicio del curso escolar 2025/2026.",
+        "type": "regular"
+      },
+      "dateStart": "2025-09-09T19:43:00+02:00",
+      "dateEnd": "2025-09-09T19:50:00+02:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_129/cortes/15_000400_129_1_26470_758242.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1558242I",
+        "duration": 420.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_129_1_26470_758242",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Juan Antonio Valero Morales",
+          "lastname": "Valero Morales",
+          "firstname": "Juan Antonio",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Plurinacional SUMAR"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 40
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 134
+      },
+      "agendaItem": {
+        "title": "Proposición no de Ley relativa a garantizar la igualdad de los\nespañoles para afrontar el inicio del curso escolar 2025/2026.",
+        "officialTitle": "Proposición no de Ley relativa a garantizar la igualdad de los\nespañoles para afrontar el inicio del curso escolar 2025/2026.",
+        "type": "regular"
+      },
+      "dateStart": "2025-09-09T19:50:00+02:00",
+      "dateEnd": "2025-09-09T19:58:00+02:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_129/cortes/15_000400_129_1_26470_758243.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1558243I",
+        "duration": 480.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_129_1_26470_758243",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "María Luz Martínez Seijo",
+          "lastname": "Martínez Seijo",
+          "firstname": "María Luz",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Socialista"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 41
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 134
+      },
+      "agendaItem": {
+        "title": "Proposición no de Ley sobre el impulso de la Agenda 2030.",
+        "officialTitle": "Proposición no de Ley sobre el impulso de la Agenda 2030.",
+        "type": "regular"
+      },
+      "dateStart": "2025-09-09T19:58:00+02:00",
+      "dateEnd": "2025-09-09T20:07:00+02:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_129/cortes/15_000400_129_1_26470_758245.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1558245I",
+        "duration": 540.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_129_1_26470_758245",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Javier Alfonso Cendón",
+          "lastname": "Alfonso Cendón",
+          "firstname": "Javier",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Socialista"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 42
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 134
+      },
+      "agendaItem": {
+        "title": "Proposición no de Ley sobre el impulso de la Agenda 2030.",
+        "officialTitle": "Proposición no de Ley sobre el impulso de la Agenda 2030.",
+        "type": "regular"
+      },
+      "dateStart": "2025-09-09T20:07:00+02:00",
+      "dateEnd": "2025-09-09T20:13:00+02:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_129/cortes/15_000400_129_1_26470_758246.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1558246I",
+        "duration": 360.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_129_1_26470_758246",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Lander Martínez Hierro",
+          "lastname": "Martínez Hierro",
+          "firstname": "Lander",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Plurinacional SUMAR"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 43
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 134
+      },
+      "agendaItem": {
+        "title": "Proposición no de Ley sobre el impulso de la Agenda 2030.",
+        "officialTitle": "Proposición no de Ley sobre el impulso de la Agenda 2030.",
+        "type": "regular"
+      },
+      "dateStart": "2025-09-09T20:13:00+02:00",
+      "dateEnd": "2025-09-09T20:19:00+02:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_129/cortes/15_000400_129_1_26470_758247.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1558247I",
+        "duration": 360.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_129_1_26470_758247",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Guillermo Mariscal Anaya",
+          "lastname": "Mariscal Anaya",
+          "firstname": "Guillermo",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Popular en el Congreso"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 44
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 134
+      },
+      "agendaItem": {
+        "title": "Proposición no de Ley sobre el impulso de la Agenda 2030.",
+        "officialTitle": "Proposición no de Ley sobre el impulso de la Agenda 2030.",
+        "type": "regular"
+      },
+      "dateStart": "2025-09-09T20:19:00+02:00",
+      "dateEnd": "2025-09-09T20:25:00+02:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_129/cortes/15_000400_129_1_26470_758248.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1558248I",
+        "duration": 360.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_129_1_26470_758248",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Àgueda Micó Micó",
+          "lastname": "Micó Micó",
+          "firstname": "Àgueda",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Mixto"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 45
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 134
+      },
+      "agendaItem": {
+        "title": "Proposición no de Ley sobre el impulso de la Agenda 2030.",
+        "officialTitle": "Proposición no de Ley sobre el impulso de la Agenda 2030.",
+        "type": "regular"
+      },
+      "dateStart": "2025-09-09T20:25:00+02:00",
+      "dateEnd": "2025-09-09T20:29:00+02:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_129/cortes/15_000400_129_1_26470_758249.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1558249I",
+        "duration": 240.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_129_1_26470_758249",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Nerea Renteria Lasanta",
+          "lastname": "Renteria Lasanta",
+          "firstname": "Nerea",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Vasco (EAJ-PNV)"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 46
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 134
+      },
+      "agendaItem": {
+        "title": "Proposición no de Ley sobre el impulso de la Agenda 2030.",
+        "officialTitle": "Proposición no de Ley sobre el impulso de la Agenda 2030.",
+        "type": "regular"
+      },
+      "dateStart": "2025-09-09T20:29:00+02:00",
+      "dateEnd": "2025-09-09T20:35:00+02:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_129/cortes/15_000400_129_1_26470_758250.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1558250I",
+        "duration": 360.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_129_1_26470_758250",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Mikel Otero Gabirondo",
+          "lastname": "Otero Gabirondo",
+          "firstname": "Mikel",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Euskal Herria Bildu"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 47
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 134
+      },
+      "agendaItem": {
+        "title": "Proposición no de Ley sobre el impulso de la Agenda 2030.",
+        "officialTitle": "Proposición no de Ley sobre el impulso de la Agenda 2030.",
+        "type": "regular"
+      },
+      "dateStart": "2025-09-09T20:35:00+02:00",
+      "dateEnd": "2025-09-09T20:42:00+02:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_129/cortes/15_000400_129_1_26470_758251.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1558251I",
+        "duration": 420.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_129_1_26470_758251",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Pilar Calvo Gómez",
+          "lastname": "Calvo Gómez",
+          "firstname": "Pilar",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Junts per Catalunya"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 48
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 134
+      },
+      "agendaItem": {
+        "title": "Proposición no de Ley sobre el impulso de la Agenda 2030.",
+        "officialTitle": "Proposición no de Ley sobre el impulso de la Agenda 2030.",
+        "type": "regular"
+      },
+      "dateStart": "2025-09-09T20:42:00+02:00",
+      "dateEnd": "2025-09-09T20:49:00+02:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_129/cortes/15_000400_129_1_26470_758252.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1558252I",
+        "duration": 420.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_129_1_26470_758252",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Teresa Jordà i Roura",
+          "lastname": "Jordà i Roura",
+          "firstname": "Teresa",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Republicano"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 49
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 134
+      },
+      "agendaItem": {
+        "title": "Proposición no de Ley sobre el impulso de la Agenda 2030.",
+        "officialTitle": "Proposición no de Ley sobre el impulso de la Agenda 2030.",
+        "type": "regular"
+      },
+      "dateStart": "2025-09-09T20:49:00+02:00",
+      "dateEnd": "2025-09-09T20:55:00+02:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_129/cortes/15_000400_129_1_26470_758253.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1558253I",
+        "duration": 360.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_129_1_26470_758253",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Ricardo Chamorro Delmo",
+          "lastname": "Chamorro Delmo",
+          "firstname": "Ricardo",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario VOX"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 50
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 134
+      },
+      "agendaItem": {
+        "title": "Moción consecuencia de interpelación urgente sobre las medidas que va\na adoptar el Gobierno desde el Ministerio de Hacienda para combatir la\ncorrupción.",
+        "officialTitle": "Moción consecuencia de interpelación urgente sobre las medidas que va\na adoptar el Gobierno desde el Ministerio de Hacienda para combatir la\ncorrupción.",
+        "type": "regular",
+        "nativeType": "ES-mocion"
+      },
+      "dateStart": "2025-09-09T20:55:00+02:00",
+      "dateEnd": "2025-09-09T21:03:00+02:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_129/cortes/15_000400_129_1_26470_758256.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1558256I",
+        "duration": 480.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_129_1_26470_758256",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Jacobo González-Robatto Perote",
+          "lastname": "González-Robatto Perote",
+          "firstname": "Jacobo",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario VOX"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 51
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 134
+      },
+      "agendaItem": {
+        "title": "Moción consecuencia de interpelación urgente sobre las medidas que va\na adoptar el Gobierno desde el Ministerio de Hacienda para combatir la\ncorrupción.",
+        "officialTitle": "Moción consecuencia de interpelación urgente sobre las medidas que va\na adoptar el Gobierno desde el Ministerio de Hacienda para combatir la\ncorrupción.",
+        "type": "regular",
+        "nativeType": "ES-mocion"
+      },
+      "dateStart": "2025-09-09T21:03:00+02:00",
+      "dateEnd": "2025-09-09T21:09:00+02:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_129/cortes/15_000400_129_1_26470_758257.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1558257I",
+        "duration": 360.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_129_1_26470_758257",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Vicenç Vidal Matas",
+          "lastname": "Vidal Matas",
+          "firstname": "Vicenç",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Plurinacional SUMAR"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 52
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 134
+      },
+      "agendaItem": {
+        "title": "Moción consecuencia de interpelación urgente sobre las medidas que va\na adoptar el Gobierno desde el Ministerio de Hacienda para combatir la\ncorrupción.",
+        "officialTitle": "Moción consecuencia de interpelación urgente sobre las medidas que va\na adoptar el Gobierno desde el Ministerio de Hacienda para combatir la\ncorrupción.",
+        "type": "regular",
+        "nativeType": "ES-mocion"
+      },
+      "dateStart": "2025-09-09T21:09:00+02:00",
+      "dateEnd": "2025-09-09T21:14:00+02:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_129/cortes/15_000400_129_1_26470_758258.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1558258I",
+        "duration": 300.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_129_1_26470_758258",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Gabriel Rufián Romero",
+          "lastname": "Rufián Romero",
+          "firstname": "Gabriel",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Republicano"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 53
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 134
+      },
+      "agendaItem": {
+        "title": "Moción consecuencia de interpelación urgente sobre las medidas que va\na adoptar el Gobierno desde el Ministerio de Hacienda para combatir la\ncorrupción.",
+        "officialTitle": "Moción consecuencia de interpelación urgente sobre las medidas que va\na adoptar el Gobierno desde el Ministerio de Hacienda para combatir la\ncorrupción.",
+        "type": "regular",
+        "nativeType": "ES-mocion"
+      },
+      "dateStart": "2025-09-09T21:14:00+02:00",
+      "dateEnd": "2025-09-09T21:19:00+02:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_129/cortes/15_000400_129_1_26470_758259.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1558259I",
+        "duration": 300.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_129_1_26470_758259",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Marta Trenzano Rubio",
+          "lastname": "Trenzano Rubio",
+          "firstname": "Marta",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Socialista"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 54
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 134
+      },
+      "agendaItem": {
+        "title": "Moción consecuencia de interpelación urgente sobre las medidas que va\na adoptar el Gobierno desde el Ministerio de Hacienda para combatir la\ncorrupción.",
+        "officialTitle": "Moción consecuencia de interpelación urgente sobre las medidas que va\na adoptar el Gobierno desde el Ministerio de Hacienda para combatir la\ncorrupción.",
+        "type": "regular",
+        "nativeType": "ES-mocion"
+      },
+      "dateStart": "2025-09-09T21:19:00+02:00",
+      "dateEnd": "2025-09-09T21:25:00+02:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_129/cortes/15_000400_129_1_26470_758260.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1558260I",
+        "duration": 360.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_129_1_26470_758260",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Agustín Parra Gallego",
+          "lastname": "Parra Gallego",
+          "firstname": "Agustín",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Popular en el Congreso"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 55
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 134
+      },
+      "agendaItem": {
+        "title": "Moción consecuencia de interpelación urgente sobre las múltiples\ntramas corruptas que actuaban en el Gobierno y, especialmente, en el\nMinisterio de Hacienda.",
+        "officialTitle": "Moción consecuencia de interpelación urgente sobre las múltiples\ntramas corruptas que actuaban en el Gobierno y, especialmente, en el\nMinisterio de Hacienda.",
+        "type": "regular",
+        "nativeType": "ES-mocion"
+      },
+      "dateStart": "2025-09-09T21:25:00+02:00",
+      "dateEnd": "2025-09-09T21:33:00+02:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_129/cortes/15_000400_129_1_26470_758263.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1558263I",
+        "duration": 480.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_129_1_26470_758263",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Pedro Muñoz Abrines",
+          "lastname": "Muñoz Abrines",
+          "firstname": "Pedro",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Popular en el Congreso"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 56
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 134
+      },
+      "agendaItem": {
+        "title": "Moción consecuencia de interpelación urgente sobre las múltiples\ntramas corruptas que actuaban en el Gobierno y, especialmente, en el\nMinisterio de Hacienda.",
+        "officialTitle": "Moción consecuencia de interpelación urgente sobre las múltiples\ntramas corruptas que actuaban en el Gobierno y, especialmente, en el\nMinisterio de Hacienda.",
+        "type": "regular",
+        "nativeType": "ES-mocion"
+      },
+      "dateStart": "2025-09-09T21:33:00+02:00",
+      "dateEnd": "2025-09-09T21:39:00+02:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_129/cortes/15_000400_129_1_26470_758264.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1558264I",
+        "duration": 360.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_129_1_26470_758264",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Ignacio Gil Lázaro",
+          "lastname": "Gil Lázaro",
+          "firstname": "Ignacio",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario VOX"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 57
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 134
+      },
+      "agendaItem": {
+        "title": "Moción consecuencia de interpelación urgente sobre las múltiples\ntramas corruptas que actuaban en el Gobierno y, especialmente, en el\nMinisterio de Hacienda.",
+        "officialTitle": "Moción consecuencia de interpelación urgente sobre las múltiples\ntramas corruptas que actuaban en el Gobierno y, especialmente, en el\nMinisterio de Hacienda.",
+        "type": "regular",
+        "nativeType": "ES-mocion"
+      },
+      "dateStart": "2025-09-09T21:39:00+02:00",
+      "dateEnd": "2025-09-09T21:43:00+02:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_129/cortes/15_000400_129_1_26470_758265.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1558265I",
+        "duration": 240.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_129_1_26470_758265",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Àgueda Micó Micó",
+          "lastname": "Micó Micó",
+          "firstname": "Àgueda",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Mixto"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 58
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 134
+      },
+      "agendaItem": {
+        "title": "Moción consecuencia de interpelación urgente sobre las múltiples\ntramas corruptas que actuaban en el Gobierno y, especialmente, en el\nMinisterio de Hacienda.",
+        "officialTitle": "Moción consecuencia de interpelación urgente sobre las múltiples\ntramas corruptas que actuaban en el Gobierno y, especialmente, en el\nMinisterio de Hacienda.",
+        "type": "regular",
+        "nativeType": "ES-mocion"
+      },
+      "dateStart": "2025-09-09T21:43:00+02:00",
+      "dateEnd": "2025-09-09T21:48:00+02:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_129/cortes/15_000400_129_1_26470_758266.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1558266I",
+        "duration": 300.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_129_1_26470_758266",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Josep Maria Cruset Domènech",
+          "lastname": "Cruset Domènech",
+          "firstname": "Josep Maria",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Junts per Catalunya"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 59
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 134
+      },
+      "agendaItem": {
+        "title": "Moción consecuencia de interpelación urgente sobre las múltiples\ntramas corruptas que actuaban en el Gobierno y, especialmente, en el\nMinisterio de Hacienda.",
+        "officialTitle": "Moción consecuencia de interpelación urgente sobre las múltiples\ntramas corruptas que actuaban en el Gobierno y, especialmente, en el\nMinisterio de Hacienda.",
+        "type": "regular",
+        "nativeType": "ES-mocion"
+      },
+      "dateStart": "2025-09-09T21:48:00+02:00",
+      "dateEnd": "2025-09-09T21:55:00+02:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_129/cortes/15_000400_129_1_26470_758267.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1558267I",
+        "duration": 420.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_129_1_26470_758267",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Francesc-Marc Álvaro Vidal",
+          "lastname": "Álvaro Vidal",
+          "firstname": "Francesc-Marc",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Republicano"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 60
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 134
+      },
+      "agendaItem": {
+        "title": "Moción consecuencia de interpelación urgente sobre las múltiples\ntramas corruptas que actuaban en el Gobierno y, especialmente, en el\nMinisterio de Hacienda.",
+        "officialTitle": "Moción consecuencia de interpelación urgente sobre las múltiples\ntramas corruptas que actuaban en el Gobierno y, especialmente, en el\nMinisterio de Hacienda.",
+        "type": "regular",
+        "nativeType": "ES-mocion"
+      },
+      "dateStart": "2025-09-09T21:55:00+02:00",
+      "dateEnd": "2025-09-09T21:59:00+02:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_129/cortes/15_000400_129_1_26470_758268.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1558268I",
+        "duration": 240.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_129_1_26470_758268",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Teslem Andala Ubbi",
+          "lastname": "Andala Ubbi",
+          "firstname": "Teslem",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Plurinacional SUMAR"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 61
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 134
+      },
+      "agendaItem": {
+        "title": "Moción consecuencia de interpelación urgente sobre las múltiples\ntramas corruptas que actuaban en el Gobierno y, especialmente, en el\nMinisterio de Hacienda.",
+        "officialTitle": "Moción consecuencia de interpelación urgente sobre las múltiples\ntramas corruptas que actuaban en el Gobierno y, especialmente, en el\nMinisterio de Hacienda.",
+        "type": "regular",
+        "nativeType": "ES-mocion"
+      },
+      "dateStart": "2025-09-09T21:59:00+02:00",
+      "dateEnd": "2025-09-09T22:06:00+02:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_129/cortes/15_000400_129_1_26470_758269.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1558269I",
+        "duration": 420.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_129_1_26470_758269",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Luis Alfonso Rey de las Heras",
+          "lastname": "Rey de las Heras",
+          "firstname": "Luis Alfonso",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Socialista"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 62
+    }
+  ]
+}

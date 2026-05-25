@@ -1,0 +1,2086 @@
+{
+  "meta": {
+    "session": "15070",
+    "processing": {
+      "parse_media": "2026-05-23T07:17:41"
+    },
+    "dateStart": "2024-10-15T15:03:00+02:00",
+    "dateEnd": "2024-10-15T20:46:00+02:00"
+  },
+  "data": [
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 70
+      },
+      "agendaItem": {
+        "title": "Proposición de Ley Orgánica de modificación de la Ley Orgánica\n5/1985, de 19 de junio, del Régimen Electoral General, relativa a las\ncausas de inelegibilidad.",
+        "officialTitle": "Proposición de Ley Orgánica de modificación de la Ley Orgánica\n5/1985, de 19 de junio, del Régimen Electoral General, relativa a las\ncausas de inelegibilidad.",
+        "type": "regular",
+        "nativeType": "ES-ley"
+      },
+      "dateStart": "2024-10-15T15:03:00+02:00",
+      "dateEnd": "2024-10-15T15:16:00+02:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_067/cortes/15_000400_067_0_25331_739824.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1539824I",
+        "duration": 780.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_067_0_25331_739824",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "José Antonio Bermúdez de Castro Fernández",
+          "lastname": "Bermúdez de Castro Fernández",
+          "firstname": "José Antonio",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Popular en el Congreso"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 1
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 70
+      },
+      "agendaItem": {
+        "title": "Proposición de Ley Orgánica de modificación de la Ley Orgánica\n5/1985, de 19 de junio, del Régimen Electoral General, relativa a las\ncausas de inelegibilidad.",
+        "officialTitle": "Proposición de Ley Orgánica de modificación de la Ley Orgánica\n5/1985, de 19 de junio, del Régimen Electoral General, relativa a las\ncausas de inelegibilidad.",
+        "type": "regular",
+        "nativeType": "ES-ley"
+      },
+      "dateStart": "2024-10-15T15:16:00+02:00",
+      "dateEnd": "2024-10-15T15:23:00+02:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_067/cortes/15_000400_067_0_25331_739825.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1539825I",
+        "duration": 420.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_067_0_25331_739825",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Alberto Catalán Higueras",
+          "lastname": "Catalán Higueras",
+          "firstname": "Alberto",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Mixto"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 2
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 70
+      },
+      "agendaItem": {
+        "title": "Proposición de Ley Orgánica de modificación de la Ley Orgánica\n5/1985, de 19 de junio, del Régimen Electoral General, relativa a las\ncausas de inelegibilidad.",
+        "officialTitle": "Proposición de Ley Orgánica de modificación de la Ley Orgánica\n5/1985, de 19 de junio, del Régimen Electoral General, relativa a las\ncausas de inelegibilidad.",
+        "type": "regular",
+        "nativeType": "ES-ley"
+      },
+      "dateStart": "2024-10-15T15:23:00+02:00",
+      "dateEnd": "2024-10-15T15:31:00+02:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_067/cortes/15_000400_067_0_25331_739826.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1539826I",
+        "duration": 480.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_067_0_25331_739826",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Mikel Legarda Uriarte",
+          "lastname": "Legarda Uriarte",
+          "firstname": "Mikel",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Vasco (EAJ-PNV)"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 3
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 70
+      },
+      "agendaItem": {
+        "title": "Proposición de Ley Orgánica de modificación de la Ley Orgánica\n5/1985, de 19 de junio, del Régimen Electoral General, relativa a las\ncausas de inelegibilidad.",
+        "officialTitle": "Proposición de Ley Orgánica de modificación de la Ley Orgánica\n5/1985, de 19 de junio, del Régimen Electoral General, relativa a las\ncausas de inelegibilidad.",
+        "type": "regular",
+        "nativeType": "ES-ley"
+      },
+      "dateStart": "2024-10-15T15:31:00+02:00",
+      "dateEnd": "2024-10-15T15:39:00+02:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_067/cortes/15_000400_067_0_25331_739827.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1539827I",
+        "duration": 480.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_067_0_25331_739827",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Mertxe Aizpurua Arzallus",
+          "lastname": "Aizpurua Arzallus",
+          "firstname": "Mertxe",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Euskal Herria Bildu"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 4
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 70
+      },
+      "agendaItem": {
+        "title": "Proposición de Ley Orgánica de modificación de la Ley Orgánica\n5/1985, de 19 de junio, del Régimen Electoral General, relativa a las\ncausas de inelegibilidad.",
+        "officialTitle": "Proposición de Ley Orgánica de modificación de la Ley Orgánica\n5/1985, de 19 de junio, del Régimen Electoral General, relativa a las\ncausas de inelegibilidad.",
+        "type": "regular",
+        "nativeType": "ES-ley"
+      },
+      "dateStart": "2024-10-15T15:39:00+02:00",
+      "dateEnd": "2024-10-15T15:47:00+02:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_067/cortes/15_000400_067_0_25331_739828.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1539828I",
+        "duration": 480.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_067_0_25331_739828",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Josep Pagès i Massó",
+          "lastname": "Pagès i Massó",
+          "firstname": "Josep",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Junts per Catalunya"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 5
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 70
+      },
+      "agendaItem": {
+        "title": "Proposición de Ley Orgánica de modificación de la Ley Orgánica\n5/1985, de 19 de junio, del Régimen Electoral General, relativa a las\ncausas de inelegibilidad.",
+        "officialTitle": "Proposición de Ley Orgánica de modificación de la Ley Orgánica\n5/1985, de 19 de junio, del Régimen Electoral General, relativa a las\ncausas de inelegibilidad.",
+        "type": "regular",
+        "nativeType": "ES-ley"
+      },
+      "dateStart": "2024-10-15T15:47:00+02:00",
+      "dateEnd": "2024-10-15T15:56:00+02:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_067/cortes/15_000400_067_0_25331_739829.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1539829I",
+        "duration": 540.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_067_0_25331_739829",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Francesc-Marc Álvaro Vidal",
+          "lastname": "Álvaro Vidal",
+          "firstname": "Francesc-Marc",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Republicano"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 6
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 70
+      },
+      "agendaItem": {
+        "title": "Proposición de Ley Orgánica de modificación de la Ley Orgánica\n5/1985, de 19 de junio, del Régimen Electoral General, relativa a las\ncausas de inelegibilidad.",
+        "officialTitle": "Proposición de Ley Orgánica de modificación de la Ley Orgánica\n5/1985, de 19 de junio, del Régimen Electoral General, relativa a las\ncausas de inelegibilidad.",
+        "type": "regular",
+        "nativeType": "ES-ley"
+      },
+      "dateStart": "2024-10-15T15:56:00+02:00",
+      "dateEnd": "2024-10-15T15:57:00+02:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_067/cortes/15_000400_067_0_25331_739830.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1539830I",
+        "duration": 60.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_067_0_25331_739830",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Borja Sémper Pascual",
+          "lastname": "Sémper Pascual",
+          "firstname": "Borja",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Popular en el Congreso"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 7
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 70
+      },
+      "agendaItem": {
+        "title": "Proposición de Ley Orgánica de modificación de la Ley Orgánica\n5/1985, de 19 de junio, del Régimen Electoral General, relativa a las\ncausas de inelegibilidad.",
+        "officialTitle": "Proposición de Ley Orgánica de modificación de la Ley Orgánica\n5/1985, de 19 de junio, del Régimen Electoral General, relativa a las\ncausas de inelegibilidad.",
+        "type": "regular",
+        "nativeType": "ES-ley"
+      },
+      "dateStart": "2024-10-15T15:57:00+02:00",
+      "dateEnd": "2024-10-15T16:06:00+02:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_067/cortes/15_000400_067_0_25331_739831.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1539831I",
+        "duration": 540.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_067_0_25331_739831",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Lander Martínez Hierro",
+          "lastname": "Martínez Hierro",
+          "firstname": "Lander",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Plurinacional SUMAR"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 8
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 70
+      },
+      "agendaItem": {
+        "title": "Proposición de Ley Orgánica de modificación de la Ley Orgánica\n5/1985, de 19 de junio, del Régimen Electoral General, relativa a las\ncausas de inelegibilidad.",
+        "officialTitle": "Proposición de Ley Orgánica de modificación de la Ley Orgánica\n5/1985, de 19 de junio, del Régimen Electoral General, relativa a las\ncausas de inelegibilidad.",
+        "type": "regular",
+        "nativeType": "ES-ley"
+      },
+      "dateStart": "2024-10-15T16:06:00+02:00",
+      "dateEnd": "2024-10-15T16:16:00+02:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_067/cortes/15_000400_067_0_25331_739832.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1539832I",
+        "duration": 600.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_067_0_25331_739832",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "José María Sánchez García",
+          "lastname": "Sánchez García",
+          "firstname": "José María",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario VOX"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 9
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 70
+      },
+      "agendaItem": {
+        "title": "Proposición de Ley Orgánica de modificación de la Ley Orgánica\n5/1985, de 19 de junio, del Régimen Electoral General, relativa a las\ncausas de inelegibilidad.",
+        "officialTitle": "Proposición de Ley Orgánica de modificación de la Ley Orgánica\n5/1985, de 19 de junio, del Régimen Electoral General, relativa a las\ncausas de inelegibilidad.",
+        "type": "regular",
+        "nativeType": "ES-ley"
+      },
+      "dateStart": "2024-10-15T16:16:00+02:00",
+      "dateEnd": "2024-10-15T16:26:00+02:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_067/cortes/15_000400_067_0_25331_739833.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1539833I",
+        "duration": 600.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_067_0_25331_739833",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Rafaela Romero Pozo",
+          "lastname": "Romero Pozo",
+          "firstname": "Rafaela",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Socialista"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 10
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 70
+      },
+      "agendaItem": {
+        "title": "Proposición de Ley Orgánica de modificación de la Ley Orgánica\n5/1985, de 19 de junio, del Régimen Electoral General, relativa a las\ncausas de inelegibilidad.",
+        "officialTitle": "Proposición de Ley Orgánica de modificación de la Ley Orgánica\n5/1985, de 19 de junio, del Régimen Electoral General, relativa a las\ncausas de inelegibilidad.",
+        "type": "regular",
+        "nativeType": "ES-ley"
+      },
+      "dateStart": "2024-10-15T16:26:00+02:00",
+      "dateEnd": "2024-10-15T16:27:00+02:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_067/cortes/15_000400_067_0_25331_739834.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1539834I",
+        "duration": 60.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_067_0_25331_739834",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Macarena Montesinos de Miguel",
+          "lastname": "Montesinos de Miguel",
+          "firstname": "Macarena",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Popular en el Congreso"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 11
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 70
+      },
+      "agendaItem": {
+        "title": "Proposición de Ley Orgánica relativa a la modificación del régimen\njurídico de la nacionalidad.",
+        "officialTitle": "Proposición de Ley Orgánica relativa a la modificación del régimen\njurídico de la nacionalidad.",
+        "type": "regular",
+        "nativeType": "ES-ley"
+      },
+      "dateStart": "2024-10-15T16:27:00+02:00",
+      "dateEnd": "2024-10-15T16:41:00+02:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_067/cortes/15_000400_067_0_25331_739836.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1539836I",
+        "duration": 840.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_067_0_25331_739836",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Ignacio Hoces Íñiguez",
+          "lastname": "Hoces Íñiguez",
+          "firstname": "Ignacio",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario VOX"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 12
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 70
+      },
+      "agendaItem": {
+        "title": "Proposición de Ley Orgánica relativa a la modificación del régimen\njurídico de la nacionalidad.",
+        "officialTitle": "Proposición de Ley Orgánica relativa a la modificación del régimen\njurídico de la nacionalidad.",
+        "type": "regular",
+        "nativeType": "ES-ley"
+      },
+      "dateStart": "2024-10-15T16:41:00+02:00",
+      "dateEnd": "2024-10-15T16:42:00+02:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_067/cortes/15_000400_067_0_25331_739837.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1539837I",
+        "duration": 60.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_067_0_25331_739837",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Mikel Legarda Uriarte",
+          "lastname": "Legarda Uriarte",
+          "firstname": "Mikel",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Vasco (EAJ-PNV)"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 13
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 70
+      },
+      "agendaItem": {
+        "title": "Proposición de Ley Orgánica relativa a la modificación del régimen\njurídico de la nacionalidad.",
+        "officialTitle": "Proposición de Ley Orgánica relativa a la modificación del régimen\njurídico de la nacionalidad.",
+        "type": "regular",
+        "nativeType": "ES-ley"
+      },
+      "dateStart": "2024-10-15T16:42:00+02:00",
+      "dateEnd": "2024-10-15T16:49:00+02:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_067/cortes/15_000400_067_0_25331_739838.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1539838I",
+        "duration": 420.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_067_0_25331_739838",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Jordi Salvador i Duch",
+          "lastname": "Salvador i Duch",
+          "firstname": "Jordi",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Republicano"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 14
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 70
+      },
+      "agendaItem": {
+        "title": "Proposición de Ley Orgánica relativa a la modificación del régimen\njurídico de la nacionalidad.",
+        "officialTitle": "Proposición de Ley Orgánica relativa a la modificación del régimen\njurídico de la nacionalidad.",
+        "type": "regular",
+        "nativeType": "ES-ley"
+      },
+      "dateStart": "2024-10-15T16:49:00+02:00",
+      "dateEnd": "2024-10-15T16:56:00+02:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_067/cortes/15_000400_067_0_25331_739839.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1539839I",
+        "duration": 420.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_067_0_25331_739839",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Gerardo Pisarello Prados",
+          "lastname": "Pisarello Prados",
+          "firstname": "Gerardo",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Plurinacional SUMAR"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 15
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 70
+      },
+      "agendaItem": {
+        "title": "Proposición de Ley Orgánica relativa a la modificación del régimen\njurídico de la nacionalidad.",
+        "officialTitle": "Proposición de Ley Orgánica relativa a la modificación del régimen\njurídico de la nacionalidad.",
+        "type": "regular",
+        "nativeType": "ES-ley"
+      },
+      "dateStart": "2024-10-15T16:56:00+02:00",
+      "dateEnd": "2024-10-15T17:03:00+02:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_067/cortes/15_000400_067_0_25331_739840.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1539840I",
+        "duration": 420.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_067_0_25331_739840",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Luc Andre Diouf Dioh",
+          "lastname": "Diouf Dioh",
+          "firstname": "Luc Andre",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Socialista"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 16
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 70
+      },
+      "agendaItem": {
+        "title": "Proposición de Ley Orgánica relativa a la modificación del régimen\njurídico de la nacionalidad.",
+        "officialTitle": "Proposición de Ley Orgánica relativa a la modificación del régimen\njurídico de la nacionalidad.",
+        "type": "regular",
+        "nativeType": "ES-ley"
+      },
+      "dateStart": "2024-10-15T17:03:00+02:00",
+      "dateEnd": "2024-10-15T17:11:00+02:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_067/cortes/15_000400_067_0_25331_739841.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1539841I",
+        "duration": 480.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_067_0_25331_739841",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Agustín Conde Bajén",
+          "lastname": "Conde Bajén",
+          "firstname": "Agustín",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Popular en el Congreso"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 17
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 70
+      },
+      "agendaItem": {
+        "title": "Proyecto de Ley por la que se modifica la Ley 1/2005, de 9 de marzo,\npor la que se regula el régimen del comercio de derechos de emisión de\ngases de efecto invernadero.",
+        "officialTitle": "Proyecto de Ley por la que se modifica la Ley 1/2005, de 9 de marzo,\npor la que se regula el régimen del comercio de derechos de emisión de\ngases de efecto invernadero.",
+        "type": "regular",
+        "nativeType": "ES-ley"
+      },
+      "dateStart": "2024-10-15T17:14:00+02:00",
+      "dateEnd": "2024-10-15T17:23:00+02:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_067/cortes/15_000400_067_0_25331_739844.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1539844I",
+        "duration": 540.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_067_0_25331_739844",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "José María Figaredo Álvarez-Sala",
+          "lastname": "Figaredo Álvarez-Sala",
+          "firstname": "José María",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario VOX"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 18
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 70
+      },
+      "agendaItem": {
+        "title": "Proyecto de Ley por la que se modifica la Ley 1/2005, de 9 de marzo,\npor la que se regula el régimen del comercio de derechos de emisión de\ngases de efecto invernadero.",
+        "officialTitle": "Proyecto de Ley por la que se modifica la Ley 1/2005, de 9 de marzo,\npor la que se regula el régimen del comercio de derechos de emisión de\ngases de efecto invernadero.",
+        "type": "regular",
+        "nativeType": "ES-ley"
+      },
+      "dateStart": "2024-10-15T17:23:00+02:00",
+      "dateEnd": "2024-10-15T17:31:00+02:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_067/cortes/15_000400_067_0_25331_739845.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1539845I",
+        "duration": 480.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_067_0_25331_739845",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Néstor Rego Candamil",
+          "lastname": "Rego Candamil",
+          "firstname": "Néstor",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Mixto"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 19
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 70
+      },
+      "agendaItem": {
+        "title": "Proyecto de Ley por la que se modifica la Ley 1/2005, de 9 de marzo,\npor la que se regula el régimen del comercio de derechos de emisión de\ngases de efecto invernadero.",
+        "officialTitle": "Proyecto de Ley por la que se modifica la Ley 1/2005, de 9 de marzo,\npor la que se regula el régimen del comercio de derechos de emisión de\ngases de efecto invernadero.",
+        "type": "regular",
+        "nativeType": "ES-ley"
+      },
+      "dateStart": "2024-10-15T17:31:00+02:00",
+      "dateEnd": "2024-10-15T17:35:00+02:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_067/cortes/15_000400_067_0_25331_739846.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1539846I",
+        "duration": 240.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_067_0_25331_739846",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Idoia Sagastizabal Unzetabarrenetxea",
+          "lastname": "Sagastizabal Unzetabarrenetxea",
+          "firstname": "Idoia",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Vasco (EAJ-PNV)"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 20
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 70
+      },
+      "agendaItem": {
+        "title": "Proyecto de Ley por la que se modifica la Ley 1/2005, de 9 de marzo,\npor la que se regula el régimen del comercio de derechos de emisión de\ngases de efecto invernadero.",
+        "officialTitle": "Proyecto de Ley por la que se modifica la Ley 1/2005, de 9 de marzo,\npor la que se regula el régimen del comercio de derechos de emisión de\ngases de efecto invernadero.",
+        "type": "regular",
+        "nativeType": "ES-ley"
+      },
+      "dateStart": "2024-10-15T17:35:00+02:00",
+      "dateEnd": "2024-10-15T17:43:00+02:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_067/cortes/15_000400_067_0_25331_739847.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1539847I",
+        "duration": 480.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_067_0_25331_739847",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Júlia Boada Danés",
+          "lastname": "Boada Danés",
+          "firstname": "Júlia",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Plurinacional SUMAR"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 21
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 70
+      },
+      "agendaItem": {
+        "title": "Proyecto de Ley por la que se modifica la Ley 1/2005, de 9 de marzo,\npor la que se regula el régimen del comercio de derechos de emisión de\ngases de efecto invernadero.",
+        "officialTitle": "Proyecto de Ley por la que se modifica la Ley 1/2005, de 9 de marzo,\npor la que se regula el régimen del comercio de derechos de emisión de\ngases de efecto invernadero.",
+        "type": "regular",
+        "nativeType": "ES-ley"
+      },
+      "dateStart": "2024-10-15T17:43:00+02:00",
+      "dateEnd": "2024-10-15T17:51:00+02:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_067/cortes/15_000400_067_0_25331_739848.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1539848I",
+        "duration": 480.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_067_0_25331_739848",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "María de las Nieves Ramírez Moreno",
+          "lastname": "Ramírez Moreno",
+          "firstname": "María de las Nieves",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Socialista"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 22
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 70
+      },
+      "agendaItem": {
+        "title": "Proyecto de Ley por la que se modifica la Ley 1/2005, de 9 de marzo,\npor la que se regula el régimen del comercio de derechos de emisión de\ngases de efecto invernadero.",
+        "officialTitle": "Proyecto de Ley por la que se modifica la Ley 1/2005, de 9 de marzo,\npor la que se regula el régimen del comercio de derechos de emisión de\ngases de efecto invernadero.",
+        "type": "regular",
+        "nativeType": "ES-ley"
+      },
+      "dateStart": "2024-10-15T17:51:00+02:00",
+      "dateEnd": "2024-10-15T18:00:00+02:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_067/cortes/15_000400_067_0_25331_739849.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1539849I",
+        "duration": 540.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_067_0_25331_739849",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "César Sánchez Pérez",
+          "lastname": "Sánchez Pérez",
+          "firstname": "César",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Popular en el Congreso"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 23
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 70
+      },
+      "agendaItem": {
+        "title": "Proposición no de Ley sobre equiparación salarial real y total de la\nPolicía Nacional y la Guardia Civil, así como su jubilación anticipada.",
+        "officialTitle": "Proposición no de Ley sobre equiparación salarial real y total de la\nPolicía Nacional y la Guardia Civil, así como su jubilación anticipada.",
+        "type": "regular"
+      },
+      "dateStart": "2024-10-15T18:00:00+02:00",
+      "dateEnd": "2024-10-15T18:09:00+02:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_067/cortes/15_000400_067_0_25331_739852.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1539852I",
+        "duration": 540.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_067_0_25331_739852",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Ana Belén Vázquez Blanco",
+          "lastname": "Vázquez Blanco",
+          "firstname": "Ana Belén",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Popular en el Congreso"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 24
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 70
+      },
+      "agendaItem": {
+        "title": "Proposición no de Ley sobre equiparación salarial real y total de la\nPolicía Nacional y la Guardia Civil, así como su jubilación anticipada.",
+        "officialTitle": "Proposición no de Ley sobre equiparación salarial real y total de la\nPolicía Nacional y la Guardia Civil, así como su jubilación anticipada.",
+        "type": "regular"
+      },
+      "dateStart": "2024-10-15T18:09:00+02:00",
+      "dateEnd": "2024-10-15T18:15:00+02:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_067/cortes/15_000400_067_0_25331_739853.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1539853I",
+        "duration": 360.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_067_0_25331_739853",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Francisco Javier Ortega Smith-Molina",
+          "lastname": "Ortega Smith-Molina",
+          "firstname": "Francisco Javier",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario VOX"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 25
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 70
+      },
+      "agendaItem": {
+        "title": "Proposición no de Ley sobre equiparación salarial real y total de la\nPolicía Nacional y la Guardia Civil, así como su jubilación anticipada.",
+        "officialTitle": "Proposición no de Ley sobre equiparación salarial real y total de la\nPolicía Nacional y la Guardia Civil, así como su jubilación anticipada.",
+        "type": "regular"
+      },
+      "dateStart": "2024-10-15T18:15:00+02:00",
+      "dateEnd": "2024-10-15T18:18:00+02:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_067/cortes/15_000400_067_0_25331_739854.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1539854I",
+        "duration": 180.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_067_0_25331_739854",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Alberto Catalán Higueras",
+          "lastname": "Catalán Higueras",
+          "firstname": "Alberto",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Mixto"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 26
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 70
+      },
+      "agendaItem": {
+        "title": "Proposición no de Ley sobre equiparación salarial real y total de la\nPolicía Nacional y la Guardia Civil, así como su jubilación anticipada.",
+        "officialTitle": "Proposición no de Ley sobre equiparación salarial real y total de la\nPolicía Nacional y la Guardia Civil, así como su jubilación anticipada.",
+        "type": "regular"
+      },
+      "dateStart": "2024-10-15T18:18:00+02:00",
+      "dateEnd": "2024-10-15T18:21:00+02:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_067/cortes/15_000400_067_0_25331_739855.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1539855I",
+        "duration": 180.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_067_0_25331_739855",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Cristina Valido García",
+          "lastname": "Valido García",
+          "firstname": "Cristina",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Mixto"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 27
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 70
+      },
+      "agendaItem": {
+        "title": "Proposición no de Ley sobre equiparación salarial real y total de la\nPolicía Nacional y la Guardia Civil, así como su jubilación anticipada.",
+        "officialTitle": "Proposición no de Ley sobre equiparación salarial real y total de la\nPolicía Nacional y la Guardia Civil, así como su jubilación anticipada.",
+        "type": "regular"
+      },
+      "dateStart": "2024-10-15T18:22:00+02:00",
+      "dateEnd": "2024-10-15T18:29:00+02:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_067/cortes/15_000400_067_0_25331_739856.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1539856I",
+        "duration": 420.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_067_0_25331_739856",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Enrique Fernando Santiago Romero",
+          "lastname": "Santiago Romero",
+          "firstname": "Enrique Fernando",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Plurinacional SUMAR"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 28
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 70
+      },
+      "agendaItem": {
+        "title": "Proposición no de Ley sobre equiparación salarial real y total de la\nPolicía Nacional y la Guardia Civil, así como su jubilación anticipada.",
+        "officialTitle": "Proposición no de Ley sobre equiparación salarial real y total de la\nPolicía Nacional y la Guardia Civil, así como su jubilación anticipada.",
+        "type": "regular"
+      },
+      "dateStart": "2024-10-15T18:29:00+02:00",
+      "dateEnd": "2024-10-15T18:34:00+02:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_067/cortes/15_000400_067_0_25331_739857.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1539857I",
+        "duration": 300.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_067_0_25331_739857",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Andrea Canelo Matito",
+          "lastname": "Canelo Matito",
+          "firstname": "Andrea",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Socialista"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 29
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 70
+      },
+      "agendaItem": {
+        "title": "Proposición no de Ley sobre lucha contra la violencia de género en el\námbito digital.",
+        "officialTitle": "Proposición no de Ley sobre lucha contra la violencia de género en el\námbito digital.",
+        "type": "regular"
+      },
+      "dateStart": "2024-10-15T18:34:00+02:00",
+      "dateEnd": "2024-10-15T18:42:00+02:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_067/cortes/15_000400_067_0_25331_739859.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1539859I",
+        "duration": 480.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_067_0_25331_739859",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Milena Herrera García",
+          "lastname": "Herrera García",
+          "firstname": "Milena",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Socialista"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 30
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 70
+      },
+      "agendaItem": {
+        "title": "Proposición no de Ley sobre lucha contra la violencia de género en el\námbito digital.",
+        "officialTitle": "Proposición no de Ley sobre lucha contra la violencia de género en el\námbito digital.",
+        "type": "regular"
+      },
+      "dateStart": "2024-10-15T18:42:00+02:00",
+      "dateEnd": "2024-10-15T18:48:00+02:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_067/cortes/15_000400_067_0_25331_739860.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1539860I",
+        "duration": 360.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_067_0_25331_739860",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Pilar Calvo Gómez",
+          "lastname": "Calvo Gómez",
+          "firstname": "Pilar",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Junts per Catalunya"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 31
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 70
+      },
+      "agendaItem": {
+        "title": "Proposición no de Ley sobre lucha contra la violencia de género en el\námbito digital.",
+        "officialTitle": "Proposición no de Ley sobre lucha contra la violencia de género en el\námbito digital.",
+        "type": "regular"
+      },
+      "dateStart": "2024-10-15T18:48:00+02:00",
+      "dateEnd": "2024-10-15T18:55:00+02:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_067/cortes/15_000400_067_0_25331_739861.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1539861I",
+        "duration": 420.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_067_0_25331_739861",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Rocío Aguirre Gil de Biedma",
+          "lastname": "Aguirre Gil de Biedma",
+          "firstname": "Rocío",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario VOX"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 32
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 70
+      },
+      "agendaItem": {
+        "title": "Proposición no de Ley sobre lucha contra la violencia de género en el\námbito digital.",
+        "officialTitle": "Proposición no de Ley sobre lucha contra la violencia de género en el\námbito digital.",
+        "type": "regular"
+      },
+      "dateStart": "2024-10-15T18:55:00+02:00",
+      "dateEnd": "2024-10-15T18:58:00+02:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_067/cortes/15_000400_067_0_25331_739862.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1539862I",
+        "duration": 180.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_067_0_25331_739862",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Cristina Valido García",
+          "lastname": "Valido García",
+          "firstname": "Cristina",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Mixto"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 33
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 70
+      },
+      "agendaItem": {
+        "title": "Proposición no de Ley sobre lucha contra la violencia de género en el\námbito digital.",
+        "officialTitle": "Proposición no de Ley sobre lucha contra la violencia de género en el\námbito digital.",
+        "type": "regular"
+      },
+      "dateStart": "2024-10-15T18:58:00+02:00",
+      "dateEnd": "2024-10-15T19:01:00+02:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_067/cortes/15_000400_067_0_25331_739863.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1539863I",
+        "duration": 180.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_067_0_25331_739863",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Néstor Rego Candamil",
+          "lastname": "Rego Candamil",
+          "firstname": "Néstor",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Mixto"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 34
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 70
+      },
+      "agendaItem": {
+        "title": "Proposición no de Ley sobre lucha contra la violencia de género en el\námbito digital.",
+        "officialTitle": "Proposición no de Ley sobre lucha contra la violencia de género en el\námbito digital.",
+        "type": "regular"
+      },
+      "dateStart": "2024-10-15T19:01:00+02:00",
+      "dateEnd": "2024-10-15T19:03:00+02:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_067/cortes/15_000400_067_0_25331_739864.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1539864I",
+        "duration": 120.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_067_0_25331_739864",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Noemí Santana Perera",
+          "lastname": "Santana Perera",
+          "firstname": "Noemí",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Mixto"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 35
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 70
+      },
+      "agendaItem": {
+        "title": "Proposición no de Ley sobre lucha contra la violencia de género en el\námbito digital.",
+        "officialTitle": "Proposición no de Ley sobre lucha contra la violencia de género en el\námbito digital.",
+        "type": "regular"
+      },
+      "dateStart": "2024-10-15T19:03:00+02:00",
+      "dateEnd": "2024-10-15T19:08:00+02:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_067/cortes/15_000400_067_0_25331_739865.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1539865I",
+        "duration": 300.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_067_0_25331_739865",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Idoia Sagastizabal Unzetabarrenetxea",
+          "lastname": "Sagastizabal Unzetabarrenetxea",
+          "firstname": "Idoia",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Vasco (EAJ-PNV)"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 36
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 70
+      },
+      "agendaItem": {
+        "title": "Proposición no de Ley sobre lucha contra la violencia de género en el\námbito digital.",
+        "officialTitle": "Proposición no de Ley sobre lucha contra la violencia de género en el\námbito digital.",
+        "type": "regular"
+      },
+      "dateStart": "2024-10-15T19:08:00+02:00",
+      "dateEnd": "2024-10-15T19:15:00+02:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_067/cortes/15_000400_067_0_25331_739866.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1539866I",
+        "duration": 420.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_067_0_25331_739866",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Isabel Pozueta Fernández",
+          "lastname": "Pozueta Fernández",
+          "firstname": "Isabel",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Euskal Herria Bildu"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 37
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 70
+      },
+      "agendaItem": {
+        "title": "Proposición no de Ley sobre lucha contra la violencia de género en el\námbito digital.",
+        "officialTitle": "Proposición no de Ley sobre lucha contra la violencia de género en el\námbito digital.",
+        "type": "regular"
+      },
+      "dateStart": "2024-10-15T19:15:00+02:00",
+      "dateEnd": "2024-10-15T19:21:00+02:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_067/cortes/15_000400_067_0_25331_739867.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1539867I",
+        "duration": 360.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_067_0_25331_739867",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Pilar Vallugera Balañà",
+          "lastname": "Vallugera Balañà",
+          "firstname": "Pilar",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Republicano"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 38
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 70
+      },
+      "agendaItem": {
+        "title": "Proposición no de Ley sobre lucha contra la violencia de género en el\námbito digital.",
+        "officialTitle": "Proposición no de Ley sobre lucha contra la violencia de género en el\námbito digital.",
+        "type": "regular"
+      },
+      "dateStart": "2024-10-15T19:21:00+02:00",
+      "dateEnd": "2024-10-15T19:27:00+02:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_067/cortes/15_000400_067_0_25331_739868.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1539868I",
+        "duration": 360.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_067_0_25331_739868",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Teslem Andala Ubbi",
+          "lastname": "Andala Ubbi",
+          "firstname": "Teslem",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Plurinacional SUMAR"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 39
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 70
+      },
+      "agendaItem": {
+        "title": "Proposición no de Ley sobre lucha contra la violencia de género en el\námbito digital.",
+        "officialTitle": "Proposición no de Ley sobre lucha contra la violencia de género en el\námbito digital.",
+        "type": "regular"
+      },
+      "dateStart": "2024-10-15T19:27:00+02:00",
+      "dateEnd": "2024-10-15T19:33:00+02:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_067/cortes/15_000400_067_0_25331_739869.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1539869I",
+        "duration": 360.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_067_0_25331_739869",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Noelia Núñez González",
+          "lastname": "Núñez González",
+          "firstname": "Noelia",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Popular en el Congreso"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 40
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 70
+      },
+      "agendaItem": {
+        "title": "Moción consecuencia de interpelación urgente sobre las medidas que va\na adoptar el Gobierno para combatir el empobrecimiento de los españoles.",
+        "officialTitle": "Moción consecuencia de interpelación urgente sobre las medidas que va\na adoptar el Gobierno para combatir el empobrecimiento de los españoles.",
+        "type": "regular",
+        "nativeType": "ES-mocion"
+      },
+      "dateStart": "2024-10-15T19:34:00+02:00",
+      "dateEnd": "2024-10-15T19:42:00+02:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_067/cortes/15_000400_067_0_25331_739874.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1539874I",
+        "duration": 480.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_067_0_25331_739874",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "José María Figaredo Álvarez-Sala",
+          "lastname": "Figaredo Álvarez-Sala",
+          "firstname": "José María",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario VOX"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 41
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 70
+      },
+      "agendaItem": {
+        "title": "Moción consecuencia de interpelación urgente sobre las medidas que va\na adoptar el Gobierno para combatir el empobrecimiento de los españoles.",
+        "officialTitle": "Moción consecuencia de interpelación urgente sobre las medidas que va\na adoptar el Gobierno para combatir el empobrecimiento de los españoles.",
+        "type": "regular",
+        "nativeType": "ES-mocion"
+      },
+      "dateStart": "2024-10-15T19:42:00+02:00",
+      "dateEnd": "2024-10-15T19:48:00+02:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_067/cortes/15_000400_067_1_25334_739878.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1539878I",
+        "duration": 360.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_067_1_25334_739878",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Javier Sánchez Serna",
+          "lastname": "Sánchez Serna",
+          "firstname": "Javier",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Mixto"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 42
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 70
+      },
+      "agendaItem": {
+        "title": "Moción consecuencia de interpelación urgente sobre las medidas que va\na adoptar el Gobierno para combatir el empobrecimiento de los españoles.",
+        "officialTitle": "Moción consecuencia de interpelación urgente sobre las medidas que va\na adoptar el Gobierno para combatir el empobrecimiento de los españoles.",
+        "type": "regular",
+        "nativeType": "ES-mocion"
+      },
+      "dateStart": "2024-10-15T19:48:00+02:00",
+      "dateEnd": "2024-10-15T19:54:00+02:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_067/cortes/15_000400_067_1_25334_739879.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1539879I",
+        "duration": 360.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_067_1_25334_739879",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Carlos Martín Urriza",
+          "lastname": "Martín Urriza",
+          "firstname": "Carlos",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Plurinacional SUMAR"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 43
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 70
+      },
+      "agendaItem": {
+        "title": "Moción consecuencia de interpelación urgente sobre las medidas que va\na adoptar el Gobierno para combatir el empobrecimiento de los españoles.",
+        "officialTitle": "Moción consecuencia de interpelación urgente sobre las medidas que va\na adoptar el Gobierno para combatir el empobrecimiento de los españoles.",
+        "type": "regular",
+        "nativeType": "ES-mocion"
+      },
+      "dateStart": "2024-10-15T19:54:00+02:00",
+      "dateEnd": "2024-10-15T20:01:00+02:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_067/cortes/15_000400_067_1_25334_739880.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1539880I",
+        "duration": 420.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_067_1_25334_739880",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Juan Antonio González Gracia",
+          "lastname": "González Gracia",
+          "firstname": "Juan Antonio",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Socialista"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 44
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 70
+      },
+      "agendaItem": {
+        "title": "Moción consecuencia de interpelación urgente sobre las medidas que va\na adoptar el Gobierno para combatir el empobrecimiento de los españoles.",
+        "officialTitle": "Moción consecuencia de interpelación urgente sobre las medidas que va\na adoptar el Gobierno para combatir el empobrecimiento de los españoles.",
+        "type": "regular",
+        "nativeType": "ES-mocion"
+      },
+      "dateStart": "2024-10-15T20:01:00+02:00",
+      "dateEnd": "2024-10-15T20:03:00+02:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_067/cortes/15_000400_067_1_25334_739881.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1539881I",
+        "duration": 120.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_067_1_25334_739881",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "José María Figaredo Álvarez-Sala",
+          "lastname": "Figaredo Álvarez-Sala",
+          "firstname": "José María",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario VOX"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 45
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 70
+      },
+      "agendaItem": {
+        "title": "Moción consecuencia de interpelación urgente sobre las medidas que va\na adoptar el Gobierno para combatir el empobrecimiento de los españoles.",
+        "officialTitle": "Moción consecuencia de interpelación urgente sobre las medidas que va\na adoptar el Gobierno para combatir el empobrecimiento de los españoles.",
+        "type": "regular",
+        "nativeType": "ES-mocion"
+      },
+      "dateStart": "2024-10-15T20:03:00+02:00",
+      "dateEnd": "2024-10-15T20:09:00+02:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_067/cortes/15_000400_067_1_25334_739882.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1539882I",
+        "duration": 360.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_067_1_25334_739882",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Miguel Ángel Paniagua Núñez",
+          "lastname": "Paniagua Núñez",
+          "firstname": "Miguel Ángel",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Popular en el Congreso"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 46
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 70
+      },
+      "agendaItem": {
+        "title": "Moción consecuencia de interpelación urgente relativa a la\ndisposición del Gobierno de proceder de forma inmediata al rescate de la\nAP-9 a la vista del reciente informe realizado por profesores de la\nUniversidad de A Coruña que fija en 904,7 millones de euros el coste de\nesta operación.",
+        "officialTitle": "Moción consecuencia de interpelación urgente relativa a la\ndisposición del Gobierno de proceder de forma inmediata al rescate de la\nAP-9 a la vista del reciente informe realizado por profesores de la\nUniversidad de A Coruña que fija en 904,7 millones de euros el coste de\nesta operación.",
+        "type": "regular",
+        "nativeType": "ES-mocion"
+      },
+      "dateStart": "2024-10-15T20:09:00+02:00",
+      "dateEnd": "2024-10-15T20:18:00+02:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_067/cortes/15_000400_067_1_25334_739884.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1539884I",
+        "duration": 540.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_067_1_25334_739884",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Néstor Rego Candamil",
+          "lastname": "Rego Candamil",
+          "firstname": "Néstor",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Mixto"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 47
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 70
+      },
+      "agendaItem": {
+        "title": "Moción consecuencia de interpelación urgente relativa a la\ndisposición del Gobierno de proceder de forma inmediata al rescate de la\nAP-9 a la vista del reciente informe realizado por profesores de la\nUniversidad de A Coruña que fija en 904,7 millones de euros el coste de\nesta operación.",
+        "officialTitle": "Moción consecuencia de interpelación urgente relativa a la\ndisposición del Gobierno de proceder de forma inmediata al rescate de la\nAP-9 a la vista del reciente informe realizado por profesores de la\nUniversidad de A Coruña que fija en 904,7 millones de euros el coste de\nesta operación.",
+        "type": "regular",
+        "nativeType": "ES-mocion"
+      },
+      "dateStart": "2024-10-15T20:18:00+02:00",
+      "dateEnd": "2024-10-15T20:25:00+02:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_067/cortes/15_000400_067_1_25334_739885.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1539885I",
+        "duration": 420.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_067_1_25334_739885",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Pedro Puy Fraga",
+          "lastname": "Puy Fraga",
+          "firstname": "Pedro",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Popular en el Congreso"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 48
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 70
+      },
+      "agendaItem": {
+        "title": "Moción consecuencia de interpelación urgente relativa a la\ndisposición del Gobierno de proceder de forma inmediata al rescate de la\nAP-9 a la vista del reciente informe realizado por profesores de la\nUniversidad de A Coruña que fija en 904,7 millones de euros el coste de\nesta operación.",
+        "officialTitle": "Moción consecuencia de interpelación urgente relativa a la\ndisposición del Gobierno de proceder de forma inmediata al rescate de la\nAP-9 a la vista del reciente informe realizado por profesores de la\nUniversidad de A Coruña que fija en 904,7 millones de euros el coste de\nesta operación.",
+        "type": "regular",
+        "nativeType": "ES-mocion"
+      },
+      "dateStart": "2024-10-15T20:25:00+02:00",
+      "dateEnd": "2024-10-15T20:31:00+02:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_067/cortes/15_000400_067_1_25334_739886.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1539886I",
+        "duration": 360.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_067_1_25334_739886",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Verónica Martínez Barbero",
+          "lastname": "Martínez Barbero",
+          "firstname": "Verónica",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Plurinacional SUMAR"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 49
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 70
+      },
+      "agendaItem": {
+        "title": "Moción consecuencia de interpelación urgente relativa a la\ndisposición del Gobierno de proceder de forma inmediata al rescate de la\nAP-9 a la vista del reciente informe realizado por profesores de la\nUniversidad de A Coruña que fija en 904,7 millones de euros el coste de\nesta operación.",
+        "officialTitle": "Moción consecuencia de interpelación urgente relativa a la\ndisposición del Gobierno de proceder de forma inmediata al rescate de la\nAP-9 a la vista del reciente informe realizado por profesores de la\nUniversidad de A Coruña que fija en 904,7 millones de euros el coste de\nesta operación.",
+        "type": "regular",
+        "nativeType": "ES-mocion"
+      },
+      "dateStart": "2024-10-15T20:31:00+02:00",
+      "dateEnd": "2024-10-15T20:39:00+02:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_067/cortes/15_000400_067_1_25334_739887.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1539887I",
+        "duration": 480.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_067_1_25334_739887",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "José María Sánchez García",
+          "lastname": "Sánchez García",
+          "firstname": "José María",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario VOX"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 50
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 70
+      },
+      "agendaItem": {
+        "title": "Moción consecuencia de interpelación urgente relativa a la\ndisposición del Gobierno de proceder de forma inmediata al rescate de la\nAP-9 a la vista del reciente informe realizado por profesores de la\nUniversidad de A Coruña que fija en 904,7 millones de euros el coste de\nesta operación.",
+        "officialTitle": "Moción consecuencia de interpelación urgente relativa a la\ndisposición del Gobierno de proceder de forma inmediata al rescate de la\nAP-9 a la vista del reciente informe realizado por profesores de la\nUniversidad de A Coruña que fija en 904,7 millones de euros el coste de\nesta operación.",
+        "type": "regular",
+        "nativeType": "ES-mocion"
+      },
+      "dateStart": "2024-10-15T20:39:00+02:00",
+      "dateEnd": "2024-10-15T20:46:00+02:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_067/cortes/15_000400_067_1_25334_739888.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1539888I",
+        "duration": 420.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_067_1_25334_739888",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Obdulia Taboadela Álvarez",
+          "lastname": "Taboadela Álvarez",
+          "firstname": "Obdulia",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Socialista"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 51
+    }
+  ]
+}

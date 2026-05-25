@@ -1,0 +1,2045 @@
+{
+  "meta": {
+    "session": "15036",
+    "processing": {
+      "parse_media": "2026-05-23T07:17:41"
+    },
+    "dateStart": "2024-04-09T15:05:00+02:00",
+    "dateEnd": "2024-04-09T20:28:00+02:00"
+  },
+  "data": [
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 36
+      },
+      "agendaItem": {
+        "title": "Juramento o promesa de acatamiento de la Constitución",
+        "officialTitle": "Juramento o promesa de acatamiento de la Constitución",
+        "type": "oath",
+        "nativeType": "ES-juramento"
+      },
+      "dateStart": "2024-04-09T15:05:00+02:00",
+      "dateEnd": "2024-04-09T15:05:00+02:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_034/cortes/15_000400_034_0_24819_731458.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1531458I",
+        "duration": 0.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_034_0_24819_731458",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Paula Fernández Pena",
+          "lastname": "Fernández Pena",
+          "firstname": "Paula",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Socialista"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 1
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 36
+      },
+      "agendaItem": {
+        "title": "Proposición de Ley para una regularización extraordinaria para\npersonas extranjeras en España (corresponde al número de expediente\n120/000026/0000 de la XIV Legislatura).",
+        "officialTitle": "Proposición de Ley para una regularización extraordinaria para\npersonas extranjeras en España (corresponde al número de expediente\n120/000026/0000 de la XIV Legislatura).",
+        "type": "regular",
+        "nativeType": "ES-ley"
+      },
+      "dateStart": "2024-04-09T15:06:00+02:00",
+      "dateEnd": "2024-04-09T15:11:00+02:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_034/cortes/15_000400_034_0_24819_731462.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1531462I",
+        "duration": 300.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_034_0_24819_731462",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Néstor Rego Candamil",
+          "lastname": "Rego Candamil",
+          "firstname": "Néstor",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Mixto"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 2
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 36
+      },
+      "agendaItem": {
+        "title": "Proposición de Ley para una regularización extraordinaria para\npersonas extranjeras en España (corresponde al número de expediente\n120/000026/0000 de la XIV Legislatura).",
+        "officialTitle": "Proposición de Ley para una regularización extraordinaria para\npersonas extranjeras en España (corresponde al número de expediente\n120/000026/0000 de la XIV Legislatura).",
+        "type": "regular",
+        "nativeType": "ES-ley"
+      },
+      "dateStart": "2024-04-09T15:11:00+02:00",
+      "dateEnd": "2024-04-09T15:16:00+02:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_034/cortes/15_000400_034_0_24819_731463.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1531463I",
+        "duration": 300.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_034_0_24819_731463",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Javier Sánchez Serna",
+          "lastname": "Sánchez Serna",
+          "firstname": "Javier",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Mixto"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 3
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 36
+      },
+      "agendaItem": {
+        "title": "Proposición de Ley para una regularización extraordinaria para\npersonas extranjeras en España (corresponde al número de expediente\n120/000026/0000 de la XIV Legislatura).",
+        "officialTitle": "Proposición de Ley para una regularización extraordinaria para\npersonas extranjeras en España (corresponde al número de expediente\n120/000026/0000 de la XIV Legislatura).",
+        "type": "regular",
+        "nativeType": "ES-ley"
+      },
+      "dateStart": "2024-04-09T15:16:00+02:00",
+      "dateEnd": "2024-04-09T15:24:00+02:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_034/cortes/15_000400_034_0_24819_731464.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1531464I",
+        "duration": 480.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_034_0_24819_731464",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Mikel Legarda Uriarte",
+          "lastname": "Legarda Uriarte",
+          "firstname": "Mikel",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Vasco (EAJ-PNV)"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 4
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 36
+      },
+      "agendaItem": {
+        "title": "Proposición de Ley para una regularización extraordinaria para\npersonas extranjeras en España (corresponde al número de expediente\n120/000026/0000 de la XIV Legislatura).",
+        "officialTitle": "Proposición de Ley para una regularización extraordinaria para\npersonas extranjeras en España (corresponde al número de expediente\n120/000026/0000 de la XIV Legislatura).",
+        "type": "regular",
+        "nativeType": "ES-ley"
+      },
+      "dateStart": "2024-04-09T15:24:00+02:00",
+      "dateEnd": "2024-04-09T15:32:00+02:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_034/cortes/15_000400_034_0_24819_731465.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1531465I",
+        "duration": 480.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_034_0_24819_731465",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Jon Iñarritu García",
+          "lastname": "Iñarritu García",
+          "firstname": "Jon",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Euskal Herria Bildu"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 5
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 36
+      },
+      "agendaItem": {
+        "title": "Proposición de Ley para una regularización extraordinaria para\npersonas extranjeras en España (corresponde al número de expediente\n120/000026/0000 de la XIV Legislatura).",
+        "officialTitle": "Proposición de Ley para una regularización extraordinaria para\npersonas extranjeras en España (corresponde al número de expediente\n120/000026/0000 de la XIV Legislatura).",
+        "type": "regular",
+        "nativeType": "ES-ley"
+      },
+      "dateStart": "2024-04-09T15:32:00+02:00",
+      "dateEnd": "2024-04-09T15:37:00+02:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_034/cortes/15_000400_034_0_24819_731466.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1531466I",
+        "duration": 300.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_034_0_24819_731466",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Josep Maria Cervera Pinart",
+          "lastname": "Cervera Pinart",
+          "firstname": "Josep Maria",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Junts per Catalunya"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 6
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 36
+      },
+      "agendaItem": {
+        "title": "Proposición de Ley para una regularización extraordinaria para\npersonas extranjeras en España (corresponde al número de expediente\n120/000026/0000 de la XIV Legislatura).",
+        "officialTitle": "Proposición de Ley para una regularización extraordinaria para\npersonas extranjeras en España (corresponde al número de expediente\n120/000026/0000 de la XIV Legislatura).",
+        "type": "regular",
+        "nativeType": "ES-ley"
+      },
+      "dateStart": "2024-04-09T15:37:00+02:00",
+      "dateEnd": "2024-04-09T15:45:00+02:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_034/cortes/15_000400_034_0_24819_731467.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1531467I",
+        "duration": 480.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_034_0_24819_731467",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Jordi Salvador i Duch",
+          "lastname": "Salvador i Duch",
+          "firstname": "Jordi",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Republicano"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 7
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 36
+      },
+      "agendaItem": {
+        "title": "Proposición de Ley para una regularización extraordinaria para\npersonas extranjeras en España (corresponde al número de expediente\n120/000026/0000 de la XIV Legislatura).",
+        "officialTitle": "Proposición de Ley para una regularización extraordinaria para\npersonas extranjeras en España (corresponde al número de expediente\n120/000026/0000 de la XIV Legislatura).",
+        "type": "regular",
+        "nativeType": "ES-ley"
+      },
+      "dateStart": "2024-04-09T15:45:00+02:00",
+      "dateEnd": "2024-04-09T15:53:00+02:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_034/cortes/15_000400_034_0_24819_731468.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1531468I",
+        "duration": 480.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_034_0_24819_731468",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Gala Pin Ferrando",
+          "lastname": "Pin Ferrando",
+          "firstname": "Gala",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Plurinacional SUMAR"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 8
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 36
+      },
+      "agendaItem": {
+        "title": "Proposición de Ley para una regularización extraordinaria para\npersonas extranjeras en España (corresponde al número de expediente\n120/000026/0000 de la XIV Legislatura).",
+        "officialTitle": "Proposición de Ley para una regularización extraordinaria para\npersonas extranjeras en España (corresponde al número de expediente\n120/000026/0000 de la XIV Legislatura).",
+        "type": "regular",
+        "nativeType": "ES-ley"
+      },
+      "dateStart": "2024-04-09T15:53:00+02:00",
+      "dateEnd": "2024-04-09T16:02:00+02:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_034/cortes/15_000400_034_0_24819_731469.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1531469I",
+        "duration": 540.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_034_0_24819_731469",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Rocío De Meer Méndez",
+          "lastname": "De Meer Méndez",
+          "firstname": "Rocío",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario VOX"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 9
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 36
+      },
+      "agendaItem": {
+        "title": "Proposición de Ley para una regularización extraordinaria para\npersonas extranjeras en España (corresponde al número de expediente\n120/000026/0000 de la XIV Legislatura).",
+        "officialTitle": "Proposición de Ley para una regularización extraordinaria para\npersonas extranjeras en España (corresponde al número de expediente\n120/000026/0000 de la XIV Legislatura).",
+        "type": "regular",
+        "nativeType": "ES-ley"
+      },
+      "dateStart": "2024-04-09T16:02:00+02:00",
+      "dateEnd": "2024-04-09T16:08:00+02:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_034/cortes/15_000400_034_0_24819_731470.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1531470I",
+        "duration": 360.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_034_0_24819_731470",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Elisa Garrido Jiménez",
+          "lastname": "Garrido Jiménez",
+          "firstname": "Elisa",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Socialista"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 10
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 36
+      },
+      "agendaItem": {
+        "title": "Proposición de Ley para una regularización extraordinaria para\npersonas extranjeras en España (corresponde al número de expediente\n120/000026/0000 de la XIV Legislatura).",
+        "officialTitle": "Proposición de Ley para una regularización extraordinaria para\npersonas extranjeras en España (corresponde al número de expediente\n120/000026/0000 de la XIV Legislatura).",
+        "type": "regular",
+        "nativeType": "ES-ley"
+      },
+      "dateStart": "2024-04-09T16:08:00+02:00",
+      "dateEnd": "2024-04-09T16:17:00+02:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_034/cortes/15_000400_034_0_24819_731471.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1531471I",
+        "duration": 540.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_034_0_24819_731471",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Sofía Acedo Reyes",
+          "lastname": "Acedo Reyes",
+          "firstname": "Sofía",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Popular en el Congreso"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 11
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 36
+      },
+      "agendaItem": {
+        "title": "Proposición de Ley para una correcta imposición de los beneficios\ncaídos del cielo de la gran banca.",
+        "officialTitle": "Proposición de Ley para una correcta imposición de los beneficios\ncaídos del cielo de la gran banca.",
+        "type": "regular",
+        "nativeType": "ES-ley"
+      },
+      "dateStart": "2024-04-09T16:17:00+02:00",
+      "dateEnd": "2024-04-09T16:28:00+02:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_034/cortes/15_000400_034_0_24819_731474.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1531474I",
+        "duration": 660.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_034_0_24819_731474",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Ione Belarra Urteaga",
+          "lastname": "Belarra Urteaga",
+          "firstname": "Ione",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Mixto"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 12
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 36
+      },
+      "agendaItem": {
+        "title": "Proposición de Ley para una correcta imposición de los beneficios\ncaídos del cielo de la gran banca.",
+        "officialTitle": "Proposición de Ley para una correcta imposición de los beneficios\ncaídos del cielo de la gran banca.",
+        "type": "regular",
+        "nativeType": "ES-ley"
+      },
+      "dateStart": "2024-04-09T16:28:00+02:00",
+      "dateEnd": "2024-04-09T16:35:00+02:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_034/cortes/15_000400_034_0_24819_731475.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1531475I",
+        "duration": 420.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_034_0_24819_731475",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Idoia Sagastizabal Unzetabarrenetxea",
+          "lastname": "Sagastizabal Unzetabarrenetxea",
+          "firstname": "Idoia",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Vasco (EAJ-PNV)"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 13
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 36
+      },
+      "agendaItem": {
+        "title": "Proposición de Ley para una correcta imposición de los beneficios\ncaídos del cielo de la gran banca.",
+        "officialTitle": "Proposición de Ley para una correcta imposición de los beneficios\ncaídos del cielo de la gran banca.",
+        "type": "regular",
+        "nativeType": "ES-ley"
+      },
+      "dateStart": "2024-04-09T16:35:00+02:00",
+      "dateEnd": "2024-04-09T16:41:00+02:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_034/cortes/15_000400_034_0_24819_731476.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1531476I",
+        "duration": 360.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_034_0_24819_731476",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Oskar Matute García de Jalón",
+          "lastname": "Matute García de Jalón",
+          "firstname": "Oskar",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Euskal Herria Bildu"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 14
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 36
+      },
+      "agendaItem": {
+        "title": "Proposición de Ley para una correcta imposición de los beneficios\ncaídos del cielo de la gran banca.",
+        "officialTitle": "Proposición de Ley para una correcta imposición de los beneficios\ncaídos del cielo de la gran banca.",
+        "type": "regular",
+        "nativeType": "ES-ley"
+      },
+      "dateStart": "2024-04-09T16:41:00+02:00",
+      "dateEnd": "2024-04-09T16:48:00+02:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_034/cortes/15_000400_034_0_24819_731477.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1531477I",
+        "duration": 420.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_034_0_24819_731477",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Inés Granollers Cunillera",
+          "lastname": "Granollers Cunillera",
+          "firstname": "Inés",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Republicano"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 15
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 36
+      },
+      "agendaItem": {
+        "title": "Proposición de Ley para una correcta imposición de los beneficios\ncaídos del cielo de la gran banca.",
+        "officialTitle": "Proposición de Ley para una correcta imposición de los beneficios\ncaídos del cielo de la gran banca.",
+        "type": "regular",
+        "nativeType": "ES-ley"
+      },
+      "dateStart": "2024-04-09T16:48:00+02:00",
+      "dateEnd": "2024-04-09T16:56:00+02:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_034/cortes/15_000400_034_0_24819_731478.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1531478I",
+        "duration": 480.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_034_0_24819_731478",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Àgueda Micó Micó",
+          "lastname": "Micó Micó",
+          "firstname": "Àgueda",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Plurinacional SUMAR"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 16
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 36
+      },
+      "agendaItem": {
+        "title": "Proposición de Ley para una correcta imposición de los beneficios\ncaídos del cielo de la gran banca.",
+        "officialTitle": "Proposición de Ley para una correcta imposición de los beneficios\ncaídos del cielo de la gran banca.",
+        "type": "regular",
+        "nativeType": "ES-ley"
+      },
+      "dateStart": "2024-04-09T16:56:00+02:00",
+      "dateEnd": "2024-04-09T17:06:00+02:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_034/cortes/15_000400_034_0_24819_731479.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1531479I",
+        "duration": 600.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_034_0_24819_731479",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Pablo Sáez Alonso-Muñumer",
+          "lastname": "Sáez Alonso-Muñumer",
+          "firstname": "Pablo",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario VOX"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 17
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 36
+      },
+      "agendaItem": {
+        "title": "Proposición de Ley para una correcta imposición de los beneficios\ncaídos del cielo de la gran banca.",
+        "officialTitle": "Proposición de Ley para una correcta imposición de los beneficios\ncaídos del cielo de la gran banca.",
+        "type": "regular",
+        "nativeType": "ES-ley"
+      },
+      "dateStart": "2024-04-09T17:06:00+02:00",
+      "dateEnd": "2024-04-09T17:15:00+02:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_034/cortes/15_000400_034_0_24819_731480.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1531480I",
+        "duration": 540.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_034_0_24819_731480",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Pedro Casares Hontañón",
+          "lastname": "Casares Hontañón",
+          "firstname": "Pedro",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Socialista"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 18
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 36
+      },
+      "agendaItem": {
+        "title": "Proposición de Ley para una correcta imposición de los beneficios\ncaídos del cielo de la gran banca.",
+        "officialTitle": "Proposición de Ley para una correcta imposición de los beneficios\ncaídos del cielo de la gran banca.",
+        "type": "regular",
+        "nativeType": "ES-ley"
+      },
+      "dateStart": "2024-04-09T17:15:00+02:00",
+      "dateEnd": "2024-04-09T17:22:00+02:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_034/cortes/15_000400_034_0_24819_731481.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1531481I",
+        "duration": 420.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_034_0_24819_731481",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Miguel Ángel Paniagua Núñez",
+          "lastname": "Paniagua Núñez",
+          "firstname": "Miguel Ángel",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Popular en el Congreso"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 19
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 36
+      },
+      "agendaItem": {
+        "title": "Proposición no de Ley relativa a las medidas para asegurar el derecho\nefectivo a la vivienda.",
+        "officialTitle": "Proposición no de Ley relativa a las medidas para asegurar el derecho\nefectivo a la vivienda.",
+        "type": "regular"
+      },
+      "dateStart": "2024-04-09T17:23:00+02:00",
+      "dateEnd": "2024-04-09T17:32:00+02:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_034/cortes/15_000400_034_0_24819_731484.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1531484I",
+        "duration": 540.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_034_0_24819_731484",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Oskar Matute García de Jalón",
+          "lastname": "Matute García de Jalón",
+          "firstname": "Oskar",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Euskal Herria Bildu"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 20
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 36
+      },
+      "agendaItem": {
+        "title": "Proposición no de Ley relativa a las medidas para asegurar el derecho\nefectivo a la vivienda.",
+        "officialTitle": "Proposición no de Ley relativa a las medidas para asegurar el derecho\nefectivo a la vivienda.",
+        "type": "regular"
+      },
+      "dateStart": "2024-04-09T17:32:00+02:00",
+      "dateEnd": "2024-04-09T17:39:00+02:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_034/cortes/15_000400_034_0_24819_731485.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1531485I",
+        "duration": 420.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_034_0_24819_731485",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Rafaela Romero Pozo",
+          "lastname": "Romero Pozo",
+          "firstname": "Rafaela",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Socialista"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 21
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 36
+      },
+      "agendaItem": {
+        "title": "Proposición no de Ley relativa a las medidas para asegurar el derecho\nefectivo a la vivienda.",
+        "officialTitle": "Proposición no de Ley relativa a las medidas para asegurar el derecho\nefectivo a la vivienda.",
+        "type": "regular"
+      },
+      "dateStart": "2024-04-09T17:39:00+02:00",
+      "dateEnd": "2024-04-09T17:43:00+02:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_034/cortes/15_000400_034_0_24819_731486.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1531486I",
+        "duration": 240.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_034_0_24819_731486",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Néstor Rego Candamil",
+          "lastname": "Rego Candamil",
+          "firstname": "Néstor",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Mixto"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 22
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 36
+      },
+      "agendaItem": {
+        "title": "Proposición no de Ley relativa a las medidas para asegurar el derecho\nefectivo a la vivienda.",
+        "officialTitle": "Proposición no de Ley relativa a las medidas para asegurar el derecho\nefectivo a la vivienda.",
+        "type": "regular"
+      },
+      "dateStart": "2024-04-09T17:43:00+02:00",
+      "dateEnd": "2024-04-09T17:46:00+02:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_034/cortes/15_000400_034_0_24819_731487.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1531487I",
+        "duration": 180.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_034_0_24819_731487",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Noemí Santana Perera",
+          "lastname": "Santana Perera",
+          "firstname": "Noemí",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Mixto"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 23
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 36
+      },
+      "agendaItem": {
+        "title": "Proposición no de Ley relativa a las medidas para asegurar el derecho\nefectivo a la vivienda.",
+        "officialTitle": "Proposición no de Ley relativa a las medidas para asegurar el derecho\nefectivo a la vivienda.",
+        "type": "regular"
+      },
+      "dateStart": "2024-04-09T17:46:00+02:00",
+      "dateEnd": "2024-04-09T17:52:00+02:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_034/cortes/15_000400_034_0_24819_731488.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1531488I",
+        "duration": 360.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_034_0_24819_731488",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Maribel Vaquero Montero",
+          "lastname": "Vaquero Montero",
+          "firstname": "Maribel",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Vasco (EAJ-PNV)"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 24
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 36
+      },
+      "agendaItem": {
+        "title": "Proposición no de Ley relativa a las medidas para asegurar el derecho\nefectivo a la vivienda.",
+        "officialTitle": "Proposición no de Ley relativa a las medidas para asegurar el derecho\nefectivo a la vivienda.",
+        "type": "regular"
+      },
+      "dateStart": "2024-04-09T17:52:00+02:00",
+      "dateEnd": "2024-04-09T17:59:00+02:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_034/cortes/15_000400_034_0_24819_731489.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1531489I",
+        "duration": 420.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_034_0_24819_731489",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Alberto Ibáñez Mezquita",
+          "lastname": "Ibáñez Mezquita",
+          "firstname": "Alberto",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Plurinacional SUMAR"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 25
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 36
+      },
+      "agendaItem": {
+        "title": "Proposición no de Ley relativa a las medidas para asegurar el derecho\nefectivo a la vivienda.",
+        "officialTitle": "Proposición no de Ley relativa a las medidas para asegurar el derecho\nefectivo a la vivienda.",
+        "type": "regular"
+      },
+      "dateStart": "2024-04-09T17:59:00+02:00",
+      "dateEnd": "2024-04-09T18:06:00+02:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_034/cortes/15_000400_034_0_24819_731490.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1531490I",
+        "duration": 420.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_034_0_24819_731490",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Carlos Hernández Quero",
+          "lastname": "Hernández Quero",
+          "firstname": "Carlos",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario VOX"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 26
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 36
+      },
+      "agendaItem": {
+        "title": "Proposición no de Ley relativa a las medidas para asegurar el derecho\nefectivo a la vivienda.",
+        "officialTitle": "Proposición no de Ley relativa a las medidas para asegurar el derecho\nefectivo a la vivienda.",
+        "type": "regular"
+      },
+      "dateStart": "2024-04-09T18:06:00+02:00",
+      "dateEnd": "2024-04-09T18:13:00+02:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_034/cortes/15_000400_034_0_24819_731491.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1531491I",
+        "duration": 420.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_034_0_24819_731491",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Carmelo Barrio Baroja",
+          "lastname": "Barrio Baroja",
+          "firstname": "Carmelo",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Popular en el Congreso"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 27
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 36
+      },
+      "agendaItem": {
+        "title": "Proposición no de Ley relativa a las medidas para asegurar el derecho\nefectivo a la vivienda.",
+        "officialTitle": "Proposición no de Ley relativa a las medidas para asegurar el derecho\nefectivo a la vivienda.",
+        "type": "regular"
+      },
+      "dateStart": "2024-04-09T18:13:00+02:00",
+      "dateEnd": "2024-04-09T18:13:00+02:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_034/cortes/15_000400_034_0_24819_731492.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1531492I",
+        "duration": 0.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_034_0_24819_731492",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Oskar Matute García de Jalón",
+          "lastname": "Matute García de Jalón",
+          "firstname": "Oskar",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Euskal Herria Bildu"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 28
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 36
+      },
+      "agendaItem": {
+        "title": "Proposición no de Ley para deflactar el IRPF ajustándolo a la\ninflación para ayudar a las familias.",
+        "officialTitle": "Proposición no de Ley para deflactar el IRPF ajustándolo a la\ninflación para ayudar a las familias.",
+        "type": "regular"
+      },
+      "dateStart": "2024-04-09T18:13:00+02:00",
+      "dateEnd": "2024-04-09T18:22:00+02:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_034/cortes/15_000400_034_0_24819_731494.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1531494I",
+        "duration": 540.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_034_0_24819_731494",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Juan Bravo Baena",
+          "lastname": "Bravo Baena",
+          "firstname": "Juan",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Popular en el Congreso"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 29
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 36
+      },
+      "agendaItem": {
+        "title": "Proposición no de Ley para deflactar el IRPF ajustándolo a la\ninflación para ayudar a las familias.",
+        "officialTitle": "Proposición no de Ley para deflactar el IRPF ajustándolo a la\ninflación para ayudar a las familias.",
+        "type": "regular"
+      },
+      "dateStart": "2024-04-09T18:22:00+02:00",
+      "dateEnd": "2024-04-09T18:29:00+02:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_034/cortes/15_000400_034_0_24819_731496.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1531496I",
+        "duration": 420.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_034_0_24819_731496",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Jacobo González-Robatto Perote",
+          "lastname": "González-Robatto Perote",
+          "firstname": "Jacobo",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario VOX"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 30
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 36
+      },
+      "agendaItem": {
+        "title": "Proposición no de Ley para deflactar el IRPF ajustándolo a la\ninflación para ayudar a las familias.",
+        "officialTitle": "Proposición no de Ley para deflactar el IRPF ajustándolo a la\ninflación para ayudar a las familias.",
+        "type": "regular"
+      },
+      "dateStart": "2024-04-09T18:29:00+02:00",
+      "dateEnd": "2024-04-09T18:34:00+02:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_034/cortes/15_000400_034_0_24819_731497.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1531497I",
+        "duration": 300.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_034_0_24819_731497",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Néstor Rego Candamil",
+          "lastname": "Rego Candamil",
+          "firstname": "Néstor",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Mixto"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 31
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 36
+      },
+      "agendaItem": {
+        "title": "Proposición no de Ley para deflactar el IRPF ajustándolo a la\ninflación para ayudar a las familias.",
+        "officialTitle": "Proposición no de Ley para deflactar el IRPF ajustándolo a la\ninflación para ayudar a las familias.",
+        "type": "regular"
+      },
+      "dateStart": "2024-04-09T18:34:00+02:00",
+      "dateEnd": "2024-04-09T18:39:00+02:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_034/cortes/15_000400_034_0_24819_731498.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1531498I",
+        "duration": 300.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_034_0_24819_731498",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Idoia Sagastizabal Unzetabarrenetxea",
+          "lastname": "Sagastizabal Unzetabarrenetxea",
+          "firstname": "Idoia",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Vasco (EAJ-PNV)"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 32
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 36
+      },
+      "agendaItem": {
+        "title": "Proposición no de Ley para deflactar el IRPF ajustándolo a la\ninflación para ayudar a las familias.",
+        "officialTitle": "Proposición no de Ley para deflactar el IRPF ajustándolo a la\ninflación para ayudar a las familias.",
+        "type": "regular"
+      },
+      "dateStart": "2024-04-09T18:39:00+02:00",
+      "dateEnd": "2024-04-09T18:46:00+02:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_034/cortes/15_000400_034_0_24819_731499.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1531499I",
+        "duration": 420.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_034_0_24819_731499",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Jordi Salvador i Duch",
+          "lastname": "Salvador i Duch",
+          "firstname": "Jordi",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Republicano"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 33
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 36
+      },
+      "agendaItem": {
+        "title": "Proposición no de Ley para deflactar el IRPF ajustándolo a la\ninflación para ayudar a las familias.",
+        "officialTitle": "Proposición no de Ley para deflactar el IRPF ajustándolo a la\ninflación para ayudar a las familias.",
+        "type": "regular"
+      },
+      "dateStart": "2024-04-09T18:46:00+02:00",
+      "dateEnd": "2024-04-09T18:53:00+02:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_034/cortes/15_000400_034_0_24819_731500.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1531500I",
+        "duration": 420.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_034_0_24819_731500",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Carlos Martín Urriza",
+          "lastname": "Martín Urriza",
+          "firstname": "Carlos",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Plurinacional SUMAR"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 34
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 36
+      },
+      "agendaItem": {
+        "title": "Proposición no de Ley para deflactar el IRPF ajustándolo a la\ninflación para ayudar a las familias.",
+        "officialTitle": "Proposición no de Ley para deflactar el IRPF ajustándolo a la\ninflación para ayudar a las familias.",
+        "type": "regular"
+      },
+      "dateStart": "2024-04-09T18:53:00+02:00",
+      "dateEnd": "2024-04-09T19:01:00+02:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_034/cortes/15_000400_034_0_24819_731501.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1531501I",
+        "duration": 480.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_034_0_24819_731501",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Patricia Blanquer Alcaraz",
+          "lastname": "Blanquer Alcaraz",
+          "firstname": "Patricia",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Socialista"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 35
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 36
+      },
+      "agendaItem": {
+        "title": "Proposición no de Ley para deflactar el IRPF ajustándolo a la\ninflación para ayudar a las familias.",
+        "officialTitle": "Proposición no de Ley para deflactar el IRPF ajustándolo a la\ninflación para ayudar a las familias.",
+        "type": "regular"
+      },
+      "dateStart": "2024-04-09T19:01:00+02:00",
+      "dateEnd": "2024-04-09T19:01:00+02:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_034/cortes/15_000400_034_0_24819_731502.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1531502I",
+        "duration": 0.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_034_0_24819_731502",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Juan Bravo Baena",
+          "lastname": "Bravo Baena",
+          "firstname": "Juan",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Popular en el Congreso"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 36
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 36
+      },
+      "agendaItem": {
+        "title": "Moción consecuencia de interpelación urgente sobre las medidas que va\na adoptar el Gobierno para garantizar el acceso de los españoles en\nsituación de necesidad a las ayudas sociales.",
+        "officialTitle": "Moción consecuencia de interpelación urgente sobre las medidas que va\na adoptar el Gobierno para garantizar el acceso de los españoles en\nsituación de necesidad a las ayudas sociales.",
+        "type": "regular",
+        "nativeType": "ES-mocion"
+      },
+      "dateStart": "2024-04-09T19:01:00+02:00",
+      "dateEnd": "2024-04-09T19:10:00+02:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_034/cortes/15_000400_034_0_24819_731505.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1531505I",
+        "duration": 540.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_034_0_24819_731505",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Juan José Aizcorbe Torra",
+          "lastname": "Aizcorbe Torra",
+          "firstname": "Juan José",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario VOX"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 37
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 36
+      },
+      "agendaItem": {
+        "title": "Moción consecuencia de interpelación urgente sobre las medidas que va\na adoptar el Gobierno para garantizar el acceso de los españoles en\nsituación de necesidad a las ayudas sociales.",
+        "officialTitle": "Moción consecuencia de interpelación urgente sobre las medidas que va\na adoptar el Gobierno para garantizar el acceso de los españoles en\nsituación de necesidad a las ayudas sociales.",
+        "type": "regular",
+        "nativeType": "ES-mocion"
+      },
+      "dateStart": "2024-04-09T19:10:00+02:00",
+      "dateEnd": "2024-04-09T19:17:00+02:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_034/cortes/15_000400_034_0_24819_731506.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1531506I",
+        "duration": 420.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_034_0_24819_731506",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Verónica Martínez Barbero",
+          "lastname": "Martínez Barbero",
+          "firstname": "Verónica",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Plurinacional SUMAR"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 38
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 36
+      },
+      "agendaItem": {
+        "title": "Moción consecuencia de interpelación urgente sobre las medidas que va\na adoptar el Gobierno para garantizar el acceso de los españoles en\nsituación de necesidad a las ayudas sociales.",
+        "officialTitle": "Moción consecuencia de interpelación urgente sobre las medidas que va\na adoptar el Gobierno para garantizar el acceso de los españoles en\nsituación de necesidad a las ayudas sociales.",
+        "type": "regular",
+        "nativeType": "ES-mocion"
+      },
+      "dateStart": "2024-04-09T19:17:00+02:00",
+      "dateEnd": "2024-04-09T19:22:00+02:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_034/cortes/15_000400_034_0_24819_731507.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1531507I",
+        "duration": 300.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_034_0_24819_731507",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Gabriel Rufián Romero",
+          "lastname": "Rufián Romero",
+          "firstname": "Gabriel",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Republicano"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 39
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 36
+      },
+      "agendaItem": {
+        "title": "Moción consecuencia de interpelación urgente sobre las medidas que va\na adoptar el Gobierno para garantizar el acceso de los españoles en\nsituación de necesidad a las ayudas sociales.",
+        "officialTitle": "Moción consecuencia de interpelación urgente sobre las medidas que va\na adoptar el Gobierno para garantizar el acceso de los españoles en\nsituación de necesidad a las ayudas sociales.",
+        "type": "regular",
+        "nativeType": "ES-mocion"
+      },
+      "dateStart": "2024-04-09T19:22:00+02:00",
+      "dateEnd": "2024-04-09T19:30:00+02:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_034/cortes/15_000400_034_0_24819_731508.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1531508I",
+        "duration": 480.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_034_0_24819_731508",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Luc Andre Diouf Dioh",
+          "lastname": "Diouf Dioh",
+          "firstname": "Luc Andre",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Socialista"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 40
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 36
+      },
+      "agendaItem": {
+        "title": "Moción consecuencia de interpelación urgente sobre las medidas que va\na adoptar el Gobierno para garantizar el acceso de los españoles en\nsituación de necesidad a las ayudas sociales.",
+        "officialTitle": "Moción consecuencia de interpelación urgente sobre las medidas que va\na adoptar el Gobierno para garantizar el acceso de los españoles en\nsituación de necesidad a las ayudas sociales.",
+        "type": "regular",
+        "nativeType": "ES-mocion"
+      },
+      "dateStart": "2024-04-09T19:30:00+02:00",
+      "dateEnd": "2024-04-09T19:35:00+02:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_034/cortes/15_000400_034_0_24819_731509.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1531509I",
+        "duration": 300.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_034_0_24819_731509",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "María Sandra Moneo Díez",
+          "lastname": "Moneo Díez",
+          "firstname": "María Sandra",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Popular en el Congreso"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 41
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 36
+      },
+      "agendaItem": {
+        "title": "Moción consecuencia de interpelación urgente sobre el impacto de las\npolíticas del Gobierno sobre la fortaleza del Estado y la convivencia\nconstitucional.",
+        "officialTitle": "Moción consecuencia de interpelación urgente sobre el impacto de las\npolíticas del Gobierno sobre la fortaleza del Estado y la convivencia\nconstitucional.",
+        "type": "regular",
+        "nativeType": "ES-mocion"
+      },
+      "dateStart": "2024-04-09T19:36:00+02:00",
+      "dateEnd": "2024-04-09T19:44:00+02:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_034/cortes/15_000400_034_1_24822_731516.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1531516I",
+        "duration": 480.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_034_1_24822_731516",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Álvaro Pérez López",
+          "lastname": "Pérez López",
+          "firstname": "Álvaro",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Popular en el Congreso"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 42
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 36
+      },
+      "agendaItem": {
+        "title": "Moción consecuencia de interpelación urgente sobre el impacto de las\npolíticas del Gobierno sobre la fortaleza del Estado y la convivencia\nconstitucional.",
+        "officialTitle": "Moción consecuencia de interpelación urgente sobre el impacto de las\npolíticas del Gobierno sobre la fortaleza del Estado y la convivencia\nconstitucional.",
+        "type": "regular",
+        "nativeType": "ES-mocion"
+      },
+      "dateStart": "2024-04-09T19:44:00+02:00",
+      "dateEnd": "2024-04-09T19:51:00+02:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_034/cortes/15_000400_034_1_24822_731519.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1531519I",
+        "duration": 420.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_034_1_24822_731519",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Francisco Javier Ortega Smith-Molina",
+          "lastname": "Ortega Smith-Molina",
+          "firstname": "Francisco Javier",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario VOX"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 43
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 36
+      },
+      "agendaItem": {
+        "title": "Moción consecuencia de interpelación urgente sobre el impacto de las\npolíticas del Gobierno sobre la fortaleza del Estado y la convivencia\nconstitucional.",
+        "officialTitle": "Moción consecuencia de interpelación urgente sobre el impacto de las\npolíticas del Gobierno sobre la fortaleza del Estado y la convivencia\nconstitucional.",
+        "type": "regular",
+        "nativeType": "ES-mocion"
+      },
+      "dateStart": "2024-04-09T19:51:00+02:00",
+      "dateEnd": "2024-04-09T19:53:00+02:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_034/cortes/15_000400_034_1_24822_731520.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1531520I",
+        "duration": 120.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_034_1_24822_731520",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Mikel Legarda Uriarte",
+          "lastname": "Legarda Uriarte",
+          "firstname": "Mikel",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Vasco (EAJ-PNV)"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 44
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 36
+      },
+      "agendaItem": {
+        "title": "Moción consecuencia de interpelación urgente sobre el impacto de las\npolíticas del Gobierno sobre la fortaleza del Estado y la convivencia\nconstitucional.",
+        "officialTitle": "Moción consecuencia de interpelación urgente sobre el impacto de las\npolíticas del Gobierno sobre la fortaleza del Estado y la convivencia\nconstitucional.",
+        "type": "regular",
+        "nativeType": "ES-mocion"
+      },
+      "dateStart": "2024-04-09T19:53:00+02:00",
+      "dateEnd": "2024-04-09T20:00:00+02:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_034/cortes/15_000400_034_1_24822_731521.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1531521I",
+        "duration": 420.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_034_1_24822_731521",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Jon Iñarritu García",
+          "lastname": "Iñarritu García",
+          "firstname": "Jon",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Euskal Herria Bildu"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 45
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 36
+      },
+      "agendaItem": {
+        "title": "Moción consecuencia de interpelación urgente sobre el impacto de las\npolíticas del Gobierno sobre la fortaleza del Estado y la convivencia\nconstitucional.",
+        "officialTitle": "Moción consecuencia de interpelación urgente sobre el impacto de las\npolíticas del Gobierno sobre la fortaleza del Estado y la convivencia\nconstitucional.",
+        "type": "regular",
+        "nativeType": "ES-mocion"
+      },
+      "dateStart": "2024-04-09T20:00:00+02:00",
+      "dateEnd": "2024-04-09T20:08:00+02:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_034/cortes/15_000400_034_1_24822_731522.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1531522I",
+        "duration": 480.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_034_1_24822_731522",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Eduard Pujol Bonell",
+          "lastname": "Pujol Bonell",
+          "firstname": "Eduard",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Junts per Catalunya"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 46
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 36
+      },
+      "agendaItem": {
+        "title": "Moción consecuencia de interpelación urgente sobre el impacto de las\npolíticas del Gobierno sobre la fortaleza del Estado y la convivencia\nconstitucional.",
+        "officialTitle": "Moción consecuencia de interpelación urgente sobre el impacto de las\npolíticas del Gobierno sobre la fortaleza del Estado y la convivencia\nconstitucional.",
+        "type": "regular",
+        "nativeType": "ES-mocion"
+      },
+      "dateStart": "2024-04-09T20:08:00+02:00",
+      "dateEnd": "2024-04-09T20:14:00+02:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_034/cortes/15_000400_034_1_24822_731523.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1531523I",
+        "duration": 360.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_034_1_24822_731523",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Gabriel Rufián Romero",
+          "lastname": "Rufián Romero",
+          "firstname": "Gabriel",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Republicano"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 47
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 36
+      },
+      "agendaItem": {
+        "title": "Moción consecuencia de interpelación urgente sobre el impacto de las\npolíticas del Gobierno sobre la fortaleza del Estado y la convivencia\nconstitucional.",
+        "officialTitle": "Moción consecuencia de interpelación urgente sobre el impacto de las\npolíticas del Gobierno sobre la fortaleza del Estado y la convivencia\nconstitucional.",
+        "type": "regular",
+        "nativeType": "ES-mocion"
+      },
+      "dateStart": "2024-04-09T20:14:00+02:00",
+      "dateEnd": "2024-04-09T20:21:00+02:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_034/cortes/15_000400_034_1_24822_731524.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1531524I",
+        "duration": 420.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_034_1_24822_731524",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Enrique Fernando Santiago Romero",
+          "lastname": "Santiago Romero",
+          "firstname": "Enrique Fernando",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Plurinacional SUMAR"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 48
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 36
+      },
+      "agendaItem": {
+        "title": "Moción consecuencia de interpelación urgente sobre el impacto de las\npolíticas del Gobierno sobre la fortaleza del Estado y la convivencia\nconstitucional.",
+        "officialTitle": "Moción consecuencia de interpelación urgente sobre el impacto de las\npolíticas del Gobierno sobre la fortaleza del Estado y la convivencia\nconstitucional.",
+        "type": "regular",
+        "nativeType": "ES-mocion"
+      },
+      "dateStart": "2024-04-09T20:21:00+02:00",
+      "dateEnd": "2024-04-09T20:28:00+02:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_034/cortes/15_000400_034_1_24822_731525.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1531525I",
+        "duration": 420.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_034_1_24822_731525",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Francisco Aranda Vargas",
+          "lastname": "Aranda Vargas",
+          "firstname": "Francisco",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Socialista"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 49
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 36
+      },
+      "agendaItem": {
+        "title": "Moción consecuencia de interpelación urgente sobre el impacto de las\npolíticas del Gobierno sobre la fortaleza del Estado y la convivencia\nconstitucional.",
+        "officialTitle": "Moción consecuencia de interpelación urgente sobre el impacto de las\npolíticas del Gobierno sobre la fortaleza del Estado y la convivencia\nconstitucional.",
+        "type": "regular",
+        "nativeType": "ES-mocion"
+      },
+      "dateStart": "2024-04-09T20:28:00+02:00",
+      "dateEnd": "2024-04-09T20:28:00+02:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_034/cortes/15_000400_034_1_24822_731526.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1531526I",
+        "duration": 0.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_034_1_24822_731526",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Álvaro Pérez López",
+          "lastname": "Pérez López",
+          "firstname": "Álvaro",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Popular en el Congreso"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 50
+    }
+  ]
+}

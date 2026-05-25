@@ -1,0 +1,358 @@
+{
+  "meta": {
+    "session": "15001",
+    "schemaVersion": "1.0",
+    "dateStart": "2023-08-17T14:09:00+02:00",
+    "dateEnd": "2023-08-17T14:24:00+02:00",
+    "processing": {
+      "parse_proceedings": "2026-05-23T19:13:19",
+      "parse_media": "2026-05-23T07:17:41",
+      "merge": "2026-05-23T19:13:19",
+      "align": "2026-05-23T19:13:20",
+      "ner": "2026-05-23T19:31:50"
+    }
+  },
+  "data": [
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 1,
+        "dateStart": "2023-08-17T14:09:00+02:00",
+        "dateEnd": "2023-08-17T14:24:00+02:00"
+      },
+      "agendaItem": {
+        "title": "Juramento o promesa de acatamiento de la Constitución",
+        "officialTitle": "Juramento o promesa de acatamiento de la Constitución",
+        "type": "oath",
+        "nativeType": "ES-juramento"
+      },
+      "dateStart": "2023-08-17T14:09:00+02:00",
+      "dateEnd": "2023-08-17T14:10:00+02:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_001/cortes/15_000400_001_1_24044_725087.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1525087I",
+        "duration": 60.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_001_1_24044_725087",
+        "creator": "Congreso de los Diputados",
+        "aligned": true
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "María José Rodríguez de Millán Parro",
+          "lastname": "Rodríguez de Millán Parro",
+          "firstname": "María José",
+          "type": "memberOfParliament"
+        }
+      ],
+      "debug": {
+        "coarse-timing": true,
+        "mediaIndex": 1,
+        "proceedingIndex": 1041,
+        "proceedingIndexes": [
+          1041
+        ],
+        "page": 15,
+        "confidence": 1.0,
+        "align-duration": 1.5416781902313232,
+        "ner-duration": 0.16081500053405762
+      },
+      "speechIndex": 1,
+      "originID": "DSCD-15-PL-1-41",
+      "textContents": [
+        {
+          "type": "proceedings",
+          "language": "ES-es",
+          "originTextID": "DSCD-15-PL-1-41",
+          "sourceURI": "https://www.congreso.es/public_oficiales/L15/CONG/DS/PL/DSCD-15-PL-1.PDF#page=15",
+          "creator": "Congreso de los Diputados",
+          "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+          "textBody": [
+            {
+              "type": "speech",
+              "text": "Gracias, presidenta. Solicito la palabra sobre la base del artículo 72.1 del Reglamento de la Cámara, ya que, con ocasión de la promesa o juramento que han formulado determinados diputados, se han visto incumplidos los artículos 4 y 20 del Reglamento de la Cámara. Igualmente se ha visto incumplida la Sentencia del Tribunal Constitucional 119/1990, de 21 de junio, que establece que en ningún caso podrán tenerse por válidas expresiones que condicionen o contradigan la naturaleza del juramento, y determina como válida exclusivamente la fórmula precedente al mismo de «por imperativo legal». Por otra parte, sobre la base del artículo 3 de la Constitución, no puede darse por válida la promesa o juramento en una lengua distinta del castellano, entre otras cosas, porque aquí hay muchos diputados que no entienden cuál ha sido la formulación y no sabemos si están acatando la Constitución o la están atacando. Por todo ello, se solicita a la Presidencia que declare la invalidez de dichas promesas o juramentos, así como la no adquisición de la condición plena de aquellos diputados que las han formulado. Muchas gracias. (Aplausos.-La señora Gamarra Ruiz-Clavijo pide la palabra).",
+              "sentences": [
+                {
+                  "text": "Gracias, presidenta.",
+                  "timeStart": "1.000",
+                  "timeEnd": "3.000",
+                  "entities": []
+                },
+                {
+                  "text": "Solicito la palabra sobre la base del artículo 72.1 del Reglamento de la Cámara, ya que, con ocasión de la promesa o juramento que han formulado determinados diputados, se han visto incumplidos los artículos 4 y 20 del Reglamento de la Cámara.",
+                  "timeStart": "3.000",
+                  "timeEnd": "15.840",
+                  "entities": []
+                },
+                {
+                  "text": "Igualmente se ha visto incumplida la Sentencia del Tribunal Constitucional 119/1990, de 21 de junio, que establece que en ningún caso podrán tenerse por válidas expresiones que condicionen o contradigan la naturaleza del juramento, y determina como válida exclusivamente la fórmula precedente al mismo de «por imperativo legal».",
+                  "timeStart": "15.840",
+                  "timeEnd": "35.920",
+                  "entities": []
+                },
+                {
+                  "text": "Por otra parte, sobre la base del artículo 3 de la Constitución, no puede darse por válida la promesa o juramento en una lengua distinta del castellano, entre otras cosas, porque aquí hay muchos diputados que no entienden cuál ha sido la formulación y no sabemos si están acatando la Constitución o la están atacando.",
+                  "timeStart": "35.920",
+                  "timeEnd": "55.000",
+                  "entities": []
+                },
+                {
+                  "text": "Por todo ello, se solicita a la Presidencia que declare la invalidez de dichas promesas o juramentos, así como la no adquisición de la condición plena de aquellos diputados que las han formulado.",
+                  "timeStart": "55.000",
+                  "timeEnd": "65.240",
+                  "entities": []
+                },
+                {
+                  "text": "Muchas gracias. (",
+                  "timeStart": "65.240",
+                  "timeEnd": "65.980",
+                  "entities": []
+                },
+                {
+                  "text": "Aplausos.-La señora Gamarra Ruiz-Clavijo pide la palabra).",
+                  "timeStart": "65.980",
+                  "timeEnd": "70.000",
+                  "entities": []
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "documents": []
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 1,
+        "dateStart": "2023-08-17T14:09:00+02:00",
+        "dateEnd": "2023-08-17T14:24:00+02:00"
+      },
+      "agendaItem": {
+        "title": "Juramento o promesa de acatamiento de la Constitución",
+        "officialTitle": "Juramento o promesa de acatamiento de la Constitución",
+        "type": "oath",
+        "nativeType": "ES-juramento"
+      },
+      "dateStart": "2023-08-17T14:10:00+02:00",
+      "dateEnd": "2023-08-17T14:12:00+02:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_001/cortes/15_000400_001_1_24044_725088.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1525088I",
+        "duration": 120.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_001_1_24044_725088",
+        "creator": "Congreso de los Diputados",
+        "aligned": true
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Concepción Gamarra Ruiz-Clavijo",
+          "lastname": "Gamarra Ruiz-Clavijo",
+          "firstname": "Concepción",
+          "type": "memberOfParliament",
+          "wid": "Q2223490",
+          "wtype": "PERSON"
+        }
+      ],
+      "debug": {
+        "coarse-timing": true,
+        "mediaIndex": 2,
+        "proceedingIndex": 1043,
+        "proceedingIndexes": [
+          1043
+        ],
+        "page": 15,
+        "confidence": 1.0,
+        "align-duration": 1.648787021636963,
+        "ner-duration": 0.12317109107971191
+      },
+      "speechIndex": 2,
+      "originID": "DSCD-15-PL-1-43",
+      "textContents": [
+        {
+          "type": "proceedings",
+          "language": "ES-es",
+          "originTextID": "DSCD-15-PL-1-43",
+          "sourceURI": "https://www.congreso.es/public_oficiales/L15/CONG/DS/PL/DSCD-15-PL-1.PDF#page=15",
+          "creator": "Congreso de los Diputados",
+          "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+          "textBody": [
+            {
+              "type": "speech",
+              "text": "Presidenta, solicito la palabra al amparo del artículo 72 del Reglamento y en aplicación y en relación con los artículos 4, 20, 32.1 y 32.2 del citado Reglamento. La solicitamos para pedir a la Presidencia, aunque sea ya habiendo concluido el juramento, a posteriori, que se respete y haga respetar el Reglamento por parte de todos los miembros de esta Cámara. Página 16 Evidentemente, sabemos de la flexibilidad con la que se puede dotar a su prestación, pero sin duda alguna lo que hemos vivido aquí por parte de alrededor de una veintena de diputados excede lo que es flexibilidad. Estamos ante supuestos en los que se ha desnaturalizado y vaciado del contenido que debe tener, posiblemente, el acatamiento. Por tanto, instamos a la Presidencia y a la Mesa, dado que no solo afecta a aquellos diputados que han llevado a cabo de esta manera el no acatamiento, sino que también afectaría al ius in officium de todos los parlamentarios, que proceda a la revisión de los acatamientos que se han formulado durante esta mañana. A la vista del mismo, le pedimos que en esta revisión de los formulamientos se tenga en cuenta no solo lo que dice el Reglamento, sino también lo que dice la ley electoral y la jurisprudencia del Tribunal Constitucional. Del mismo modo, le trasladamos que este grupo parlamentario -queremos dejar constancia de ello- se reserva las acciones legales oportunas que pudiera tener previsto ejercer si constatáramos que se ha llevado a cabo la vulneración y que, por tanto, no se ha producido el acatamiento por parte de algunas de sus señorías. Muchísimas gracias. (Aplausos).",
+              "sentences": [
+                {
+                  "text": "Presidenta, solicito la palabra al amparo del artículo 72 del Reglamento y en aplicación y en relación con los artículos 4, 20, 32.1 y 32.2 del citado Reglamento.",
+                  "timeStart": "1.000",
+                  "timeEnd": "14.360",
+                  "entities": []
+                },
+                {
+                  "text": "La solicitamos para pedir a la Presidencia, aunque sea ya habiendo concluido el juramento, a posteriori, que se respete y haga respetar el Reglamento por parte de todos los miembros de esta Cámara.",
+                  "timeStart": "14.360",
+                  "timeEnd": "28.080",
+                  "entities": []
+                },
+                {
+                  "text": "Página 16 Evidentemente, sabemos de la flexibilidad con la que se puede dotar a su prestación, pero sin duda alguna lo que hemos vivido aquí por parte de alrededor de una veintena de diputados excede lo que es flexibilidad.",
+                  "timeStart": "28.080",
+                  "timeEnd": "43.000",
+                  "entities": []
+                },
+                {
+                  "text": "Estamos ante supuestos en los que se ha desnaturalizado y vaciado del contenido que debe tener, posiblemente, el acatamiento.",
+                  "timeStart": "43.000",
+                  "timeEnd": "52.280",
+                  "entities": []
+                },
+                {
+                  "text": "Por tanto, instamos a la Presidencia y a la Mesa, dado que no solo afecta a aquellos diputados que han llevado a cabo de esta manera el no acatamiento, sino que también afectaría al ius in officium de todos los parlamentarios, que proceda a la revisión de los acatamientos que se han formulado durante esta mañana.",
+                  "timeStart": "52.280",
+                  "timeEnd": "74.000",
+                  "entities": []
+                },
+                {
+                  "text": "A la vista del mismo, le pedimos que en esta revisión de los formulamientos se tenga en cuenta no solo lo que dice el Reglamento, sino también lo que dice la ley electoral y la jurisprudencia del Tribunal Constitucional.",
+                  "timeStart": "74.000",
+                  "timeEnd": "84.320",
+                  "entities": []
+                },
+                {
+                  "text": "Del mismo modo, le trasladamos que este grupo parlamentario -queremos dejar constancia de ello- se reserva las acciones legales oportunas que pudiera tener previsto ejercer si constatáramos que se ha llevado a cabo la vulneración y que, por tanto, no se ha producido el acatamiento por parte de algunas de sus señorías.",
+                  "timeStart": "84.320",
+                  "timeEnd": "102.560",
+                  "entities": []
+                },
+                {
+                  "text": "Muchísimas gracias. (",
+                  "timeStart": "102.560",
+                  "timeEnd": "103.520",
+                  "entities": []
+                },
+                {
+                  "text": "Aplausos).",
+                  "timeStart": "103.520",
+                  "timeEnd": "108.000",
+                  "entities": []
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "documents": []
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 1,
+        "dateStart": "2023-08-17T14:09:00+02:00",
+        "dateEnd": "2023-08-17T14:24:00+02:00"
+      },
+      "agendaItem": {
+        "title": "Juramento o promesa de acatamiento de la Constitución",
+        "officialTitle": "Juramento o promesa de acatamiento de la Constitución",
+        "type": "oath",
+        "nativeType": "ES-juramento"
+      },
+      "dateStart": "2023-08-17T14:12:00+02:00",
+      "dateEnd": "2023-08-17T14:13:00+02:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_001/cortes/15_000400_001_1_24044_725089.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1525089I",
+        "duration": 60.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_001_1_24044_725089",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Francina Armengol Socias",
+          "lastname": "Armengol Socias",
+          "firstname": "Francina",
+          "type": "person",
+          "role": "Presidenta del Congreso de los Diputados",
+          "wid": "Q5412268",
+          "wtype": "PERSON"
+        }
+      ],
+      "debug": {
+        "coarse-timing": true,
+        "mediaIndex": 3,
+        "proceedingIndex": null,
+        "proceedingIndexes": [],
+        "confidence": 0.5,
+        "confidence_reason": "no-matched-text",
+        "ner-duration": 0.0
+      },
+      "speechIndex": 3,
+      "originID": "15001-m3",
+      "textContents": [],
+      "documents": []
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 1,
+        "dateStart": "2023-08-17T14:09:00+02:00",
+        "dateEnd": "2023-08-17T14:24:00+02:00"
+      },
+      "agendaItem": {
+        "title": "Discurso de la señora presidenta del Congreso",
+        "officialTitle": "Discurso de la señora presidenta del Congreso",
+        "type": "regular"
+      },
+      "dateStart": "2023-08-17T14:14:00+02:00",
+      "dateEnd": "2023-08-17T14:24:00+02:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_001/cortes/15_000400_001_1_24044_725092.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1525092I",
+        "duration": 600.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_001_1_24044_725092",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Francina Armengol Socias",
+          "lastname": "Armengol Socias",
+          "firstname": "Francina",
+          "type": "person",
+          "role": "Presidenta del Congreso de los Diputados",
+          "wid": "Q5412268",
+          "wtype": "PERSON"
+        }
+      ],
+      "debug": {
+        "coarse-timing": true,
+        "mediaIndex": 4,
+        "proceedingIndex": null,
+        "proceedingIndexes": [],
+        "confidence": 0.5,
+        "confidence_reason": "no-matched-text",
+        "ner-duration": 9.5367431640625e-07
+      },
+      "speechIndex": 4,
+      "originID": "15001-m4",
+      "textContents": [],
+      "documents": []
+    }
+  ]
+}

@@ -1,0 +1,1329 @@
+{
+  "meta": {
+    "session": "15066",
+    "processing": {
+      "parse_media": "2026-05-23T07:17:41"
+    },
+    "dateStart": "2024-09-26T09:03:00+02:00",
+    "dateEnd": "2024-09-26T15:26:00+02:00"
+  },
+  "data": [
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 66
+      },
+      "agendaItem": {
+        "title": "Solicitud de comparecencia urgente de la Vicepresidenta Primera del\nGobierno y Ministra de Hacienda ante el Pleno de la Cámara, para que\ninforme sobre el sistema de financiación singular y el secesionismo\nfiscal que ha acordado con sus socios de forma bilateral y fuera del\nsistema de financiación de Comunidades Autónomas de régimen común, a\ncambio de presidir la Generalitat de Cataluña y seguir presidiendo el\nGobierno de España.",
+        "officialTitle": "Solicitud de comparecencia urgente de la Vicepresidenta Primera del\nGobierno y Ministra de Hacienda ante el Pleno de la Cámara, para que\ninforme sobre el sistema de financiación singular y el secesionismo\nfiscal que ha acordado con sus socios de forma bilateral y fuera del\nsistema de financiación de Comunidades Autónomas de régimen común, a\ncambio de presidir la Generalitat de Cataluña y seguir presidiendo el\nGobierno de España.",
+        "type": "briefing",
+        "nativeType": "ES-comparecencia"
+      },
+      "dateStart": "2024-09-26T09:03:00+02:00",
+      "dateEnd": "2024-09-26T09:41:00+02:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_063/cortes/15_000400_063_0_25264_738990.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1538990I",
+        "duration": 2280.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_063_0_25264_738990",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "María Jesús Montero Cuadrado",
+          "lastname": "Montero Cuadrado",
+          "firstname": "María Jesús",
+          "type": "member of government",
+          "role": "Vicepresidenta Primera del Gobierno y Ministra de Hacienda",
+          "faction": {
+            "label": "Grupo Parlamentario Socialista"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 1
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 66
+      },
+      "agendaItem": {
+        "title": "Solicitud de comparecencia urgente de la Vicepresidenta Primera del\nGobierno y Ministra de Hacienda ante el Pleno de la Cámara, para que\ninforme sobre el sistema de financiación singular y el secesionismo\nfiscal que ha acordado con sus socios de forma bilateral y fuera del\nsistema de financiación de Comunidades Autónomas de régimen común, a\ncambio de presidir la Generalitat de Cataluña y seguir presidiendo el\nGobierno de España.",
+        "officialTitle": "Solicitud de comparecencia urgente de la Vicepresidenta Primera del\nGobierno y Ministra de Hacienda ante el Pleno de la Cámara, para que\ninforme sobre el sistema de financiación singular y el secesionismo\nfiscal que ha acordado con sus socios de forma bilateral y fuera del\nsistema de financiación de Comunidades Autónomas de régimen común, a\ncambio de presidir la Generalitat de Cataluña y seguir presidiendo el\nGobierno de España.",
+        "type": "briefing",
+        "nativeType": "ES-comparecencia"
+      },
+      "dateStart": "2024-09-26T09:41:00+02:00",
+      "dateEnd": "2024-09-26T09:52:00+02:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_063/cortes/15_000400_063_0_25264_738991.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1538991I",
+        "duration": 660.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_063_0_25264_738991",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Juan Bravo Baena",
+          "lastname": "Bravo Baena",
+          "firstname": "Juan",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Popular en el Congreso"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 2
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 66
+      },
+      "agendaItem": {
+        "title": "Solicitud de comparecencia urgente de la Vicepresidenta Primera del\nGobierno y Ministra de Hacienda ante el Pleno de la Cámara, para que\ninforme sobre el sistema de financiación singular y el secesionismo\nfiscal que ha acordado con sus socios de forma bilateral y fuera del\nsistema de financiación de Comunidades Autónomas de régimen común, a\ncambio de presidir la Generalitat de Cataluña y seguir presidiendo el\nGobierno de España.",
+        "officialTitle": "Solicitud de comparecencia urgente de la Vicepresidenta Primera del\nGobierno y Ministra de Hacienda ante el Pleno de la Cámara, para que\ninforme sobre el sistema de financiación singular y el secesionismo\nfiscal que ha acordado con sus socios de forma bilateral y fuera del\nsistema de financiación de Comunidades Autónomas de régimen común, a\ncambio de presidir la Generalitat de Cataluña y seguir presidiendo el\nGobierno de España.",
+        "type": "briefing",
+        "nativeType": "ES-comparecencia"
+      },
+      "dateStart": "2024-09-26T09:52:00+02:00",
+      "dateEnd": "2024-09-26T10:03:00+02:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_063/cortes/15_000400_063_0_25264_738992.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1538992I",
+        "duration": 660.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_063_0_25264_738992",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Pablo Sáez Alonso-Muñumer",
+          "lastname": "Sáez Alonso-Muñumer",
+          "firstname": "Pablo",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario VOX"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 3
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 66
+      },
+      "agendaItem": {
+        "title": "Solicitud de comparecencia urgente de la Vicepresidenta Primera del\nGobierno y Ministra de Hacienda ante el Pleno de la Cámara, para que\ninforme sobre el sistema de financiación singular y el secesionismo\nfiscal que ha acordado con sus socios de forma bilateral y fuera del\nsistema de financiación de Comunidades Autónomas de régimen común, a\ncambio de presidir la Generalitat de Cataluña y seguir presidiendo el\nGobierno de España.",
+        "officialTitle": "Solicitud de comparecencia urgente de la Vicepresidenta Primera del\nGobierno y Ministra de Hacienda ante el Pleno de la Cámara, para que\ninforme sobre el sistema de financiación singular y el secesionismo\nfiscal que ha acordado con sus socios de forma bilateral y fuera del\nsistema de financiación de Comunidades Autónomas de régimen común, a\ncambio de presidir la Generalitat de Cataluña y seguir presidiendo el\nGobierno de España.",
+        "type": "briefing",
+        "nativeType": "ES-comparecencia"
+      },
+      "dateStart": "2024-09-26T10:03:00+02:00",
+      "dateEnd": "2024-09-26T10:17:00+02:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_063/cortes/15_000400_063_0_25264_738993.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1538993I",
+        "duration": 840.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_063_0_25264_738993",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Aina Vidal Sáez",
+          "lastname": "Vidal Sáez",
+          "firstname": "Aina",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Plurinacional SUMAR"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 4
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 66
+      },
+      "agendaItem": {
+        "title": "Solicitud de comparecencia urgente de la Vicepresidenta Primera del\nGobierno y Ministra de Hacienda ante el Pleno de la Cámara, para que\ninforme sobre el sistema de financiación singular y el secesionismo\nfiscal que ha acordado con sus socios de forma bilateral y fuera del\nsistema de financiación de Comunidades Autónomas de régimen común, a\ncambio de presidir la Generalitat de Cataluña y seguir presidiendo el\nGobierno de España.",
+        "officialTitle": "Solicitud de comparecencia urgente de la Vicepresidenta Primera del\nGobierno y Ministra de Hacienda ante el Pleno de la Cámara, para que\ninforme sobre el sistema de financiación singular y el secesionismo\nfiscal que ha acordado con sus socios de forma bilateral y fuera del\nsistema de financiación de Comunidades Autónomas de régimen común, a\ncambio de presidir la Generalitat de Cataluña y seguir presidiendo el\nGobierno de España.",
+        "type": "briefing",
+        "nativeType": "ES-comparecencia"
+      },
+      "dateStart": "2024-09-26T10:17:00+02:00",
+      "dateEnd": "2024-09-26T10:28:00+02:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_063/cortes/15_000400_063_0_25264_738994.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1538994I",
+        "duration": 660.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_063_0_25264_738994",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Gabriel Rufián Romero",
+          "lastname": "Rufián Romero",
+          "firstname": "Gabriel",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Republicano"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 5
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 66
+      },
+      "agendaItem": {
+        "title": "Solicitud de comparecencia urgente de la Vicepresidenta Primera del\nGobierno y Ministra de Hacienda ante el Pleno de la Cámara, para que\ninforme sobre el sistema de financiación singular y el secesionismo\nfiscal que ha acordado con sus socios de forma bilateral y fuera del\nsistema de financiación de Comunidades Autónomas de régimen común, a\ncambio de presidir la Generalitat de Cataluña y seguir presidiendo el\nGobierno de España.",
+        "officialTitle": "Solicitud de comparecencia urgente de la Vicepresidenta Primera del\nGobierno y Ministra de Hacienda ante el Pleno de la Cámara, para que\ninforme sobre el sistema de financiación singular y el secesionismo\nfiscal que ha acordado con sus socios de forma bilateral y fuera del\nsistema de financiación de Comunidades Autónomas de régimen común, a\ncambio de presidir la Generalitat de Cataluña y seguir presidiendo el\nGobierno de España.",
+        "type": "briefing",
+        "nativeType": "ES-comparecencia"
+      },
+      "dateStart": "2024-09-26T10:28:00+02:00",
+      "dateEnd": "2024-09-26T10:38:00+02:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_063/cortes/15_000400_063_0_25264_738995.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1538995I",
+        "duration": 600.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_063_0_25264_738995",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Josep Maria Cruset Domènech",
+          "lastname": "Cruset Domènech",
+          "firstname": "Josep Maria",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Junts per Catalunya"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 6
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 66
+      },
+      "agendaItem": {
+        "title": "Solicitud de comparecencia urgente de la Vicepresidenta Primera del\nGobierno y Ministra de Hacienda ante el Pleno de la Cámara, para que\ninforme sobre el sistema de financiación singular y el secesionismo\nfiscal que ha acordado con sus socios de forma bilateral y fuera del\nsistema de financiación de Comunidades Autónomas de régimen común, a\ncambio de presidir la Generalitat de Cataluña y seguir presidiendo el\nGobierno de España.",
+        "officialTitle": "Solicitud de comparecencia urgente de la Vicepresidenta Primera del\nGobierno y Ministra de Hacienda ante el Pleno de la Cámara, para que\ninforme sobre el sistema de financiación singular y el secesionismo\nfiscal que ha acordado con sus socios de forma bilateral y fuera del\nsistema de financiación de Comunidades Autónomas de régimen común, a\ncambio de presidir la Generalitat de Cataluña y seguir presidiendo el\nGobierno de España.",
+        "type": "briefing",
+        "nativeType": "ES-comparecencia"
+      },
+      "dateStart": "2024-09-26T10:38:00+02:00",
+      "dateEnd": "2024-09-26T10:50:00+02:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_063/cortes/15_000400_063_0_25264_738996.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1538996I",
+        "duration": 720.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_063_0_25264_738996",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Mertxe Aizpurua Arzallus",
+          "lastname": "Aizpurua Arzallus",
+          "firstname": "Mertxe",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Euskal Herria Bildu"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 7
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 66
+      },
+      "agendaItem": {
+        "title": "Solicitud de comparecencia urgente de la Vicepresidenta Primera del\nGobierno y Ministra de Hacienda ante el Pleno de la Cámara, para que\ninforme sobre el sistema de financiación singular y el secesionismo\nfiscal que ha acordado con sus socios de forma bilateral y fuera del\nsistema de financiación de Comunidades Autónomas de régimen común, a\ncambio de presidir la Generalitat de Cataluña y seguir presidiendo el\nGobierno de España.",
+        "officialTitle": "Solicitud de comparecencia urgente de la Vicepresidenta Primera del\nGobierno y Ministra de Hacienda ante el Pleno de la Cámara, para que\ninforme sobre el sistema de financiación singular y el secesionismo\nfiscal que ha acordado con sus socios de forma bilateral y fuera del\nsistema de financiación de Comunidades Autónomas de régimen común, a\ncambio de presidir la Generalitat de Cataluña y seguir presidiendo el\nGobierno de España.",
+        "type": "briefing",
+        "nativeType": "ES-comparecencia"
+      },
+      "dateStart": "2024-09-26T10:50:00+02:00",
+      "dateEnd": "2024-09-26T10:58:00+02:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_063/cortes/15_000400_063_0_25264_738997.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1538997I",
+        "duration": 480.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_063_0_25264_738997",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Idoia Sagastizabal Unzetabarrenetxea",
+          "lastname": "Sagastizabal Unzetabarrenetxea",
+          "firstname": "Idoia",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Vasco (EAJ-PNV)"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 8
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 66
+      },
+      "agendaItem": {
+        "title": "Solicitud de comparecencia urgente de la Vicepresidenta Primera del\nGobierno y Ministra de Hacienda ante el Pleno de la Cámara, para que\ninforme sobre el sistema de financiación singular y el secesionismo\nfiscal que ha acordado con sus socios de forma bilateral y fuera del\nsistema de financiación de Comunidades Autónomas de régimen común, a\ncambio de presidir la Generalitat de Cataluña y seguir presidiendo el\nGobierno de España.",
+        "officialTitle": "Solicitud de comparecencia urgente de la Vicepresidenta Primera del\nGobierno y Ministra de Hacienda ante el Pleno de la Cámara, para que\ninforme sobre el sistema de financiación singular y el secesionismo\nfiscal que ha acordado con sus socios de forma bilateral y fuera del\nsistema de financiación de Comunidades Autónomas de régimen común, a\ncambio de presidir la Generalitat de Cataluña y seguir presidiendo el\nGobierno de España.",
+        "type": "briefing",
+        "nativeType": "ES-comparecencia"
+      },
+      "dateStart": "2024-09-26T10:58:00+02:00",
+      "dateEnd": "2024-09-26T11:05:00+02:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_063/cortes/15_000400_063_0_25264_738998.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1538998I",
+        "duration": 420.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_063_0_25264_738998",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Javier Sánchez Serna",
+          "lastname": "Sánchez Serna",
+          "firstname": "Javier",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Mixto"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 9
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 66
+      },
+      "agendaItem": {
+        "title": "Solicitud de comparecencia urgente de la Vicepresidenta Primera del\nGobierno y Ministra de Hacienda ante el Pleno de la Cámara, para que\ninforme sobre el sistema de financiación singular y el secesionismo\nfiscal que ha acordado con sus socios de forma bilateral y fuera del\nsistema de financiación de Comunidades Autónomas de régimen común, a\ncambio de presidir la Generalitat de Cataluña y seguir presidiendo el\nGobierno de España.",
+        "officialTitle": "Solicitud de comparecencia urgente de la Vicepresidenta Primera del\nGobierno y Ministra de Hacienda ante el Pleno de la Cámara, para que\ninforme sobre el sistema de financiación singular y el secesionismo\nfiscal que ha acordado con sus socios de forma bilateral y fuera del\nsistema de financiación de Comunidades Autónomas de régimen común, a\ncambio de presidir la Generalitat de Cataluña y seguir presidiendo el\nGobierno de España.",
+        "type": "briefing",
+        "nativeType": "ES-comparecencia"
+      },
+      "dateStart": "2024-09-26T11:05:00+02:00",
+      "dateEnd": "2024-09-26T11:11:00+02:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_063/cortes/15_000400_063_0_25264_738999.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1538999I",
+        "duration": 360.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_063_0_25264_738999",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Néstor Rego Candamil",
+          "lastname": "Rego Candamil",
+          "firstname": "Néstor",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Mixto"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 10
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 66
+      },
+      "agendaItem": {
+        "title": "Solicitud de comparecencia urgente de la Vicepresidenta Primera del\nGobierno y Ministra de Hacienda ante el Pleno de la Cámara, para que\ninforme sobre el sistema de financiación singular y el secesionismo\nfiscal que ha acordado con sus socios de forma bilateral y fuera del\nsistema de financiación de Comunidades Autónomas de régimen común, a\ncambio de presidir la Generalitat de Cataluña y seguir presidiendo el\nGobierno de España.",
+        "officialTitle": "Solicitud de comparecencia urgente de la Vicepresidenta Primera del\nGobierno y Ministra de Hacienda ante el Pleno de la Cámara, para que\ninforme sobre el sistema de financiación singular y el secesionismo\nfiscal que ha acordado con sus socios de forma bilateral y fuera del\nsistema de financiación de Comunidades Autónomas de régimen común, a\ncambio de presidir la Generalitat de Cataluña y seguir presidiendo el\nGobierno de España.",
+        "type": "briefing",
+        "nativeType": "ES-comparecencia"
+      },
+      "dateStart": "2024-09-26T11:11:00+02:00",
+      "dateEnd": "2024-09-26T11:16:00+02:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_063/cortes/15_000400_063_0_25264_739000.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1539000I",
+        "duration": 300.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_063_0_25264_739000",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Alberto Catalán Higueras",
+          "lastname": "Catalán Higueras",
+          "firstname": "Alberto",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Mixto"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 11
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 66
+      },
+      "agendaItem": {
+        "title": "Solicitud de comparecencia urgente de la Vicepresidenta Primera del\nGobierno y Ministra de Hacienda ante el Pleno de la Cámara, para que\ninforme sobre el sistema de financiación singular y el secesionismo\nfiscal que ha acordado con sus socios de forma bilateral y fuera del\nsistema de financiación de Comunidades Autónomas de régimen común, a\ncambio de presidir la Generalitat de Cataluña y seguir presidiendo el\nGobierno de España.",
+        "officialTitle": "Solicitud de comparecencia urgente de la Vicepresidenta Primera del\nGobierno y Ministra de Hacienda ante el Pleno de la Cámara, para que\ninforme sobre el sistema de financiación singular y el secesionismo\nfiscal que ha acordado con sus socios de forma bilateral y fuera del\nsistema de financiación de Comunidades Autónomas de régimen común, a\ncambio de presidir la Generalitat de Cataluña y seguir presidiendo el\nGobierno de España.",
+        "type": "briefing",
+        "nativeType": "ES-comparecencia"
+      },
+      "dateStart": "2024-09-26T11:16:00+02:00",
+      "dateEnd": "2024-09-26T11:28:00+02:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_063/cortes/15_000400_063_0_25264_739001.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1539001I",
+        "duration": 720.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_063_0_25264_739001",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Pedro Casares Hontañón",
+          "lastname": "Casares Hontañón",
+          "firstname": "Pedro",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Socialista"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 12
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 66
+      },
+      "agendaItem": {
+        "title": "Solicitud de comparecencia urgente de la Vicepresidenta Primera del\nGobierno y Ministra de Hacienda ante el Pleno de la Cámara, para que\ninforme sobre el sistema de financiación singular y el secesionismo\nfiscal que ha acordado con sus socios de forma bilateral y fuera del\nsistema de financiación de Comunidades Autónomas de régimen común, a\ncambio de presidir la Generalitat de Cataluña y seguir presidiendo el\nGobierno de España.",
+        "officialTitle": "Solicitud de comparecencia urgente de la Vicepresidenta Primera del\nGobierno y Ministra de Hacienda ante el Pleno de la Cámara, para que\ninforme sobre el sistema de financiación singular y el secesionismo\nfiscal que ha acordado con sus socios de forma bilateral y fuera del\nsistema de financiación de Comunidades Autónomas de régimen común, a\ncambio de presidir la Generalitat de Cataluña y seguir presidiendo el\nGobierno de España.",
+        "type": "briefing",
+        "nativeType": "ES-comparecencia"
+      },
+      "dateStart": "2024-09-26T11:28:00+02:00",
+      "dateEnd": "2024-09-26T12:46:00+02:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_063/cortes/15_000400_063_0_25264_739002.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1539002I",
+        "duration": 4680.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_063_0_25264_739002",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "María Jesús Montero Cuadrado",
+          "lastname": "Montero Cuadrado",
+          "firstname": "María Jesús",
+          "type": "member of government",
+          "role": "Vicepresidenta Primera del Gobierno y Ministra de Hacienda",
+          "faction": {
+            "label": "Grupo Parlamentario Socialista"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 13
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 66
+      },
+      "agendaItem": {
+        "title": "Solicitud de comparecencia urgente de la Vicepresidenta Primera del\nGobierno y Ministra de Hacienda ante el Pleno de la Cámara, para que\ninforme sobre el sistema de financiación singular y el secesionismo\nfiscal que ha acordado con sus socios de forma bilateral y fuera del\nsistema de financiación de Comunidades Autónomas de régimen común, a\ncambio de presidir la Generalitat de Cataluña y seguir presidiendo el\nGobierno de España.",
+        "officialTitle": "Solicitud de comparecencia urgente de la Vicepresidenta Primera del\nGobierno y Ministra de Hacienda ante el Pleno de la Cámara, para que\ninforme sobre el sistema de financiación singular y el secesionismo\nfiscal que ha acordado con sus socios de forma bilateral y fuera del\nsistema de financiación de Comunidades Autónomas de régimen común, a\ncambio de presidir la Generalitat de Cataluña y seguir presidiendo el\nGobierno de España.",
+        "type": "briefing",
+        "nativeType": "ES-comparecencia"
+      },
+      "dateStart": "2024-09-26T12:46:00+02:00",
+      "dateEnd": "2024-09-26T12:51:00+02:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_063/cortes/15_000400_063_0_25264_739003.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1539003I",
+        "duration": 300.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_063_0_25264_739003",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Juan Bravo Baena",
+          "lastname": "Bravo Baena",
+          "firstname": "Juan",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Popular en el Congreso"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 14
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 66
+      },
+      "agendaItem": {
+        "title": "Solicitud de comparecencia urgente de la Vicepresidenta Primera del\nGobierno y Ministra de Hacienda ante el Pleno de la Cámara, para que\ninforme sobre el sistema de financiación singular y el secesionismo\nfiscal que ha acordado con sus socios de forma bilateral y fuera del\nsistema de financiación de Comunidades Autónomas de régimen común, a\ncambio de presidir la Generalitat de Cataluña y seguir presidiendo el\nGobierno de España.",
+        "officialTitle": "Solicitud de comparecencia urgente de la Vicepresidenta Primera del\nGobierno y Ministra de Hacienda ante el Pleno de la Cámara, para que\ninforme sobre el sistema de financiación singular y el secesionismo\nfiscal que ha acordado con sus socios de forma bilateral y fuera del\nsistema de financiación de Comunidades Autónomas de régimen común, a\ncambio de presidir la Generalitat de Cataluña y seguir presidiendo el\nGobierno de España.",
+        "type": "briefing",
+        "nativeType": "ES-comparecencia"
+      },
+      "dateStart": "2024-09-26T12:52:00+02:00",
+      "dateEnd": "2024-09-26T12:58:00+02:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_063/cortes/15_000400_063_1_25267_739009.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1539009I",
+        "duration": 360.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_063_1_25267_739009",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Pablo Sáez Alonso-Muñumer",
+          "lastname": "Sáez Alonso-Muñumer",
+          "firstname": "Pablo",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario VOX"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 15
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 66
+      },
+      "agendaItem": {
+        "title": "Solicitud de comparecencia urgente de la Vicepresidenta Primera del\nGobierno y Ministra de Hacienda ante el Pleno de la Cámara, para que\ninforme sobre el sistema de financiación singular y el secesionismo\nfiscal que ha acordado con sus socios de forma bilateral y fuera del\nsistema de financiación de Comunidades Autónomas de régimen común, a\ncambio de presidir la Generalitat de Cataluña y seguir presidiendo el\nGobierno de España.",
+        "officialTitle": "Solicitud de comparecencia urgente de la Vicepresidenta Primera del\nGobierno y Ministra de Hacienda ante el Pleno de la Cámara, para que\ninforme sobre el sistema de financiación singular y el secesionismo\nfiscal que ha acordado con sus socios de forma bilateral y fuera del\nsistema de financiación de Comunidades Autónomas de régimen común, a\ncambio de presidir la Generalitat de Cataluña y seguir presidiendo el\nGobierno de España.",
+        "type": "briefing",
+        "nativeType": "ES-comparecencia"
+      },
+      "dateStart": "2024-09-26T12:58:00+02:00",
+      "dateEnd": "2024-09-26T13:04:00+02:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_063/cortes/15_000400_063_1_25267_739010.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1539010I",
+        "duration": 360.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_063_1_25267_739010",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Aina Vidal Sáez",
+          "lastname": "Vidal Sáez",
+          "firstname": "Aina",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Plurinacional SUMAR"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 16
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 66
+      },
+      "agendaItem": {
+        "title": "Solicitud de comparecencia urgente de la Vicepresidenta Primera del\nGobierno y Ministra de Hacienda ante el Pleno de la Cámara, para que\ninforme sobre el sistema de financiación singular y el secesionismo\nfiscal que ha acordado con sus socios de forma bilateral y fuera del\nsistema de financiación de Comunidades Autónomas de régimen común, a\ncambio de presidir la Generalitat de Cataluña y seguir presidiendo el\nGobierno de España.",
+        "officialTitle": "Solicitud de comparecencia urgente de la Vicepresidenta Primera del\nGobierno y Ministra de Hacienda ante el Pleno de la Cámara, para que\ninforme sobre el sistema de financiación singular y el secesionismo\nfiscal que ha acordado con sus socios de forma bilateral y fuera del\nsistema de financiación de Comunidades Autónomas de régimen común, a\ncambio de presidir la Generalitat de Cataluña y seguir presidiendo el\nGobierno de España.",
+        "type": "briefing",
+        "nativeType": "ES-comparecencia"
+      },
+      "dateStart": "2024-09-26T13:04:00+02:00",
+      "dateEnd": "2024-09-26T13:09:00+02:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_063/cortes/15_000400_063_1_25267_739011.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1539011I",
+        "duration": 300.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_063_1_25267_739011",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Gabriel Rufián Romero",
+          "lastname": "Rufián Romero",
+          "firstname": "Gabriel",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Republicano"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 17
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 66
+      },
+      "agendaItem": {
+        "title": "Solicitud de comparecencia urgente de la Vicepresidenta Primera del\nGobierno y Ministra de Hacienda ante el Pleno de la Cámara, para que\ninforme sobre el sistema de financiación singular y el secesionismo\nfiscal que ha acordado con sus socios de forma bilateral y fuera del\nsistema de financiación de Comunidades Autónomas de régimen común, a\ncambio de presidir la Generalitat de Cataluña y seguir presidiendo el\nGobierno de España.",
+        "officialTitle": "Solicitud de comparecencia urgente de la Vicepresidenta Primera del\nGobierno y Ministra de Hacienda ante el Pleno de la Cámara, para que\ninforme sobre el sistema de financiación singular y el secesionismo\nfiscal que ha acordado con sus socios de forma bilateral y fuera del\nsistema de financiación de Comunidades Autónomas de régimen común, a\ncambio de presidir la Generalitat de Cataluña y seguir presidiendo el\nGobierno de España.",
+        "type": "briefing",
+        "nativeType": "ES-comparecencia"
+      },
+      "dateStart": "2024-09-26T13:09:00+02:00",
+      "dateEnd": "2024-09-26T13:16:00+02:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_063/cortes/15_000400_063_1_25267_739012.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1539012I",
+        "duration": 420.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_063_1_25267_739012",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Josep Maria Cruset Domènech",
+          "lastname": "Cruset Domènech",
+          "firstname": "Josep Maria",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Junts per Catalunya"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 18
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 66
+      },
+      "agendaItem": {
+        "title": "Solicitud de comparecencia urgente de la Vicepresidenta Primera del\nGobierno y Ministra de Hacienda ante el Pleno de la Cámara, para que\ninforme sobre el sistema de financiación singular y el secesionismo\nfiscal que ha acordado con sus socios de forma bilateral y fuera del\nsistema de financiación de Comunidades Autónomas de régimen común, a\ncambio de presidir la Generalitat de Cataluña y seguir presidiendo el\nGobierno de España.",
+        "officialTitle": "Solicitud de comparecencia urgente de la Vicepresidenta Primera del\nGobierno y Ministra de Hacienda ante el Pleno de la Cámara, para que\ninforme sobre el sistema de financiación singular y el secesionismo\nfiscal que ha acordado con sus socios de forma bilateral y fuera del\nsistema de financiación de Comunidades Autónomas de régimen común, a\ncambio de presidir la Generalitat de Cataluña y seguir presidiendo el\nGobierno de España.",
+        "type": "briefing",
+        "nativeType": "ES-comparecencia"
+      },
+      "dateStart": "2024-09-26T13:16:00+02:00",
+      "dateEnd": "2024-09-26T13:22:00+02:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_063/cortes/15_000400_063_1_25267_739014.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1539014I",
+        "duration": 360.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_063_1_25267_739014",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Pedro Casares Hontañón",
+          "lastname": "Casares Hontañón",
+          "firstname": "Pedro",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Socialista"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 19
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 66
+      },
+      "agendaItem": {
+        "title": "Solicitud de comparecencia urgente de la Vicepresidenta Primera del\nGobierno y Ministra de Hacienda ante el Pleno de la Cámara, para que\ninforme sobre el sistema de financiación singular y el secesionismo\nfiscal que ha acordado con sus socios de forma bilateral y fuera del\nsistema de financiación de Comunidades Autónomas de régimen común, a\ncambio de presidir la Generalitat de Cataluña y seguir presidiendo el\nGobierno de España.",
+        "officialTitle": "Solicitud de comparecencia urgente de la Vicepresidenta Primera del\nGobierno y Ministra de Hacienda ante el Pleno de la Cámara, para que\ninforme sobre el sistema de financiación singular y el secesionismo\nfiscal que ha acordado con sus socios de forma bilateral y fuera del\nsistema de financiación de Comunidades Autónomas de régimen común, a\ncambio de presidir la Generalitat de Cataluña y seguir presidiendo el\nGobierno de España.",
+        "type": "briefing",
+        "nativeType": "ES-comparecencia"
+      },
+      "dateStart": "2024-09-26T13:22:00+02:00",
+      "dateEnd": "2024-09-26T13:28:00+02:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_063/cortes/15_000400_063_1_25267_739015.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1539015I",
+        "duration": 360.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_063_1_25267_739015",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "María Jesús Montero Cuadrado",
+          "lastname": "Montero Cuadrado",
+          "firstname": "María Jesús",
+          "type": "member of government",
+          "role": "Vicepresidenta Primera del Gobierno y Ministra de Hacienda",
+          "faction": {
+            "label": "Grupo Parlamentario Socialista"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 20
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 66
+      },
+      "agendaItem": {
+        "title": "Proyecto de Ley de Movilidad Sostenible.",
+        "officialTitle": "Proyecto de Ley de Movilidad Sostenible.",
+        "type": "regular",
+        "nativeType": "ES-ley"
+      },
+      "dateStart": "2024-09-26T13:28:00+02:00",
+      "dateEnd": "2024-09-26T13:56:00+02:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_063/cortes/15_000400_063_1_25267_739018.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1539018I",
+        "duration": 1680.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_063_1_25267_739018",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Óscar Puente Santiago",
+          "lastname": "Puente Santiago",
+          "firstname": "Óscar",
+          "type": "member of government",
+          "role": "Ministro de Transportes y Movilidad Sostenible",
+          "faction": {
+            "label": "Grupo Parlamentario Socialista"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 21
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 66
+      },
+      "agendaItem": {
+        "title": "Proyecto de Ley de Movilidad Sostenible.",
+        "officialTitle": "Proyecto de Ley de Movilidad Sostenible.",
+        "type": "regular",
+        "nativeType": "ES-ley"
+      },
+      "dateStart": "2024-09-26T13:56:00+02:00",
+      "dateEnd": "2024-09-26T14:10:00+02:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_063/cortes/15_000400_063_1_25267_739019.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1539019I",
+        "duration": 840.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_063_1_25267_739019",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "José Alberto Herrero Bono",
+          "lastname": "Herrero Bono",
+          "firstname": "José Alberto",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Popular en el Congreso"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 22
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 66
+      },
+      "agendaItem": {
+        "title": "Proyecto de Ley de Movilidad Sostenible.",
+        "officialTitle": "Proyecto de Ley de Movilidad Sostenible.",
+        "type": "regular",
+        "nativeType": "ES-ley"
+      },
+      "dateStart": "2024-09-26T14:10:00+02:00",
+      "dateEnd": "2024-09-26T14:15:00+02:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_063/cortes/15_000400_063_1_25267_739020.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1539020I",
+        "duration": 300.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_063_1_25267_739020",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Néstor Rego Candamil",
+          "lastname": "Rego Candamil",
+          "firstname": "Néstor",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Mixto"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 23
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 66
+      },
+      "agendaItem": {
+        "title": "Proyecto de Ley de Movilidad Sostenible.",
+        "officialTitle": "Proyecto de Ley de Movilidad Sostenible.",
+        "type": "regular",
+        "nativeType": "ES-ley"
+      },
+      "dateStart": "2024-09-26T14:15:00+02:00",
+      "dateEnd": "2024-09-26T14:21:00+02:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_063/cortes/15_000400_063_1_25267_739021.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1539021I",
+        "duration": 360.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_063_1_25267_739021",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Martina Velarde Gómez",
+          "lastname": "Velarde Gómez",
+          "firstname": "Martina",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Mixto"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 24
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 66
+      },
+      "agendaItem": {
+        "title": "Proyecto de Ley de Movilidad Sostenible.",
+        "officialTitle": "Proyecto de Ley de Movilidad Sostenible.",
+        "type": "regular",
+        "nativeType": "ES-ley"
+      },
+      "dateStart": "2024-09-26T14:21:00+02:00",
+      "dateEnd": "2024-09-26T14:27:00+02:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_063/cortes/15_000400_063_1_25267_739022.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1539022I",
+        "duration": 360.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_063_1_25267_739022",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Maribel Vaquero Montero",
+          "lastname": "Vaquero Montero",
+          "firstname": "Maribel",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Vasco (EAJ-PNV)"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 25
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 66
+      },
+      "agendaItem": {
+        "title": "Proyecto de Ley de Movilidad Sostenible.",
+        "officialTitle": "Proyecto de Ley de Movilidad Sostenible.",
+        "type": "regular",
+        "nativeType": "ES-ley"
+      },
+      "dateStart": "2024-09-26T14:27:00+02:00",
+      "dateEnd": "2024-09-26T14:34:00+02:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_063/cortes/15_000400_063_1_25267_739023.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1539023I",
+        "duration": 420.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_063_1_25267_739023",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Iñaki Ruiz de Pinedo Undiano",
+          "lastname": "Ruiz de Pinedo Undiano",
+          "firstname": "Iñaki",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Euskal Herria Bildu"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 26
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 66
+      },
+      "agendaItem": {
+        "title": "Proyecto de Ley de Movilidad Sostenible.",
+        "officialTitle": "Proyecto de Ley de Movilidad Sostenible.",
+        "type": "regular",
+        "nativeType": "ES-ley"
+      },
+      "dateStart": "2024-09-26T14:34:00+02:00",
+      "dateEnd": "2024-09-26T14:43:00+02:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_063/cortes/15_000400_063_1_25267_739024.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1539024I",
+        "duration": 540.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_063_1_25267_739024",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Isidre Gavin i Valls",
+          "lastname": "Gavin i Valls",
+          "firstname": "Isidre",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Junts per Catalunya"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 27
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 66
+      },
+      "agendaItem": {
+        "title": "Proyecto de Ley de Movilidad Sostenible.",
+        "officialTitle": "Proyecto de Ley de Movilidad Sostenible.",
+        "type": "regular",
+        "nativeType": "ES-ley"
+      },
+      "dateStart": "2024-09-26T14:43:00+02:00",
+      "dateEnd": "2024-09-26T14:51:00+02:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_063/cortes/15_000400_063_1_25267_739025.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1539025I",
+        "duration": 480.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_063_1_25267_739025",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Inés Granollers Cunillera",
+          "lastname": "Granollers Cunillera",
+          "firstname": "Inés",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Republicano"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 28
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 66
+      },
+      "agendaItem": {
+        "title": "Proyecto de Ley de Movilidad Sostenible.",
+        "officialTitle": "Proyecto de Ley de Movilidad Sostenible.",
+        "type": "regular",
+        "nativeType": "ES-ley"
+      },
+      "dateStart": "2024-09-26T14:51:00+02:00",
+      "dateEnd": "2024-09-26T15:00:00+02:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_063/cortes/15_000400_063_1_25267_739026.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1539026I",
+        "duration": 540.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_063_1_25267_739026",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Alberto Ibáñez Mezquita",
+          "lastname": "Ibáñez Mezquita",
+          "firstname": "Alberto",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Plurinacional SUMAR"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 29
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 66
+      },
+      "agendaItem": {
+        "title": "Proyecto de Ley de Movilidad Sostenible.",
+        "officialTitle": "Proyecto de Ley de Movilidad Sostenible.",
+        "type": "regular",
+        "nativeType": "ES-ley"
+      },
+      "dateStart": "2024-09-26T15:00:00+02:00",
+      "dateEnd": "2024-09-26T15:09:00+02:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_063/cortes/15_000400_063_1_25267_739027.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1539027I",
+        "duration": 540.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_063_1_25267_739027",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Carina Mejías Sánchez",
+          "lastname": "Mejías Sánchez",
+          "firstname": "Carina",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario VOX"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 30
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 66
+      },
+      "agendaItem": {
+        "title": "Proyecto de Ley de Movilidad Sostenible.",
+        "officialTitle": "Proyecto de Ley de Movilidad Sostenible.",
+        "type": "regular",
+        "nativeType": "ES-ley"
+      },
+      "dateStart": "2024-09-26T15:09:00+02:00",
+      "dateEnd": "2024-09-26T15:17:00+02:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_063/cortes/15_000400_063_1_25267_739028.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1539028I",
+        "duration": 480.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_063_1_25267_739028",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Ignacio López Cano",
+          "lastname": "López Cano",
+          "firstname": "Ignacio",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Socialista"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 31
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 66
+      },
+      "agendaItem": {
+        "title": "Proyecto de Ley de Movilidad Sostenible.",
+        "officialTitle": "Proyecto de Ley de Movilidad Sostenible.",
+        "type": "regular",
+        "nativeType": "ES-ley"
+      },
+      "dateStart": "2024-09-26T15:17:00+02:00",
+      "dateEnd": "2024-09-26T15:26:00+02:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_063/cortes/15_000400_063_1_25267_739029.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1539029I",
+        "duration": 540.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_063_1_25267_739029",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Óscar Puente Santiago",
+          "lastname": "Puente Santiago",
+          "firstname": "Óscar",
+          "type": "member of government",
+          "role": "Ministro de Transportes y Movilidad Sostenible",
+          "faction": {
+            "label": "Grupo Parlamentario Socialista"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 32
+    }
+  ]
+}

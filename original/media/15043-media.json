@@ -1,0 +1,2087 @@
+{
+  "meta": {
+    "session": "15043",
+    "processing": {
+      "parse_media": "2026-05-23T07:17:41"
+    },
+    "dateStart": "2024-05-28T15:03:00+02:00",
+    "dateEnd": "2024-05-28T20:34:00+02:00"
+  },
+  "data": [
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 43
+      },
+      "agendaItem": {
+        "title": "Proposición de Ley relativa a la modificación de la Ley 2/2014, de 25\nde marzo, de la Acción y del Servicio Exterior del Estado, para el\ninforme previo a las Cortes Generales de los Consejos Europeos, así como\nla toma de decisiones no contempladas en la Estrategia de Acción en el\nExterior.",
+        "officialTitle": "Proposición de Ley relativa a la modificación de la Ley 2/2014, de 25\nde marzo, de la Acción y del Servicio Exterior del Estado, para el\ninforme previo a las Cortes Generales de los Consejos Europeos, así como\nla toma de decisiones no contempladas en la Estrategia de Acción en el\nExterior.",
+        "type": "regular",
+        "nativeType": "ES-ley"
+      },
+      "dateStart": "2024-05-28T15:03:00+02:00",
+      "dateEnd": "2024-05-28T15:16:00+02:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_041/cortes/15_000400_041_0_24957_734064.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1534064I",
+        "duration": 780.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_041_0_24957_734064",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Esteban González Pons",
+          "lastname": "González Pons",
+          "firstname": "Esteban",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Popular en el Congreso"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 1
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 43
+      },
+      "agendaItem": {
+        "title": "Proposición de Ley relativa a la modificación de la Ley 2/2014, de 25\nde marzo, de la Acción y del Servicio Exterior del Estado, para el\ninforme previo a las Cortes Generales de los Consejos Europeos, así como\nla toma de decisiones no contempladas en la Estrategia de Acción en el\nExterior.",
+        "officialTitle": "Proposición de Ley relativa a la modificación de la Ley 2/2014, de 25\nde marzo, de la Acción y del Servicio Exterior del Estado, para el\ninforme previo a las Cortes Generales de los Consejos Europeos, así como\nla toma de decisiones no contempladas en la Estrategia de Acción en el\nExterior.",
+        "type": "regular",
+        "nativeType": "ES-ley"
+      },
+      "dateStart": "2024-05-28T15:16:00+02:00",
+      "dateEnd": "2024-05-28T15:20:00+02:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_041/cortes/15_000400_041_0_24957_734065.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1534065I",
+        "duration": 240.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_041_0_24957_734065",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Néstor Rego Candamil",
+          "lastname": "Rego Candamil",
+          "firstname": "Néstor",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Mixto"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 2
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 43
+      },
+      "agendaItem": {
+        "title": "Proposición de Ley relativa a la modificación de la Ley 2/2014, de 25\nde marzo, de la Acción y del Servicio Exterior del Estado, para el\ninforme previo a las Cortes Generales de los Consejos Europeos, así como\nla toma de decisiones no contempladas en la Estrategia de Acción en el\nExterior.",
+        "officialTitle": "Proposición de Ley relativa a la modificación de la Ley 2/2014, de 25\nde marzo, de la Acción y del Servicio Exterior del Estado, para el\ninforme previo a las Cortes Generales de los Consejos Europeos, así como\nla toma de decisiones no contempladas en la Estrategia de Acción en el\nExterior.",
+        "type": "regular",
+        "nativeType": "ES-ley"
+      },
+      "dateStart": "2024-05-28T15:20:00+02:00",
+      "dateEnd": "2024-05-28T15:24:00+02:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_041/cortes/15_000400_041_0_24957_734066.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1534066I",
+        "duration": 240.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_041_0_24957_734066",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Javier Sánchez Serna",
+          "lastname": "Sánchez Serna",
+          "firstname": "Javier",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Mixto"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 3
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 43
+      },
+      "agendaItem": {
+        "title": "Proposición de Ley relativa a la modificación de la Ley 2/2014, de 25\nde marzo, de la Acción y del Servicio Exterior del Estado, para el\ninforme previo a las Cortes Generales de los Consejos Europeos, así como\nla toma de decisiones no contempladas en la Estrategia de Acción en el\nExterior.",
+        "officialTitle": "Proposición de Ley relativa a la modificación de la Ley 2/2014, de 25\nde marzo, de la Acción y del Servicio Exterior del Estado, para el\ninforme previo a las Cortes Generales de los Consejos Europeos, así como\nla toma de decisiones no contempladas en la Estrategia de Acción en el\nExterior.",
+        "type": "regular",
+        "nativeType": "ES-ley"
+      },
+      "dateStart": "2024-05-28T15:24:00+02:00",
+      "dateEnd": "2024-05-28T15:32:00+02:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_041/cortes/15_000400_041_0_24957_734067.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1534067I",
+        "duration": 480.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_041_0_24957_734067",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Aitor Esteban Bravo",
+          "lastname": "Esteban Bravo",
+          "firstname": "Aitor",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Vasco (EAJ-PNV)"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 4
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 43
+      },
+      "agendaItem": {
+        "title": "Proposición de Ley relativa a la modificación de la Ley 2/2014, de 25\nde marzo, de la Acción y del Servicio Exterior del Estado, para el\ninforme previo a las Cortes Generales de los Consejos Europeos, así como\nla toma de decisiones no contempladas en la Estrategia de Acción en el\nExterior.",
+        "officialTitle": "Proposición de Ley relativa a la modificación de la Ley 2/2014, de 25\nde marzo, de la Acción y del Servicio Exterior del Estado, para el\ninforme previo a las Cortes Generales de los Consejos Europeos, así como\nla toma de decisiones no contempladas en la Estrategia de Acción en el\nExterior.",
+        "type": "regular",
+        "nativeType": "ES-ley"
+      },
+      "dateStart": "2024-05-28T15:32:00+02:00",
+      "dateEnd": "2024-05-28T15:40:00+02:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_041/cortes/15_000400_041_0_24957_734068.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1534068I",
+        "duration": 480.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_041_0_24957_734068",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Jon Iñarritu García",
+          "lastname": "Iñarritu García",
+          "firstname": "Jon",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Euskal Herria Bildu"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 5
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 43
+      },
+      "agendaItem": {
+        "title": "Proposición de Ley relativa a la modificación de la Ley 2/2014, de 25\nde marzo, de la Acción y del Servicio Exterior del Estado, para el\ninforme previo a las Cortes Generales de los Consejos Europeos, así como\nla toma de decisiones no contempladas en la Estrategia de Acción en el\nExterior.",
+        "officialTitle": "Proposición de Ley relativa a la modificación de la Ley 2/2014, de 25\nde marzo, de la Acción y del Servicio Exterior del Estado, para el\ninforme previo a las Cortes Generales de los Consejos Europeos, así como\nla toma de decisiones no contempladas en la Estrategia de Acción en el\nExterior.",
+        "type": "regular",
+        "nativeType": "ES-ley"
+      },
+      "dateStart": "2024-05-28T15:40:00+02:00",
+      "dateEnd": "2024-05-28T15:45:00+02:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_041/cortes/15_000400_041_0_24957_734069.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1534069I",
+        "duration": 300.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_041_0_24957_734069",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Josep Maria Cruset Domènech",
+          "lastname": "Cruset Domènech",
+          "firstname": "Josep Maria",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Junts per Catalunya"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 6
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 43
+      },
+      "agendaItem": {
+        "title": "Proposición de Ley relativa a la modificación de la Ley 2/2014, de 25\nde marzo, de la Acción y del Servicio Exterior del Estado, para el\ninforme previo a las Cortes Generales de los Consejos Europeos, así como\nla toma de decisiones no contempladas en la Estrategia de Acción en el\nExterior.",
+        "officialTitle": "Proposición de Ley relativa a la modificación de la Ley 2/2014, de 25\nde marzo, de la Acción y del Servicio Exterior del Estado, para el\ninforme previo a las Cortes Generales de los Consejos Europeos, así como\nla toma de decisiones no contempladas en la Estrategia de Acción en el\nExterior.",
+        "type": "regular",
+        "nativeType": "ES-ley"
+      },
+      "dateStart": "2024-05-28T15:45:00+02:00",
+      "dateEnd": "2024-05-28T15:54:00+02:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_041/cortes/15_000400_041_0_24957_734070.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1534070I",
+        "duration": 540.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_041_0_24957_734070",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Francesc-Marc Álvaro Vidal",
+          "lastname": "Álvaro Vidal",
+          "firstname": "Francesc-Marc",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Republicano"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 7
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 43
+      },
+      "agendaItem": {
+        "title": "Proposición de Ley relativa a la modificación de la Ley 2/2014, de 25\nde marzo, de la Acción y del Servicio Exterior del Estado, para el\ninforme previo a las Cortes Generales de los Consejos Europeos, así como\nla toma de decisiones no contempladas en la Estrategia de Acción en el\nExterior.",
+        "officialTitle": "Proposición de Ley relativa a la modificación de la Ley 2/2014, de 25\nde marzo, de la Acción y del Servicio Exterior del Estado, para el\ninforme previo a las Cortes Generales de los Consejos Europeos, así como\nla toma de decisiones no contempladas en la Estrategia de Acción en el\nExterior.",
+        "type": "regular",
+        "nativeType": "ES-ley"
+      },
+      "dateStart": "2024-05-28T15:54:00+02:00",
+      "dateEnd": "2024-05-28T16:03:00+02:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_041/cortes/15_000400_041_0_24957_734071.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1534071I",
+        "duration": 540.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_041_0_24957_734071",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Agustín Santos Maraver",
+          "lastname": "Santos Maraver",
+          "firstname": "Agustín",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Plurinacional SUMAR"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 8
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 43
+      },
+      "agendaItem": {
+        "title": "Proposición de Ley relativa a la modificación de la Ley 2/2014, de 25\nde marzo, de la Acción y del Servicio Exterior del Estado, para el\ninforme previo a las Cortes Generales de los Consejos Europeos, así como\nla toma de decisiones no contempladas en la Estrategia de Acción en el\nExterior.",
+        "officialTitle": "Proposición de Ley relativa a la modificación de la Ley 2/2014, de 25\nde marzo, de la Acción y del Servicio Exterior del Estado, para el\ninforme previo a las Cortes Generales de los Consejos Europeos, así como\nla toma de decisiones no contempladas en la Estrategia de Acción en el\nExterior.",
+        "type": "regular",
+        "nativeType": "ES-ley"
+      },
+      "dateStart": "2024-05-28T16:03:00+02:00",
+      "dateEnd": "2024-05-28T16:14:00+02:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_041/cortes/15_000400_041_0_24957_734072.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1534072I",
+        "duration": 660.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_041_0_24957_734072",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "José María Sánchez García",
+          "lastname": "Sánchez García",
+          "firstname": "José María",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario VOX"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 9
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 43
+      },
+      "agendaItem": {
+        "title": "Proposición de Ley relativa a la modificación de la Ley 2/2014, de 25\nde marzo, de la Acción y del Servicio Exterior del Estado, para el\ninforme previo a las Cortes Generales de los Consejos Europeos, así como\nla toma de decisiones no contempladas en la Estrategia de Acción en el\nExterior.",
+        "officialTitle": "Proposición de Ley relativa a la modificación de la Ley 2/2014, de 25\nde marzo, de la Acción y del Servicio Exterior del Estado, para el\ninforme previo a las Cortes Generales de los Consejos Europeos, así como\nla toma de decisiones no contempladas en la Estrategia de Acción en el\nExterior.",
+        "type": "regular",
+        "nativeType": "ES-ley"
+      },
+      "dateStart": "2024-05-28T16:14:00+02:00",
+      "dateEnd": "2024-05-28T16:23:00+02:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_041/cortes/15_000400_041_0_24957_734073.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1534073I",
+        "duration": 540.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_041_0_24957_734073",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Sergio Gutiérrez Prieto",
+          "lastname": "Gutiérrez Prieto",
+          "firstname": "Sergio",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Socialista"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 10
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 43
+      },
+      "agendaItem": {
+        "title": "Proposición de Ley para la mejora de la protección de las personas\ndonantes en vivo de órganos o tejidos para su posterior trasplante.",
+        "officialTitle": "Proposición de Ley para la mejora de la protección de las personas\ndonantes en vivo de órganos o tejidos para su posterior trasplante.",
+        "type": "regular",
+        "nativeType": "ES-ley"
+      },
+      "dateStart": "2024-05-28T16:23:00+02:00",
+      "dateEnd": "2024-05-28T16:36:00+02:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_041/cortes/15_000400_041_0_24957_734074.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1534074I",
+        "duration": 780.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_041_0_24957_734074",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "María Mercè Perea i Conillas",
+          "lastname": "Perea i Conillas",
+          "firstname": "María Mercè",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Socialista"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 11
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 43
+      },
+      "agendaItem": {
+        "title": "Proposición de Ley para la mejora de la protección de las personas\ndonantes en vivo de órganos o tejidos para su posterior trasplante.",
+        "officialTitle": "Proposición de Ley para la mejora de la protección de las personas\ndonantes en vivo de órganos o tejidos para su posterior trasplante.",
+        "type": "regular",
+        "nativeType": "ES-ley"
+      },
+      "dateStart": "2024-05-28T16:36:00+02:00",
+      "dateEnd": "2024-05-28T16:42:00+02:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_041/cortes/15_000400_041_0_24957_734076.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1534076I",
+        "duration": 360.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_041_0_24957_734076",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Cristina Valido García",
+          "lastname": "Valido García",
+          "firstname": "Cristina",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Mixto"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 12
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 43
+      },
+      "agendaItem": {
+        "title": "Proposición de Ley para la mejora de la protección de las personas\ndonantes en vivo de órganos o tejidos para su posterior trasplante.",
+        "officialTitle": "Proposición de Ley para la mejora de la protección de las personas\ndonantes en vivo de órganos o tejidos para su posterior trasplante.",
+        "type": "regular",
+        "nativeType": "ES-ley"
+      },
+      "dateStart": "2024-05-28T16:42:00+02:00",
+      "dateEnd": "2024-05-28T16:47:00+02:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_041/cortes/15_000400_041_0_24957_734077.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1534077I",
+        "duration": 300.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_041_0_24957_734077",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Maribel Vaquero Montero",
+          "lastname": "Vaquero Montero",
+          "firstname": "Maribel",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Vasco (EAJ-PNV)"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 13
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 43
+      },
+      "agendaItem": {
+        "title": "Proposición de Ley para la mejora de la protección de las personas\ndonantes en vivo de órganos o tejidos para su posterior trasplante.",
+        "officialTitle": "Proposición de Ley para la mejora de la protección de las personas\ndonantes en vivo de órganos o tejidos para su posterior trasplante.",
+        "type": "regular",
+        "nativeType": "ES-ley"
+      },
+      "dateStart": "2024-05-28T16:47:00+02:00",
+      "dateEnd": "2024-05-28T16:51:00+02:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_041/cortes/15_000400_041_0_24957_734078.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1534078I",
+        "duration": 240.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_041_0_24957_734078",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Pilar Calvo Gómez",
+          "lastname": "Calvo Gómez",
+          "firstname": "Pilar",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Junts per Catalunya"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 14
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 43
+      },
+      "agendaItem": {
+        "title": "Proposición de Ley para la mejora de la protección de las personas\ndonantes en vivo de órganos o tejidos para su posterior trasplante.",
+        "officialTitle": "Proposición de Ley para la mejora de la protección de las personas\ndonantes en vivo de órganos o tejidos para su posterior trasplante.",
+        "type": "regular",
+        "nativeType": "ES-ley"
+      },
+      "dateStart": "2024-05-28T16:51:00+02:00",
+      "dateEnd": "2024-05-28T16:59:00+02:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_041/cortes/15_000400_041_0_24957_734079.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1534079I",
+        "duration": 480.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_041_0_24957_734079",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Rafael Cofiño Fernández",
+          "lastname": "Cofiño Fernández",
+          "firstname": "Rafael",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Plurinacional SUMAR"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 15
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 43
+      },
+      "agendaItem": {
+        "title": "Proposición de Ley para la mejora de la protección de las personas\ndonantes en vivo de órganos o tejidos para su posterior trasplante.",
+        "officialTitle": "Proposición de Ley para la mejora de la protección de las personas\ndonantes en vivo de órganos o tejidos para su posterior trasplante.",
+        "type": "regular",
+        "nativeType": "ES-ley"
+      },
+      "dateStart": "2024-05-28T16:59:00+02:00",
+      "dateEnd": "2024-05-28T17:08:00+02:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_041/cortes/15_000400_041_0_24957_734080.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1534080I",
+        "duration": 540.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_041_0_24957_734080",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Tomás Fernández Ríos",
+          "lastname": "Fernández Ríos",
+          "firstname": "Tomás",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario VOX"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 16
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 43
+      },
+      "agendaItem": {
+        "title": "Proposición de Ley para la mejora de la protección de las personas\ndonantes en vivo de órganos o tejidos para su posterior trasplante.",
+        "officialTitle": "Proposición de Ley para la mejora de la protección de las personas\ndonantes en vivo de órganos o tejidos para su posterior trasplante.",
+        "type": "regular",
+        "nativeType": "ES-ley"
+      },
+      "dateStart": "2024-05-28T17:08:00+02:00",
+      "dateEnd": "2024-05-28T17:16:00+02:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_041/cortes/15_000400_041_0_24957_734081.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1534081I",
+        "duration": 480.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_041_0_24957_734081",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Antonio Cavacasillas Rodríguez",
+          "lastname": "Cavacasillas Rodríguez",
+          "firstname": "Antonio",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Popular en el Congreso"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 17
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 43
+      },
+      "agendaItem": {
+        "title": "Proposición no de Ley sobre la lucha contra la corrupción, las\ncloacas del Estado y la guerra judicial en el Estado español.",
+        "officialTitle": "Proposición no de Ley sobre la lucha contra la corrupción, las\ncloacas del Estado y la guerra judicial en el Estado español.",
+        "type": "regular"
+      },
+      "dateStart": "2024-05-28T17:16:00+02:00",
+      "dateEnd": "2024-05-28T17:23:00+02:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_041/cortes/15_000400_041_0_24957_734084.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1534084I",
+        "duration": 420.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_041_0_24957_734084",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Gabriel Rufián Romero",
+          "lastname": "Rufián Romero",
+          "firstname": "Gabriel",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Republicano"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 18
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 43
+      },
+      "agendaItem": {
+        "title": "Proposición no de Ley sobre la lucha contra la corrupción, las\ncloacas del Estado y la guerra judicial en el Estado español.",
+        "officialTitle": "Proposición no de Ley sobre la lucha contra la corrupción, las\ncloacas del Estado y la guerra judicial en el Estado español.",
+        "type": "regular"
+      },
+      "dateStart": "2024-05-28T17:23:00+02:00",
+      "dateEnd": "2024-05-28T17:30:00+02:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_041/cortes/15_000400_041_0_24957_734085.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1534085I",
+        "duration": 420.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_041_0_24957_734085",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "David Serrada Pariente",
+          "lastname": "Serrada Pariente",
+          "firstname": "David",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Socialista"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 19
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 43
+      },
+      "agendaItem": {
+        "title": "Proposición no de Ley sobre la lucha contra la corrupción, las\ncloacas del Estado y la guerra judicial en el Estado español.",
+        "officialTitle": "Proposición no de Ley sobre la lucha contra la corrupción, las\ncloacas del Estado y la guerra judicial en el Estado español.",
+        "type": "regular"
+      },
+      "dateStart": "2024-05-28T17:31:00+02:00",
+      "dateEnd": "2024-05-28T17:38:00+02:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_041/cortes/15_000400_041_0_24957_734086.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1534086I",
+        "duration": 420.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_041_0_24957_734086",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Eduard Pujol Bonell",
+          "lastname": "Pujol Bonell",
+          "firstname": "Eduard",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Junts per Catalunya"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 20
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 43
+      },
+      "agendaItem": {
+        "title": "Proposición no de Ley sobre la lucha contra la corrupción, las\ncloacas del Estado y la guerra judicial en el Estado español.",
+        "officialTitle": "Proposición no de Ley sobre la lucha contra la corrupción, las\ncloacas del Estado y la guerra judicial en el Estado español.",
+        "type": "regular"
+      },
+      "dateStart": "2024-05-28T17:38:00+02:00",
+      "dateEnd": "2024-05-28T17:44:00+02:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_041/cortes/15_000400_041_0_24957_734087.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1534087I",
+        "duration": 360.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_041_0_24957_734087",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Mertxe Aizpurua Arzallus",
+          "lastname": "Aizpurua Arzallus",
+          "firstname": "Mertxe",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Euskal Herria Bildu"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 21
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 43
+      },
+      "agendaItem": {
+        "title": "Proposición no de Ley sobre la lucha contra la corrupción, las\ncloacas del Estado y la guerra judicial en el Estado español.",
+        "officialTitle": "Proposición no de Ley sobre la lucha contra la corrupción, las\ncloacas del Estado y la guerra judicial en el Estado español.",
+        "type": "regular"
+      },
+      "dateStart": "2024-05-28T17:44:00+02:00",
+      "dateEnd": "2024-05-28T17:51:00+02:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_041/cortes/15_000400_041_0_24957_734088.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1534088I",
+        "duration": 420.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_041_0_24957_734088",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Enrique Fernando Santiago Romero",
+          "lastname": "Santiago Romero",
+          "firstname": "Enrique Fernando",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Plurinacional SUMAR"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 22
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 43
+      },
+      "agendaItem": {
+        "title": "Proposición no de Ley sobre la lucha contra la corrupción, las\ncloacas del Estado y la guerra judicial en el Estado español.",
+        "officialTitle": "Proposición no de Ley sobre la lucha contra la corrupción, las\ncloacas del Estado y la guerra judicial en el Estado español.",
+        "type": "regular"
+      },
+      "dateStart": "2024-05-28T17:51:00+02:00",
+      "dateEnd": "2024-05-28T17:57:00+02:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_041/cortes/15_000400_041_0_24957_734089.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1534089I",
+        "duration": 360.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_041_0_24957_734089",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Francisco Javier Ortega Smith-Molina",
+          "lastname": "Ortega Smith-Molina",
+          "firstname": "Francisco Javier",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario VOX"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 23
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 43
+      },
+      "agendaItem": {
+        "title": "Proposición no de Ley sobre la lucha contra la corrupción, las\ncloacas del Estado y la guerra judicial en el Estado español.",
+        "officialTitle": "Proposición no de Ley sobre la lucha contra la corrupción, las\ncloacas del Estado y la guerra judicial en el Estado español.",
+        "type": "regular"
+      },
+      "dateStart": "2024-05-28T17:57:00+02:00",
+      "dateEnd": "2024-05-28T18:04:00+02:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_041/cortes/15_000400_041_0_24957_734090.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1534090I",
+        "duration": 420.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_041_0_24957_734090",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Alberto Fabra Part",
+          "lastname": "Fabra Part",
+          "firstname": "Alberto",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Popular en el Congreso"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 24
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 43
+      },
+      "agendaItem": {
+        "title": "Proposición no de Ley sobre la creación de un Sistema de Información\nEconómica para la Negociación Colectiva (SIENN) a partir de los registros\nadministrativos oficiales.",
+        "officialTitle": "Proposición no de Ley sobre la creación de un Sistema de Información\nEconómica para la Negociación Colectiva (SIENN) a partir de los registros\nadministrativos oficiales.",
+        "type": "regular"
+      },
+      "dateStart": "2024-05-28T18:04:00+02:00",
+      "dateEnd": "2024-05-28T18:13:00+02:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_041/cortes/15_000400_041_0_24957_734093.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1534093I",
+        "duration": 540.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_041_0_24957_734093",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Carlos Martín Urriza",
+          "lastname": "Martín Urriza",
+          "firstname": "Carlos",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Plurinacional SUMAR"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 25
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 43
+      },
+      "agendaItem": {
+        "title": "Proposición no de Ley sobre la creación de un Sistema de Información\nEconómica para la Negociación Colectiva (SIENN) a partir de los registros\nadministrativos oficiales.",
+        "officialTitle": "Proposición no de Ley sobre la creación de un Sistema de Información\nEconómica para la Negociación Colectiva (SIENN) a partir de los registros\nadministrativos oficiales.",
+        "type": "regular"
+      },
+      "dateStart": "2024-05-28T18:13:00+02:00",
+      "dateEnd": "2024-05-28T18:18:00+02:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_041/cortes/15_000400_041_0_24957_734095.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1534095I",
+        "duration": 300.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_041_0_24957_734095",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Josep Maria Cervera Pinart",
+          "lastname": "Cervera Pinart",
+          "firstname": "Josep Maria",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Junts per Catalunya"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 26
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 43
+      },
+      "agendaItem": {
+        "title": "Proposición no de Ley sobre la creación de un Sistema de Información\nEconómica para la Negociación Colectiva (SIENN) a partir de los registros\nadministrativos oficiales.",
+        "officialTitle": "Proposición no de Ley sobre la creación de un Sistema de Información\nEconómica para la Negociación Colectiva (SIENN) a partir de los registros\nadministrativos oficiales.",
+        "type": "regular"
+      },
+      "dateStart": "2024-05-28T18:18:00+02:00",
+      "dateEnd": "2024-05-28T18:24:00+02:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_041/cortes/15_000400_041_0_24957_734096.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1534096I",
+        "duration": 360.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_041_0_24957_734096",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Néstor Rego Candamil",
+          "lastname": "Rego Candamil",
+          "firstname": "Néstor",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Mixto"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 27
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 43
+      },
+      "agendaItem": {
+        "title": "Proposición no de Ley sobre la creación de un Sistema de Información\nEconómica para la Negociación Colectiva (SIENN) a partir de los registros\nadministrativos oficiales.",
+        "officialTitle": "Proposición no de Ley sobre la creación de un Sistema de Información\nEconómica para la Negociación Colectiva (SIENN) a partir de los registros\nadministrativos oficiales.",
+        "type": "regular"
+      },
+      "dateStart": "2024-05-28T18:24:00+02:00",
+      "dateEnd": "2024-05-28T18:30:00+02:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_041/cortes/15_000400_041_0_24957_734097.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1534097I",
+        "duration": 360.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_041_0_24957_734097",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Idoia Sagastizabal Unzetabarrenetxea",
+          "lastname": "Sagastizabal Unzetabarrenetxea",
+          "firstname": "Idoia",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Vasco (EAJ-PNV)"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 28
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 43
+      },
+      "agendaItem": {
+        "title": "Proposición no de Ley sobre la creación de un Sistema de Información\nEconómica para la Negociación Colectiva (SIENN) a partir de los registros\nadministrativos oficiales.",
+        "officialTitle": "Proposición no de Ley sobre la creación de un Sistema de Información\nEconómica para la Negociación Colectiva (SIENN) a partir de los registros\nadministrativos oficiales.",
+        "type": "regular"
+      },
+      "dateStart": "2024-05-28T18:30:00+02:00",
+      "dateEnd": "2024-05-28T18:36:00+02:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_041/cortes/15_000400_041_0_24957_734098.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1534098I",
+        "duration": 360.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_041_0_24957_734098",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Jordi Salvador i Duch",
+          "lastname": "Salvador i Duch",
+          "firstname": "Jordi",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Republicano"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 29
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 43
+      },
+      "agendaItem": {
+        "title": "Proposición no de Ley sobre la creación de un Sistema de Información\nEconómica para la Negociación Colectiva (SIENN) a partir de los registros\nadministrativos oficiales.",
+        "officialTitle": "Proposición no de Ley sobre la creación de un Sistema de Información\nEconómica para la Negociación Colectiva (SIENN) a partir de los registros\nadministrativos oficiales.",
+        "type": "regular"
+      },
+      "dateStart": "2024-05-28T18:36:00+02:00",
+      "dateEnd": "2024-05-28T18:42:00+02:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_041/cortes/15_000400_041_0_24957_734099.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1534099I",
+        "duration": 360.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_041_0_24957_734099",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "David García Gomis",
+          "lastname": "García Gomis",
+          "firstname": "David",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario VOX"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 30
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 43
+      },
+      "agendaItem": {
+        "title": "Proposición no de Ley sobre la creación de un Sistema de Información\nEconómica para la Negociación Colectiva (SIENN) a partir de los registros\nadministrativos oficiales.",
+        "officialTitle": "Proposición no de Ley sobre la creación de un Sistema de Información\nEconómica para la Negociación Colectiva (SIENN) a partir de los registros\nadministrativos oficiales.",
+        "type": "regular"
+      },
+      "dateStart": "2024-05-28T18:42:00+02:00",
+      "dateEnd": "2024-05-28T18:49:00+02:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_041/cortes/15_000400_041_0_24957_734100.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1534100I",
+        "duration": 420.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_041_0_24957_734100",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Alberto Mayoral de Lamo",
+          "lastname": "Mayoral de Lamo",
+          "firstname": "Alberto",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Socialista"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 31
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 43
+      },
+      "agendaItem": {
+        "title": "Proposición no de Ley sobre la creación de un Sistema de Información\nEconómica para la Negociación Colectiva (SIENN) a partir de los registros\nadministrativos oficiales.",
+        "officialTitle": "Proposición no de Ley sobre la creación de un Sistema de Información\nEconómica para la Negociación Colectiva (SIENN) a partir de los registros\nadministrativos oficiales.",
+        "type": "regular"
+      },
+      "dateStart": "2024-05-28T18:49:00+02:00",
+      "dateEnd": "2024-05-28T18:56:00+02:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_041/cortes/15_000400_041_0_24957_734101.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1534101I",
+        "duration": 420.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_041_0_24957_734101",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Cristina Teniente Sánchez",
+          "lastname": "Teniente Sánchez",
+          "firstname": "Cristina",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Popular en el Congreso"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 32
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 43
+      },
+      "agendaItem": {
+        "title": "Proposición no de Ley sobre la creación de un Sistema de Información\nEconómica para la Negociación Colectiva (SIENN) a partir de los registros\nadministrativos oficiales.",
+        "officialTitle": "Proposición no de Ley sobre la creación de un Sistema de Información\nEconómica para la Negociación Colectiva (SIENN) a partir de los registros\nadministrativos oficiales.",
+        "type": "regular"
+      },
+      "dateStart": "2024-05-28T18:56:00+02:00",
+      "dateEnd": "2024-05-28T18:56:00+02:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_041/cortes/15_000400_041_0_24957_734102.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1534102I",
+        "duration": 0.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_041_0_24957_734102",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Carlos Martín Urriza",
+          "lastname": "Martín Urriza",
+          "firstname": "Carlos",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Plurinacional SUMAR"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 33
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 43
+      },
+      "agendaItem": {
+        "title": "Moción consecuencia de interpelación urgente sobre las medidas que\npiensa adoptar el Gobierno para favorecer las condiciones de vida de los\njóvenes en España.",
+        "officialTitle": "Moción consecuencia de interpelación urgente sobre las medidas que\npiensa adoptar el Gobierno para favorecer las condiciones de vida de los\njóvenes en España.",
+        "type": "regular",
+        "nativeType": "ES-mocion"
+      },
+      "dateStart": "2024-05-28T18:56:00+02:00",
+      "dateEnd": "2024-05-28T19:05:00+02:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_041/cortes/15_000400_041_0_24957_734105.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1534105I",
+        "duration": 540.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_041_0_24957_734105",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Juan Bravo Baena",
+          "lastname": "Bravo Baena",
+          "firstname": "Juan",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Popular en el Congreso"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 34
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 43
+      },
+      "agendaItem": {
+        "title": "Moción consecuencia de interpelación urgente sobre las medidas que\npiensa adoptar el Gobierno para favorecer las condiciones de vida de los\njóvenes en España.",
+        "officialTitle": "Moción consecuencia de interpelación urgente sobre las medidas que\npiensa adoptar el Gobierno para favorecer las condiciones de vida de los\njóvenes en España.",
+        "type": "regular",
+        "nativeType": "ES-mocion"
+      },
+      "dateStart": "2024-05-28T19:05:00+02:00",
+      "dateEnd": "2024-05-28T19:12:00+02:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_041/cortes/15_000400_041_0_24957_734106.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1534106I",
+        "duration": 420.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_041_0_24957_734106",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Carlos Hernández Quero",
+          "lastname": "Hernández Quero",
+          "firstname": "Carlos",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario VOX"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 35
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 43
+      },
+      "agendaItem": {
+        "title": "Moción consecuencia de interpelación urgente sobre las medidas que\npiensa adoptar el Gobierno para favorecer las condiciones de vida de los\njóvenes en España.",
+        "officialTitle": "Moción consecuencia de interpelación urgente sobre las medidas que\npiensa adoptar el Gobierno para favorecer las condiciones de vida de los\njóvenes en España.",
+        "type": "regular",
+        "nativeType": "ES-mocion"
+      },
+      "dateStart": "2024-05-28T19:12:00+02:00",
+      "dateEnd": "2024-05-28T19:15:00+02:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_041/cortes/15_000400_041_0_24957_734107.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1534107I",
+        "duration": 180.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_041_0_24957_734107",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Alberto Catalán Higueras",
+          "lastname": "Catalán Higueras",
+          "firstname": "Alberto",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Mixto"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 36
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 43
+      },
+      "agendaItem": {
+        "title": "Moción consecuencia de interpelación urgente sobre las medidas que\npiensa adoptar el Gobierno para favorecer las condiciones de vida de los\njóvenes en España.",
+        "officialTitle": "Moción consecuencia de interpelación urgente sobre las medidas que\npiensa adoptar el Gobierno para favorecer las condiciones de vida de los\njóvenes en España.",
+        "type": "regular",
+        "nativeType": "ES-mocion"
+      },
+      "dateStart": "2024-05-28T19:15:00+02:00",
+      "dateEnd": "2024-05-28T19:17:00+02:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_041/cortes/15_000400_041_0_24957_734108.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1534108I",
+        "duration": 120.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_041_0_24957_734108",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Cristina Valido García",
+          "lastname": "Valido García",
+          "firstname": "Cristina",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Mixto"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 37
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 43
+      },
+      "agendaItem": {
+        "title": "Moción consecuencia de interpelación urgente sobre las medidas que\npiensa adoptar el Gobierno para favorecer las condiciones de vida de los\njóvenes en España.",
+        "officialTitle": "Moción consecuencia de interpelación urgente sobre las medidas que\npiensa adoptar el Gobierno para favorecer las condiciones de vida de los\njóvenes en España.",
+        "type": "regular",
+        "nativeType": "ES-mocion"
+      },
+      "dateStart": "2024-05-28T19:17:00+02:00",
+      "dateEnd": "2024-05-28T19:20:00+02:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_041/cortes/15_000400_041_0_24957_734109.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1534109I",
+        "duration": 180.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_041_0_24957_734109",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Noemí Santana Perera",
+          "lastname": "Santana Perera",
+          "firstname": "Noemí",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Mixto"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 38
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 43
+      },
+      "agendaItem": {
+        "title": "Moción consecuencia de interpelación urgente sobre las medidas que\npiensa adoptar el Gobierno para favorecer las condiciones de vida de los\njóvenes en España.",
+        "officialTitle": "Moción consecuencia de interpelación urgente sobre las medidas que\npiensa adoptar el Gobierno para favorecer las condiciones de vida de los\njóvenes en España.",
+        "type": "regular",
+        "nativeType": "ES-mocion"
+      },
+      "dateStart": "2024-05-28T19:20:00+02:00",
+      "dateEnd": "2024-05-28T19:25:00+02:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_041/cortes/15_000400_041_0_24957_734110.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1534110I",
+        "duration": 300.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_041_0_24957_734110",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Maribel Vaquero Montero",
+          "lastname": "Vaquero Montero",
+          "firstname": "Maribel",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Vasco (EAJ-PNV)"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 39
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 43
+      },
+      "agendaItem": {
+        "title": "Moción consecuencia de interpelación urgente sobre las medidas que\npiensa adoptar el Gobierno para favorecer las condiciones de vida de los\njóvenes en España.",
+        "officialTitle": "Moción consecuencia de interpelación urgente sobre las medidas que\npiensa adoptar el Gobierno para favorecer las condiciones de vida de los\njóvenes en España.",
+        "type": "regular",
+        "nativeType": "ES-mocion"
+      },
+      "dateStart": "2024-05-28T19:26:00+02:00",
+      "dateEnd": "2024-05-28T19:32:00+02:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_041/cortes/15_000400_041_1_24959_734116.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1534116I",
+        "duration": 360.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_041_1_24959_734116",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Oskar Matute García de Jalón",
+          "lastname": "Matute García de Jalón",
+          "firstname": "Oskar",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Euskal Herria Bildu"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 40
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 43
+      },
+      "agendaItem": {
+        "title": "Moción consecuencia de interpelación urgente sobre las medidas que\npiensa adoptar el Gobierno para favorecer las condiciones de vida de los\njóvenes en España.",
+        "officialTitle": "Moción consecuencia de interpelación urgente sobre las medidas que\npiensa adoptar el Gobierno para favorecer las condiciones de vida de los\njóvenes en España.",
+        "type": "regular",
+        "nativeType": "ES-mocion"
+      },
+      "dateStart": "2024-05-28T19:32:00+02:00",
+      "dateEnd": "2024-05-28T19:37:00+02:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_041/cortes/15_000400_041_1_24959_734117.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1534117I",
+        "duration": 300.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_041_1_24959_734117",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Josep Maria Cruset Domènech",
+          "lastname": "Cruset Domènech",
+          "firstname": "Josep Maria",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Junts per Catalunya"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 41
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 43
+      },
+      "agendaItem": {
+        "title": "Moción consecuencia de interpelación urgente sobre las medidas que\npiensa adoptar el Gobierno para favorecer las condiciones de vida de los\njóvenes en España.",
+        "officialTitle": "Moción consecuencia de interpelación urgente sobre las medidas que\npiensa adoptar el Gobierno para favorecer las condiciones de vida de los\njóvenes en España.",
+        "type": "regular",
+        "nativeType": "ES-mocion"
+      },
+      "dateStart": "2024-05-28T19:37:00+02:00",
+      "dateEnd": "2024-05-28T19:44:00+02:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_041/cortes/15_000400_041_1_24959_734118.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1534118I",
+        "duration": 420.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_041_1_24959_734118",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Jordi Salvador i Duch",
+          "lastname": "Salvador i Duch",
+          "firstname": "Jordi",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Republicano"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 42
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 43
+      },
+      "agendaItem": {
+        "title": "Moción consecuencia de interpelación urgente sobre las medidas que\npiensa adoptar el Gobierno para favorecer las condiciones de vida de los\njóvenes en España.",
+        "officialTitle": "Moción consecuencia de interpelación urgente sobre las medidas que\npiensa adoptar el Gobierno para favorecer las condiciones de vida de los\njóvenes en España.",
+        "type": "regular",
+        "nativeType": "ES-mocion"
+      },
+      "dateStart": "2024-05-28T19:44:00+02:00",
+      "dateEnd": "2024-05-28T19:50:00+02:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_041/cortes/15_000400_041_1_24959_734119.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1534119I",
+        "duration": 360.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_041_1_24959_734119",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Nahuel González López",
+          "lastname": "González López",
+          "firstname": "Nahuel",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Plurinacional SUMAR"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 43
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 43
+      },
+      "agendaItem": {
+        "title": "Moción consecuencia de interpelación urgente sobre las medidas que\npiensa adoptar el Gobierno para favorecer las condiciones de vida de los\njóvenes en España.",
+        "officialTitle": "Moción consecuencia de interpelación urgente sobre las medidas que\npiensa adoptar el Gobierno para favorecer las condiciones de vida de los\njóvenes en España.",
+        "type": "regular",
+        "nativeType": "ES-mocion"
+      },
+      "dateStart": "2024-05-28T19:50:00+02:00",
+      "dateEnd": "2024-05-28T19:57:00+02:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_041/cortes/15_000400_041_1_24959_734120.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1534120I",
+        "duration": 420.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_041_1_24959_734120",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Víctor Camino Miñana",
+          "lastname": "Camino Miñana",
+          "firstname": "Víctor",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Socialista"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 44
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 43
+      },
+      "agendaItem": {
+        "title": "Moción consecuencia de interpelación urgente sobre las medidas que\npiensa adoptar el Gobierno para favorecer las condiciones de vida de los\njóvenes en España.",
+        "officialTitle": "Moción consecuencia de interpelación urgente sobre las medidas que\npiensa adoptar el Gobierno para favorecer las condiciones de vida de los\njóvenes en España.",
+        "type": "regular",
+        "nativeType": "ES-mocion"
+      },
+      "dateStart": "2024-05-28T19:57:00+02:00",
+      "dateEnd": "2024-05-28T19:57:00+02:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_041/cortes/15_000400_041_1_24959_734121.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1534121I",
+        "duration": 0.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_041_1_24959_734121",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Juan Bravo Baena",
+          "lastname": "Bravo Baena",
+          "firstname": "Juan",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Popular en el Congreso"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 45
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 43
+      },
+      "agendaItem": {
+        "title": "Moción consecuencia de interpelación urgente sobre las medidas que va\na impulsar el Gobierno ante las instituciones europeas para garantizar la\nviabilidad del sector primario español.",
+        "officialTitle": "Moción consecuencia de interpelación urgente sobre las medidas que va\na impulsar el Gobierno ante las instituciones europeas para garantizar la\nviabilidad del sector primario español.",
+        "type": "regular",
+        "nativeType": "ES-mocion"
+      },
+      "dateStart": "2024-05-28T19:58:00+02:00",
+      "dateEnd": "2024-05-28T20:06:00+02:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_041/cortes/15_000400_041_1_24959_734123.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1534123I",
+        "duration": 480.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_041_1_24959_734123",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Ignacio Hoces Íñiguez",
+          "lastname": "Hoces Íñiguez",
+          "firstname": "Ignacio",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario VOX"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 46
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 43
+      },
+      "agendaItem": {
+        "title": "Moción consecuencia de interpelación urgente sobre las medidas que va\na impulsar el Gobierno ante las instituciones europeas para garantizar la\nviabilidad del sector primario español.",
+        "officialTitle": "Moción consecuencia de interpelación urgente sobre las medidas que va\na impulsar el Gobierno ante las instituciones europeas para garantizar la\nviabilidad del sector primario español.",
+        "type": "regular",
+        "nativeType": "ES-mocion"
+      },
+      "dateStart": "2024-05-28T20:06:00+02:00",
+      "dateEnd": "2024-05-28T20:14:00+02:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_041/cortes/15_000400_041_1_24959_734124.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1534124I",
+        "duration": 480.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_041_1_24959_734124",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Pedro Ignacio Gallardo Barrena",
+          "lastname": "Gallardo Barrena",
+          "firstname": "Pedro Ignacio",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Popular en el Congreso"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 47
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 43
+      },
+      "agendaItem": {
+        "title": "Moción consecuencia de interpelación urgente sobre las medidas que va\na impulsar el Gobierno ante las instituciones europeas para garantizar la\nviabilidad del sector primario español.",
+        "officialTitle": "Moción consecuencia de interpelación urgente sobre las medidas que va\na impulsar el Gobierno ante las instituciones europeas para garantizar la\nviabilidad del sector primario español.",
+        "type": "regular",
+        "nativeType": "ES-mocion"
+      },
+      "dateStart": "2024-05-28T20:14:00+02:00",
+      "dateEnd": "2024-05-28T20:21:00+02:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_041/cortes/15_000400_041_1_24959_734125.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1534125I",
+        "duration": 420.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_041_1_24959_734125",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Teresa Jordà i Roura",
+          "lastname": "Jordà i Roura",
+          "firstname": "Teresa",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Republicano"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 48
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 43
+      },
+      "agendaItem": {
+        "title": "Moción consecuencia de interpelación urgente sobre las medidas que va\na impulsar el Gobierno ante las instituciones europeas para garantizar la\nviabilidad del sector primario español.",
+        "officialTitle": "Moción consecuencia de interpelación urgente sobre las medidas que va\na impulsar el Gobierno ante las instituciones europeas para garantizar la\nviabilidad del sector primario español.",
+        "type": "regular",
+        "nativeType": "ES-mocion"
+      },
+      "dateStart": "2024-05-28T20:21:00+02:00",
+      "dateEnd": "2024-05-28T20:28:00+02:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_041/cortes/15_000400_041_1_24959_734126.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1534126I",
+        "duration": 420.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_041_1_24959_734126",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Juan Antonio Valero Morales",
+          "lastname": "Valero Morales",
+          "firstname": "Juan Antonio",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Plurinacional SUMAR"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 49
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 43
+      },
+      "agendaItem": {
+        "title": "Moción consecuencia de interpelación urgente sobre las medidas que va\na impulsar el Gobierno ante las instituciones europeas para garantizar la\nviabilidad del sector primario español.",
+        "officialTitle": "Moción consecuencia de interpelación urgente sobre las medidas que va\na impulsar el Gobierno ante las instituciones europeas para garantizar la\nviabilidad del sector primario español.",
+        "type": "regular",
+        "nativeType": "ES-mocion"
+      },
+      "dateStart": "2024-05-28T20:28:00+02:00",
+      "dateEnd": "2024-05-28T20:34:00+02:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_041/cortes/15_000400_041_1_24959_734127.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1534127I",
+        "duration": 360.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_041_1_24959_734127",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Patricia Otero Rodríguez",
+          "lastname": "Otero Rodríguez",
+          "firstname": "Patricia",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Socialista"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 50
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 43
+      },
+      "agendaItem": {
+        "title": "Moción consecuencia de interpelación urgente sobre las medidas que va\na impulsar el Gobierno ante las instituciones europeas para garantizar la\nviabilidad del sector primario español.",
+        "officialTitle": "Moción consecuencia de interpelación urgente sobre las medidas que va\na impulsar el Gobierno ante las instituciones europeas para garantizar la\nviabilidad del sector primario español.",
+        "type": "regular",
+        "nativeType": "ES-mocion"
+      },
+      "dateStart": "2024-05-28T20:34:00+02:00",
+      "dateEnd": "2024-05-28T20:34:00+02:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_041/cortes/15_000400_041_1_24959_734128.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1534128I",
+        "duration": 0.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_041_1_24959_734128",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Ignacio Hoces Íñiguez",
+          "lastname": "Hoces Íñiguez",
+          "firstname": "Ignacio",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario VOX"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 51
+    }
+  ]
+}

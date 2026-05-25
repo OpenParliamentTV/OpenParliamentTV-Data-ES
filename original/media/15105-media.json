@@ -1,0 +1,1118 @@
+{
+  "meta": {
+    "session": "15105",
+    "processing": {
+      "parse_media": "2026-05-23T07:17:41"
+    },
+    "dateStart": "2025-03-20T09:02:00+01:00",
+    "dateEnd": "2025-03-20T12:03:00+01:00"
+  },
+  "data": [
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 105
+      },
+      "agendaItem": {
+        "title": "Proyecto de Ley por la que se crea la Agencia Estatal de Salud\nPública y se modifica la Ley 33/2011, de 4 de octubre, General de Salud\nPública.",
+        "officialTitle": "Proyecto de Ley por la que se crea la Agencia Estatal de Salud\nPública y se modifica la Ley 33/2011, de 4 de octubre, General de Salud\nPública.",
+        "type": "regular",
+        "nativeType": "ES-ley"
+      },
+      "dateStart": "2025-03-20T09:02:00+01:00",
+      "dateEnd": "2025-03-20T09:06:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_101/cortes/15_000400_101_0_25918_750059.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1550059I",
+        "duration": 240.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_101_0_25918_750059",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Miguel Tellado Filgueira",
+          "lastname": "Tellado Filgueira",
+          "firstname": "Miguel",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Popular en el Congreso"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 1
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 105
+      },
+      "agendaItem": {
+        "title": "Proyecto de Ley por la que se crea la Agencia Estatal de Salud\nPública y se modifica la Ley 33/2011, de 4 de octubre, General de Salud\nPública.",
+        "officialTitle": "Proyecto de Ley por la que se crea la Agencia Estatal de Salud\nPública y se modifica la Ley 33/2011, de 4 de octubre, General de Salud\nPública.",
+        "type": "regular",
+        "nativeType": "ES-ley"
+      },
+      "dateStart": "2025-03-20T09:06:00+01:00",
+      "dateEnd": "2025-03-20T09:11:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_101/cortes/15_000400_101_0_25918_750062.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1550062I",
+        "duration": 300.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_101_0_25918_750062",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Néstor Rego Candamil",
+          "lastname": "Rego Candamil",
+          "firstname": "Néstor",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Mixto"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 2
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 105
+      },
+      "agendaItem": {
+        "title": "Proyecto de Ley por la que se crea la Agencia Estatal de Salud\nPública y se modifica la Ley 33/2011, de 4 de octubre, General de Salud\nPública.",
+        "officialTitle": "Proyecto de Ley por la que se crea la Agencia Estatal de Salud\nPública y se modifica la Ley 33/2011, de 4 de octubre, General de Salud\nPública.",
+        "type": "regular",
+        "nativeType": "ES-ley"
+      },
+      "dateStart": "2025-03-20T09:11:00+01:00",
+      "dateEnd": "2025-03-20T09:14:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_101/cortes/15_000400_101_0_25918_750063.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1550063I",
+        "duration": 180.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_101_0_25918_750063",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Cristina Valido García",
+          "lastname": "Valido García",
+          "firstname": "Cristina",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Mixto"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 3
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 105
+      },
+      "agendaItem": {
+        "title": "Proyecto de Ley por la que se crea la Agencia Estatal de Salud\nPública y se modifica la Ley 33/2011, de 4 de octubre, General de Salud\nPública.",
+        "officialTitle": "Proyecto de Ley por la que se crea la Agencia Estatal de Salud\nPública y se modifica la Ley 33/2011, de 4 de octubre, General de Salud\nPública.",
+        "type": "regular",
+        "nativeType": "ES-ley"
+      },
+      "dateStart": "2025-03-20T09:14:00+01:00",
+      "dateEnd": "2025-03-20T09:22:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_101/cortes/15_000400_101_0_25918_750064.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1550064I",
+        "duration": 480.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_101_0_25918_750064",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "David García Gomis",
+          "lastname": "García Gomis",
+          "firstname": "David",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario VOX"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 4
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 105
+      },
+      "agendaItem": {
+        "title": "Proyecto de Ley por la que se crea la Agencia Estatal de Salud\nPública y se modifica la Ley 33/2011, de 4 de octubre, General de Salud\nPública.",
+        "officialTitle": "Proyecto de Ley por la que se crea la Agencia Estatal de Salud\nPública y se modifica la Ley 33/2011, de 4 de octubre, General de Salud\nPública.",
+        "type": "regular",
+        "nativeType": "ES-ley"
+      },
+      "dateStart": "2025-03-20T09:22:00+01:00",
+      "dateEnd": "2025-03-20T09:31:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_101/cortes/15_000400_101_0_25918_750065.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1550065I",
+        "duration": 540.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_101_0_25918_750065",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "María del Mar Vázquez Jiménez",
+          "lastname": "Vázquez Jiménez",
+          "firstname": "María del Mar",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Popular en el Congreso"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 5
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 105
+      },
+      "agendaItem": {
+        "title": "Proyecto de Ley por la que se crea la Agencia Estatal de Salud\nPública y se modifica la Ley 33/2011, de 4 de octubre, General de Salud\nPública.",
+        "officialTitle": "Proyecto de Ley por la que se crea la Agencia Estatal de Salud\nPública y se modifica la Ley 33/2011, de 4 de octubre, General de Salud\nPública.",
+        "type": "regular",
+        "nativeType": "ES-ley"
+      },
+      "dateStart": "2025-03-20T09:31:00+01:00",
+      "dateEnd": "2025-03-20T09:35:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_101/cortes/15_000400_101_0_25918_750066.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1550066I",
+        "duration": 240.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_101_0_25918_750066",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Maribel Vaquero Montero",
+          "lastname": "Vaquero Montero",
+          "firstname": "Maribel",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Vasco (EAJ-PNV)"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 6
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 105
+      },
+      "agendaItem": {
+        "title": "Proyecto de Ley por la que se crea la Agencia Estatal de Salud\nPública y se modifica la Ley 33/2011, de 4 de octubre, General de Salud\nPública.",
+        "officialTitle": "Proyecto de Ley por la que se crea la Agencia Estatal de Salud\nPública y se modifica la Ley 33/2011, de 4 de octubre, General de Salud\nPública.",
+        "type": "regular",
+        "nativeType": "ES-ley"
+      },
+      "dateStart": "2025-03-20T09:35:00+01:00",
+      "dateEnd": "2025-03-20T09:41:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_101/cortes/15_000400_101_0_25918_750067.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1550067I",
+        "duration": 360.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_101_0_25918_750067",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Marije Fullaondo la Cruz",
+          "lastname": "Fullaondo la Cruz",
+          "firstname": "Marije",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Euskal Herria Bildu"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 7
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 105
+      },
+      "agendaItem": {
+        "title": "Proyecto de Ley por la que se crea la Agencia Estatal de Salud\nPública y se modifica la Ley 33/2011, de 4 de octubre, General de Salud\nPública.",
+        "officialTitle": "Proyecto de Ley por la que se crea la Agencia Estatal de Salud\nPública y se modifica la Ley 33/2011, de 4 de octubre, General de Salud\nPública.",
+        "type": "regular",
+        "nativeType": "ES-ley"
+      },
+      "dateStart": "2025-03-20T09:41:00+01:00",
+      "dateEnd": "2025-03-20T09:47:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_101/cortes/15_000400_101_0_25918_750068.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1550068I",
+        "duration": 360.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_101_0_25918_750068",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Etna Estrems Fayos",
+          "lastname": "Estrems Fayos",
+          "firstname": "Etna",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Republicano"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 8
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 105
+      },
+      "agendaItem": {
+        "title": "Proyecto de Ley por la que se crea la Agencia Estatal de Salud\nPública y se modifica la Ley 33/2011, de 4 de octubre, General de Salud\nPública.",
+        "officialTitle": "Proyecto de Ley por la que se crea la Agencia Estatal de Salud\nPública y se modifica la Ley 33/2011, de 4 de octubre, General de Salud\nPública.",
+        "type": "regular",
+        "nativeType": "ES-ley"
+      },
+      "dateStart": "2025-03-20T09:47:00+01:00",
+      "dateEnd": "2025-03-20T09:55:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_101/cortes/15_000400_101_0_25918_750069.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1550069I",
+        "duration": 480.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_101_0_25918_750069",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Rafael Cofiño Fernández",
+          "lastname": "Cofiño Fernández",
+          "firstname": "Rafael",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Plurinacional SUMAR"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 9
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 105
+      },
+      "agendaItem": {
+        "title": "Proyecto de Ley por la que se crea la Agencia Estatal de Salud\nPública y se modifica la Ley 33/2011, de 4 de octubre, General de Salud\nPública.",
+        "officialTitle": "Proyecto de Ley por la que se crea la Agencia Estatal de Salud\nPública y se modifica la Ley 33/2011, de 4 de octubre, General de Salud\nPública.",
+        "type": "regular",
+        "nativeType": "ES-ley"
+      },
+      "dateStart": "2025-03-20T09:55:00+01:00",
+      "dateEnd": "2025-03-20T10:03:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_101/cortes/15_000400_101_0_25918_750070.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1550070I",
+        "duration": 480.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_101_0_25918_750070",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Carmen Martínez Ramírez",
+          "lastname": "Martínez Ramírez",
+          "firstname": "Carmen",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Socialista"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 10
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 105
+      },
+      "agendaItem": {
+        "title": "Proyecto de Ley por la que se crea la Agencia Estatal de Salud\nPública y se modifica la Ley 33/2011, de 4 de octubre, General de Salud\nPública.",
+        "officialTitle": "Proyecto de Ley por la que se crea la Agencia Estatal de Salud\nPública y se modifica la Ley 33/2011, de 4 de octubre, General de Salud\nPública.",
+        "type": "regular",
+        "nativeType": "ES-ley"
+      },
+      "dateStart": "2025-03-20T10:03:00+01:00",
+      "dateEnd": "2025-03-20T10:08:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_101/cortes/15_000400_101_0_25918_750071.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1550071I",
+        "duration": 300.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_101_0_25918_750071",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Miguel Tellado Filgueira",
+          "lastname": "Tellado Filgueira",
+          "firstname": "Miguel",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Popular en el Congreso"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 11
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 105
+      },
+      "agendaItem": {
+        "title": "Proyecto de Ley por la que se crea la Agencia Estatal de Salud\nPública y se modifica la Ley 33/2011, de 4 de octubre, General de Salud\nPública.",
+        "officialTitle": "Proyecto de Ley por la que se crea la Agencia Estatal de Salud\nPública y se modifica la Ley 33/2011, de 4 de octubre, General de Salud\nPública.",
+        "type": "regular",
+        "nativeType": "ES-ley"
+      },
+      "dateStart": "2025-03-20T10:08:00+01:00",
+      "dateEnd": "2025-03-20T10:11:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_101/cortes/15_000400_101_0_25918_750073.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1550073I",
+        "duration": 180.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_101_0_25918_750073",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Josep Maria Cruset Domènech",
+          "lastname": "Cruset Domènech",
+          "firstname": "Josep Maria",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Junts per Catalunya"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 12
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 105
+      },
+      "agendaItem": {
+        "title": "Proyecto de Ley por la que se crea la Agencia Estatal de Salud\nPública y se modifica la Ley 33/2011, de 4 de octubre, General de Salud\nPública.",
+        "officialTitle": "Proyecto de Ley por la que se crea la Agencia Estatal de Salud\nPública y se modifica la Ley 33/2011, de 4 de octubre, General de Salud\nPública.",
+        "type": "regular",
+        "nativeType": "ES-ley"
+      },
+      "dateStart": "2025-03-20T10:11:00+01:00",
+      "dateEnd": "2025-03-20T10:13:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_101/cortes/15_000400_101_0_25918_750074.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1550074I",
+        "duration": 120.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_101_0_25918_750074",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Teresa Jordà i Roura",
+          "lastname": "Jordà i Roura",
+          "firstname": "Teresa",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Republicano"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 13
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 105
+      },
+      "agendaItem": {
+        "title": "Proyecto de Ley por la que se crea la Agencia Estatal de Salud\nPública y se modifica la Ley 33/2011, de 4 de octubre, General de Salud\nPública.",
+        "officialTitle": "Proyecto de Ley por la que se crea la Agencia Estatal de Salud\nPública y se modifica la Ley 33/2011, de 4 de octubre, General de Salud\nPública.",
+        "type": "regular",
+        "nativeType": "ES-ley"
+      },
+      "dateStart": "2025-03-20T10:13:00+01:00",
+      "dateEnd": "2025-03-20T10:17:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_101/cortes/15_000400_101_0_25918_750075.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1550075I",
+        "duration": 240.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_101_0_25918_750075",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Patxi López Álvarez",
+          "lastname": "López Álvarez",
+          "firstname": "Patxi",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Socialista"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 14
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 105
+      },
+      "agendaItem": {
+        "title": "Proyecto de Ley por la que se crea la Agencia Estatal de Salud\nPública y se modifica la Ley 33/2011, de 4 de octubre, General de Salud\nPública.",
+        "officialTitle": "Proyecto de Ley por la que se crea la Agencia Estatal de Salud\nPública y se modifica la Ley 33/2011, de 4 de octubre, General de Salud\nPública.",
+        "type": "regular",
+        "nativeType": "ES-ley"
+      },
+      "dateStart": "2025-03-20T10:18:00+01:00",
+      "dateEnd": "2025-03-20T10:19:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_101/cortes/15_000400_101_0_25918_750076.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1550076I",
+        "duration": 60.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_101_0_25918_750076",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Alfonso Rodríguez Gómez de Celis",
+          "lastname": "Rodríguez Gómez de Celis",
+          "firstname": "Alfonso",
+          "type": "person",
+          "role": "Vicepresidente primero de la Mesa del Congreso de los Diputados",
+          "faction": {
+            "label": "Grupo Parlamentario Socialista"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 15
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 105
+      },
+      "agendaItem": {
+        "title": "Proyecto de Ley por la que se crea la Agencia Estatal de Salud\nPública y se modifica la Ley 33/2011, de 4 de octubre, General de Salud\nPública.",
+        "officialTitle": "Proyecto de Ley por la que se crea la Agencia Estatal de Salud\nPública y se modifica la Ley 33/2011, de 4 de octubre, General de Salud\nPública.",
+        "type": "regular",
+        "nativeType": "ES-ley"
+      },
+      "dateStart": "2025-03-20T10:19:00+01:00",
+      "dateEnd": "2025-03-20T10:39:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_101/cortes/15_000400_101_0_25918_750079.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1550079I",
+        "duration": 1200.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_101_0_25918_750079",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Mónica García Gómez",
+          "lastname": "García Gómez",
+          "firstname": "Mónica",
+          "type": "member of government",
+          "role": "Ministra de Sanidad"
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 16
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 105
+      },
+      "agendaItem": {
+        "title": "Proyecto de Ley por la que se crea la Agencia Estatal de Salud\nPública y se modifica la Ley 33/2011, de 4 de octubre, General de Salud\nPública.",
+        "officialTitle": "Proyecto de Ley por la que se crea la Agencia Estatal de Salud\nPública y se modifica la Ley 33/2011, de 4 de octubre, General de Salud\nPública.",
+        "type": "regular",
+        "nativeType": "ES-ley"
+      },
+      "dateStart": "2025-03-20T10:40:00+01:00",
+      "dateEnd": "2025-03-20T10:42:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_101/cortes/15_000400_101_0_25918_750080.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1550080I",
+        "duration": 120.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_101_0_25918_750080",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "María del Mar Vázquez Jiménez",
+          "lastname": "Vázquez Jiménez",
+          "firstname": "María del Mar",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Popular en el Congreso"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 17
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 105
+      },
+      "agendaItem": {
+        "title": "Proyecto de Ley por la que se crea la Agencia Estatal de Salud\nPública y se modifica la Ley 33/2011, de 4 de octubre, General de Salud\nPública.",
+        "officialTitle": "Proyecto de Ley por la que se crea la Agencia Estatal de Salud\nPública y se modifica la Ley 33/2011, de 4 de octubre, General de Salud\nPública.",
+        "type": "regular",
+        "nativeType": "ES-ley"
+      },
+      "dateStart": "2025-03-20T10:42:00+01:00",
+      "dateEnd": "2025-03-20T10:43:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_101/cortes/15_000400_101_0_25918_750081.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1550081I",
+        "duration": 60.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_101_0_25918_750081",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Rafael Cofiño Fernández",
+          "lastname": "Cofiño Fernández",
+          "firstname": "Rafael",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Plurinacional SUMAR"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 18
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 105
+      },
+      "agendaItem": {
+        "title": "Proyecto de Ley de prevención de las pérdidas y el desperdicio\nalimentario.",
+        "officialTitle": "Proyecto de Ley de prevención de las pérdidas y el desperdicio\nalimentario.",
+        "type": "regular",
+        "nativeType": "ES-ley"
+      },
+      "dateStart": "2025-03-20T10:50:00+01:00",
+      "dateEnd": "2025-03-20T10:59:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_101/cortes/15_000400_101_0_25918_750085.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1550085I",
+        "duration": 540.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_101_0_25918_750085",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Martina Velarde Gómez",
+          "lastname": "Velarde Gómez",
+          "firstname": "Martina",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Mixto"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 19
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 105
+      },
+      "agendaItem": {
+        "title": "Proyecto de Ley de prevención de las pérdidas y el desperdicio\nalimentario.",
+        "officialTitle": "Proyecto de Ley de prevención de las pérdidas y el desperdicio\nalimentario.",
+        "type": "regular",
+        "nativeType": "ES-ley"
+      },
+      "dateStart": "2025-03-20T10:59:00+01:00",
+      "dateEnd": "2025-03-20T11:07:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_101/cortes/15_000400_101_0_25918_750092.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1550092I",
+        "duration": 480.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_101_0_25918_750092",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Joseba Andoni Agirretxea Urresti",
+          "lastname": "Agirretxea Urresti",
+          "firstname": "Joseba Andoni",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Vasco (EAJ-PNV)"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 20
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 105
+      },
+      "agendaItem": {
+        "title": "Proyecto de Ley de prevención de las pérdidas y el desperdicio\nalimentario.",
+        "officialTitle": "Proyecto de Ley de prevención de las pérdidas y el desperdicio\nalimentario.",
+        "type": "regular",
+        "nativeType": "ES-ley"
+      },
+      "dateStart": "2025-03-20T11:07:00+01:00",
+      "dateEnd": "2025-03-20T11:14:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_101/cortes/15_000400_101_0_25918_750096.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1550096I",
+        "duration": 420.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_101_0_25918_750096",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Mikel Otero Gabirondo",
+          "lastname": "Otero Gabirondo",
+          "firstname": "Mikel",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Euskal Herria Bildu"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 21
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 105
+      },
+      "agendaItem": {
+        "title": "Proyecto de Ley de prevención de las pérdidas y el desperdicio\nalimentario.",
+        "officialTitle": "Proyecto de Ley de prevención de las pérdidas y el desperdicio\nalimentario.",
+        "type": "regular",
+        "nativeType": "ES-ley"
+      },
+      "dateStart": "2025-03-20T11:14:00+01:00",
+      "dateEnd": "2025-03-20T11:23:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_101/cortes/15_000400_101_0_25918_750100.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1550100I",
+        "duration": 540.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_101_0_25918_750100",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Isidre Gavin i Valls",
+          "lastname": "Gavin i Valls",
+          "firstname": "Isidre",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Junts per Catalunya"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 22
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 105
+      },
+      "agendaItem": {
+        "title": "Proyecto de Ley de prevención de las pérdidas y el desperdicio\nalimentario.",
+        "officialTitle": "Proyecto de Ley de prevención de las pérdidas y el desperdicio\nalimentario.",
+        "type": "regular",
+        "nativeType": "ES-ley"
+      },
+      "dateStart": "2025-03-20T11:23:00+01:00",
+      "dateEnd": "2025-03-20T11:31:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_101/cortes/15_000400_101_0_25918_750106.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1550106I",
+        "duration": 480.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_101_0_25918_750106",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Teresa Jordà i Roura",
+          "lastname": "Jordà i Roura",
+          "firstname": "Teresa",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Republicano"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 23
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 105
+      },
+      "agendaItem": {
+        "title": "Proyecto de Ley de prevención de las pérdidas y el desperdicio\nalimentario.",
+        "officialTitle": "Proyecto de Ley de prevención de las pérdidas y el desperdicio\nalimentario.",
+        "type": "regular",
+        "nativeType": "ES-ley"
+      },
+      "dateStart": "2025-03-20T11:31:00+01:00",
+      "dateEnd": "2025-03-20T11:38:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_101/cortes/15_000400_101_0_25918_750113.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1550113I",
+        "duration": 420.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_101_0_25918_750113",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Àgueda Micó Micó",
+          "lastname": "Micó Micó",
+          "firstname": "Àgueda",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Plurinacional SUMAR"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 24
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 105
+      },
+      "agendaItem": {
+        "title": "Proyecto de Ley de prevención de las pérdidas y el desperdicio\nalimentario.",
+        "officialTitle": "Proyecto de Ley de prevención de las pérdidas y el desperdicio\nalimentario.",
+        "type": "regular",
+        "nativeType": "ES-ley"
+      },
+      "dateStart": "2025-03-20T11:38:00+01:00",
+      "dateEnd": "2025-03-20T11:47:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_101/cortes/15_000400_101_0_25918_750117.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1550117I",
+        "duration": 540.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_101_0_25918_750117",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Tomás Fernández Ríos",
+          "lastname": "Fernández Ríos",
+          "firstname": "Tomás",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario VOX"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 25
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 105
+      },
+      "agendaItem": {
+        "title": "Proyecto de Ley de prevención de las pérdidas y el desperdicio\nalimentario.",
+        "officialTitle": "Proyecto de Ley de prevención de las pérdidas y el desperdicio\nalimentario.",
+        "type": "regular",
+        "nativeType": "ES-ley"
+      },
+      "dateStart": "2025-03-20T11:47:00+01:00",
+      "dateEnd": "2025-03-20T11:55:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_101/cortes/15_000400_101_0_25918_750123.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1550123I",
+        "duration": 480.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_101_0_25918_750123",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Patricia Otero Rodríguez",
+          "lastname": "Otero Rodríguez",
+          "firstname": "Patricia",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Socialista"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 26
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 105
+      },
+      "agendaItem": {
+        "title": "Proyecto de Ley de prevención de las pérdidas y el desperdicio\nalimentario.",
+        "officialTitle": "Proyecto de Ley de prevención de las pérdidas y el desperdicio\nalimentario.",
+        "type": "regular",
+        "nativeType": "ES-ley"
+      },
+      "dateStart": "2025-03-20T11:55:00+01:00",
+      "dateEnd": "2025-03-20T12:03:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_101/cortes/15_000400_101_0_25918_750131.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1550131I",
+        "duration": 480.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_101_0_25918_750131",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Milagros Marcos Ortega",
+          "lastname": "Marcos Ortega",
+          "firstname": "Milagros",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Popular en el Congreso"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 27
+    }
+  ]
+}

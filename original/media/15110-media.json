@@ -1,0 +1,1813 @@
+{
+  "meta": {
+    "session": "15110",
+    "processing": {
+      "parse_media": "2026-05-23T07:17:41"
+    },
+    "dateStart": "2025-04-10T09:04:00+02:00",
+    "dateEnd": "2025-04-10T15:23:00+02:00"
+  },
+  "data": [
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 110
+      },
+      "agendaItem": {
+        "title": "Real Decreto-ley 3/2025, de 1 de abril, por el que se establece el\nprograma de incentivos ligados a la movilidad eléctrica (MOVES III) para\nel año 2025.",
+        "officialTitle": "Real Decreto-ley 3/2025, de 1 de abril, por el que se establece el\nprograma de incentivos ligados a la movilidad eléctrica (MOVES III) para\nel año 2025.",
+        "type": "regular",
+        "nativeType": "ES-ley"
+      },
+      "dateStart": "2025-04-10T09:04:00+02:00",
+      "dateEnd": "2025-04-10T09:20:00+02:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_106/cortes/15_000400_106_0_26001_751347.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1551347I",
+        "duration": 960.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_106_0_26001_751347",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Sara Aagesen Muñoz",
+          "lastname": "Aagesen Muñoz",
+          "firstname": "Sara",
+          "type": "member of government",
+          "role": "Vicepresidenta Tercera y Ministra para la Transición Ecológica y el\nReto Demográfico"
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 1
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 110
+      },
+      "agendaItem": {
+        "title": "Real Decreto-ley 3/2025, de 1 de abril, por el que se establece el\nprograma de incentivos ligados a la movilidad eléctrica (MOVES III) para\nel año 2025.",
+        "officialTitle": "Real Decreto-ley 3/2025, de 1 de abril, por el que se establece el\nprograma de incentivos ligados a la movilidad eléctrica (MOVES III) para\nel año 2025.",
+        "type": "regular",
+        "nativeType": "ES-ley"
+      },
+      "dateStart": "2025-04-10T09:20:00+02:00",
+      "dateEnd": "2025-04-10T09:26:00+02:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_106/cortes/15_000400_106_0_26001_751348.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1551348I",
+        "duration": 360.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_106_0_26001_751348",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Javier Sánchez Serna",
+          "lastname": "Sánchez Serna",
+          "firstname": "Javier",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Mixto"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 2
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 110
+      },
+      "agendaItem": {
+        "title": "Real Decreto-ley 3/2025, de 1 de abril, por el que se establece el\nprograma de incentivos ligados a la movilidad eléctrica (MOVES III) para\nel año 2025.",
+        "officialTitle": "Real Decreto-ley 3/2025, de 1 de abril, por el que se establece el\nprograma de incentivos ligados a la movilidad eléctrica (MOVES III) para\nel año 2025.",
+        "type": "regular",
+        "nativeType": "ES-ley"
+      },
+      "dateStart": "2025-04-10T09:26:00+02:00",
+      "dateEnd": "2025-04-10T09:30:00+02:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_106/cortes/15_000400_106_0_26001_751349.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1551349I",
+        "duration": 240.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_106_0_26001_751349",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Idoia Sagastizabal Unzetabarrenetxea",
+          "lastname": "Sagastizabal Unzetabarrenetxea",
+          "firstname": "Idoia",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Vasco (EAJ-PNV)"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 3
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 110
+      },
+      "agendaItem": {
+        "title": "Real Decreto-ley 3/2025, de 1 de abril, por el que se establece el\nprograma de incentivos ligados a la movilidad eléctrica (MOVES III) para\nel año 2025.",
+        "officialTitle": "Real Decreto-ley 3/2025, de 1 de abril, por el que se establece el\nprograma de incentivos ligados a la movilidad eléctrica (MOVES III) para\nel año 2025.",
+        "type": "regular",
+        "nativeType": "ES-ley"
+      },
+      "dateStart": "2025-04-10T09:30:00+02:00",
+      "dateEnd": "2025-04-10T09:37:00+02:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_106/cortes/15_000400_106_0_26001_751350.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1551350I",
+        "duration": 420.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_106_0_26001_751350",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Mikel Otero Gabirondo",
+          "lastname": "Otero Gabirondo",
+          "firstname": "Mikel",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Euskal Herria Bildu"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 4
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 110
+      },
+      "agendaItem": {
+        "title": "Real Decreto-ley 3/2025, de 1 de abril, por el que se establece el\nprograma de incentivos ligados a la movilidad eléctrica (MOVES III) para\nel año 2025.",
+        "officialTitle": "Real Decreto-ley 3/2025, de 1 de abril, por el que se establece el\nprograma de incentivos ligados a la movilidad eléctrica (MOVES III) para\nel año 2025.",
+        "type": "regular",
+        "nativeType": "ES-ley"
+      },
+      "dateStart": "2025-04-10T09:37:00+02:00",
+      "dateEnd": "2025-04-10T09:45:00+02:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_106/cortes/15_000400_106_0_26001_751351.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1551351I",
+        "duration": 480.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_106_0_26001_751351",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Josep Maria Cruset Domènech",
+          "lastname": "Cruset Domènech",
+          "firstname": "Josep Maria",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Junts per Catalunya"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 5
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 110
+      },
+      "agendaItem": {
+        "title": "Real Decreto-ley 3/2025, de 1 de abril, por el que se establece el\nprograma de incentivos ligados a la movilidad eléctrica (MOVES III) para\nel año 2025.",
+        "officialTitle": "Real Decreto-ley 3/2025, de 1 de abril, por el que se establece el\nprograma de incentivos ligados a la movilidad eléctrica (MOVES III) para\nel año 2025.",
+        "type": "regular",
+        "nativeType": "ES-ley"
+      },
+      "dateStart": "2025-04-10T09:45:00+02:00",
+      "dateEnd": "2025-04-10T09:52:00+02:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_106/cortes/15_000400_106_0_26001_751352.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1551352I",
+        "duration": 420.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_106_0_26001_751352",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Inés Granollers Cunillera",
+          "lastname": "Granollers Cunillera",
+          "firstname": "Inés",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Republicano"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 6
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 110
+      },
+      "agendaItem": {
+        "title": "Real Decreto-ley 3/2025, de 1 de abril, por el que se establece el\nprograma de incentivos ligados a la movilidad eléctrica (MOVES III) para\nel año 2025.",
+        "officialTitle": "Real Decreto-ley 3/2025, de 1 de abril, por el que se establece el\nprograma de incentivos ligados a la movilidad eléctrica (MOVES III) para\nel año 2025.",
+        "type": "regular",
+        "nativeType": "ES-ley"
+      },
+      "dateStart": "2025-04-10T09:52:00+02:00",
+      "dateEnd": "2025-04-10T10:00:00+02:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_106/cortes/15_000400_106_0_26001_751353.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1551353I",
+        "duration": 480.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_106_0_26001_751353",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Júlia Boada Danés",
+          "lastname": "Boada Danés",
+          "firstname": "Júlia",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Plurinacional SUMAR"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 7
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 110
+      },
+      "agendaItem": {
+        "title": "Real Decreto-ley 3/2025, de 1 de abril, por el que se establece el\nprograma de incentivos ligados a la movilidad eléctrica (MOVES III) para\nel año 2025.",
+        "officialTitle": "Real Decreto-ley 3/2025, de 1 de abril, por el que se establece el\nprograma de incentivos ligados a la movilidad eléctrica (MOVES III) para\nel año 2025.",
+        "type": "regular",
+        "nativeType": "ES-ley"
+      },
+      "dateStart": "2025-04-10T10:00:00+02:00",
+      "dateEnd": "2025-04-10T10:09:00+02:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_106/cortes/15_000400_106_0_26001_751354.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1551354I",
+        "duration": 540.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_106_0_26001_751354",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Andrés Alberto Rodríguez Almeida",
+          "lastname": "Rodríguez Almeida",
+          "firstname": "Andrés Alberto",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario VOX"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 8
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 110
+      },
+      "agendaItem": {
+        "title": "Real Decreto-ley 3/2025, de 1 de abril, por el que se establece el\nprograma de incentivos ligados a la movilidad eléctrica (MOVES III) para\nel año 2025.",
+        "officialTitle": "Real Decreto-ley 3/2025, de 1 de abril, por el que se establece el\nprograma de incentivos ligados a la movilidad eléctrica (MOVES III) para\nel año 2025.",
+        "type": "regular",
+        "nativeType": "ES-ley"
+      },
+      "dateStart": "2025-04-10T10:09:00+02:00",
+      "dateEnd": "2025-04-10T10:17:00+02:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_106/cortes/15_000400_106_0_26001_751355.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1551355I",
+        "duration": 480.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_106_0_26001_751355",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "María Montserrat García Chavarría",
+          "lastname": "García Chavarría",
+          "firstname": "María Montserrat",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Socialista"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 9
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 110
+      },
+      "agendaItem": {
+        "title": "Real Decreto-ley 3/2025, de 1 de abril, por el que se establece el\nprograma de incentivos ligados a la movilidad eléctrica (MOVES III) para\nel año 2025.",
+        "officialTitle": "Real Decreto-ley 3/2025, de 1 de abril, por el que se establece el\nprograma de incentivos ligados a la movilidad eléctrica (MOVES III) para\nel año 2025.",
+        "type": "regular",
+        "nativeType": "ES-ley"
+      },
+      "dateStart": "2025-04-10T10:17:00+02:00",
+      "dateEnd": "2025-04-10T10:27:00+02:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_106/cortes/15_000400_106_0_26001_751356.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1551356I",
+        "duration": 600.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_106_0_26001_751356",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Francisco José Conde López",
+          "lastname": "Conde López",
+          "firstname": "Francisco José",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Popular en el Congreso"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 10
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 110
+      },
+      "agendaItem": {
+        "title": "Real Decreto-ley 2/2025, de 18 de marzo, por el que se aprueban\nmedidas urgentes para la garantía del interés superior de la infancia y\nadolescencia ante situaciones de contingencias migratorias\nextraordinarias.",
+        "officialTitle": "Real Decreto-ley 2/2025, de 18 de marzo, por el que se aprueban\nmedidas urgentes para la garantía del interés superior de la infancia y\nadolescencia ante situaciones de contingencias migratorias\nextraordinarias.",
+        "type": "regular",
+        "nativeType": "ES-ley"
+      },
+      "dateStart": "2025-04-10T10:27:00+02:00",
+      "dateEnd": "2025-04-10T10:59:00+02:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_106/cortes/15_000400_106_0_26001_751358.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1551358I",
+        "duration": 1920.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_106_0_26001_751358",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Ángel Víctor Torres Pérez",
+          "lastname": "Torres Pérez",
+          "firstname": "Ángel Víctor",
+          "type": "member of government",
+          "role": "Ministro de Política Territorial y Memoria Democrática"
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 11
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 110
+      },
+      "agendaItem": {
+        "title": "Real Decreto-ley 2/2025, de 18 de marzo, por el que se aprueban\nmedidas urgentes para la garantía del interés superior de la infancia y\nadolescencia ante situaciones de contingencias migratorias\nextraordinarias.",
+        "officialTitle": "Real Decreto-ley 2/2025, de 18 de marzo, por el que se aprueban\nmedidas urgentes para la garantía del interés superior de la infancia y\nadolescencia ante situaciones de contingencias migratorias\nextraordinarias.",
+        "type": "regular",
+        "nativeType": "ES-ley"
+      },
+      "dateStart": "2025-04-10T10:59:00+02:00",
+      "dateEnd": "2025-04-10T11:13:00+02:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_106/cortes/15_000400_106_0_26001_751359.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1551359I",
+        "duration": 840.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_106_0_26001_751359",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "María José Rodríguez de Millán Parro",
+          "lastname": "Rodríguez de Millán Parro",
+          "firstname": "María José",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario VOX"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 12
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 110
+      },
+      "agendaItem": {
+        "title": "Real Decreto-ley 2/2025, de 18 de marzo, por el que se aprueban\nmedidas urgentes para la garantía del interés superior de la infancia y\nadolescencia ante situaciones de contingencias migratorias\nextraordinarias.",
+        "officialTitle": "Real Decreto-ley 2/2025, de 18 de marzo, por el que se aprueban\nmedidas urgentes para la garantía del interés superior de la infancia y\nadolescencia ante situaciones de contingencias migratorias\nextraordinarias.",
+        "type": "regular",
+        "nativeType": "ES-ley"
+      },
+      "dateStart": "2025-04-10T11:13:00+02:00",
+      "dateEnd": "2025-04-10T11:26:00+02:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_106/cortes/15_000400_106_0_26001_751360.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1551360I",
+        "duration": 780.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_106_0_26001_751360",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Vicenç Vidal Matas",
+          "lastname": "Vidal Matas",
+          "firstname": "Vicenç",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Plurinacional SUMAR"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 13
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 110
+      },
+      "agendaItem": {
+        "title": "Real Decreto-ley 2/2025, de 18 de marzo, por el que se aprueban\nmedidas urgentes para la garantía del interés superior de la infancia y\nadolescencia ante situaciones de contingencias migratorias\nextraordinarias.",
+        "officialTitle": "Real Decreto-ley 2/2025, de 18 de marzo, por el que se aprueban\nmedidas urgentes para la garantía del interés superior de la infancia y\nadolescencia ante situaciones de contingencias migratorias\nextraordinarias.",
+        "type": "regular",
+        "nativeType": "ES-ley"
+      },
+      "dateStart": "2025-04-10T11:26:00+02:00",
+      "dateEnd": "2025-04-10T11:29:00+02:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_106/cortes/15_000400_106_0_26001_751361.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1551361I",
+        "duration": 180.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_106_0_26001_751361",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Alberto Catalán Higueras",
+          "lastname": "Catalán Higueras",
+          "firstname": "Alberto",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Mixto"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 14
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 110
+      },
+      "agendaItem": {
+        "title": "Real Decreto-ley 2/2025, de 18 de marzo, por el que se aprueban\nmedidas urgentes para la garantía del interés superior de la infancia y\nadolescencia ante situaciones de contingencias migratorias\nextraordinarias.",
+        "officialTitle": "Real Decreto-ley 2/2025, de 18 de marzo, por el que se aprueban\nmedidas urgentes para la garantía del interés superior de la infancia y\nadolescencia ante situaciones de contingencias migratorias\nextraordinarias.",
+        "type": "regular",
+        "nativeType": "ES-ley"
+      },
+      "dateStart": "2025-04-10T11:29:00+02:00",
+      "dateEnd": "2025-04-10T11:34:00+02:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_106/cortes/15_000400_106_0_26001_751362.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1551362I",
+        "duration": 300.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_106_0_26001_751362",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Cristina Valido García",
+          "lastname": "Valido García",
+          "firstname": "Cristina",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Mixto"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 15
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 110
+      },
+      "agendaItem": {
+        "title": "Real Decreto-ley 2/2025, de 18 de marzo, por el que se aprueban\nmedidas urgentes para la garantía del interés superior de la infancia y\nadolescencia ante situaciones de contingencias migratorias\nextraordinarias.",
+        "officialTitle": "Real Decreto-ley 2/2025, de 18 de marzo, por el que se aprueban\nmedidas urgentes para la garantía del interés superior de la infancia y\nadolescencia ante situaciones de contingencias migratorias\nextraordinarias.",
+        "type": "regular",
+        "nativeType": "ES-ley"
+      },
+      "dateStart": "2025-04-10T11:34:00+02:00",
+      "dateEnd": "2025-04-10T11:38:00+02:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_106/cortes/15_000400_106_0_26001_751363.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1551363I",
+        "duration": 240.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_106_0_26001_751363",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Noemí Santana Perera",
+          "lastname": "Santana Perera",
+          "firstname": "Noemí",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Mixto"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 16
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 110
+      },
+      "agendaItem": {
+        "title": "Real Decreto-ley 2/2025, de 18 de marzo, por el que se aprueban\nmedidas urgentes para la garantía del interés superior de la infancia y\nadolescencia ante situaciones de contingencias migratorias\nextraordinarias.",
+        "officialTitle": "Real Decreto-ley 2/2025, de 18 de marzo, por el que se aprueban\nmedidas urgentes para la garantía del interés superior de la infancia y\nadolescencia ante situaciones de contingencias migratorias\nextraordinarias.",
+        "type": "regular",
+        "nativeType": "ES-ley"
+      },
+      "dateStart": "2025-04-10T11:38:00+02:00",
+      "dateEnd": "2025-04-10T11:46:00+02:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_106/cortes/15_000400_106_0_26001_751364.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1551364I",
+        "duration": 480.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_106_0_26001_751364",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "María José Rodríguez de Millán Parro",
+          "lastname": "Rodríguez de Millán Parro",
+          "firstname": "María José",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario VOX"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 17
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 110
+      },
+      "agendaItem": {
+        "title": "Real Decreto-ley 2/2025, de 18 de marzo, por el que se aprueban\nmedidas urgentes para la garantía del interés superior de la infancia y\nadolescencia ante situaciones de contingencias migratorias\nextraordinarias.",
+        "officialTitle": "Real Decreto-ley 2/2025, de 18 de marzo, por el que se aprueban\nmedidas urgentes para la garantía del interés superior de la infancia y\nadolescencia ante situaciones de contingencias migratorias\nextraordinarias.",
+        "type": "regular",
+        "nativeType": "ES-ley"
+      },
+      "dateStart": "2025-04-10T11:46:00+02:00",
+      "dateEnd": "2025-04-10T11:52:00+02:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_106/cortes/15_000400_106_0_26001_751365.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1551365I",
+        "duration": 360.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_106_0_26001_751365",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Vicenç Vidal Matas",
+          "lastname": "Vidal Matas",
+          "firstname": "Vicenç",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Plurinacional SUMAR"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 18
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 110
+      },
+      "agendaItem": {
+        "title": "Real Decreto-ley 2/2025, de 18 de marzo, por el que se aprueban\nmedidas urgentes para la garantía del interés superior de la infancia y\nadolescencia ante situaciones de contingencias migratorias\nextraordinarias.",
+        "officialTitle": "Real Decreto-ley 2/2025, de 18 de marzo, por el que se aprueban\nmedidas urgentes para la garantía del interés superior de la infancia y\nadolescencia ante situaciones de contingencias migratorias\nextraordinarias.",
+        "type": "regular",
+        "nativeType": "ES-ley"
+      },
+      "dateStart": "2025-04-10T11:52:00+02:00",
+      "dateEnd": "2025-04-10T11:59:00+02:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_106/cortes/15_000400_106_0_26001_751366.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1551366I",
+        "duration": 420.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_106_0_26001_751366",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Maribel Vaquero Montero",
+          "lastname": "Vaquero Montero",
+          "firstname": "Maribel",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Vasco (EAJ-PNV)"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 19
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 110
+      },
+      "agendaItem": {
+        "title": "Real Decreto-ley 2/2025, de 18 de marzo, por el que se aprueban\nmedidas urgentes para la garantía del interés superior de la infancia y\nadolescencia ante situaciones de contingencias migratorias\nextraordinarias.",
+        "officialTitle": "Real Decreto-ley 2/2025, de 18 de marzo, por el que se aprueban\nmedidas urgentes para la garantía del interés superior de la infancia y\nadolescencia ante situaciones de contingencias migratorias\nextraordinarias.",
+        "type": "regular",
+        "nativeType": "ES-ley"
+      },
+      "dateStart": "2025-04-10T11:59:00+02:00",
+      "dateEnd": "2025-04-10T12:08:00+02:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_106/cortes/15_000400_106_0_26001_751367.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1551367I",
+        "duration": 540.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_106_0_26001_751367",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Jon Iñarritu García",
+          "lastname": "Iñarritu García",
+          "firstname": "Jon",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Euskal Herria Bildu"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 20
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 110
+      },
+      "agendaItem": {
+        "title": "Real Decreto-ley 2/2025, de 18 de marzo, por el que se aprueban\nmedidas urgentes para la garantía del interés superior de la infancia y\nadolescencia ante situaciones de contingencias migratorias\nextraordinarias.",
+        "officialTitle": "Real Decreto-ley 2/2025, de 18 de marzo, por el que se aprueban\nmedidas urgentes para la garantía del interés superior de la infancia y\nadolescencia ante situaciones de contingencias migratorias\nextraordinarias.",
+        "type": "regular",
+        "nativeType": "ES-ley"
+      },
+      "dateStart": "2025-04-10T12:08:00+02:00",
+      "dateEnd": "2025-04-10T12:15:00+02:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_106/cortes/15_000400_106_1_26004_751373.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1551373I",
+        "duration": 420.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_106_1_26004_751373",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Josep Maria Cervera Pinart",
+          "lastname": "Cervera Pinart",
+          "firstname": "Josep Maria",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Junts per Catalunya"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 21
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 110
+      },
+      "agendaItem": {
+        "title": "Real Decreto-ley 2/2025, de 18 de marzo, por el que se aprueban\nmedidas urgentes para la garantía del interés superior de la infancia y\nadolescencia ante situaciones de contingencias migratorias\nextraordinarias.",
+        "officialTitle": "Real Decreto-ley 2/2025, de 18 de marzo, por el que se aprueban\nmedidas urgentes para la garantía del interés superior de la infancia y\nadolescencia ante situaciones de contingencias migratorias\nextraordinarias.",
+        "type": "regular",
+        "nativeType": "ES-ley"
+      },
+      "dateStart": "2025-04-10T12:15:00+02:00",
+      "dateEnd": "2025-04-10T12:22:00+02:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_106/cortes/15_000400_106_1_26004_751374.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1551374I",
+        "duration": 420.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_106_1_26004_751374",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Jordi Salvador i Duch",
+          "lastname": "Salvador i Duch",
+          "firstname": "Jordi",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Republicano"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 22
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 110
+      },
+      "agendaItem": {
+        "title": "Real Decreto-ley 2/2025, de 18 de marzo, por el que se aprueban\nmedidas urgentes para la garantía del interés superior de la infancia y\nadolescencia ante situaciones de contingencias migratorias\nextraordinarias.",
+        "officialTitle": "Real Decreto-ley 2/2025, de 18 de marzo, por el que se aprueban\nmedidas urgentes para la garantía del interés superior de la infancia y\nadolescencia ante situaciones de contingencias migratorias\nextraordinarias.",
+        "type": "regular",
+        "nativeType": "ES-ley"
+      },
+      "dateStart": "2025-04-10T12:22:00+02:00",
+      "dateEnd": "2025-04-10T12:31:00+02:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_106/cortes/15_000400_106_1_26004_751375.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1551375I",
+        "duration": 540.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_106_1_26004_751375",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Luc Andre Diouf Dioh",
+          "lastname": "Diouf Dioh",
+          "firstname": "Luc Andre",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Socialista"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 23
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 110
+      },
+      "agendaItem": {
+        "title": "Real Decreto-ley 2/2025, de 18 de marzo, por el que se aprueban\nmedidas urgentes para la garantía del interés superior de la infancia y\nadolescencia ante situaciones de contingencias migratorias\nextraordinarias.",
+        "officialTitle": "Real Decreto-ley 2/2025, de 18 de marzo, por el que se aprueban\nmedidas urgentes para la garantía del interés superior de la infancia y\nadolescencia ante situaciones de contingencias migratorias\nextraordinarias.",
+        "type": "regular",
+        "nativeType": "ES-ley"
+      },
+      "dateStart": "2025-04-10T12:31:00+02:00",
+      "dateEnd": "2025-04-10T12:41:00+02:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_106/cortes/15_000400_106_1_26004_751376.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1551376I",
+        "duration": 600.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_106_1_26004_751376",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Ana Isabel Alós López",
+          "lastname": "Alós López",
+          "firstname": "Ana Isabel",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Popular en el Congreso"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 24
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 110
+      },
+      "agendaItem": {
+        "title": "Proposición de Ley Orgánica por la que se modifica la Ley Orgánica\n1/2002, de 22 de marzo, reguladora del derecho de asociación.",
+        "officialTitle": "Proposición de Ley Orgánica por la que se modifica la Ley Orgánica\n1/2002, de 22 de marzo, reguladora del derecho de asociación.",
+        "type": "regular",
+        "nativeType": "ES-ley"
+      },
+      "dateStart": "2025-04-10T12:41:00+02:00",
+      "dateEnd": "2025-04-10T12:45:00+02:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_106/cortes/15_000400_106_1_26004_751379.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1551379I",
+        "duration": 240.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_106_1_26004_751379",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Alberto Catalán Higueras",
+          "lastname": "Catalán Higueras",
+          "firstname": "Alberto",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Mixto"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 25
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 110
+      },
+      "agendaItem": {
+        "title": "Proposición de Ley Orgánica por la que se modifica la Ley Orgánica\n1/2002, de 22 de marzo, reguladora del derecho de asociación.",
+        "officialTitle": "Proposición de Ley Orgánica por la que se modifica la Ley Orgánica\n1/2002, de 22 de marzo, reguladora del derecho de asociación.",
+        "type": "regular",
+        "nativeType": "ES-ley"
+      },
+      "dateStart": "2025-04-10T12:45:00+02:00",
+      "dateEnd": "2025-04-10T12:48:00+02:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_106/cortes/15_000400_106_1_26004_751380.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1551380I",
+        "duration": 180.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_106_1_26004_751380",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Néstor Rego Candamil",
+          "lastname": "Rego Candamil",
+          "firstname": "Néstor",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Mixto"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 26
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 110
+      },
+      "agendaItem": {
+        "title": "Proposición de Ley Orgánica por la que se modifica la Ley Orgánica\n1/2002, de 22 de marzo, reguladora del derecho de asociación.",
+        "officialTitle": "Proposición de Ley Orgánica por la que se modifica la Ley Orgánica\n1/2002, de 22 de marzo, reguladora del derecho de asociación.",
+        "type": "regular",
+        "nativeType": "ES-ley"
+      },
+      "dateStart": "2025-04-10T12:48:00+02:00",
+      "dateEnd": "2025-04-10T12:53:00+02:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_106/cortes/15_000400_106_1_26004_751381.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1551381I",
+        "duration": 300.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_106_1_26004_751381",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Martina Velarde Gómez",
+          "lastname": "Velarde Gómez",
+          "firstname": "Martina",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Mixto"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 27
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 110
+      },
+      "agendaItem": {
+        "title": "Proposición de Ley Orgánica por la que se modifica la Ley Orgánica\n1/2002, de 22 de marzo, reguladora del derecho de asociación.",
+        "officialTitle": "Proposición de Ley Orgánica por la que se modifica la Ley Orgánica\n1/2002, de 22 de marzo, reguladora del derecho de asociación.",
+        "type": "regular",
+        "nativeType": "ES-ley"
+      },
+      "dateStart": "2025-04-10T12:53:00+02:00",
+      "dateEnd": "2025-04-10T13:03:00+02:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_106/cortes/15_000400_106_1_26004_751382.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1551382I",
+        "duration": 600.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_106_1_26004_751382",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Pedro Puy Fraga",
+          "lastname": "Puy Fraga",
+          "firstname": "Pedro",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Popular en el Congreso"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 28
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 110
+      },
+      "agendaItem": {
+        "title": "Proposición de Ley Orgánica por la que se modifica la Ley Orgánica\n1/2002, de 22 de marzo, reguladora del derecho de asociación.",
+        "officialTitle": "Proposición de Ley Orgánica por la que se modifica la Ley Orgánica\n1/2002, de 22 de marzo, reguladora del derecho de asociación.",
+        "type": "regular",
+        "nativeType": "ES-ley"
+      },
+      "dateStart": "2025-04-10T13:03:00+02:00",
+      "dateEnd": "2025-04-10T13:09:00+02:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_106/cortes/15_000400_106_1_26004_751383.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1551383I",
+        "duration": 360.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_106_1_26004_751383",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Mikel Legarda Uriarte",
+          "lastname": "Legarda Uriarte",
+          "firstname": "Mikel",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Vasco (EAJ-PNV)"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 29
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 110
+      },
+      "agendaItem": {
+        "title": "Proposición de Ley Orgánica por la que se modifica la Ley Orgánica\n1/2002, de 22 de marzo, reguladora del derecho de asociación.",
+        "officialTitle": "Proposición de Ley Orgánica por la que se modifica la Ley Orgánica\n1/2002, de 22 de marzo, reguladora del derecho de asociación.",
+        "type": "regular",
+        "nativeType": "ES-ley"
+      },
+      "dateStart": "2025-04-10T13:09:00+02:00",
+      "dateEnd": "2025-04-10T13:17:00+02:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_106/cortes/15_000400_106_1_26004_751384.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1551384I",
+        "duration": 480.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_106_1_26004_751384",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Jon Iñarritu García",
+          "lastname": "Iñarritu García",
+          "firstname": "Jon",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Euskal Herria Bildu"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 30
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 110
+      },
+      "agendaItem": {
+        "title": "Proposición de Ley Orgánica por la que se modifica la Ley Orgánica\n1/2002, de 22 de marzo, reguladora del derecho de asociación.",
+        "officialTitle": "Proposición de Ley Orgánica por la que se modifica la Ley Orgánica\n1/2002, de 22 de marzo, reguladora del derecho de asociación.",
+        "type": "regular",
+        "nativeType": "ES-ley"
+      },
+      "dateStart": "2025-04-10T13:17:00+02:00",
+      "dateEnd": "2025-04-10T13:18:00+02:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_106/cortes/15_000400_106_1_26004_751385.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1551385I",
+        "duration": 60.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_106_1_26004_751385",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Alberto Catalán Higueras",
+          "lastname": "Catalán Higueras",
+          "firstname": "Alberto",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Mixto"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 31
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 110
+      },
+      "agendaItem": {
+        "title": "Proposición de Ley Orgánica por la que se modifica la Ley Orgánica\n1/2002, de 22 de marzo, reguladora del derecho de asociación.",
+        "officialTitle": "Proposición de Ley Orgánica por la que se modifica la Ley Orgánica\n1/2002, de 22 de marzo, reguladora del derecho de asociación.",
+        "type": "regular",
+        "nativeType": "ES-ley"
+      },
+      "dateStart": "2025-04-10T13:18:00+02:00",
+      "dateEnd": "2025-04-10T13:26:00+02:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_106/cortes/15_000400_106_1_26004_751386.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1551386I",
+        "duration": 480.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_106_1_26004_751386",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Josep Pagès i Massó",
+          "lastname": "Pagès i Massó",
+          "firstname": "Josep",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Junts per Catalunya"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 32
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 110
+      },
+      "agendaItem": {
+        "title": "Proposición de Ley Orgánica por la que se modifica la Ley Orgánica\n1/2002, de 22 de marzo, reguladora del derecho de asociación.",
+        "officialTitle": "Proposición de Ley Orgánica por la que se modifica la Ley Orgánica\n1/2002, de 22 de marzo, reguladora del derecho de asociación.",
+        "type": "regular",
+        "nativeType": "ES-ley"
+      },
+      "dateStart": "2025-04-10T13:26:00+02:00",
+      "dateEnd": "2025-04-10T13:36:00+02:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_106/cortes/15_000400_106_1_26004_751387.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1551387I",
+        "duration": 600.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_106_1_26004_751387",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Francesc-Marc Álvaro Vidal",
+          "lastname": "Álvaro Vidal",
+          "firstname": "Francesc-Marc",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Republicano"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 33
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 110
+      },
+      "agendaItem": {
+        "title": "Proposición de Ley Orgánica por la que se modifica la Ley Orgánica\n1/2002, de 22 de marzo, reguladora del derecho de asociación.",
+        "officialTitle": "Proposición de Ley Orgánica por la que se modifica la Ley Orgánica\n1/2002, de 22 de marzo, reguladora del derecho de asociación.",
+        "type": "regular",
+        "nativeType": "ES-ley"
+      },
+      "dateStart": "2025-04-10T13:36:00+02:00",
+      "dateEnd": "2025-04-10T13:45:00+02:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_106/cortes/15_000400_106_1_26004_751388.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1551388I",
+        "duration": 540.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_106_1_26004_751388",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Nahuel González López",
+          "lastname": "González López",
+          "firstname": "Nahuel",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Plurinacional SUMAR"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 34
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 110
+      },
+      "agendaItem": {
+        "title": "Proposición de Ley Orgánica por la que se modifica la Ley Orgánica\n1/2002, de 22 de marzo, reguladora del derecho de asociación.",
+        "officialTitle": "Proposición de Ley Orgánica por la que se modifica la Ley Orgánica\n1/2002, de 22 de marzo, reguladora del derecho de asociación.",
+        "type": "regular",
+        "nativeType": "ES-ley"
+      },
+      "dateStart": "2025-04-10T13:45:00+02:00",
+      "dateEnd": "2025-04-10T13:54:00+02:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_106/cortes/15_000400_106_1_26004_751389.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1551389I",
+        "duration": 540.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_106_1_26004_751389",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Juan José Aizcorbe Torra",
+          "lastname": "Aizcorbe Torra",
+          "firstname": "Juan José",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario VOX"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 35
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 110
+      },
+      "agendaItem": {
+        "title": "Proposición de Ley Orgánica por la que se modifica la Ley Orgánica\n1/2002, de 22 de marzo, reguladora del derecho de asociación.",
+        "officialTitle": "Proposición de Ley Orgánica por la que se modifica la Ley Orgánica\n1/2002, de 22 de marzo, reguladora del derecho de asociación.",
+        "type": "regular",
+        "nativeType": "ES-ley"
+      },
+      "dateStart": "2025-04-10T13:54:00+02:00",
+      "dateEnd": "2025-04-10T14:05:00+02:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_106/cortes/15_000400_106_1_26004_751390.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1551390I",
+        "duration": 660.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_106_1_26004_751390",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Artemi Rallo Lombarte",
+          "lastname": "Rallo Lombarte",
+          "firstname": "Artemi",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Socialista"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 36
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 110
+      },
+      "agendaItem": {
+        "title": "Proyecto de Ley por la que se modifica la Ley 12/2002, de 23 de mayo,\npor la que se aprueba el Concierto Económico con la Comunidad Autónoma\ndel País Vasco.",
+        "officialTitle": "Proyecto de Ley por la que se modifica la Ley 12/2002, de 23 de mayo,\npor la que se aprueba el Concierto Económico con la Comunidad Autónoma\ndel País Vasco.",
+        "type": "regular",
+        "nativeType": "ES-ley"
+      },
+      "dateStart": "2025-04-10T14:11:00+02:00",
+      "dateEnd": "2025-04-10T14:28:00+02:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_106/cortes/15_000400_106_1_26004_751394.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1551394I",
+        "duration": 1020.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_106_1_26004_751394",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "María Jesús Montero Cuadrado",
+          "lastname": "Montero Cuadrado",
+          "firstname": "María Jesús",
+          "type": "member of government",
+          "role": "Vicepresidenta Primera del Gobierno y Ministra de Hacienda",
+          "faction": {
+            "label": "Grupo Parlamentario Socialista"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 37
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 110
+      },
+      "agendaItem": {
+        "title": "Proyecto de Ley por la que se modifica la Ley 12/2002, de 23 de mayo,\npor la que se aprueba el Concierto Económico con la Comunidad Autónoma\ndel País Vasco.",
+        "officialTitle": "Proyecto de Ley por la que se modifica la Ley 12/2002, de 23 de mayo,\npor la que se aprueba el Concierto Económico con la Comunidad Autónoma\ndel País Vasco.",
+        "type": "regular",
+        "nativeType": "ES-ley"
+      },
+      "dateStart": "2025-04-10T14:28:00+02:00",
+      "dateEnd": "2025-04-10T14:42:00+02:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_106/cortes/15_000400_106_1_26004_751395.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1551395I",
+        "duration": 840.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_106_1_26004_751395",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Pablo Sáez Alonso-Muñumer",
+          "lastname": "Sáez Alonso-Muñumer",
+          "firstname": "Pablo",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario VOX"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 38
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 110
+      },
+      "agendaItem": {
+        "title": "Proyecto de Ley por la que se modifica la Ley 12/2002, de 23 de mayo,\npor la que se aprueba el Concierto Económico con la Comunidad Autónoma\ndel País Vasco.",
+        "officialTitle": "Proyecto de Ley por la que se modifica la Ley 12/2002, de 23 de mayo,\npor la que se aprueba el Concierto Económico con la Comunidad Autónoma\ndel País Vasco.",
+        "type": "regular",
+        "nativeType": "ES-ley"
+      },
+      "dateStart": "2025-04-10T14:42:00+02:00",
+      "dateEnd": "2025-04-10T14:49:00+02:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_106/cortes/15_000400_106_1_26004_751396.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1551396I",
+        "duration": 420.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_106_1_26004_751396",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Idoia Sagastizabal Unzetabarrenetxea",
+          "lastname": "Sagastizabal Unzetabarrenetxea",
+          "firstname": "Idoia",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Vasco (EAJ-PNV)"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 39
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 110
+      },
+      "agendaItem": {
+        "title": "Proyecto de Ley por la que se modifica la Ley 12/2002, de 23 de mayo,\npor la que se aprueba el Concierto Económico con la Comunidad Autónoma\ndel País Vasco.",
+        "officialTitle": "Proyecto de Ley por la que se modifica la Ley 12/2002, de 23 de mayo,\npor la que se aprueba el Concierto Económico con la Comunidad Autónoma\ndel País Vasco.",
+        "type": "regular",
+        "nativeType": "ES-ley"
+      },
+      "dateStart": "2025-04-10T14:49:00+02:00",
+      "dateEnd": "2025-04-10T14:57:00+02:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_106/cortes/15_000400_106_1_26004_751397.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1551397I",
+        "duration": 480.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_106_1_26004_751397",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Mertxe Aizpurua Arzallus",
+          "lastname": "Aizpurua Arzallus",
+          "firstname": "Mertxe",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Euskal Herria Bildu"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 40
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 110
+      },
+      "agendaItem": {
+        "title": "Proyecto de Ley por la que se modifica la Ley 12/2002, de 23 de mayo,\npor la que se aprueba el Concierto Económico con la Comunidad Autónoma\ndel País Vasco.",
+        "officialTitle": "Proyecto de Ley por la que se modifica la Ley 12/2002, de 23 de mayo,\npor la que se aprueba el Concierto Económico con la Comunidad Autónoma\ndel País Vasco.",
+        "type": "regular",
+        "nativeType": "ES-ley"
+      },
+      "dateStart": "2025-04-10T14:57:00+02:00",
+      "dateEnd": "2025-04-10T15:04:00+02:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_106/cortes/15_000400_106_1_26004_751398.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1551398I",
+        "duration": 420.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_106_1_26004_751398",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Lander Martínez Hierro",
+          "lastname": "Martínez Hierro",
+          "firstname": "Lander",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Plurinacional SUMAR"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 41
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 110
+      },
+      "agendaItem": {
+        "title": "Proyecto de Ley por la que se modifica la Ley 12/2002, de 23 de mayo,\npor la que se aprueba el Concierto Económico con la Comunidad Autónoma\ndel País Vasco.",
+        "officialTitle": "Proyecto de Ley por la que se modifica la Ley 12/2002, de 23 de mayo,\npor la que se aprueba el Concierto Económico con la Comunidad Autónoma\ndel País Vasco.",
+        "type": "regular",
+        "nativeType": "ES-ley"
+      },
+      "dateStart": "2025-04-10T15:04:00+02:00",
+      "dateEnd": "2025-04-10T15:12:00+02:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_106/cortes/15_000400_106_1_26004_751399.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1551399I",
+        "duration": 480.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_106_1_26004_751399",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "María Luisa García Gurrutxaga",
+          "lastname": "García Gurrutxaga",
+          "firstname": "María Luisa",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Socialista"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 42
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 110
+      },
+      "agendaItem": {
+        "title": "Proyecto de Ley por la que se modifica la Ley 12/2002, de 23 de mayo,\npor la que se aprueba el Concierto Económico con la Comunidad Autónoma\ndel País Vasco.",
+        "officialTitle": "Proyecto de Ley por la que se modifica la Ley 12/2002, de 23 de mayo,\npor la que se aprueba el Concierto Económico con la Comunidad Autónoma\ndel País Vasco.",
+        "type": "regular",
+        "nativeType": "ES-ley"
+      },
+      "dateStart": "2025-04-10T15:12:00+02:00",
+      "dateEnd": "2025-04-10T15:21:00+02:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_106/cortes/15_000400_106_1_26004_751400.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1551400I",
+        "duration": 540.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_106_1_26004_751400",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Carmelo Barrio Baroja",
+          "lastname": "Barrio Baroja",
+          "firstname": "Carmelo",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Popular en el Congreso"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 43
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 110
+      },
+      "agendaItem": {
+        "title": "Proposición de Ley de modificación de la Ley 24/2013, de 26 de\ndiciembre, del Sector Eléctrico y la Ley 34/1998, de 7 de octubre, del\nsector de hidrocarburos para armonizar la información a incluir en las\npáginas web, contratos y facturas de electricidad y gas en relación a la\nresolución alternativa de litigios en materia de consumo.",
+        "officialTitle": "Proposición de Ley de modificación de la Ley 24/2013, de 26 de\ndiciembre, del Sector Eléctrico y la Ley 34/1998, de 7 de octubre, del\nsector de hidrocarburos para armonizar la información a incluir en las\npáginas web, contratos y facturas de electricidad y gas en relación a la\nresolución alternativa de litigios en materia de consumo.",
+        "type": "regular",
+        "nativeType": "ES-ley"
+      },
+      "dateStart": "2025-04-10T15:22:00+02:00",
+      "dateEnd": "2025-04-10T15:23:00+02:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_106/cortes/15_000400_106_1_26004_751403.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1551403I",
+        "duration": 60.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_106_1_26004_751403",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "José María Figaredo Álvarez-Sala",
+          "lastname": "Figaredo Álvarez-Sala",
+          "firstname": "José María",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario VOX"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 44
+    }
+  ]
+}

@@ -1,0 +1,2000 @@
+{
+  "meta": {
+    "session": "15023",
+    "processing": {
+      "parse_media": "2026-05-23T07:17:41"
+    },
+    "dateStart": "2024-02-20T15:04:00+01:00",
+    "dateEnd": "2024-02-20T20:27:00+01:00"
+  },
+  "data": [
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 23
+      },
+      "agendaItem": {
+        "title": "Juramento o promesa de acatamiento de la Constitución",
+        "officialTitle": "Juramento o promesa de acatamiento de la Constitución",
+        "type": "oath",
+        "nativeType": "ES-juramento"
+      },
+      "dateStart": "2024-02-20T15:04:00+01:00",
+      "dateEnd": "2024-02-20T15:05:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_021/cortes/15_000400_021_0_24623_728396.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1528396I",
+        "duration": 60.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_021_0_24623_728396",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Olvido De la Rosa Baena",
+          "lastname": "De la Rosa Baena",
+          "firstname": "Olvido",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Socialista"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 1
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 23
+      },
+      "agendaItem": {
+        "title": "Proposición de Ley Orgánica para garantizar la unidad de España.",
+        "officialTitle": "Proposición de Ley Orgánica para garantizar la unidad de España.",
+        "type": "regular",
+        "nativeType": "ES-ley"
+      },
+      "dateStart": "2024-02-20T15:06:00+01:00",
+      "dateEnd": "2024-02-20T15:19:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_021/cortes/15_000400_021_0_24623_728399.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1528399I",
+        "duration": 780.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_021_0_24623_728399",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Carlos Flores Juberías",
+          "lastname": "Flores Juberías",
+          "firstname": "Carlos",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario VOX"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 2
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 23
+      },
+      "agendaItem": {
+        "title": "Proposición de Ley Orgánica para garantizar la unidad de España.",
+        "officialTitle": "Proposición de Ley Orgánica para garantizar la unidad de España.",
+        "type": "regular",
+        "nativeType": "ES-ley"
+      },
+      "dateStart": "2024-02-20T15:19:00+01:00",
+      "dateEnd": "2024-02-20T15:23:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_021/cortes/15_000400_021_0_24623_728400.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1528400I",
+        "duration": 240.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_021_0_24623_728400",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Aitor Esteban Bravo",
+          "lastname": "Esteban Bravo",
+          "firstname": "Aitor",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Vasco (EAJ-PNV)"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 3
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 23
+      },
+      "agendaItem": {
+        "title": "Proposición de Ley Orgánica para garantizar la unidad de España.",
+        "officialTitle": "Proposición de Ley Orgánica para garantizar la unidad de España.",
+        "type": "regular",
+        "nativeType": "ES-ley"
+      },
+      "dateStart": "2024-02-20T15:24:00+01:00",
+      "dateEnd": "2024-02-20T15:31:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_021/cortes/15_000400_021_0_24623_728401.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1528401I",
+        "duration": 420.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_021_0_24623_728401",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Marije Fullaondo la Cruz",
+          "lastname": "Fullaondo la Cruz",
+          "firstname": "Marije",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Euskal Herria Bildu"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 4
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 23
+      },
+      "agendaItem": {
+        "title": "Proposición de Ley Orgánica para garantizar la unidad de España.",
+        "officialTitle": "Proposición de Ley Orgánica para garantizar la unidad de España.",
+        "type": "regular",
+        "nativeType": "ES-ley"
+      },
+      "dateStart": "2024-02-20T15:31:00+01:00",
+      "dateEnd": "2024-02-20T15:38:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_021/cortes/15_000400_021_0_24623_728402.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1528402I",
+        "duration": 420.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_021_0_24623_728402",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Francesc-Marc Álvaro Vidal",
+          "lastname": "Álvaro Vidal",
+          "firstname": "Francesc-Marc",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Republicano"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 5
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 23
+      },
+      "agendaItem": {
+        "title": "Proposición de Ley Orgánica para garantizar la unidad de España.",
+        "officialTitle": "Proposición de Ley Orgánica para garantizar la unidad de España.",
+        "type": "regular",
+        "nativeType": "ES-ley"
+      },
+      "dateStart": "2024-02-20T15:39:00+01:00",
+      "dateEnd": "2024-02-20T15:48:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_021/cortes/15_000400_021_0_24623_728403.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1528403I",
+        "duration": 540.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_021_0_24623_728403",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Aina Vidal Sáez",
+          "lastname": "Vidal Sáez",
+          "firstname": "Aina",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Plurinacional SUMAR"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 6
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 23
+      },
+      "agendaItem": {
+        "title": "Proposición de Ley Orgánica para garantizar la unidad de España.",
+        "officialTitle": "Proposición de Ley Orgánica para garantizar la unidad de España.",
+        "type": "regular",
+        "nativeType": "ES-ley"
+      },
+      "dateStart": "2024-02-20T15:49:00+01:00",
+      "dateEnd": "2024-02-20T15:56:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_021/cortes/15_000400_021_0_24623_728404.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1528404I",
+        "duration": 420.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_021_0_24623_728404",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Alejandro Soler Mur",
+          "lastname": "Soler Mur",
+          "firstname": "Alejandro",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Socialista"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 7
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 23
+      },
+      "agendaItem": {
+        "title": "Proposición de Ley Orgánica para garantizar la unidad de España.",
+        "officialTitle": "Proposición de Ley Orgánica para garantizar la unidad de España.",
+        "type": "regular",
+        "nativeType": "ES-ley"
+      },
+      "dateStart": "2024-02-20T15:56:00+01:00",
+      "dateEnd": "2024-02-20T16:05:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_021/cortes/15_000400_021_0_24623_728405.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1528405I",
+        "duration": 540.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_021_0_24623_728405",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Manuel Cobo Vega",
+          "lastname": "Cobo Vega",
+          "firstname": "Manuel",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Popular en el Congreso"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 8
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 23
+      },
+      "agendaItem": {
+        "title": "Proposición de Ley Orgánica de reforma de la Ley Orgánica 6/1985, de\n1 de julio, del Poder Judicial, para la protección de los derechos\nhumanos y la jurisdicción universal en España.",
+        "officialTitle": "Proposición de Ley Orgánica de reforma de la Ley Orgánica 6/1985, de\n1 de julio, del Poder Judicial, para la protección de los derechos\nhumanos y la jurisdicción universal en España.",
+        "type": "regular",
+        "nativeType": "ES-ley"
+      },
+      "dateStart": "2024-02-20T16:06:00+01:00",
+      "dateEnd": "2024-02-20T16:19:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_021/cortes/15_000400_021_0_24623_728407.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1528407I",
+        "duration": 780.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_021_0_24623_728407",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Enrique Fernando Santiago Romero",
+          "lastname": "Santiago Romero",
+          "firstname": "Enrique Fernando",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Plurinacional SUMAR"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 9
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 23
+      },
+      "agendaItem": {
+        "title": "Proposición de Ley Orgánica de reforma de la Ley Orgánica 6/1985, de\n1 de julio, del Poder Judicial, para la protección de los derechos\nhumanos y la jurisdicción universal en España.",
+        "officialTitle": "Proposición de Ley Orgánica de reforma de la Ley Orgánica 6/1985, de\n1 de julio, del Poder Judicial, para la protección de los derechos\nhumanos y la jurisdicción universal en España.",
+        "type": "regular",
+        "nativeType": "ES-ley"
+      },
+      "dateStart": "2024-02-20T16:20:00+01:00",
+      "dateEnd": "2024-02-20T16:34:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_021/cortes/15_000400_021_0_24623_728408.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1528408I",
+        "duration": 840.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_021_0_24623_728408",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "José María Sánchez García",
+          "lastname": "Sánchez García",
+          "firstname": "José María",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario VOX"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 10
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 23
+      },
+      "agendaItem": {
+        "title": "Proposición de Ley Orgánica de reforma de la Ley Orgánica 6/1985, de\n1 de julio, del Poder Judicial, para la protección de los derechos\nhumanos y la jurisdicción universal en España.",
+        "officialTitle": "Proposición de Ley Orgánica de reforma de la Ley Orgánica 6/1985, de\n1 de julio, del Poder Judicial, para la protección de los derechos\nhumanos y la jurisdicción universal en España.",
+        "type": "regular",
+        "nativeType": "ES-ley"
+      },
+      "dateStart": "2024-02-20T16:35:00+01:00",
+      "dateEnd": "2024-02-20T16:40:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_021/cortes/15_000400_021_0_24623_728409.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1528409I",
+        "duration": 300.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_021_0_24623_728409",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Enrique Fernando Santiago Romero",
+          "lastname": "Santiago Romero",
+          "firstname": "Enrique Fernando",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Plurinacional SUMAR"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 11
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 23
+      },
+      "agendaItem": {
+        "title": "Proposición de Ley Orgánica de reforma de la Ley Orgánica 6/1985, de\n1 de julio, del Poder Judicial, para la protección de los derechos\nhumanos y la jurisdicción universal en España.",
+        "officialTitle": "Proposición de Ley Orgánica de reforma de la Ley Orgánica 6/1985, de\n1 de julio, del Poder Judicial, para la protección de los derechos\nhumanos y la jurisdicción universal en España.",
+        "type": "regular",
+        "nativeType": "ES-ley"
+      },
+      "dateStart": "2024-02-20T16:41:00+01:00",
+      "dateEnd": "2024-02-20T16:48:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_021/cortes/15_000400_021_0_24623_728410.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1528410I",
+        "duration": 420.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_021_0_24623_728410",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "José María Sánchez García",
+          "lastname": "Sánchez García",
+          "firstname": "José María",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario VOX"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 12
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 23
+      },
+      "agendaItem": {
+        "title": "Proposición de Ley Orgánica de reforma de la Ley Orgánica 6/1985, de\n1 de julio, del Poder Judicial, para la protección de los derechos\nhumanos y la jurisdicción universal en España.",
+        "officialTitle": "Proposición de Ley Orgánica de reforma de la Ley Orgánica 6/1985, de\n1 de julio, del Poder Judicial, para la protección de los derechos\nhumanos y la jurisdicción universal en España.",
+        "type": "regular",
+        "nativeType": "ES-ley"
+      },
+      "dateStart": "2024-02-20T16:48:00+01:00",
+      "dateEnd": "2024-02-20T16:52:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_021/cortes/15_000400_021_0_24623_728411.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1528411I",
+        "duration": 240.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_021_0_24623_728411",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Cristina Valido García",
+          "lastname": "Valido García",
+          "firstname": "Cristina",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Mixto"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 13
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 23
+      },
+      "agendaItem": {
+        "title": "Proposición de Ley Orgánica de reforma de la Ley Orgánica 6/1985, de\n1 de julio, del Poder Judicial, para la protección de los derechos\nhumanos y la jurisdicción universal en España.",
+        "officialTitle": "Proposición de Ley Orgánica de reforma de la Ley Orgánica 6/1985, de\n1 de julio, del Poder Judicial, para la protección de los derechos\nhumanos y la jurisdicción universal en España.",
+        "type": "regular",
+        "nativeType": "ES-ley"
+      },
+      "dateStart": "2024-02-20T16:53:00+01:00",
+      "dateEnd": "2024-02-20T16:56:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_021/cortes/15_000400_021_0_24623_728412.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1528412I",
+        "duration": 180.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_021_0_24623_728412",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Néstor Rego Candamil",
+          "lastname": "Rego Candamil",
+          "firstname": "Néstor",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Mixto"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 14
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 23
+      },
+      "agendaItem": {
+        "title": "Proposición de Ley Orgánica de reforma de la Ley Orgánica 6/1985, de\n1 de julio, del Poder Judicial, para la protección de los derechos\nhumanos y la jurisdicción universal en España.",
+        "officialTitle": "Proposición de Ley Orgánica de reforma de la Ley Orgánica 6/1985, de\n1 de julio, del Poder Judicial, para la protección de los derechos\nhumanos y la jurisdicción universal en España.",
+        "type": "regular",
+        "nativeType": "ES-ley"
+      },
+      "dateStart": "2024-02-20T16:56:00+01:00",
+      "dateEnd": "2024-02-20T17:01:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_021/cortes/15_000400_021_0_24623_728413.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1528413I",
+        "duration": 300.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_021_0_24623_728413",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Martina Velarde Gómez",
+          "lastname": "Velarde Gómez",
+          "firstname": "Martina",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Mixto"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 15
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 23
+      },
+      "agendaItem": {
+        "title": "Proposición de Ley Orgánica de reforma de la Ley Orgánica 6/1985, de\n1 de julio, del Poder Judicial, para la protección de los derechos\nhumanos y la jurisdicción universal en España.",
+        "officialTitle": "Proposición de Ley Orgánica de reforma de la Ley Orgánica 6/1985, de\n1 de julio, del Poder Judicial, para la protección de los derechos\nhumanos y la jurisdicción universal en España.",
+        "type": "regular",
+        "nativeType": "ES-ley"
+      },
+      "dateStart": "2024-02-20T17:02:00+01:00",
+      "dateEnd": "2024-02-20T17:09:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_021/cortes/15_000400_021_0_24623_728414.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1528414I",
+        "duration": 420.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_021_0_24623_728414",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Mikel Legarda Uriarte",
+          "lastname": "Legarda Uriarte",
+          "firstname": "Mikel",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Vasco (EAJ-PNV)"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 16
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 23
+      },
+      "agendaItem": {
+        "title": "Proposición de Ley Orgánica de reforma de la Ley Orgánica 6/1985, de\n1 de julio, del Poder Judicial, para la protección de los derechos\nhumanos y la jurisdicción universal en España.",
+        "officialTitle": "Proposición de Ley Orgánica de reforma de la Ley Orgánica 6/1985, de\n1 de julio, del Poder Judicial, para la protección de los derechos\nhumanos y la jurisdicción universal en España.",
+        "type": "regular",
+        "nativeType": "ES-ley"
+      },
+      "dateStart": "2024-02-20T17:09:00+01:00",
+      "dateEnd": "2024-02-20T17:15:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_021/cortes/15_000400_021_0_24623_728415.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1528415I",
+        "duration": 360.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_021_0_24623_728415",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Jon Iñarritu García",
+          "lastname": "Iñarritu García",
+          "firstname": "Jon",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Euskal Herria Bildu"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 17
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 23
+      },
+      "agendaItem": {
+        "title": "Proposición de Ley Orgánica de reforma de la Ley Orgánica 6/1985, de\n1 de julio, del Poder Judicial, para la protección de los derechos\nhumanos y la jurisdicción universal en España.",
+        "officialTitle": "Proposición de Ley Orgánica de reforma de la Ley Orgánica 6/1985, de\n1 de julio, del Poder Judicial, para la protección de los derechos\nhumanos y la jurisdicción universal en España.",
+        "type": "regular",
+        "nativeType": "ES-ley"
+      },
+      "dateStart": "2024-02-20T17:16:00+01:00",
+      "dateEnd": "2024-02-20T17:21:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_021/cortes/15_000400_021_0_24623_728416.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1528416I",
+        "duration": 300.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_021_0_24623_728416",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Josep Maria Cervera Pinart",
+          "lastname": "Cervera Pinart",
+          "firstname": "Josep Maria",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Junts per Catalunya"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 18
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 23
+      },
+      "agendaItem": {
+        "title": "Proposición de Ley Orgánica de reforma de la Ley Orgánica 6/1985, de\n1 de julio, del Poder Judicial, para la protección de los derechos\nhumanos y la jurisdicción universal en España.",
+        "officialTitle": "Proposición de Ley Orgánica de reforma de la Ley Orgánica 6/1985, de\n1 de julio, del Poder Judicial, para la protección de los derechos\nhumanos y la jurisdicción universal en España.",
+        "type": "regular",
+        "nativeType": "ES-ley"
+      },
+      "dateStart": "2024-02-20T17:22:00+01:00",
+      "dateEnd": "2024-02-20T17:27:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_021/cortes/15_000400_021_0_24623_728417.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1528417I",
+        "duration": 300.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_021_0_24623_728417",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Pilar Vallugera Balañà",
+          "lastname": "Vallugera Balañà",
+          "firstname": "Pilar",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Republicano"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 19
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 23
+      },
+      "agendaItem": {
+        "title": "Proposición de Ley Orgánica de reforma de la Ley Orgánica 6/1985, de\n1 de julio, del Poder Judicial, para la protección de los derechos\nhumanos y la jurisdicción universal en España.",
+        "officialTitle": "Proposición de Ley Orgánica de reforma de la Ley Orgánica 6/1985, de\n1 de julio, del Poder Judicial, para la protección de los derechos\nhumanos y la jurisdicción universal en España.",
+        "type": "regular",
+        "nativeType": "ES-ley"
+      },
+      "dateStart": "2024-02-20T17:27:00+01:00",
+      "dateEnd": "2024-02-20T17:36:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_021/cortes/15_000400_021_0_24623_728418.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1528418I",
+        "duration": 540.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_021_0_24623_728418",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Hana Jalloul Muro",
+          "lastname": "Jalloul Muro",
+          "firstname": "Hana",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Socialista"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 20
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 23
+      },
+      "agendaItem": {
+        "title": "Proposición de Ley Orgánica de reforma de la Ley Orgánica 6/1985, de\n1 de julio, del Poder Judicial, para la protección de los derechos\nhumanos y la jurisdicción universal en España.",
+        "officialTitle": "Proposición de Ley Orgánica de reforma de la Ley Orgánica 6/1985, de\n1 de julio, del Poder Judicial, para la protección de los derechos\nhumanos y la jurisdicción universal en España.",
+        "type": "regular",
+        "nativeType": "ES-ley"
+      },
+      "dateStart": "2024-02-20T17:36:00+01:00",
+      "dateEnd": "2024-02-20T17:45:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_021/cortes/15_000400_021_0_24623_728419.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1528419I",
+        "duration": 540.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_021_0_24623_728419",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "María Jesús Moro Almaraz",
+          "lastname": "Moro Almaraz",
+          "firstname": "María Jesús",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Popular en el Congreso"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 21
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 23
+      },
+      "agendaItem": {
+        "title": "Proposición no de Ley para la defensa de los transportistas y\nagricultores españoles ante los ataques sufridos en la frontera con\nFrancia.",
+        "officialTitle": "Proposición no de Ley para la defensa de los transportistas y\nagricultores españoles ante los ataques sufridos en la frontera con\nFrancia.",
+        "type": "regular"
+      },
+      "dateStart": "2024-02-20T17:46:00+01:00",
+      "dateEnd": "2024-02-20T17:55:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_021/cortes/15_000400_021_0_24623_728422.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1528422I",
+        "duration": 540.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_021_0_24623_728422",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Carina Mejías Sánchez",
+          "lastname": "Mejías Sánchez",
+          "firstname": "Carina",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario VOX"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 22
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 23
+      },
+      "agendaItem": {
+        "title": "Proposición no de Ley para la defensa de los transportistas y\nagricultores españoles ante los ataques sufridos en la frontera con\nFrancia.",
+        "officialTitle": "Proposición no de Ley para la defensa de los transportistas y\nagricultores españoles ante los ataques sufridos en la frontera con\nFrancia.",
+        "type": "regular"
+      },
+      "dateStart": "2024-02-20T17:56:00+01:00",
+      "dateEnd": "2024-02-20T18:00:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_021/cortes/15_000400_021_0_24623_728423.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1528423I",
+        "duration": 240.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_021_0_24623_728423",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Alberto Catalán Higueras",
+          "lastname": "Catalán Higueras",
+          "firstname": "Alberto",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Mixto"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 23
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 23
+      },
+      "agendaItem": {
+        "title": "Proposición no de Ley para la defensa de los transportistas y\nagricultores españoles ante los ataques sufridos en la frontera con\nFrancia.",
+        "officialTitle": "Proposición no de Ley para la defensa de los transportistas y\nagricultores españoles ante los ataques sufridos en la frontera con\nFrancia.",
+        "type": "regular"
+      },
+      "dateStart": "2024-02-20T18:01:00+01:00",
+      "dateEnd": "2024-02-20T18:04:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_021/cortes/15_000400_021_0_24623_728424.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1528424I",
+        "duration": 180.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_021_0_24623_728424",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Joseba Andoni Agirretxea Urresti",
+          "lastname": "Agirretxea Urresti",
+          "firstname": "Joseba Andoni",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Vasco (EAJ-PNV)"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 24
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 23
+      },
+      "agendaItem": {
+        "title": "Proposición no de Ley para la defensa de los transportistas y\nagricultores españoles ante los ataques sufridos en la frontera con\nFrancia.",
+        "officialTitle": "Proposición no de Ley para la defensa de los transportistas y\nagricultores españoles ante los ataques sufridos en la frontera con\nFrancia.",
+        "type": "regular"
+      },
+      "dateStart": "2024-02-20T18:04:00+01:00",
+      "dateEnd": "2024-02-20T18:09:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_021/cortes/15_000400_021_0_24623_728425.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1528425I",
+        "duration": 300.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_021_0_24623_728425",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Iñaki Ruiz de Pinedo Undiano",
+          "lastname": "Ruiz de Pinedo Undiano",
+          "firstname": "Iñaki",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Euskal Herria Bildu"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 25
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 23
+      },
+      "agendaItem": {
+        "title": "Proposición no de Ley para la defensa de los transportistas y\nagricultores españoles ante los ataques sufridos en la frontera con\nFrancia.",
+        "officialTitle": "Proposición no de Ley para la defensa de los transportistas y\nagricultores españoles ante los ataques sufridos en la frontera con\nFrancia.",
+        "type": "regular"
+      },
+      "dateStart": "2024-02-20T18:10:00+01:00",
+      "dateEnd": "2024-02-20T18:16:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_021/cortes/15_000400_021_0_24623_728426.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1528426I",
+        "duration": 360.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_021_0_24623_728426",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Teresa Jordà i Roura",
+          "lastname": "Jordà i Roura",
+          "firstname": "Teresa",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Republicano"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 26
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 23
+      },
+      "agendaItem": {
+        "title": "Proposición no de Ley para la defensa de los transportistas y\nagricultores españoles ante los ataques sufridos en la frontera con\nFrancia.",
+        "officialTitle": "Proposición no de Ley para la defensa de los transportistas y\nagricultores españoles ante los ataques sufridos en la frontera con\nFrancia.",
+        "type": "regular"
+      },
+      "dateStart": "2024-02-20T18:16:00+01:00",
+      "dateEnd": "2024-02-20T18:23:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_021/cortes/15_000400_021_0_24623_728428.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1528428I",
+        "duration": 420.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_021_0_24623_728428",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Juan Antonio Valero Morales",
+          "lastname": "Valero Morales",
+          "firstname": "Juan Antonio",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Plurinacional SUMAR"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 27
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 23
+      },
+      "agendaItem": {
+        "title": "Proposición no de Ley para la defensa de los transportistas y\nagricultores españoles ante los ataques sufridos en la frontera con\nFrancia.",
+        "officialTitle": "Proposición no de Ley para la defensa de los transportistas y\nagricultores españoles ante los ataques sufridos en la frontera con\nFrancia.",
+        "type": "regular"
+      },
+      "dateStart": "2024-02-20T18:23:00+01:00",
+      "dateEnd": "2024-02-20T18:29:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_021/cortes/15_000400_021_0_24623_728429.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1528429I",
+        "duration": 360.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_021_0_24623_728429",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "María Luisa Faneca López",
+          "lastname": "Faneca López",
+          "firstname": "María Luisa",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Socialista"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 28
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 23
+      },
+      "agendaItem": {
+        "title": "Proposición no de Ley para la defensa de los transportistas y\nagricultores españoles ante los ataques sufridos en la frontera con\nFrancia.",
+        "officialTitle": "Proposición no de Ley para la defensa de los transportistas y\nagricultores españoles ante los ataques sufridos en la frontera con\nFrancia.",
+        "type": "regular"
+      },
+      "dateStart": "2024-02-20T18:30:00+01:00",
+      "dateEnd": "2024-02-20T18:38:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_021/cortes/15_000400_021_0_24623_728430.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1528430I",
+        "duration": 480.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_021_0_24623_728430",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Milagros Marcos Ortega",
+          "lastname": "Marcos Ortega",
+          "firstname": "Milagros",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Popular en el Congreso"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 29
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 23
+      },
+      "agendaItem": {
+        "title": "Proposición no de Ley relativa a la reducción de la jornada máxima\nlegal de trabajo ordinario.",
+        "officialTitle": "Proposición no de Ley relativa a la reducción de la jornada máxima\nlegal de trabajo ordinario.",
+        "type": "regular"
+      },
+      "dateStart": "2024-02-20T18:39:00+01:00",
+      "dateEnd": "2024-02-20T18:47:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_021/cortes/15_000400_021_0_24623_728432.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1528432I",
+        "duration": 480.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_021_0_24623_728432",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Íñigo Errejón Galván",
+          "lastname": "Errejón Galván",
+          "firstname": "Íñigo",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Plurinacional SUMAR"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 30
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 23
+      },
+      "agendaItem": {
+        "title": "Proposición no de Ley relativa a la reducción de la jornada máxima\nlegal de trabajo ordinario.",
+        "officialTitle": "Proposición no de Ley relativa a la reducción de la jornada máxima\nlegal de trabajo ordinario.",
+        "type": "regular"
+      },
+      "dateStart": "2024-02-20T18:48:00+01:00",
+      "dateEnd": "2024-02-20T18:50:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_021/cortes/15_000400_021_0_24623_728433.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1528433I",
+        "duration": 120.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_021_0_24623_728433",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Cristina Valido García",
+          "lastname": "Valido García",
+          "firstname": "Cristina",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Mixto"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 31
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 23
+      },
+      "agendaItem": {
+        "title": "Proposición no de Ley relativa a la reducción de la jornada máxima\nlegal de trabajo ordinario.",
+        "officialTitle": "Proposición no de Ley relativa a la reducción de la jornada máxima\nlegal de trabajo ordinario.",
+        "type": "regular"
+      },
+      "dateStart": "2024-02-20T18:51:00+01:00",
+      "dateEnd": "2024-02-20T18:54:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_021/cortes/15_000400_021_0_24623_728434.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1528434I",
+        "duration": 180.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_021_0_24623_728434",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Néstor Rego Candamil",
+          "lastname": "Rego Candamil",
+          "firstname": "Néstor",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Mixto"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 32
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 23
+      },
+      "agendaItem": {
+        "title": "Proposición no de Ley relativa a la reducción de la jornada máxima\nlegal de trabajo ordinario.",
+        "officialTitle": "Proposición no de Ley relativa a la reducción de la jornada máxima\nlegal de trabajo ordinario.",
+        "type": "regular"
+      },
+      "dateStart": "2024-02-20T18:54:00+01:00",
+      "dateEnd": "2024-02-20T18:57:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_021/cortes/15_000400_021_0_24623_728435.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1528435I",
+        "duration": 180.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_021_0_24623_728435",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Noemí Santana Perera",
+          "lastname": "Santana Perera",
+          "firstname": "Noemí",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Mixto"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 33
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 23
+      },
+      "agendaItem": {
+        "title": "Proposición no de Ley relativa a la reducción de la jornada máxima\nlegal de trabajo ordinario.",
+        "officialTitle": "Proposición no de Ley relativa a la reducción de la jornada máxima\nlegal de trabajo ordinario.",
+        "type": "regular"
+      },
+      "dateStart": "2024-02-20T18:58:00+01:00",
+      "dateEnd": "2024-02-20T19:02:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_021/cortes/15_000400_021_0_24623_728436.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1528436I",
+        "duration": 240.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_021_0_24623_728436",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Idoia Sagastizabal Unzetabarrenetxea",
+          "lastname": "Sagastizabal Unzetabarrenetxea",
+          "firstname": "Idoia",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Vasco (EAJ-PNV)"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 34
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 23
+      },
+      "agendaItem": {
+        "title": "Proposición no de Ley relativa a la reducción de la jornada máxima\nlegal de trabajo ordinario.",
+        "officialTitle": "Proposición no de Ley relativa a la reducción de la jornada máxima\nlegal de trabajo ordinario.",
+        "type": "regular"
+      },
+      "dateStart": "2024-02-20T19:03:00+01:00",
+      "dateEnd": "2024-02-20T19:09:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_021/cortes/15_000400_021_0_24623_728437.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1528437I",
+        "duration": 360.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_021_0_24623_728437",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Oskar Matute García de Jalón",
+          "lastname": "Matute García de Jalón",
+          "firstname": "Oskar",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Euskal Herria Bildu"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 35
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 23
+      },
+      "agendaItem": {
+        "title": "Proposición no de Ley relativa a la reducción de la jornada máxima\nlegal de trabajo ordinario.",
+        "officialTitle": "Proposición no de Ley relativa a la reducción de la jornada máxima\nlegal de trabajo ordinario.",
+        "type": "regular"
+      },
+      "dateStart": "2024-02-20T19:10:00+01:00",
+      "dateEnd": "2024-02-20T19:14:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_021/cortes/15_000400_021_0_24623_728438.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1528438I",
+        "duration": 240.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_021_0_24623_728438",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Josep Maria Cervera Pinart",
+          "lastname": "Cervera Pinart",
+          "firstname": "Josep Maria",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Junts per Catalunya"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 36
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 23
+      },
+      "agendaItem": {
+        "title": "Proposición no de Ley relativa a la reducción de la jornada máxima\nlegal de trabajo ordinario.",
+        "officialTitle": "Proposición no de Ley relativa a la reducción de la jornada máxima\nlegal de trabajo ordinario.",
+        "type": "regular"
+      },
+      "dateStart": "2024-02-20T19:15:00+01:00",
+      "dateEnd": "2024-02-20T19:20:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_021/cortes/15_000400_021_0_24623_728439.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1528439I",
+        "duration": 300.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_021_0_24623_728439",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Jordi Salvador i Duch",
+          "lastname": "Salvador i Duch",
+          "firstname": "Jordi",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Republicano"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 37
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 23
+      },
+      "agendaItem": {
+        "title": "Proposición no de Ley relativa a la reducción de la jornada máxima\nlegal de trabajo ordinario.",
+        "officialTitle": "Proposición no de Ley relativa a la reducción de la jornada máxima\nlegal de trabajo ordinario.",
+        "type": "regular"
+      },
+      "dateStart": "2024-02-20T19:21:00+01:00",
+      "dateEnd": "2024-02-20T19:27:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_021/cortes/15_000400_021_0_24623_728440.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1528440I",
+        "duration": 360.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_021_0_24623_728440",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "David García Gomis",
+          "lastname": "García Gomis",
+          "firstname": "David",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario VOX"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 38
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 23
+      },
+      "agendaItem": {
+        "title": "Proposición no de Ley relativa a la reducción de la jornada máxima\nlegal de trabajo ordinario.",
+        "officialTitle": "Proposición no de Ley relativa a la reducción de la jornada máxima\nlegal de trabajo ordinario.",
+        "type": "regular"
+      },
+      "dateStart": "2024-02-20T19:28:00+01:00",
+      "dateEnd": "2024-02-20T19:34:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_021/cortes/15_000400_021_0_24623_728441.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1528441I",
+        "duration": 360.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_021_0_24623_728441",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "María Luisa García Gurrutxaga",
+          "lastname": "García Gurrutxaga",
+          "firstname": "María Luisa",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Socialista"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 39
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 23
+      },
+      "agendaItem": {
+        "title": "Proposición no de Ley relativa a la reducción de la jornada máxima\nlegal de trabajo ordinario.",
+        "officialTitle": "Proposición no de Ley relativa a la reducción de la jornada máxima\nlegal de trabajo ordinario.",
+        "type": "regular"
+      },
+      "dateStart": "2024-02-20T19:35:00+01:00",
+      "dateEnd": "2024-02-20T19:36:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_021/cortes/15_000400_021_0_24623_728442.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1528442I",
+        "duration": 60.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_021_0_24623_728442",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Ana Belén Vázquez Blanco",
+          "lastname": "Vázquez Blanco",
+          "firstname": "Ana Belén",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Popular en el Congreso"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 40
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 23
+      },
+      "agendaItem": {
+        "title": "Proposición no de Ley relativa a la reducción de la jornada máxima\nlegal de trabajo ordinario.",
+        "officialTitle": "Proposición no de Ley relativa a la reducción de la jornada máxima\nlegal de trabajo ordinario.",
+        "type": "regular"
+      },
+      "dateStart": "2024-02-20T19:37:00+01:00",
+      "dateEnd": "2024-02-20T19:43:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_021/cortes/15_000400_021_0_24623_728447.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1528447I",
+        "duration": 360.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_021_0_24623_728447",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "María Isabel Prieto Serrano",
+          "lastname": "Prieto Serrano",
+          "firstname": "María Isabel",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Popular en el Congreso"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 41
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 23
+      },
+      "agendaItem": {
+        "title": "Proposición no de Ley relativa a la reducción de la jornada máxima\nlegal de trabajo ordinario.",
+        "officialTitle": "Proposición no de Ley relativa a la reducción de la jornada máxima\nlegal de trabajo ordinario.",
+        "type": "regular"
+      },
+      "dateStart": "2024-02-20T19:43:00+01:00",
+      "dateEnd": "2024-02-20T19:45:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_021/cortes/15_000400_021_0_24623_728448.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1528448I",
+        "duration": 120.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_021_0_24623_728448",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Néstor Rego Candamil",
+          "lastname": "Rego Candamil",
+          "firstname": "Néstor",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Mixto"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 42
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 23
+      },
+      "agendaItem": {
+        "title": "Moción consecuencia de interpelación urgente sobre las medidas que va\na impulsar el Gobierno para salvaguardar los intereses del campo español\ny garantizar la libertad y viabilidad de nuestro sector primario frente a\nlas imposiciones comunitarias y la competencia desleal extranjera.",
+        "officialTitle": "Moción consecuencia de interpelación urgente sobre las medidas que va\na impulsar el Gobierno para salvaguardar los intereses del campo español\ny garantizar la libertad y viabilidad de nuestro sector primario frente a\nlas imposiciones comunitarias y la competencia desleal extranjera.",
+        "type": "regular",
+        "nativeType": "ES-mocion"
+      },
+      "dateStart": "2024-02-20T19:46:00+01:00",
+      "dateEnd": "2024-02-20T19:55:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_021/cortes/15_000400_021_1_24628_728454.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1528454I",
+        "duration": 540.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_021_1_24628_728454",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Ricardo Chamorro Delmo",
+          "lastname": "Chamorro Delmo",
+          "firstname": "Ricardo",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario VOX"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 43
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 23
+      },
+      "agendaItem": {
+        "title": "Moción consecuencia de interpelación urgente sobre las medidas que va\na impulsar el Gobierno para salvaguardar los intereses del campo español\ny garantizar la libertad y viabilidad de nuestro sector primario frente a\nlas imposiciones comunitarias y la competencia desleal extranjera.",
+        "officialTitle": "Moción consecuencia de interpelación urgente sobre las medidas que va\na impulsar el Gobierno para salvaguardar los intereses del campo español\ny garantizar la libertad y viabilidad de nuestro sector primario frente a\nlas imposiciones comunitarias y la competencia desleal extranjera.",
+        "type": "regular",
+        "nativeType": "ES-mocion"
+      },
+      "dateStart": "2024-02-20T19:57:00+01:00",
+      "dateEnd": "2024-02-20T20:03:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_021/cortes/15_000400_021_1_24628_728455.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1528455I",
+        "duration": 360.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_021_1_24628_728455",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Javier José Folch Blanc",
+          "lastname": "Folch Blanc",
+          "firstname": "Javier José",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Popular en el Congreso"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 44
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 23
+      },
+      "agendaItem": {
+        "title": "Moción consecuencia de interpelación urgente sobre las medidas que va\na impulsar el Gobierno para salvaguardar los intereses del campo español\ny garantizar la libertad y viabilidad de nuestro sector primario frente a\nlas imposiciones comunitarias y la competencia desleal extranjera.",
+        "officialTitle": "Moción consecuencia de interpelación urgente sobre las medidas que va\na impulsar el Gobierno para salvaguardar los intereses del campo español\ny garantizar la libertad y viabilidad de nuestro sector primario frente a\nlas imposiciones comunitarias y la competencia desleal extranjera.",
+        "type": "regular",
+        "nativeType": "ES-mocion"
+      },
+      "dateStart": "2024-02-20T20:04:00+01:00",
+      "dateEnd": "2024-02-20T20:08:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_021/cortes/15_000400_021_1_24628_728456.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1528456I",
+        "duration": 240.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_021_1_24628_728456",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Javier Sánchez Serna",
+          "lastname": "Sánchez Serna",
+          "firstname": "Javier",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Mixto"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 45
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 23
+      },
+      "agendaItem": {
+        "title": "Moción consecuencia de interpelación urgente sobre las medidas que va\na impulsar el Gobierno para salvaguardar los intereses del campo español\ny garantizar la libertad y viabilidad de nuestro sector primario frente a\nlas imposiciones comunitarias y la competencia desleal extranjera.",
+        "officialTitle": "Moción consecuencia de interpelación urgente sobre las medidas que va\na impulsar el Gobierno para salvaguardar los intereses del campo español\ny garantizar la libertad y viabilidad de nuestro sector primario frente a\nlas imposiciones comunitarias y la competencia desleal extranjera.",
+        "type": "regular",
+        "nativeType": "ES-mocion"
+      },
+      "dateStart": "2024-02-20T20:08:00+01:00",
+      "dateEnd": "2024-02-20T20:13:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_021/cortes/15_000400_021_1_24628_728457.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1528457I",
+        "duration": 300.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_021_1_24628_728457",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Joseba Andoni Agirretxea Urresti",
+          "lastname": "Agirretxea Urresti",
+          "firstname": "Joseba Andoni",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Vasco (EAJ-PNV)"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 46
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 23
+      },
+      "agendaItem": {
+        "title": "Moción consecuencia de interpelación urgente sobre las medidas que va\na impulsar el Gobierno para salvaguardar los intereses del campo español\ny garantizar la libertad y viabilidad de nuestro sector primario frente a\nlas imposiciones comunitarias y la competencia desleal extranjera.",
+        "officialTitle": "Moción consecuencia de interpelación urgente sobre las medidas que va\na impulsar el Gobierno para salvaguardar los intereses del campo español\ny garantizar la libertad y viabilidad de nuestro sector primario frente a\nlas imposiciones comunitarias y la competencia desleal extranjera.",
+        "type": "regular",
+        "nativeType": "ES-mocion"
+      },
+      "dateStart": "2024-02-20T20:13:00+01:00",
+      "dateEnd": "2024-02-20T20:20:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_021/cortes/15_000400_021_1_24628_728458.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1528458I",
+        "duration": 420.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_021_1_24628_728458",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Àgueda Micó Micó",
+          "lastname": "Micó Micó",
+          "firstname": "Àgueda",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Plurinacional SUMAR"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 47
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 23
+      },
+      "agendaItem": {
+        "title": "Moción consecuencia de interpelación urgente sobre las medidas que va\na impulsar el Gobierno para salvaguardar los intereses del campo español\ny garantizar la libertad y viabilidad de nuestro sector primario frente a\nlas imposiciones comunitarias y la competencia desleal extranjera.",
+        "officialTitle": "Moción consecuencia de interpelación urgente sobre las medidas que va\na impulsar el Gobierno para salvaguardar los intereses del campo español\ny garantizar la libertad y viabilidad de nuestro sector primario frente a\nlas imposiciones comunitarias y la competencia desleal extranjera.",
+        "type": "regular",
+        "nativeType": "ES-mocion"
+      },
+      "dateStart": "2024-02-20T20:20:00+01:00",
+      "dateEnd": "2024-02-20T20:26:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_021/cortes/15_000400_021_1_24628_728459.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1528459I",
+        "duration": 360.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_021_1_24628_728459",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Sergio Carlos Matos Castro",
+          "lastname": "Matos Castro",
+          "firstname": "Sergio Carlos",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Socialista"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 48
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 23
+      },
+      "agendaItem": {
+        "title": "Moción consecuencia de interpelación urgente sobre las medidas que va\na impulsar el Gobierno para salvaguardar los intereses del campo español\ny garantizar la libertad y viabilidad de nuestro sector primario frente a\nlas imposiciones comunitarias y la competencia desleal extranjera.",
+        "officialTitle": "Moción consecuencia de interpelación urgente sobre las medidas que va\na impulsar el Gobierno para salvaguardar los intereses del campo español\ny garantizar la libertad y viabilidad de nuestro sector primario frente a\nlas imposiciones comunitarias y la competencia desleal extranjera.",
+        "type": "regular",
+        "nativeType": "ES-mocion"
+      },
+      "dateStart": "2024-02-20T20:27:00+01:00",
+      "dateEnd": "2024-02-20T20:27:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_021/cortes/15_000400_021_1_24628_728460.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1528460I",
+        "duration": 0.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_021_1_24628_728460",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Ricardo Chamorro Delmo",
+          "lastname": "Chamorro Delmo",
+          "firstname": "Ricardo",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario VOX"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 49
+    }
+  ]
+}

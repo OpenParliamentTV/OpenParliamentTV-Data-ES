@@ -1,0 +1,1699 @@
+{
+  "meta": {
+    "session": "15011",
+    "processing": {
+      "parse_media": "2026-05-23T07:17:41"
+    },
+    "dateStart": "2023-12-05T15:04:00+01:00",
+    "dateEnd": "2023-12-05T18:55:00+01:00"
+  },
+  "data": [
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 11
+      },
+      "agendaItem": {
+        "title": "Juramento o promesa de acatamiento de la Constitución",
+        "officialTitle": "Juramento o promesa de acatamiento de la Constitución",
+        "type": "oath",
+        "nativeType": "ES-juramento"
+      },
+      "dateStart": "2023-12-05T15:04:00+01:00",
+      "dateEnd": "2023-12-05T15:04:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_010/cortes/15_000400_010_0_24386_726227.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1526227I",
+        "duration": 0.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_010_0_24386_726227",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Javier Rodríguez Palacios",
+          "lastname": "Rodríguez Palacios",
+          "firstname": "Javier",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Socialista"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 1
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 11
+      },
+      "agendaItem": {
+        "title": "Juramento o promesa de acatamiento de la Constitución",
+        "officialTitle": "Juramento o promesa de acatamiento de la Constitución",
+        "type": "oath",
+        "nativeType": "ES-juramento"
+      },
+      "dateStart": "2023-12-05T15:04:00+01:00",
+      "dateEnd": "2023-12-05T15:04:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_010/cortes/15_000400_010_0_24386_726228.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1526228I",
+        "duration": 0.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_010_0_24386_726228",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Hana Jalloul Muro",
+          "lastname": "Jalloul Muro",
+          "firstname": "Hana",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Socialista"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 2
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 11
+      },
+      "agendaItem": {
+        "title": "Juramento o promesa de acatamiento de la Constitución",
+        "officialTitle": "Juramento o promesa de acatamiento de la Constitución",
+        "type": "oath",
+        "nativeType": "ES-juramento"
+      },
+      "dateStart": "2023-12-05T15:04:00+01:00",
+      "dateEnd": "2023-12-05T15:05:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_010/cortes/15_000400_010_0_24386_726229.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1526229I",
+        "duration": 60.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_010_0_24386_726229",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Víctor Gutiérrez Santiago",
+          "lastname": "Gutiérrez Santiago",
+          "firstname": "Víctor",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Socialista"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 3
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 11
+      },
+      "agendaItem": {
+        "title": "Solicitud de comparecencia del Ministro de Asuntos Exteriores, Unión\nEuropea y Cooperación en funciones ante el Pleno de la Cámara, para que\nexponga la valoración sobre el ataque terrorista que ha sufrido Israel,\nla situación en la que se encuentran los españoles en la región, las\nlíneas de acción que tomará el Gobierno en funciones y cómo afecta a\nnuestra política exterior este conflicto.",
+        "officialTitle": "Solicitud de comparecencia del Ministro de Asuntos Exteriores, Unión\nEuropea y Cooperación en funciones ante el Pleno de la Cámara, para que\nexponga la valoración sobre el ataque terrorista que ha sufrido Israel,\nla situación en la que se encuentran los españoles en la región, las\nlíneas de acción que tomará el Gobierno en funciones y cómo afecta a\nnuestra política exterior este conflicto.",
+        "type": "briefing",
+        "nativeType": "ES-comparecencia"
+      },
+      "dateStart": "2023-12-05T15:06:00+01:00",
+      "dateEnd": "2023-12-05T15:38:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_010/cortes/15_000400_010_0_24386_726200.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1526200I",
+        "duration": 1920.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_010_0_24386_726200",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "José Manuel Albares Bueno",
+          "lastname": "Albares Bueno",
+          "firstname": "José Manuel",
+          "type": "member of government",
+          "role": "Ministro de Asuntos Exteriores, Unión Europea y Cooperación",
+          "faction": {
+            "label": "Grupo Parlamentario Socialista"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 4
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 11
+      },
+      "agendaItem": {
+        "title": "Solicitud de comparecencia, a petición propia, del Ministro de\nAsuntos Exteriores, Unión Europea y Cooperación, ante el Pleno de la\nCámara, para explicar la posición del Gobierno de España ante la\nsituación en Gaza, Israel y Oriente Medio.",
+        "officialTitle": "Solicitud de comparecencia, a petición propia, del Ministro de\nAsuntos Exteriores, Unión Europea y Cooperación, ante el Pleno de la\nCámara, para explicar la posición del Gobierno de España ante la\nsituación en Gaza, Israel y Oriente Medio.",
+        "type": "briefing",
+        "nativeType": "ES-comparecencia"
+      },
+      "dateStart": "2023-12-05T15:06:00+01:00",
+      "dateEnd": "2023-12-05T15:38:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_010/cortes/15_000400_010_0_24386_726200.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1526200I",
+        "duration": 1920.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_010_0_24386_726200",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "José Manuel Albares Bueno",
+          "lastname": "Albares Bueno",
+          "firstname": "José Manuel",
+          "type": "member of government",
+          "role": "Ministro de Asuntos Exteriores, Unión Europea y Cooperación",
+          "faction": {
+            "label": "Grupo Parlamentario Socialista"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 5
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 11
+      },
+      "agendaItem": {
+        "title": "Solicitud de comparecencia del Ministro de Asuntos Exteriores, Unión\nEuropea y Cooperación en funciones ante el Pleno de la Cámara, para que\nexponga la valoración sobre el ataque terrorista que ha sufrido Israel,\nla situación en la que se encuentran los españoles en la región, las\nlíneas de acción que tomará el Gobierno en funciones y cómo afecta a\nnuestra política exterior este conflicto.",
+        "officialTitle": "Solicitud de comparecencia del Ministro de Asuntos Exteriores, Unión\nEuropea y Cooperación en funciones ante el Pleno de la Cámara, para que\nexponga la valoración sobre el ataque terrorista que ha sufrido Israel,\nla situación en la que se encuentran los españoles en la región, las\nlíneas de acción que tomará el Gobierno en funciones y cómo afecta a\nnuestra política exterior este conflicto.",
+        "type": "briefing",
+        "nativeType": "ES-comparecencia"
+      },
+      "dateStart": "2023-12-05T15:39:00+01:00",
+      "dateEnd": "2023-12-05T15:48:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_010/cortes/15_000400_010_0_24386_726201.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1526201I",
+        "duration": 540.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_010_0_24386_726201",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Esteban González Pons",
+          "lastname": "González Pons",
+          "firstname": "Esteban",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Popular en el Congreso"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 6
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 11
+      },
+      "agendaItem": {
+        "title": "Solicitud de comparecencia, a petición propia, del Ministro de\nAsuntos Exteriores, Unión Europea y Cooperación, ante el Pleno de la\nCámara, para explicar la posición del Gobierno de España ante la\nsituación en Gaza, Israel y Oriente Medio.",
+        "officialTitle": "Solicitud de comparecencia, a petición propia, del Ministro de\nAsuntos Exteriores, Unión Europea y Cooperación, ante el Pleno de la\nCámara, para explicar la posición del Gobierno de España ante la\nsituación en Gaza, Israel y Oriente Medio.",
+        "type": "briefing",
+        "nativeType": "ES-comparecencia"
+      },
+      "dateStart": "2023-12-05T15:39:00+01:00",
+      "dateEnd": "2023-12-05T15:48:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_010/cortes/15_000400_010_0_24386_726201.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1526201I",
+        "duration": 540.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_010_0_24386_726201",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Esteban González Pons",
+          "lastname": "González Pons",
+          "firstname": "Esteban",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Popular en el Congreso"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 7
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 11
+      },
+      "agendaItem": {
+        "title": "Solicitud de comparecencia del Ministro de Asuntos Exteriores, Unión\nEuropea y Cooperación en funciones ante el Pleno de la Cámara, para que\nexponga la valoración sobre el ataque terrorista que ha sufrido Israel,\nla situación en la que se encuentran los españoles en la región, las\nlíneas de acción que tomará el Gobierno en funciones y cómo afecta a\nnuestra política exterior este conflicto.",
+        "officialTitle": "Solicitud de comparecencia del Ministro de Asuntos Exteriores, Unión\nEuropea y Cooperación en funciones ante el Pleno de la Cámara, para que\nexponga la valoración sobre el ataque terrorista que ha sufrido Israel,\nla situación en la que se encuentran los españoles en la región, las\nlíneas de acción que tomará el Gobierno en funciones y cómo afecta a\nnuestra política exterior este conflicto.",
+        "type": "briefing",
+        "nativeType": "ES-comparecencia"
+      },
+      "dateStart": "2023-12-05T15:49:00+01:00",
+      "dateEnd": "2023-12-05T15:59:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_010/cortes/15_000400_010_0_24386_726202.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1526202I",
+        "duration": 600.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_010_0_24386_726202",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "María José Rodríguez de Millán Parro",
+          "lastname": "Rodríguez de Millán Parro",
+          "firstname": "María José",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario VOX"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 8
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 11
+      },
+      "agendaItem": {
+        "title": "Solicitud de comparecencia, a petición propia, del Ministro de\nAsuntos Exteriores, Unión Europea y Cooperación, ante el Pleno de la\nCámara, para explicar la posición del Gobierno de España ante la\nsituación en Gaza, Israel y Oriente Medio.",
+        "officialTitle": "Solicitud de comparecencia, a petición propia, del Ministro de\nAsuntos Exteriores, Unión Europea y Cooperación, ante el Pleno de la\nCámara, para explicar la posición del Gobierno de España ante la\nsituación en Gaza, Israel y Oriente Medio.",
+        "type": "briefing",
+        "nativeType": "ES-comparecencia"
+      },
+      "dateStart": "2023-12-05T15:49:00+01:00",
+      "dateEnd": "2023-12-05T15:59:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_010/cortes/15_000400_010_0_24386_726202.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1526202I",
+        "duration": 600.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_010_0_24386_726202",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "María José Rodríguez de Millán Parro",
+          "lastname": "Rodríguez de Millán Parro",
+          "firstname": "María José",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario VOX"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 9
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 11
+      },
+      "agendaItem": {
+        "title": "Solicitud de comparecencia del Ministro de Asuntos Exteriores, Unión\nEuropea y Cooperación en funciones ante el Pleno de la Cámara, para que\nexponga la valoración sobre el ataque terrorista que ha sufrido Israel,\nla situación en la que se encuentran los españoles en la región, las\nlíneas de acción que tomará el Gobierno en funciones y cómo afecta a\nnuestra política exterior este conflicto.",
+        "officialTitle": "Solicitud de comparecencia del Ministro de Asuntos Exteriores, Unión\nEuropea y Cooperación en funciones ante el Pleno de la Cámara, para que\nexponga la valoración sobre el ataque terrorista que ha sufrido Israel,\nla situación en la que se encuentran los españoles en la región, las\nlíneas de acción que tomará el Gobierno en funciones y cómo afecta a\nnuestra política exterior este conflicto.",
+        "type": "briefing",
+        "nativeType": "ES-comparecencia"
+      },
+      "dateStart": "2023-12-05T16:00:00+01:00",
+      "dateEnd": "2023-12-05T16:10:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_010/cortes/15_000400_010_0_24386_726203.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1526203I",
+        "duration": 600.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_010_0_24386_726203",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Agustín Santos Maraver",
+          "lastname": "Santos Maraver",
+          "firstname": "Agustín",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Plurinacional SUMAR"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 10
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 11
+      },
+      "agendaItem": {
+        "title": "Solicitud de comparecencia, a petición propia, del Ministro de\nAsuntos Exteriores, Unión Europea y Cooperación, ante el Pleno de la\nCámara, para explicar la posición del Gobierno de España ante la\nsituación en Gaza, Israel y Oriente Medio.",
+        "officialTitle": "Solicitud de comparecencia, a petición propia, del Ministro de\nAsuntos Exteriores, Unión Europea y Cooperación, ante el Pleno de la\nCámara, para explicar la posición del Gobierno de España ante la\nsituación en Gaza, Israel y Oriente Medio.",
+        "type": "briefing",
+        "nativeType": "ES-comparecencia"
+      },
+      "dateStart": "2023-12-05T16:00:00+01:00",
+      "dateEnd": "2023-12-05T16:10:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_010/cortes/15_000400_010_0_24386_726203.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1526203I",
+        "duration": 600.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_010_0_24386_726203",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Agustín Santos Maraver",
+          "lastname": "Santos Maraver",
+          "firstname": "Agustín",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Plurinacional SUMAR"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 11
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 11
+      },
+      "agendaItem": {
+        "title": "Solicitud de comparecencia del Ministro de Asuntos Exteriores, Unión\nEuropea y Cooperación en funciones ante el Pleno de la Cámara, para que\nexponga la valoración sobre el ataque terrorista que ha sufrido Israel,\nla situación en la que se encuentran los españoles en la región, las\nlíneas de acción que tomará el Gobierno en funciones y cómo afecta a\nnuestra política exterior este conflicto.",
+        "officialTitle": "Solicitud de comparecencia del Ministro de Asuntos Exteriores, Unión\nEuropea y Cooperación en funciones ante el Pleno de la Cámara, para que\nexponga la valoración sobre el ataque terrorista que ha sufrido Israel,\nla situación en la que se encuentran los españoles en la región, las\nlíneas de acción que tomará el Gobierno en funciones y cómo afecta a\nnuestra política exterior este conflicto.",
+        "type": "briefing",
+        "nativeType": "ES-comparecencia"
+      },
+      "dateStart": "2023-12-05T16:11:00+01:00",
+      "dateEnd": "2023-12-05T16:21:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_010/cortes/15_000400_010_0_24386_726204.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1526204I",
+        "duration": 600.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_010_0_24386_726204",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Gabriel Rufián Romero",
+          "lastname": "Rufián Romero",
+          "firstname": "Gabriel",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Republicano"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 12
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 11
+      },
+      "agendaItem": {
+        "title": "Solicitud de comparecencia, a petición propia, del Ministro de\nAsuntos Exteriores, Unión Europea y Cooperación, ante el Pleno de la\nCámara, para explicar la posición del Gobierno de España ante la\nsituación en Gaza, Israel y Oriente Medio.",
+        "officialTitle": "Solicitud de comparecencia, a petición propia, del Ministro de\nAsuntos Exteriores, Unión Europea y Cooperación, ante el Pleno de la\nCámara, para explicar la posición del Gobierno de España ante la\nsituación en Gaza, Israel y Oriente Medio.",
+        "type": "briefing",
+        "nativeType": "ES-comparecencia"
+      },
+      "dateStart": "2023-12-05T16:11:00+01:00",
+      "dateEnd": "2023-12-05T16:21:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_010/cortes/15_000400_010_0_24386_726204.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1526204I",
+        "duration": 600.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_010_0_24386_726204",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Gabriel Rufián Romero",
+          "lastname": "Rufián Romero",
+          "firstname": "Gabriel",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Republicano"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 13
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 11
+      },
+      "agendaItem": {
+        "title": "Solicitud de comparecencia del Ministro de Asuntos Exteriores, Unión\nEuropea y Cooperación en funciones ante el Pleno de la Cámara, para que\nexponga la valoración sobre el ataque terrorista que ha sufrido Israel,\nla situación en la que se encuentran los españoles en la región, las\nlíneas de acción que tomará el Gobierno en funciones y cómo afecta a\nnuestra política exterior este conflicto.",
+        "officialTitle": "Solicitud de comparecencia del Ministro de Asuntos Exteriores, Unión\nEuropea y Cooperación en funciones ante el Pleno de la Cámara, para que\nexponga la valoración sobre el ataque terrorista que ha sufrido Israel,\nla situación en la que se encuentran los españoles en la región, las\nlíneas de acción que tomará el Gobierno en funciones y cómo afecta a\nnuestra política exterior este conflicto.",
+        "type": "briefing",
+        "nativeType": "ES-comparecencia"
+      },
+      "dateStart": "2023-12-05T16:22:00+01:00",
+      "dateEnd": "2023-12-05T16:32:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_010/cortes/15_000400_010_0_24386_726205.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1526205I",
+        "duration": 600.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_010_0_24386_726205",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Marta Madrenas i Mir",
+          "lastname": "Madrenas i Mir",
+          "firstname": "Marta",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Junts per Catalunya"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 14
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 11
+      },
+      "agendaItem": {
+        "title": "Solicitud de comparecencia, a petición propia, del Ministro de\nAsuntos Exteriores, Unión Europea y Cooperación, ante el Pleno de la\nCámara, para explicar la posición del Gobierno de España ante la\nsituación en Gaza, Israel y Oriente Medio.",
+        "officialTitle": "Solicitud de comparecencia, a petición propia, del Ministro de\nAsuntos Exteriores, Unión Europea y Cooperación, ante el Pleno de la\nCámara, para explicar la posición del Gobierno de España ante la\nsituación en Gaza, Israel y Oriente Medio.",
+        "type": "briefing",
+        "nativeType": "ES-comparecencia"
+      },
+      "dateStart": "2023-12-05T16:22:00+01:00",
+      "dateEnd": "2023-12-05T16:32:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_010/cortes/15_000400_010_0_24386_726205.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1526205I",
+        "duration": 600.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_010_0_24386_726205",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Marta Madrenas i Mir",
+          "lastname": "Madrenas i Mir",
+          "firstname": "Marta",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Junts per Catalunya"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 15
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 11
+      },
+      "agendaItem": {
+        "title": "Solicitud de comparecencia del Ministro de Asuntos Exteriores, Unión\nEuropea y Cooperación en funciones ante el Pleno de la Cámara, para que\nexponga la valoración sobre el ataque terrorista que ha sufrido Israel,\nla situación en la que se encuentran los españoles en la región, las\nlíneas de acción que tomará el Gobierno en funciones y cómo afecta a\nnuestra política exterior este conflicto.",
+        "officialTitle": "Solicitud de comparecencia del Ministro de Asuntos Exteriores, Unión\nEuropea y Cooperación en funciones ante el Pleno de la Cámara, para que\nexponga la valoración sobre el ataque terrorista que ha sufrido Israel,\nla situación en la que se encuentran los españoles en la región, las\nlíneas de acción que tomará el Gobierno en funciones y cómo afecta a\nnuestra política exterior este conflicto.",
+        "type": "briefing",
+        "nativeType": "ES-comparecencia"
+      },
+      "dateStart": "2023-12-05T16:33:00+01:00",
+      "dateEnd": "2023-12-05T16:43:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_010/cortes/15_000400_010_0_24386_726206.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1526206I",
+        "duration": 600.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_010_0_24386_726206",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Oskar Matute García de Jalón",
+          "lastname": "Matute García de Jalón",
+          "firstname": "Oskar",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Euskal Herria Bildu"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 16
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 11
+      },
+      "agendaItem": {
+        "title": "Solicitud de comparecencia, a petición propia, del Ministro de\nAsuntos Exteriores, Unión Europea y Cooperación, ante el Pleno de la\nCámara, para explicar la posición del Gobierno de España ante la\nsituación en Gaza, Israel y Oriente Medio.",
+        "officialTitle": "Solicitud de comparecencia, a petición propia, del Ministro de\nAsuntos Exteriores, Unión Europea y Cooperación, ante el Pleno de la\nCámara, para explicar la posición del Gobierno de España ante la\nsituación en Gaza, Israel y Oriente Medio.",
+        "type": "briefing",
+        "nativeType": "ES-comparecencia"
+      },
+      "dateStart": "2023-12-05T16:33:00+01:00",
+      "dateEnd": "2023-12-05T16:43:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_010/cortes/15_000400_010_0_24386_726206.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1526206I",
+        "duration": 600.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_010_0_24386_726206",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Oskar Matute García de Jalón",
+          "lastname": "Matute García de Jalón",
+          "firstname": "Oskar",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Euskal Herria Bildu"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 17
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 11
+      },
+      "agendaItem": {
+        "title": "Solicitud de comparecencia del Ministro de Asuntos Exteriores, Unión\nEuropea y Cooperación en funciones ante el Pleno de la Cámara, para que\nexponga la valoración sobre el ataque terrorista que ha sufrido Israel,\nla situación en la que se encuentran los españoles en la región, las\nlíneas de acción que tomará el Gobierno en funciones y cómo afecta a\nnuestra política exterior este conflicto.",
+        "officialTitle": "Solicitud de comparecencia del Ministro de Asuntos Exteriores, Unión\nEuropea y Cooperación en funciones ante el Pleno de la Cámara, para que\nexponga la valoración sobre el ataque terrorista que ha sufrido Israel,\nla situación en la que se encuentran los españoles en la región, las\nlíneas de acción que tomará el Gobierno en funciones y cómo afecta a\nnuestra política exterior este conflicto.",
+        "type": "briefing",
+        "nativeType": "ES-comparecencia"
+      },
+      "dateStart": "2023-12-05T16:44:00+01:00",
+      "dateEnd": "2023-12-05T16:55:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_010/cortes/15_000400_010_0_24386_726207.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1526207I",
+        "duration": 660.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_010_0_24386_726207",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Mikel Legarda Uriarte",
+          "lastname": "Legarda Uriarte",
+          "firstname": "Mikel",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Vasco (EAJ-PNV)"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 18
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 11
+      },
+      "agendaItem": {
+        "title": "Solicitud de comparecencia, a petición propia, del Ministro de\nAsuntos Exteriores, Unión Europea y Cooperación, ante el Pleno de la\nCámara, para explicar la posición del Gobierno de España ante la\nsituación en Gaza, Israel y Oriente Medio.",
+        "officialTitle": "Solicitud de comparecencia, a petición propia, del Ministro de\nAsuntos Exteriores, Unión Europea y Cooperación, ante el Pleno de la\nCámara, para explicar la posición del Gobierno de España ante la\nsituación en Gaza, Israel y Oriente Medio.",
+        "type": "briefing",
+        "nativeType": "ES-comparecencia"
+      },
+      "dateStart": "2023-12-05T16:44:00+01:00",
+      "dateEnd": "2023-12-05T16:55:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_010/cortes/15_000400_010_0_24386_726207.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1526207I",
+        "duration": 660.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_010_0_24386_726207",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Mikel Legarda Uriarte",
+          "lastname": "Legarda Uriarte",
+          "firstname": "Mikel",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Vasco (EAJ-PNV)"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 19
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 11
+      },
+      "agendaItem": {
+        "title": "Solicitud de comparecencia del Ministro de Asuntos Exteriores, Unión\nEuropea y Cooperación en funciones ante el Pleno de la Cámara, para que\nexponga la valoración sobre el ataque terrorista que ha sufrido Israel,\nla situación en la que se encuentran los españoles en la región, las\nlíneas de acción que tomará el Gobierno en funciones y cómo afecta a\nnuestra política exterior este conflicto.",
+        "officialTitle": "Solicitud de comparecencia del Ministro de Asuntos Exteriores, Unión\nEuropea y Cooperación en funciones ante el Pleno de la Cámara, para que\nexponga la valoración sobre el ataque terrorista que ha sufrido Israel,\nla situación en la que se encuentran los españoles en la región, las\nlíneas de acción que tomará el Gobierno en funciones y cómo afecta a\nnuestra política exterior este conflicto.",
+        "type": "briefing",
+        "nativeType": "ES-comparecencia"
+      },
+      "dateStart": "2023-12-05T16:56:00+01:00",
+      "dateEnd": "2023-12-05T17:03:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_010/cortes/15_000400_010_0_24386_726208.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1526208I",
+        "duration": 420.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_010_0_24386_726208",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Néstor Rego Candamil",
+          "lastname": "Rego Candamil",
+          "firstname": "Néstor",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Mixto"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 20
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 11
+      },
+      "agendaItem": {
+        "title": "Solicitud de comparecencia, a petición propia, del Ministro de\nAsuntos Exteriores, Unión Europea y Cooperación, ante el Pleno de la\nCámara, para explicar la posición del Gobierno de España ante la\nsituación en Gaza, Israel y Oriente Medio.",
+        "officialTitle": "Solicitud de comparecencia, a petición propia, del Ministro de\nAsuntos Exteriores, Unión Europea y Cooperación, ante el Pleno de la\nCámara, para explicar la posición del Gobierno de España ante la\nsituación en Gaza, Israel y Oriente Medio.",
+        "type": "briefing",
+        "nativeType": "ES-comparecencia"
+      },
+      "dateStart": "2023-12-05T16:56:00+01:00",
+      "dateEnd": "2023-12-05T17:03:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_010/cortes/15_000400_010_0_24386_726208.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1526208I",
+        "duration": 420.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_010_0_24386_726208",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Néstor Rego Candamil",
+          "lastname": "Rego Candamil",
+          "firstname": "Néstor",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Mixto"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 21
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 11
+      },
+      "agendaItem": {
+        "title": "Solicitud de comparecencia del Ministro de Asuntos Exteriores, Unión\nEuropea y Cooperación en funciones ante el Pleno de la Cámara, para que\nexponga la valoración sobre el ataque terrorista que ha sufrido Israel,\nla situación en la que se encuentran los españoles en la región, las\nlíneas de acción que tomará el Gobierno en funciones y cómo afecta a\nnuestra política exterior este conflicto.",
+        "officialTitle": "Solicitud de comparecencia del Ministro de Asuntos Exteriores, Unión\nEuropea y Cooperación en funciones ante el Pleno de la Cámara, para que\nexponga la valoración sobre el ataque terrorista que ha sufrido Israel,\nla situación en la que se encuentran los españoles en la región, las\nlíneas de acción que tomará el Gobierno en funciones y cómo afecta a\nnuestra política exterior este conflicto.",
+        "type": "briefing",
+        "nativeType": "ES-comparecencia"
+      },
+      "dateStart": "2023-12-05T17:03:00+01:00",
+      "dateEnd": "2023-12-05T17:09:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_010/cortes/15_000400_010_0_24386_726209.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1526209I",
+        "duration": 360.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_010_0_24386_726209",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Cristina Valido García",
+          "lastname": "Valido García",
+          "firstname": "Cristina",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Mixto"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 22
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 11
+      },
+      "agendaItem": {
+        "title": "Solicitud de comparecencia, a petición propia, del Ministro de\nAsuntos Exteriores, Unión Europea y Cooperación, ante el Pleno de la\nCámara, para explicar la posición del Gobierno de España ante la\nsituación en Gaza, Israel y Oriente Medio.",
+        "officialTitle": "Solicitud de comparecencia, a petición propia, del Ministro de\nAsuntos Exteriores, Unión Europea y Cooperación, ante el Pleno de la\nCámara, para explicar la posición del Gobierno de España ante la\nsituación en Gaza, Israel y Oriente Medio.",
+        "type": "briefing",
+        "nativeType": "ES-comparecencia"
+      },
+      "dateStart": "2023-12-05T17:03:00+01:00",
+      "dateEnd": "2023-12-05T17:09:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_010/cortes/15_000400_010_0_24386_726209.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1526209I",
+        "duration": 360.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_010_0_24386_726209",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Cristina Valido García",
+          "lastname": "Valido García",
+          "firstname": "Cristina",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Mixto"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 23
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 11
+      },
+      "agendaItem": {
+        "title": "Solicitud de comparecencia del Ministro de Asuntos Exteriores, Unión\nEuropea y Cooperación en funciones ante el Pleno de la Cámara, para que\nexponga la valoración sobre el ataque terrorista que ha sufrido Israel,\nla situación en la que se encuentran los españoles en la región, las\nlíneas de acción que tomará el Gobierno en funciones y cómo afecta a\nnuestra política exterior este conflicto.",
+        "officialTitle": "Solicitud de comparecencia del Ministro de Asuntos Exteriores, Unión\nEuropea y Cooperación en funciones ante el Pleno de la Cámara, para que\nexponga la valoración sobre el ataque terrorista que ha sufrido Israel,\nla situación en la que se encuentran los españoles en la región, las\nlíneas de acción que tomará el Gobierno en funciones y cómo afecta a\nnuestra política exterior este conflicto.",
+        "type": "briefing",
+        "nativeType": "ES-comparecencia"
+      },
+      "dateStart": "2023-12-05T17:09:00+01:00",
+      "dateEnd": "2023-12-05T17:14:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_010/cortes/15_000400_010_0_24386_726210.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1526210I",
+        "duration": 300.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_010_0_24386_726210",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Alberto Catalán Higueras",
+          "lastname": "Catalán Higueras",
+          "firstname": "Alberto",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Mixto"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 24
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 11
+      },
+      "agendaItem": {
+        "title": "Solicitud de comparecencia, a petición propia, del Ministro de\nAsuntos Exteriores, Unión Europea y Cooperación, ante el Pleno de la\nCámara, para explicar la posición del Gobierno de España ante la\nsituación en Gaza, Israel y Oriente Medio.",
+        "officialTitle": "Solicitud de comparecencia, a petición propia, del Ministro de\nAsuntos Exteriores, Unión Europea y Cooperación, ante el Pleno de la\nCámara, para explicar la posición del Gobierno de España ante la\nsituación en Gaza, Israel y Oriente Medio.",
+        "type": "briefing",
+        "nativeType": "ES-comparecencia"
+      },
+      "dateStart": "2023-12-05T17:09:00+01:00",
+      "dateEnd": "2023-12-05T17:14:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_010/cortes/15_000400_010_0_24386_726210.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1526210I",
+        "duration": 300.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_010_0_24386_726210",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Alberto Catalán Higueras",
+          "lastname": "Catalán Higueras",
+          "firstname": "Alberto",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Mixto"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 25
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 11
+      },
+      "agendaItem": {
+        "title": "Solicitud de comparecencia del Ministro de Asuntos Exteriores, Unión\nEuropea y Cooperación en funciones ante el Pleno de la Cámara, para que\nexponga la valoración sobre el ataque terrorista que ha sufrido Israel,\nla situación en la que se encuentran los españoles en la región, las\nlíneas de acción que tomará el Gobierno en funciones y cómo afecta a\nnuestra política exterior este conflicto.",
+        "officialTitle": "Solicitud de comparecencia del Ministro de Asuntos Exteriores, Unión\nEuropea y Cooperación en funciones ante el Pleno de la Cámara, para que\nexponga la valoración sobre el ataque terrorista que ha sufrido Israel,\nla situación en la que se encuentran los españoles en la región, las\nlíneas de acción que tomará el Gobierno en funciones y cómo afecta a\nnuestra política exterior este conflicto.",
+        "type": "briefing",
+        "nativeType": "ES-comparecencia"
+      },
+      "dateStart": "2023-12-05T17:15:00+01:00",
+      "dateEnd": "2023-12-05T17:25:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_010/cortes/15_000400_010_0_24386_726211.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1526211I",
+        "duration": 600.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_010_0_24386_726211",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Sergio Gutiérrez Prieto",
+          "lastname": "Gutiérrez Prieto",
+          "firstname": "Sergio",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Socialista"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 26
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 11
+      },
+      "agendaItem": {
+        "title": "Solicitud de comparecencia, a petición propia, del Ministro de\nAsuntos Exteriores, Unión Europea y Cooperación, ante el Pleno de la\nCámara, para explicar la posición del Gobierno de España ante la\nsituación en Gaza, Israel y Oriente Medio.",
+        "officialTitle": "Solicitud de comparecencia, a petición propia, del Ministro de\nAsuntos Exteriores, Unión Europea y Cooperación, ante el Pleno de la\nCámara, para explicar la posición del Gobierno de España ante la\nsituación en Gaza, Israel y Oriente Medio.",
+        "type": "briefing",
+        "nativeType": "ES-comparecencia"
+      },
+      "dateStart": "2023-12-05T17:15:00+01:00",
+      "dateEnd": "2023-12-05T17:25:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_010/cortes/15_000400_010_0_24386_726211.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1526211I",
+        "duration": 600.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_010_0_24386_726211",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Sergio Gutiérrez Prieto",
+          "lastname": "Gutiérrez Prieto",
+          "firstname": "Sergio",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Socialista"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 27
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 11
+      },
+      "agendaItem": {
+        "title": "Solicitud de comparecencia del Ministro de Asuntos Exteriores, Unión\nEuropea y Cooperación en funciones ante el Pleno de la Cámara, para que\nexponga la valoración sobre el ataque terrorista que ha sufrido Israel,\nla situación en la que se encuentran los españoles en la región, las\nlíneas de acción que tomará el Gobierno en funciones y cómo afecta a\nnuestra política exterior este conflicto.",
+        "officialTitle": "Solicitud de comparecencia del Ministro de Asuntos Exteriores, Unión\nEuropea y Cooperación en funciones ante el Pleno de la Cámara, para que\nexponga la valoración sobre el ataque terrorista que ha sufrido Israel,\nla situación en la que se encuentran los españoles en la región, las\nlíneas de acción que tomará el Gobierno en funciones y cómo afecta a\nnuestra política exterior este conflicto.",
+        "type": "briefing",
+        "nativeType": "ES-comparecencia"
+      },
+      "dateStart": "2023-12-05T17:26:00+01:00",
+      "dateEnd": "2023-12-05T18:03:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_010/cortes/15_000400_010_0_24386_726212.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1526212I",
+        "duration": 2220.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_010_0_24386_726212",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "José Manuel Albares Bueno",
+          "lastname": "Albares Bueno",
+          "firstname": "José Manuel",
+          "type": "member of government",
+          "role": "Ministro de Asuntos Exteriores, Unión Europea y Cooperación",
+          "faction": {
+            "label": "Grupo Parlamentario Socialista"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 28
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 11
+      },
+      "agendaItem": {
+        "title": "Solicitud de comparecencia, a petición propia, del Ministro de\nAsuntos Exteriores, Unión Europea y Cooperación, ante el Pleno de la\nCámara, para explicar la posición del Gobierno de España ante la\nsituación en Gaza, Israel y Oriente Medio.",
+        "officialTitle": "Solicitud de comparecencia, a petición propia, del Ministro de\nAsuntos Exteriores, Unión Europea y Cooperación, ante el Pleno de la\nCámara, para explicar la posición del Gobierno de España ante la\nsituación en Gaza, Israel y Oriente Medio.",
+        "type": "briefing",
+        "nativeType": "ES-comparecencia"
+      },
+      "dateStart": "2023-12-05T17:26:00+01:00",
+      "dateEnd": "2023-12-05T18:03:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_010/cortes/15_000400_010_0_24386_726212.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1526212I",
+        "duration": 2220.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_010_0_24386_726212",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "José Manuel Albares Bueno",
+          "lastname": "Albares Bueno",
+          "firstname": "José Manuel",
+          "type": "member of government",
+          "role": "Ministro de Asuntos Exteriores, Unión Europea y Cooperación",
+          "faction": {
+            "label": "Grupo Parlamentario Socialista"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 29
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 11
+      },
+      "agendaItem": {
+        "title": "Solicitud de comparecencia del Ministro de Asuntos Exteriores, Unión\nEuropea y Cooperación en funciones ante el Pleno de la Cámara, para que\nexponga la valoración sobre el ataque terrorista que ha sufrido Israel,\nla situación en la que se encuentran los españoles en la región, las\nlíneas de acción que tomará el Gobierno en funciones y cómo afecta a\nnuestra política exterior este conflicto.",
+        "officialTitle": "Solicitud de comparecencia del Ministro de Asuntos Exteriores, Unión\nEuropea y Cooperación en funciones ante el Pleno de la Cámara, para que\nexponga la valoración sobre el ataque terrorista que ha sufrido Israel,\nla situación en la que se encuentran los españoles en la región, las\nlíneas de acción que tomará el Gobierno en funciones y cómo afecta a\nnuestra política exterior este conflicto.",
+        "type": "briefing",
+        "nativeType": "ES-comparecencia"
+      },
+      "dateStart": "2023-12-05T18:03:00+01:00",
+      "dateEnd": "2023-12-05T18:08:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_010/cortes/15_000400_010_0_24386_726213.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1526213I",
+        "duration": 300.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_010_0_24386_726213",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Esteban González Pons",
+          "lastname": "González Pons",
+          "firstname": "Esteban",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Popular en el Congreso"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 30
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 11
+      },
+      "agendaItem": {
+        "title": "Solicitud de comparecencia, a petición propia, del Ministro de\nAsuntos Exteriores, Unión Europea y Cooperación, ante el Pleno de la\nCámara, para explicar la posición del Gobierno de España ante la\nsituación en Gaza, Israel y Oriente Medio.",
+        "officialTitle": "Solicitud de comparecencia, a petición propia, del Ministro de\nAsuntos Exteriores, Unión Europea y Cooperación, ante el Pleno de la\nCámara, para explicar la posición del Gobierno de España ante la\nsituación en Gaza, Israel y Oriente Medio.",
+        "type": "briefing",
+        "nativeType": "ES-comparecencia"
+      },
+      "dateStart": "2023-12-05T18:03:00+01:00",
+      "dateEnd": "2023-12-05T18:08:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_010/cortes/15_000400_010_0_24386_726213.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1526213I",
+        "duration": 300.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_010_0_24386_726213",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Esteban González Pons",
+          "lastname": "González Pons",
+          "firstname": "Esteban",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Popular en el Congreso"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 31
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 11
+      },
+      "agendaItem": {
+        "title": "Solicitud de comparecencia del Ministro de Asuntos Exteriores, Unión\nEuropea y Cooperación en funciones ante el Pleno de la Cámara, para que\nexponga la valoración sobre el ataque terrorista que ha sufrido Israel,\nla situación en la que se encuentran los españoles en la región, las\nlíneas de acción que tomará el Gobierno en funciones y cómo afecta a\nnuestra política exterior este conflicto.",
+        "officialTitle": "Solicitud de comparecencia del Ministro de Asuntos Exteriores, Unión\nEuropea y Cooperación en funciones ante el Pleno de la Cámara, para que\nexponga la valoración sobre el ataque terrorista que ha sufrido Israel,\nla situación en la que se encuentran los españoles en la región, las\nlíneas de acción que tomará el Gobierno en funciones y cómo afecta a\nnuestra política exterior este conflicto.",
+        "type": "briefing",
+        "nativeType": "ES-comparecencia"
+      },
+      "dateStart": "2023-12-05T18:09:00+01:00",
+      "dateEnd": "2023-12-05T18:13:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_010/cortes/15_000400_010_0_24386_726214.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1526214I",
+        "duration": 240.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_010_0_24386_726214",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "María José Rodríguez de Millán Parro",
+          "lastname": "Rodríguez de Millán Parro",
+          "firstname": "María José",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario VOX"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 32
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 11
+      },
+      "agendaItem": {
+        "title": "Solicitud de comparecencia, a petición propia, del Ministro de\nAsuntos Exteriores, Unión Europea y Cooperación, ante el Pleno de la\nCámara, para explicar la posición del Gobierno de España ante la\nsituación en Gaza, Israel y Oriente Medio.",
+        "officialTitle": "Solicitud de comparecencia, a petición propia, del Ministro de\nAsuntos Exteriores, Unión Europea y Cooperación, ante el Pleno de la\nCámara, para explicar la posición del Gobierno de España ante la\nsituación en Gaza, Israel y Oriente Medio.",
+        "type": "briefing",
+        "nativeType": "ES-comparecencia"
+      },
+      "dateStart": "2023-12-05T18:09:00+01:00",
+      "dateEnd": "2023-12-05T18:13:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_010/cortes/15_000400_010_0_24386_726214.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1526214I",
+        "duration": 240.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_010_0_24386_726214",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "María José Rodríguez de Millán Parro",
+          "lastname": "Rodríguez de Millán Parro",
+          "firstname": "María José",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario VOX"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 33
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 11
+      },
+      "agendaItem": {
+        "title": "Solicitud de comparecencia del Ministro de Asuntos Exteriores, Unión\nEuropea y Cooperación en funciones ante el Pleno de la Cámara, para que\nexponga la valoración sobre el ataque terrorista que ha sufrido Israel,\nla situación en la que se encuentran los españoles en la región, las\nlíneas de acción que tomará el Gobierno en funciones y cómo afecta a\nnuestra política exterior este conflicto.",
+        "officialTitle": "Solicitud de comparecencia del Ministro de Asuntos Exteriores, Unión\nEuropea y Cooperación en funciones ante el Pleno de la Cámara, para que\nexponga la valoración sobre el ataque terrorista que ha sufrido Israel,\nla situación en la que se encuentran los españoles en la región, las\nlíneas de acción que tomará el Gobierno en funciones y cómo afecta a\nnuestra política exterior este conflicto.",
+        "type": "briefing",
+        "nativeType": "ES-comparecencia"
+      },
+      "dateStart": "2023-12-05T18:14:00+01:00",
+      "dateEnd": "2023-12-05T18:19:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_010/cortes/15_000400_010_0_24386_726215.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1526215I",
+        "duration": 300.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_010_0_24386_726215",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Agustín Santos Maraver",
+          "lastname": "Santos Maraver",
+          "firstname": "Agustín",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Plurinacional SUMAR"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 34
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 11
+      },
+      "agendaItem": {
+        "title": "Solicitud de comparecencia, a petición propia, del Ministro de\nAsuntos Exteriores, Unión Europea y Cooperación, ante el Pleno de la\nCámara, para explicar la posición del Gobierno de España ante la\nsituación en Gaza, Israel y Oriente Medio.",
+        "officialTitle": "Solicitud de comparecencia, a petición propia, del Ministro de\nAsuntos Exteriores, Unión Europea y Cooperación, ante el Pleno de la\nCámara, para explicar la posición del Gobierno de España ante la\nsituación en Gaza, Israel y Oriente Medio.",
+        "type": "briefing",
+        "nativeType": "ES-comparecencia"
+      },
+      "dateStart": "2023-12-05T18:14:00+01:00",
+      "dateEnd": "2023-12-05T18:19:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_010/cortes/15_000400_010_0_24386_726215.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1526215I",
+        "duration": 300.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_010_0_24386_726215",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Agustín Santos Maraver",
+          "lastname": "Santos Maraver",
+          "firstname": "Agustín",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Plurinacional SUMAR"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 35
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 11
+      },
+      "agendaItem": {
+        "title": "Solicitud de comparecencia del Ministro de Asuntos Exteriores, Unión\nEuropea y Cooperación en funciones ante el Pleno de la Cámara, para que\nexponga la valoración sobre el ataque terrorista que ha sufrido Israel,\nla situación en la que se encuentran los españoles en la región, las\nlíneas de acción que tomará el Gobierno en funciones y cómo afecta a\nnuestra política exterior este conflicto.",
+        "officialTitle": "Solicitud de comparecencia del Ministro de Asuntos Exteriores, Unión\nEuropea y Cooperación en funciones ante el Pleno de la Cámara, para que\nexponga la valoración sobre el ataque terrorista que ha sufrido Israel,\nla situación en la que se encuentran los españoles en la región, las\nlíneas de acción que tomará el Gobierno en funciones y cómo afecta a\nnuestra política exterior este conflicto.",
+        "type": "briefing",
+        "nativeType": "ES-comparecencia"
+      },
+      "dateStart": "2023-12-05T18:20:00+01:00",
+      "dateEnd": "2023-12-05T18:24:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_010/cortes/15_000400_010_0_24386_726216.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1526216I",
+        "duration": 240.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_010_0_24386_726216",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Mikel Legarda Uriarte",
+          "lastname": "Legarda Uriarte",
+          "firstname": "Mikel",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Vasco (EAJ-PNV)"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 36
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 11
+      },
+      "agendaItem": {
+        "title": "Solicitud de comparecencia, a petición propia, del Ministro de\nAsuntos Exteriores, Unión Europea y Cooperación, ante el Pleno de la\nCámara, para explicar la posición del Gobierno de España ante la\nsituación en Gaza, Israel y Oriente Medio.",
+        "officialTitle": "Solicitud de comparecencia, a petición propia, del Ministro de\nAsuntos Exteriores, Unión Europea y Cooperación, ante el Pleno de la\nCámara, para explicar la posición del Gobierno de España ante la\nsituación en Gaza, Israel y Oriente Medio.",
+        "type": "briefing",
+        "nativeType": "ES-comparecencia"
+      },
+      "dateStart": "2023-12-05T18:20:00+01:00",
+      "dateEnd": "2023-12-05T18:24:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_010/cortes/15_000400_010_0_24386_726216.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1526216I",
+        "duration": 240.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_010_0_24386_726216",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Mikel Legarda Uriarte",
+          "lastname": "Legarda Uriarte",
+          "firstname": "Mikel",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Vasco (EAJ-PNV)"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 37
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 11
+      },
+      "agendaItem": {
+        "title": "Solicitud de comparecencia del Ministro de Asuntos Exteriores, Unión\nEuropea y Cooperación en funciones ante el Pleno de la Cámara, para que\nexponga la valoración sobre el ataque terrorista que ha sufrido Israel,\nla situación en la que se encuentran los españoles en la región, las\nlíneas de acción que tomará el Gobierno en funciones y cómo afecta a\nnuestra política exterior este conflicto.",
+        "officialTitle": "Solicitud de comparecencia del Ministro de Asuntos Exteriores, Unión\nEuropea y Cooperación en funciones ante el Pleno de la Cámara, para que\nexponga la valoración sobre el ataque terrorista que ha sufrido Israel,\nla situación en la que se encuentran los españoles en la región, las\nlíneas de acción que tomará el Gobierno en funciones y cómo afecta a\nnuestra política exterior este conflicto.",
+        "type": "briefing",
+        "nativeType": "ES-comparecencia"
+      },
+      "dateStart": "2023-12-05T18:24:00+01:00",
+      "dateEnd": "2023-12-05T18:30:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_010/cortes/15_000400_010_0_24386_726217.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1526217I",
+        "duration": 360.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_010_0_24386_726217",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Sergio Gutiérrez Prieto",
+          "lastname": "Gutiérrez Prieto",
+          "firstname": "Sergio",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Socialista"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 38
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 11
+      },
+      "agendaItem": {
+        "title": "Solicitud de comparecencia, a petición propia, del Ministro de\nAsuntos Exteriores, Unión Europea y Cooperación, ante el Pleno de la\nCámara, para explicar la posición del Gobierno de España ante la\nsituación en Gaza, Israel y Oriente Medio.",
+        "officialTitle": "Solicitud de comparecencia, a petición propia, del Ministro de\nAsuntos Exteriores, Unión Europea y Cooperación, ante el Pleno de la\nCámara, para explicar la posición del Gobierno de España ante la\nsituación en Gaza, Israel y Oriente Medio.",
+        "type": "briefing",
+        "nativeType": "ES-comparecencia"
+      },
+      "dateStart": "2023-12-05T18:24:00+01:00",
+      "dateEnd": "2023-12-05T18:30:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_010/cortes/15_000400_010_0_24386_726217.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1526217I",
+        "duration": 360.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_010_0_24386_726217",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Sergio Gutiérrez Prieto",
+          "lastname": "Gutiérrez Prieto",
+          "firstname": "Sergio",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Socialista"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 39
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 11
+      },
+      "agendaItem": {
+        "title": "Solicitud de comparecencia del Ministro de Asuntos Exteriores, Unión\nEuropea y Cooperación en funciones ante el Pleno de la Cámara, para que\nexponga la valoración sobre el ataque terrorista que ha sufrido Israel,\nla situación en la que se encuentran los españoles en la región, las\nlíneas de acción que tomará el Gobierno en funciones y cómo afecta a\nnuestra política exterior este conflicto.",
+        "officialTitle": "Solicitud de comparecencia del Ministro de Asuntos Exteriores, Unión\nEuropea y Cooperación en funciones ante el Pleno de la Cámara, para que\nexponga la valoración sobre el ataque terrorista que ha sufrido Israel,\nla situación en la que se encuentran los españoles en la región, las\nlíneas de acción que tomará el Gobierno en funciones y cómo afecta a\nnuestra política exterior este conflicto.",
+        "type": "briefing",
+        "nativeType": "ES-comparecencia"
+      },
+      "dateStart": "2023-12-05T18:30:00+01:00",
+      "dateEnd": "2023-12-05T18:55:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_010/cortes/15_000400_010_0_24386_726218.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1526218I",
+        "duration": 1500.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_010_0_24386_726218",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "José Manuel Albares Bueno",
+          "lastname": "Albares Bueno",
+          "firstname": "José Manuel",
+          "type": "member of government",
+          "role": "Ministro de Asuntos Exteriores, Unión Europea y Cooperación",
+          "faction": {
+            "label": "Grupo Parlamentario Socialista"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 40
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 11
+      },
+      "agendaItem": {
+        "title": "Solicitud de comparecencia, a petición propia, del Ministro de\nAsuntos Exteriores, Unión Europea y Cooperación, ante el Pleno de la\nCámara, para explicar la posición del Gobierno de España ante la\nsituación en Gaza, Israel y Oriente Medio.",
+        "officialTitle": "Solicitud de comparecencia, a petición propia, del Ministro de\nAsuntos Exteriores, Unión Europea y Cooperación, ante el Pleno de la\nCámara, para explicar la posición del Gobierno de España ante la\nsituación en Gaza, Israel y Oriente Medio.",
+        "type": "briefing",
+        "nativeType": "ES-comparecencia"
+      },
+      "dateStart": "2023-12-05T18:30:00+01:00",
+      "dateEnd": "2023-12-05T18:55:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_010/cortes/15_000400_010_0_24386_726218.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1526218I",
+        "duration": 1500.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_010_0_24386_726218",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "José Manuel Albares Bueno",
+          "lastname": "Albares Bueno",
+          "firstname": "José Manuel",
+          "type": "member of government",
+          "role": "Ministro de Asuntos Exteriores, Unión Europea y Cooperación",
+          "faction": {
+            "label": "Grupo Parlamentario Socialista"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 41
+    }
+  ]
+}

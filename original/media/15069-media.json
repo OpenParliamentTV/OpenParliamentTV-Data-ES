@@ -1,0 +1,1464 @@
+{
+  "meta": {
+    "session": "15069",
+    "processing": {
+      "parse_media": "2026-05-23T07:17:41"
+    },
+    "dateStart": "2024-10-10T11:09:00+02:00",
+    "dateEnd": "2024-10-10T12:41:00+02:00"
+  },
+  "data": [
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 69
+      },
+      "agendaItem": {
+        "title": "Proposición de Ley para mejorar la calidad de vida de personas con\nEsclerosis Lateral Amiotrófica y otras enfermedades o procesos de alta\ncomplejidad y curso irreversible.",
+        "officialTitle": "Proposición de Ley para mejorar la calidad de vida de personas con\nEsclerosis Lateral Amiotrófica y otras enfermedades o procesos de alta\ncomplejidad y curso irreversible.",
+        "type": "regular",
+        "nativeType": "ES-ley"
+      },
+      "dateStart": "2024-10-10T11:09:00+02:00",
+      "dateEnd": "2024-10-10T11:12:00+02:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_066/cortes/15_000400_066_0_25310_739564.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1539564I",
+        "duration": 180.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_066_0_25310_739564",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Alberto Catalán Higueras",
+          "lastname": "Catalán Higueras",
+          "firstname": "Alberto",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Mixto"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 1
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 69
+      },
+      "agendaItem": {
+        "title": "Proposición de Ley para mejorar la calidad de vida de personas con\nEsclerosis Lateral Amiotrófica y otras enfermedades o procesos de alta\ncomplejidad y curso irreversible.",
+        "officialTitle": "Proposición de Ley para mejorar la calidad de vida de personas con\nEsclerosis Lateral Amiotrófica y otras enfermedades o procesos de alta\ncomplejidad y curso irreversible.",
+        "type": "regular",
+        "nativeType": "ES-ley"
+      },
+      "dateStart": "2024-10-10T11:12:00+02:00",
+      "dateEnd": "2024-10-10T11:14:00+02:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_066/cortes/15_000400_066_0_25310_739565.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1539565I",
+        "duration": 120.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_066_0_25310_739565",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Cristina Valido García",
+          "lastname": "Valido García",
+          "firstname": "Cristina",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Mixto"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 2
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 69
+      },
+      "agendaItem": {
+        "title": "Proposición de Ley para mejorar la calidad de vida de personas con\nEsclerosis Lateral Amiotrófica y otras enfermedades o procesos de alta\ncomplejidad y curso irreversible.",
+        "officialTitle": "Proposición de Ley para mejorar la calidad de vida de personas con\nEsclerosis Lateral Amiotrófica y otras enfermedades o procesos de alta\ncomplejidad y curso irreversible.",
+        "type": "regular",
+        "nativeType": "ES-ley"
+      },
+      "dateStart": "2024-10-10T11:14:00+02:00",
+      "dateEnd": "2024-10-10T11:16:00+02:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_066/cortes/15_000400_066_0_25310_739567.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1539567I",
+        "duration": 120.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_066_0_25310_739567",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Néstor Rego Candamil",
+          "lastname": "Rego Candamil",
+          "firstname": "Néstor",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Mixto"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 3
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 69
+      },
+      "agendaItem": {
+        "title": "Proposición de Ley para mejorar la calidad de vida de personas con\nEsclerosis Lateral Amiotrófica y otras enfermedades o procesos de alta\ncomplejidad y curso irreversible.",
+        "officialTitle": "Proposición de Ley para mejorar la calidad de vida de personas con\nEsclerosis Lateral Amiotrófica y otras enfermedades o procesos de alta\ncomplejidad y curso irreversible.",
+        "type": "regular",
+        "nativeType": "ES-ley"
+      },
+      "dateStart": "2024-10-10T11:16:00+02:00",
+      "dateEnd": "2024-10-10T11:20:00+02:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_066/cortes/15_000400_066_0_25310_739568.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1539568I",
+        "duration": 240.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_066_0_25310_739568",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Noemí Santana Perera",
+          "lastname": "Santana Perera",
+          "firstname": "Noemí",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Mixto"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 4
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 69
+      },
+      "agendaItem": {
+        "title": "Proposición de Ley para mejorar la calidad de vida de personas con\nEsclerosis Lateral Amiotrófica y otras enfermedades o procesos de alta\ncomplejidad y curso irreversible.",
+        "officialTitle": "Proposición de Ley para mejorar la calidad de vida de personas con\nEsclerosis Lateral Amiotrófica y otras enfermedades o procesos de alta\ncomplejidad y curso irreversible.",
+        "type": "regular",
+        "nativeType": "ES-ley"
+      },
+      "dateStart": "2024-10-10T11:20:00+02:00",
+      "dateEnd": "2024-10-10T11:26:00+02:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_066/cortes/15_000400_066_0_25310_739569.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1539569I",
+        "duration": 360.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_066_0_25310_739569",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Maribel Vaquero Montero",
+          "lastname": "Vaquero Montero",
+          "firstname": "Maribel",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Vasco (EAJ-PNV)"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 5
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 69
+      },
+      "agendaItem": {
+        "title": "Proposición de Ley para mejorar la calidad de vida de personas con\nEsclerosis Lateral Amiotrófica y otras enfermedades o procesos de alta\ncomplejidad y curso irreversible.",
+        "officialTitle": "Proposición de Ley para mejorar la calidad de vida de personas con\nEsclerosis Lateral Amiotrófica y otras enfermedades o procesos de alta\ncomplejidad y curso irreversible.",
+        "type": "regular",
+        "nativeType": "ES-ley"
+      },
+      "dateStart": "2024-10-10T11:26:00+02:00",
+      "dateEnd": "2024-10-10T11:33:00+02:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_066/cortes/15_000400_066_0_25310_739570.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1539570I",
+        "duration": 420.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_066_0_25310_739570",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Iñaki Ruiz de Pinedo Undiano",
+          "lastname": "Ruiz de Pinedo Undiano",
+          "firstname": "Iñaki",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Euskal Herria Bildu"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 6
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 69
+      },
+      "agendaItem": {
+        "title": "Proposición de Ley para mejorar la calidad de vida de personas con\nEsclerosis Lateral Amiotrófica y otras enfermedades o procesos de alta\ncomplejidad y curso irreversible.",
+        "officialTitle": "Proposición de Ley para mejorar la calidad de vida de personas con\nEsclerosis Lateral Amiotrófica y otras enfermedades o procesos de alta\ncomplejidad y curso irreversible.",
+        "type": "regular",
+        "nativeType": "ES-ley"
+      },
+      "dateStart": "2024-10-10T11:33:00+02:00",
+      "dateEnd": "2024-10-10T11:42:00+02:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_066/cortes/15_000400_066_0_25310_739571.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1539571I",
+        "duration": 540.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_066_0_25310_739571",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Pilar Calvo Gómez",
+          "lastname": "Calvo Gómez",
+          "firstname": "Pilar",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Junts per Catalunya"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 7
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 69
+      },
+      "agendaItem": {
+        "title": "Proposición de Ley para mejorar la calidad de vida de personas con\nEsclerosis Lateral Amiotrófica y otras enfermedades o procesos de alta\ncomplejidad y curso irreversible.",
+        "officialTitle": "Proposición de Ley para mejorar la calidad de vida de personas con\nEsclerosis Lateral Amiotrófica y otras enfermedades o procesos de alta\ncomplejidad y curso irreversible.",
+        "type": "regular",
+        "nativeType": "ES-ley"
+      },
+      "dateStart": "2024-10-10T11:42:00+02:00",
+      "dateEnd": "2024-10-10T11:48:00+02:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_066/cortes/15_000400_066_0_25310_739572.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1539572I",
+        "duration": 360.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_066_0_25310_739572",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Jordi Salvador i Duch",
+          "lastname": "Salvador i Duch",
+          "firstname": "Jordi",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Republicano"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 8
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 69
+      },
+      "agendaItem": {
+        "title": "Proposición de Ley para mejorar la calidad de vida de personas con\nEsclerosis Lateral Amiotrófica y otras enfermedades o procesos de alta\ncomplejidad y curso irreversible.",
+        "officialTitle": "Proposición de Ley para mejorar la calidad de vida de personas con\nEsclerosis Lateral Amiotrófica y otras enfermedades o procesos de alta\ncomplejidad y curso irreversible.",
+        "type": "regular",
+        "nativeType": "ES-ley"
+      },
+      "dateStart": "2024-10-10T11:48:00+02:00",
+      "dateEnd": "2024-10-10T11:59:00+02:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_066/cortes/15_000400_066_0_25310_739573.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1539573I",
+        "duration": 660.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_066_0_25310_739573",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Rafael Cofiño Fernández",
+          "lastname": "Cofiño Fernández",
+          "firstname": "Rafael",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Plurinacional SUMAR"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 9
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 69
+      },
+      "agendaItem": {
+        "title": "Proposición de Ley para mejorar la calidad de vida de personas con\nEsclerosis Lateral Amiotrófica y otras enfermedades o procesos de alta\ncomplejidad y curso irreversible.",
+        "officialTitle": "Proposición de Ley para mejorar la calidad de vida de personas con\nEsclerosis Lateral Amiotrófica y otras enfermedades o procesos de alta\ncomplejidad y curso irreversible.",
+        "type": "regular",
+        "nativeType": "ES-ley"
+      },
+      "dateStart": "2024-10-10T11:59:00+02:00",
+      "dateEnd": "2024-10-10T12:07:00+02:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_066/cortes/15_000400_066_0_25310_739574.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1539574I",
+        "duration": 480.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_066_0_25310_739574",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Rocío De Meer Méndez",
+          "lastname": "De Meer Méndez",
+          "firstname": "Rocío",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario VOX"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 10
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 69
+      },
+      "agendaItem": {
+        "title": "Proposición de Ley para mejorar la calidad de vida de personas con\nEsclerosis Lateral Amiotrófica y otras enfermedades o procesos de alta\ncomplejidad y curso irreversible.",
+        "officialTitle": "Proposición de Ley para mejorar la calidad de vida de personas con\nEsclerosis Lateral Amiotrófica y otras enfermedades o procesos de alta\ncomplejidad y curso irreversible.",
+        "type": "regular",
+        "nativeType": "ES-ley"
+      },
+      "dateStart": "2024-10-10T12:07:00+02:00",
+      "dateEnd": "2024-10-10T12:17:00+02:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_066/cortes/15_000400_066_0_25310_739575.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1539575I",
+        "duration": 600.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_066_0_25310_739575",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Maribel García López",
+          "lastname": "García López",
+          "firstname": "Maribel",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Socialista"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 11
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 69
+      },
+      "agendaItem": {
+        "title": "Proposición de Ley para mejorar la calidad de vida de personas con\nEsclerosis Lateral Amiotrófica y otras enfermedades o procesos de alta\ncomplejidad y curso irreversible.",
+        "officialTitle": "Proposición de Ley para mejorar la calidad de vida de personas con\nEsclerosis Lateral Amiotrófica y otras enfermedades o procesos de alta\ncomplejidad y curso irreversible.",
+        "type": "regular",
+        "nativeType": "ES-ley"
+      },
+      "dateStart": "2024-10-10T12:17:00+02:00",
+      "dateEnd": "2024-10-10T12:25:00+02:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_066/cortes/15_000400_066_0_25310_739576.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1539576I",
+        "duration": 480.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_066_0_25310_739576",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Alberto Núñez Feijóo",
+          "lastname": "Núñez Feijóo",
+          "firstname": "Alberto",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Popular en el Congreso"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 12
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 69
+      },
+      "agendaItem": {
+        "title": "Acuerdo entre el Reino de España y la Organización de las Naciones\nUnidas para la Educación, la Ciencia y la Cultura relativo a la\nConferencia del Decenio de los Océanos 2024, que se celebrará del 8 al 12\nde abril de 2024, en Barcelona (España), hecho en París el 4 de abril de\n2024.",
+        "officialTitle": "Acuerdo entre el Reino de España y la Organización de las Naciones\nUnidas para la Educación, la Ciencia y la Cultura relativo a la\nConferencia del Decenio de los Océanos 2024, que se celebrará del 8 al 12\nde abril de 2024, en Barcelona (España), hecho en París el 4 de abril de\n2024.",
+        "type": "regular"
+      },
+      "dateStart": "2024-10-10T12:30:00+02:00",
+      "dateEnd": "2024-10-10T12:32:00+02:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_066/cortes/15_000400_066_0_25310_739586.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1539586I",
+        "duration": 120.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_066_0_25310_739586",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Agustín Santos Maraver",
+          "lastname": "Santos Maraver",
+          "firstname": "Agustín",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Plurinacional SUMAR"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 13
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 69
+      },
+      "agendaItem": {
+        "title": "Acuerdo entre el Reino de España y la Corte Penal Internacional\nrelativo a la ejecución de las penas de la Corte Penal Internacional,\nhecho en La Haya el 8 de diciembre de 2022.",
+        "officialTitle": "Acuerdo entre el Reino de España y la Corte Penal Internacional\nrelativo a la ejecución de las penas de la Corte Penal Internacional,\nhecho en La Haya el 8 de diciembre de 2022.",
+        "type": "regular"
+      },
+      "dateStart": "2024-10-10T12:30:00+02:00",
+      "dateEnd": "2024-10-10T12:32:00+02:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_066/cortes/15_000400_066_0_25310_739586.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1539586I",
+        "duration": 120.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_066_0_25310_739586",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Agustín Santos Maraver",
+          "lastname": "Santos Maraver",
+          "firstname": "Agustín",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Plurinacional SUMAR"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 14
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 69
+      },
+      "agendaItem": {
+        "title": "Acuerdo complementario del Convenio Básico de cooperación científica\ny técnica entre el Reino de España y los Estados Unidos Mexicanos para el\nfinanciamiento de programas y proyectos de cooperación, hecho \"ad\nreferendum\" en Ciudad de México el 9 de marzo de 2022.",
+        "officialTitle": "Acuerdo complementario del Convenio Básico de cooperación científica\ny técnica entre el Reino de España y los Estados Unidos Mexicanos para el\nfinanciamiento de programas y proyectos de cooperación, hecho \"ad\nreferendum\" en Ciudad de México el 9 de marzo de 2022.",
+        "type": "regular"
+      },
+      "dateStart": "2024-10-10T12:30:00+02:00",
+      "dateEnd": "2024-10-10T12:32:00+02:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_066/cortes/15_000400_066_0_25310_739586.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1539586I",
+        "duration": 120.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_066_0_25310_739586",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Agustín Santos Maraver",
+          "lastname": "Santos Maraver",
+          "firstname": "Agustín",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Plurinacional SUMAR"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 15
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 69
+      },
+      "agendaItem": {
+        "title": "Acuerdo entre el Reino de España y los Estados Unidos de América\nsobre la cooperación en el despliegue de agentes de seguridad en el\ninterior de vuelos hacia, desde, o entre ambos países, hecho en Madrid el\n29 de diciembre de 2022.",
+        "officialTitle": "Acuerdo entre el Reino de España y los Estados Unidos de América\nsobre la cooperación en el despliegue de agentes de seguridad en el\ninterior de vuelos hacia, desde, o entre ambos países, hecho en Madrid el\n29 de diciembre de 2022.",
+        "type": "regular"
+      },
+      "dateStart": "2024-10-10T12:30:00+02:00",
+      "dateEnd": "2024-10-10T12:32:00+02:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_066/cortes/15_000400_066_0_25310_739586.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1539586I",
+        "duration": 120.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_066_0_25310_739586",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Agustín Santos Maraver",
+          "lastname": "Santos Maraver",
+          "firstname": "Agustín",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Plurinacional SUMAR"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 16
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 69
+      },
+      "agendaItem": {
+        "title": "Acuerdo sobre Inmunidades y Prerrogativas entre el Reino de España y\nel Banco Centroamericano de Integración Económica, hecho en Madrid el 28\nde julio de 2022.",
+        "officialTitle": "Acuerdo sobre Inmunidades y Prerrogativas entre el Reino de España y\nel Banco Centroamericano de Integración Económica, hecho en Madrid el 28\nde julio de 2022.",
+        "type": "regular"
+      },
+      "dateStart": "2024-10-10T12:30:00+02:00",
+      "dateEnd": "2024-10-10T12:32:00+02:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_066/cortes/15_000400_066_0_25310_739586.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1539586I",
+        "duration": 120.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_066_0_25310_739586",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Agustín Santos Maraver",
+          "lastname": "Santos Maraver",
+          "firstname": "Agustín",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Plurinacional SUMAR"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 17
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 69
+      },
+      "agendaItem": {
+        "title": "Acuerdo en el marco de la Convención de las Naciones Unidas sobre el\nDerecho del Mar relativo a la conservación y el uso sostenible de la\ndiversidad biológica marina de las zonas situadas fuera de la\njurisdicción nacional, hecho en Nueva York el 19 de junio de 2023, y\nexcepción que España desea formular.",
+        "officialTitle": "Acuerdo en el marco de la Convención de las Naciones Unidas sobre el\nDerecho del Mar relativo a la conservación y el uso sostenible de la\ndiversidad biológica marina de las zonas situadas fuera de la\njurisdicción nacional, hecho en Nueva York el 19 de junio de 2023, y\nexcepción que España desea formular.",
+        "type": "regular"
+      },
+      "dateStart": "2024-10-10T12:30:00+02:00",
+      "dateEnd": "2024-10-10T12:32:00+02:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_066/cortes/15_000400_066_0_25310_739586.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1539586I",
+        "duration": 120.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_066_0_25310_739586",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Agustín Santos Maraver",
+          "lastname": "Santos Maraver",
+          "firstname": "Agustín",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Plurinacional SUMAR"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 18
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 69
+      },
+      "agendaItem": {
+        "title": "Acuerdo entre el Reino de España y la Organización de las Naciones\nUnidas para la Educación, la Ciencia y la Cultura relativo a la\nConferencia del Decenio de los Océanos 2024, que se celebrará del 8 al 12\nde abril de 2024, en Barcelona (España), hecho en París el 4 de abril de\n2024.",
+        "officialTitle": "Acuerdo entre el Reino de España y la Organización de las Naciones\nUnidas para la Educación, la Ciencia y la Cultura relativo a la\nConferencia del Decenio de los Océanos 2024, que se celebrará del 8 al 12\nde abril de 2024, en Barcelona (España), hecho en París el 4 de abril de\n2024.",
+        "type": "regular"
+      },
+      "dateStart": "2024-10-10T12:32:00+02:00",
+      "dateEnd": "2024-10-10T12:36:00+02:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_066/cortes/15_000400_066_0_25310_739587.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1539587I",
+        "duration": 240.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_066_0_25310_739587",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "José María Sánchez García",
+          "lastname": "Sánchez García",
+          "firstname": "José María",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario VOX"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 19
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 69
+      },
+      "agendaItem": {
+        "title": "Acuerdo entre el Reino de España y la Corte Penal Internacional\nrelativo a la ejecución de las penas de la Corte Penal Internacional,\nhecho en La Haya el 8 de diciembre de 2022.",
+        "officialTitle": "Acuerdo entre el Reino de España y la Corte Penal Internacional\nrelativo a la ejecución de las penas de la Corte Penal Internacional,\nhecho en La Haya el 8 de diciembre de 2022.",
+        "type": "regular"
+      },
+      "dateStart": "2024-10-10T12:32:00+02:00",
+      "dateEnd": "2024-10-10T12:36:00+02:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_066/cortes/15_000400_066_0_25310_739587.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1539587I",
+        "duration": 240.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_066_0_25310_739587",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "José María Sánchez García",
+          "lastname": "Sánchez García",
+          "firstname": "José María",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario VOX"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 20
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 69
+      },
+      "agendaItem": {
+        "title": "Acuerdo complementario del Convenio Básico de cooperación científica\ny técnica entre el Reino de España y los Estados Unidos Mexicanos para el\nfinanciamiento de programas y proyectos de cooperación, hecho \"ad\nreferendum\" en Ciudad de México el 9 de marzo de 2022.",
+        "officialTitle": "Acuerdo complementario del Convenio Básico de cooperación científica\ny técnica entre el Reino de España y los Estados Unidos Mexicanos para el\nfinanciamiento de programas y proyectos de cooperación, hecho \"ad\nreferendum\" en Ciudad de México el 9 de marzo de 2022.",
+        "type": "regular"
+      },
+      "dateStart": "2024-10-10T12:32:00+02:00",
+      "dateEnd": "2024-10-10T12:36:00+02:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_066/cortes/15_000400_066_0_25310_739587.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1539587I",
+        "duration": 240.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_066_0_25310_739587",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "José María Sánchez García",
+          "lastname": "Sánchez García",
+          "firstname": "José María",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario VOX"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 21
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 69
+      },
+      "agendaItem": {
+        "title": "Acuerdo entre el Reino de España y los Estados Unidos de América\nsobre la cooperación en el despliegue de agentes de seguridad en el\ninterior de vuelos hacia, desde, o entre ambos países, hecho en Madrid el\n29 de diciembre de 2022.",
+        "officialTitle": "Acuerdo entre el Reino de España y los Estados Unidos de América\nsobre la cooperación en el despliegue de agentes de seguridad en el\ninterior de vuelos hacia, desde, o entre ambos países, hecho en Madrid el\n29 de diciembre de 2022.",
+        "type": "regular"
+      },
+      "dateStart": "2024-10-10T12:32:00+02:00",
+      "dateEnd": "2024-10-10T12:36:00+02:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_066/cortes/15_000400_066_0_25310_739587.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1539587I",
+        "duration": 240.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_066_0_25310_739587",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "José María Sánchez García",
+          "lastname": "Sánchez García",
+          "firstname": "José María",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario VOX"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 22
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 69
+      },
+      "agendaItem": {
+        "title": "Acuerdo sobre Inmunidades y Prerrogativas entre el Reino de España y\nel Banco Centroamericano de Integración Económica, hecho en Madrid el 28\nde julio de 2022.",
+        "officialTitle": "Acuerdo sobre Inmunidades y Prerrogativas entre el Reino de España y\nel Banco Centroamericano de Integración Económica, hecho en Madrid el 28\nde julio de 2022.",
+        "type": "regular"
+      },
+      "dateStart": "2024-10-10T12:32:00+02:00",
+      "dateEnd": "2024-10-10T12:36:00+02:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_066/cortes/15_000400_066_0_25310_739587.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1539587I",
+        "duration": 240.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_066_0_25310_739587",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "José María Sánchez García",
+          "lastname": "Sánchez García",
+          "firstname": "José María",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario VOX"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 23
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 69
+      },
+      "agendaItem": {
+        "title": "Acuerdo en el marco de la Convención de las Naciones Unidas sobre el\nDerecho del Mar relativo a la conservación y el uso sostenible de la\ndiversidad biológica marina de las zonas situadas fuera de la\njurisdicción nacional, hecho en Nueva York el 19 de junio de 2023, y\nexcepción que España desea formular.",
+        "officialTitle": "Acuerdo en el marco de la Convención de las Naciones Unidas sobre el\nDerecho del Mar relativo a la conservación y el uso sostenible de la\ndiversidad biológica marina de las zonas situadas fuera de la\njurisdicción nacional, hecho en Nueva York el 19 de junio de 2023, y\nexcepción que España desea formular.",
+        "type": "regular"
+      },
+      "dateStart": "2024-10-10T12:32:00+02:00",
+      "dateEnd": "2024-10-10T12:36:00+02:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_066/cortes/15_000400_066_0_25310_739587.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1539587I",
+        "duration": 240.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_066_0_25310_739587",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "José María Sánchez García",
+          "lastname": "Sánchez García",
+          "firstname": "José María",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario VOX"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 24
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 69
+      },
+      "agendaItem": {
+        "title": "Acuerdo entre el Reino de España y la Organización de las Naciones\nUnidas para la Educación, la Ciencia y la Cultura relativo a la\nConferencia del Decenio de los Océanos 2024, que se celebrará del 8 al 12\nde abril de 2024, en Barcelona (España), hecho en París el 4 de abril de\n2024.",
+        "officialTitle": "Acuerdo entre el Reino de España y la Organización de las Naciones\nUnidas para la Educación, la Ciencia y la Cultura relativo a la\nConferencia del Decenio de los Océanos 2024, que se celebrará del 8 al 12\nde abril de 2024, en Barcelona (España), hecho en París el 4 de abril de\n2024.",
+        "type": "regular"
+      },
+      "dateStart": "2024-10-10T12:36:00+02:00",
+      "dateEnd": "2024-10-10T12:38:00+02:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_066/cortes/15_000400_066_0_25310_739588.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1539588I",
+        "duration": 120.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_066_0_25310_739588",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Pepe Mercadal Baquero",
+          "lastname": "Mercadal Baquero",
+          "firstname": "Pepe",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Socialista"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 25
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 69
+      },
+      "agendaItem": {
+        "title": "Acuerdo entre el Reino de España y la Corte Penal Internacional\nrelativo a la ejecución de las penas de la Corte Penal Internacional,\nhecho en La Haya el 8 de diciembre de 2022.",
+        "officialTitle": "Acuerdo entre el Reino de España y la Corte Penal Internacional\nrelativo a la ejecución de las penas de la Corte Penal Internacional,\nhecho en La Haya el 8 de diciembre de 2022.",
+        "type": "regular"
+      },
+      "dateStart": "2024-10-10T12:36:00+02:00",
+      "dateEnd": "2024-10-10T12:38:00+02:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_066/cortes/15_000400_066_0_25310_739588.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1539588I",
+        "duration": 120.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_066_0_25310_739588",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Pepe Mercadal Baquero",
+          "lastname": "Mercadal Baquero",
+          "firstname": "Pepe",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Socialista"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 26
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 69
+      },
+      "agendaItem": {
+        "title": "Acuerdo complementario del Convenio Básico de cooperación científica\ny técnica entre el Reino de España y los Estados Unidos Mexicanos para el\nfinanciamiento de programas y proyectos de cooperación, hecho \"ad\nreferendum\" en Ciudad de México el 9 de marzo de 2022.",
+        "officialTitle": "Acuerdo complementario del Convenio Básico de cooperación científica\ny técnica entre el Reino de España y los Estados Unidos Mexicanos para el\nfinanciamiento de programas y proyectos de cooperación, hecho \"ad\nreferendum\" en Ciudad de México el 9 de marzo de 2022.",
+        "type": "regular"
+      },
+      "dateStart": "2024-10-10T12:36:00+02:00",
+      "dateEnd": "2024-10-10T12:38:00+02:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_066/cortes/15_000400_066_0_25310_739588.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1539588I",
+        "duration": 120.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_066_0_25310_739588",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Pepe Mercadal Baquero",
+          "lastname": "Mercadal Baquero",
+          "firstname": "Pepe",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Socialista"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 27
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 69
+      },
+      "agendaItem": {
+        "title": "Acuerdo entre el Reino de España y los Estados Unidos de América\nsobre la cooperación en el despliegue de agentes de seguridad en el\ninterior de vuelos hacia, desde, o entre ambos países, hecho en Madrid el\n29 de diciembre de 2022.",
+        "officialTitle": "Acuerdo entre el Reino de España y los Estados Unidos de América\nsobre la cooperación en el despliegue de agentes de seguridad en el\ninterior de vuelos hacia, desde, o entre ambos países, hecho en Madrid el\n29 de diciembre de 2022.",
+        "type": "regular"
+      },
+      "dateStart": "2024-10-10T12:36:00+02:00",
+      "dateEnd": "2024-10-10T12:38:00+02:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_066/cortes/15_000400_066_0_25310_739588.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1539588I",
+        "duration": 120.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_066_0_25310_739588",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Pepe Mercadal Baquero",
+          "lastname": "Mercadal Baquero",
+          "firstname": "Pepe",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Socialista"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 28
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 69
+      },
+      "agendaItem": {
+        "title": "Acuerdo sobre Inmunidades y Prerrogativas entre el Reino de España y\nel Banco Centroamericano de Integración Económica, hecho en Madrid el 28\nde julio de 2022.",
+        "officialTitle": "Acuerdo sobre Inmunidades y Prerrogativas entre el Reino de España y\nel Banco Centroamericano de Integración Económica, hecho en Madrid el 28\nde julio de 2022.",
+        "type": "regular"
+      },
+      "dateStart": "2024-10-10T12:36:00+02:00",
+      "dateEnd": "2024-10-10T12:38:00+02:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_066/cortes/15_000400_066_0_25310_739588.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1539588I",
+        "duration": 120.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_066_0_25310_739588",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Pepe Mercadal Baquero",
+          "lastname": "Mercadal Baquero",
+          "firstname": "Pepe",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Socialista"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 29
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 69
+      },
+      "agendaItem": {
+        "title": "Acuerdo en el marco de la Convención de las Naciones Unidas sobre el\nDerecho del Mar relativo a la conservación y el uso sostenible de la\ndiversidad biológica marina de las zonas situadas fuera de la\njurisdicción nacional, hecho en Nueva York el 19 de junio de 2023, y\nexcepción que España desea formular.",
+        "officialTitle": "Acuerdo en el marco de la Convención de las Naciones Unidas sobre el\nDerecho del Mar relativo a la conservación y el uso sostenible de la\ndiversidad biológica marina de las zonas situadas fuera de la\njurisdicción nacional, hecho en Nueva York el 19 de junio de 2023, y\nexcepción que España desea formular.",
+        "type": "regular"
+      },
+      "dateStart": "2024-10-10T12:36:00+02:00",
+      "dateEnd": "2024-10-10T12:38:00+02:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_066/cortes/15_000400_066_0_25310_739588.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1539588I",
+        "duration": 120.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_066_0_25310_739588",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Pepe Mercadal Baquero",
+          "lastname": "Mercadal Baquero",
+          "firstname": "Pepe",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Socialista"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 30
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 69
+      },
+      "agendaItem": {
+        "title": "Acuerdo entre el Reino de España y la Organización de las Naciones\nUnidas para la Educación, la Ciencia y la Cultura relativo a la\nConferencia del Decenio de los Océanos 2024, que se celebrará del 8 al 12\nde abril de 2024, en Barcelona (España), hecho en París el 4 de abril de\n2024.",
+        "officialTitle": "Acuerdo entre el Reino de España y la Organización de las Naciones\nUnidas para la Educación, la Ciencia y la Cultura relativo a la\nConferencia del Decenio de los Océanos 2024, que se celebrará del 8 al 12\nde abril de 2024, en Barcelona (España), hecho en París el 4 de abril de\n2024.",
+        "type": "regular"
+      },
+      "dateStart": "2024-10-10T12:38:00+02:00",
+      "dateEnd": "2024-10-10T12:41:00+02:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_066/cortes/15_000400_066_0_25310_739589.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1539589I",
+        "duration": 180.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_066_0_25310_739589",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Ricardo Tarno Blanco",
+          "lastname": "Tarno Blanco",
+          "firstname": "Ricardo",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Popular en el Congreso"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 31
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 69
+      },
+      "agendaItem": {
+        "title": "Acuerdo entre el Reino de España y la Corte Penal Internacional\nrelativo a la ejecución de las penas de la Corte Penal Internacional,\nhecho en La Haya el 8 de diciembre de 2022.",
+        "officialTitle": "Acuerdo entre el Reino de España y la Corte Penal Internacional\nrelativo a la ejecución de las penas de la Corte Penal Internacional,\nhecho en La Haya el 8 de diciembre de 2022.",
+        "type": "regular"
+      },
+      "dateStart": "2024-10-10T12:38:00+02:00",
+      "dateEnd": "2024-10-10T12:41:00+02:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_066/cortes/15_000400_066_0_25310_739589.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1539589I",
+        "duration": 180.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_066_0_25310_739589",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Ricardo Tarno Blanco",
+          "lastname": "Tarno Blanco",
+          "firstname": "Ricardo",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Popular en el Congreso"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 32
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 69
+      },
+      "agendaItem": {
+        "title": "Acuerdo complementario del Convenio Básico de cooperación científica\ny técnica entre el Reino de España y los Estados Unidos Mexicanos para el\nfinanciamiento de programas y proyectos de cooperación, hecho \"ad\nreferendum\" en Ciudad de México el 9 de marzo de 2022.",
+        "officialTitle": "Acuerdo complementario del Convenio Básico de cooperación científica\ny técnica entre el Reino de España y los Estados Unidos Mexicanos para el\nfinanciamiento de programas y proyectos de cooperación, hecho \"ad\nreferendum\" en Ciudad de México el 9 de marzo de 2022.",
+        "type": "regular"
+      },
+      "dateStart": "2024-10-10T12:38:00+02:00",
+      "dateEnd": "2024-10-10T12:41:00+02:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_066/cortes/15_000400_066_0_25310_739589.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1539589I",
+        "duration": 180.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_066_0_25310_739589",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Ricardo Tarno Blanco",
+          "lastname": "Tarno Blanco",
+          "firstname": "Ricardo",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Popular en el Congreso"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 33
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 69
+      },
+      "agendaItem": {
+        "title": "Acuerdo entre el Reino de España y los Estados Unidos de América\nsobre la cooperación en el despliegue de agentes de seguridad en el\ninterior de vuelos hacia, desde, o entre ambos países, hecho en Madrid el\n29 de diciembre de 2022.",
+        "officialTitle": "Acuerdo entre el Reino de España y los Estados Unidos de América\nsobre la cooperación en el despliegue de agentes de seguridad en el\ninterior de vuelos hacia, desde, o entre ambos países, hecho en Madrid el\n29 de diciembre de 2022.",
+        "type": "regular"
+      },
+      "dateStart": "2024-10-10T12:38:00+02:00",
+      "dateEnd": "2024-10-10T12:41:00+02:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_066/cortes/15_000400_066_0_25310_739589.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1539589I",
+        "duration": 180.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_066_0_25310_739589",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Ricardo Tarno Blanco",
+          "lastname": "Tarno Blanco",
+          "firstname": "Ricardo",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Popular en el Congreso"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 34
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 69
+      },
+      "agendaItem": {
+        "title": "Acuerdo sobre Inmunidades y Prerrogativas entre el Reino de España y\nel Banco Centroamericano de Integración Económica, hecho en Madrid el 28\nde julio de 2022.",
+        "officialTitle": "Acuerdo sobre Inmunidades y Prerrogativas entre el Reino de España y\nel Banco Centroamericano de Integración Económica, hecho en Madrid el 28\nde julio de 2022.",
+        "type": "regular"
+      },
+      "dateStart": "2024-10-10T12:38:00+02:00",
+      "dateEnd": "2024-10-10T12:41:00+02:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_066/cortes/15_000400_066_0_25310_739589.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1539589I",
+        "duration": 180.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_066_0_25310_739589",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Ricardo Tarno Blanco",
+          "lastname": "Tarno Blanco",
+          "firstname": "Ricardo",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Popular en el Congreso"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 35
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 69
+      },
+      "agendaItem": {
+        "title": "Acuerdo en el marco de la Convención de las Naciones Unidas sobre el\nDerecho del Mar relativo a la conservación y el uso sostenible de la\ndiversidad biológica marina de las zonas situadas fuera de la\njurisdicción nacional, hecho en Nueva York el 19 de junio de 2023, y\nexcepción que España desea formular.",
+        "officialTitle": "Acuerdo en el marco de la Convención de las Naciones Unidas sobre el\nDerecho del Mar relativo a la conservación y el uso sostenible de la\ndiversidad biológica marina de las zonas situadas fuera de la\njurisdicción nacional, hecho en Nueva York el 19 de junio de 2023, y\nexcepción que España desea formular.",
+        "type": "regular"
+      },
+      "dateStart": "2024-10-10T12:38:00+02:00",
+      "dateEnd": "2024-10-10T12:41:00+02:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_066/cortes/15_000400_066_0_25310_739589.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1539589I",
+        "duration": 180.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_066_0_25310_739589",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Ricardo Tarno Blanco",
+          "lastname": "Tarno Blanco",
+          "firstname": "Ricardo",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Popular en el Congreso"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 36
+    }
+  ]
+}

@@ -1,0 +1,1560 @@
+{
+  "meta": {
+    "session": "15096",
+    "processing": {
+      "parse_media": "2026-05-23T07:17:41"
+    },
+    "dateStart": "2025-02-18T15:02:00+01:00",
+    "dateEnd": "2025-02-18T19:30:00+01:00"
+  },
+  "data": [
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 96
+      },
+      "agendaItem": {
+        "title": "Juramento o promesa de acatamiento de la Constitución",
+        "officialTitle": "Juramento o promesa de acatamiento de la Constitución",
+        "type": "oath",
+        "nativeType": "ES-juramento"
+      },
+      "dateStart": "2025-02-18T15:02:00+01:00",
+      "dateEnd": "2025-02-18T15:03:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_092/cortes/15_000400_092_0_25787_747464.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1547464I",
+        "duration": 60.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_092_0_25787_747464",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Mikel Otero Gabirondo",
+          "lastname": "Otero Gabirondo",
+          "firstname": "Mikel",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Euskal Herria Bildu"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 1
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 96
+      },
+      "agendaItem": {
+        "title": "Proposición de Ley de modificación de la Ley 19/1994, de 6 de julio,\nde modificación del Régimen Económico y Fiscal de Canarias, para la\nregulación de las inversiones en elementos patrimoniales afectos a la\nactividad de arrendamiento de vivienda en las Islas Canarias.",
+        "officialTitle": "Proposición de Ley de modificación de la Ley 19/1994, de 6 de julio,\nde modificación del Régimen Económico y Fiscal de Canarias, para la\nregulación de las inversiones en elementos patrimoniales afectos a la\nactividad de arrendamiento de vivienda en las Islas Canarias.",
+        "type": "regular",
+        "nativeType": "ES-ley"
+      },
+      "dateStart": "2025-02-18T15:03:00+01:00",
+      "dateEnd": "2025-02-18T15:17:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_092/cortes/15_000400_092_0_25787_747467.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1547467I",
+        "duration": 840.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_092_0_25787_747467",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "María Dolores Corujo Berriel",
+          "lastname": "Corujo Berriel",
+          "firstname": "María Dolores",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Socialista"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 2
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 96
+      },
+      "agendaItem": {
+        "title": "Proposición de Ley de modificación de la Ley 19/1994, de 6 de julio,\nde modificación del Régimen Económico y Fiscal de Canarias, para la\nregulación de las inversiones en elementos patrimoniales afectos a la\nactividad de arrendamiento de vivienda en las Islas Canarias.",
+        "officialTitle": "Proposición de Ley de modificación de la Ley 19/1994, de 6 de julio,\nde modificación del Régimen Económico y Fiscal de Canarias, para la\nregulación de las inversiones en elementos patrimoniales afectos a la\nactividad de arrendamiento de vivienda en las Islas Canarias.",
+        "type": "regular",
+        "nativeType": "ES-ley"
+      },
+      "dateStart": "2025-02-18T15:17:00+01:00",
+      "dateEnd": "2025-02-18T15:26:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_092/cortes/15_000400_092_0_25787_747468.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1547468I",
+        "duration": 540.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_092_0_25787_747468",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Cristina Valido García",
+          "lastname": "Valido García",
+          "firstname": "Cristina",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Mixto"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 3
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 96
+      },
+      "agendaItem": {
+        "title": "Proposición de Ley de modificación de la Ley 19/1994, de 6 de julio,\nde modificación del Régimen Económico y Fiscal de Canarias, para la\nregulación de las inversiones en elementos patrimoniales afectos a la\nactividad de arrendamiento de vivienda en las Islas Canarias.",
+        "officialTitle": "Proposición de Ley de modificación de la Ley 19/1994, de 6 de julio,\nde modificación del Régimen Económico y Fiscal de Canarias, para la\nregulación de las inversiones en elementos patrimoniales afectos a la\nactividad de arrendamiento de vivienda en las Islas Canarias.",
+        "type": "regular",
+        "nativeType": "ES-ley"
+      },
+      "dateStart": "2025-02-18T15:26:00+01:00",
+      "dateEnd": "2025-02-18T15:31:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_092/cortes/15_000400_092_0_25787_747469.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1547469I",
+        "duration": 300.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_092_0_25787_747469",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Noemí Santana Perera",
+          "lastname": "Santana Perera",
+          "firstname": "Noemí",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Mixto"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 4
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 96
+      },
+      "agendaItem": {
+        "title": "Proposición de Ley de modificación de la Ley 19/1994, de 6 de julio,\nde modificación del Régimen Económico y Fiscal de Canarias, para la\nregulación de las inversiones en elementos patrimoniales afectos a la\nactividad de arrendamiento de vivienda en las Islas Canarias.",
+        "officialTitle": "Proposición de Ley de modificación de la Ley 19/1994, de 6 de julio,\nde modificación del Régimen Económico y Fiscal de Canarias, para la\nregulación de las inversiones en elementos patrimoniales afectos a la\nactividad de arrendamiento de vivienda en las Islas Canarias.",
+        "type": "regular",
+        "nativeType": "ES-ley"
+      },
+      "dateStart": "2025-02-18T15:31:00+01:00",
+      "dateEnd": "2025-02-18T15:33:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_092/cortes/15_000400_092_0_25787_747470.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1547470I",
+        "duration": 120.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_092_0_25787_747470",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Idoia Sagastizabal Unzetabarrenetxea",
+          "lastname": "Sagastizabal Unzetabarrenetxea",
+          "firstname": "Idoia",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Vasco (EAJ-PNV)"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 5
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 96
+      },
+      "agendaItem": {
+        "title": "Proposición de Ley de modificación de la Ley 19/1994, de 6 de julio,\nde modificación del Régimen Económico y Fiscal de Canarias, para la\nregulación de las inversiones en elementos patrimoniales afectos a la\nactividad de arrendamiento de vivienda en las Islas Canarias.",
+        "officialTitle": "Proposición de Ley de modificación de la Ley 19/1994, de 6 de julio,\nde modificación del Régimen Económico y Fiscal de Canarias, para la\nregulación de las inversiones en elementos patrimoniales afectos a la\nactividad de arrendamiento de vivienda en las Islas Canarias.",
+        "type": "regular",
+        "nativeType": "ES-ley"
+      },
+      "dateStart": "2025-02-18T15:33:00+01:00",
+      "dateEnd": "2025-02-18T15:42:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_092/cortes/15_000400_092_0_25787_747472.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1547472I",
+        "duration": 540.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_092_0_25787_747472",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Engracia Rivera Arias",
+          "lastname": "Rivera Arias",
+          "firstname": "Engracia",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Plurinacional SUMAR"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 6
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 96
+      },
+      "agendaItem": {
+        "title": "Proposición de Ley de modificación de la Ley 19/1994, de 6 de julio,\nde modificación del Régimen Económico y Fiscal de Canarias, para la\nregulación de las inversiones en elementos patrimoniales afectos a la\nactividad de arrendamiento de vivienda en las Islas Canarias.",
+        "officialTitle": "Proposición de Ley de modificación de la Ley 19/1994, de 6 de julio,\nde modificación del Régimen Económico y Fiscal de Canarias, para la\nregulación de las inversiones en elementos patrimoniales afectos a la\nactividad de arrendamiento de vivienda en las Islas Canarias.",
+        "type": "regular",
+        "nativeType": "ES-ley"
+      },
+      "dateStart": "2025-02-18T15:42:00+01:00",
+      "dateEnd": "2025-02-18T15:51:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_092/cortes/15_000400_092_0_25787_747473.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1547473I",
+        "duration": 540.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_092_0_25787_747473",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Andrés Alberto Rodríguez Almeida",
+          "lastname": "Rodríguez Almeida",
+          "firstname": "Andrés Alberto",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario VOX"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 7
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 96
+      },
+      "agendaItem": {
+        "title": "Proposición de Ley de modificación de la Ley 19/1994, de 6 de julio,\nde modificación del Régimen Económico y Fiscal de Canarias, para la\nregulación de las inversiones en elementos patrimoniales afectos a la\nactividad de arrendamiento de vivienda en las Islas Canarias.",
+        "officialTitle": "Proposición de Ley de modificación de la Ley 19/1994, de 6 de julio,\nde modificación del Régimen Económico y Fiscal de Canarias, para la\nregulación de las inversiones en elementos patrimoniales afectos a la\nactividad de arrendamiento de vivienda en las Islas Canarias.",
+        "type": "regular",
+        "nativeType": "ES-ley"
+      },
+      "dateStart": "2025-02-18T15:51:00+01:00",
+      "dateEnd": "2025-02-18T15:58:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_092/cortes/15_000400_092_1_25778_747067.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1547067I",
+        "duration": 420.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_092_1_25778_747067",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Carlos Alberto Sánchez Ojeda",
+          "lastname": "Sánchez Ojeda",
+          "firstname": "Carlos Alberto",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Popular en el Congreso"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 8
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 96
+      },
+      "agendaItem": {
+        "title": "Proposición de Ley de modificación de la Ley 7/1985, de 2 de abril,\nReguladora de las Bases del Régimen Local, con el fin de modificar el\npadrón municipal en los casos de ocupación y de inmigración ilegal.",
+        "officialTitle": "Proposición de Ley de modificación de la Ley 7/1985, de 2 de abril,\nReguladora de las Bases del Régimen Local, con el fin de modificar el\npadrón municipal en los casos de ocupación y de inmigración ilegal.",
+        "type": "regular",
+        "nativeType": "ES-ley"
+      },
+      "dateStart": "2025-02-18T15:58:00+01:00",
+      "dateEnd": "2025-02-18T16:09:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_092/cortes/15_000400_092_1_25778_747069.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1547069I",
+        "duration": 660.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_092_1_25778_747069",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Ignacio Hoces Íñiguez",
+          "lastname": "Hoces Íñiguez",
+          "firstname": "Ignacio",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario VOX"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 9
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 96
+      },
+      "agendaItem": {
+        "title": "Proposición de Ley de modificación de la Ley 7/1985, de 2 de abril,\nReguladora de las Bases del Régimen Local, con el fin de modificar el\npadrón municipal en los casos de ocupación y de inmigración ilegal.",
+        "officialTitle": "Proposición de Ley de modificación de la Ley 7/1985, de 2 de abril,\nReguladora de las Bases del Régimen Local, con el fin de modificar el\npadrón municipal en los casos de ocupación y de inmigración ilegal.",
+        "type": "regular",
+        "nativeType": "ES-ley"
+      },
+      "dateStart": "2025-02-18T16:09:00+01:00",
+      "dateEnd": "2025-02-18T16:19:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_092/cortes/15_000400_092_1_25778_747070.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1547070I",
+        "duration": 600.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_092_1_25778_747070",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Martina Velarde Gómez",
+          "lastname": "Velarde Gómez",
+          "firstname": "Martina",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Mixto"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 10
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 96
+      },
+      "agendaItem": {
+        "title": "Proposición de Ley de modificación de la Ley 7/1985, de 2 de abril,\nReguladora de las Bases del Régimen Local, con el fin de modificar el\npadrón municipal en los casos de ocupación y de inmigración ilegal.",
+        "officialTitle": "Proposición de Ley de modificación de la Ley 7/1985, de 2 de abril,\nReguladora de las Bases del Régimen Local, con el fin de modificar el\npadrón municipal en los casos de ocupación y de inmigración ilegal.",
+        "type": "regular",
+        "nativeType": "ES-ley"
+      },
+      "dateStart": "2025-02-18T16:19:00+01:00",
+      "dateEnd": "2025-02-18T16:27:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_092/cortes/15_000400_092_1_25778_747071.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1547071I",
+        "duration": 480.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_092_1_25778_747071",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Mikel Legarda Uriarte",
+          "lastname": "Legarda Uriarte",
+          "firstname": "Mikel",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Vasco (EAJ-PNV)"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 11
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 96
+      },
+      "agendaItem": {
+        "title": "Proposición de Ley de modificación de la Ley 7/1985, de 2 de abril,\nReguladora de las Bases del Régimen Local, con el fin de modificar el\npadrón municipal en los casos de ocupación y de inmigración ilegal.",
+        "officialTitle": "Proposición de Ley de modificación de la Ley 7/1985, de 2 de abril,\nReguladora de las Bases del Régimen Local, con el fin de modificar el\npadrón municipal en los casos de ocupación y de inmigración ilegal.",
+        "type": "regular",
+        "nativeType": "ES-ley"
+      },
+      "dateStart": "2025-02-18T16:27:00+01:00",
+      "dateEnd": "2025-02-18T16:32:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_092/cortes/15_000400_092_1_25778_747072.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1547072I",
+        "duration": 300.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_092_1_25778_747072",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Jordi Salvador i Duch",
+          "lastname": "Salvador i Duch",
+          "firstname": "Jordi",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Republicano"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 12
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 96
+      },
+      "agendaItem": {
+        "title": "Proposición de Ley de modificación de la Ley 7/1985, de 2 de abril,\nReguladora de las Bases del Régimen Local, con el fin de modificar el\npadrón municipal en los casos de ocupación y de inmigración ilegal.",
+        "officialTitle": "Proposición de Ley de modificación de la Ley 7/1985, de 2 de abril,\nReguladora de las Bases del Régimen Local, con el fin de modificar el\npadrón municipal en los casos de ocupación y de inmigración ilegal.",
+        "type": "regular",
+        "nativeType": "ES-ley"
+      },
+      "dateStart": "2025-02-18T16:32:00+01:00",
+      "dateEnd": "2025-02-18T16:40:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_092/cortes/15_000400_092_1_25778_747073.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1547073I",
+        "duration": 480.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_092_1_25778_747073",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Vicenç Vidal Matas",
+          "lastname": "Vidal Matas",
+          "firstname": "Vicenç",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Plurinacional SUMAR"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 13
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 96
+      },
+      "agendaItem": {
+        "title": "Proposición de Ley de modificación de la Ley 7/1985, de 2 de abril,\nReguladora de las Bases del Régimen Local, con el fin de modificar el\npadrón municipal en los casos de ocupación y de inmigración ilegal.",
+        "officialTitle": "Proposición de Ley de modificación de la Ley 7/1985, de 2 de abril,\nReguladora de las Bases del Régimen Local, con el fin de modificar el\npadrón municipal en los casos de ocupación y de inmigración ilegal.",
+        "type": "regular",
+        "nativeType": "ES-ley"
+      },
+      "dateStart": "2025-02-18T16:40:00+01:00",
+      "dateEnd": "2025-02-18T16:48:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_092/cortes/15_000400_092_1_25778_747074.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1547074I",
+        "duration": 480.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_092_1_25778_747074",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "María Guijarro Ceballos",
+          "lastname": "Guijarro Ceballos",
+          "firstname": "María",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Socialista"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 14
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 96
+      },
+      "agendaItem": {
+        "title": "Proposición de Ley de modificación de la Ley 7/1985, de 2 de abril,\nReguladora de las Bases del Régimen Local, con el fin de modificar el\npadrón municipal en los casos de ocupación y de inmigración ilegal.",
+        "officialTitle": "Proposición de Ley de modificación de la Ley 7/1985, de 2 de abril,\nReguladora de las Bases del Régimen Local, con el fin de modificar el\npadrón municipal en los casos de ocupación y de inmigración ilegal.",
+        "type": "regular",
+        "nativeType": "ES-ley"
+      },
+      "dateStart": "2025-02-18T16:48:00+01:00",
+      "dateEnd": "2025-02-18T16:55:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_092/cortes/15_000400_092_1_25778_747075.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1547075I",
+        "duration": 420.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_092_1_25778_747075",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Sofía Acedo Reyes",
+          "lastname": "Acedo Reyes",
+          "firstname": "Sofía",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Popular en el Congreso"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 15
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 96
+      },
+      "agendaItem": {
+        "title": "Proposición no de Ley relativa a la precariedad que están sufriendo\nlas familias españolas ante el aumento de los precios y de los impuestos\nque gravan la cesta de la compra.",
+        "officialTitle": "Proposición no de Ley relativa a la precariedad que están sufriendo\nlas familias españolas ante el aumento de los precios y de los impuestos\nque gravan la cesta de la compra.",
+        "type": "regular"
+      },
+      "dateStart": "2025-02-18T16:57:00+01:00",
+      "dateEnd": "2025-02-18T17:06:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_092/cortes/15_000400_092_1_25778_747079.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1547079I",
+        "duration": 540.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_092_1_25778_747079",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "José María Figaredo Álvarez-Sala",
+          "lastname": "Figaredo Álvarez-Sala",
+          "firstname": "José María",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario VOX"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 16
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 96
+      },
+      "agendaItem": {
+        "title": "Proposición no de Ley relativa a la precariedad que están sufriendo\nlas familias españolas ante el aumento de los precios y de los impuestos\nque gravan la cesta de la compra.",
+        "officialTitle": "Proposición no de Ley relativa a la precariedad que están sufriendo\nlas familias españolas ante el aumento de los precios y de los impuestos\nque gravan la cesta de la compra.",
+        "type": "regular"
+      },
+      "dateStart": "2025-02-18T17:06:00+01:00",
+      "dateEnd": "2025-02-18T17:12:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_092/cortes/15_000400_092_1_25778_747081.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1547081I",
+        "duration": 360.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_092_1_25778_747081",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Gabriel Rufián Romero",
+          "lastname": "Rufián Romero",
+          "firstname": "Gabriel",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Republicano"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 17
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 96
+      },
+      "agendaItem": {
+        "title": "Proposición no de Ley relativa a la precariedad que están sufriendo\nlas familias españolas ante el aumento de los precios y de los impuestos\nque gravan la cesta de la compra.",
+        "officialTitle": "Proposición no de Ley relativa a la precariedad que están sufriendo\nlas familias españolas ante el aumento de los precios y de los impuestos\nque gravan la cesta de la compra.",
+        "type": "regular"
+      },
+      "dateStart": "2025-02-18T17:12:00+01:00",
+      "dateEnd": "2025-02-18T17:19:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_092/cortes/15_000400_092_1_25778_747082.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1547082I",
+        "duration": 420.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_092_1_25778_747082",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Carlos Martín Urriza",
+          "lastname": "Martín Urriza",
+          "firstname": "Carlos",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Plurinacional SUMAR"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 18
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 96
+      },
+      "agendaItem": {
+        "title": "Proposición no de Ley relativa a la precariedad que están sufriendo\nlas familias españolas ante el aumento de los precios y de los impuestos\nque gravan la cesta de la compra.",
+        "officialTitle": "Proposición no de Ley relativa a la precariedad que están sufriendo\nlas familias españolas ante el aumento de los precios y de los impuestos\nque gravan la cesta de la compra.",
+        "type": "regular"
+      },
+      "dateStart": "2025-02-18T17:19:00+01:00",
+      "dateEnd": "2025-02-18T17:24:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_092/cortes/15_000400_092_1_25778_747083.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1547083I",
+        "duration": 300.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_092_1_25778_747083",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Antidio Fagúndez Campo",
+          "lastname": "Fagúndez Campo",
+          "firstname": "Antidio",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Socialista"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 19
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 96
+      },
+      "agendaItem": {
+        "title": "Proposición no de Ley relativa a la precariedad que están sufriendo\nlas familias españolas ante el aumento de los precios y de los impuestos\nque gravan la cesta de la compra.",
+        "officialTitle": "Proposición no de Ley relativa a la precariedad que están sufriendo\nlas familias españolas ante el aumento de los precios y de los impuestos\nque gravan la cesta de la compra.",
+        "type": "regular"
+      },
+      "dateStart": "2025-02-18T17:24:00+01:00",
+      "dateEnd": "2025-02-18T17:30:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_092/cortes/15_000400_092_1_25778_747084.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1547084I",
+        "duration": 360.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_092_1_25778_747084",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "José Vicente Marí Bosó",
+          "lastname": "Marí Bosó",
+          "firstname": "José Vicente",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Popular en el Congreso"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 20
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 96
+      },
+      "agendaItem": {
+        "title": "Proposición no de Ley relativa al fondo complementario que compense\nla merma de ingresos que va a sufrir en 2025 la Comunidad Autónoma de\nAragón.",
+        "officialTitle": "Proposición no de Ley relativa al fondo complementario que compense\nla merma de ingresos que va a sufrir en 2025 la Comunidad Autónoma de\nAragón.",
+        "type": "regular"
+      },
+      "dateStart": "2025-02-18T17:30:00+01:00",
+      "dateEnd": "2025-02-18T17:39:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_092/cortes/15_000400_092_1_25778_747086.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1547086I",
+        "duration": 540.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_092_1_25778_747086",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Jorge Pueyo Sanz",
+          "lastname": "Pueyo Sanz",
+          "firstname": "Jorge",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Plurinacional SUMAR"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 21
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 96
+      },
+      "agendaItem": {
+        "title": "Proposición no de Ley relativa al fondo complementario que compense\nla merma de ingresos que va a sufrir en 2025 la Comunidad Autónoma de\nAragón.",
+        "officialTitle": "Proposición no de Ley relativa al fondo complementario que compense\nla merma de ingresos que va a sufrir en 2025 la Comunidad Autónoma de\nAragón.",
+        "type": "regular"
+      },
+      "dateStart": "2025-02-18T17:39:00+01:00",
+      "dateEnd": "2025-02-18T17:45:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_092/cortes/15_000400_092_1_25778_747087.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1547087I",
+        "duration": 360.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_092_1_25778_747087",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Begoña Nasarre Oliva",
+          "lastname": "Nasarre Oliva",
+          "firstname": "Begoña",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Socialista"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 22
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 96
+      },
+      "agendaItem": {
+        "title": "Proposición no de Ley relativa al fondo complementario que compense\nla merma de ingresos que va a sufrir en 2025 la Comunidad Autónoma de\nAragón.",
+        "officialTitle": "Proposición no de Ley relativa al fondo complementario que compense\nla merma de ingresos que va a sufrir en 2025 la Comunidad Autónoma de\nAragón.",
+        "type": "regular"
+      },
+      "dateStart": "2025-02-18T17:45:00+01:00",
+      "dateEnd": "2025-02-18T17:51:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_092/cortes/15_000400_092_1_25778_747088.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1547088I",
+        "duration": 360.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_092_1_25778_747088",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Ana Isabel Alós López",
+          "lastname": "Alós López",
+          "firstname": "Ana Isabel",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Popular en el Congreso"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 23
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 96
+      },
+      "agendaItem": {
+        "title": "Proposición no de Ley relativa al fondo complementario que compense\nla merma de ingresos que va a sufrir en 2025 la Comunidad Autónoma de\nAragón.",
+        "officialTitle": "Proposición no de Ley relativa al fondo complementario que compense\nla merma de ingresos que va a sufrir en 2025 la Comunidad Autónoma de\nAragón.",
+        "type": "regular"
+      },
+      "dateStart": "2025-02-18T17:51:00+01:00",
+      "dateEnd": "2025-02-18T17:54:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_092/cortes/15_000400_092_1_25778_747089.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1547089I",
+        "duration": 180.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_092_1_25778_747089",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Gabriel Rufián Romero",
+          "lastname": "Rufián Romero",
+          "firstname": "Gabriel",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Republicano"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 24
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 96
+      },
+      "agendaItem": {
+        "title": "Proposición no de Ley relativa al fondo complementario que compense\nla merma de ingresos que va a sufrir en 2025 la Comunidad Autónoma de\nAragón.",
+        "officialTitle": "Proposición no de Ley relativa al fondo complementario que compense\nla merma de ingresos que va a sufrir en 2025 la Comunidad Autónoma de\nAragón.",
+        "type": "regular"
+      },
+      "dateStart": "2025-02-18T17:54:00+01:00",
+      "dateEnd": "2025-02-18T18:01:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_092/cortes/15_000400_092_1_25778_747090.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1547090I",
+        "duration": 420.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_092_1_25778_747090",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Pablo Sáez Alonso-Muñumer",
+          "lastname": "Sáez Alonso-Muñumer",
+          "firstname": "Pablo",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario VOX"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 25
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 96
+      },
+      "agendaItem": {
+        "title": "Moción consecuencia de interpelación urgente sobre la política del\nGobierno para garantizar el derecho a la vivienda.",
+        "officialTitle": "Moción consecuencia de interpelación urgente sobre la política del\nGobierno para garantizar el derecho a la vivienda.",
+        "type": "regular",
+        "nativeType": "ES-mocion"
+      },
+      "dateStart": "2025-02-18T18:01:00+01:00",
+      "dateEnd": "2025-02-18T18:10:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_092/cortes/15_000400_092_1_25778_747094.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1547094I",
+        "duration": 540.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_092_1_25778_747094",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Ione Belarra Urteaga",
+          "lastname": "Belarra Urteaga",
+          "firstname": "Ione",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Mixto"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 26
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 96
+      },
+      "agendaItem": {
+        "title": "Moción consecuencia de interpelación urgente sobre la política del\nGobierno para garantizar el derecho a la vivienda.",
+        "officialTitle": "Moción consecuencia de interpelación urgente sobre la política del\nGobierno para garantizar el derecho a la vivienda.",
+        "type": "regular",
+        "nativeType": "ES-mocion"
+      },
+      "dateStart": "2025-02-18T18:10:00+01:00",
+      "dateEnd": "2025-02-18T18:15:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_092/cortes/15_000400_092_1_25778_747095.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1547095I",
+        "duration": 300.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_092_1_25778_747095",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Oskar Matute García de Jalón",
+          "lastname": "Matute García de Jalón",
+          "firstname": "Oskar",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Euskal Herria Bildu"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 27
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 96
+      },
+      "agendaItem": {
+        "title": "Moción consecuencia de interpelación urgente sobre la política del\nGobierno para garantizar el derecho a la vivienda.",
+        "officialTitle": "Moción consecuencia de interpelación urgente sobre la política del\nGobierno para garantizar el derecho a la vivienda.",
+        "type": "regular",
+        "nativeType": "ES-mocion"
+      },
+      "dateStart": "2025-02-18T18:15:00+01:00",
+      "dateEnd": "2025-02-18T18:21:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_092/cortes/15_000400_092_1_25778_747096.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1547096I",
+        "duration": 360.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_092_1_25778_747096",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Pepe Mercadal Baquero",
+          "lastname": "Mercadal Baquero",
+          "firstname": "Pepe",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Socialista"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 28
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 96
+      },
+      "agendaItem": {
+        "title": "Moción consecuencia de interpelación urgente sobre la política del\nGobierno para garantizar el derecho a la vivienda.",
+        "officialTitle": "Moción consecuencia de interpelación urgente sobre la política del\nGobierno para garantizar el derecho a la vivienda.",
+        "type": "regular",
+        "nativeType": "ES-mocion"
+      },
+      "dateStart": "2025-02-18T18:21:00+01:00",
+      "dateEnd": "2025-02-18T18:29:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_092/cortes/15_000400_092_1_25778_747097.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1547097I",
+        "duration": 480.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_092_1_25778_747097",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Marta Madrenas i Mir",
+          "lastname": "Madrenas i Mir",
+          "firstname": "Marta",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Junts per Catalunya"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 29
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 96
+      },
+      "agendaItem": {
+        "title": "Moción consecuencia de interpelación urgente sobre la política del\nGobierno para garantizar el derecho a la vivienda.",
+        "officialTitle": "Moción consecuencia de interpelación urgente sobre la política del\nGobierno para garantizar el derecho a la vivienda.",
+        "type": "regular",
+        "nativeType": "ES-mocion"
+      },
+      "dateStart": "2025-02-18T18:29:00+01:00",
+      "dateEnd": "2025-02-18T18:34:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_092/cortes/15_000400_092_1_25778_747098.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1547098I",
+        "duration": 300.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_092_1_25778_747098",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Etna Estrems Fayos",
+          "lastname": "Estrems Fayos",
+          "firstname": "Etna",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Republicano"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 30
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 96
+      },
+      "agendaItem": {
+        "title": "Moción consecuencia de interpelación urgente sobre la política del\nGobierno para garantizar el derecho a la vivienda.",
+        "officialTitle": "Moción consecuencia de interpelación urgente sobre la política del\nGobierno para garantizar el derecho a la vivienda.",
+        "type": "regular",
+        "nativeType": "ES-mocion"
+      },
+      "dateStart": "2025-02-18T18:34:00+01:00",
+      "dateEnd": "2025-02-18T18:41:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_092/cortes/15_000400_092_1_25778_747099.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1547099I",
+        "duration": 420.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_092_1_25778_747099",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Alberto Ibáñez Mezquita",
+          "lastname": "Ibáñez Mezquita",
+          "firstname": "Alberto",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Plurinacional SUMAR"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 31
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 96
+      },
+      "agendaItem": {
+        "title": "Moción consecuencia de interpelación urgente sobre la política del\nGobierno para garantizar el derecho a la vivienda.",
+        "officialTitle": "Moción consecuencia de interpelación urgente sobre la política del\nGobierno para garantizar el derecho a la vivienda.",
+        "type": "regular",
+        "nativeType": "ES-mocion"
+      },
+      "dateStart": "2025-02-18T18:41:00+01:00",
+      "dateEnd": "2025-02-18T18:48:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_092/cortes/15_000400_092_1_25778_747100.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1547100I",
+        "duration": 420.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_092_1_25778_747100",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Manuel Mariscal Zabala",
+          "lastname": "Mariscal Zabala",
+          "firstname": "Manuel",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario VOX"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 32
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 96
+      },
+      "agendaItem": {
+        "title": "Moción consecuencia de interpelación urgente sobre la política del\nGobierno para garantizar el derecho a la vivienda.",
+        "officialTitle": "Moción consecuencia de interpelación urgente sobre la política del\nGobierno para garantizar el derecho a la vivienda.",
+        "type": "regular",
+        "nativeType": "ES-mocion"
+      },
+      "dateStart": "2025-02-18T18:48:00+01:00",
+      "dateEnd": "2025-02-18T18:56:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_092/cortes/15_000400_092_1_25778_747101.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1547101I",
+        "duration": 480.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_092_1_25778_747101",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Silverio Argüelles García",
+          "lastname": "Argüelles García",
+          "firstname": "Silverio",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Popular en el Congreso"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 33
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 96
+      },
+      "agendaItem": {
+        "title": "Moción consecuencia de interpelación urgente sobre cuáles son las\nmedidas que va a adoptar el Gobierno para garantizar que los españoles\npuedan acceder a una vivienda digna.",
+        "officialTitle": "Moción consecuencia de interpelación urgente sobre cuáles son las\nmedidas que va a adoptar el Gobierno para garantizar que los españoles\npuedan acceder a una vivienda digna.",
+        "type": "regular",
+        "nativeType": "ES-mocion"
+      },
+      "dateStart": "2025-02-18T18:56:00+01:00",
+      "dateEnd": "2025-02-18T19:05:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_092/cortes/15_000400_092_1_25778_747103.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1547103I",
+        "duration": 540.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_092_1_25778_747103",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Carlos Hernández Quero",
+          "lastname": "Hernández Quero",
+          "firstname": "Carlos",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario VOX"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 34
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 96
+      },
+      "agendaItem": {
+        "title": "Moción consecuencia de interpelación urgente sobre cuáles son las\nmedidas que va a adoptar el Gobierno para garantizar que los españoles\npuedan acceder a una vivienda digna.",
+        "officialTitle": "Moción consecuencia de interpelación urgente sobre cuáles son las\nmedidas que va a adoptar el Gobierno para garantizar que los españoles\npuedan acceder a una vivienda digna.",
+        "type": "regular",
+        "nativeType": "ES-mocion"
+      },
+      "dateStart": "2025-02-18T19:05:00+01:00",
+      "dateEnd": "2025-02-18T19:12:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_092/cortes/15_000400_092_1_25778_747105.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1547105I",
+        "duration": 420.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_092_1_25778_747105",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Javier Sánchez Serna",
+          "lastname": "Sánchez Serna",
+          "firstname": "Javier",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Mixto"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 35
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 96
+      },
+      "agendaItem": {
+        "title": "Moción consecuencia de interpelación urgente sobre cuáles son las\nmedidas que va a adoptar el Gobierno para garantizar que los españoles\npuedan acceder a una vivienda digna.",
+        "officialTitle": "Moción consecuencia de interpelación urgente sobre cuáles son las\nmedidas que va a adoptar el Gobierno para garantizar que los españoles\npuedan acceder a una vivienda digna.",
+        "type": "regular",
+        "nativeType": "ES-mocion"
+      },
+      "dateStart": "2025-02-18T19:12:00+01:00",
+      "dateEnd": "2025-02-18T19:17:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_092/cortes/15_000400_092_1_25778_747107.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1547107I",
+        "duration": 300.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_092_1_25778_747107",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Gerardo Pisarello Prados",
+          "lastname": "Pisarello Prados",
+          "firstname": "Gerardo",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Plurinacional SUMAR"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 36
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 96
+      },
+      "agendaItem": {
+        "title": "Moción consecuencia de interpelación urgente sobre cuáles son las\nmedidas que va a adoptar el Gobierno para garantizar que los españoles\npuedan acceder a una vivienda digna.",
+        "officialTitle": "Moción consecuencia de interpelación urgente sobre cuáles son las\nmedidas que va a adoptar el Gobierno para garantizar que los españoles\npuedan acceder a una vivienda digna.",
+        "type": "regular",
+        "nativeType": "ES-mocion"
+      },
+      "dateStart": "2025-02-18T19:17:00+01:00",
+      "dateEnd": "2025-02-18T19:24:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_092/cortes/15_000400_092_1_25778_747108.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1547108I",
+        "duration": 420.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_092_1_25778_747108",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Ignasi Conesa Coma",
+          "lastname": "Conesa Coma",
+          "firstname": "Ignasi",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Socialista"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 37
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 96
+      },
+      "agendaItem": {
+        "title": "Moción consecuencia de interpelación urgente sobre cuáles son las\nmedidas que va a adoptar el Gobierno para garantizar que los españoles\npuedan acceder a una vivienda digna.",
+        "officialTitle": "Moción consecuencia de interpelación urgente sobre cuáles son las\nmedidas que va a adoptar el Gobierno para garantizar que los españoles\npuedan acceder a una vivienda digna.",
+        "type": "regular",
+        "nativeType": "ES-mocion"
+      },
+      "dateStart": "2025-02-18T19:24:00+01:00",
+      "dateEnd": "2025-02-18T19:30:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_092/cortes/15_000400_092_1_25778_747109.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1547109I",
+        "duration": 360.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_092_1_25778_747109",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "María Soledad Cruz-Guzmán García",
+          "lastname": "Cruz-Guzmán García",
+          "firstname": "María Soledad",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Popular en el Congreso"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 38
+    }
+  ]
+}

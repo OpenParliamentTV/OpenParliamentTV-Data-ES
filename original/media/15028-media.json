@@ -1,0 +1,974 @@
+{
+  "meta": {
+    "session": "15028",
+    "processing": {
+      "parse_media": "2026-05-23T07:17:41"
+    },
+    "dateStart": "2024-02-29T09:05:00+01:00",
+    "dateEnd": "2024-02-29T11:21:00+01:00"
+  },
+  "data": [
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 28
+      },
+      "agendaItem": {
+        "title": "Acuerdo del Gobierno por el que se remite a las Cortes Generales el\nPlan de Reequilibrio previsto en la Ley Orgánica 2/2012, de 27 de abril,\nde Estabilidad Presupuestaria y Sostenibilidad Financiera.",
+        "officialTitle": "Acuerdo del Gobierno por el que se remite a las Cortes Generales el\nPlan de Reequilibrio previsto en la Ley Orgánica 2/2012, de 27 de abril,\nde Estabilidad Presupuestaria y Sostenibilidad Financiera.",
+        "type": "regular"
+      },
+      "dateStart": "2024-02-29T09:05:00+01:00",
+      "dateEnd": "2024-02-29T09:26:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_026/cortes/15_000400_026_0_24680_729306.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1529306I",
+        "duration": 1260.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_026_0_24680_729306",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "María Jesús Montero Cuadrado",
+          "lastname": "Montero Cuadrado",
+          "firstname": "María Jesús",
+          "type": "member of government",
+          "role": "Vicepresidenta Primera del Gobierno y Ministra de Hacienda",
+          "faction": {
+            "label": "Grupo Parlamentario Socialista"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 1
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 28
+      },
+      "agendaItem": {
+        "title": "Acuerdo del Gobierno por el que se fijan los objetivos de estabilidad\npresupuestaria y de deuda pública para el conjunto de Administraciones\nPúblicas y de cada uno de sus subsectores para el periodo 2024-2026 y el\nlímite de gasto no financiero del presupuesto del Estado para el año\n2024.",
+        "officialTitle": "Acuerdo del Gobierno por el que se fijan los objetivos de estabilidad\npresupuestaria y de deuda pública para el conjunto de Administraciones\nPúblicas y de cada uno de sus subsectores para el periodo 2024-2026 y el\nlímite de gasto no financiero del presupuesto del Estado para el año\n2024.",
+        "type": "regular"
+      },
+      "dateStart": "2024-02-29T09:05:00+01:00",
+      "dateEnd": "2024-02-29T09:26:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_026/cortes/15_000400_026_0_24680_729306.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1529306I",
+        "duration": 1260.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_026_0_24680_729306",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "María Jesús Montero Cuadrado",
+          "lastname": "Montero Cuadrado",
+          "firstname": "María Jesús",
+          "type": "member of government",
+          "role": "Vicepresidenta Primera del Gobierno y Ministra de Hacienda",
+          "faction": {
+            "label": "Grupo Parlamentario Socialista"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 2
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 28
+      },
+      "agendaItem": {
+        "title": "Acuerdo del Gobierno por el que se remite a las Cortes Generales el\nPlan de Reequilibrio previsto en la Ley Orgánica 2/2012, de 27 de abril,\nde Estabilidad Presupuestaria y Sostenibilidad Financiera.",
+        "officialTitle": "Acuerdo del Gobierno por el que se remite a las Cortes Generales el\nPlan de Reequilibrio previsto en la Ley Orgánica 2/2012, de 27 de abril,\nde Estabilidad Presupuestaria y Sostenibilidad Financiera.",
+        "type": "regular"
+      },
+      "dateStart": "2024-02-29T09:26:00+01:00",
+      "dateEnd": "2024-02-29T09:38:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_026/cortes/15_000400_026_0_24680_729307.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1529307I",
+        "duration": 720.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_026_0_24680_729307",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "José Vicente Marí Bosó",
+          "lastname": "Marí Bosó",
+          "firstname": "José Vicente",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Popular en el Congreso"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 3
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 28
+      },
+      "agendaItem": {
+        "title": "Acuerdo del Gobierno por el que se fijan los objetivos de estabilidad\npresupuestaria y de deuda pública para el conjunto de Administraciones\nPúblicas y de cada uno de sus subsectores para el periodo 2024-2026 y el\nlímite de gasto no financiero del presupuesto del Estado para el año\n2024.",
+        "officialTitle": "Acuerdo del Gobierno por el que se fijan los objetivos de estabilidad\npresupuestaria y de deuda pública para el conjunto de Administraciones\nPúblicas y de cada uno de sus subsectores para el periodo 2024-2026 y el\nlímite de gasto no financiero del presupuesto del Estado para el año\n2024.",
+        "type": "regular"
+      },
+      "dateStart": "2024-02-29T09:26:00+01:00",
+      "dateEnd": "2024-02-29T09:38:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_026/cortes/15_000400_026_0_24680_729307.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1529307I",
+        "duration": 720.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_026_0_24680_729307",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "José Vicente Marí Bosó",
+          "lastname": "Marí Bosó",
+          "firstname": "José Vicente",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Popular en el Congreso"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 4
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 28
+      },
+      "agendaItem": {
+        "title": "Acuerdo del Gobierno por el que se remite a las Cortes Generales el\nPlan de Reequilibrio previsto en la Ley Orgánica 2/2012, de 27 de abril,\nde Estabilidad Presupuestaria y Sostenibilidad Financiera.",
+        "officialTitle": "Acuerdo del Gobierno por el que se remite a las Cortes Generales el\nPlan de Reequilibrio previsto en la Ley Orgánica 2/2012, de 27 de abril,\nde Estabilidad Presupuestaria y Sostenibilidad Financiera.",
+        "type": "regular"
+      },
+      "dateStart": "2024-02-29T09:38:00+01:00",
+      "dateEnd": "2024-02-29T09:49:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_026/cortes/15_000400_026_0_24680_729308.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1529308I",
+        "duration": 660.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_026_0_24680_729308",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Pablo Sáez Alonso-Muñumer",
+          "lastname": "Sáez Alonso-Muñumer",
+          "firstname": "Pablo",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario VOX"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 5
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 28
+      },
+      "agendaItem": {
+        "title": "Acuerdo del Gobierno por el que se fijan los objetivos de estabilidad\npresupuestaria y de deuda pública para el conjunto de Administraciones\nPúblicas y de cada uno de sus subsectores para el periodo 2024-2026 y el\nlímite de gasto no financiero del presupuesto del Estado para el año\n2024.",
+        "officialTitle": "Acuerdo del Gobierno por el que se fijan los objetivos de estabilidad\npresupuestaria y de deuda pública para el conjunto de Administraciones\nPúblicas y de cada uno de sus subsectores para el periodo 2024-2026 y el\nlímite de gasto no financiero del presupuesto del Estado para el año\n2024.",
+        "type": "regular"
+      },
+      "dateStart": "2024-02-29T09:38:00+01:00",
+      "dateEnd": "2024-02-29T09:49:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_026/cortes/15_000400_026_0_24680_729308.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1529308I",
+        "duration": 660.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_026_0_24680_729308",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Pablo Sáez Alonso-Muñumer",
+          "lastname": "Sáez Alonso-Muñumer",
+          "firstname": "Pablo",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario VOX"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 6
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 28
+      },
+      "agendaItem": {
+        "title": "Acuerdo del Gobierno por el que se remite a las Cortes Generales el\nPlan de Reequilibrio previsto en la Ley Orgánica 2/2012, de 27 de abril,\nde Estabilidad Presupuestaria y Sostenibilidad Financiera.",
+        "officialTitle": "Acuerdo del Gobierno por el que se remite a las Cortes Generales el\nPlan de Reequilibrio previsto en la Ley Orgánica 2/2012, de 27 de abril,\nde Estabilidad Presupuestaria y Sostenibilidad Financiera.",
+        "type": "regular"
+      },
+      "dateStart": "2024-02-29T09:49:00+01:00",
+      "dateEnd": "2024-02-29T10:00:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_026/cortes/15_000400_026_0_24680_729309.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1529309I",
+        "duration": 660.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_026_0_24680_729309",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Carlos Martín Urriza",
+          "lastname": "Martín Urriza",
+          "firstname": "Carlos",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Plurinacional SUMAR"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 7
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 28
+      },
+      "agendaItem": {
+        "title": "Acuerdo del Gobierno por el que se fijan los objetivos de estabilidad\npresupuestaria y de deuda pública para el conjunto de Administraciones\nPúblicas y de cada uno de sus subsectores para el periodo 2024-2026 y el\nlímite de gasto no financiero del presupuesto del Estado para el año\n2024.",
+        "officialTitle": "Acuerdo del Gobierno por el que se fijan los objetivos de estabilidad\npresupuestaria y de deuda pública para el conjunto de Administraciones\nPúblicas y de cada uno de sus subsectores para el periodo 2024-2026 y el\nlímite de gasto no financiero del presupuesto del Estado para el año\n2024.",
+        "type": "regular"
+      },
+      "dateStart": "2024-02-29T09:49:00+01:00",
+      "dateEnd": "2024-02-29T10:00:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_026/cortes/15_000400_026_0_24680_729309.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1529309I",
+        "duration": 660.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_026_0_24680_729309",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Carlos Martín Urriza",
+          "lastname": "Martín Urriza",
+          "firstname": "Carlos",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Plurinacional SUMAR"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 8
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 28
+      },
+      "agendaItem": {
+        "title": "Acuerdo del Gobierno por el que se remite a las Cortes Generales el\nPlan de Reequilibrio previsto en la Ley Orgánica 2/2012, de 27 de abril,\nde Estabilidad Presupuestaria y Sostenibilidad Financiera.",
+        "officialTitle": "Acuerdo del Gobierno por el que se remite a las Cortes Generales el\nPlan de Reequilibrio previsto en la Ley Orgánica 2/2012, de 27 de abril,\nde Estabilidad Presupuestaria y Sostenibilidad Financiera.",
+        "type": "regular"
+      },
+      "dateStart": "2024-02-29T10:00:00+01:00",
+      "dateEnd": "2024-02-29T10:10:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_026/cortes/15_000400_026_0_24680_729310.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1529310I",
+        "duration": 600.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_026_0_24680_729310",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Teresa Jordà i Roura",
+          "lastname": "Jordà i Roura",
+          "firstname": "Teresa",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Republicano"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 9
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 28
+      },
+      "agendaItem": {
+        "title": "Acuerdo del Gobierno por el que se fijan los objetivos de estabilidad\npresupuestaria y de deuda pública para el conjunto de Administraciones\nPúblicas y de cada uno de sus subsectores para el periodo 2024-2026 y el\nlímite de gasto no financiero del presupuesto del Estado para el año\n2024.",
+        "officialTitle": "Acuerdo del Gobierno por el que se fijan los objetivos de estabilidad\npresupuestaria y de deuda pública para el conjunto de Administraciones\nPúblicas y de cada uno de sus subsectores para el periodo 2024-2026 y el\nlímite de gasto no financiero del presupuesto del Estado para el año\n2024.",
+        "type": "regular"
+      },
+      "dateStart": "2024-02-29T10:00:00+01:00",
+      "dateEnd": "2024-02-29T10:10:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_026/cortes/15_000400_026_0_24680_729310.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1529310I",
+        "duration": 600.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_026_0_24680_729310",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Teresa Jordà i Roura",
+          "lastname": "Jordà i Roura",
+          "firstname": "Teresa",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Republicano"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 10
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 28
+      },
+      "agendaItem": {
+        "title": "Acuerdo del Gobierno por el que se remite a las Cortes Generales el\nPlan de Reequilibrio previsto en la Ley Orgánica 2/2012, de 27 de abril,\nde Estabilidad Presupuestaria y Sostenibilidad Financiera.",
+        "officialTitle": "Acuerdo del Gobierno por el que se remite a las Cortes Generales el\nPlan de Reequilibrio previsto en la Ley Orgánica 2/2012, de 27 de abril,\nde Estabilidad Presupuestaria y Sostenibilidad Financiera.",
+        "type": "regular"
+      },
+      "dateStart": "2024-02-29T10:10:00+01:00",
+      "dateEnd": "2024-02-29T10:17:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_026/cortes/15_000400_026_0_24680_729311.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1529311I",
+        "duration": 420.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_026_0_24680_729311",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Idoia Sagastizabal Unzetabarrenetxea",
+          "lastname": "Sagastizabal Unzetabarrenetxea",
+          "firstname": "Idoia",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Vasco (EAJ-PNV)"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 11
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 28
+      },
+      "agendaItem": {
+        "title": "Acuerdo del Gobierno por el que se fijan los objetivos de estabilidad\npresupuestaria y de deuda pública para el conjunto de Administraciones\nPúblicas y de cada uno de sus subsectores para el periodo 2024-2026 y el\nlímite de gasto no financiero del presupuesto del Estado para el año\n2024.",
+        "officialTitle": "Acuerdo del Gobierno por el que se fijan los objetivos de estabilidad\npresupuestaria y de deuda pública para el conjunto de Administraciones\nPúblicas y de cada uno de sus subsectores para el periodo 2024-2026 y el\nlímite de gasto no financiero del presupuesto del Estado para el año\n2024.",
+        "type": "regular"
+      },
+      "dateStart": "2024-02-29T10:10:00+01:00",
+      "dateEnd": "2024-02-29T10:17:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_026/cortes/15_000400_026_0_24680_729311.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1529311I",
+        "duration": 420.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_026_0_24680_729311",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Idoia Sagastizabal Unzetabarrenetxea",
+          "lastname": "Sagastizabal Unzetabarrenetxea",
+          "firstname": "Idoia",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Vasco (EAJ-PNV)"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 12
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 28
+      },
+      "agendaItem": {
+        "title": "Acuerdo del Gobierno por el que se remite a las Cortes Generales el\nPlan de Reequilibrio previsto en la Ley Orgánica 2/2012, de 27 de abril,\nde Estabilidad Presupuestaria y Sostenibilidad Financiera.",
+        "officialTitle": "Acuerdo del Gobierno por el que se remite a las Cortes Generales el\nPlan de Reequilibrio previsto en la Ley Orgánica 2/2012, de 27 de abril,\nde Estabilidad Presupuestaria y Sostenibilidad Financiera.",
+        "type": "regular"
+      },
+      "dateStart": "2024-02-29T10:17:00+01:00",
+      "dateEnd": "2024-02-29T10:23:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_026/cortes/15_000400_026_0_24680_729312.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1529312I",
+        "duration": 360.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_026_0_24680_729312",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Néstor Rego Candamil",
+          "lastname": "Rego Candamil",
+          "firstname": "Néstor",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Mixto"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 13
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 28
+      },
+      "agendaItem": {
+        "title": "Acuerdo del Gobierno por el que se fijan los objetivos de estabilidad\npresupuestaria y de deuda pública para el conjunto de Administraciones\nPúblicas y de cada uno de sus subsectores para el periodo 2024-2026 y el\nlímite de gasto no financiero del presupuesto del Estado para el año\n2024.",
+        "officialTitle": "Acuerdo del Gobierno por el que se fijan los objetivos de estabilidad\npresupuestaria y de deuda pública para el conjunto de Administraciones\nPúblicas y de cada uno de sus subsectores para el periodo 2024-2026 y el\nlímite de gasto no financiero del presupuesto del Estado para el año\n2024.",
+        "type": "regular"
+      },
+      "dateStart": "2024-02-29T10:17:00+01:00",
+      "dateEnd": "2024-02-29T10:23:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_026/cortes/15_000400_026_0_24680_729312.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1529312I",
+        "duration": 360.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_026_0_24680_729312",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Néstor Rego Candamil",
+          "lastname": "Rego Candamil",
+          "firstname": "Néstor",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Mixto"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 14
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 28
+      },
+      "agendaItem": {
+        "title": "Acuerdo del Gobierno por el que se remite a las Cortes Generales el\nPlan de Reequilibrio previsto en la Ley Orgánica 2/2012, de 27 de abril,\nde Estabilidad Presupuestaria y Sostenibilidad Financiera.",
+        "officialTitle": "Acuerdo del Gobierno por el que se remite a las Cortes Generales el\nPlan de Reequilibrio previsto en la Ley Orgánica 2/2012, de 27 de abril,\nde Estabilidad Presupuestaria y Sostenibilidad Financiera.",
+        "type": "regular"
+      },
+      "dateStart": "2024-02-29T10:23:00+01:00",
+      "dateEnd": "2024-02-29T10:28:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_026/cortes/15_000400_026_0_24680_729313.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1529313I",
+        "duration": 300.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_026_0_24680_729313",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Noemí Santana Perera",
+          "lastname": "Santana Perera",
+          "firstname": "Noemí",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Mixto"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 15
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 28
+      },
+      "agendaItem": {
+        "title": "Acuerdo del Gobierno por el que se fijan los objetivos de estabilidad\npresupuestaria y de deuda pública para el conjunto de Administraciones\nPúblicas y de cada uno de sus subsectores para el periodo 2024-2026 y el\nlímite de gasto no financiero del presupuesto del Estado para el año\n2024.",
+        "officialTitle": "Acuerdo del Gobierno por el que se fijan los objetivos de estabilidad\npresupuestaria y de deuda pública para el conjunto de Administraciones\nPúblicas y de cada uno de sus subsectores para el periodo 2024-2026 y el\nlímite de gasto no financiero del presupuesto del Estado para el año\n2024.",
+        "type": "regular"
+      },
+      "dateStart": "2024-02-29T10:23:00+01:00",
+      "dateEnd": "2024-02-29T10:28:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_026/cortes/15_000400_026_0_24680_729313.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1529313I",
+        "duration": 300.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_026_0_24680_729313",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Noemí Santana Perera",
+          "lastname": "Santana Perera",
+          "firstname": "Noemí",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Mixto"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 16
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 28
+      },
+      "agendaItem": {
+        "title": "Acuerdo del Gobierno por el que se remite a las Cortes Generales el\nPlan de Reequilibrio previsto en la Ley Orgánica 2/2012, de 27 de abril,\nde Estabilidad Presupuestaria y Sostenibilidad Financiera.",
+        "officialTitle": "Acuerdo del Gobierno por el que se remite a las Cortes Generales el\nPlan de Reequilibrio previsto en la Ley Orgánica 2/2012, de 27 de abril,\nde Estabilidad Presupuestaria y Sostenibilidad Financiera.",
+        "type": "regular"
+      },
+      "dateStart": "2024-02-29T10:28:00+01:00",
+      "dateEnd": "2024-02-29T10:40:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_026/cortes/15_000400_026_0_24680_729314.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1529314I",
+        "duration": 720.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_026_0_24680_729314",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Juan Antonio González Gracia",
+          "lastname": "González Gracia",
+          "firstname": "Juan Antonio",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Socialista"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 17
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 28
+      },
+      "agendaItem": {
+        "title": "Acuerdo del Gobierno por el que se fijan los objetivos de estabilidad\npresupuestaria y de deuda pública para el conjunto de Administraciones\nPúblicas y de cada uno de sus subsectores para el periodo 2024-2026 y el\nlímite de gasto no financiero del presupuesto del Estado para el año\n2024.",
+        "officialTitle": "Acuerdo del Gobierno por el que se fijan los objetivos de estabilidad\npresupuestaria y de deuda pública para el conjunto de Administraciones\nPúblicas y de cada uno de sus subsectores para el periodo 2024-2026 y el\nlímite de gasto no financiero del presupuesto del Estado para el año\n2024.",
+        "type": "regular"
+      },
+      "dateStart": "2024-02-29T10:28:00+01:00",
+      "dateEnd": "2024-02-29T10:40:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_026/cortes/15_000400_026_0_24680_729314.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1529314I",
+        "duration": 720.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_026_0_24680_729314",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Juan Antonio González Gracia",
+          "lastname": "González Gracia",
+          "firstname": "Juan Antonio",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Socialista"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 18
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 28
+      },
+      "agendaItem": {
+        "title": "Denuncia del Tratado de la Carta de la Energía, hecho en Lisboa el 17\nde diciembre de 1994.",
+        "officialTitle": "Denuncia del Tratado de la Carta de la Energía, hecho en Lisboa el 17\nde diciembre de 1994.",
+        "type": "regular"
+      },
+      "dateStart": "2024-02-29T10:40:00+01:00",
+      "dateEnd": "2024-02-29T10:53:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_026/cortes/15_000400_026_0_24680_729319.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1529319I",
+        "duration": 780.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_026_0_24680_729319",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Juan Diego Requena Ruiz",
+          "lastname": "Requena Ruiz",
+          "firstname": "Juan Diego",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Popular en el Congreso"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 19
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 28
+      },
+      "agendaItem": {
+        "title": "Denuncia del Tratado de la Carta de la Energía, hecho en Lisboa el 17\nde diciembre de 1994.",
+        "officialTitle": "Denuncia del Tratado de la Carta de la Energía, hecho en Lisboa el 17\nde diciembre de 1994.",
+        "type": "regular"
+      },
+      "dateStart": "2024-02-29T10:53:00+01:00",
+      "dateEnd": "2024-02-29T10:57:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_026/cortes/15_000400_026_0_24680_729320.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1529320I",
+        "duration": 240.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_026_0_24680_729320",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Aitor Esteban Bravo",
+          "lastname": "Esteban Bravo",
+          "firstname": "Aitor",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Vasco (EAJ-PNV)"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 20
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 28
+      },
+      "agendaItem": {
+        "title": "Denuncia del Tratado de la Carta de la Energía, hecho en Lisboa el 17\nde diciembre de 1994.",
+        "officialTitle": "Denuncia del Tratado de la Carta de la Energía, hecho en Lisboa el 17\nde diciembre de 1994.",
+        "type": "regular"
+      },
+      "dateStart": "2024-02-29T10:57:00+01:00",
+      "dateEnd": "2024-02-29T11:03:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_026/cortes/15_000400_026_0_24680_729321.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1529321I",
+        "duration": 360.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_026_0_24680_729321",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Júlia Boada Danés",
+          "lastname": "Boada Danés",
+          "firstname": "Júlia",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Plurinacional SUMAR"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 21
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 28
+      },
+      "agendaItem": {
+        "title": "Denuncia del Tratado de la Carta de la Energía, hecho en Lisboa el 17\nde diciembre de 1994.",
+        "officialTitle": "Denuncia del Tratado de la Carta de la Energía, hecho en Lisboa el 17\nde diciembre de 1994.",
+        "type": "regular"
+      },
+      "dateStart": "2024-02-29T11:03:00+01:00",
+      "dateEnd": "2024-02-29T11:12:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_026/cortes/15_000400_026_0_24680_729322.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1529322I",
+        "duration": 540.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_026_0_24680_729322",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "José María Figaredo Álvarez-Sala",
+          "lastname": "Figaredo Álvarez-Sala",
+          "firstname": "José María",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario VOX"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 22
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 28
+      },
+      "agendaItem": {
+        "title": "Denuncia del Tratado de la Carta de la Energía, hecho en Lisboa el 17\nde diciembre de 1994.",
+        "officialTitle": "Denuncia del Tratado de la Carta de la Energía, hecho en Lisboa el 17\nde diciembre de 1994.",
+        "type": "regular"
+      },
+      "dateStart": "2024-02-29T11:12:00+01:00",
+      "dateEnd": "2024-02-29T11:20:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_026/cortes/15_000400_026_0_24680_729323.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1529323I",
+        "duration": 480.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_026_0_24680_729323",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Pepe Mercadal Baquero",
+          "lastname": "Mercadal Baquero",
+          "firstname": "Pepe",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Socialista"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 23
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 28
+      },
+      "agendaItem": {
+        "title": "Denuncia del Tratado de la Carta de la Energía, hecho en Lisboa el 17\nde diciembre de 1994.",
+        "officialTitle": "Denuncia del Tratado de la Carta de la Energía, hecho en Lisboa el 17\nde diciembre de 1994.",
+        "type": "regular"
+      },
+      "dateStart": "2024-02-29T11:20:00+01:00",
+      "dateEnd": "2024-02-29T11:21:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_026/cortes/15_000400_026_0_24680_729324.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1529324I",
+        "duration": 60.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_026_0_24680_729324",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Miguel Tellado Filgueira",
+          "lastname": "Tellado Filgueira",
+          "firstname": "Miguel",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Popular en el Congreso"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 24
+    }
+  ]
+}

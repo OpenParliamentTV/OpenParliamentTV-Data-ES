@@ -1,0 +1,2118 @@
+{
+  "meta": {
+    "session": "15100",
+    "processing": {
+      "parse_media": "2026-05-23T07:17:41"
+    },
+    "dateStart": "2025-03-11T15:04:00+01:00",
+    "dateEnd": "2025-03-11T20:25:00+01:00"
+  },
+  "data": [
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 100
+      },
+      "agendaItem": {
+        "title": "Proposición de Ley para garantizar el retorno social del rescate\nbancario.",
+        "officialTitle": "Proposición de Ley para garantizar el retorno social del rescate\nbancario.",
+        "type": "regular",
+        "nativeType": "ES-ley"
+      },
+      "dateStart": "2025-03-11T15:04:00+01:00",
+      "dateEnd": "2025-03-11T15:10:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_096/cortes/15_000400_096_0_25871_749122.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1549122I",
+        "duration": 360.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_096_0_25871_749122",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Jordi Munell Garcia",
+          "lastname": "Munell Garcia",
+          "firstname": "Jordi",
+          "type": "person",
+          "role": "Representante del Parlamento de Cataluña"
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 1
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 100
+      },
+      "agendaItem": {
+        "title": "Proposición de Ley para garantizar el retorno social del rescate\nbancario.",
+        "officialTitle": "Proposición de Ley para garantizar el retorno social del rescate\nbancario.",
+        "type": "regular",
+        "nativeType": "ES-ley"
+      },
+      "dateStart": "2025-03-11T15:10:00+01:00",
+      "dateEnd": "2025-03-11T15:16:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_096/cortes/15_000400_096_0_25871_749123.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1549123I",
+        "duration": 360.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_096_0_25871_749123",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Susanna Segovia Sánchez",
+          "lastname": "Segovia Sánchez",
+          "firstname": "Susanna",
+          "type": "person",
+          "role": "Representante del Parlamento de Cataluña"
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 2
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 100
+      },
+      "agendaItem": {
+        "title": "Proposición de Ley para garantizar el retorno social del rescate\nbancario.",
+        "officialTitle": "Proposición de Ley para garantizar el retorno social del rescate\nbancario.",
+        "type": "regular",
+        "nativeType": "ES-ley"
+      },
+      "dateStart": "2025-03-11T15:16:00+01:00",
+      "dateEnd": "2025-03-11T15:22:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_096/cortes/15_000400_096_0_25871_749124.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1549124I",
+        "duration": 360.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_096_0_25871_749124",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Mar Besses Casanova",
+          "lastname": "Besses Casanova",
+          "firstname": "Mar",
+          "type": "person",
+          "role": "Representante del Parlamento de Cataluña"
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 3
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 100
+      },
+      "agendaItem": {
+        "title": "Proposición de Ley para garantizar el retorno social del rescate\nbancario.",
+        "officialTitle": "Proposición de Ley para garantizar el retorno social del rescate\nbancario.",
+        "type": "regular",
+        "nativeType": "ES-ley"
+      },
+      "dateStart": "2025-03-11T15:22:00+01:00",
+      "dateEnd": "2025-03-11T15:27:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_096/cortes/15_000400_096_0_25871_749125.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1549125I",
+        "duration": 300.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_096_0_25871_749125",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Néstor Rego Candamil",
+          "lastname": "Rego Candamil",
+          "firstname": "Néstor",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Mixto"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 4
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 100
+      },
+      "agendaItem": {
+        "title": "Proposición de Ley para garantizar el retorno social del rescate\nbancario.",
+        "officialTitle": "Proposición de Ley para garantizar el retorno social del rescate\nbancario.",
+        "type": "regular",
+        "nativeType": "ES-ley"
+      },
+      "dateStart": "2025-03-11T15:27:00+01:00",
+      "dateEnd": "2025-03-11T15:32:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_096/cortes/15_000400_096_0_25871_749126.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1549126I",
+        "duration": 300.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_096_0_25871_749126",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Martina Velarde Gómez",
+          "lastname": "Velarde Gómez",
+          "firstname": "Martina",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Mixto"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 5
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 100
+      },
+      "agendaItem": {
+        "title": "Proposición de Ley para garantizar el retorno social del rescate\nbancario.",
+        "officialTitle": "Proposición de Ley para garantizar el retorno social del rescate\nbancario.",
+        "type": "regular",
+        "nativeType": "ES-ley"
+      },
+      "dateStart": "2025-03-11T15:32:00+01:00",
+      "dateEnd": "2025-03-11T15:36:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_096/cortes/15_000400_096_0_25871_749127.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1549127I",
+        "duration": 240.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_096_0_25871_749127",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Idoia Sagastizabal Unzetabarrenetxea",
+          "lastname": "Sagastizabal Unzetabarrenetxea",
+          "firstname": "Idoia",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Vasco (EAJ-PNV)"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 6
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 100
+      },
+      "agendaItem": {
+        "title": "Proposición de Ley para garantizar el retorno social del rescate\nbancario.",
+        "officialTitle": "Proposición de Ley para garantizar el retorno social del rescate\nbancario.",
+        "type": "regular",
+        "nativeType": "ES-ley"
+      },
+      "dateStart": "2025-03-11T15:36:00+01:00",
+      "dateEnd": "2025-03-11T15:45:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_096/cortes/15_000400_096_0_25871_749128.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1549128I",
+        "duration": 540.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_096_0_25871_749128",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Oskar Matute García de Jalón",
+          "lastname": "Matute García de Jalón",
+          "firstname": "Oskar",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Euskal Herria Bildu"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 7
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 100
+      },
+      "agendaItem": {
+        "title": "Proposición de Ley para garantizar el retorno social del rescate\nbancario.",
+        "officialTitle": "Proposición de Ley para garantizar el retorno social del rescate\nbancario.",
+        "type": "regular",
+        "nativeType": "ES-ley"
+      },
+      "dateStart": "2025-03-11T15:45:00+01:00",
+      "dateEnd": "2025-03-11T15:53:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_096/cortes/15_000400_096_0_25871_749129.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1549129I",
+        "duration": 480.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_096_0_25871_749129",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Josep Maria Cruset Domènech",
+          "lastname": "Cruset Domènech",
+          "firstname": "Josep Maria",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Junts per Catalunya"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 8
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 100
+      },
+      "agendaItem": {
+        "title": "Proposición de Ley para garantizar el retorno social del rescate\nbancario.",
+        "officialTitle": "Proposición de Ley para garantizar el retorno social del rescate\nbancario.",
+        "type": "regular",
+        "nativeType": "ES-ley"
+      },
+      "dateStart": "2025-03-11T15:53:00+01:00",
+      "dateEnd": "2025-03-11T15:59:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_096/cortes/15_000400_096_0_25871_749130.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1549130I",
+        "duration": 360.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_096_0_25871_749130",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Etna Estrems Fayos",
+          "lastname": "Estrems Fayos",
+          "firstname": "Etna",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Republicano"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 9
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 100
+      },
+      "agendaItem": {
+        "title": "Proposición de Ley para garantizar el retorno social del rescate\nbancario.",
+        "officialTitle": "Proposición de Ley para garantizar el retorno social del rescate\nbancario.",
+        "type": "regular",
+        "nativeType": "ES-ley"
+      },
+      "dateStart": "2025-03-11T15:59:00+01:00",
+      "dateEnd": "2025-03-11T16:09:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_096/cortes/15_000400_096_0_25871_749131.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1549131I",
+        "duration": 600.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_096_0_25871_749131",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Aina Vidal Sáez",
+          "lastname": "Vidal Sáez",
+          "firstname": "Aina",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Plurinacional SUMAR"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 10
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 100
+      },
+      "agendaItem": {
+        "title": "Proposición de Ley para garantizar el retorno social del rescate\nbancario.",
+        "officialTitle": "Proposición de Ley para garantizar el retorno social del rescate\nbancario.",
+        "type": "regular",
+        "nativeType": "ES-ley"
+      },
+      "dateStart": "2025-03-11T16:09:00+01:00",
+      "dateEnd": "2025-03-11T16:18:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_096/cortes/15_000400_096_0_25871_749132.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1549132I",
+        "duration": 540.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_096_0_25871_749132",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Pablo Sáez Alonso-Muñumer",
+          "lastname": "Sáez Alonso-Muñumer",
+          "firstname": "Pablo",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario VOX"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 11
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 100
+      },
+      "agendaItem": {
+        "title": "Proposición de Ley para garantizar el retorno social del rescate\nbancario.",
+        "officialTitle": "Proposición de Ley para garantizar el retorno social del rescate\nbancario.",
+        "type": "regular",
+        "nativeType": "ES-ley"
+      },
+      "dateStart": "2025-03-11T16:18:00+01:00",
+      "dateEnd": "2025-03-11T16:27:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_096/cortes/15_000400_096_0_25871_749133.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1549133I",
+        "duration": 540.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_096_0_25871_749133",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Gonzalo Redondo Cárdenas",
+          "lastname": "Redondo Cárdenas",
+          "firstname": "Gonzalo",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Socialista"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 12
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 100
+      },
+      "agendaItem": {
+        "title": "Proposición de Ley para garantizar el retorno social del rescate\nbancario.",
+        "officialTitle": "Proposición de Ley para garantizar el retorno social del rescate\nbancario.",
+        "type": "regular",
+        "nativeType": "ES-ley"
+      },
+      "dateStart": "2025-03-11T16:27:00+01:00",
+      "dateEnd": "2025-03-11T16:36:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_096/cortes/15_000400_096_0_25871_749134.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1549134I",
+        "duration": 540.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_096_0_25871_749134",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Santi Rodríguez Serra",
+          "lastname": "Rodríguez Serra",
+          "firstname": "Santi",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Popular en el Congreso"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 13
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 100
+      },
+      "agendaItem": {
+        "title": "Proposición de Ley para la recuperación de la bonificación de las\ncuotas patronales de la Seguridad Social para los empresarios de las\nciudades de Ceuta y Melilla, cuyas actividades estén encuadradas en los\nsectores recogidos en la presente ley, con cuentas de cotización y\ntrabajadores asignados a dichas empresas.",
+        "officialTitle": "Proposición de Ley para la recuperación de la bonificación de las\ncuotas patronales de la Seguridad Social para los empresarios de las\nciudades de Ceuta y Melilla, cuyas actividades estén encuadradas en los\nsectores recogidos en la presente ley, con cuentas de cotización y\ntrabajadores asignados a dichas empresas.",
+        "type": "regular",
+        "nativeType": "ES-ley"
+      },
+      "dateStart": "2025-03-11T16:37:00+01:00",
+      "dateEnd": "2025-03-11T16:47:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_096/cortes/15_000400_096_0_25871_749137.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1549137I",
+        "duration": 600.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_096_0_25871_749137",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Juan Bravo Baena",
+          "lastname": "Bravo Baena",
+          "firstname": "Juan",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Popular en el Congreso"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 14
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 100
+      },
+      "agendaItem": {
+        "title": "Proposición de Ley para la recuperación de la bonificación de las\ncuotas patronales de la Seguridad Social para los empresarios de las\nciudades de Ceuta y Melilla, cuyas actividades estén encuadradas en los\nsectores recogidos en la presente ley, con cuentas de cotización y\ntrabajadores asignados a dichas empresas.",
+        "officialTitle": "Proposición de Ley para la recuperación de la bonificación de las\ncuotas patronales de la Seguridad Social para los empresarios de las\nciudades de Ceuta y Melilla, cuyas actividades estén encuadradas en los\nsectores recogidos en la presente ley, con cuentas de cotización y\ntrabajadores asignados a dichas empresas.",
+        "type": "regular",
+        "nativeType": "ES-ley"
+      },
+      "dateStart": "2025-03-11T16:47:00+01:00",
+      "dateEnd": "2025-03-11T16:51:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_096/cortes/15_000400_096_0_25871_749138.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1549138I",
+        "duration": 240.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_096_0_25871_749138",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Idoia Sagastizabal Unzetabarrenetxea",
+          "lastname": "Sagastizabal Unzetabarrenetxea",
+          "firstname": "Idoia",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Vasco (EAJ-PNV)"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 15
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 100
+      },
+      "agendaItem": {
+        "title": "Proposición de Ley para la recuperación de la bonificación de las\ncuotas patronales de la Seguridad Social para los empresarios de las\nciudades de Ceuta y Melilla, cuyas actividades estén encuadradas en los\nsectores recogidos en la presente ley, con cuentas de cotización y\ntrabajadores asignados a dichas empresas.",
+        "officialTitle": "Proposición de Ley para la recuperación de la bonificación de las\ncuotas patronales de la Seguridad Social para los empresarios de las\nciudades de Ceuta y Melilla, cuyas actividades estén encuadradas en los\nsectores recogidos en la presente ley, con cuentas de cotización y\ntrabajadores asignados a dichas empresas.",
+        "type": "regular",
+        "nativeType": "ES-ley"
+      },
+      "dateStart": "2025-03-11T16:51:00+01:00",
+      "dateEnd": "2025-03-11T16:55:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_096/cortes/15_000400_096_0_25871_749139.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1549139I",
+        "duration": 240.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_096_0_25871_749139",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Inés Granollers Cunillera",
+          "lastname": "Granollers Cunillera",
+          "firstname": "Inés",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Republicano"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 16
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 100
+      },
+      "agendaItem": {
+        "title": "Proposición de Ley para la recuperación de la bonificación de las\ncuotas patronales de la Seguridad Social para los empresarios de las\nciudades de Ceuta y Melilla, cuyas actividades estén encuadradas en los\nsectores recogidos en la presente ley, con cuentas de cotización y\ntrabajadores asignados a dichas empresas.",
+        "officialTitle": "Proposición de Ley para la recuperación de la bonificación de las\ncuotas patronales de la Seguridad Social para los empresarios de las\nciudades de Ceuta y Melilla, cuyas actividades estén encuadradas en los\nsectores recogidos en la presente ley, con cuentas de cotización y\ntrabajadores asignados a dichas empresas.",
+        "type": "regular",
+        "nativeType": "ES-ley"
+      },
+      "dateStart": "2025-03-11T16:55:00+01:00",
+      "dateEnd": "2025-03-11T17:03:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_096/cortes/15_000400_096_0_25871_749140.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1549140I",
+        "duration": 480.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_096_0_25871_749140",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Manuel Lago Peñas",
+          "lastname": "Lago Peñas",
+          "firstname": "Manuel",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Plurinacional SUMAR"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 17
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 100
+      },
+      "agendaItem": {
+        "title": "Proposición de Ley para la recuperación de la bonificación de las\ncuotas patronales de la Seguridad Social para los empresarios de las\nciudades de Ceuta y Melilla, cuyas actividades estén encuadradas en los\nsectores recogidos en la presente ley, con cuentas de cotización y\ntrabajadores asignados a dichas empresas.",
+        "officialTitle": "Proposición de Ley para la recuperación de la bonificación de las\ncuotas patronales de la Seguridad Social para los empresarios de las\nciudades de Ceuta y Melilla, cuyas actividades estén encuadradas en los\nsectores recogidos en la presente ley, con cuentas de cotización y\ntrabajadores asignados a dichas empresas.",
+        "type": "regular",
+        "nativeType": "ES-ley"
+      },
+      "dateStart": "2025-03-11T17:03:00+01:00",
+      "dateEnd": "2025-03-11T17:11:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_096/cortes/15_000400_096_0_25871_749141.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1549141I",
+        "duration": 480.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_096_0_25871_749141",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Juan José Aizcorbe Torra",
+          "lastname": "Aizcorbe Torra",
+          "firstname": "Juan José",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario VOX"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 18
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 100
+      },
+      "agendaItem": {
+        "title": "Proposición de Ley para la recuperación de la bonificación de las\ncuotas patronales de la Seguridad Social para los empresarios de las\nciudades de Ceuta y Melilla, cuyas actividades estén encuadradas en los\nsectores recogidos en la presente ley, con cuentas de cotización y\ntrabajadores asignados a dichas empresas.",
+        "officialTitle": "Proposición de Ley para la recuperación de la bonificación de las\ncuotas patronales de la Seguridad Social para los empresarios de las\nciudades de Ceuta y Melilla, cuyas actividades estén encuadradas en los\nsectores recogidos en la presente ley, con cuentas de cotización y\ntrabajadores asignados a dichas empresas.",
+        "type": "regular",
+        "nativeType": "ES-ley"
+      },
+      "dateStart": "2025-03-11T17:11:00+01:00",
+      "dateEnd": "2025-03-11T17:19:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_096/cortes/15_000400_096_0_25871_749142.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1549142I",
+        "duration": 480.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_096_0_25871_749142",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Alberto Mayoral de Lamo",
+          "lastname": "Mayoral de Lamo",
+          "firstname": "Alberto",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Socialista"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 19
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 100
+      },
+      "agendaItem": {
+        "title": "Proposición no de Ley sobre el marco regulatorio contra la opacidad\nalgorítmica y el estudio para la posible creación de una red social de\ninterés y de iniciativa pública de ámbito europeo.",
+        "officialTitle": "Proposición no de Ley sobre el marco regulatorio contra la opacidad\nalgorítmica y el estudio para la posible creación de una red social de\ninterés y de iniciativa pública de ámbito europeo.",
+        "type": "regular"
+      },
+      "dateStart": "2025-03-11T17:20:00+01:00",
+      "dateEnd": "2025-03-11T17:28:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_096/cortes/15_000400_096_0_25871_749145.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1549145I",
+        "duration": 480.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_096_0_25871_749145",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Gabriel Rufián Romero",
+          "lastname": "Rufián Romero",
+          "firstname": "Gabriel",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Republicano"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 20
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 100
+      },
+      "agendaItem": {
+        "title": "Proposición no de Ley sobre el marco regulatorio contra la opacidad\nalgorítmica y el estudio para la posible creación de una red social de\ninterés y de iniciativa pública de ámbito europeo.",
+        "officialTitle": "Proposición no de Ley sobre el marco regulatorio contra la opacidad\nalgorítmica y el estudio para la posible creación de una red social de\ninterés y de iniciativa pública de ámbito europeo.",
+        "type": "regular"
+      },
+      "dateStart": "2025-03-11T17:28:00+01:00",
+      "dateEnd": "2025-03-11T17:32:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_096/cortes/15_000400_096_0_25871_749146.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1549146I",
+        "duration": 240.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_096_0_25871_749146",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Pilar Calvo Gómez",
+          "lastname": "Calvo Gómez",
+          "firstname": "Pilar",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Junts per Catalunya"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 21
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 100
+      },
+      "agendaItem": {
+        "title": "Proposición no de Ley sobre el marco regulatorio contra la opacidad\nalgorítmica y el estudio para la posible creación de una red social de\ninterés y de iniciativa pública de ámbito europeo.",
+        "officialTitle": "Proposición no de Ley sobre el marco regulatorio contra la opacidad\nalgorítmica y el estudio para la posible creación de una red social de\ninterés y de iniciativa pública de ámbito europeo.",
+        "type": "regular"
+      },
+      "dateStart": "2025-03-11T17:32:00+01:00",
+      "dateEnd": "2025-03-11T17:36:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_096/cortes/15_000400_096_0_25871_749147.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1549147I",
+        "duration": 240.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_096_0_25871_749147",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Néstor Rego Candamil",
+          "lastname": "Rego Candamil",
+          "firstname": "Néstor",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Mixto"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 22
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 100
+      },
+      "agendaItem": {
+        "title": "Proposición no de Ley sobre el marco regulatorio contra la opacidad\nalgorítmica y el estudio para la posible creación de una red social de\ninterés y de iniciativa pública de ámbito europeo.",
+        "officialTitle": "Proposición no de Ley sobre el marco regulatorio contra la opacidad\nalgorítmica y el estudio para la posible creación de una red social de\ninterés y de iniciativa pública de ámbito europeo.",
+        "type": "regular"
+      },
+      "dateStart": "2025-03-11T17:36:00+01:00",
+      "dateEnd": "2025-03-11T17:40:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_096/cortes/15_000400_096_0_25871_749148.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1549148I",
+        "duration": 240.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_096_0_25871_749148",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Martina Velarde Gómez",
+          "lastname": "Velarde Gómez",
+          "firstname": "Martina",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Mixto"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 23
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 100
+      },
+      "agendaItem": {
+        "title": "Proposición no de Ley sobre el marco regulatorio contra la opacidad\nalgorítmica y el estudio para la posible creación de una red social de\ninterés y de iniciativa pública de ámbito europeo.",
+        "officialTitle": "Proposición no de Ley sobre el marco regulatorio contra la opacidad\nalgorítmica y el estudio para la posible creación de una red social de\ninterés y de iniciativa pública de ámbito europeo.",
+        "type": "regular"
+      },
+      "dateStart": "2025-03-11T17:40:00+01:00",
+      "dateEnd": "2025-03-11T17:44:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_096/cortes/15_000400_096_0_25871_749149.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1549149I",
+        "duration": 240.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_096_0_25871_749149",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Idoia Sagastizabal Unzetabarrenetxea",
+          "lastname": "Sagastizabal Unzetabarrenetxea",
+          "firstname": "Idoia",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Vasco (EAJ-PNV)"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 24
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 100
+      },
+      "agendaItem": {
+        "title": "Proposición no de Ley sobre el marco regulatorio contra la opacidad\nalgorítmica y el estudio para la posible creación de una red social de\ninterés y de iniciativa pública de ámbito europeo.",
+        "officialTitle": "Proposición no de Ley sobre el marco regulatorio contra la opacidad\nalgorítmica y el estudio para la posible creación de una red social de\ninterés y de iniciativa pública de ámbito europeo.",
+        "type": "regular"
+      },
+      "dateStart": "2025-03-11T17:44:00+01:00",
+      "dateEnd": "2025-03-11T17:49:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_096/cortes/15_000400_096_0_25871_749150.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1549150I",
+        "duration": 300.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_096_0_25871_749150",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Teslem Andala Ubbi",
+          "lastname": "Andala Ubbi",
+          "firstname": "Teslem",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Plurinacional SUMAR"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 25
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 100
+      },
+      "agendaItem": {
+        "title": "Proposición no de Ley sobre el marco regulatorio contra la opacidad\nalgorítmica y el estudio para la posible creación de una red social de\ninterés y de iniciativa pública de ámbito europeo.",
+        "officialTitle": "Proposición no de Ley sobre el marco regulatorio contra la opacidad\nalgorítmica y el estudio para la posible creación de una red social de\ninterés y de iniciativa pública de ámbito europeo.",
+        "type": "regular"
+      },
+      "dateStart": "2025-03-11T17:49:00+01:00",
+      "dateEnd": "2025-03-11T17:55:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_096/cortes/15_000400_096_0_25871_749151.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1549151I",
+        "duration": 360.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_096_0_25871_749151",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Manuel Mariscal Zabala",
+          "lastname": "Mariscal Zabala",
+          "firstname": "Manuel",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario VOX"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 26
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 100
+      },
+      "agendaItem": {
+        "title": "Proposición no de Ley sobre el marco regulatorio contra la opacidad\nalgorítmica y el estudio para la posible creación de una red social de\ninterés y de iniciativa pública de ámbito europeo.",
+        "officialTitle": "Proposición no de Ley sobre el marco regulatorio contra la opacidad\nalgorítmica y el estudio para la posible creación de una red social de\ninterés y de iniciativa pública de ámbito europeo.",
+        "type": "regular"
+      },
+      "dateStart": "2025-03-11T17:55:00+01:00",
+      "dateEnd": "2025-03-11T18:01:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_096/cortes/15_000400_096_0_25871_749152.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1549152I",
+        "duration": 360.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_096_0_25871_749152",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Alfonso Rodríguez Gómez de Celis",
+          "lastname": "Rodríguez Gómez de Celis",
+          "firstname": "Alfonso",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Socialista"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 27
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 100
+      },
+      "agendaItem": {
+        "title": "Proposición no de Ley sobre el marco regulatorio contra la opacidad\nalgorítmica y el estudio para la posible creación de una red social de\ninterés y de iniciativa pública de ámbito europeo.",
+        "officialTitle": "Proposición no de Ley sobre el marco regulatorio contra la opacidad\nalgorítmica y el estudio para la posible creación de una red social de\ninterés y de iniciativa pública de ámbito europeo.",
+        "type": "regular"
+      },
+      "dateStart": "2025-03-11T18:01:00+01:00",
+      "dateEnd": "2025-03-11T18:07:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_096/cortes/15_000400_096_0_25871_749153.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1549153I",
+        "duration": 360.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_096_0_25871_749153",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Mario Cortés Carballo",
+          "lastname": "Cortés Carballo",
+          "firstname": "Mario",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Popular en el Congreso"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 28
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 100
+      },
+      "agendaItem": {
+        "title": "Proposición no de Ley para que el Gobierno ejerza de manera efectiva\ny uniforme sus competencias en materia de inmigración en todo el Estado.",
+        "officialTitle": "Proposición no de Ley para que el Gobierno ejerza de manera efectiva\ny uniforme sus competencias en materia de inmigración en todo el Estado.",
+        "type": "regular"
+      },
+      "dateStart": "2025-03-11T18:08:00+01:00",
+      "dateEnd": "2025-03-11T18:16:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_096/cortes/15_000400_096_0_25871_749155.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1549155I",
+        "duration": 480.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_096_0_25871_749155",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Miguel Tellado Filgueira",
+          "lastname": "Tellado Filgueira",
+          "firstname": "Miguel",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Popular en el Congreso"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 29
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 100
+      },
+      "agendaItem": {
+        "title": "Proposición no de Ley para que el Gobierno ejerza de manera efectiva\ny uniforme sus competencias en materia de inmigración en todo el Estado.",
+        "officialTitle": "Proposición no de Ley para que el Gobierno ejerza de manera efectiva\ny uniforme sus competencias en materia de inmigración en todo el Estado.",
+        "type": "regular"
+      },
+      "dateStart": "2025-03-11T18:16:00+01:00",
+      "dateEnd": "2025-03-11T18:24:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_096/cortes/15_000400_096_1_25873_749161.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1549161I",
+        "duration": 480.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_096_1_25873_749161",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Rocío De Meer Méndez",
+          "lastname": "De Meer Méndez",
+          "firstname": "Rocío",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario VOX"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 30
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 100
+      },
+      "agendaItem": {
+        "title": "Proposición no de Ley para que el Gobierno ejerza de manera efectiva\ny uniforme sus competencias en materia de inmigración en todo el Estado.",
+        "officialTitle": "Proposición no de Ley para que el Gobierno ejerza de manera efectiva\ny uniforme sus competencias en materia de inmigración en todo el Estado.",
+        "type": "regular"
+      },
+      "dateStart": "2025-03-11T18:24:00+01:00",
+      "dateEnd": "2025-03-11T18:26:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_096/cortes/15_000400_096_1_25873_749164.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1549164I",
+        "duration": 120.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_096_1_25873_749164",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Alberto Catalán Higueras",
+          "lastname": "Catalán Higueras",
+          "firstname": "Alberto",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Mixto"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 31
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 100
+      },
+      "agendaItem": {
+        "title": "Proposición no de Ley para que el Gobierno ejerza de manera efectiva\ny uniforme sus competencias en materia de inmigración en todo el Estado.",
+        "officialTitle": "Proposición no de Ley para que el Gobierno ejerza de manera efectiva\ny uniforme sus competencias en materia de inmigración en todo el Estado.",
+        "type": "regular"
+      },
+      "dateStart": "2025-03-11T18:26:00+01:00",
+      "dateEnd": "2025-03-11T18:30:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_096/cortes/15_000400_096_1_25873_749166.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1549166I",
+        "duration": 240.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_096_1_25873_749166",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Néstor Rego Candamil",
+          "lastname": "Rego Candamil",
+          "firstname": "Néstor",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Mixto"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 32
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 100
+      },
+      "agendaItem": {
+        "title": "Proposición no de Ley para que el Gobierno ejerza de manera efectiva\ny uniforme sus competencias en materia de inmigración en todo el Estado.",
+        "officialTitle": "Proposición no de Ley para que el Gobierno ejerza de manera efectiva\ny uniforme sus competencias en materia de inmigración en todo el Estado.",
+        "type": "regular"
+      },
+      "dateStart": "2025-03-11T18:30:00+01:00",
+      "dateEnd": "2025-03-11T18:32:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_096/cortes/15_000400_096_1_25873_749168.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1549168I",
+        "duration": 120.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_096_1_25873_749168",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Javier Sánchez Serna",
+          "lastname": "Sánchez Serna",
+          "firstname": "Javier",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Mixto"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 33
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 100
+      },
+      "agendaItem": {
+        "title": "Proposición no de Ley para que el Gobierno ejerza de manera efectiva\ny uniforme sus competencias en materia de inmigración en todo el Estado.",
+        "officialTitle": "Proposición no de Ley para que el Gobierno ejerza de manera efectiva\ny uniforme sus competencias en materia de inmigración en todo el Estado.",
+        "type": "regular"
+      },
+      "dateStart": "2025-03-11T18:32:00+01:00",
+      "dateEnd": "2025-03-11T18:37:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_096/cortes/15_000400_096_1_25873_749173.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1549173I",
+        "duration": 300.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_096_1_25873_749173",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Maribel Vaquero Montero",
+          "lastname": "Vaquero Montero",
+          "firstname": "Maribel",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Vasco (EAJ-PNV)"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 34
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 100
+      },
+      "agendaItem": {
+        "title": "Proposición no de Ley para que el Gobierno ejerza de manera efectiva\ny uniforme sus competencias en materia de inmigración en todo el Estado.",
+        "officialTitle": "Proposición no de Ley para que el Gobierno ejerza de manera efectiva\ny uniforme sus competencias en materia de inmigración en todo el Estado.",
+        "type": "regular"
+      },
+      "dateStart": "2025-03-11T18:37:00+01:00",
+      "dateEnd": "2025-03-11T18:43:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_096/cortes/15_000400_096_1_25873_749162.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1549162I",
+        "duration": 360.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_096_1_25873_749162",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Josep Maria Cervera Pinart",
+          "lastname": "Cervera Pinart",
+          "firstname": "Josep Maria",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Junts per Catalunya"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 35
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 100
+      },
+      "agendaItem": {
+        "title": "Proposición no de Ley para que el Gobierno ejerza de manera efectiva\ny uniforme sus competencias en materia de inmigración en todo el Estado.",
+        "officialTitle": "Proposición no de Ley para que el Gobierno ejerza de manera efectiva\ny uniforme sus competencias en materia de inmigración en todo el Estado.",
+        "type": "regular"
+      },
+      "dateStart": "2025-03-11T18:43:00+01:00",
+      "dateEnd": "2025-03-11T18:50:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_096/cortes/15_000400_096_1_25873_749163.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1549163I",
+        "duration": 420.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_096_1_25873_749163",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Jordi Salvador i Duch",
+          "lastname": "Salvador i Duch",
+          "firstname": "Jordi",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Republicano"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 36
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 100
+      },
+      "agendaItem": {
+        "title": "Proposición no de Ley para que el Gobierno ejerza de manera efectiva\ny uniforme sus competencias en materia de inmigración en todo el Estado.",
+        "officialTitle": "Proposición no de Ley para que el Gobierno ejerza de manera efectiva\ny uniforme sus competencias en materia de inmigración en todo el Estado.",
+        "type": "regular"
+      },
+      "dateStart": "2025-03-11T18:50:00+01:00",
+      "dateEnd": "2025-03-11T18:56:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_096/cortes/15_000400_096_1_25873_749165.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1549165I",
+        "duration": 360.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_096_1_25873_749165",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Enrique Fernando Santiago Romero",
+          "lastname": "Santiago Romero",
+          "firstname": "Enrique Fernando",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Plurinacional SUMAR"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 37
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 100
+      },
+      "agendaItem": {
+        "title": "Proposición no de Ley para que el Gobierno ejerza de manera efectiva\ny uniforme sus competencias en materia de inmigración en todo el Estado.",
+        "officialTitle": "Proposición no de Ley para que el Gobierno ejerza de manera efectiva\ny uniforme sus competencias en materia de inmigración en todo el Estado.",
+        "type": "regular"
+      },
+      "dateStart": "2025-03-11T18:56:00+01:00",
+      "dateEnd": "2025-03-11T19:03:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_096/cortes/15_000400_096_1_25873_749167.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1549167I",
+        "duration": 420.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_096_1_25873_749167",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "José Zaragoza Alonso",
+          "lastname": "Zaragoza Alonso",
+          "firstname": "José",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Socialista"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 38
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 100
+      },
+      "agendaItem": {
+        "title": "Proposición no de Ley para que el Gobierno ejerza de manera efectiva\ny uniforme sus competencias en materia de inmigración en todo el Estado.",
+        "officialTitle": "Proposición no de Ley para que el Gobierno ejerza de manera efectiva\ny uniforme sus competencias en materia de inmigración en todo el Estado.",
+        "type": "regular"
+      },
+      "dateStart": "2025-03-11T19:03:00+01:00",
+      "dateEnd": "2025-03-11T19:03:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_096/cortes/15_000400_096_1_25873_749169.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1549169I",
+        "duration": 0.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_096_1_25873_749169",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Miguel Tellado Filgueira",
+          "lastname": "Tellado Filgueira",
+          "firstname": "Miguel",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Popular en el Congreso"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 39
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 100
+      },
+      "agendaItem": {
+        "title": "Moción consecuencia de interpelación urgente relativa a la posición\ndel Gobierno sobre la retribución del permiso parental de cuidados de 8\nsemanas.",
+        "officialTitle": "Moción consecuencia de interpelación urgente relativa a la posición\ndel Gobierno sobre la retribución del permiso parental de cuidados de 8\nsemanas.",
+        "type": "regular",
+        "nativeType": "ES-mocion"
+      },
+      "dateStart": "2025-03-11T19:03:00+01:00",
+      "dateEnd": "2025-03-11T19:10:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_096/cortes/15_000400_096_1_25873_749172.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1549172I",
+        "duration": 420.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_096_1_25873_749172",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Noemí Santana Perera",
+          "lastname": "Santana Perera",
+          "firstname": "Noemí",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Mixto"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 40
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 100
+      },
+      "agendaItem": {
+        "title": "Moción consecuencia de interpelación urgente relativa a la posición\ndel Gobierno sobre la retribución del permiso parental de cuidados de 8\nsemanas.",
+        "officialTitle": "Moción consecuencia de interpelación urgente relativa a la posición\ndel Gobierno sobre la retribución del permiso parental de cuidados de 8\nsemanas.",
+        "type": "regular",
+        "nativeType": "ES-mocion"
+      },
+      "dateStart": "2025-03-11T19:10:00+01:00",
+      "dateEnd": "2025-03-11T19:14:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_096/cortes/15_000400_096_1_25873_749174.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1549174I",
+        "duration": 240.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_096_1_25873_749174",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Idoia Sagastizabal Unzetabarrenetxea",
+          "lastname": "Sagastizabal Unzetabarrenetxea",
+          "firstname": "Idoia",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Vasco (EAJ-PNV)"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 41
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 100
+      },
+      "agendaItem": {
+        "title": "Moción consecuencia de interpelación urgente relativa a la posición\ndel Gobierno sobre la retribución del permiso parental de cuidados de 8\nsemanas.",
+        "officialTitle": "Moción consecuencia de interpelación urgente relativa a la posición\ndel Gobierno sobre la retribución del permiso parental de cuidados de 8\nsemanas.",
+        "type": "regular",
+        "nativeType": "ES-mocion"
+      },
+      "dateStart": "2025-03-11T19:14:00+01:00",
+      "dateEnd": "2025-03-11T19:20:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_096/cortes/15_000400_096_1_25873_749175.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1549175I",
+        "duration": 360.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_096_1_25873_749175",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Marije Fullaondo la Cruz",
+          "lastname": "Fullaondo la Cruz",
+          "firstname": "Marije",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Euskal Herria Bildu"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 42
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 100
+      },
+      "agendaItem": {
+        "title": "Moción consecuencia de interpelación urgente relativa a la posición\ndel Gobierno sobre la retribución del permiso parental de cuidados de 8\nsemanas.",
+        "officialTitle": "Moción consecuencia de interpelación urgente relativa a la posición\ndel Gobierno sobre la retribución del permiso parental de cuidados de 8\nsemanas.",
+        "type": "regular",
+        "nativeType": "ES-mocion"
+      },
+      "dateStart": "2025-03-11T19:20:00+01:00",
+      "dateEnd": "2025-03-11T19:24:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_096/cortes/15_000400_096_1_25873_749176.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1549176I",
+        "duration": 240.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_096_1_25873_749176",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Jordi Salvador i Duch",
+          "lastname": "Salvador i Duch",
+          "firstname": "Jordi",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Republicano"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 43
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 100
+      },
+      "agendaItem": {
+        "title": "Moción consecuencia de interpelación urgente relativa a la posición\ndel Gobierno sobre la retribución del permiso parental de cuidados de 8\nsemanas.",
+        "officialTitle": "Moción consecuencia de interpelación urgente relativa a la posición\ndel Gobierno sobre la retribución del permiso parental de cuidados de 8\nsemanas.",
+        "type": "regular",
+        "nativeType": "ES-mocion"
+      },
+      "dateStart": "2025-03-11T19:24:00+01:00",
+      "dateEnd": "2025-03-11T19:29:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_096/cortes/15_000400_096_1_25873_749177.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1549177I",
+        "duration": 300.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_096_1_25873_749177",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Júlia Boada Danés",
+          "lastname": "Boada Danés",
+          "firstname": "Júlia",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Plurinacional SUMAR"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 44
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 100
+      },
+      "agendaItem": {
+        "title": "Moción consecuencia de interpelación urgente relativa a la posición\ndel Gobierno sobre la retribución del permiso parental de cuidados de 8\nsemanas.",
+        "officialTitle": "Moción consecuencia de interpelación urgente relativa a la posición\ndel Gobierno sobre la retribución del permiso parental de cuidados de 8\nsemanas.",
+        "type": "regular",
+        "nativeType": "ES-mocion"
+      },
+      "dateStart": "2025-03-11T19:29:00+01:00",
+      "dateEnd": "2025-03-11T19:37:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_096/cortes/15_000400_096_1_25873_749178.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1549178I",
+        "duration": 480.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_096_1_25873_749178",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "María de los Reyes Romero Vilches",
+          "lastname": "Romero Vilches",
+          "firstname": "María de los Reyes",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario VOX"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 45
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 100
+      },
+      "agendaItem": {
+        "title": "Moción consecuencia de interpelación urgente relativa a la posición\ndel Gobierno sobre la retribución del permiso parental de cuidados de 8\nsemanas.",
+        "officialTitle": "Moción consecuencia de interpelación urgente relativa a la posición\ndel Gobierno sobre la retribución del permiso parental de cuidados de 8\nsemanas.",
+        "type": "regular",
+        "nativeType": "ES-mocion"
+      },
+      "dateStart": "2025-03-11T19:37:00+01:00",
+      "dateEnd": "2025-03-11T19:43:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_096/cortes/15_000400_096_1_25873_749179.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1549179I",
+        "duration": 360.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_096_1_25873_749179",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Valle Mellado Sierra",
+          "lastname": "Mellado Sierra",
+          "firstname": "Valle",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Socialista"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 46
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 100
+      },
+      "agendaItem": {
+        "title": "Moción consecuencia de interpelación urgente relativa a la posición\ndel Gobierno sobre la retribución del permiso parental de cuidados de 8\nsemanas.",
+        "officialTitle": "Moción consecuencia de interpelación urgente relativa a la posición\ndel Gobierno sobre la retribución del permiso parental de cuidados de 8\nsemanas.",
+        "type": "regular",
+        "nativeType": "ES-mocion"
+      },
+      "dateStart": "2025-03-11T19:43:00+01:00",
+      "dateEnd": "2025-03-11T19:49:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_096/cortes/15_000400_096_1_25873_749180.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1549180I",
+        "duration": 360.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_096_1_25873_749180",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Sandra Fernández Herranz",
+          "lastname": "Fernández Herranz",
+          "firstname": "Sandra",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Popular en el Congreso"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 47
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 100
+      },
+      "agendaItem": {
+        "title": "Moción consecuencia de interpelación urgente sobre las medidas que\nadoptará el Gobierno para garantizar la soberanía energética de España.",
+        "officialTitle": "Moción consecuencia de interpelación urgente sobre las medidas que\nadoptará el Gobierno para garantizar la soberanía energética de España.",
+        "type": "regular",
+        "nativeType": "ES-mocion"
+      },
+      "dateStart": "2025-03-11T19:49:00+01:00",
+      "dateEnd": "2025-03-11T19:58:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_096/cortes/15_000400_096_1_25873_749182.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1549182I",
+        "duration": 540.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_096_1_25873_749182",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Ricardo Chamorro Delmo",
+          "lastname": "Chamorro Delmo",
+          "firstname": "Ricardo",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario VOX"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 48
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 100
+      },
+      "agendaItem": {
+        "title": "Moción consecuencia de interpelación urgente sobre las medidas que\nadoptará el Gobierno para garantizar la soberanía energética de España.",
+        "officialTitle": "Moción consecuencia de interpelación urgente sobre las medidas que\nadoptará el Gobierno para garantizar la soberanía energética de España.",
+        "type": "regular",
+        "nativeType": "ES-mocion"
+      },
+      "dateStart": "2025-03-11T19:58:00+01:00",
+      "dateEnd": "2025-03-11T20:05:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_096/cortes/15_000400_096_1_25873_749183.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1549183I",
+        "duration": 420.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_096_1_25873_749183",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Teresa Jordà i Roura",
+          "lastname": "Jordà i Roura",
+          "firstname": "Teresa",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Republicano"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 49
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 100
+      },
+      "agendaItem": {
+        "title": "Moción consecuencia de interpelación urgente sobre las medidas que\nadoptará el Gobierno para garantizar la soberanía energética de España.",
+        "officialTitle": "Moción consecuencia de interpelación urgente sobre las medidas que\nadoptará el Gobierno para garantizar la soberanía energética de España.",
+        "type": "regular",
+        "nativeType": "ES-mocion"
+      },
+      "dateStart": "2025-03-11T20:05:00+01:00",
+      "dateEnd": "2025-03-11T20:11:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_096/cortes/15_000400_096_1_25873_749184.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1549184I",
+        "duration": 360.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_096_1_25873_749184",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Eloi Badia Casas",
+          "lastname": "Badia Casas",
+          "firstname": "Eloi",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Plurinacional SUMAR"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 50
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 100
+      },
+      "agendaItem": {
+        "title": "Moción consecuencia de interpelación urgente sobre las medidas que\nadoptará el Gobierno para garantizar la soberanía energética de España.",
+        "officialTitle": "Moción consecuencia de interpelación urgente sobre las medidas que\nadoptará el Gobierno para garantizar la soberanía energética de España.",
+        "type": "regular",
+        "nativeType": "ES-mocion"
+      },
+      "dateStart": "2025-03-11T20:11:00+01:00",
+      "dateEnd": "2025-03-11T20:17:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_096/cortes/15_000400_096_1_25873_749185.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1549185I",
+        "duration": 360.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_096_1_25873_749185",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Daniel Senderos Oraá",
+          "lastname": "Senderos Oraá",
+          "firstname": "Daniel",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Socialista"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 51
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 100
+      },
+      "agendaItem": {
+        "title": "Moción consecuencia de interpelación urgente sobre las medidas que\nadoptará el Gobierno para garantizar la soberanía energética de España.",
+        "officialTitle": "Moción consecuencia de interpelación urgente sobre las medidas que\nadoptará el Gobierno para garantizar la soberanía energética de España.",
+        "type": "regular",
+        "nativeType": "ES-mocion"
+      },
+      "dateStart": "2025-03-11T20:17:00+01:00",
+      "dateEnd": "2025-03-11T20:25:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_096/cortes/15_000400_096_1_25873_749186.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1549186I",
+        "duration": 480.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_096_1_25873_749186",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Juan Diego Requena Ruiz",
+          "lastname": "Requena Ruiz",
+          "firstname": "Juan Diego",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Popular en el Congreso"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 52
+    }
+  ]
+}

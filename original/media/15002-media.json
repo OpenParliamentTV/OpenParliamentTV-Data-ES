@@ -1,0 +1,874 @@
+{
+  "meta": {
+    "session": "15002",
+    "processing": {
+      "parse_media": "2026-05-23T07:17:41"
+    },
+    "dateStart": "2023-09-19T12:03:00+02:00",
+    "dateEnd": "2023-09-19T14:42:00+02:00"
+  },
+  "data": [
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 2
+      },
+      "agendaItem": {
+        "title": "Proposición de reforma del Reglamento del Congreso de los Diputados.",
+        "officialTitle": "Proposición de reforma del Reglamento del Congreso de los Diputados.",
+        "type": "rules_of_procedure",
+        "nativeType": "ES-reglamento"
+      },
+      "dateStart": "2023-09-19T12:03:00+02:00",
+      "dateEnd": "2023-09-19T12:05:00+02:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_002/cortes/15_000400_002_0_24122_725198.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1525198I",
+        "duration": 120.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_002_0_24122_725198",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Concepción Gamarra Ruiz-Clavijo",
+          "lastname": "Gamarra Ruiz-Clavijo",
+          "firstname": "Concepción",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Popular en el Congreso"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 1
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 2
+      },
+      "agendaItem": {
+        "title": "Proposición de reforma del Reglamento del Congreso de los Diputados.",
+        "officialTitle": "Proposición de reforma del Reglamento del Congreso de los Diputados.",
+        "type": "rules_of_procedure",
+        "nativeType": "ES-reglamento"
+      },
+      "dateStart": "2023-09-19T12:05:00+02:00",
+      "dateEnd": "2023-09-19T12:06:00+02:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_002/cortes/15_000400_002_0_24122_725199.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1525199I",
+        "duration": 60.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_002_0_24122_725199",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Francina Armengol Socias",
+          "lastname": "Armengol Socias",
+          "firstname": "Francina",
+          "type": "person",
+          "role": "Presidenta del Congreso de los Diputados",
+          "faction": {
+            "label": "Grupo Parlamentario Socialista"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 2
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 2
+      },
+      "agendaItem": {
+        "title": "Proposición de reforma del Reglamento del Congreso de los Diputados.",
+        "officialTitle": "Proposición de reforma del Reglamento del Congreso de los Diputados.",
+        "type": "rules_of_procedure",
+        "nativeType": "ES-reglamento"
+      },
+      "dateStart": "2023-09-19T12:07:00+02:00",
+      "dateEnd": "2023-09-19T12:19:00+02:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_002/cortes/15_000400_002_0_24122_725200.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1525200I",
+        "duration": 720.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_002_0_24122_725200",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "José Ramón Gómez Besteiro",
+          "lastname": "Gómez Besteiro",
+          "firstname": "José Ramón",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Socialista"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 3
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 2
+      },
+      "agendaItem": {
+        "title": "Proposición de reforma del Reglamento del Congreso de los Diputados.",
+        "officialTitle": "Proposición de reforma del Reglamento del Congreso de los Diputados.",
+        "type": "rules_of_procedure",
+        "nativeType": "ES-reglamento"
+      },
+      "dateStart": "2023-09-19T12:20:00+02:00",
+      "dateEnd": "2023-09-19T12:34:00+02:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_002/cortes/15_000400_002_0_24122_725201.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1525201I",
+        "duration": 840.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_002_0_24122_725201",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Marta Lois González",
+          "lastname": "Lois González",
+          "firstname": "Marta",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Plurinacional SUMAR"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 4
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 2
+      },
+      "agendaItem": {
+        "title": "Proposición de reforma del Reglamento del Congreso de los Diputados.",
+        "officialTitle": "Proposición de reforma del Reglamento del Congreso de los Diputados.",
+        "type": "rules_of_procedure",
+        "nativeType": "ES-reglamento"
+      },
+      "dateStart": "2023-09-19T12:35:00+02:00",
+      "dateEnd": "2023-09-19T12:47:00+02:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_002/cortes/15_000400_002_0_24122_725202.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1525202I",
+        "duration": 720.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_002_0_24122_725202",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Gabriel Rufián Romero",
+          "lastname": "Rufián Romero",
+          "firstname": "Gabriel",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Republicano"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 5
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 2
+      },
+      "agendaItem": {
+        "title": "Proposición de reforma del Reglamento del Congreso de los Diputados.",
+        "officialTitle": "Proposición de reforma del Reglamento del Congreso de los Diputados.",
+        "type": "rules_of_procedure",
+        "nativeType": "ES-reglamento"
+      },
+      "dateStart": "2023-09-19T12:48:00+02:00",
+      "dateEnd": "2023-09-19T13:00:00+02:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_002/cortes/15_000400_002_0_24122_725203.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1525203I",
+        "duration": 720.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_002_0_24122_725203",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Mertxe Aizpurua Arzallus",
+          "lastname": "Aizpurua Arzallus",
+          "firstname": "Mertxe",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Euskal Herria Bildu"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 6
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 2
+      },
+      "agendaItem": {
+        "title": "Proposición de reforma del Reglamento del Congreso de los Diputados.",
+        "officialTitle": "Proposición de reforma del Reglamento del Congreso de los Diputados.",
+        "type": "rules_of_procedure",
+        "nativeType": "ES-reglamento"
+      },
+      "dateStart": "2023-09-19T13:01:00+02:00",
+      "dateEnd": "2023-09-19T13:13:00+02:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_002/cortes/15_000400_002_0_24122_725204.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1525204I",
+        "duration": 720.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_002_0_24122_725204",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Joseba Andoni Agirretxea Urresti",
+          "lastname": "Agirretxea Urresti",
+          "firstname": "Joseba Andoni",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Vasco (EAJ-PNV)"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 7
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 2
+      },
+      "agendaItem": {
+        "title": "Proposición de reforma del Reglamento del Congreso de los Diputados.",
+        "officialTitle": "Proposición de reforma del Reglamento del Congreso de los Diputados.",
+        "type": "rules_of_procedure",
+        "nativeType": "ES-reglamento"
+      },
+      "dateStart": "2023-09-19T13:14:00+02:00",
+      "dateEnd": "2023-09-19T13:23:00+02:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_002/cortes/15_000400_002_0_24122_725205.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1525205I",
+        "duration": 540.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_002_0_24122_725205",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Néstor Rego Candamil",
+          "lastname": "Rego Candamil",
+          "firstname": "Néstor",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Mixto"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 8
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 2
+      },
+      "agendaItem": {
+        "title": "Proposición de reforma del Reglamento del Congreso de los Diputados.",
+        "officialTitle": "Proposición de reforma del Reglamento del Congreso de los Diputados.",
+        "type": "rules_of_procedure",
+        "nativeType": "ES-reglamento"
+      },
+      "dateStart": "2023-09-19T13:23:00+02:00",
+      "dateEnd": "2023-09-19T13:28:00+02:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_002/cortes/15_000400_002_0_24122_725206.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1525206I",
+        "duration": 300.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_002_0_24122_725206",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Alberto Catalán Higueras",
+          "lastname": "Catalán Higueras",
+          "firstname": "Alberto",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Mixto"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 9
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 2
+      },
+      "agendaItem": {
+        "title": "Proposición de reforma del Reglamento del Congreso de los Diputados.",
+        "officialTitle": "Proposición de reforma del Reglamento del Congreso de los Diputados.",
+        "type": "rules_of_procedure",
+        "nativeType": "ES-reglamento"
+      },
+      "dateStart": "2023-09-19T13:28:00+02:00",
+      "dateEnd": "2023-09-19T13:45:00+02:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_002/cortes/15_000400_002_0_24122_725207.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1525207I",
+        "duration": 1020.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_002_0_24122_725207",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Borja Sémper Pascual",
+          "lastname": "Sémper Pascual",
+          "firstname": "Borja",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Popular en el Congreso"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 10
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 2
+      },
+      "agendaItem": {
+        "title": "Proposición de reforma del Reglamento del Congreso de los Diputados.",
+        "officialTitle": "Proposición de reforma del Reglamento del Congreso de los Diputados.",
+        "type": "rules_of_procedure",
+        "nativeType": "ES-reglamento"
+      },
+      "dateStart": "2023-09-19T13:46:00+02:00",
+      "dateEnd": "2023-09-19T13:51:00+02:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_002/cortes/15_000400_002_0_24122_725210.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1525210I",
+        "duration": 300.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_002_0_24122_725210",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "José Ramón Gómez Besteiro",
+          "lastname": "Gómez Besteiro",
+          "firstname": "José Ramón",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Socialista"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 11
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 2
+      },
+      "agendaItem": {
+        "title": "Proposición de reforma del Reglamento del Congreso de los Diputados.",
+        "officialTitle": "Proposición de reforma del Reglamento del Congreso de los Diputados.",
+        "type": "rules_of_procedure",
+        "nativeType": "ES-reglamento"
+      },
+      "dateStart": "2023-09-19T13:51:00+02:00",
+      "dateEnd": "2023-09-19T13:58:00+02:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_002/cortes/15_000400_002_0_24122_725211.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1525211I",
+        "duration": 420.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_002_0_24122_725211",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Gerardo Pisarello Prados",
+          "lastname": "Pisarello Prados",
+          "firstname": "Gerardo",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Plurinacional SUMAR"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 12
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 2
+      },
+      "agendaItem": {
+        "title": "Proposición de reforma del Reglamento del Congreso de los Diputados.",
+        "officialTitle": "Proposición de reforma del Reglamento del Congreso de los Diputados.",
+        "type": "rules_of_procedure",
+        "nativeType": "ES-reglamento"
+      },
+      "dateStart": "2023-09-19T13:59:00+02:00",
+      "dateEnd": "2023-09-19T14:04:00+02:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_002/cortes/15_000400_002_0_24122_725212.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1525212I",
+        "duration": 300.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_002_0_24122_725212",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Gabriel Rufián Romero",
+          "lastname": "Rufián Romero",
+          "firstname": "Gabriel",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Republicano"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 13
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 2
+      },
+      "agendaItem": {
+        "title": "Proposición de reforma del Reglamento del Congreso de los Diputados.",
+        "officialTitle": "Proposición de reforma del Reglamento del Congreso de los Diputados.",
+        "type": "rules_of_procedure",
+        "nativeType": "ES-reglamento"
+      },
+      "dateStart": "2023-09-19T14:05:00+02:00",
+      "dateEnd": "2023-09-19T14:09:00+02:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_002/cortes/15_000400_002_0_24122_725213.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1525213I",
+        "duration": 240.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_002_0_24122_725213",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Joseba Andoni Agirretxea Urresti",
+          "lastname": "Agirretxea Urresti",
+          "firstname": "Joseba Andoni",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Vasco (EAJ-PNV)"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 14
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 2
+      },
+      "agendaItem": {
+        "title": "Proposición de reforma del Reglamento del Congreso de los Diputados.",
+        "officialTitle": "Proposición de reforma del Reglamento del Congreso de los Diputados.",
+        "type": "rules_of_procedure",
+        "nativeType": "ES-reglamento"
+      },
+      "dateStart": "2023-09-19T14:09:00+02:00",
+      "dateEnd": "2023-09-19T14:15:00+02:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_002/cortes/15_000400_002_0_24122_725214.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1525214I",
+        "duration": 360.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_002_0_24122_725214",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Néstor Rego Candamil",
+          "lastname": "Rego Candamil",
+          "firstname": "Néstor",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Mixto"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 15
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 2
+      },
+      "agendaItem": {
+        "title": "Proposición de reforma del Reglamento del Congreso de los Diputados.",
+        "officialTitle": "Proposición de reforma del Reglamento del Congreso de los Diputados.",
+        "type": "rules_of_procedure",
+        "nativeType": "ES-reglamento"
+      },
+      "dateStart": "2023-09-19T14:15:00+02:00",
+      "dateEnd": "2023-09-19T14:21:00+02:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_002/cortes/15_000400_002_0_24122_725215.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1525215I",
+        "duration": 360.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_002_0_24122_725215",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Borja Sémper Pascual",
+          "lastname": "Sémper Pascual",
+          "firstname": "Borja",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Popular en el Congreso"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 16
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 2
+      },
+      "agendaItem": {
+        "title": "Proposición de reforma del Reglamento del Congreso de los Diputados.",
+        "officialTitle": "Proposición de reforma del Reglamento del Congreso de los Diputados.",
+        "type": "rules_of_procedure",
+        "nativeType": "ES-reglamento"
+      },
+      "dateStart": "2023-09-19T14:22:00+02:00",
+      "dateEnd": "2023-09-19T14:29:00+02:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_002/cortes/15_000400_002_0_24122_725216.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1525216I",
+        "duration": 420.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_002_0_24122_725216",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Míriam Nogueras i Camero",
+          "lastname": "Nogueras i Camero",
+          "firstname": "Míriam",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Junts per Catalunya"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 17
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 2
+      },
+      "agendaItem": {
+        "title": "Proposición de reforma del Reglamento del Congreso de los Diputados.",
+        "officialTitle": "Proposición de reforma del Reglamento del Congreso de los Diputados.",
+        "type": "rules_of_procedure",
+        "nativeType": "ES-reglamento"
+      },
+      "dateStart": "2023-09-19T14:30:00+02:00",
+      "dateEnd": "2023-09-19T14:34:00+02:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_002/cortes/15_000400_002_0_24122_725217.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1525217I",
+        "duration": 240.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_002_0_24122_725217",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "María José Rodríguez de Millán Parro",
+          "lastname": "Rodríguez de Millán Parro",
+          "firstname": "María José",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario VOX"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 18
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 2
+      },
+      "agendaItem": {
+        "title": "Proposición de reforma del Reglamento del Congreso de los Diputados.",
+        "officialTitle": "Proposición de reforma del Reglamento del Congreso de los Diputados.",
+        "type": "rules_of_procedure",
+        "nativeType": "ES-reglamento"
+      },
+      "dateStart": "2023-09-19T14:36:00+02:00",
+      "dateEnd": "2023-09-19T14:36:00+02:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_002/cortes/15_000400_002_0_24122_725220.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1525220I",
+        "duration": 0.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_002_0_24122_725220",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Néstor Rego Candamil",
+          "lastname": "Rego Candamil",
+          "firstname": "Néstor",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Mixto"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 19
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 2
+      },
+      "agendaItem": {
+        "title": "Proposición de reforma del Reglamento del Congreso de los Diputados.",
+        "officialTitle": "Proposición de reforma del Reglamento del Congreso de los Diputados.",
+        "type": "rules_of_procedure",
+        "nativeType": "ES-reglamento"
+      },
+      "dateStart": "2023-09-19T14:37:00+02:00",
+      "dateEnd": "2023-09-19T14:40:00+02:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_002/cortes/15_000400_002_0_24122_725221.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1525221I",
+        "duration": 180.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_002_0_24122_725221",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "José María Figaredo Álvarez-Sala",
+          "lastname": "Figaredo Álvarez-Sala",
+          "firstname": "José María",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario VOX"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 20
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 2
+      },
+      "agendaItem": {
+        "title": "Proposición de reforma del Reglamento del Congreso de los Diputados.",
+        "officialTitle": "Proposición de reforma del Reglamento del Congreso de los Diputados.",
+        "type": "rules_of_procedure",
+        "nativeType": "ES-reglamento"
+      },
+      "dateStart": "2023-09-19T14:41:00+02:00",
+      "dateEnd": "2023-09-19T14:42:00+02:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_002/cortes/15_000400_002_0_24122_725222.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1525222I",
+        "duration": 60.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_002_0_24122_725222",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Borja Sémper Pascual",
+          "lastname": "Sémper Pascual",
+          "firstname": "Borja",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Popular en el Congreso"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 21
+    }
+  ]
+}

@@ -1,0 +1,1958 @@
+{
+  "meta": {
+    "session": "15060",
+    "processing": {
+      "parse_media": "2026-05-23T07:17:41"
+    },
+    "dateStart": "2024-09-10T15:08:00+02:00",
+    "dateEnd": "2024-09-10T20:55:00+02:00"
+  },
+  "data": [
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 60
+      },
+      "agendaItem": {
+        "title": "Proposición de Ley Orgánica de modificación de la Ley Orgánica\n5/1985, de 19 de junio, del Régimen Electoral General, relativa a las\nelecciones al Parlamento Europeo.",
+        "officialTitle": "Proposición de Ley Orgánica de modificación de la Ley Orgánica\n5/1985, de 19 de junio, del Régimen Electoral General, relativa a las\nelecciones al Parlamento Europeo.",
+        "type": "regular",
+        "nativeType": "ES-ley"
+      },
+      "dateStart": "2024-09-10T15:08:00+02:00",
+      "dateEnd": "2024-09-10T15:19:00+02:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_057/cortes/15_000400_057_0_25194_737632.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1537632I",
+        "duration": 660.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_057_0_25194_737632",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Mirian Guardiola Salmerón",
+          "lastname": "Guardiola Salmerón",
+          "firstname": "Mirian",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Popular en el Congreso"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 1
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 60
+      },
+      "agendaItem": {
+        "title": "Proposición de Ley Orgánica de modificación de la Ley Orgánica\n5/1985, de 19 de junio, del Régimen Electoral General, relativa a las\nelecciones al Parlamento Europeo.",
+        "officialTitle": "Proposición de Ley Orgánica de modificación de la Ley Orgánica\n5/1985, de 19 de junio, del Régimen Electoral General, relativa a las\nelecciones al Parlamento Europeo.",
+        "type": "regular",
+        "nativeType": "ES-ley"
+      },
+      "dateStart": "2024-09-10T15:19:00+02:00",
+      "dateEnd": "2024-09-10T15:28:00+02:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_057/cortes/15_000400_057_0_25194_737634.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1537634I",
+        "duration": 540.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_057_0_25194_737634",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Néstor Rego Candamil",
+          "lastname": "Rego Candamil",
+          "firstname": "Néstor",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Mixto"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 2
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 60
+      },
+      "agendaItem": {
+        "title": "Proposición de Ley Orgánica de modificación de la Ley Orgánica\n5/1985, de 19 de junio, del Régimen Electoral General, relativa a las\nelecciones al Parlamento Europeo.",
+        "officialTitle": "Proposición de Ley Orgánica de modificación de la Ley Orgánica\n5/1985, de 19 de junio, del Régimen Electoral General, relativa a las\nelecciones al Parlamento Europeo.",
+        "type": "regular",
+        "nativeType": "ES-ley"
+      },
+      "dateStart": "2024-09-10T15:28:00+02:00",
+      "dateEnd": "2024-09-10T15:36:00+02:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_057/cortes/15_000400_057_0_25194_737635.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1537635I",
+        "duration": 480.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_057_0_25194_737635",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Mikel Legarda Uriarte",
+          "lastname": "Legarda Uriarte",
+          "firstname": "Mikel",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Vasco (EAJ-PNV)"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 3
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 60
+      },
+      "agendaItem": {
+        "title": "Proposición de Ley Orgánica de modificación de la Ley Orgánica\n5/1985, de 19 de junio, del Régimen Electoral General, relativa a las\nelecciones al Parlamento Europeo.",
+        "officialTitle": "Proposición de Ley Orgánica de modificación de la Ley Orgánica\n5/1985, de 19 de junio, del Régimen Electoral General, relativa a las\nelecciones al Parlamento Europeo.",
+        "type": "regular",
+        "nativeType": "ES-ley"
+      },
+      "dateStart": "2024-09-10T15:36:00+02:00",
+      "dateEnd": "2024-09-10T15:44:00+02:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_057/cortes/15_000400_057_0_25194_737636.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1537636I",
+        "duration": 480.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_057_0_25194_737636",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Josep Pagès i Massó",
+          "lastname": "Pagès i Massó",
+          "firstname": "Josep",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Junts per Catalunya"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 4
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 60
+      },
+      "agendaItem": {
+        "title": "Proposición de Ley Orgánica de modificación de la Ley Orgánica\n5/1985, de 19 de junio, del Régimen Electoral General, relativa a las\nelecciones al Parlamento Europeo.",
+        "officialTitle": "Proposición de Ley Orgánica de modificación de la Ley Orgánica\n5/1985, de 19 de junio, del Régimen Electoral General, relativa a las\nelecciones al Parlamento Europeo.",
+        "type": "regular",
+        "nativeType": "ES-ley"
+      },
+      "dateStart": "2024-09-10T15:44:00+02:00",
+      "dateEnd": "2024-09-10T15:54:00+02:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_057/cortes/15_000400_057_0_25194_737637.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1537637I",
+        "duration": 600.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_057_0_25194_737637",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Francesc-Marc Álvaro Vidal",
+          "lastname": "Álvaro Vidal",
+          "firstname": "Francesc-Marc",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Republicano"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 5
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 60
+      },
+      "agendaItem": {
+        "title": "Proposición de Ley Orgánica de modificación de la Ley Orgánica\n5/1985, de 19 de junio, del Régimen Electoral General, relativa a las\nelecciones al Parlamento Europeo.",
+        "officialTitle": "Proposición de Ley Orgánica de modificación de la Ley Orgánica\n5/1985, de 19 de junio, del Régimen Electoral General, relativa a las\nelecciones al Parlamento Europeo.",
+        "type": "regular",
+        "nativeType": "ES-ley"
+      },
+      "dateStart": "2024-09-10T15:54:00+02:00",
+      "dateEnd": "2024-09-10T16:00:00+02:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_057/cortes/15_000400_057_0_25194_737638.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1537638I",
+        "duration": 360.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_057_0_25194_737638",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Txema Guijarro García",
+          "lastname": "Guijarro García",
+          "firstname": "Txema",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Plurinacional SUMAR"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 6
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 60
+      },
+      "agendaItem": {
+        "title": "Proposición de Ley Orgánica de modificación de la Ley Orgánica\n5/1985, de 19 de junio, del Régimen Electoral General, relativa a las\nelecciones al Parlamento Europeo.",
+        "officialTitle": "Proposición de Ley Orgánica de modificación de la Ley Orgánica\n5/1985, de 19 de junio, del Régimen Electoral General, relativa a las\nelecciones al Parlamento Europeo.",
+        "type": "regular",
+        "nativeType": "ES-ley"
+      },
+      "dateStart": "2024-09-10T16:00:00+02:00",
+      "dateEnd": "2024-09-10T16:10:00+02:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_057/cortes/15_000400_057_0_25194_737639.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1537639I",
+        "duration": 600.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_057_0_25194_737639",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Carlos Flores Juberías",
+          "lastname": "Flores Juberías",
+          "firstname": "Carlos",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario VOX"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 7
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 60
+      },
+      "agendaItem": {
+        "title": "Proposición de Ley Orgánica de modificación de la Ley Orgánica\n5/1985, de 19 de junio, del Régimen Electoral General, relativa a las\nelecciones al Parlamento Europeo.",
+        "officialTitle": "Proposición de Ley Orgánica de modificación de la Ley Orgánica\n5/1985, de 19 de junio, del Régimen Electoral General, relativa a las\nelecciones al Parlamento Europeo.",
+        "type": "regular",
+        "nativeType": "ES-ley"
+      },
+      "dateStart": "2024-09-10T16:10:00+02:00",
+      "dateEnd": "2024-09-10T16:18:00+02:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_057/cortes/15_000400_057_0_25194_737640.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1537640I",
+        "duration": 480.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_057_0_25194_737640",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Artemi Rallo Lombarte",
+          "lastname": "Rallo Lombarte",
+          "firstname": "Artemi",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Socialista"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 8
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 60
+      },
+      "agendaItem": {
+        "title": "Proposición de Ley por la que se modifica el artículo 274 del texto\nrefundido de la Ley General de la Seguridad Social, aprobado por Real\nDecreto Legislativo 8/2015, de 30 de octubre, para eliminar el subsidio\nprevisto para los menores que no ostenten la nacionalidad española\nprivados de libertad por cumplimiento de medida de internamiento en\ncentro.",
+        "officialTitle": "Proposición de Ley por la que se modifica el artículo 274 del texto\nrefundido de la Ley General de la Seguridad Social, aprobado por Real\nDecreto Legislativo 8/2015, de 30 de octubre, para eliminar el subsidio\nprevisto para los menores que no ostenten la nacionalidad española\nprivados de libertad por cumplimiento de medida de internamiento en\ncentro.",
+        "type": "regular",
+        "nativeType": "ES-ley"
+      },
+      "dateStart": "2024-09-10T16:18:00+02:00",
+      "dateEnd": "2024-09-10T16:28:00+02:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_057/cortes/15_000400_057_0_25194_737642.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1537642I",
+        "duration": 600.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_057_0_25194_737642",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "José María Figaredo Álvarez-Sala",
+          "lastname": "Figaredo Álvarez-Sala",
+          "firstname": "José María",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario VOX"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 9
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 60
+      },
+      "agendaItem": {
+        "title": "Proposición de Ley por la que se modifica el artículo 274 del texto\nrefundido de la Ley General de la Seguridad Social, aprobado por Real\nDecreto Legislativo 8/2015, de 30 de octubre, para eliminar el subsidio\nprevisto para los menores que no ostenten la nacionalidad española\nprivados de libertad por cumplimiento de medida de internamiento en\ncentro.",
+        "officialTitle": "Proposición de Ley por la que se modifica el artículo 274 del texto\nrefundido de la Ley General de la Seguridad Social, aprobado por Real\nDecreto Legislativo 8/2015, de 30 de octubre, para eliminar el subsidio\nprevisto para los menores que no ostenten la nacionalidad española\nprivados de libertad por cumplimiento de medida de internamiento en\ncentro.",
+        "type": "regular",
+        "nativeType": "ES-ley"
+      },
+      "dateStart": "2024-09-10T16:28:00+02:00",
+      "dateEnd": "2024-09-10T16:36:00+02:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_057/cortes/15_000400_057_0_25194_737643.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1537643I",
+        "duration": 480.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_057_0_25194_737643",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Mikel Legarda Uriarte",
+          "lastname": "Legarda Uriarte",
+          "firstname": "Mikel",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Vasco (EAJ-PNV)"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 10
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 60
+      },
+      "agendaItem": {
+        "title": "Proposición de Ley por la que se modifica el artículo 274 del texto\nrefundido de la Ley General de la Seguridad Social, aprobado por Real\nDecreto Legislativo 8/2015, de 30 de octubre, para eliminar el subsidio\nprevisto para los menores que no ostenten la nacionalidad española\nprivados de libertad por cumplimiento de medida de internamiento en\ncentro.",
+        "officialTitle": "Proposición de Ley por la que se modifica el artículo 274 del texto\nrefundido de la Ley General de la Seguridad Social, aprobado por Real\nDecreto Legislativo 8/2015, de 30 de octubre, para eliminar el subsidio\nprevisto para los menores que no ostenten la nacionalidad española\nprivados de libertad por cumplimiento de medida de internamiento en\ncentro.",
+        "type": "regular",
+        "nativeType": "ES-ley"
+      },
+      "dateStart": "2024-09-10T16:36:00+02:00",
+      "dateEnd": "2024-09-10T16:43:00+02:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_057/cortes/15_000400_057_0_25194_737644.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1537644I",
+        "duration": 420.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_057_0_25194_737644",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Javier Sánchez Serna",
+          "lastname": "Sánchez Serna",
+          "firstname": "Javier",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Mixto"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 11
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 60
+      },
+      "agendaItem": {
+        "title": "Proposición de Ley por la que se modifica el artículo 274 del texto\nrefundido de la Ley General de la Seguridad Social, aprobado por Real\nDecreto Legislativo 8/2015, de 30 de octubre, para eliminar el subsidio\nprevisto para los menores que no ostenten la nacionalidad española\nprivados de libertad por cumplimiento de medida de internamiento en\ncentro.",
+        "officialTitle": "Proposición de Ley por la que se modifica el artículo 274 del texto\nrefundido de la Ley General de la Seguridad Social, aprobado por Real\nDecreto Legislativo 8/2015, de 30 de octubre, para eliminar el subsidio\nprevisto para los menores que no ostenten la nacionalidad española\nprivados de libertad por cumplimiento de medida de internamiento en\ncentro.",
+        "type": "regular",
+        "nativeType": "ES-ley"
+      },
+      "dateStart": "2024-09-10T16:43:00+02:00",
+      "dateEnd": "2024-09-10T16:50:00+02:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_057/cortes/15_000400_057_0_25194_737645.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1537645I",
+        "duration": 420.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_057_0_25194_737645",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Gabriel Rufián Romero",
+          "lastname": "Rufián Romero",
+          "firstname": "Gabriel",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Republicano"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 12
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 60
+      },
+      "agendaItem": {
+        "title": "Proposición de Ley por la que se modifica el artículo 274 del texto\nrefundido de la Ley General de la Seguridad Social, aprobado por Real\nDecreto Legislativo 8/2015, de 30 de octubre, para eliminar el subsidio\nprevisto para los menores que no ostenten la nacionalidad española\nprivados de libertad por cumplimiento de medida de internamiento en\ncentro.",
+        "officialTitle": "Proposición de Ley por la que se modifica el artículo 274 del texto\nrefundido de la Ley General de la Seguridad Social, aprobado por Real\nDecreto Legislativo 8/2015, de 30 de octubre, para eliminar el subsidio\nprevisto para los menores que no ostenten la nacionalidad española\nprivados de libertad por cumplimiento de medida de internamiento en\ncentro.",
+        "type": "regular",
+        "nativeType": "ES-ley"
+      },
+      "dateStart": "2024-09-10T16:50:00+02:00",
+      "dateEnd": "2024-09-10T16:58:00+02:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_057/cortes/15_000400_057_0_25194_737646.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1537646I",
+        "duration": 480.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_057_0_25194_737646",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Vicenç Vidal Matas",
+          "lastname": "Vidal Matas",
+          "firstname": "Vicenç",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Plurinacional SUMAR"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 13
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 60
+      },
+      "agendaItem": {
+        "title": "Proposición de Ley por la que se modifica el artículo 274 del texto\nrefundido de la Ley General de la Seguridad Social, aprobado por Real\nDecreto Legislativo 8/2015, de 30 de octubre, para eliminar el subsidio\nprevisto para los menores que no ostenten la nacionalidad española\nprivados de libertad por cumplimiento de medida de internamiento en\ncentro.",
+        "officialTitle": "Proposición de Ley por la que se modifica el artículo 274 del texto\nrefundido de la Ley General de la Seguridad Social, aprobado por Real\nDecreto Legislativo 8/2015, de 30 de octubre, para eliminar el subsidio\nprevisto para los menores que no ostenten la nacionalidad española\nprivados de libertad por cumplimiento de medida de internamiento en\ncentro.",
+        "type": "regular",
+        "nativeType": "ES-ley"
+      },
+      "dateStart": "2024-09-10T16:58:00+02:00",
+      "dateEnd": "2024-09-10T17:07:00+02:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_057/cortes/15_000400_057_0_25194_737647.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1537647I",
+        "duration": 540.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_057_0_25194_737647",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Lázaro Azorín Salar",
+          "lastname": "Azorín Salar",
+          "firstname": "Lázaro",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Socialista"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 14
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 60
+      },
+      "agendaItem": {
+        "title": "Proposición de Ley por la que se modifica el artículo 274 del texto\nrefundido de la Ley General de la Seguridad Social, aprobado por Real\nDecreto Legislativo 8/2015, de 30 de octubre, para eliminar el subsidio\nprevisto para los menores que no ostenten la nacionalidad española\nprivados de libertad por cumplimiento de medida de internamiento en\ncentro.",
+        "officialTitle": "Proposición de Ley por la que se modifica el artículo 274 del texto\nrefundido de la Ley General de la Seguridad Social, aprobado por Real\nDecreto Legislativo 8/2015, de 30 de octubre, para eliminar el subsidio\nprevisto para los menores que no ostenten la nacionalidad española\nprivados de libertad por cumplimiento de medida de internamiento en\ncentro.",
+        "type": "regular",
+        "nativeType": "ES-ley"
+      },
+      "dateStart": "2024-09-10T17:07:00+02:00",
+      "dateEnd": "2024-09-10T17:17:00+02:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_057/cortes/15_000400_057_0_25194_737648.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1537648I",
+        "duration": 600.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_057_0_25194_737648",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Asier Antona Gómez",
+          "lastname": "Antona Gómez",
+          "firstname": "Asier",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Popular en el Congreso"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 15
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 60
+      },
+      "agendaItem": {
+        "title": "Proyecto de Ley Orgánica por la que se modifica la Ley Orgánica\n13/1982, de 10 de agosto, de reintegración y amejoramiento del Régimen\nForal de Navarra, en cuanto a tráfico, circulación de vehículos de motor\ny seguridad vial.",
+        "officialTitle": "Proyecto de Ley Orgánica por la que se modifica la Ley Orgánica\n13/1982, de 10 de agosto, de reintegración y amejoramiento del Régimen\nForal de Navarra, en cuanto a tráfico, circulación de vehículos de motor\ny seguridad vial.",
+        "type": "regular",
+        "nativeType": "ES-ley"
+      },
+      "dateStart": "2024-09-10T17:17:00+02:00",
+      "dateEnd": "2024-09-10T17:25:00+02:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_057/cortes/15_000400_057_0_25194_737651.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1537651I",
+        "duration": 480.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_057_0_25194_737651",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Ángel Víctor Torres Pérez",
+          "lastname": "Torres Pérez",
+          "firstname": "Ángel Víctor",
+          "type": "member of government",
+          "role": "Ministro de Política Territorial y Memoria Democrática"
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 16
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 60
+      },
+      "agendaItem": {
+        "title": "Proyecto de Ley Orgánica por la que se modifica la Ley Orgánica\n13/1982, de 10 de agosto, de reintegración y amejoramiento del Régimen\nForal de Navarra, en cuanto a tráfico, circulación de vehículos de motor\ny seguridad vial.",
+        "officialTitle": "Proyecto de Ley Orgánica por la que se modifica la Ley Orgánica\n13/1982, de 10 de agosto, de reintegración y amejoramiento del Régimen\nForal de Navarra, en cuanto a tráfico, circulación de vehículos de motor\ny seguridad vial.",
+        "type": "regular",
+        "nativeType": "ES-ley"
+      },
+      "dateStart": "2024-09-10T17:25:00+02:00",
+      "dateEnd": "2024-09-10T17:33:00+02:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_057/cortes/15_000400_057_0_25194_737652.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1537652I",
+        "duration": 480.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_057_0_25194_737652",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Alberto Catalán Higueras",
+          "lastname": "Catalán Higueras",
+          "firstname": "Alberto",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Mixto"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 17
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 60
+      },
+      "agendaItem": {
+        "title": "Proyecto de Ley Orgánica por la que se modifica la Ley Orgánica\n13/1982, de 10 de agosto, de reintegración y amejoramiento del Régimen\nForal de Navarra, en cuanto a tráfico, circulación de vehículos de motor\ny seguridad vial.",
+        "officialTitle": "Proyecto de Ley Orgánica por la que se modifica la Ley Orgánica\n13/1982, de 10 de agosto, de reintegración y amejoramiento del Régimen\nForal de Navarra, en cuanto a tráfico, circulación de vehículos de motor\ny seguridad vial.",
+        "type": "regular",
+        "nativeType": "ES-ley"
+      },
+      "dateStart": "2024-09-10T17:33:00+02:00",
+      "dateEnd": "2024-09-10T17:40:00+02:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_057/cortes/15_000400_057_0_25194_737653.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1537653I",
+        "duration": 420.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_057_0_25194_737653",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Aitor Esteban Bravo",
+          "lastname": "Esteban Bravo",
+          "firstname": "Aitor",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Vasco (EAJ-PNV)"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 18
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 60
+      },
+      "agendaItem": {
+        "title": "Proyecto de Ley Orgánica por la que se modifica la Ley Orgánica\n13/1982, de 10 de agosto, de reintegración y amejoramiento del Régimen\nForal de Navarra, en cuanto a tráfico, circulación de vehículos de motor\ny seguridad vial.",
+        "officialTitle": "Proyecto de Ley Orgánica por la que se modifica la Ley Orgánica\n13/1982, de 10 de agosto, de reintegración y amejoramiento del Régimen\nForal de Navarra, en cuanto a tráfico, circulación de vehículos de motor\ny seguridad vial.",
+        "type": "regular",
+        "nativeType": "ES-ley"
+      },
+      "dateStart": "2024-09-10T17:40:00+02:00",
+      "dateEnd": "2024-09-10T17:49:00+02:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_057/cortes/15_000400_057_0_25194_737654.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1537654I",
+        "duration": 540.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_057_0_25194_737654",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Isabel Pozueta Fernández",
+          "lastname": "Pozueta Fernández",
+          "firstname": "Isabel",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Euskal Herria Bildu"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 19
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 60
+      },
+      "agendaItem": {
+        "title": "Proyecto de Ley Orgánica por la que se modifica la Ley Orgánica\n13/1982, de 10 de agosto, de reintegración y amejoramiento del Régimen\nForal de Navarra, en cuanto a tráfico, circulación de vehículos de motor\ny seguridad vial.",
+        "officialTitle": "Proyecto de Ley Orgánica por la que se modifica la Ley Orgánica\n13/1982, de 10 de agosto, de reintegración y amejoramiento del Régimen\nForal de Navarra, en cuanto a tráfico, circulación de vehículos de motor\ny seguridad vial.",
+        "type": "regular",
+        "nativeType": "ES-ley"
+      },
+      "dateStart": "2024-09-10T17:49:00+02:00",
+      "dateEnd": "2024-09-10T17:56:00+02:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_057/cortes/15_000400_057_0_25194_737655.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1537655I",
+        "duration": 420.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_057_0_25194_737655",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Inés Granollers Cunillera",
+          "lastname": "Granollers Cunillera",
+          "firstname": "Inés",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Republicano"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 20
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 60
+      },
+      "agendaItem": {
+        "title": "Proyecto de Ley Orgánica por la que se modifica la Ley Orgánica\n13/1982, de 10 de agosto, de reintegración y amejoramiento del Régimen\nForal de Navarra, en cuanto a tráfico, circulación de vehículos de motor\ny seguridad vial.",
+        "officialTitle": "Proyecto de Ley Orgánica por la que se modifica la Ley Orgánica\n13/1982, de 10 de agosto, de reintegración y amejoramiento del Régimen\nForal de Navarra, en cuanto a tráfico, circulación de vehículos de motor\ny seguridad vial.",
+        "type": "regular",
+        "nativeType": "ES-ley"
+      },
+      "dateStart": "2024-09-10T17:56:00+02:00",
+      "dateEnd": "2024-09-10T18:01:00+02:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_057/cortes/15_000400_057_0_25194_737656.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1537656I",
+        "duration": 300.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_057_0_25194_737656",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Lander Martínez Hierro",
+          "lastname": "Martínez Hierro",
+          "firstname": "Lander",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Plurinacional SUMAR"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 21
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 60
+      },
+      "agendaItem": {
+        "title": "Proyecto de Ley Orgánica por la que se modifica la Ley Orgánica\n13/1982, de 10 de agosto, de reintegración y amejoramiento del Régimen\nForal de Navarra, en cuanto a tráfico, circulación de vehículos de motor\ny seguridad vial.",
+        "officialTitle": "Proyecto de Ley Orgánica por la que se modifica la Ley Orgánica\n13/1982, de 10 de agosto, de reintegración y amejoramiento del Régimen\nForal de Navarra, en cuanto a tráfico, circulación de vehículos de motor\ny seguridad vial.",
+        "type": "regular",
+        "nativeType": "ES-ley"
+      },
+      "dateStart": "2024-09-10T18:01:00+02:00",
+      "dateEnd": "2024-09-10T18:09:00+02:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_057/cortes/15_000400_057_0_25194_737657.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1537657I",
+        "duration": 480.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_057_0_25194_737657",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Ignacio Hoces Íñiguez",
+          "lastname": "Hoces Íñiguez",
+          "firstname": "Ignacio",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario VOX"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 22
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 60
+      },
+      "agendaItem": {
+        "title": "Proyecto de Ley Orgánica por la que se modifica la Ley Orgánica\n13/1982, de 10 de agosto, de reintegración y amejoramiento del Régimen\nForal de Navarra, en cuanto a tráfico, circulación de vehículos de motor\ny seguridad vial.",
+        "officialTitle": "Proyecto de Ley Orgánica por la que se modifica la Ley Orgánica\n13/1982, de 10 de agosto, de reintegración y amejoramiento del Régimen\nForal de Navarra, en cuanto a tráfico, circulación de vehículos de motor\ny seguridad vial.",
+        "type": "regular",
+        "nativeType": "ES-ley"
+      },
+      "dateStart": "2024-09-10T18:09:00+02:00",
+      "dateEnd": "2024-09-10T18:18:00+02:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_057/cortes/15_000400_057_0_25194_737658.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1537658I",
+        "duration": 540.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_057_0_25194_737658",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Adriana Maldonado López",
+          "lastname": "Maldonado López",
+          "firstname": "Adriana",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Socialista"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 23
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 60
+      },
+      "agendaItem": {
+        "title": "Proyecto de Ley Orgánica por la que se modifica la Ley Orgánica\n13/1982, de 10 de agosto, de reintegración y amejoramiento del Régimen\nForal de Navarra, en cuanto a tráfico, circulación de vehículos de motor\ny seguridad vial.",
+        "officialTitle": "Proyecto de Ley Orgánica por la que se modifica la Ley Orgánica\n13/1982, de 10 de agosto, de reintegración y amejoramiento del Régimen\nForal de Navarra, en cuanto a tráfico, circulación de vehículos de motor\ny seguridad vial.",
+        "type": "regular",
+        "nativeType": "ES-ley"
+      },
+      "dateStart": "2024-09-10T18:18:00+02:00",
+      "dateEnd": "2024-09-10T18:26:00+02:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_057/cortes/15_000400_057_0_25194_737659.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1537659I",
+        "duration": 480.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_057_0_25194_737659",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Sergio Sayas López",
+          "lastname": "Sayas López",
+          "firstname": "Sergio",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Popular en el Congreso"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 24
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 60
+      },
+      "agendaItem": {
+        "title": "Proposición no de Ley relativa al reconocimiento de Edmundo González\nUrrutia como ganador de las elecciones presidenciales celebradas el\npasado 28 de julio de 2024 en Venezuela.",
+        "officialTitle": "Proposición no de Ley relativa al reconocimiento de Edmundo González\nUrrutia como ganador de las elecciones presidenciales celebradas el\npasado 28 de julio de 2024 en Venezuela.",
+        "type": "regular"
+      },
+      "dateStart": "2024-09-10T18:27:00+02:00",
+      "dateEnd": "2024-09-10T18:38:00+02:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_057/cortes/15_000400_057_0_25194_737662.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1537662I",
+        "duration": 660.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_057_0_25194_737662",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Cayetana Álvarez de Toledo Peralta-Ramos",
+          "lastname": "Álvarez de Toledo Peralta-Ramos",
+          "firstname": "Cayetana",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Popular en el Congreso"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 25
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 60
+      },
+      "agendaItem": {
+        "title": "Proposición no de Ley relativa al reconocimiento de Edmundo González\nUrrutia como ganador de las elecciones presidenciales celebradas el\npasado 28 de julio de 2024 en Venezuela.",
+        "officialTitle": "Proposición no de Ley relativa al reconocimiento de Edmundo González\nUrrutia como ganador de las elecciones presidenciales celebradas el\npasado 28 de julio de 2024 en Venezuela.",
+        "type": "regular"
+      },
+      "dateStart": "2024-09-10T18:38:00+02:00",
+      "dateEnd": "2024-09-10T18:47:00+02:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_057/cortes/15_000400_057_0_25194_737663.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1537663I",
+        "duration": 540.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_057_0_25194_737663",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "José María Sánchez García",
+          "lastname": "Sánchez García",
+          "firstname": "José María",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario VOX"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 26
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 60
+      },
+      "agendaItem": {
+        "title": "Proposición no de Ley relativa al reconocimiento de Edmundo González\nUrrutia como ganador de las elecciones presidenciales celebradas el\npasado 28 de julio de 2024 en Venezuela.",
+        "officialTitle": "Proposición no de Ley relativa al reconocimiento de Edmundo González\nUrrutia como ganador de las elecciones presidenciales celebradas el\npasado 28 de julio de 2024 en Venezuela.",
+        "type": "regular"
+      },
+      "dateStart": "2024-09-10T18:47:00+02:00",
+      "dateEnd": "2024-09-10T18:54:00+02:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_057/cortes/15_000400_057_0_25194_737664.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1537664I",
+        "duration": 420.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_057_0_25194_737664",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Cristina Narbona Ruiz",
+          "lastname": "Narbona Ruiz",
+          "firstname": "Cristina",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Socialista"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 27
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 60
+      },
+      "agendaItem": {
+        "title": "Proposición no de Ley relativa al reconocimiento de Edmundo González\nUrrutia como ganador de las elecciones presidenciales celebradas el\npasado 28 de julio de 2024 en Venezuela.",
+        "officialTitle": "Proposición no de Ley relativa al reconocimiento de Edmundo González\nUrrutia como ganador de las elecciones presidenciales celebradas el\npasado 28 de julio de 2024 en Venezuela.",
+        "type": "regular"
+      },
+      "dateStart": "2024-09-10T18:54:00+02:00",
+      "dateEnd": "2024-09-10T18:57:00+02:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_057/cortes/15_000400_057_0_25194_737665.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1537665I",
+        "duration": 180.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_057_0_25194_737665",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Alberto Catalán Higueras",
+          "lastname": "Catalán Higueras",
+          "firstname": "Alberto",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Mixto"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 28
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 60
+      },
+      "agendaItem": {
+        "title": "Proposición no de Ley relativa al reconocimiento de Edmundo González\nUrrutia como ganador de las elecciones presidenciales celebradas el\npasado 28 de julio de 2024 en Venezuela.",
+        "officialTitle": "Proposición no de Ley relativa al reconocimiento de Edmundo González\nUrrutia como ganador de las elecciones presidenciales celebradas el\npasado 28 de julio de 2024 en Venezuela.",
+        "type": "regular"
+      },
+      "dateStart": "2024-09-10T18:57:00+02:00",
+      "dateEnd": "2024-09-10T18:59:00+02:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_057/cortes/15_000400_057_0_25194_737666.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1537666I",
+        "duration": 120.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_057_0_25194_737666",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Cristina Valido García",
+          "lastname": "Valido García",
+          "firstname": "Cristina",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Mixto"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 29
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 60
+      },
+      "agendaItem": {
+        "title": "Proposición no de Ley relativa al reconocimiento de Edmundo González\nUrrutia como ganador de las elecciones presidenciales celebradas el\npasado 28 de julio de 2024 en Venezuela.",
+        "officialTitle": "Proposición no de Ley relativa al reconocimiento de Edmundo González\nUrrutia como ganador de las elecciones presidenciales celebradas el\npasado 28 de julio de 2024 en Venezuela.",
+        "type": "regular"
+      },
+      "dateStart": "2024-09-10T18:59:00+02:00",
+      "dateEnd": "2024-09-10T19:02:00+02:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_057/cortes/15_000400_057_0_25194_737667.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1537667I",
+        "duration": 180.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_057_0_25194_737667",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Néstor Rego Candamil",
+          "lastname": "Rego Candamil",
+          "firstname": "Néstor",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Mixto"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 30
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 60
+      },
+      "agendaItem": {
+        "title": "Proposición no de Ley relativa al reconocimiento de Edmundo González\nUrrutia como ganador de las elecciones presidenciales celebradas el\npasado 28 de julio de 2024 en Venezuela.",
+        "officialTitle": "Proposición no de Ley relativa al reconocimiento de Edmundo González\nUrrutia como ganador de las elecciones presidenciales celebradas el\npasado 28 de julio de 2024 en Venezuela.",
+        "type": "regular"
+      },
+      "dateStart": "2024-09-10T19:02:00+02:00",
+      "dateEnd": "2024-09-10T19:06:00+02:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_057/cortes/15_000400_057_0_25194_737668.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1537668I",
+        "duration": 240.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_057_0_25194_737668",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Javier Sánchez Serna",
+          "lastname": "Sánchez Serna",
+          "firstname": "Javier",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Mixto"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 31
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 60
+      },
+      "agendaItem": {
+        "title": "Proposición no de Ley relativa al reconocimiento de Edmundo González\nUrrutia como ganador de las elecciones presidenciales celebradas el\npasado 28 de julio de 2024 en Venezuela.",
+        "officialTitle": "Proposición no de Ley relativa al reconocimiento de Edmundo González\nUrrutia como ganador de las elecciones presidenciales celebradas el\npasado 28 de julio de 2024 en Venezuela.",
+        "type": "regular"
+      },
+      "dateStart": "2024-09-10T19:06:00+02:00",
+      "dateEnd": "2024-09-10T19:15:00+02:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_057/cortes/15_000400_057_0_25194_737669.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1537669I",
+        "duration": 540.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_057_0_25194_737669",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Aitor Esteban Bravo",
+          "lastname": "Esteban Bravo",
+          "firstname": "Aitor",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Vasco (EAJ-PNV)"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 32
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 60
+      },
+      "agendaItem": {
+        "title": "Proposición no de Ley relativa al reconocimiento de Edmundo González\nUrrutia como ganador de las elecciones presidenciales celebradas el\npasado 28 de julio de 2024 en Venezuela.",
+        "officialTitle": "Proposición no de Ley relativa al reconocimiento de Edmundo González\nUrrutia como ganador de las elecciones presidenciales celebradas el\npasado 28 de julio de 2024 en Venezuela.",
+        "type": "regular"
+      },
+      "dateStart": "2024-09-10T19:15:00+02:00",
+      "dateEnd": "2024-09-10T19:21:00+02:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_057/cortes/15_000400_057_0_25194_737670.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1537670I",
+        "duration": 360.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_057_0_25194_737670",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Marta Madrenas i Mir",
+          "lastname": "Madrenas i Mir",
+          "firstname": "Marta",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Junts per Catalunya"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 33
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 60
+      },
+      "agendaItem": {
+        "title": "Proposición no de Ley relativa al reconocimiento de Edmundo González\nUrrutia como ganador de las elecciones presidenciales celebradas el\npasado 28 de julio de 2024 en Venezuela.",
+        "officialTitle": "Proposición no de Ley relativa al reconocimiento de Edmundo González\nUrrutia como ganador de las elecciones presidenciales celebradas el\npasado 28 de julio de 2024 en Venezuela.",
+        "type": "regular"
+      },
+      "dateStart": "2024-09-10T19:21:00+02:00",
+      "dateEnd": "2024-09-10T19:28:00+02:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_057/cortes/15_000400_057_0_25194_737671.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1537671I",
+        "duration": 420.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_057_0_25194_737671",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Gabriel Rufián Romero",
+          "lastname": "Rufián Romero",
+          "firstname": "Gabriel",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Republicano"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 34
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 60
+      },
+      "agendaItem": {
+        "title": "Proposición no de Ley relativa al reconocimiento de Edmundo González\nUrrutia como ganador de las elecciones presidenciales celebradas el\npasado 28 de julio de 2024 en Venezuela.",
+        "officialTitle": "Proposición no de Ley relativa al reconocimiento de Edmundo González\nUrrutia como ganador de las elecciones presidenciales celebradas el\npasado 28 de julio de 2024 en Venezuela.",
+        "type": "regular"
+      },
+      "dateStart": "2024-09-10T19:28:00+02:00",
+      "dateEnd": "2024-09-10T19:35:00+02:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_057/cortes/15_000400_057_0_25194_737672.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1537672I",
+        "duration": 420.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_057_0_25194_737672",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Gerardo Pisarello Prados",
+          "lastname": "Pisarello Prados",
+          "firstname": "Gerardo",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Plurinacional SUMAR"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 35
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 60
+      },
+      "agendaItem": {
+        "title": "Proposición no de Ley relativa al reconocimiento de Edmundo González\nUrrutia como ganador de las elecciones presidenciales celebradas el\npasado 28 de julio de 2024 en Venezuela.",
+        "officialTitle": "Proposición no de Ley relativa al reconocimiento de Edmundo González\nUrrutia como ganador de las elecciones presidenciales celebradas el\npasado 28 de julio de 2024 en Venezuela.",
+        "type": "regular"
+      },
+      "dateStart": "2024-09-10T19:35:00+02:00",
+      "dateEnd": "2024-09-10T19:35:00+02:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_057/cortes/15_000400_057_0_25194_737673.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1537673I",
+        "duration": 0.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_057_0_25194_737673",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Miguel Tellado Filgueira",
+          "lastname": "Tellado Filgueira",
+          "firstname": "Miguel",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Popular en el Congreso"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 36
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 60
+      },
+      "agendaItem": {
+        "title": "Proposición no de Ley por la que se insta al Gobierno a adoptar\nmedidas en relación con la práctica de la reduflación.",
+        "officialTitle": "Proposición no de Ley por la que se insta al Gobierno a adoptar\nmedidas en relación con la práctica de la reduflación.",
+        "type": "regular"
+      },
+      "dateStart": "2024-09-10T19:35:00+02:00",
+      "dateEnd": "2024-09-10T19:43:00+02:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_057/cortes/15_000400_057_0_25194_737677.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1537677I",
+        "duration": 480.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_057_0_25194_737677",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Noelia Cobo Pérez",
+          "lastname": "Cobo Pérez",
+          "firstname": "Noelia",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Socialista"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 37
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 60
+      },
+      "agendaItem": {
+        "title": "Proposición no de Ley por la que se insta al Gobierno a adoptar\nmedidas en relación con la práctica de la reduflación.",
+        "officialTitle": "Proposición no de Ley por la que se insta al Gobierno a adoptar\nmedidas en relación con la práctica de la reduflación.",
+        "type": "regular"
+      },
+      "dateStart": "2024-09-10T19:44:00+02:00",
+      "dateEnd": "2024-09-10T19:50:00+02:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_057/cortes/15_000400_057_1_25197_737681.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1537681I",
+        "duration": 360.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_057_1_25197_737681",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Tomás Fernández Ríos",
+          "lastname": "Fernández Ríos",
+          "firstname": "Tomás",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario VOX"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 38
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 60
+      },
+      "agendaItem": {
+        "title": "Proposición no de Ley por la que se insta al Gobierno a adoptar\nmedidas en relación con la práctica de la reduflación.",
+        "officialTitle": "Proposición no de Ley por la que se insta al Gobierno a adoptar\nmedidas en relación con la práctica de la reduflación.",
+        "type": "regular"
+      },
+      "dateStart": "2024-09-10T19:50:00+02:00",
+      "dateEnd": "2024-09-10T19:54:00+02:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_057/cortes/15_000400_057_1_25197_737682.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1537682I",
+        "duration": 240.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_057_1_25197_737682",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Idoia Sagastizabal Unzetabarrenetxea",
+          "lastname": "Sagastizabal Unzetabarrenetxea",
+          "firstname": "Idoia",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Vasco (EAJ-PNV)"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 39
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 60
+      },
+      "agendaItem": {
+        "title": "Proposición no de Ley por la que se insta al Gobierno a adoptar\nmedidas en relación con la práctica de la reduflación.",
+        "officialTitle": "Proposición no de Ley por la que se insta al Gobierno a adoptar\nmedidas en relación con la práctica de la reduflación.",
+        "type": "regular"
+      },
+      "dateStart": "2024-09-10T19:54:00+02:00",
+      "dateEnd": "2024-09-10T19:59:00+02:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_057/cortes/15_000400_057_1_25197_737683.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1537683I",
+        "duration": 300.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_057_1_25197_737683",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Iñaki Ruiz de Pinedo Undiano",
+          "lastname": "Ruiz de Pinedo Undiano",
+          "firstname": "Iñaki",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Euskal Herria Bildu"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 40
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 60
+      },
+      "agendaItem": {
+        "title": "Proposición no de Ley por la que se insta al Gobierno a adoptar\nmedidas en relación con la práctica de la reduflación.",
+        "officialTitle": "Proposición no de Ley por la que se insta al Gobierno a adoptar\nmedidas en relación con la práctica de la reduflación.",
+        "type": "regular"
+      },
+      "dateStart": "2024-09-10T19:59:00+02:00",
+      "dateEnd": "2024-09-10T20:04:00+02:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_057/cortes/15_000400_057_1_25197_737684.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1537684I",
+        "duration": 300.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_057_1_25197_737684",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Josep Maria Cruset Domènech",
+          "lastname": "Cruset Domènech",
+          "firstname": "Josep Maria",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Junts per Catalunya"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 41
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 60
+      },
+      "agendaItem": {
+        "title": "Proposición no de Ley por la que se insta al Gobierno a adoptar\nmedidas en relación con la práctica de la reduflación.",
+        "officialTitle": "Proposición no de Ley por la que se insta al Gobierno a adoptar\nmedidas en relación con la práctica de la reduflación.",
+        "type": "regular"
+      },
+      "dateStart": "2024-09-10T20:04:00+02:00",
+      "dateEnd": "2024-09-10T20:09:00+02:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_057/cortes/15_000400_057_1_25197_737685.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1537685I",
+        "duration": 300.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_057_1_25197_737685",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Jordi Salvador i Duch",
+          "lastname": "Salvador i Duch",
+          "firstname": "Jordi",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Republicano"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 42
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 60
+      },
+      "agendaItem": {
+        "title": "Proposición no de Ley por la que se insta al Gobierno a adoptar\nmedidas en relación con la práctica de la reduflación.",
+        "officialTitle": "Proposición no de Ley por la que se insta al Gobierno a adoptar\nmedidas en relación con la práctica de la reduflación.",
+        "type": "regular"
+      },
+      "dateStart": "2024-09-10T20:09:00+02:00",
+      "dateEnd": "2024-09-10T20:16:00+02:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_057/cortes/15_000400_057_1_25197_737686.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1537686I",
+        "duration": 420.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_057_1_25197_737686",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Carlos Martín Urriza",
+          "lastname": "Martín Urriza",
+          "firstname": "Carlos",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Plurinacional SUMAR"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 43
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 60
+      },
+      "agendaItem": {
+        "title": "Proposición no de Ley por la que se insta al Gobierno a adoptar\nmedidas en relación con la práctica de la reduflación.",
+        "officialTitle": "Proposición no de Ley por la que se insta al Gobierno a adoptar\nmedidas en relación con la práctica de la reduflación.",
+        "type": "regular"
+      },
+      "dateStart": "2024-09-10T20:16:00+02:00",
+      "dateEnd": "2024-09-10T20:23:00+02:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_057/cortes/15_000400_057_1_25197_737687.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1537687I",
+        "duration": 420.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_057_1_25197_737687",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Antonio Martínez Gómez",
+          "lastname": "Martínez Gómez",
+          "firstname": "Antonio",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Popular en el Congreso"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 44
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 60
+      },
+      "agendaItem": {
+        "title": "Moción consecuencia de interpelación urgente sobre los planes del\nGobierno para la sanidad española en los próximos meses.",
+        "officialTitle": "Moción consecuencia de interpelación urgente sobre los planes del\nGobierno para la sanidad española en los próximos meses.",
+        "type": "regular",
+        "nativeType": "ES-mocion"
+      },
+      "dateStart": "2024-09-10T20:24:00+02:00",
+      "dateEnd": "2024-09-10T20:34:00+02:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_057/cortes/15_000400_057_1_25197_737690.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1537690I",
+        "duration": 600.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_057_1_25197_737690",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "David García Gomis",
+          "lastname": "García Gomis",
+          "firstname": "David",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario VOX"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 45
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 60
+      },
+      "agendaItem": {
+        "title": "Moción consecuencia de interpelación urgente sobre los planes del\nGobierno para la sanidad española en los próximos meses.",
+        "officialTitle": "Moción consecuencia de interpelación urgente sobre los planes del\nGobierno para la sanidad española en los próximos meses.",
+        "type": "regular",
+        "nativeType": "ES-mocion"
+      },
+      "dateStart": "2024-09-10T20:34:00+02:00",
+      "dateEnd": "2024-09-10T20:41:00+02:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_057/cortes/15_000400_057_1_25197_737691.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1537691I",
+        "duration": 420.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_057_1_25197_737691",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Rafael Cofiño Fernández",
+          "lastname": "Cofiño Fernández",
+          "firstname": "Rafael",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Plurinacional SUMAR"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 46
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 60
+      },
+      "agendaItem": {
+        "title": "Moción consecuencia de interpelación urgente sobre los planes del\nGobierno para la sanidad española en los próximos meses.",
+        "officialTitle": "Moción consecuencia de interpelación urgente sobre los planes del\nGobierno para la sanidad española en los próximos meses.",
+        "type": "regular",
+        "nativeType": "ES-mocion"
+      },
+      "dateStart": "2024-09-10T20:41:00+02:00",
+      "dateEnd": "2024-09-10T20:48:00+02:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_057/cortes/15_000400_057_1_25197_737692.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1537692I",
+        "duration": 420.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_057_1_25197_737692",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Mª Isabel Moreno Fernández",
+          "lastname": "Moreno Fernández",
+          "firstname": "Mª Isabel",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Socialista"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 47
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 60
+      },
+      "agendaItem": {
+        "title": "Moción consecuencia de interpelación urgente sobre los planes del\nGobierno para la sanidad española en los próximos meses.",
+        "officialTitle": "Moción consecuencia de interpelación urgente sobre los planes del\nGobierno para la sanidad española en los próximos meses.",
+        "type": "regular",
+        "nativeType": "ES-mocion"
+      },
+      "dateStart": "2024-09-10T20:48:00+02:00",
+      "dateEnd": "2024-09-10T20:55:00+02:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_057/cortes/15_000400_057_1_25197_737693.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1537693I",
+        "duration": 420.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_057_1_25197_737693",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "María del Mar Vázquez Jiménez",
+          "lastname": "Vázquez Jiménez",
+          "firstname": "María del Mar",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Popular en el Congreso"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 48
+    }
+  ]
+}

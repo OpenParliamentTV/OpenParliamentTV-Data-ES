@@ -1,0 +1,4768 @@
+{
+  "meta": {
+    "session": "15172",
+    "processing": {
+      "parse_media": "2026-05-23T07:17:41"
+    },
+    "dateStart": "2026-03-18T09:01:00+01:00",
+    "dateEnd": "2026-03-18T15:49:00+01:00"
+  },
+  "data": [
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 172
+      },
+      "agendaItem": {
+        "title": "¿Quién sigue confiando en su Gobierno?",
+        "officialTitle": "¿Quién sigue confiando en su Gobierno?",
+        "type": "qa",
+        "nativeType": "ES-pregunta"
+      },
+      "dateStart": "2026-03-18T09:01:00+01:00",
+      "dateEnd": "2026-03-18T09:02:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_166/cortes/15_000400_166_0_27100_769414.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1569414I",
+        "duration": 60.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_166_0_27100_769414",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Alberto Núñez Feijóo",
+          "lastname": "Núñez Feijóo",
+          "firstname": "Alberto",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Popular en el Congreso"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 1
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 172
+      },
+      "agendaItem": {
+        "title": "¿Quién sigue confiando en su Gobierno?",
+        "officialTitle": "¿Quién sigue confiando en su Gobierno?",
+        "type": "qa",
+        "nativeType": "ES-pregunta"
+      },
+      "dateStart": "2026-03-18T09:02:00+01:00",
+      "dateEnd": "2026-03-18T09:04:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_166/cortes/15_000400_166_0_27100_769415.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1569415I",
+        "duration": 120.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_166_0_27100_769415",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Pedro Sánchez Pérez-Castejón",
+          "lastname": "Sánchez Pérez-Castejón",
+          "firstname": "Pedro",
+          "type": "member of government",
+          "role": "Presidente del Gobierno",
+          "faction": {
+            "label": "Grupo Parlamentario Socialista"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 2
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 172
+      },
+      "agendaItem": {
+        "title": "¿Quién sigue confiando en su Gobierno?",
+        "officialTitle": "¿Quién sigue confiando en su Gobierno?",
+        "type": "qa",
+        "nativeType": "ES-pregunta"
+      },
+      "dateStart": "2026-03-18T09:04:00+01:00",
+      "dateEnd": "2026-03-18T09:06:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_166/cortes/15_000400_166_0_27100_769416.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1569416I",
+        "duration": 120.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_166_0_27100_769416",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Alberto Núñez Feijóo",
+          "lastname": "Núñez Feijóo",
+          "firstname": "Alberto",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Popular en el Congreso"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 3
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 172
+      },
+      "agendaItem": {
+        "title": "¿Quién sigue confiando en su Gobierno?",
+        "officialTitle": "¿Quién sigue confiando en su Gobierno?",
+        "type": "qa",
+        "nativeType": "ES-pregunta"
+      },
+      "dateStart": "2026-03-18T09:06:00+01:00",
+      "dateEnd": "2026-03-18T09:07:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_166/cortes/15_000400_166_0_27100_769417.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1569417I",
+        "duration": 60.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_166_0_27100_769417",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Pedro Sánchez Pérez-Castejón",
+          "lastname": "Sánchez Pérez-Castejón",
+          "firstname": "Pedro",
+          "type": "member of government",
+          "role": "Presidente del Gobierno",
+          "faction": {
+            "label": "Grupo Parlamentario Socialista"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 4
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 172
+      },
+      "agendaItem": {
+        "title": "¿Cómo prevé afrontar el Gobierno la crisis geopolítica actual y las\nconsecuencias \neconómico-sociales que se derivan de ella?",
+        "officialTitle": "¿Cómo prevé afrontar el Gobierno la crisis geopolítica actual y las\nconsecuencias \neconómico-sociales que se derivan de ella?",
+        "type": "qa",
+        "nativeType": "ES-pregunta"
+      },
+      "dateStart": "2026-03-18T09:07:00+01:00",
+      "dateEnd": "2026-03-18T09:09:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_166/cortes/15_000400_166_0_27100_769419.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1569419I",
+        "duration": 120.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_166_0_27100_769419",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Maribel Vaquero Montero",
+          "lastname": "Vaquero Montero",
+          "firstname": "Maribel",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Vasco (EAJ-PNV)"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 5
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 172
+      },
+      "agendaItem": {
+        "title": "¿Cómo prevé afrontar el Gobierno la crisis geopolítica actual y las\nconsecuencias \neconómico-sociales que se derivan de ella?",
+        "officialTitle": "¿Cómo prevé afrontar el Gobierno la crisis geopolítica actual y las\nconsecuencias \neconómico-sociales que se derivan de ella?",
+        "type": "qa",
+        "nativeType": "ES-pregunta"
+      },
+      "dateStart": "2026-03-18T09:09:00+01:00",
+      "dateEnd": "2026-03-18T09:12:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_166/cortes/15_000400_166_0_27100_769420.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1569420I",
+        "duration": 180.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_166_0_27100_769420",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Pedro Sánchez Pérez-Castejón",
+          "lastname": "Sánchez Pérez-Castejón",
+          "firstname": "Pedro",
+          "type": "member of government",
+          "role": "Presidente del Gobierno",
+          "faction": {
+            "label": "Grupo Parlamentario Socialista"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 6
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 172
+      },
+      "agendaItem": {
+        "title": "¿Cómo prevé afrontar el Gobierno la crisis geopolítica actual y las\nconsecuencias \neconómico-sociales que se derivan de ella?",
+        "officialTitle": "¿Cómo prevé afrontar el Gobierno la crisis geopolítica actual y las\nconsecuencias \neconómico-sociales que se derivan de ella?",
+        "type": "qa",
+        "nativeType": "ES-pregunta"
+      },
+      "dateStart": "2026-03-18T09:12:00+01:00",
+      "dateEnd": "2026-03-18T09:12:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_166/cortes/15_000400_166_0_27100_769421.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1569421I",
+        "duration": 0.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_166_0_27100_769421",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Maribel Vaquero Montero",
+          "lastname": "Vaquero Montero",
+          "firstname": "Maribel",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Vasco (EAJ-PNV)"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 7
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 172
+      },
+      "agendaItem": {
+        "title": "¿Cómo prevé afrontar el Gobierno la crisis geopolítica actual y las\nconsecuencias \neconómico-sociales que se derivan de ella?",
+        "officialTitle": "¿Cómo prevé afrontar el Gobierno la crisis geopolítica actual y las\nconsecuencias \neconómico-sociales que se derivan de ella?",
+        "type": "qa",
+        "nativeType": "ES-pregunta"
+      },
+      "dateStart": "2026-03-18T09:12:00+01:00",
+      "dateEnd": "2026-03-18T09:13:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_166/cortes/15_000400_166_0_27100_769422.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1569422I",
+        "duration": 60.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_166_0_27100_769422",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Pedro Sánchez Pérez-Castejón",
+          "lastname": "Sánchez Pérez-Castejón",
+          "firstname": "Pedro",
+          "type": "member of government",
+          "role": "Presidente del Gobierno",
+          "faction": {
+            "label": "Grupo Parlamentario Socialista"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 8
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 172
+      },
+      "agendaItem": {
+        "title": "¿Qué va a hacer el Gobierno para convertir en realidad el \"NO A LA\nGUERRA\"?",
+        "officialTitle": "¿Qué va a hacer el Gobierno para convertir en realidad el \"NO A LA\nGUERRA\"?",
+        "type": "qa",
+        "nativeType": "ES-pregunta"
+      },
+      "dateStart": "2026-03-18T09:13:00+01:00",
+      "dateEnd": "2026-03-18T09:13:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_166/cortes/15_000400_166_0_27100_769424.mp4\nhttps://www.congreso.es/audiovisual/video/leg15/400/15_000400_166/cortes/15_000400_166_0_27100_769426.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1569424I https://app.congreso.es/v1/15769426I",
+        "duration": 0.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_166_0_27100_769426",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Ione Belarra Urteaga",
+          "lastname": "Belarra Urteaga",
+          "firstname": "Ione",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Mixto"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 9
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 172
+      },
+      "agendaItem": {
+        "title": "¿Qué va a hacer el Gobierno para convertir en realidad el \"NO A LA\nGUERRA\"?",
+        "officialTitle": "¿Qué va a hacer el Gobierno para convertir en realidad el \"NO A LA\nGUERRA\"?",
+        "type": "qa",
+        "nativeType": "ES-pregunta"
+      },
+      "dateStart": "2026-03-18T09:13:00+01:00",
+      "dateEnd": "2026-03-18T09:14:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_166/cortes/15_000400_166_0_27100_769425.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1569425I",
+        "duration": 60.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_166_0_27100_769425",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Pedro Sánchez Pérez-Castejón",
+          "lastname": "Sánchez Pérez-Castejón",
+          "firstname": "Pedro",
+          "type": "member of government",
+          "role": "Presidente del Gobierno",
+          "faction": {
+            "label": "Grupo Parlamentario Socialista"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 10
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 172
+      },
+      "agendaItem": {
+        "title": "¿Qué va a hacer el Gobierno para convertir en realidad el \"NO A LA\nGUERRA\"?",
+        "officialTitle": "¿Qué va a hacer el Gobierno para convertir en realidad el \"NO A LA\nGUERRA\"?",
+        "type": "qa",
+        "nativeType": "ES-pregunta"
+      },
+      "dateStart": "2026-03-18T09:16:00+01:00",
+      "dateEnd": "2026-03-18T09:19:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_166/cortes/15_000400_166_0_27100_769427.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1569427I",
+        "duration": 180.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_166_0_27100_769427",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Pedro Sánchez Pérez-Castejón",
+          "lastname": "Sánchez Pérez-Castejón",
+          "firstname": "Pedro",
+          "type": "member of government",
+          "role": "Presidente del Gobierno",
+          "faction": {
+            "label": "Grupo Parlamentario Socialista"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 11
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 172
+      },
+      "agendaItem": {
+        "title": "¿El Gobierno conoce los problemas reales de los españoles?",
+        "officialTitle": "¿El Gobierno conoce los problemas reales de los españoles?",
+        "type": "qa",
+        "nativeType": "ES-pregunta"
+      },
+      "dateStart": "2026-03-18T09:19:00+01:00",
+      "dateEnd": "2026-03-18T09:20:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_166/cortes/15_000400_166_0_27100_769429.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1569429I",
+        "duration": 60.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_166_0_27100_769429",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Ester Muñoz de la Iglesia",
+          "lastname": "Muñoz de la Iglesia",
+          "firstname": "Ester",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Popular en el Congreso"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 12
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 172
+      },
+      "agendaItem": {
+        "title": "¿El Gobierno conoce los problemas reales de los españoles?",
+        "officialTitle": "¿El Gobierno conoce los problemas reales de los españoles?",
+        "type": "qa",
+        "nativeType": "ES-pregunta"
+      },
+      "dateStart": "2026-03-18T09:20:00+01:00",
+      "dateEnd": "2026-03-18T09:22:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_166/cortes/15_000400_166_0_27100_769430.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1569430I",
+        "duration": 120.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_166_0_27100_769430",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "María Jesús Montero Cuadrado",
+          "lastname": "Montero Cuadrado",
+          "firstname": "María Jesús",
+          "type": "member of government",
+          "role": "Vicepresidenta Primera del Gobierno y Ministra de Hacienda",
+          "faction": {
+            "label": "Grupo Parlamentario Socialista"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 13
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 172
+      },
+      "agendaItem": {
+        "title": "¿El Gobierno conoce los problemas reales de los españoles?",
+        "officialTitle": "¿El Gobierno conoce los problemas reales de los españoles?",
+        "type": "qa",
+        "nativeType": "ES-pregunta"
+      },
+      "dateStart": "2026-03-18T09:22:00+01:00",
+      "dateEnd": "2026-03-18T09:23:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_166/cortes/15_000400_166_0_27100_769431.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1569431I",
+        "duration": 60.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_166_0_27100_769431",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Ester Muñoz de la Iglesia",
+          "lastname": "Muñoz de la Iglesia",
+          "firstname": "Ester",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Popular en el Congreso"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 14
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 172
+      },
+      "agendaItem": {
+        "title": "¿El Gobierno conoce los problemas reales de los españoles?",
+        "officialTitle": "¿El Gobierno conoce los problemas reales de los españoles?",
+        "type": "qa",
+        "nativeType": "ES-pregunta"
+      },
+      "dateStart": "2026-03-18T09:23:00+01:00",
+      "dateEnd": "2026-03-18T09:25:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_166/cortes/15_000400_166_0_27100_769432.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1569432I",
+        "duration": 120.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_166_0_27100_769432",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "María Jesús Montero Cuadrado",
+          "lastname": "Montero Cuadrado",
+          "firstname": "María Jesús",
+          "type": "member of government",
+          "role": "Vicepresidenta Primera del Gobierno y Ministra de Hacienda",
+          "faction": {
+            "label": "Grupo Parlamentario Socialista"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 15
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 172
+      },
+      "agendaItem": {
+        "title": "¿Ha vuelto a mentir cuando afirmó \"rotundamente\" que este año habría\npresupuestos?",
+        "officialTitle": "¿Ha vuelto a mentir cuando afirmó \"rotundamente\" que este año habría\npresupuestos?",
+        "type": "qa",
+        "nativeType": "ES-pregunta"
+      },
+      "dateStart": "2026-03-18T09:25:00+01:00",
+      "dateEnd": "2026-03-18T09:26:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_166/cortes/15_000400_166_0_27100_769434.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1569434I",
+        "duration": 60.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_166_0_27100_769434",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Miguel Tellado Filgueira",
+          "lastname": "Tellado Filgueira",
+          "firstname": "Miguel",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Popular en el Congreso"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 16
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 172
+      },
+      "agendaItem": {
+        "title": "¿Ha vuelto a mentir cuando afirmó \"rotundamente\" que este año habría\npresupuestos?",
+        "officialTitle": "¿Ha vuelto a mentir cuando afirmó \"rotundamente\" que este año habría\npresupuestos?",
+        "type": "qa",
+        "nativeType": "ES-pregunta"
+      },
+      "dateStart": "2026-03-18T09:26:00+01:00",
+      "dateEnd": "2026-03-18T09:29:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_166/cortes/15_000400_166_0_27100_769435.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1569435I",
+        "duration": 180.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_166_0_27100_769435",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "María Jesús Montero Cuadrado",
+          "lastname": "Montero Cuadrado",
+          "firstname": "María Jesús",
+          "type": "member of government",
+          "role": "Vicepresidenta Primera del Gobierno y Ministra de Hacienda",
+          "faction": {
+            "label": "Grupo Parlamentario Socialista"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 17
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 172
+      },
+      "agendaItem": {
+        "title": "¿Ha vuelto a mentir cuando afirmó \"rotundamente\" que este año habría\npresupuestos?",
+        "officialTitle": "¿Ha vuelto a mentir cuando afirmó \"rotundamente\" que este año habría\npresupuestos?",
+        "type": "qa",
+        "nativeType": "ES-pregunta"
+      },
+      "dateStart": "2026-03-18T09:29:00+01:00",
+      "dateEnd": "2026-03-18T09:30:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_166/cortes/15_000400_166_0_27100_769436.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1569436I",
+        "duration": 60.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_166_0_27100_769436",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Miguel Tellado Filgueira",
+          "lastname": "Tellado Filgueira",
+          "firstname": "Miguel",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Popular en el Congreso"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 18
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 172
+      },
+      "agendaItem": {
+        "title": "¿Ha vuelto a mentir cuando afirmó \"rotundamente\" que este año habría\npresupuestos?",
+        "officialTitle": "¿Ha vuelto a mentir cuando afirmó \"rotundamente\" que este año habría\npresupuestos?",
+        "type": "qa",
+        "nativeType": "ES-pregunta"
+      },
+      "dateStart": "2026-03-18T09:30:00+01:00",
+      "dateEnd": "2026-03-18T09:31:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_166/cortes/15_000400_166_0_27100_769437.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1569437I",
+        "duration": 60.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_166_0_27100_769437",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "María Jesús Montero Cuadrado",
+          "lastname": "Montero Cuadrado",
+          "firstname": "María Jesús",
+          "type": "member of government",
+          "role": "Vicepresidenta Primera del Gobierno y Ministra de Hacienda",
+          "faction": {
+            "label": "Grupo Parlamentario Socialista"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 19
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 172
+      },
+      "agendaItem": {
+        "title": "¿Considera que está actuando de forma diligente en el Ministerio de\nHacienda?",
+        "officialTitle": "¿Considera que está actuando de forma diligente en el Ministerio de\nHacienda?",
+        "type": "qa",
+        "nativeType": "ES-pregunta"
+      },
+      "dateStart": "2026-03-18T09:31:00+01:00",
+      "dateEnd": "2026-03-18T09:33:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_166/cortes/15_000400_166_0_27100_769439.mp4\nhttps://www.congreso.es/audiovisual/video/leg15/400/15_000400_166/cortes/15_000400_166_0_27100_769441.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1569439I https://app.congreso.es/v1/15769441I",
+        "duration": 120.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_166_0_27100_769441",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Elías Bendodo Benasayag",
+          "lastname": "Bendodo Benasayag",
+          "firstname": "Elías",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Popular en el Congreso"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 20
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 172
+      },
+      "agendaItem": {
+        "title": "¿Considera que está actuando de forma diligente en el Ministerio de\nHacienda?",
+        "officialTitle": "¿Considera que está actuando de forma diligente en el Ministerio de\nHacienda?",
+        "type": "qa",
+        "nativeType": "ES-pregunta"
+      },
+      "dateStart": "2026-03-18T09:33:00+01:00",
+      "dateEnd": "2026-03-18T09:35:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_166/cortes/15_000400_166_0_27100_769440.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1569440I",
+        "duration": 120.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_166_0_27100_769440",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "María Jesús Montero Cuadrado",
+          "lastname": "Montero Cuadrado",
+          "firstname": "María Jesús",
+          "type": "member of government",
+          "role": "Vicepresidenta Primera del Gobierno y Ministra de Hacienda",
+          "faction": {
+            "label": "Grupo Parlamentario Socialista"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 21
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 172
+      },
+      "agendaItem": {
+        "title": "¿Considera que está actuando de forma diligente en el Ministerio de\nHacienda?",
+        "officialTitle": "¿Considera que está actuando de forma diligente en el Ministerio de\nHacienda?",
+        "type": "qa",
+        "nativeType": "ES-pregunta"
+      },
+      "dateStart": "2026-03-18T09:36:00+01:00",
+      "dateEnd": "2026-03-18T09:37:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_166/cortes/15_000400_166_0_27100_769442.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1569442I",
+        "duration": 60.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_166_0_27100_769442",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "María Jesús Montero Cuadrado",
+          "lastname": "Montero Cuadrado",
+          "firstname": "María Jesús",
+          "type": "member of government",
+          "role": "Vicepresidenta Primera del Gobierno y Ministra de Hacienda",
+          "faction": {
+            "label": "Grupo Parlamentario Socialista"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 22
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 172
+      },
+      "agendaItem": {
+        "title": "¿Para qué pagan tantos impuestos los españoles?",
+        "officialTitle": "¿Para qué pagan tantos impuestos los españoles?",
+        "type": "qa",
+        "nativeType": "ES-pregunta"
+      },
+      "dateStart": "2026-03-18T09:37:00+01:00",
+      "dateEnd": "2026-03-18T09:40:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_166/cortes/15_000400_166_0_27100_769444.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1569444I",
+        "duration": 180.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_166_0_27100_769444",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "José María Figaredo Álvarez-Sala",
+          "lastname": "Figaredo Álvarez-Sala",
+          "firstname": "José María",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario VOX"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 23
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 172
+      },
+      "agendaItem": {
+        "title": "¿Para qué pagan tantos impuestos los españoles?",
+        "officialTitle": "¿Para qué pagan tantos impuestos los españoles?",
+        "type": "qa",
+        "nativeType": "ES-pregunta"
+      },
+      "dateStart": "2026-03-18T09:40:00+01:00",
+      "dateEnd": "2026-03-18T09:43:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_166/cortes/15_000400_166_0_27100_769445.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1569445I",
+        "duration": 180.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_166_0_27100_769445",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "María Jesús Montero Cuadrado",
+          "lastname": "Montero Cuadrado",
+          "firstname": "María Jesús",
+          "type": "member of government",
+          "role": "Vicepresidenta Primera del Gobierno y Ministra de Hacienda",
+          "faction": {
+            "label": "Grupo Parlamentario Socialista"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 24
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 172
+      },
+      "agendaItem": {
+        "title": "¿Quién pagará esta vez las consecuencias de la guerra ilegal en Irán\ny Oriente Medio?",
+        "officialTitle": "¿Quién pagará esta vez las consecuencias de la guerra ilegal en Irán\ny Oriente Medio?",
+        "type": "qa",
+        "nativeType": "ES-pregunta"
+      },
+      "dateStart": "2026-03-18T09:43:00+01:00",
+      "dateEnd": "2026-03-18T09:44:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_166/cortes/15_000400_166_0_27100_769447.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1569447I",
+        "duration": 60.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_166_0_27100_769447",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Oskar Matute García de Jalón",
+          "lastname": "Matute García de Jalón",
+          "firstname": "Oskar",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Euskal Herria Bildu"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 25
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 172
+      },
+      "agendaItem": {
+        "title": "¿Quién pagará esta vez las consecuencias de la guerra ilegal en Irán\ny Oriente Medio?",
+        "officialTitle": "¿Quién pagará esta vez las consecuencias de la guerra ilegal en Irán\ny Oriente Medio?",
+        "type": "qa",
+        "nativeType": "ES-pregunta"
+      },
+      "dateStart": "2026-03-18T09:44:00+01:00",
+      "dateEnd": "2026-03-18T09:46:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_166/cortes/15_000400_166_0_27100_769448.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1569448I",
+        "duration": 120.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_166_0_27100_769448",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "María Jesús Montero Cuadrado",
+          "lastname": "Montero Cuadrado",
+          "firstname": "María Jesús",
+          "type": "member of government",
+          "role": "Vicepresidenta Primera del Gobierno y Ministra de Hacienda",
+          "faction": {
+            "label": "Grupo Parlamentario Socialista"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 26
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 172
+      },
+      "agendaItem": {
+        "title": "¿Quién pagará esta vez las consecuencias de la guerra ilegal en Irán\ny Oriente Medio?",
+        "officialTitle": "¿Quién pagará esta vez las consecuencias de la guerra ilegal en Irán\ny Oriente Medio?",
+        "type": "qa",
+        "nativeType": "ES-pregunta"
+      },
+      "dateStart": "2026-03-18T09:46:00+01:00",
+      "dateEnd": "2026-03-18T09:48:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_166/cortes/15_000400_166_0_27100_769449.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1569449I",
+        "duration": 120.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_166_0_27100_769449",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Oskar Matute García de Jalón",
+          "lastname": "Matute García de Jalón",
+          "firstname": "Oskar",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Euskal Herria Bildu"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 27
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 172
+      },
+      "agendaItem": {
+        "title": "¿Quién pagará esta vez las consecuencias de la guerra ilegal en Irán\ny Oriente Medio?",
+        "officialTitle": "¿Quién pagará esta vez las consecuencias de la guerra ilegal en Irán\ny Oriente Medio?",
+        "type": "qa",
+        "nativeType": "ES-pregunta"
+      },
+      "dateStart": "2026-03-18T09:48:00+01:00",
+      "dateEnd": "2026-03-18T09:48:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_166/cortes/15_000400_166_0_27100_769450.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1569450I",
+        "duration": 0.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_166_0_27100_769450",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "María Jesús Montero Cuadrado",
+          "lastname": "Montero Cuadrado",
+          "firstname": "María Jesús",
+          "type": "member of government",
+          "role": "Vicepresidenta Primera del Gobierno y Ministra de Hacienda",
+          "faction": {
+            "label": "Grupo Parlamentario Socialista"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 28
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 172
+      },
+      "agendaItem": {
+        "title": "¿Su Ministerio ha hecho las cosas bien, Ministra?",
+        "officialTitle": "¿Su Ministerio ha hecho las cosas bien, Ministra?",
+        "type": "qa",
+        "nativeType": "ES-pregunta"
+      },
+      "dateStart": "2026-03-18T09:48:00+01:00",
+      "dateEnd": "2026-03-18T09:50:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_166/cortes/15_000400_166_0_27100_769452.mp4\nhttps://www.congreso.es/audiovisual/video/leg15/400/15_000400_166/cortes/15_000400_166_0_27100_769454.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1569452I https://app.congreso.es/v1/15769454I",
+        "duration": 120.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_166_0_27100_769454",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Jaime Eduardo de Olano Vela",
+          "lastname": "Olano Vela",
+          "firstname": "Jaime Eduardo de",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Popular en el Congreso"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 29
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 172
+      },
+      "agendaItem": {
+        "title": "¿Su Ministerio ha hecho las cosas bien, Ministra?",
+        "officialTitle": "¿Su Ministerio ha hecho las cosas bien, Ministra?",
+        "type": "qa",
+        "nativeType": "ES-pregunta"
+      },
+      "dateStart": "2026-03-18T09:50:00+01:00",
+      "dateEnd": "2026-03-18T09:52:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_166/cortes/15_000400_166_0_27100_769453.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1569453I",
+        "duration": 120.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_166_0_27100_769453",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Sara Aagesen Muñoz",
+          "lastname": "Aagesen Muñoz",
+          "firstname": "Sara",
+          "type": "member of government",
+          "role": "Vicepresidenta Tercera y Ministra para la Transición Ecológica y el\nReto Demográfico"
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 30
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 172
+      },
+      "agendaItem": {
+        "title": "¿Su Ministerio ha hecho las cosas bien, Ministra?",
+        "officialTitle": "¿Su Ministerio ha hecho las cosas bien, Ministra?",
+        "type": "qa",
+        "nativeType": "ES-pregunta"
+      },
+      "dateStart": "2026-03-18T09:53:00+01:00",
+      "dateEnd": "2026-03-18T09:54:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_166/cortes/15_000400_166_0_27100_769455.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1569455I",
+        "duration": 60.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_166_0_27100_769455",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Sara Aagesen Muñoz",
+          "lastname": "Aagesen Muñoz",
+          "firstname": "Sara",
+          "type": "member of government",
+          "role": "Vicepresidenta Tercera y Ministra para la Transición Ecológica y el\nReto Demográfico"
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 31
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 172
+      },
+      "agendaItem": {
+        "title": "¿Cumple su Gobierno con la Constitución y la Ley?",
+        "officialTitle": "¿Cumple su Gobierno con la Constitución y la Ley?",
+        "type": "qa",
+        "nativeType": "ES-pregunta"
+      },
+      "dateStart": "2026-03-18T09:54:00+01:00",
+      "dateEnd": "2026-03-18T09:57:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_166/cortes/15_000400_166_0_27100_769457.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1569457I",
+        "duration": 180.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_166_0_27100_769457",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Concepción Gamarra Ruiz-Clavijo",
+          "lastname": "Gamarra Ruiz-Clavijo",
+          "firstname": "Concepción",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Popular en el Congreso"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 32
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 172
+      },
+      "agendaItem": {
+        "title": "¿Cumple su Gobierno con la Constitución y la Ley?",
+        "officialTitle": "¿Cumple su Gobierno con la Constitución y la Ley?",
+        "type": "qa",
+        "nativeType": "ES-pregunta"
+      },
+      "dateStart": "2026-03-18T09:57:00+01:00",
+      "dateEnd": "2026-03-18T09:59:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_166/cortes/15_000400_166_0_27100_769458.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1569458I",
+        "duration": 120.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_166_0_27100_769458",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Félix Bolaños García",
+          "lastname": "Bolaños García",
+          "firstname": "Félix",
+          "type": "member of government",
+          "role": "Ministro de la Presidencia, Justicia y Relaciones con las Cortes",
+          "faction": {
+            "label": "Grupo Parlamentario Socialista"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 33
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 172
+      },
+      "agendaItem": {
+        "title": "¿Cumple su Gobierno con la Constitución y la Ley?",
+        "officialTitle": "¿Cumple su Gobierno con la Constitución y la Ley?",
+        "type": "qa",
+        "nativeType": "ES-pregunta"
+      },
+      "dateStart": "2026-03-18T09:59:00+01:00",
+      "dateEnd": "2026-03-18T10:00:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_166/cortes/15_000400_166_0_27100_769459.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1569459I",
+        "duration": 60.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_166_0_27100_769459",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Concepción Gamarra Ruiz-Clavijo",
+          "lastname": "Gamarra Ruiz-Clavijo",
+          "firstname": "Concepción",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Popular en el Congreso"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 34
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 172
+      },
+      "agendaItem": {
+        "title": "¿Cumple su Gobierno con la Constitución y la Ley?",
+        "officialTitle": "¿Cumple su Gobierno con la Constitución y la Ley?",
+        "type": "qa",
+        "nativeType": "ES-pregunta"
+      },
+      "dateStart": "2026-03-18T10:00:00+01:00",
+      "dateEnd": "2026-03-18T10:00:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_166/cortes/15_000400_166_0_27100_769460.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1569460I",
+        "duration": 0.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_166_0_27100_769460",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Félix Bolaños García",
+          "lastname": "Bolaños García",
+          "firstname": "Félix",
+          "type": "member of government",
+          "role": "Ministro de la Presidencia, Justicia y Relaciones con las Cortes",
+          "faction": {
+            "label": "Grupo Parlamentario Socialista"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 35
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 172
+      },
+      "agendaItem": {
+        "title": "¿Por qué a los españoles les va peor que al Gobierno?",
+        "officialTitle": "¿Por qué a los españoles les va peor que al Gobierno?",
+        "type": "qa",
+        "nativeType": "ES-pregunta"
+      },
+      "dateStart": "2026-03-18T10:00:00+01:00",
+      "dateEnd": "2026-03-18T10:01:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_166/cortes/15_000400_166_0_27100_769462.mp4\nhttps://www.congreso.es/audiovisual/video/leg15/400/15_000400_166/cortes/15_000400_166_0_27100_769464.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1569462I https://app.congreso.es/v1/15769464I",
+        "duration": 60.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_166_0_27100_769464",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "María José Rodríguez de Millán Parro",
+          "lastname": "Rodríguez de Millán Parro",
+          "firstname": "María José",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario VOX"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 36
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 172
+      },
+      "agendaItem": {
+        "title": "¿Por qué a los españoles les va peor que al Gobierno?",
+        "officialTitle": "¿Por qué a los españoles les va peor que al Gobierno?",
+        "type": "qa",
+        "nativeType": "ES-pregunta"
+      },
+      "dateStart": "2026-03-18T10:01:00+01:00",
+      "dateEnd": "2026-03-18T10:02:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_166/cortes/15_000400_166_0_27100_769463.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1569463I",
+        "duration": 60.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_166_0_27100_769463",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Félix Bolaños García",
+          "lastname": "Bolaños García",
+          "firstname": "Félix",
+          "type": "member of government",
+          "role": "Ministro de la Presidencia, Justicia y Relaciones con las Cortes",
+          "faction": {
+            "label": "Grupo Parlamentario Socialista"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 37
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 172
+      },
+      "agendaItem": {
+        "title": "¿Por qué a los españoles les va peor que al Gobierno?",
+        "officialTitle": "¿Por qué a los españoles les va peor que al Gobierno?",
+        "type": "qa",
+        "nativeType": "ES-pregunta"
+      },
+      "dateStart": "2026-03-18T10:05:00+01:00",
+      "dateEnd": "2026-03-18T10:06:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_166/cortes/15_000400_166_0_27100_769465.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1569465I",
+        "duration": 60.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_166_0_27100_769465",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Félix Bolaños García",
+          "lastname": "Bolaños García",
+          "firstname": "Félix",
+          "type": "member of government",
+          "role": "Ministro de la Presidencia, Justicia y Relaciones con las Cortes",
+          "faction": {
+            "label": "Grupo Parlamentario Socialista"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 38
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 172
+      },
+      "agendaItem": {
+        "title": "¿Cuál es su principal labor como Ministro?",
+        "officialTitle": "¿Cuál es su principal labor como Ministro?",
+        "type": "qa",
+        "nativeType": "ES-pregunta"
+      },
+      "dateStart": "2026-03-18T10:06:00+01:00",
+      "dateEnd": "2026-03-18T10:07:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_166/cortes/15_000400_166_0_27100_769467.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1569467I",
+        "duration": 60.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_166_0_27100_769467",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Ana Belén Vázquez Blanco",
+          "lastname": "Vázquez Blanco",
+          "firstname": "Ana Belén",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Popular en el Congreso"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 39
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 172
+      },
+      "agendaItem": {
+        "title": "¿Cuál es su principal labor como Ministro?",
+        "officialTitle": "¿Cuál es su principal labor como Ministro?",
+        "type": "qa",
+        "nativeType": "ES-pregunta"
+      },
+      "dateStart": "2026-03-18T10:07:00+01:00",
+      "dateEnd": "2026-03-18T10:08:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_166/cortes/15_000400_166_0_27100_769468.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1569468I",
+        "duration": 60.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_166_0_27100_769468",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Fernando Grande-Marlaska Gómez",
+          "lastname": "Grande-Marlaska Gómez",
+          "firstname": "Fernando",
+          "type": "member of government",
+          "role": "Ministro del Interior"
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 40
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 172
+      },
+      "agendaItem": {
+        "title": "¿Cuál es su principal labor como Ministro?",
+        "officialTitle": "¿Cuál es su principal labor como Ministro?",
+        "type": "qa",
+        "nativeType": "ES-pregunta"
+      },
+      "dateStart": "2026-03-18T10:08:00+01:00",
+      "dateEnd": "2026-03-18T10:10:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_166/cortes/15_000400_166_0_27100_769469.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1569469I",
+        "duration": 120.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_166_0_27100_769469",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Ana Belén Vázquez Blanco",
+          "lastname": "Vázquez Blanco",
+          "firstname": "Ana Belén",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Popular en el Congreso"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 41
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 172
+      },
+      "agendaItem": {
+        "title": "¿Cuál es su principal labor como Ministro?",
+        "officialTitle": "¿Cuál es su principal labor como Ministro?",
+        "type": "qa",
+        "nativeType": "ES-pregunta"
+      },
+      "dateStart": "2026-03-18T10:10:00+01:00",
+      "dateEnd": "2026-03-18T10:13:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_166/cortes/15_000400_166_0_27100_769470.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1569470I",
+        "duration": 180.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_166_0_27100_769470",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Fernando Grande-Marlaska Gómez",
+          "lastname": "Grande-Marlaska Gómez",
+          "firstname": "Fernando",
+          "type": "member of government",
+          "role": "Ministro del Interior"
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 42
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 172
+      },
+      "agendaItem": {
+        "title": "¿Cuál es la hoja de ruta del Ministerio de Educación?",
+        "officialTitle": "¿Cuál es la hoja de ruta del Ministerio de Educación?",
+        "type": "qa",
+        "nativeType": "ES-pregunta"
+      },
+      "dateStart": "2026-03-18T10:13:00+01:00",
+      "dateEnd": "2026-03-18T10:16:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_166/cortes/15_000400_166_0_27100_769472.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1569472I",
+        "duration": 180.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_166_0_27100_769472",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Jaime Miguel De los Santos González",
+          "lastname": "De los Santos González",
+          "firstname": "Jaime Miguel",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Popular en el Congreso"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 43
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 172
+      },
+      "agendaItem": {
+        "title": "¿Cuál es la hoja de ruta del Ministerio de Educación?",
+        "officialTitle": "¿Cuál es la hoja de ruta del Ministerio de Educación?",
+        "type": "qa",
+        "nativeType": "ES-pregunta"
+      },
+      "dateStart": "2026-03-18T10:16:00+01:00",
+      "dateEnd": "2026-03-18T10:16:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_166/cortes/15_000400_166_0_27100_769473.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1569473I",
+        "duration": 0.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_166_0_27100_769473",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Milagros Tolón Jaime",
+          "lastname": "Tolón Jaime",
+          "firstname": "Milagros",
+          "type": "member of government",
+          "role": "Ministra de Educación, Formación Profesional y Deportes"
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 44
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 172
+      },
+      "agendaItem": {
+        "title": "¿Cuánto tiempo cree que puede mantener su cartera?",
+        "officialTitle": "¿Cuánto tiempo cree que puede mantener su cartera?",
+        "type": "qa",
+        "nativeType": "ES-pregunta"
+      },
+      "dateStart": "2026-03-18T10:16:00+01:00",
+      "dateEnd": "2026-03-18T10:18:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_166/cortes/15_000400_166_0_27100_769475.mp4\nhttps://www.congreso.es/audiovisual/video/leg15/400/15_000400_166/cortes/15_000400_166_0_27100_769477.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1569475I https://app.congreso.es/v1/15769477I",
+        "duration": 120.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_166_0_27100_769477",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Pedro Muñoz Abrines",
+          "lastname": "Muñoz Abrines",
+          "firstname": "Pedro",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Popular en el Congreso"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 45
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 172
+      },
+      "agendaItem": {
+        "title": "¿Cuánto tiempo cree que puede mantener su cartera?",
+        "officialTitle": "¿Cuánto tiempo cree que puede mantener su cartera?",
+        "type": "qa",
+        "nativeType": "ES-pregunta"
+      },
+      "dateStart": "2026-03-18T10:18:00+01:00",
+      "dateEnd": "2026-03-18T10:20:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_166/cortes/15_000400_166_0_27100_769476.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1569476I",
+        "duration": 120.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_166_0_27100_769476",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Ángel Víctor Torres Pérez",
+          "lastname": "Torres Pérez",
+          "firstname": "Ángel Víctor",
+          "type": "member of government",
+          "role": "Ministro de Política Territorial y Memoria Democrática"
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 46
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 172
+      },
+      "agendaItem": {
+        "title": "¿Cuánto tiempo cree que puede mantener su cartera?",
+        "officialTitle": "¿Cuánto tiempo cree que puede mantener su cartera?",
+        "type": "qa",
+        "nativeType": "ES-pregunta"
+      },
+      "dateStart": "2026-03-18T10:22:00+01:00",
+      "dateEnd": "2026-03-18T10:23:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_166/cortes/15_000400_166_0_27100_769478.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1569478I",
+        "duration": 60.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_166_0_27100_769478",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Ángel Víctor Torres Pérez",
+          "lastname": "Torres Pérez",
+          "firstname": "Ángel Víctor",
+          "type": "member of government",
+          "role": "Ministro de Política Territorial y Memoria Democrática"
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 47
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 172
+      },
+      "agendaItem": {
+        "title": "¿Considera que todas las víctimas del franquismo están protegidas por\nla Ley de Memoria Democrática?",
+        "officialTitle": "¿Considera que todas las víctimas del franquismo están protegidas por\nla Ley de Memoria Democrática?",
+        "type": "qa",
+        "nativeType": "ES-pregunta"
+      },
+      "dateStart": "2026-03-18T10:23:00+01:00",
+      "dateEnd": "2026-03-18T10:23:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_166/cortes/15_000400_166_0_27100_769480.mp4\nhttps://www.congreso.es/audiovisual/video/leg15/400/15_000400_166/cortes/15_000400_166_0_27100_769482.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1569480I https://app.congreso.es/v1/15769482I",
+        "duration": 0.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_166_0_27100_769482",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Etna Estrems Fayos",
+          "lastname": "Estrems Fayos",
+          "firstname": "Etna",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Republicano"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 48
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 172
+      },
+      "agendaItem": {
+        "title": "¿Considera que todas las víctimas del franquismo están protegidas por\nla Ley de Memoria Democrática?",
+        "officialTitle": "¿Considera que todas las víctimas del franquismo están protegidas por\nla Ley de Memoria Democrática?",
+        "type": "qa",
+        "nativeType": "ES-pregunta"
+      },
+      "dateStart": "2026-03-18T10:23:00+01:00",
+      "dateEnd": "2026-03-18T10:24:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_166/cortes/15_000400_166_0_27100_769481.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1569481I",
+        "duration": 60.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_166_0_27100_769481",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Ángel Víctor Torres Pérez",
+          "lastname": "Torres Pérez",
+          "firstname": "Ángel Víctor",
+          "type": "member of government",
+          "role": "Ministro de Política Territorial y Memoria Democrática"
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 49
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 172
+      },
+      "agendaItem": {
+        "title": "¿Considera que todas las víctimas del franquismo están protegidas por\nla Ley de Memoria Democrática?",
+        "officialTitle": "¿Considera que todas las víctimas del franquismo están protegidas por\nla Ley de Memoria Democrática?",
+        "type": "qa",
+        "nativeType": "ES-pregunta"
+      },
+      "dateStart": "2026-03-18T10:27:00+01:00",
+      "dateEnd": "2026-03-18T10:29:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_166/cortes/15_000400_166_0_27100_769483.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1569483I",
+        "duration": 120.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_166_0_27100_769483",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Ángel Víctor Torres Pérez",
+          "lastname": "Torres Pérez",
+          "firstname": "Ángel Víctor",
+          "type": "member of government",
+          "role": "Ministro de Política Territorial y Memoria Democrática"
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 50
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 172
+      },
+      "agendaItem": {
+        "title": "¿Cómo valora la situación actual de las mujeres en España después de\ncasi ocho años de Gobierno?",
+        "officialTitle": "¿Cómo valora la situación actual de las mujeres en España después de\ncasi ocho años de Gobierno?",
+        "type": "qa",
+        "nativeType": "ES-pregunta"
+      },
+      "dateStart": "2026-03-18T10:29:00+01:00",
+      "dateEnd": "2026-03-18T10:30:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_166/cortes/15_000400_166_0_27100_769485.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1569485I",
+        "duration": 60.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_166_0_27100_769485",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Patricia Rodríguez Calleja",
+          "lastname": "Rodríguez Calleja",
+          "firstname": "Patricia",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Popular en el Congreso"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 51
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 172
+      },
+      "agendaItem": {
+        "title": "¿Cómo valora la situación actual de las mujeres en España después de\ncasi ocho años de Gobierno?",
+        "officialTitle": "¿Cómo valora la situación actual de las mujeres en España después de\ncasi ocho años de Gobierno?",
+        "type": "qa",
+        "nativeType": "ES-pregunta"
+      },
+      "dateStart": "2026-03-18T10:30:00+01:00",
+      "dateEnd": "2026-03-18T10:31:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_166/cortes/15_000400_166_0_27100_769486.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1569486I",
+        "duration": 60.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_166_0_27100_769486",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Ana María del Carmen Redondo García",
+          "lastname": "Redondo García",
+          "firstname": "Ana María del Carmen",
+          "type": "member of government",
+          "role": "Ministra de Igualdad"
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 52
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 172
+      },
+      "agendaItem": {
+        "title": "¿Cómo valora la situación actual de las mujeres en España después de\ncasi ocho años de Gobierno?",
+        "officialTitle": "¿Cómo valora la situación actual de las mujeres en España después de\ncasi ocho años de Gobierno?",
+        "type": "qa",
+        "nativeType": "ES-pregunta"
+      },
+      "dateStart": "2026-03-18T10:31:00+01:00",
+      "dateEnd": "2026-03-18T10:34:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_166/cortes/15_000400_166_0_27100_769487.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1569487I",
+        "duration": 180.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_166_0_27100_769487",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Patricia Rodríguez Calleja",
+          "lastname": "Rodríguez Calleja",
+          "firstname": "Patricia",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Popular en el Congreso"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 53
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 172
+      },
+      "agendaItem": {
+        "title": "¿Cómo valora la situación actual de las mujeres en España después de\ncasi ocho años de Gobierno?",
+        "officialTitle": "¿Cómo valora la situación actual de las mujeres en España después de\ncasi ocho años de Gobierno?",
+        "type": "qa",
+        "nativeType": "ES-pregunta"
+      },
+      "dateStart": "2026-03-18T10:34:00+01:00",
+      "dateEnd": "2026-03-18T10:35:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_166/cortes/15_000400_166_0_27100_769488.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1569488I",
+        "duration": 60.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_166_0_27100_769488",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Ana María del Carmen Redondo García",
+          "lastname": "Redondo García",
+          "firstname": "Ana María del Carmen",
+          "type": "member of government",
+          "role": "Ministra de Igualdad"
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 54
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 172
+      },
+      "agendaItem": {
+        "title": "¿Cree que su Ministerio ayuda a los autónomos?",
+        "officialTitle": "¿Cree que su Ministerio ayuda a los autónomos?",
+        "type": "qa",
+        "nativeType": "ES-pregunta"
+      },
+      "dateStart": "2026-03-18T10:35:00+01:00",
+      "dateEnd": "2026-03-18T10:36:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_166/cortes/15_000400_166_0_27100_769490.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1569490I",
+        "duration": 60.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_166_0_27100_769490",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Josep Maria Cervera Pinart",
+          "lastname": "Cervera Pinart",
+          "firstname": "Josep Maria",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Junts per Catalunya"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 55
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 172
+      },
+      "agendaItem": {
+        "title": "¿Cree que su Ministerio ayuda a los autónomos?",
+        "officialTitle": "¿Cree que su Ministerio ayuda a los autónomos?",
+        "type": "qa",
+        "nativeType": "ES-pregunta"
+      },
+      "dateStart": "2026-03-18T10:36:00+01:00",
+      "dateEnd": "2026-03-18T10:38:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_166/cortes/15_000400_166_0_27100_769491.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1569491I",
+        "duration": 120.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_166_0_27100_769491",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Elma Saiz Delgado",
+          "lastname": "Saiz Delgado",
+          "firstname": "Elma",
+          "type": "member of government",
+          "role": "Ministra de Inclusión, Seguridad Social y Migraciones"
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 56
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 172
+      },
+      "agendaItem": {
+        "title": "¿Cree que su Ministerio ayuda a los autónomos?",
+        "officialTitle": "¿Cree que su Ministerio ayuda a los autónomos?",
+        "type": "qa",
+        "nativeType": "ES-pregunta"
+      },
+      "dateStart": "2026-03-18T10:38:00+01:00",
+      "dateEnd": "2026-03-18T10:40:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_166/cortes/15_000400_166_0_27100_769492.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1569492I",
+        "duration": 120.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_166_0_27100_769492",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Josep Maria Cervera Pinart",
+          "lastname": "Cervera Pinart",
+          "firstname": "Josep Maria",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Junts per Catalunya"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 57
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 172
+      },
+      "agendaItem": {
+        "title": "¿Cree que su Ministerio ayuda a los autónomos?",
+        "officialTitle": "¿Cree que su Ministerio ayuda a los autónomos?",
+        "type": "qa",
+        "nativeType": "ES-pregunta"
+      },
+      "dateStart": "2026-03-18T10:40:00+01:00",
+      "dateEnd": "2026-03-18T10:41:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_166/cortes/15_000400_166_0_27100_769493.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1569493I",
+        "duration": 60.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_166_0_27100_769493",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Elma Saiz Delgado",
+          "lastname": "Saiz Delgado",
+          "firstname": "Elma",
+          "type": "member of government",
+          "role": "Ministra de Inclusión, Seguridad Social y Migraciones"
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 58
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 172
+      },
+      "agendaItem": {
+        "title": "Interpelación urgente a la Vicepresidenta Primera del Gobierno y\nMinistra de Hacienda sobre las dificultades fiscales y económicas de la\nclase media y trabajadora.",
+        "officialTitle": "Interpelación urgente a la Vicepresidenta Primera del Gobierno y\nMinistra de Hacienda sobre las dificultades fiscales y económicas de la\nclase media y trabajadora.",
+        "type": "questioning_of_the_government",
+        "nativeType": "ES-interpelacion"
+      },
+      "dateStart": "2026-03-18T10:41:00+01:00",
+      "dateEnd": "2026-03-18T10:54:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_166/cortes/15_000400_166_0_27100_769496.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1569496I",
+        "duration": 780.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_166_0_27100_769496",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Josep Maria Cruset Domènech",
+          "lastname": "Cruset Domènech",
+          "firstname": "Josep Maria",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Junts per Catalunya"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 59
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 172
+      },
+      "agendaItem": {
+        "title": "Interpelación urgente a la Vicepresidenta Primera del Gobierno y\nMinistra de Hacienda sobre las dificultades fiscales y económicas de la\nclase media y trabajadora.",
+        "officialTitle": "Interpelación urgente a la Vicepresidenta Primera del Gobierno y\nMinistra de Hacienda sobre las dificultades fiscales y económicas de la\nclase media y trabajadora.",
+        "type": "questioning_of_the_government",
+        "nativeType": "ES-interpelacion"
+      },
+      "dateStart": "2026-03-18T10:54:00+01:00",
+      "dateEnd": "2026-03-18T11:08:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_166/cortes/15_000400_166_0_27100_769497.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1569497I",
+        "duration": 840.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_166_0_27100_769497",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "María Jesús Montero Cuadrado",
+          "lastname": "Montero Cuadrado",
+          "firstname": "María Jesús",
+          "type": "member of government",
+          "role": "Vicepresidenta Primera del Gobierno y Ministra de Hacienda",
+          "faction": {
+            "label": "Grupo Parlamentario Socialista"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 60
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 172
+      },
+      "agendaItem": {
+        "title": "Interpelación urgente a la Vicepresidenta Primera del Gobierno y\nMinistra de Hacienda sobre las dificultades fiscales y económicas de la\nclase media y trabajadora.",
+        "officialTitle": "Interpelación urgente a la Vicepresidenta Primera del Gobierno y\nMinistra de Hacienda sobre las dificultades fiscales y económicas de la\nclase media y trabajadora.",
+        "type": "questioning_of_the_government",
+        "nativeType": "ES-interpelacion"
+      },
+      "dateStart": "2026-03-18T11:08:00+01:00",
+      "dateEnd": "2026-03-18T11:14:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_166/cortes/15_000400_166_0_27100_769498.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1569498I",
+        "duration": 360.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_166_0_27100_769498",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Josep Maria Cruset Domènech",
+          "lastname": "Cruset Domènech",
+          "firstname": "Josep Maria",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Junts per Catalunya"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 61
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 172
+      },
+      "agendaItem": {
+        "title": "Interpelación urgente a la Vicepresidenta Primera del Gobierno y\nMinistra de Hacienda sobre las dificultades fiscales y económicas de la\nclase media y trabajadora.",
+        "officialTitle": "Interpelación urgente a la Vicepresidenta Primera del Gobierno y\nMinistra de Hacienda sobre las dificultades fiscales y económicas de la\nclase media y trabajadora.",
+        "type": "questioning_of_the_government",
+        "nativeType": "ES-interpelacion"
+      },
+      "dateStart": "2026-03-18T11:14:00+01:00",
+      "dateEnd": "2026-03-18T11:22:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_166/cortes/15_000400_166_0_27100_769499.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1569499I",
+        "duration": 480.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_166_0_27100_769499",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "María Jesús Montero Cuadrado",
+          "lastname": "Montero Cuadrado",
+          "firstname": "María Jesús",
+          "type": "member of government",
+          "role": "Vicepresidenta Primera del Gobierno y Ministra de Hacienda",
+          "faction": {
+            "label": "Grupo Parlamentario Socialista"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 62
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 172
+      },
+      "agendaItem": {
+        "title": "Interpelación urgente a la Vicepresidenta Tercera del Gobierno y\nMinistra para la Transición Ecológica y el Reto Demográfico sobre la\nestrategia energética del Gobierno para garantizar la supervivencia de la\nindustria y el crecimiento del país.",
+        "officialTitle": "Interpelación urgente a la Vicepresidenta Tercera del Gobierno y\nMinistra para la Transición Ecológica y el Reto Demográfico sobre la\nestrategia energética del Gobierno para garantizar la supervivencia de la\nindustria y el crecimiento del país.",
+        "type": "questioning_of_the_government",
+        "nativeType": "ES-interpelacion"
+      },
+      "dateStart": "2026-03-18T11:22:00+01:00",
+      "dateEnd": "2026-03-18T11:36:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_166/cortes/15_000400_166_0_27100_769501.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1569501I",
+        "duration": 840.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_166_0_27100_769501",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "José María Figaredo Álvarez-Sala",
+          "lastname": "Figaredo Álvarez-Sala",
+          "firstname": "José María",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario VOX"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 63
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 172
+      },
+      "agendaItem": {
+        "title": "Interpelación urgente a la Vicepresidenta Tercera del Gobierno y\nMinistra para la Transición Ecológica y el Reto Demográfico sobre la\nestrategia energética del Gobierno para garantizar la supervivencia de la\nindustria y el crecimiento del país.",
+        "officialTitle": "Interpelación urgente a la Vicepresidenta Tercera del Gobierno y\nMinistra para la Transición Ecológica y el Reto Demográfico sobre la\nestrategia energética del Gobierno para garantizar la supervivencia de la\nindustria y el crecimiento del país.",
+        "type": "questioning_of_the_government",
+        "nativeType": "ES-interpelacion"
+      },
+      "dateStart": "2026-03-18T11:36:00+01:00",
+      "dateEnd": "2026-03-18T11:48:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_166/cortes/15_000400_166_0_27100_769502.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1569502I",
+        "duration": 720.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_166_0_27100_769502",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Sara Aagesen Muñoz",
+          "lastname": "Aagesen Muñoz",
+          "firstname": "Sara",
+          "type": "member of government",
+          "role": "Vicepresidenta Tercera y Ministra para la Transición Ecológica y el\nReto Demográfico"
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 64
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 172
+      },
+      "agendaItem": {
+        "title": "Interpelación urgente a la Vicepresidenta Tercera del Gobierno y\nMinistra para la Transición Ecológica y el Reto Demográfico sobre la\nestrategia energética del Gobierno para garantizar la supervivencia de la\nindustria y el crecimiento del país.",
+        "officialTitle": "Interpelación urgente a la Vicepresidenta Tercera del Gobierno y\nMinistra para la Transición Ecológica y el Reto Demográfico sobre la\nestrategia energética del Gobierno para garantizar la supervivencia de la\nindustria y el crecimiento del país.",
+        "type": "questioning_of_the_government",
+        "nativeType": "ES-interpelacion"
+      },
+      "dateStart": "2026-03-18T11:48:00+01:00",
+      "dateEnd": "2026-03-18T11:55:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_166/cortes/15_000400_166_0_27100_769503.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1569503I",
+        "duration": 420.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_166_0_27100_769503",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "José María Figaredo Álvarez-Sala",
+          "lastname": "Figaredo Álvarez-Sala",
+          "firstname": "José María",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario VOX"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 65
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 172
+      },
+      "agendaItem": {
+        "title": "Interpelación urgente a la Vicepresidenta Tercera del Gobierno y\nMinistra para la Transición Ecológica y el Reto Demográfico sobre la\nestrategia energética del Gobierno para garantizar la supervivencia de la\nindustria y el crecimiento del país.",
+        "officialTitle": "Interpelación urgente a la Vicepresidenta Tercera del Gobierno y\nMinistra para la Transición Ecológica y el Reto Demográfico sobre la\nestrategia energética del Gobierno para garantizar la supervivencia de la\nindustria y el crecimiento del país.",
+        "type": "questioning_of_the_government",
+        "nativeType": "ES-interpelacion"
+      },
+      "dateStart": "2026-03-18T11:55:00+01:00",
+      "dateEnd": "2026-03-18T12:01:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_166/cortes/15_000400_166_0_27100_769504.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1569504I",
+        "duration": 360.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_166_0_27100_769504",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Sara Aagesen Muñoz",
+          "lastname": "Aagesen Muñoz",
+          "firstname": "Sara",
+          "type": "member of government",
+          "role": "Vicepresidenta Tercera y Ministra para la Transición Ecológica y el\nReto Demográfico"
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 66
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 172
+      },
+      "agendaItem": {
+        "title": "Interpelación urgente a la Ministra de Sanidad sobre las medidas que\nva a adoptar el Gobierno para garantizar la asistencia sanitaria de los\nespañoles.",
+        "officialTitle": "Interpelación urgente a la Ministra de Sanidad sobre las medidas que\nva a adoptar el Gobierno para garantizar la asistencia sanitaria de los\nespañoles.",
+        "type": "questioning_of_the_government",
+        "nativeType": "ES-interpelacion"
+      },
+      "dateStart": "2026-03-18T12:01:00+01:00",
+      "dateEnd": "2026-03-18T12:15:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_166/cortes/15_000400_166_0_27100_769506.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1569506I",
+        "duration": 840.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_166_0_27100_769506",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Rocío De Meer Méndez",
+          "lastname": "De Meer Méndez",
+          "firstname": "Rocío",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario VOX"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 67
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 172
+      },
+      "agendaItem": {
+        "title": "Interpelación urgente a la Ministra de Sanidad sobre las medidas que\nva a adoptar el Gobierno para garantizar la asistencia sanitaria de los\nespañoles.",
+        "officialTitle": "Interpelación urgente a la Ministra de Sanidad sobre las medidas que\nva a adoptar el Gobierno para garantizar la asistencia sanitaria de los\nespañoles.",
+        "type": "questioning_of_the_government",
+        "nativeType": "ES-interpelacion"
+      },
+      "dateStart": "2026-03-18T12:15:00+01:00",
+      "dateEnd": "2026-03-18T12:29:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_166/cortes/15_000400_166_0_27100_769507.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1569507I",
+        "duration": 840.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_166_0_27100_769507",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Mónica García Gómez",
+          "lastname": "García Gómez",
+          "firstname": "Mónica",
+          "type": "member of government",
+          "role": "Ministra de Sanidad"
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 68
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 172
+      },
+      "agendaItem": {
+        "title": "Interpelación urgente a la Ministra de Sanidad sobre las medidas que\nva a adoptar el Gobierno para garantizar la asistencia sanitaria de los\nespañoles.",
+        "officialTitle": "Interpelación urgente a la Ministra de Sanidad sobre las medidas que\nva a adoptar el Gobierno para garantizar la asistencia sanitaria de los\nespañoles.",
+        "type": "questioning_of_the_government",
+        "nativeType": "ES-interpelacion"
+      },
+      "dateStart": "2026-03-18T12:29:00+01:00",
+      "dateEnd": "2026-03-18T12:36:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_166/cortes/15_000400_166_0_27100_769508.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1569508I",
+        "duration": 420.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_166_0_27100_769508",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Rocío De Meer Méndez",
+          "lastname": "De Meer Méndez",
+          "firstname": "Rocío",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario VOX"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 69
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 172
+      },
+      "agendaItem": {
+        "title": "Interpelación urgente a la Ministra de Sanidad sobre las medidas que\nva a adoptar el Gobierno para garantizar la asistencia sanitaria de los\nespañoles.",
+        "officialTitle": "Interpelación urgente a la Ministra de Sanidad sobre las medidas que\nva a adoptar el Gobierno para garantizar la asistencia sanitaria de los\nespañoles.",
+        "type": "questioning_of_the_government",
+        "nativeType": "ES-interpelacion"
+      },
+      "dateStart": "2026-03-18T12:36:00+01:00",
+      "dateEnd": "2026-03-18T12:41:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_166/cortes/15_000400_166_0_27100_769509.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1569509I",
+        "duration": 300.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_166_0_27100_769509",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Mónica García Gómez",
+          "lastname": "García Gómez",
+          "firstname": "Mónica",
+          "type": "member of government",
+          "role": "Ministra de Sanidad"
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 70
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 172
+      },
+      "agendaItem": {
+        "title": "Interpelación urgente a la Vicepresidenta Primera del Gobierno y\nMinistra de Hacienda para dar cuenta de las medidas que está poniendo en\nmarcha el Gobierno para paliar las consecuencias de la guerra en Irán\nsobre las familias y empresas españolas.",
+        "officialTitle": "Interpelación urgente a la Vicepresidenta Primera del Gobierno y\nMinistra de Hacienda para dar cuenta de las medidas que está poniendo en\nmarcha el Gobierno para paliar las consecuencias de la guerra en Irán\nsobre las familias y empresas españolas.",
+        "type": "questioning_of_the_government",
+        "nativeType": "ES-interpelacion"
+      },
+      "dateStart": "2026-03-18T12:41:00+01:00",
+      "dateEnd": "2026-03-18T12:54:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_166/cortes/15_000400_166_0_27100_769511.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1569511I",
+        "duration": 780.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_166_0_27100_769511",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Juan Bravo Baena",
+          "lastname": "Bravo Baena",
+          "firstname": "Juan",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Popular en el Congreso"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 71
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 172
+      },
+      "agendaItem": {
+        "title": "Interpelación urgente a la Vicepresidenta Primera del Gobierno y\nMinistra de Hacienda para dar cuenta de las medidas que está poniendo en\nmarcha el Gobierno para paliar las consecuencias de la guerra en Irán\nsobre las familias y empresas españolas.",
+        "officialTitle": "Interpelación urgente a la Vicepresidenta Primera del Gobierno y\nMinistra de Hacienda para dar cuenta de las medidas que está poniendo en\nmarcha el Gobierno para paliar las consecuencias de la guerra en Irán\nsobre las familias y empresas españolas.",
+        "type": "questioning_of_the_government",
+        "nativeType": "ES-interpelacion"
+      },
+      "dateStart": "2026-03-18T12:54:00+01:00",
+      "dateEnd": "2026-03-18T13:06:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_166/cortes/15_000400_166_0_27100_769512.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1569512I",
+        "duration": 720.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_166_0_27100_769512",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Elma Saiz Delgado",
+          "lastname": "Saiz Delgado",
+          "firstname": "Elma",
+          "type": "member of government",
+          "role": "Ministra de Inclusión, Seguridad Social y Migraciones"
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 72
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 172
+      },
+      "agendaItem": {
+        "title": "Interpelación urgente a la Vicepresidenta Primera del Gobierno y\nMinistra de Hacienda para dar cuenta de las medidas que está poniendo en\nmarcha el Gobierno para paliar las consecuencias de la guerra en Irán\nsobre las familias y empresas españolas.",
+        "officialTitle": "Interpelación urgente a la Vicepresidenta Primera del Gobierno y\nMinistra de Hacienda para dar cuenta de las medidas que está poniendo en\nmarcha el Gobierno para paliar las consecuencias de la guerra en Irán\nsobre las familias y empresas españolas.",
+        "type": "questioning_of_the_government",
+        "nativeType": "ES-interpelacion"
+      },
+      "dateStart": "2026-03-18T13:06:00+01:00",
+      "dateEnd": "2026-03-18T13:12:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_166/cortes/15_000400_166_0_27100_769513.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1569513I",
+        "duration": 360.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_166_0_27100_769513",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Juan Bravo Baena",
+          "lastname": "Bravo Baena",
+          "firstname": "Juan",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Popular en el Congreso"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 73
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 172
+      },
+      "agendaItem": {
+        "title": "Interpelación urgente a la Vicepresidenta Primera del Gobierno y\nMinistra de Hacienda para dar cuenta de las medidas que está poniendo en\nmarcha el Gobierno para paliar las consecuencias de la guerra en Irán\nsobre las familias y empresas españolas.",
+        "officialTitle": "Interpelación urgente a la Vicepresidenta Primera del Gobierno y\nMinistra de Hacienda para dar cuenta de las medidas que está poniendo en\nmarcha el Gobierno para paliar las consecuencias de la guerra en Irán\nsobre las familias y empresas españolas.",
+        "type": "questioning_of_the_government",
+        "nativeType": "ES-interpelacion"
+      },
+      "dateStart": "2026-03-18T13:12:00+01:00",
+      "dateEnd": "2026-03-18T13:18:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_166/cortes/15_000400_166_0_27100_769514.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1569514I",
+        "duration": 360.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_166_0_27100_769514",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Elma Saiz Delgado",
+          "lastname": "Saiz Delgado",
+          "firstname": "Elma",
+          "type": "member of government",
+          "role": "Ministra de Inclusión, Seguridad Social y Migraciones"
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 74
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 172
+      },
+      "agendaItem": {
+        "title": "Real Decreto-ley 5/2026, de 17 de febrero, por el que se adoptan\nmedidas urgentes en respuesta a los daños causados por diversos fenómenos\nmeteorológicos adversos, de especial afectación en las comunidades\nautónomas de Andalucía y Extremadura.",
+        "officialTitle": "Real Decreto-ley 5/2026, de 17 de febrero, por el que se adoptan\nmedidas urgentes en respuesta a los daños causados por diversos fenómenos\nmeteorológicos adversos, de especial afectación en las comunidades\nautónomas de Andalucía y Extremadura.",
+        "type": "regular",
+        "nativeType": "ES-ley"
+      },
+      "dateStart": "2026-03-18T13:19:00+01:00",
+      "dateEnd": "2026-03-18T13:36:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_166/cortes/15_000400_166_1_27101_769520.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1569520I",
+        "duration": 1020.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_166_1_27101_769520",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Luis Planas Puchades",
+          "lastname": "Planas Puchades",
+          "firstname": "Luis",
+          "type": "member of government",
+          "role": "Ministro de Agricultura, Pesca y Alimentación"
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 75
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 172
+      },
+      "agendaItem": {
+        "title": "Real Decreto-ley 5/2026, de 17 de febrero, por el que se adoptan\nmedidas urgentes en respuesta a los daños causados por diversos fenómenos\nmeteorológicos adversos, de especial afectación en las comunidades\nautónomas de Andalucía y Extremadura.",
+        "officialTitle": "Real Decreto-ley 5/2026, de 17 de febrero, por el que se adoptan\nmedidas urgentes en respuesta a los daños causados por diversos fenómenos\nmeteorológicos adversos, de especial afectación en las comunidades\nautónomas de Andalucía y Extremadura.",
+        "type": "regular",
+        "nativeType": "ES-ley"
+      },
+      "dateStart": "2026-03-18T13:36:00+01:00",
+      "dateEnd": "2026-03-18T13:44:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_166/cortes/15_000400_166_1_27101_769521.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1569521I",
+        "duration": 480.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_166_1_27101_769521",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Martina Velarde Gómez",
+          "lastname": "Velarde Gómez",
+          "firstname": "Martina",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Mixto"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 76
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 172
+      },
+      "agendaItem": {
+        "title": "Real Decreto-ley 5/2026, de 17 de febrero, por el que se adoptan\nmedidas urgentes en respuesta a los daños causados por diversos fenómenos\nmeteorológicos adversos, de especial afectación en las comunidades\nautónomas de Andalucía y Extremadura.",
+        "officialTitle": "Real Decreto-ley 5/2026, de 17 de febrero, por el que se adoptan\nmedidas urgentes en respuesta a los daños causados por diversos fenómenos\nmeteorológicos adversos, de especial afectación en las comunidades\nautónomas de Andalucía y Extremadura.",
+        "type": "regular",
+        "nativeType": "ES-ley"
+      },
+      "dateStart": "2026-03-18T13:44:00+01:00",
+      "dateEnd": "2026-03-18T13:50:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_166/cortes/15_000400_166_1_27101_769522.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1569522I",
+        "duration": 360.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_166_1_27101_769522",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Idoia Sagastizabal Unzetabarrenetxea",
+          "lastname": "Sagastizabal Unzetabarrenetxea",
+          "firstname": "Idoia",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Vasco (EAJ-PNV)"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 77
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 172
+      },
+      "agendaItem": {
+        "title": "Real Decreto-ley 5/2026, de 17 de febrero, por el que se adoptan\nmedidas urgentes en respuesta a los daños causados por diversos fenómenos\nmeteorológicos adversos, de especial afectación en las comunidades\nautónomas de Andalucía y Extremadura.",
+        "officialTitle": "Real Decreto-ley 5/2026, de 17 de febrero, por el que se adoptan\nmedidas urgentes en respuesta a los daños causados por diversos fenómenos\nmeteorológicos adversos, de especial afectación en las comunidades\nautónomas de Andalucía y Extremadura.",
+        "type": "regular",
+        "nativeType": "ES-ley"
+      },
+      "dateStart": "2026-03-18T13:50:00+01:00",
+      "dateEnd": "2026-03-18T13:58:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_166/cortes/15_000400_166_1_27101_769523.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1569523I",
+        "duration": 480.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_166_1_27101_769523",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Juan Antonio Valero Morales",
+          "lastname": "Valero Morales",
+          "firstname": "Juan Antonio",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Plurinacional SUMAR"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 78
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 172
+      },
+      "agendaItem": {
+        "title": "Real Decreto-ley 5/2026, de 17 de febrero, por el que se adoptan\nmedidas urgentes en respuesta a los daños causados por diversos fenómenos\nmeteorológicos adversos, de especial afectación en las comunidades\nautónomas de Andalucía y Extremadura.",
+        "officialTitle": "Real Decreto-ley 5/2026, de 17 de febrero, por el que se adoptan\nmedidas urgentes en respuesta a los daños causados por diversos fenómenos\nmeteorológicos adversos, de especial afectación en las comunidades\nautónomas de Andalucía y Extremadura.",
+        "type": "regular",
+        "nativeType": "ES-ley"
+      },
+      "dateStart": "2026-03-18T13:58:00+01:00",
+      "dateEnd": "2026-03-18T14:06:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_166/cortes/15_000400_166_1_27101_769524.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1569524I",
+        "duration": 480.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_166_1_27101_769524",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Ignacio Hoces Íñiguez",
+          "lastname": "Hoces Íñiguez",
+          "firstname": "Ignacio",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario VOX"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 79
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 172
+      },
+      "agendaItem": {
+        "title": "Real Decreto-ley 5/2026, de 17 de febrero, por el que se adoptan\nmedidas urgentes en respuesta a los daños causados por diversos fenómenos\nmeteorológicos adversos, de especial afectación en las comunidades\nautónomas de Andalucía y Extremadura.",
+        "officialTitle": "Real Decreto-ley 5/2026, de 17 de febrero, por el que se adoptan\nmedidas urgentes en respuesta a los daños causados por diversos fenómenos\nmeteorológicos adversos, de especial afectación en las comunidades\nautónomas de Andalucía y Extremadura.",
+        "type": "regular",
+        "nativeType": "ES-ley"
+      },
+      "dateStart": "2026-03-18T14:06:00+01:00",
+      "dateEnd": "2026-03-18T14:14:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_166/cortes/15_000400_166_1_27101_769525.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1569525I",
+        "duration": 480.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_166_1_27101_769525",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Mª Isabel Moreno Fernández",
+          "lastname": "Moreno Fernández",
+          "firstname": "Mª Isabel",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Socialista"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 80
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 172
+      },
+      "agendaItem": {
+        "title": "Real Decreto-ley 5/2026, de 17 de febrero, por el que se adoptan\nmedidas urgentes en respuesta a los daños causados por diversos fenómenos\nmeteorológicos adversos, de especial afectación en las comunidades\nautónomas de Andalucía y Extremadura.",
+        "officialTitle": "Real Decreto-ley 5/2026, de 17 de febrero, por el que se adoptan\nmedidas urgentes en respuesta a los daños causados por diversos fenómenos\nmeteorológicos adversos, de especial afectación en las comunidades\nautónomas de Andalucía y Extremadura.",
+        "type": "regular",
+        "nativeType": "ES-ley"
+      },
+      "dateStart": "2026-03-18T14:14:00+01:00",
+      "dateEnd": "2026-03-18T14:23:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_166/cortes/15_000400_166_1_27101_769526.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1569526I",
+        "duration": 540.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_166_1_27101_769526",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "José Ignacio Romaní Cantera",
+          "lastname": "Romaní Cantera",
+          "firstname": "José Ignacio",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Popular en el Congreso"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 81
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 172
+      },
+      "agendaItem": {
+        "title": "Real Decreto-ley 5/2026, de 17 de febrero, por el que se adoptan\nmedidas urgentes en respuesta a los daños causados por diversos fenómenos\nmeteorológicos adversos, de especial afectación en las comunidades\nautónomas de Andalucía y Extremadura.",
+        "officialTitle": "Real Decreto-ley 5/2026, de 17 de febrero, por el que se adoptan\nmedidas urgentes en respuesta a los daños causados por diversos fenómenos\nmeteorológicos adversos, de especial afectación en las comunidades\nautónomas de Andalucía y Extremadura.",
+        "type": "regular",
+        "nativeType": "ES-ley"
+      },
+      "dateStart": "2026-03-18T14:23:00+01:00",
+      "dateEnd": "2026-03-18T14:23:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_166/cortes/15_000400_166_1_27101_769527.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1569527I",
+        "duration": 0.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_166_1_27101_769527",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Luis Planas Puchades",
+          "lastname": "Planas Puchades",
+          "firstname": "Luis",
+          "type": "member of government",
+          "role": "Ministro de Agricultura, Pesca y Alimentación"
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 82
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 172
+      },
+      "agendaItem": {
+        "title": "Acuerdo entre el Reino de España y la Organización de las Naciones\nUnidas para la Educación, la Ciencia y la Cultura relativo a la\nConferencia Mundial de la UNESCO sobre Políticas Culturales y Desarrollo\nSostenible MONDIACULT 2025, que tendrá lugar en Barcelona (España), del\n29 de septiembre al 1 de octubre de 2025, hecho en París el 16 de junio\nde 2025.",
+        "officialTitle": "Acuerdo entre el Reino de España y la Organización de las Naciones\nUnidas para la Educación, la Ciencia y la Cultura relativo a la\nConferencia Mundial de la UNESCO sobre Políticas Culturales y Desarrollo\nSostenible MONDIACULT 2025, que tendrá lugar en Barcelona (España), del\n29 de septiembre al 1 de octubre de 2025, hecho en París el 16 de junio\nde 2025.",
+        "type": "regular"
+      },
+      "dateStart": "2026-03-18T14:24:00+01:00",
+      "dateEnd": "2026-03-18T14:27:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_166/cortes/15_000400_166_1_27101_769534.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1569534I",
+        "duration": 180.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_166_1_27101_769534",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Agustín Santos Maraver",
+          "lastname": "Santos Maraver",
+          "firstname": "Agustín",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Plurinacional SUMAR"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 83
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 172
+      },
+      "agendaItem": {
+        "title": "Acuerdo entre el Gobierno del Reino de España y el Gobierno de Canadá\nen materia de protección de información clasificada, hecho en Madrid el 9\nde septiembre de 2025 y el canje de cartas interpretativas sobre su\ncontenido.",
+        "officialTitle": "Acuerdo entre el Gobierno del Reino de España y el Gobierno de Canadá\nen materia de protección de información clasificada, hecho en Madrid el 9\nde septiembre de 2025 y el canje de cartas interpretativas sobre su\ncontenido.",
+        "type": "regular"
+      },
+      "dateStart": "2026-03-18T14:24:00+01:00",
+      "dateEnd": "2026-03-18T14:27:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_166/cortes/15_000400_166_1_27101_769534.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1569534I",
+        "duration": 180.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_166_1_27101_769534",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Agustín Santos Maraver",
+          "lastname": "Santos Maraver",
+          "firstname": "Agustín",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Plurinacional SUMAR"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 84
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 172
+      },
+      "agendaItem": {
+        "title": "Acuerdo por el que se modifica el Acuerdo entre el Reino de España y\nla República de Honduras sobre Transporte Aéreo y Anejo, firmado en\nTegucigalpa el 30 de octubre de 1992, hecho en Sevilla el 1 de julio de\n2025.",
+        "officialTitle": "Acuerdo por el que se modifica el Acuerdo entre el Reino de España y\nla República de Honduras sobre Transporte Aéreo y Anejo, firmado en\nTegucigalpa el 30 de octubre de 1992, hecho en Sevilla el 1 de julio de\n2025.",
+        "type": "regular"
+      },
+      "dateStart": "2026-03-18T14:24:00+01:00",
+      "dateEnd": "2026-03-18T14:27:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_166/cortes/15_000400_166_1_27101_769534.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1569534I",
+        "duration": 180.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_166_1_27101_769534",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Agustín Santos Maraver",
+          "lastname": "Santos Maraver",
+          "firstname": "Agustín",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Plurinacional SUMAR"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 85
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 172
+      },
+      "agendaItem": {
+        "title": "Acuerdo entre el Reino de España y la Organización de las Naciones\nUnidas para la Educación, la Ciencia y la Cultura relativo al IV Foro\nGlobal contra el Racismo y la Discriminación, Barcelona, Reino de España,\ndel 9 al 11 de diciembre de 2024, hecho en París el 6 de diciembre de\n2024.",
+        "officialTitle": "Acuerdo entre el Reino de España y la Organización de las Naciones\nUnidas para la Educación, la Ciencia y la Cultura relativo al IV Foro\nGlobal contra el Racismo y la Discriminación, Barcelona, Reino de España,\ndel 9 al 11 de diciembre de 2024, hecho en París el 6 de diciembre de\n2024.",
+        "type": "regular"
+      },
+      "dateStart": "2026-03-18T14:24:00+01:00",
+      "dateEnd": "2026-03-18T14:27:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_166/cortes/15_000400_166_1_27101_769534.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1569534I",
+        "duration": 180.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_166_1_27101_769534",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Agustín Santos Maraver",
+          "lastname": "Santos Maraver",
+          "firstname": "Agustín",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Plurinacional SUMAR"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 86
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 172
+      },
+      "agendaItem": {
+        "title": "Acuerdo entre la Unión Europea y la Comunidad Europea de la Energía\nAtómica, por una parte, y el Reino de España, por otra, relativo al\nestablecimiento del Centro Común de Investigación de la Comisión Europea\nen Sevilla, hecho en Sevilla el 30 de junio de 2025.",
+        "officialTitle": "Acuerdo entre la Unión Europea y la Comunidad Europea de la Energía\nAtómica, por una parte, y el Reino de España, por otra, relativo al\nestablecimiento del Centro Común de Investigación de la Comisión Europea\nen Sevilla, hecho en Sevilla el 30 de junio de 2025.",
+        "type": "regular"
+      },
+      "dateStart": "2026-03-18T14:24:00+01:00",
+      "dateEnd": "2026-03-18T14:27:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_166/cortes/15_000400_166_1_27101_769534.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1569534I",
+        "duration": 180.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_166_1_27101_769534",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Agustín Santos Maraver",
+          "lastname": "Santos Maraver",
+          "firstname": "Agustín",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Plurinacional SUMAR"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 87
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 172
+      },
+      "agendaItem": {
+        "title": "Acuerdo entre el Reino de España y la Organización de las Naciones\nUnidas para la Educación, la Ciencia y la Cultura relativo a la\nConferencia Mundial de la UNESCO sobre Políticas Culturales y Desarrollo\nSostenible MONDIACULT 2025, que tendrá lugar en Barcelona (España), del\n29 de septiembre al 1 de octubre de 2025, hecho en París el 16 de junio\nde 2025.",
+        "officialTitle": "Acuerdo entre el Reino de España y la Organización de las Naciones\nUnidas para la Educación, la Ciencia y la Cultura relativo a la\nConferencia Mundial de la UNESCO sobre Políticas Culturales y Desarrollo\nSostenible MONDIACULT 2025, que tendrá lugar en Barcelona (España), del\n29 de septiembre al 1 de octubre de 2025, hecho en París el 16 de junio\nde 2025.",
+        "type": "regular"
+      },
+      "dateStart": "2026-03-18T14:27:00+01:00",
+      "dateEnd": "2026-03-18T14:32:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_166/cortes/15_000400_166_1_27101_769535.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1569535I",
+        "duration": 300.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_166_1_27101_769535",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "José María Sánchez García",
+          "lastname": "Sánchez García",
+          "firstname": "José María",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario VOX"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 88
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 172
+      },
+      "agendaItem": {
+        "title": "Acuerdo entre el Gobierno del Reino de España y el Gobierno de Canadá\nen materia de protección de información clasificada, hecho en Madrid el 9\nde septiembre de 2025 y el canje de cartas interpretativas sobre su\ncontenido.",
+        "officialTitle": "Acuerdo entre el Gobierno del Reino de España y el Gobierno de Canadá\nen materia de protección de información clasificada, hecho en Madrid el 9\nde septiembre de 2025 y el canje de cartas interpretativas sobre su\ncontenido.",
+        "type": "regular"
+      },
+      "dateStart": "2026-03-18T14:27:00+01:00",
+      "dateEnd": "2026-03-18T14:32:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_166/cortes/15_000400_166_1_27101_769535.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1569535I",
+        "duration": 300.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_166_1_27101_769535",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "José María Sánchez García",
+          "lastname": "Sánchez García",
+          "firstname": "José María",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario VOX"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 89
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 172
+      },
+      "agendaItem": {
+        "title": "Acuerdo por el que se modifica el Acuerdo entre el Reino de España y\nla República de Honduras sobre Transporte Aéreo y Anejo, firmado en\nTegucigalpa el 30 de octubre de 1992, hecho en Sevilla el 1 de julio de\n2025.",
+        "officialTitle": "Acuerdo por el que se modifica el Acuerdo entre el Reino de España y\nla República de Honduras sobre Transporte Aéreo y Anejo, firmado en\nTegucigalpa el 30 de octubre de 1992, hecho en Sevilla el 1 de julio de\n2025.",
+        "type": "regular"
+      },
+      "dateStart": "2026-03-18T14:27:00+01:00",
+      "dateEnd": "2026-03-18T14:32:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_166/cortes/15_000400_166_1_27101_769535.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1569535I",
+        "duration": 300.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_166_1_27101_769535",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "José María Sánchez García",
+          "lastname": "Sánchez García",
+          "firstname": "José María",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario VOX"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 90
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 172
+      },
+      "agendaItem": {
+        "title": "Acuerdo entre el Reino de España y la Organización de las Naciones\nUnidas para la Educación, la Ciencia y la Cultura relativo al IV Foro\nGlobal contra el Racismo y la Discriminación, Barcelona, Reino de España,\ndel 9 al 11 de diciembre de 2024, hecho en París el 6 de diciembre de\n2024.",
+        "officialTitle": "Acuerdo entre el Reino de España y la Organización de las Naciones\nUnidas para la Educación, la Ciencia y la Cultura relativo al IV Foro\nGlobal contra el Racismo y la Discriminación, Barcelona, Reino de España,\ndel 9 al 11 de diciembre de 2024, hecho en París el 6 de diciembre de\n2024.",
+        "type": "regular"
+      },
+      "dateStart": "2026-03-18T14:27:00+01:00",
+      "dateEnd": "2026-03-18T14:32:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_166/cortes/15_000400_166_1_27101_769535.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1569535I",
+        "duration": 300.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_166_1_27101_769535",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "José María Sánchez García",
+          "lastname": "Sánchez García",
+          "firstname": "José María",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario VOX"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 91
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 172
+      },
+      "agendaItem": {
+        "title": "Acuerdo entre la Unión Europea y la Comunidad Europea de la Energía\nAtómica, por una parte, y el Reino de España, por otra, relativo al\nestablecimiento del Centro Común de Investigación de la Comisión Europea\nen Sevilla, hecho en Sevilla el 30 de junio de 2025.",
+        "officialTitle": "Acuerdo entre la Unión Europea y la Comunidad Europea de la Energía\nAtómica, por una parte, y el Reino de España, por otra, relativo al\nestablecimiento del Centro Común de Investigación de la Comisión Europea\nen Sevilla, hecho en Sevilla el 30 de junio de 2025.",
+        "type": "regular"
+      },
+      "dateStart": "2026-03-18T14:27:00+01:00",
+      "dateEnd": "2026-03-18T14:32:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_166/cortes/15_000400_166_1_27101_769535.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1569535I",
+        "duration": 300.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_166_1_27101_769535",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "José María Sánchez García",
+          "lastname": "Sánchez García",
+          "firstname": "José María",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario VOX"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 92
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 172
+      },
+      "agendaItem": {
+        "title": "Acuerdo entre la Unión Europea y la Comunidad Europea de la Energía\nAtómica, por una parte, y el Reino de España, por otra, relativo al\nestablecimiento del Centro Común de Investigación de la Comisión Europea\nen Sevilla, hecho en Sevilla el 30 de junio de 2025.",
+        "officialTitle": "Acuerdo entre la Unión Europea y la Comunidad Europea de la Energía\nAtómica, por una parte, y el Reino de España, por otra, relativo al\nestablecimiento del Centro Común de Investigación de la Comisión Europea\nen Sevilla, hecho en Sevilla el 30 de junio de 2025.",
+        "type": "regular"
+      },
+      "dateStart": "2026-03-18T14:32:00+01:00",
+      "dateEnd": "2026-03-18T14:35:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_166/cortes/15_000400_166_1_27101_769536.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1569536I",
+        "duration": 180.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_166_1_27101_769536",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Pepe Mercadal Baquero",
+          "lastname": "Mercadal Baquero",
+          "firstname": "Pepe",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Socialista"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 93
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 172
+      },
+      "agendaItem": {
+        "title": "Acuerdo entre el Reino de España y la Organización de las Naciones\nUnidas para la Educación, la Ciencia y la Cultura relativo a la\nConferencia Mundial de la UNESCO sobre Políticas Culturales y Desarrollo\nSostenible MONDIACULT 2025, que tendrá lugar en Barcelona (España), del\n29 de septiembre al 1 de octubre de 2025, hecho en París el 16 de junio\nde 2025.",
+        "officialTitle": "Acuerdo entre el Reino de España y la Organización de las Naciones\nUnidas para la Educación, la Ciencia y la Cultura relativo a la\nConferencia Mundial de la UNESCO sobre Políticas Culturales y Desarrollo\nSostenible MONDIACULT 2025, que tendrá lugar en Barcelona (España), del\n29 de septiembre al 1 de octubre de 2025, hecho en París el 16 de junio\nde 2025.",
+        "type": "regular"
+      },
+      "dateStart": "2026-03-18T14:32:00+01:00",
+      "dateEnd": "2026-03-18T14:35:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_166/cortes/15_000400_166_1_27101_769536.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1569536I",
+        "duration": 180.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_166_1_27101_769536",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Pepe Mercadal Baquero",
+          "lastname": "Mercadal Baquero",
+          "firstname": "Pepe",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Socialista"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 94
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 172
+      },
+      "agendaItem": {
+        "title": "Acuerdo entre el Gobierno del Reino de España y el Gobierno de Canadá\nen materia de protección de información clasificada, hecho en Madrid el 9\nde septiembre de 2025 y el canje de cartas interpretativas sobre su\ncontenido.",
+        "officialTitle": "Acuerdo entre el Gobierno del Reino de España y el Gobierno de Canadá\nen materia de protección de información clasificada, hecho en Madrid el 9\nde septiembre de 2025 y el canje de cartas interpretativas sobre su\ncontenido.",
+        "type": "regular"
+      },
+      "dateStart": "2026-03-18T14:32:00+01:00",
+      "dateEnd": "2026-03-18T14:35:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_166/cortes/15_000400_166_1_27101_769536.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1569536I",
+        "duration": 180.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_166_1_27101_769536",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Pepe Mercadal Baquero",
+          "lastname": "Mercadal Baquero",
+          "firstname": "Pepe",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Socialista"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 95
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 172
+      },
+      "agendaItem": {
+        "title": "Acuerdo por el que se modifica el Acuerdo entre el Reino de España y\nla República de Honduras sobre Transporte Aéreo y Anejo, firmado en\nTegucigalpa el 30 de octubre de 1992, hecho en Sevilla el 1 de julio de\n2025.",
+        "officialTitle": "Acuerdo por el que se modifica el Acuerdo entre el Reino de España y\nla República de Honduras sobre Transporte Aéreo y Anejo, firmado en\nTegucigalpa el 30 de octubre de 1992, hecho en Sevilla el 1 de julio de\n2025.",
+        "type": "regular"
+      },
+      "dateStart": "2026-03-18T14:32:00+01:00",
+      "dateEnd": "2026-03-18T14:35:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_166/cortes/15_000400_166_1_27101_769536.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1569536I",
+        "duration": 180.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_166_1_27101_769536",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Pepe Mercadal Baquero",
+          "lastname": "Mercadal Baquero",
+          "firstname": "Pepe",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Socialista"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 96
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 172
+      },
+      "agendaItem": {
+        "title": "Acuerdo entre el Reino de España y la Organización de las Naciones\nUnidas para la Educación, la Ciencia y la Cultura relativo al IV Foro\nGlobal contra el Racismo y la Discriminación, Barcelona, Reino de España,\ndel 9 al 11 de diciembre de 2024, hecho en París el 6 de diciembre de\n2024.",
+        "officialTitle": "Acuerdo entre el Reino de España y la Organización de las Naciones\nUnidas para la Educación, la Ciencia y la Cultura relativo al IV Foro\nGlobal contra el Racismo y la Discriminación, Barcelona, Reino de España,\ndel 9 al 11 de diciembre de 2024, hecho en París el 6 de diciembre de\n2024.",
+        "type": "regular"
+      },
+      "dateStart": "2026-03-18T14:32:00+01:00",
+      "dateEnd": "2026-03-18T14:35:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_166/cortes/15_000400_166_1_27101_769536.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1569536I",
+        "duration": 180.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_166_1_27101_769536",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Pepe Mercadal Baquero",
+          "lastname": "Mercadal Baquero",
+          "firstname": "Pepe",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Socialista"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 97
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 172
+      },
+      "agendaItem": {
+        "title": "Acuerdo entre la Unión Europea y la Comunidad Europea de la Energía\nAtómica, por una parte, y el Reino de España, por otra, relativo al\nestablecimiento del Centro Común de Investigación de la Comisión Europea\nen Sevilla, hecho en Sevilla el 30 de junio de 2025.",
+        "officialTitle": "Acuerdo entre la Unión Europea y la Comunidad Europea de la Energía\nAtómica, por una parte, y el Reino de España, por otra, relativo al\nestablecimiento del Centro Común de Investigación de la Comisión Europea\nen Sevilla, hecho en Sevilla el 30 de junio de 2025.",
+        "type": "regular"
+      },
+      "dateStart": "2026-03-18T14:35:00+01:00",
+      "dateEnd": "2026-03-18T14:39:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_166/cortes/15_000400_166_1_27101_769537.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1569537I",
+        "duration": 240.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_166_1_27101_769537",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Ricardo Tarno Blanco",
+          "lastname": "Tarno Blanco",
+          "firstname": "Ricardo",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Popular en el Congreso"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 98
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 172
+      },
+      "agendaItem": {
+        "title": "Acuerdo entre el Reino de España y la Organización de las Naciones\nUnidas para la Educación, la Ciencia y la Cultura relativo a la\nConferencia Mundial de la UNESCO sobre Políticas Culturales y Desarrollo\nSostenible MONDIACULT 2025, que tendrá lugar en Barcelona (España), del\n29 de septiembre al 1 de octubre de 2025, hecho en París el 16 de junio\nde 2025.",
+        "officialTitle": "Acuerdo entre el Reino de España y la Organización de las Naciones\nUnidas para la Educación, la Ciencia y la Cultura relativo a la\nConferencia Mundial de la UNESCO sobre Políticas Culturales y Desarrollo\nSostenible MONDIACULT 2025, que tendrá lugar en Barcelona (España), del\n29 de septiembre al 1 de octubre de 2025, hecho en París el 16 de junio\nde 2025.",
+        "type": "regular"
+      },
+      "dateStart": "2026-03-18T14:35:00+01:00",
+      "dateEnd": "2026-03-18T14:39:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_166/cortes/15_000400_166_1_27101_769537.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1569537I",
+        "duration": 240.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_166_1_27101_769537",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Ricardo Tarno Blanco",
+          "lastname": "Tarno Blanco",
+          "firstname": "Ricardo",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Popular en el Congreso"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 99
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 172
+      },
+      "agendaItem": {
+        "title": "Acuerdo entre el Gobierno del Reino de España y el Gobierno de Canadá\nen materia de protección de información clasificada, hecho en Madrid el 9\nde septiembre de 2025 y el canje de cartas interpretativas sobre su\ncontenido.",
+        "officialTitle": "Acuerdo entre el Gobierno del Reino de España y el Gobierno de Canadá\nen materia de protección de información clasificada, hecho en Madrid el 9\nde septiembre de 2025 y el canje de cartas interpretativas sobre su\ncontenido.",
+        "type": "regular"
+      },
+      "dateStart": "2026-03-18T14:35:00+01:00",
+      "dateEnd": "2026-03-18T14:39:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_166/cortes/15_000400_166_1_27101_769537.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1569537I",
+        "duration": 240.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_166_1_27101_769537",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Ricardo Tarno Blanco",
+          "lastname": "Tarno Blanco",
+          "firstname": "Ricardo",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Popular en el Congreso"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 100
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 172
+      },
+      "agendaItem": {
+        "title": "Acuerdo por el que se modifica el Acuerdo entre el Reino de España y\nla República de Honduras sobre Transporte Aéreo y Anejo, firmado en\nTegucigalpa el 30 de octubre de 1992, hecho en Sevilla el 1 de julio de\n2025.",
+        "officialTitle": "Acuerdo por el que se modifica el Acuerdo entre el Reino de España y\nla República de Honduras sobre Transporte Aéreo y Anejo, firmado en\nTegucigalpa el 30 de octubre de 1992, hecho en Sevilla el 1 de julio de\n2025.",
+        "type": "regular"
+      },
+      "dateStart": "2026-03-18T14:35:00+01:00",
+      "dateEnd": "2026-03-18T14:39:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_166/cortes/15_000400_166_1_27101_769537.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1569537I",
+        "duration": 240.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_166_1_27101_769537",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Ricardo Tarno Blanco",
+          "lastname": "Tarno Blanco",
+          "firstname": "Ricardo",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Popular en el Congreso"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 101
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 172
+      },
+      "agendaItem": {
+        "title": "Acuerdo entre el Reino de España y la Organización de las Naciones\nUnidas para la Educación, la Ciencia y la Cultura relativo al IV Foro\nGlobal contra el Racismo y la Discriminación, Barcelona, Reino de España,\ndel 9 al 11 de diciembre de 2024, hecho en París el 6 de diciembre de\n2024.",
+        "officialTitle": "Acuerdo entre el Reino de España y la Organización de las Naciones\nUnidas para la Educación, la Ciencia y la Cultura relativo al IV Foro\nGlobal contra el Racismo y la Discriminación, Barcelona, Reino de España,\ndel 9 al 11 de diciembre de 2024, hecho en París el 6 de diciembre de\n2024.",
+        "type": "regular"
+      },
+      "dateStart": "2026-03-18T14:35:00+01:00",
+      "dateEnd": "2026-03-18T14:39:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_166/cortes/15_000400_166_1_27101_769537.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1569537I",
+        "duration": 240.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_166_1_27101_769537",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Ricardo Tarno Blanco",
+          "lastname": "Tarno Blanco",
+          "firstname": "Ricardo",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Popular en el Congreso"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 102
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 172
+      },
+      "agendaItem": {
+        "title": "Proposición de Reforma del apartado 3 del artículo 69 de la\nConstitución Española, a los efectos de que la isla de Formentera elija\nun senador propio (corresponde a los números de expediente\n101/000004/0000 de la XII Legislatura, 101/000004/0000 de la XIII\nLegislatura y 101/000002/0000 de la XIV Legislatura).",
+        "officialTitle": "Proposición de Reforma del apartado 3 del artículo 69 de la\nConstitución Española, a los efectos de que la isla de Formentera elija\nun senador propio (corresponde a los números de expediente\n101/000004/0000 de la XII Legislatura, 101/000004/0000 de la XIII\nLegislatura y 101/000002/0000 de la XIV Legislatura).",
+        "type": "regular",
+        "nativeType": "ES-ley"
+      },
+      "dateStart": "2026-03-18T14:39:00+01:00",
+      "dateEnd": "2026-03-18T14:40:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_166/cortes/15_000400_166_1_27101_769540.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1569540I",
+        "duration": 60.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_166_1_27101_769540",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Alberto Catalán Higueras",
+          "lastname": "Catalán Higueras",
+          "firstname": "Alberto",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Mixto"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 103
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 172
+      },
+      "agendaItem": {
+        "title": "Proposición de Reforma del apartado 3 del artículo 69 de la\nConstitución Española, a los efectos de que la isla de Formentera elija\nun senador propio (corresponde a los números de expediente\n101/000004/0000 de la XII Legislatura, 101/000004/0000 de la XIII\nLegislatura y 101/000002/0000 de la XIV Legislatura).",
+        "officialTitle": "Proposición de Reforma del apartado 3 del artículo 69 de la\nConstitución Española, a los efectos de que la isla de Formentera elija\nun senador propio (corresponde a los números de expediente\n101/000004/0000 de la XII Legislatura, 101/000004/0000 de la XIII\nLegislatura y 101/000002/0000 de la XIV Legislatura).",
+        "type": "regular",
+        "nativeType": "ES-ley"
+      },
+      "dateStart": "2026-03-18T14:40:00+01:00",
+      "dateEnd": "2026-03-18T14:42:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_166/cortes/15_000400_166_1_27101_769541.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1569541I",
+        "duration": 120.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_166_1_27101_769541",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Javier Sánchez Serna",
+          "lastname": "Sánchez Serna",
+          "firstname": "Javier",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Mixto"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 104
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 172
+      },
+      "agendaItem": {
+        "title": "Proposición de Reforma del apartado 3 del artículo 69 de la\nConstitución Española, a los efectos de que la isla de Formentera elija\nun senador propio (corresponde a los números de expediente\n101/000004/0000 de la XII Legislatura, 101/000004/0000 de la XIII\nLegislatura y 101/000002/0000 de la XIV Legislatura).",
+        "officialTitle": "Proposición de Reforma del apartado 3 del artículo 69 de la\nConstitución Española, a los efectos de que la isla de Formentera elija\nun senador propio (corresponde a los números de expediente\n101/000004/0000 de la XII Legislatura, 101/000004/0000 de la XIII\nLegislatura y 101/000002/0000 de la XIV Legislatura).",
+        "type": "regular",
+        "nativeType": "ES-ley"
+      },
+      "dateStart": "2026-03-18T14:42:00+01:00",
+      "dateEnd": "2026-03-18T14:44:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_166/cortes/15_000400_166_1_27101_769542.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1569542I",
+        "duration": 120.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_166_1_27101_769542",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Teresa Jordà i Roura",
+          "lastname": "Jordà i Roura",
+          "firstname": "Teresa",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Republicano"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 105
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 172
+      },
+      "agendaItem": {
+        "title": "Proposición de Reforma del apartado 3 del artículo 69 de la\nConstitución Española, a los efectos de que la isla de Formentera elija\nun senador propio (corresponde a los números de expediente\n101/000004/0000 de la XII Legislatura, 101/000004/0000 de la XIII\nLegislatura y 101/000002/0000 de la XIV Legislatura).",
+        "officialTitle": "Proposición de Reforma del apartado 3 del artículo 69 de la\nConstitución Española, a los efectos de que la isla de Formentera elija\nun senador propio (corresponde a los números de expediente\n101/000004/0000 de la XII Legislatura, 101/000004/0000 de la XIII\nLegislatura y 101/000002/0000 de la XIV Legislatura).",
+        "type": "regular",
+        "nativeType": "ES-ley"
+      },
+      "dateStart": "2026-03-18T14:44:00+01:00",
+      "dateEnd": "2026-03-18T14:46:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_166/cortes/15_000400_166_1_27101_769543.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1569543I",
+        "duration": 120.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_166_1_27101_769543",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Vicenç Vidal Matas",
+          "lastname": "Vidal Matas",
+          "firstname": "Vicenç",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Plurinacional SUMAR"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 106
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 172
+      },
+      "agendaItem": {
+        "title": "Proposición de Reforma del apartado 3 del artículo 69 de la\nConstitución Española, a los efectos de que la isla de Formentera elija\nun senador propio (corresponde a los números de expediente\n101/000004/0000 de la XII Legislatura, 101/000004/0000 de la XIII\nLegislatura y 101/000002/0000 de la XIV Legislatura).",
+        "officialTitle": "Proposición de Reforma del apartado 3 del artículo 69 de la\nConstitución Española, a los efectos de que la isla de Formentera elija\nun senador propio (corresponde a los números de expediente\n101/000004/0000 de la XII Legislatura, 101/000004/0000 de la XIII\nLegislatura y 101/000002/0000 de la XIV Legislatura).",
+        "type": "regular",
+        "nativeType": "ES-ley"
+      },
+      "dateStart": "2026-03-18T14:46:00+01:00",
+      "dateEnd": "2026-03-18T14:50:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_166/cortes/15_000400_166_1_27101_769544.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1569544I",
+        "duration": 240.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_166_1_27101_769544",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Jorge Campos Asensi",
+          "lastname": "Campos Asensi",
+          "firstname": "Jorge",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario VOX"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 107
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 172
+      },
+      "agendaItem": {
+        "title": "Proposición de Reforma del apartado 3 del artículo 69 de la\nConstitución Española, a los efectos de que la isla de Formentera elija\nun senador propio (corresponde a los números de expediente\n101/000004/0000 de la XII Legislatura, 101/000004/0000 de la XIII\nLegislatura y 101/000002/0000 de la XIV Legislatura).",
+        "officialTitle": "Proposición de Reforma del apartado 3 del artículo 69 de la\nConstitución Española, a los efectos de que la isla de Formentera elija\nun senador propio (corresponde a los números de expediente\n101/000004/0000 de la XII Legislatura, 101/000004/0000 de la XIII\nLegislatura y 101/000002/0000 de la XIV Legislatura).",
+        "type": "regular",
+        "nativeType": "ES-ley"
+      },
+      "dateStart": "2026-03-18T14:50:00+01:00",
+      "dateEnd": "2026-03-18T14:52:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_166/cortes/15_000400_166_1_27101_769545.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1569545I",
+        "duration": 120.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_166_1_27101_769545",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Milena Herrera García",
+          "lastname": "Herrera García",
+          "firstname": "Milena",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Socialista"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 108
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 172
+      },
+      "agendaItem": {
+        "title": "Moción consecuencia de interpelación urgente relativa a las\ndiferentes alternativas de infraestructuras ferroviarias de altas\nprestaciones en Euskal Herria y su impacto económico, social y ambiental.",
+        "officialTitle": "Moción consecuencia de interpelación urgente relativa a las\ndiferentes alternativas de infraestructuras ferroviarias de altas\nprestaciones en Euskal Herria y su impacto económico, social y ambiental.",
+        "type": "regular",
+        "nativeType": "ES-mocion"
+      },
+      "dateStart": "2026-03-18T14:53:00+01:00",
+      "dateEnd": "2026-03-18T15:01:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_166/cortes/15_000400_166_1_27101_769549.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1569549I",
+        "duration": 480.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_166_1_27101_769549",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Mikel Otero Gabirondo",
+          "lastname": "Otero Gabirondo",
+          "firstname": "Mikel",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Euskal Herria Bildu"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 109
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 172
+      },
+      "agendaItem": {
+        "title": "Moción consecuencia de interpelación urgente relativa a las\ndiferentes alternativas de infraestructuras ferroviarias de altas\nprestaciones en Euskal Herria y su impacto económico, social y ambiental.",
+        "officialTitle": "Moción consecuencia de interpelación urgente relativa a las\ndiferentes alternativas de infraestructuras ferroviarias de altas\nprestaciones en Euskal Herria y su impacto económico, social y ambiental.",
+        "type": "regular",
+        "nativeType": "ES-mocion"
+      },
+      "dateStart": "2026-03-18T15:01:00+01:00",
+      "dateEnd": "2026-03-18T15:07:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_166/cortes/15_000400_166_1_27101_769552.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1569552I",
+        "duration": 360.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_166_1_27101_769552",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Alberto Catalán Higueras",
+          "lastname": "Catalán Higueras",
+          "firstname": "Alberto",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Mixto"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 110
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 172
+      },
+      "agendaItem": {
+        "title": "Moción consecuencia de interpelación urgente relativa a las\ndiferentes alternativas de infraestructuras ferroviarias de altas\nprestaciones en Euskal Herria y su impacto económico, social y ambiental.",
+        "officialTitle": "Moción consecuencia de interpelación urgente relativa a las\ndiferentes alternativas de infraestructuras ferroviarias de altas\nprestaciones en Euskal Herria y su impacto económico, social y ambiental.",
+        "type": "regular",
+        "nativeType": "ES-mocion"
+      },
+      "dateStart": "2026-03-18T15:07:00+01:00",
+      "dateEnd": "2026-03-18T15:14:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_166/cortes/15_000400_166_1_27101_769553.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1569553I",
+        "duration": 420.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_166_1_27101_769553",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Nerea Renteria Lasanta",
+          "lastname": "Renteria Lasanta",
+          "firstname": "Nerea",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Vasco (EAJ-PNV)"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 111
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 172
+      },
+      "agendaItem": {
+        "title": "Moción consecuencia de interpelación urgente relativa a las\ndiferentes alternativas de infraestructuras ferroviarias de altas\nprestaciones en Euskal Herria y su impacto económico, social y ambiental.",
+        "officialTitle": "Moción consecuencia de interpelación urgente relativa a las\ndiferentes alternativas de infraestructuras ferroviarias de altas\nprestaciones en Euskal Herria y su impacto económico, social y ambiental.",
+        "type": "regular",
+        "nativeType": "ES-mocion"
+      },
+      "dateStart": "2026-03-18T15:14:00+01:00",
+      "dateEnd": "2026-03-18T15:20:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_166/cortes/15_000400_166_1_27101_769554.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1569554I",
+        "duration": 360.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_166_1_27101_769554",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Isidre Gavin i Valls",
+          "lastname": "Gavin i Valls",
+          "firstname": "Isidre",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Junts per Catalunya"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 112
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 172
+      },
+      "agendaItem": {
+        "title": "Moción consecuencia de interpelación urgente relativa a las\ndiferentes alternativas de infraestructuras ferroviarias de altas\nprestaciones en Euskal Herria y su impacto económico, social y ambiental.",
+        "officialTitle": "Moción consecuencia de interpelación urgente relativa a las\ndiferentes alternativas de infraestructuras ferroviarias de altas\nprestaciones en Euskal Herria y su impacto económico, social y ambiental.",
+        "type": "regular",
+        "nativeType": "ES-mocion"
+      },
+      "dateStart": "2026-03-18T15:20:00+01:00",
+      "dateEnd": "2026-03-18T15:26:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_166/cortes/15_000400_166_1_27101_769555.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1569555I",
+        "duration": 360.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_166_1_27101_769555",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Inés Granollers Cunillera",
+          "lastname": "Granollers Cunillera",
+          "firstname": "Inés",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Republicano"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 113
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 172
+      },
+      "agendaItem": {
+        "title": "Moción consecuencia de interpelación urgente relativa a las\ndiferentes alternativas de infraestructuras ferroviarias de altas\nprestaciones en Euskal Herria y su impacto económico, social y ambiental.",
+        "officialTitle": "Moción consecuencia de interpelación urgente relativa a las\ndiferentes alternativas de infraestructuras ferroviarias de altas\nprestaciones en Euskal Herria y su impacto económico, social y ambiental.",
+        "type": "regular",
+        "nativeType": "ES-mocion"
+      },
+      "dateStart": "2026-03-18T15:26:00+01:00",
+      "dateEnd": "2026-03-18T15:31:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_166/cortes/15_000400_166_1_27101_769556.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1569556I",
+        "duration": 300.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_166_1_27101_769556",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Lander Martínez Hierro",
+          "lastname": "Martínez Hierro",
+          "firstname": "Lander",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Plurinacional SUMAR"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 114
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 172
+      },
+      "agendaItem": {
+        "title": "Moción consecuencia de interpelación urgente relativa a las\ndiferentes alternativas de infraestructuras ferroviarias de altas\nprestaciones en Euskal Herria y su impacto económico, social y ambiental.",
+        "officialTitle": "Moción consecuencia de interpelación urgente relativa a las\ndiferentes alternativas de infraestructuras ferroviarias de altas\nprestaciones en Euskal Herria y su impacto económico, social y ambiental.",
+        "type": "regular",
+        "nativeType": "ES-mocion"
+      },
+      "dateStart": "2026-03-18T15:31:00+01:00",
+      "dateEnd": "2026-03-18T15:37:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_166/cortes/15_000400_166_1_27101_769557.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1569557I",
+        "duration": 360.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_166_1_27101_769557",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Patricia Rueda Perelló",
+          "lastname": "Rueda Perelló",
+          "firstname": "Patricia",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario VOX"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 115
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 172
+      },
+      "agendaItem": {
+        "title": "Moción consecuencia de interpelación urgente relativa a las\ndiferentes alternativas de infraestructuras ferroviarias de altas\nprestaciones en Euskal Herria y su impacto económico, social y ambiental.",
+        "officialTitle": "Moción consecuencia de interpelación urgente relativa a las\ndiferentes alternativas de infraestructuras ferroviarias de altas\nprestaciones en Euskal Herria y su impacto económico, social y ambiental.",
+        "type": "regular",
+        "nativeType": "ES-mocion"
+      },
+      "dateStart": "2026-03-18T15:37:00+01:00",
+      "dateEnd": "2026-03-18T15:42:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_166/cortes/15_000400_166_1_27101_769558.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1569558I",
+        "duration": 300.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_166_1_27101_769558",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Daniel Senderos Oraá",
+          "lastname": "Senderos Oraá",
+          "firstname": "Daniel",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Socialista"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 116
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 172
+      },
+      "agendaItem": {
+        "title": "Moción consecuencia de interpelación urgente relativa a las\ndiferentes alternativas de infraestructuras ferroviarias de altas\nprestaciones en Euskal Herria y su impacto económico, social y ambiental.",
+        "officialTitle": "Moción consecuencia de interpelación urgente relativa a las\ndiferentes alternativas de infraestructuras ferroviarias de altas\nprestaciones en Euskal Herria y su impacto económico, social y ambiental.",
+        "type": "regular",
+        "nativeType": "ES-mocion"
+      },
+      "dateStart": "2026-03-18T15:42:00+01:00",
+      "dateEnd": "2026-03-18T15:49:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_166/cortes/15_000400_166_1_27101_769559.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1569559I",
+        "duration": 420.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_166_1_27101_769559",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Carmelo Barrio Baroja",
+          "lastname": "Barrio Baroja",
+          "firstname": "Carmelo",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Popular en el Congreso"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 117
+    }
+  ]
+}

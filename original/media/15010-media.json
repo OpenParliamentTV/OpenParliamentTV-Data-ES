@@ -1,0 +1,1021 @@
+{
+  "meta": {
+    "session": "15010",
+    "processing": {
+      "parse_media": "2026-05-23T07:17:41"
+    },
+    "dateStart": "2023-11-28T15:06:00+01:00",
+    "dateEnd": "2023-11-28T17:51:00+01:00"
+  },
+  "data": [
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 10
+      },
+      "agendaItem": {
+        "title": "Proposición de reforma del Reglamento del Congreso de los Diputados\npor la que se modifica el artículo 46.1.",
+        "officialTitle": "Proposición de reforma del Reglamento del Congreso de los Diputados\npor la que se modifica el artículo 46.1.",
+        "type": "rules_of_procedure",
+        "nativeType": "ES-reglamento"
+      },
+      "dateStart": "2023-11-28T15:06:00+01:00",
+      "dateEnd": "2023-11-28T15:16:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_009/cortes/15_000400_009_0_24340_725785.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1525785I",
+        "duration": 600.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_009_0_24340_725785",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Macarena Montesinos de Miguel",
+          "lastname": "Montesinos de Miguel",
+          "firstname": "Macarena",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Popular en el Congreso"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 1
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 10
+      },
+      "agendaItem": {
+        "title": "Proposición de reforma del Reglamento del Congreso de los Diputados\npor la que se modifica el artículo 46.1.",
+        "officialTitle": "Proposición de reforma del Reglamento del Congreso de los Diputados\npor la que se modifica el artículo 46.1.",
+        "type": "rules_of_procedure",
+        "nativeType": "ES-reglamento"
+      },
+      "dateStart": "2023-11-28T15:17:00+01:00",
+      "dateEnd": "2023-11-28T15:28:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_009/cortes/15_000400_009_0_24340_725787.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1525787I",
+        "duration": 660.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_009_0_24340_725787",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Juan Francisco Serrano Martínez",
+          "lastname": "Serrano Martínez",
+          "firstname": "Juan Francisco",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Socialista"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 2
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 10
+      },
+      "agendaItem": {
+        "title": "Proposición de reforma del Reglamento del Congreso de los Diputados\npor la que se modifica el artículo 46.1.",
+        "officialTitle": "Proposición de reforma del Reglamento del Congreso de los Diputados\npor la que se modifica el artículo 46.1.",
+        "type": "rules_of_procedure",
+        "nativeType": "ES-reglamento"
+      },
+      "dateStart": "2023-11-28T15:29:00+01:00",
+      "dateEnd": "2023-11-28T15:34:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_009/cortes/15_000400_009_0_24340_725788.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1525788I",
+        "duration": 300.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_009_0_24340_725788",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Txema Guijarro García",
+          "lastname": "Guijarro García",
+          "firstname": "Txema",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Plurinacional SUMAR"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 3
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 10
+      },
+      "agendaItem": {
+        "title": "Proposición de reforma del Reglamento del Congreso de los Diputados\npor la que se modifica el artículo 46.1.",
+        "officialTitle": "Proposición de reforma del Reglamento del Congreso de los Diputados\npor la que se modifica el artículo 46.1.",
+        "type": "rules_of_procedure",
+        "nativeType": "ES-reglamento"
+      },
+      "dateStart": "2023-11-28T15:34:00+01:00",
+      "dateEnd": "2023-11-28T15:40:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_009/cortes/15_000400_009_0_24340_725789.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1525789I",
+        "duration": 360.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_009_0_24340_725789",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Àgueda Micó Micó",
+          "lastname": "Micó Micó",
+          "firstname": "Àgueda",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Plurinacional SUMAR"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 4
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 10
+      },
+      "agendaItem": {
+        "title": "Proposición de reforma del Reglamento del Congreso de los Diputados\npor la que se modifica el artículo 46.1.",
+        "officialTitle": "Proposición de reforma del Reglamento del Congreso de los Diputados\npor la que se modifica el artículo 46.1.",
+        "type": "rules_of_procedure",
+        "nativeType": "ES-reglamento"
+      },
+      "dateStart": "2023-11-28T15:41:00+01:00",
+      "dateEnd": "2023-11-28T15:48:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_009/cortes/15_000400_009_0_24340_725790.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1525790I",
+        "duration": 420.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_009_0_24340_725790",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Rocío De Meer Méndez",
+          "lastname": "De Meer Méndez",
+          "firstname": "Rocío",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario VOX"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 5
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 10
+      },
+      "agendaItem": {
+        "title": "Solicitud de creación de diversas Comisiones permanentes no\nlegislativas.",
+        "officialTitle": "Solicitud de creación de diversas Comisiones permanentes no\nlegislativas.",
+        "type": "regular"
+      },
+      "dateStart": "2023-11-28T15:55:00+01:00",
+      "dateEnd": "2023-11-28T15:59:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_009/cortes/15_000400_009_0_24340_725804.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1525804I",
+        "duration": 240.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_009_0_24340_725804",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Jorge Pueyo Sanz",
+          "lastname": "Pueyo Sanz",
+          "firstname": "Jorge",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Plurinacional SUMAR"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 6
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 10
+      },
+      "agendaItem": {
+        "title": "Solicitud de creación de diversas Comisiones Mixtas.",
+        "officialTitle": "Solicitud de creación de diversas Comisiones Mixtas.",
+        "type": "regular"
+      },
+      "dateStart": "2023-11-28T15:55:00+01:00",
+      "dateEnd": "2023-11-28T15:59:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_009/cortes/15_000400_009_0_24340_725804.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1525804I",
+        "duration": 240.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_009_0_24340_725804",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Jorge Pueyo Sanz",
+          "lastname": "Pueyo Sanz",
+          "firstname": "Jorge",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Plurinacional SUMAR"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 7
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 10
+      },
+      "agendaItem": {
+        "title": "Solicitud de creación de diversas Comisiones Mixtas.",
+        "officialTitle": "Solicitud de creación de diversas Comisiones Mixtas.",
+        "type": "regular"
+      },
+      "dateStart": "2023-11-28T15:55:00+01:00",
+      "dateEnd": "2023-11-28T15:59:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_009/cortes/15_000400_009_0_24340_725804.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1525804I",
+        "duration": 240.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_009_0_24340_725804",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Jorge Pueyo Sanz",
+          "lastname": "Pueyo Sanz",
+          "firstname": "Jorge",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Plurinacional SUMAR"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 8
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 10
+      },
+      "agendaItem": {
+        "title": "Solicitud de creación de diversas Comisiones Mixtas.",
+        "officialTitle": "Solicitud de creación de diversas Comisiones Mixtas.",
+        "type": "regular"
+      },
+      "dateStart": "2023-11-28T15:55:00+01:00",
+      "dateEnd": "2023-11-28T15:59:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_009/cortes/15_000400_009_0_24340_725804.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1525804I",
+        "duration": 240.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_009_0_24340_725804",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Jorge Pueyo Sanz",
+          "lastname": "Pueyo Sanz",
+          "firstname": "Jorge",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Plurinacional SUMAR"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 9
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 10
+      },
+      "agendaItem": {
+        "title": "Solicitud de creación de diversas Comisiones permanentes no\nlegislativas.",
+        "officialTitle": "Solicitud de creación de diversas Comisiones permanentes no\nlegislativas.",
+        "type": "regular"
+      },
+      "dateStart": "2023-11-28T15:55:00+01:00",
+      "dateEnd": "2023-11-28T15:59:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_009/cortes/15_000400_009_0_24340_725804.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1525804I",
+        "duration": 240.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_009_0_24340_725804",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Jorge Pueyo Sanz",
+          "lastname": "Pueyo Sanz",
+          "firstname": "Jorge",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Plurinacional SUMAR"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 10
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 10
+      },
+      "agendaItem": {
+        "title": "Solicitud de creación de diversas Comisiones permanentes no\nlegislativas.",
+        "officialTitle": "Solicitud de creación de diversas Comisiones permanentes no\nlegislativas.",
+        "type": "regular"
+      },
+      "dateStart": "2023-11-28T15:55:00+01:00",
+      "dateEnd": "2023-11-28T15:59:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_009/cortes/15_000400_009_0_24340_725804.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1525804I",
+        "duration": 240.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_009_0_24340_725804",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Jorge Pueyo Sanz",
+          "lastname": "Pueyo Sanz",
+          "firstname": "Jorge",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Plurinacional SUMAR"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 11
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 10
+      },
+      "agendaItem": {
+        "title": "Solicitud de creación de diversas Comisiones permanentes no\nlegislativas.",
+        "officialTitle": "Solicitud de creación de diversas Comisiones permanentes no\nlegislativas.",
+        "type": "regular"
+      },
+      "dateStart": "2023-11-28T15:55:00+01:00",
+      "dateEnd": "2023-11-28T15:59:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_009/cortes/15_000400_009_0_24340_725804.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1525804I",
+        "duration": 240.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_009_0_24340_725804",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Jorge Pueyo Sanz",
+          "lastname": "Pueyo Sanz",
+          "firstname": "Jorge",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Plurinacional SUMAR"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 12
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 10
+      },
+      "agendaItem": {
+        "title": "Solicitud de creación de diversas Comisiones permanentes no\nlegislativas.",
+        "officialTitle": "Solicitud de creación de diversas Comisiones permanentes no\nlegislativas.",
+        "type": "regular"
+      },
+      "dateStart": "2023-11-28T15:55:00+01:00",
+      "dateEnd": "2023-11-28T15:59:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_009/cortes/15_000400_009_0_24340_725804.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1525804I",
+        "duration": 240.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_009_0_24340_725804",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Jorge Pueyo Sanz",
+          "lastname": "Pueyo Sanz",
+          "firstname": "Jorge",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Plurinacional SUMAR"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 13
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 10
+      },
+      "agendaItem": {
+        "title": "Solicitud de creación de diversas Comisiones permanentes no\nlegislativas.",
+        "officialTitle": "Solicitud de creación de diversas Comisiones permanentes no\nlegislativas.",
+        "type": "regular"
+      },
+      "dateStart": "2023-11-28T16:00:00+01:00",
+      "dateEnd": "2023-11-28T16:04:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_009/cortes/15_000400_009_0_24340_725805.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1525805I",
+        "duration": 240.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_009_0_24340_725805",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Vicenç Vidal Matas",
+          "lastname": "Vidal Matas",
+          "firstname": "Vicenç",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Plurinacional SUMAR"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 14
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 10
+      },
+      "agendaItem": {
+        "title": "Solicitud de creación de diversas Comisiones Mixtas.",
+        "officialTitle": "Solicitud de creación de diversas Comisiones Mixtas.",
+        "type": "regular"
+      },
+      "dateStart": "2023-11-28T16:00:00+01:00",
+      "dateEnd": "2023-11-28T16:04:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_009/cortes/15_000400_009_0_24340_725805.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1525805I",
+        "duration": 240.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_009_0_24340_725805",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Vicenç Vidal Matas",
+          "lastname": "Vidal Matas",
+          "firstname": "Vicenç",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Plurinacional SUMAR"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 15
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 10
+      },
+      "agendaItem": {
+        "title": "Solicitud de creación de diversas Comisiones Mixtas.",
+        "officialTitle": "Solicitud de creación de diversas Comisiones Mixtas.",
+        "type": "regular"
+      },
+      "dateStart": "2023-11-28T16:00:00+01:00",
+      "dateEnd": "2023-11-28T16:04:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_009/cortes/15_000400_009_0_24340_725805.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1525805I",
+        "duration": 240.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_009_0_24340_725805",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Vicenç Vidal Matas",
+          "lastname": "Vidal Matas",
+          "firstname": "Vicenç",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Plurinacional SUMAR"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 16
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 10
+      },
+      "agendaItem": {
+        "title": "Solicitud de creación de diversas Comisiones Mixtas.",
+        "officialTitle": "Solicitud de creación de diversas Comisiones Mixtas.",
+        "type": "regular"
+      },
+      "dateStart": "2023-11-28T16:00:00+01:00",
+      "dateEnd": "2023-11-28T16:04:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_009/cortes/15_000400_009_0_24340_725805.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1525805I",
+        "duration": 240.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_009_0_24340_725805",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Vicenç Vidal Matas",
+          "lastname": "Vidal Matas",
+          "firstname": "Vicenç",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Plurinacional SUMAR"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 17
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 10
+      },
+      "agendaItem": {
+        "title": "Solicitud de creación de diversas Comisiones permanentes no\nlegislativas.",
+        "officialTitle": "Solicitud de creación de diversas Comisiones permanentes no\nlegislativas.",
+        "type": "regular"
+      },
+      "dateStart": "2023-11-28T16:00:00+01:00",
+      "dateEnd": "2023-11-28T16:04:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_009/cortes/15_000400_009_0_24340_725805.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1525805I",
+        "duration": 240.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_009_0_24340_725805",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Vicenç Vidal Matas",
+          "lastname": "Vidal Matas",
+          "firstname": "Vicenç",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Plurinacional SUMAR"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 18
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 10
+      },
+      "agendaItem": {
+        "title": "Solicitud de creación de diversas Comisiones permanentes no\nlegislativas.",
+        "officialTitle": "Solicitud de creación de diversas Comisiones permanentes no\nlegislativas.",
+        "type": "regular"
+      },
+      "dateStart": "2023-11-28T16:00:00+01:00",
+      "dateEnd": "2023-11-28T16:04:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_009/cortes/15_000400_009_0_24340_725805.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1525805I",
+        "duration": 240.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_009_0_24340_725805",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Vicenç Vidal Matas",
+          "lastname": "Vidal Matas",
+          "firstname": "Vicenç",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Plurinacional SUMAR"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 19
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 10
+      },
+      "agendaItem": {
+        "title": "Solicitud de creación de diversas Comisiones permanentes no\nlegislativas.",
+        "officialTitle": "Solicitud de creación de diversas Comisiones permanentes no\nlegislativas.",
+        "type": "regular"
+      },
+      "dateStart": "2023-11-28T16:00:00+01:00",
+      "dateEnd": "2023-11-28T16:04:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_009/cortes/15_000400_009_0_24340_725805.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1525805I",
+        "duration": 240.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_009_0_24340_725805",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Vicenç Vidal Matas",
+          "lastname": "Vidal Matas",
+          "firstname": "Vicenç",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Plurinacional SUMAR"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 20
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 10
+      },
+      "agendaItem": {
+        "title": "Solicitud de creación de diversas Comisiones permanentes no\nlegislativas.",
+        "officialTitle": "Solicitud de creación de diversas Comisiones permanentes no\nlegislativas.",
+        "type": "regular"
+      },
+      "dateStart": "2023-11-28T16:00:00+01:00",
+      "dateEnd": "2023-11-28T16:04:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_009/cortes/15_000400_009_0_24340_725805.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1525805I",
+        "duration": 240.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_009_0_24340_725805",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Vicenç Vidal Matas",
+          "lastname": "Vidal Matas",
+          "firstname": "Vicenç",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Plurinacional SUMAR"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 21
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 10
+      },
+      "agendaItem": {
+        "title": "Proposición de reforma del Reglamento del Congreso de los Diputados\npor la que se modifica el artículo 46.1.",
+        "officialTitle": "Proposición de reforma del Reglamento del Congreso de los Diputados\npor la que se modifica el artículo 46.1.",
+        "type": "rules_of_procedure",
+        "nativeType": "ES-reglamento"
+      },
+      "dateStart": "2023-11-28T17:22:00+01:00",
+      "dateEnd": "2023-11-28T17:33:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_009/cortes/15_000400_009_0_24340_725810.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1525810I",
+        "duration": 660.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_009_0_24340_725810",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "María José Rodríguez de Millán Parro",
+          "lastname": "Rodríguez de Millán Parro",
+          "firstname": "María José",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario VOX"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 22
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 10
+      },
+      "agendaItem": {
+        "title": "Proposición de reforma del Reglamento del Congreso de los Diputados\npor la que se modifica el artículo 46.1.",
+        "officialTitle": "Proposición de reforma del Reglamento del Congreso de los Diputados\npor la que se modifica el artículo 46.1.",
+        "type": "rules_of_procedure",
+        "nativeType": "ES-reglamento"
+      },
+      "dateStart": "2023-11-28T17:34:00+01:00",
+      "dateEnd": "2023-11-28T17:37:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_009/cortes/15_000400_009_0_24340_725811.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1525811I",
+        "duration": 180.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_009_0_24340_725811",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Txema Guijarro García",
+          "lastname": "Guijarro García",
+          "firstname": "Txema",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Plurinacional SUMAR"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 23
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 10
+      },
+      "agendaItem": {
+        "title": "Proposición de reforma del Reglamento del Congreso de los Diputados\npor la que se modifica el artículo 46.1.",
+        "officialTitle": "Proposición de reforma del Reglamento del Congreso de los Diputados\npor la que se modifica el artículo 46.1.",
+        "type": "rules_of_procedure",
+        "nativeType": "ES-reglamento"
+      },
+      "dateStart": "2023-11-28T17:37:00+01:00",
+      "dateEnd": "2023-11-28T17:43:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_009/cortes/15_000400_009_0_24340_725812.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1525812I",
+        "duration": 360.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_009_0_24340_725812",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Juan Francisco Serrano Martínez",
+          "lastname": "Serrano Martínez",
+          "firstname": "Juan Francisco",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Socialista"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 24
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 10
+      },
+      "agendaItem": {
+        "title": "Proposición de reforma del Reglamento del Congreso de los Diputados\npor la que se modifica el artículo 46.1.",
+        "officialTitle": "Proposición de reforma del Reglamento del Congreso de los Diputados\npor la que se modifica el artículo 46.1.",
+        "type": "rules_of_procedure",
+        "nativeType": "ES-reglamento"
+      },
+      "dateStart": "2023-11-28T17:44:00+01:00",
+      "dateEnd": "2023-11-28T17:51:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_009/cortes/15_000400_009_0_24340_725813.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1525813I",
+        "duration": 420.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_009_0_24340_725813",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Macarena Montesinos de Miguel",
+          "lastname": "Montesinos de Miguel",
+          "firstname": "Macarena",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Popular en el Congreso"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 25
+    }
+  ]
+}

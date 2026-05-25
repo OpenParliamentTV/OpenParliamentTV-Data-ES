@@ -1,0 +1,1961 @@
+{
+  "meta": {
+    "session": "15154",
+    "processing": {
+      "parse_media": "2026-05-23T07:17:41"
+    },
+    "dateStart": "2025-11-25T15:05:00+01:00",
+    "dateEnd": "2025-11-25T20:29:00+01:00"
+  },
+  "data": [
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 154
+      },
+      "agendaItem": {
+        "title": "Proposición de Ley sobre programa de cribado neonatal del Sistema\nNacional de Salud.",
+        "officialTitle": "Proposición de Ley sobre programa de cribado neonatal del Sistema\nNacional de Salud.",
+        "type": "regular",
+        "nativeType": "ES-ley"
+      },
+      "dateStart": "2025-11-25T15:05:00+01:00",
+      "dateEnd": "2025-11-25T15:18:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_149/cortes/15_000400_149_0_26761_764596.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1564596I",
+        "duration": 780.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_149_0_26761_764596",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Inés Plaza García",
+          "lastname": "Plaza García",
+          "firstname": "Inés",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Socialista"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 1
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 154
+      },
+      "agendaItem": {
+        "title": "Proposición de Ley sobre programa de cribado neonatal del Sistema\nNacional de Salud.",
+        "officialTitle": "Proposición de Ley sobre programa de cribado neonatal del Sistema\nNacional de Salud.",
+        "type": "regular",
+        "nativeType": "ES-ley"
+      },
+      "dateStart": "2025-11-25T15:18:00+01:00",
+      "dateEnd": "2025-11-25T15:26:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_149/cortes/15_000400_149_0_26761_764597.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1564597I",
+        "duration": 480.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_149_0_26761_764597",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Alberto Catalán Higueras",
+          "lastname": "Catalán Higueras",
+          "firstname": "Alberto",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Mixto"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 2
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 154
+      },
+      "agendaItem": {
+        "title": "Proposición de Ley sobre programa de cribado neonatal del Sistema\nNacional de Salud.",
+        "officialTitle": "Proposición de Ley sobre programa de cribado neonatal del Sistema\nNacional de Salud.",
+        "type": "regular",
+        "nativeType": "ES-ley"
+      },
+      "dateStart": "2025-11-25T15:26:00+01:00",
+      "dateEnd": "2025-11-25T15:34:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_149/cortes/15_000400_149_0_26761_764598.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1564598I",
+        "duration": 480.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_149_0_26761_764598",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Joseba Andoni Agirretxea Urresti",
+          "lastname": "Agirretxea Urresti",
+          "firstname": "Joseba Andoni",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Vasco (EAJ-PNV)"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 3
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 154
+      },
+      "agendaItem": {
+        "title": "Proposición de Ley sobre programa de cribado neonatal del Sistema\nNacional de Salud.",
+        "officialTitle": "Proposición de Ley sobre programa de cribado neonatal del Sistema\nNacional de Salud.",
+        "type": "regular",
+        "nativeType": "ES-ley"
+      },
+      "dateStart": "2025-11-25T15:34:00+01:00",
+      "dateEnd": "2025-11-25T15:40:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_149/cortes/15_000400_149_0_26761_764599.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1564599I",
+        "duration": 360.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_149_0_26761_764599",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Marije Fullaondo la Cruz",
+          "lastname": "Fullaondo la Cruz",
+          "firstname": "Marije",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Euskal Herria Bildu"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 4
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 154
+      },
+      "agendaItem": {
+        "title": "Proposición de Ley sobre programa de cribado neonatal del Sistema\nNacional de Salud.",
+        "officialTitle": "Proposición de Ley sobre programa de cribado neonatal del Sistema\nNacional de Salud.",
+        "type": "regular",
+        "nativeType": "ES-ley"
+      },
+      "dateStart": "2025-11-25T15:40:00+01:00",
+      "dateEnd": "2025-11-25T15:45:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_149/cortes/15_000400_149_0_26761_764600.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1564600I",
+        "duration": 300.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_149_0_26761_764600",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Pilar Calvo Gómez",
+          "lastname": "Calvo Gómez",
+          "firstname": "Pilar",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Junts per Catalunya"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 5
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 154
+      },
+      "agendaItem": {
+        "title": "Proposición de Ley sobre programa de cribado neonatal del Sistema\nNacional de Salud.",
+        "officialTitle": "Proposición de Ley sobre programa de cribado neonatal del Sistema\nNacional de Salud.",
+        "type": "regular",
+        "nativeType": "ES-ley"
+      },
+      "dateStart": "2025-11-25T15:45:00+01:00",
+      "dateEnd": "2025-11-25T15:52:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_149/cortes/15_000400_149_0_26761_764601.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1564601I",
+        "duration": 420.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_149_0_26761_764601",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Etna Estrems Fayos",
+          "lastname": "Estrems Fayos",
+          "firstname": "Etna",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Republicano"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 6
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 154
+      },
+      "agendaItem": {
+        "title": "Proposición de Ley sobre programa de cribado neonatal del Sistema\nNacional de Salud.",
+        "officialTitle": "Proposición de Ley sobre programa de cribado neonatal del Sistema\nNacional de Salud.",
+        "type": "regular",
+        "nativeType": "ES-ley"
+      },
+      "dateStart": "2025-11-25T15:52:00+01:00",
+      "dateEnd": "2025-11-25T16:00:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_149/cortes/15_000400_149_0_26761_764602.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1564602I",
+        "duration": 480.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_149_0_26761_764602",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Alda Recas Martín",
+          "lastname": "Recas Martín",
+          "firstname": "Alda",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Plurinacional SUMAR"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 7
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 154
+      },
+      "agendaItem": {
+        "title": "Proposición de Ley sobre programa de cribado neonatal del Sistema\nNacional de Salud.",
+        "officialTitle": "Proposición de Ley sobre programa de cribado neonatal del Sistema\nNacional de Salud.",
+        "type": "regular",
+        "nativeType": "ES-ley"
+      },
+      "dateStart": "2025-11-25T16:00:00+01:00",
+      "dateEnd": "2025-11-25T16:08:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_149/cortes/15_000400_149_0_26761_764603.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1564603I",
+        "duration": 480.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_149_0_26761_764603",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "María de la Cabeza Ruiz Solás",
+          "lastname": "Ruiz Solás",
+          "firstname": "María de la Cabeza",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario VOX"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 8
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 154
+      },
+      "agendaItem": {
+        "title": "Proposición de Ley sobre programa de cribado neonatal del Sistema\nNacional de Salud.",
+        "officialTitle": "Proposición de Ley sobre programa de cribado neonatal del Sistema\nNacional de Salud.",
+        "type": "regular",
+        "nativeType": "ES-ley"
+      },
+      "dateStart": "2025-11-25T16:08:00+01:00",
+      "dateEnd": "2025-11-25T16:17:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_149/cortes/15_000400_149_0_26761_764604.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1564604I",
+        "duration": 540.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_149_0_26761_764604",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Antonio Cavacasillas Rodríguez",
+          "lastname": "Cavacasillas Rodríguez",
+          "firstname": "Antonio",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Popular en el Congreso"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 9
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 154
+      },
+      "agendaItem": {
+        "title": "Proposición de Ley para la modificación de la Ley 12/2023, de 24 de\nmayo, por el derecho a la vivienda.",
+        "officialTitle": "Proposición de Ley para la modificación de la Ley 12/2023, de 24 de\nmayo, por el derecho a la vivienda.",
+        "type": "regular",
+        "nativeType": "ES-ley"
+      },
+      "dateStart": "2025-11-25T16:17:00+01:00",
+      "dateEnd": "2025-11-25T16:31:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_149/cortes/15_000400_149_0_26761_764606.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1564606I",
+        "duration": 840.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_149_0_26761_764606",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Alberto Ibáñez Mezquita",
+          "lastname": "Ibáñez Mezquita",
+          "firstname": "Alberto",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Plurinacional SUMAR"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 10
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 154
+      },
+      "agendaItem": {
+        "title": "Proposición de Ley para la modificación de la Ley 12/2023, de 24 de\nmayo, por el derecho a la vivienda.",
+        "officialTitle": "Proposición de Ley para la modificación de la Ley 12/2023, de 24 de\nmayo, por el derecho a la vivienda.",
+        "type": "regular",
+        "nativeType": "ES-ley"
+      },
+      "dateStart": "2025-11-25T16:31:00+01:00",
+      "dateEnd": "2025-11-25T16:37:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_149/cortes/15_000400_149_0_26761_764607.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1564607I",
+        "duration": 360.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_149_0_26761_764607",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Néstor Rego Candamil",
+          "lastname": "Rego Candamil",
+          "firstname": "Néstor",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Mixto"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 11
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 154
+      },
+      "agendaItem": {
+        "title": "Proposición de Ley para la modificación de la Ley 12/2023, de 24 de\nmayo, por el derecho a la vivienda.",
+        "officialTitle": "Proposición de Ley para la modificación de la Ley 12/2023, de 24 de\nmayo, por el derecho a la vivienda.",
+        "type": "regular",
+        "nativeType": "ES-ley"
+      },
+      "dateStart": "2025-11-25T16:37:00+01:00",
+      "dateEnd": "2025-11-25T16:41:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_149/cortes/15_000400_149_0_26761_764608.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1564608I",
+        "duration": 240.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_149_0_26761_764608",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Javier Sánchez Serna",
+          "lastname": "Sánchez Serna",
+          "firstname": "Javier",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Mixto"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 12
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 154
+      },
+      "agendaItem": {
+        "title": "Proposición de Ley para la modificación de la Ley 12/2023, de 24 de\nmayo, por el derecho a la vivienda.",
+        "officialTitle": "Proposición de Ley para la modificación de la Ley 12/2023, de 24 de\nmayo, por el derecho a la vivienda.",
+        "type": "regular",
+        "nativeType": "ES-ley"
+      },
+      "dateStart": "2025-11-25T16:41:00+01:00",
+      "dateEnd": "2025-11-25T16:48:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_149/cortes/15_000400_149_0_26761_764609.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1564609I",
+        "duration": 420.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_149_0_26761_764609",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Maribel Vaquero Montero",
+          "lastname": "Vaquero Montero",
+          "firstname": "Maribel",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Vasco (EAJ-PNV)"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 13
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 154
+      },
+      "agendaItem": {
+        "title": "Proposición de Ley para la modificación de la Ley 12/2023, de 24 de\nmayo, por el derecho a la vivienda.",
+        "officialTitle": "Proposición de Ley para la modificación de la Ley 12/2023, de 24 de\nmayo, por el derecho a la vivienda.",
+        "type": "regular",
+        "nativeType": "ES-ley"
+      },
+      "dateStart": "2025-11-25T16:48:00+01:00",
+      "dateEnd": "2025-11-25T16:56:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_149/cortes/15_000400_149_0_26761_764610.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1564610I",
+        "duration": 480.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_149_0_26761_764610",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Oskar Matute García de Jalón",
+          "lastname": "Matute García de Jalón",
+          "firstname": "Oskar",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Euskal Herria Bildu"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 14
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 154
+      },
+      "agendaItem": {
+        "title": "Proposición de Ley para la modificación de la Ley 12/2023, de 24 de\nmayo, por el derecho a la vivienda.",
+        "officialTitle": "Proposición de Ley para la modificación de la Ley 12/2023, de 24 de\nmayo, por el derecho a la vivienda.",
+        "type": "regular",
+        "nativeType": "ES-ley"
+      },
+      "dateStart": "2025-11-25T16:56:00+01:00",
+      "dateEnd": "2025-11-25T17:03:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_149/cortes/15_000400_149_0_26761_764611.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1564611I",
+        "duration": 420.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_149_0_26761_764611",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Marta Madrenas i Mir",
+          "lastname": "Madrenas i Mir",
+          "firstname": "Marta",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Junts per Catalunya"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 15
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 154
+      },
+      "agendaItem": {
+        "title": "Proposición de Ley para la modificación de la Ley 12/2023, de 24 de\nmayo, por el derecho a la vivienda.",
+        "officialTitle": "Proposición de Ley para la modificación de la Ley 12/2023, de 24 de\nmayo, por el derecho a la vivienda.",
+        "type": "regular",
+        "nativeType": "ES-ley"
+      },
+      "dateStart": "2025-11-25T17:03:00+01:00",
+      "dateEnd": "2025-11-25T17:11:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_149/cortes/15_000400_149_0_26761_764612.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1564612I",
+        "duration": 480.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_149_0_26761_764612",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Etna Estrems Fayos",
+          "lastname": "Estrems Fayos",
+          "firstname": "Etna",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Republicano"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 16
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 154
+      },
+      "agendaItem": {
+        "title": "Proposición de Ley para la modificación de la Ley 12/2023, de 24 de\nmayo, por el derecho a la vivienda.",
+        "officialTitle": "Proposición de Ley para la modificación de la Ley 12/2023, de 24 de\nmayo, por el derecho a la vivienda.",
+        "type": "regular",
+        "nativeType": "ES-ley"
+      },
+      "dateStart": "2025-11-25T17:11:00+01:00",
+      "dateEnd": "2025-11-25T17:20:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_149/cortes/15_000400_149_0_26761_764613.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1564613I",
+        "duration": 540.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_149_0_26761_764613",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Carlos Hernández Quero",
+          "lastname": "Hernández Quero",
+          "firstname": "Carlos",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario VOX"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 17
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 154
+      },
+      "agendaItem": {
+        "title": "Proposición de Ley para la modificación de la Ley 12/2023, de 24 de\nmayo, por el derecho a la vivienda.",
+        "officialTitle": "Proposición de Ley para la modificación de la Ley 12/2023, de 24 de\nmayo, por el derecho a la vivienda.",
+        "type": "regular",
+        "nativeType": "ES-ley"
+      },
+      "dateStart": "2025-11-25T17:20:00+01:00",
+      "dateEnd": "2025-11-25T17:30:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_149/cortes/15_000400_149_0_26761_764614.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1564614I",
+        "duration": 600.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_149_0_26761_764614",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Gabriel Blanco Arrúe",
+          "lastname": "Blanco Arrúe",
+          "firstname": "Gabriel",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Socialista"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 18
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 154
+      },
+      "agendaItem": {
+        "title": "Proposición de Ley para la modificación de la Ley 12/2023, de 24 de\nmayo, por el derecho a la vivienda.",
+        "officialTitle": "Proposición de Ley para la modificación de la Ley 12/2023, de 24 de\nmayo, por el derecho a la vivienda.",
+        "type": "regular",
+        "nativeType": "ES-ley"
+      },
+      "dateStart": "2025-11-25T17:30:00+01:00",
+      "dateEnd": "2025-11-25T17:38:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_149/cortes/15_000400_149_0_26761_764615.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1564615I",
+        "duration": 480.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_149_0_26761_764615",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Carlos Gil Santiago",
+          "lastname": "Gil Santiago",
+          "firstname": "Carlos",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Popular en el Congreso"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 19
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 154
+      },
+      "agendaItem": {
+        "title": "Proposición no de Ley para proteger a las víctimas contra los efectos\ndel negacionismo de la violencia de género.",
+        "officialTitle": "Proposición no de Ley para proteger a las víctimas contra los efectos\ndel negacionismo de la violencia de género.",
+        "type": "regular"
+      },
+      "dateStart": "2025-11-25T17:39:00+01:00",
+      "dateEnd": "2025-11-25T17:47:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_149/cortes/15_000400_149_0_26761_764618.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1564618I",
+        "duration": 480.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_149_0_26761_764618",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Lídia Guinart Moreno",
+          "lastname": "Guinart Moreno",
+          "firstname": "Lídia",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Socialista"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 20
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 154
+      },
+      "agendaItem": {
+        "title": "Proposición no de Ley para proteger a las víctimas contra los efectos\ndel negacionismo de la violencia de género.",
+        "officialTitle": "Proposición no de Ley para proteger a las víctimas contra los efectos\ndel negacionismo de la violencia de género.",
+        "type": "regular"
+      },
+      "dateStart": "2025-11-25T17:47:00+01:00",
+      "dateEnd": "2025-11-25T17:53:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_149/cortes/15_000400_149_0_26761_764619.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1564619I",
+        "duration": 360.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_149_0_26761_764619",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Beatriz Álvarez Fanjul",
+          "lastname": "Álvarez Fanjul",
+          "firstname": "Beatriz",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Popular en el Congreso"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 21
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 154
+      },
+      "agendaItem": {
+        "title": "Proposición no de Ley para proteger a las víctimas contra los efectos\ndel negacionismo de la violencia de género.",
+        "officialTitle": "Proposición no de Ley para proteger a las víctimas contra los efectos\ndel negacionismo de la violencia de género.",
+        "type": "regular"
+      },
+      "dateStart": "2025-11-25T17:53:00+01:00",
+      "dateEnd": "2025-11-25T17:56:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_149/cortes/15_000400_149_0_26761_764620.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1564620I",
+        "duration": 180.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_149_0_26761_764620",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Àgueda Micó Micó",
+          "lastname": "Micó Micó",
+          "firstname": "Àgueda",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Mixto"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 22
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 154
+      },
+      "agendaItem": {
+        "title": "Proposición no de Ley para proteger a las víctimas contra los efectos\ndel negacionismo de la violencia de género.",
+        "officialTitle": "Proposición no de Ley para proteger a las víctimas contra los efectos\ndel negacionismo de la violencia de género.",
+        "type": "regular"
+      },
+      "dateStart": "2025-11-25T17:56:00+01:00",
+      "dateEnd": "2025-11-25T17:58:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_149/cortes/15_000400_149_0_26761_764621.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1564621I",
+        "duration": 120.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_149_0_26761_764621",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Cristina Valido García",
+          "lastname": "Valido García",
+          "firstname": "Cristina",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Mixto"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 23
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 154
+      },
+      "agendaItem": {
+        "title": "Proposición no de Ley para proteger a las víctimas contra los efectos\ndel negacionismo de la violencia de género.",
+        "officialTitle": "Proposición no de Ley para proteger a las víctimas contra los efectos\ndel negacionismo de la violencia de género.",
+        "type": "regular"
+      },
+      "dateStart": "2025-11-25T17:58:00+01:00",
+      "dateEnd": "2025-11-25T18:01:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_149/cortes/15_000400_149_0_26761_764622.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1564622I",
+        "duration": 180.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_149_0_26761_764622",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Noemí Santana Perera",
+          "lastname": "Santana Perera",
+          "firstname": "Noemí",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Mixto"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 24
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 154
+      },
+      "agendaItem": {
+        "title": "Proposición no de Ley para proteger a las víctimas contra los efectos\ndel negacionismo de la violencia de género.",
+        "officialTitle": "Proposición no de Ley para proteger a las víctimas contra los efectos\ndel negacionismo de la violencia de género.",
+        "type": "regular"
+      },
+      "dateStart": "2025-11-25T18:01:00+01:00",
+      "dateEnd": "2025-11-25T18:07:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_149/cortes/15_000400_149_0_26761_764624.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1564624I",
+        "duration": 360.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_149_0_26761_764624",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Maribel Vaquero Montero",
+          "lastname": "Vaquero Montero",
+          "firstname": "Maribel",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Vasco (EAJ-PNV)"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 25
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 154
+      },
+      "agendaItem": {
+        "title": "Proposición no de Ley para proteger a las víctimas contra los efectos\ndel negacionismo de la violencia de género.",
+        "officialTitle": "Proposición no de Ley para proteger a las víctimas contra los efectos\ndel negacionismo de la violencia de género.",
+        "type": "regular"
+      },
+      "dateStart": "2025-11-25T18:08:00+01:00",
+      "dateEnd": "2025-11-25T18:12:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_149/cortes/15_000400_149_1_26764_764629.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1564629I",
+        "duration": 240.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_149_1_26764_764629",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Marije Fullaondo la Cruz",
+          "lastname": "Fullaondo la Cruz",
+          "firstname": "Marije",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Euskal Herria Bildu"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 26
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 154
+      },
+      "agendaItem": {
+        "title": "Proposición no de Ley para proteger a las víctimas contra los efectos\ndel negacionismo de la violencia de género.",
+        "officialTitle": "Proposición no de Ley para proteger a las víctimas contra los efectos\ndel negacionismo de la violencia de género.",
+        "type": "regular"
+      },
+      "dateStart": "2025-11-25T18:12:00+01:00",
+      "dateEnd": "2025-11-25T18:17:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_149/cortes/15_000400_149_1_26764_764630.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1564630I",
+        "duration": 300.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_149_1_26764_764630",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Pilar Calvo Gómez",
+          "lastname": "Calvo Gómez",
+          "firstname": "Pilar",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Junts per Catalunya"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 27
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 154
+      },
+      "agendaItem": {
+        "title": "Proposición no de Ley para proteger a las víctimas contra los efectos\ndel negacionismo de la violencia de género.",
+        "officialTitle": "Proposición no de Ley para proteger a las víctimas contra los efectos\ndel negacionismo de la violencia de género.",
+        "type": "regular"
+      },
+      "dateStart": "2025-11-25T18:17:00+01:00",
+      "dateEnd": "2025-11-25T18:23:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_149/cortes/15_000400_149_1_26764_764631.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1564631I",
+        "duration": 360.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_149_1_26764_764631",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Pilar Vallugera Balañà",
+          "lastname": "Vallugera Balañà",
+          "firstname": "Pilar",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Republicano"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 28
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 154
+      },
+      "agendaItem": {
+        "title": "Proposición no de Ley para proteger a las víctimas contra los efectos\ndel negacionismo de la violencia de género.",
+        "officialTitle": "Proposición no de Ley para proteger a las víctimas contra los efectos\ndel negacionismo de la violencia de género.",
+        "type": "regular"
+      },
+      "dateStart": "2025-11-25T18:23:00+01:00",
+      "dateEnd": "2025-11-25T18:29:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_149/cortes/15_000400_149_1_26764_764632.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1564632I",
+        "duration": 360.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_149_1_26764_764632",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Esther Gil de Reboleño Lastortres",
+          "lastname": "Gil de Reboleño Lastortres",
+          "firstname": "Esther",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Plurinacional SUMAR"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 29
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 154
+      },
+      "agendaItem": {
+        "title": "Proposición no de Ley para proteger a las víctimas contra los efectos\ndel negacionismo de la violencia de género.",
+        "officialTitle": "Proposición no de Ley para proteger a las víctimas contra los efectos\ndel negacionismo de la violencia de género.",
+        "type": "regular"
+      },
+      "dateStart": "2025-11-25T18:29:00+01:00",
+      "dateEnd": "2025-11-25T18:36:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_149/cortes/15_000400_149_1_26764_764633.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1564633I",
+        "duration": 420.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_149_1_26764_764633",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Rocío De Meer Méndez",
+          "lastname": "De Meer Méndez",
+          "firstname": "Rocío",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario VOX"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 30
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 154
+      },
+      "agendaItem": {
+        "title": "Proposición no de Ley relativa a la digitalización y el mantenimiento\nde los centros de examen desplazados para las pruebas de obtención del\npermiso de conducir.",
+        "officialTitle": "Proposición no de Ley relativa a la digitalización y el mantenimiento\nde los centros de examen desplazados para las pruebas de obtención del\npermiso de conducir.",
+        "type": "regular"
+      },
+      "dateStart": "2025-11-25T18:37:00+01:00",
+      "dateEnd": "2025-11-25T18:45:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_149/cortes/15_000400_149_1_26764_764636.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1564636I",
+        "duration": 480.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_149_1_26764_764636",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "María Elisa Vedrina Conesa",
+          "lastname": "Vedrina Conesa",
+          "firstname": "María Elisa",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Popular en el Congreso"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 31
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 154
+      },
+      "agendaItem": {
+        "title": "Proposición no de Ley relativa a la digitalización y el mantenimiento\nde los centros de examen desplazados para las pruebas de obtención del\npermiso de conducir.",
+        "officialTitle": "Proposición no de Ley relativa a la digitalización y el mantenimiento\nde los centros de examen desplazados para las pruebas de obtención del\npermiso de conducir.",
+        "type": "regular"
+      },
+      "dateStart": "2025-11-25T18:45:00+01:00",
+      "dateEnd": "2025-11-25T18:51:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_149/cortes/15_000400_149_1_26764_764637.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1564637I",
+        "duration": 360.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_149_1_26764_764637",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Inés Granollers Cunillera",
+          "lastname": "Granollers Cunillera",
+          "firstname": "Inés",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Republicano"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 32
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 154
+      },
+      "agendaItem": {
+        "title": "Proposición no de Ley relativa a la digitalización y el mantenimiento\nde los centros de examen desplazados para las pruebas de obtención del\npermiso de conducir.",
+        "officialTitle": "Proposición no de Ley relativa a la digitalización y el mantenimiento\nde los centros de examen desplazados para las pruebas de obtención del\npermiso de conducir.",
+        "type": "regular"
+      },
+      "dateStart": "2025-11-25T18:51:00+01:00",
+      "dateEnd": "2025-11-25T18:57:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_149/cortes/15_000400_149_1_26764_764638.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1564638I",
+        "duration": 360.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_149_1_26764_764638",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Oriol Almirón Ruiz",
+          "lastname": "Almirón Ruiz",
+          "firstname": "Oriol",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Socialista"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 33
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 154
+      },
+      "agendaItem": {
+        "title": "Proposición no de Ley relativa a la digitalización y el mantenimiento\nde los centros de examen desplazados para las pruebas de obtención del\npermiso de conducir.",
+        "officialTitle": "Proposición no de Ley relativa a la digitalización y el mantenimiento\nde los centros de examen desplazados para las pruebas de obtención del\npermiso de conducir.",
+        "type": "regular"
+      },
+      "dateStart": "2025-11-25T18:57:00+01:00",
+      "dateEnd": "2025-11-25T19:02:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_149/cortes/15_000400_149_1_26764_764639.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1564639I",
+        "duration": 300.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_149_1_26764_764639",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Alberto Catalán Higueras",
+          "lastname": "Catalán Higueras",
+          "firstname": "Alberto",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Mixto"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 34
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 154
+      },
+      "agendaItem": {
+        "title": "Proposición no de Ley relativa a la digitalización y el mantenimiento\nde los centros de examen desplazados para las pruebas de obtención del\npermiso de conducir.",
+        "officialTitle": "Proposición no de Ley relativa a la digitalización y el mantenimiento\nde los centros de examen desplazados para las pruebas de obtención del\npermiso de conducir.",
+        "type": "regular"
+      },
+      "dateStart": "2025-11-25T19:02:00+01:00",
+      "dateEnd": "2025-11-25T19:07:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_149/cortes/15_000400_149_1_26764_764640.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1564640I",
+        "duration": 300.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_149_1_26764_764640",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Nerea Renteria Lasanta",
+          "lastname": "Renteria Lasanta",
+          "firstname": "Nerea",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Vasco (EAJ-PNV)"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 35
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 154
+      },
+      "agendaItem": {
+        "title": "Proposición no de Ley relativa a la digitalización y el mantenimiento\nde los centros de examen desplazados para las pruebas de obtención del\npermiso de conducir.",
+        "officialTitle": "Proposición no de Ley relativa a la digitalización y el mantenimiento\nde los centros de examen desplazados para las pruebas de obtención del\npermiso de conducir.",
+        "type": "regular"
+      },
+      "dateStart": "2025-11-25T19:07:00+01:00",
+      "dateEnd": "2025-11-25T19:14:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_149/cortes/15_000400_149_1_26764_764641.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1564641I",
+        "duration": 420.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_149_1_26764_764641",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Isidre Gavin i Valls",
+          "lastname": "Gavin i Valls",
+          "firstname": "Isidre",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Junts per Catalunya"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 36
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 154
+      },
+      "agendaItem": {
+        "title": "Proposición no de Ley relativa a la digitalización y el mantenimiento\nde los centros de examen desplazados para las pruebas de obtención del\npermiso de conducir.",
+        "officialTitle": "Proposición no de Ley relativa a la digitalización y el mantenimiento\nde los centros de examen desplazados para las pruebas de obtención del\npermiso de conducir.",
+        "type": "regular"
+      },
+      "dateStart": "2025-11-25T19:14:00+01:00",
+      "dateEnd": "2025-11-25T19:20:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_149/cortes/15_000400_149_1_26764_764642.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1564642I",
+        "duration": 360.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_149_1_26764_764642",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Fèlix Alonso Cantorné",
+          "lastname": "Alonso Cantorné",
+          "firstname": "Fèlix",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Plurinacional SUMAR"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 37
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 154
+      },
+      "agendaItem": {
+        "title": "Proposición no de Ley relativa a la digitalización y el mantenimiento\nde los centros de examen desplazados para las pruebas de obtención del\npermiso de conducir.",
+        "officialTitle": "Proposición no de Ley relativa a la digitalización y el mantenimiento\nde los centros de examen desplazados para las pruebas de obtención del\npermiso de conducir.",
+        "type": "regular"
+      },
+      "dateStart": "2025-11-25T19:20:00+01:00",
+      "dateEnd": "2025-11-25T19:25:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_149/cortes/15_000400_149_1_26764_764643.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1564643I",
+        "duration": 300.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_149_1_26764_764643",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Francisco José Alcaraz Martos",
+          "lastname": "Alcaraz Martos",
+          "firstname": "Francisco José",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario VOX"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 38
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 154
+      },
+      "agendaItem": {
+        "title": "Moción consecuencia de interpelación urgente sobre la estrategia del\nGobierno para garantizar el buen funcionamiento de las Fuerzas y Cuerpos\nde Seguridad del Estado.",
+        "officialTitle": "Moción consecuencia de interpelación urgente sobre la estrategia del\nGobierno para garantizar el buen funcionamiento de las Fuerzas y Cuerpos\nde Seguridad del Estado.",
+        "type": "regular",
+        "nativeType": "ES-mocion"
+      },
+      "dateStart": "2025-11-25T19:26:00+01:00",
+      "dateEnd": "2025-11-25T19:34:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_149/cortes/15_000400_149_1_26764_764646.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1564646I",
+        "duration": 480.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_149_1_26764_764646",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Carlos Flores Juberías",
+          "lastname": "Flores Juberías",
+          "firstname": "Carlos",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario VOX"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 39
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 154
+      },
+      "agendaItem": {
+        "title": "Moción consecuencia de interpelación urgente sobre la estrategia del\nGobierno para garantizar el buen funcionamiento de las Fuerzas y Cuerpos\nde Seguridad del Estado.",
+        "officialTitle": "Moción consecuencia de interpelación urgente sobre la estrategia del\nGobierno para garantizar el buen funcionamiento de las Fuerzas y Cuerpos\nde Seguridad del Estado.",
+        "type": "regular",
+        "nativeType": "ES-mocion"
+      },
+      "dateStart": "2025-11-25T19:34:00+01:00",
+      "dateEnd": "2025-11-25T19:39:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_149/cortes/15_000400_149_1_26764_764647.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1564647I",
+        "duration": 300.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_149_1_26764_764647",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Txema Guijarro García",
+          "lastname": "Guijarro García",
+          "firstname": "Txema",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Plurinacional SUMAR"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 40
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 154
+      },
+      "agendaItem": {
+        "title": "Moción consecuencia de interpelación urgente sobre la estrategia del\nGobierno para garantizar el buen funcionamiento de las Fuerzas y Cuerpos\nde Seguridad del Estado.",
+        "officialTitle": "Moción consecuencia de interpelación urgente sobre la estrategia del\nGobierno para garantizar el buen funcionamiento de las Fuerzas y Cuerpos\nde Seguridad del Estado.",
+        "type": "regular",
+        "nativeType": "ES-mocion"
+      },
+      "dateStart": "2025-11-25T19:39:00+01:00",
+      "dateEnd": "2025-11-25T19:46:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_149/cortes/15_000400_149_1_26764_764648.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1564648I",
+        "duration": 420.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_149_1_26764_764648",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Manuel Arribas Maroto",
+          "lastname": "Arribas Maroto",
+          "firstname": "Manuel",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Socialista"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 41
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 154
+      },
+      "agendaItem": {
+        "title": "Moción consecuencia de interpelación urgente sobre la estrategia del\nGobierno para garantizar el buen funcionamiento de las Fuerzas y Cuerpos\nde Seguridad del Estado.",
+        "officialTitle": "Moción consecuencia de interpelación urgente sobre la estrategia del\nGobierno para garantizar el buen funcionamiento de las Fuerzas y Cuerpos\nde Seguridad del Estado.",
+        "type": "regular",
+        "nativeType": "ES-mocion"
+      },
+      "dateStart": "2025-11-25T19:46:00+01:00",
+      "dateEnd": "2025-11-25T19:53:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_149/cortes/15_000400_149_1_26764_764649.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1564649I",
+        "duration": 420.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_149_1_26764_764649",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "José Ignacio Romaní Cantera",
+          "lastname": "Romaní Cantera",
+          "firstname": "José Ignacio",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Popular en el Congreso"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 42
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 154
+      },
+      "agendaItem": {
+        "title": "Moción consecuencia de interpelación urgente sobre el fracaso en\ntodos los ámbitos de la política de seguridad e interior de este\nGobierno.",
+        "officialTitle": "Moción consecuencia de interpelación urgente sobre el fracaso en\ntodos los ámbitos de la política de seguridad e interior de este\nGobierno.",
+        "type": "regular",
+        "nativeType": "ES-mocion"
+      },
+      "dateStart": "2025-11-25T19:53:00+01:00",
+      "dateEnd": "2025-11-25T20:01:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_149/cortes/15_000400_149_1_26764_764651.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1564651I",
+        "duration": 480.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_149_1_26764_764651",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Manuel Cobo Vega",
+          "lastname": "Cobo Vega",
+          "firstname": "Manuel",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Popular en el Congreso"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 43
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 154
+      },
+      "agendaItem": {
+        "title": "Moción consecuencia de interpelación urgente sobre el fracaso en\ntodos los ámbitos de la política de seguridad e interior de este\nGobierno.",
+        "officialTitle": "Moción consecuencia de interpelación urgente sobre el fracaso en\ntodos los ámbitos de la política de seguridad e interior de este\nGobierno.",
+        "type": "regular",
+        "nativeType": "ES-mocion"
+      },
+      "dateStart": "2025-11-25T20:01:00+01:00",
+      "dateEnd": "2025-11-25T20:05:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_149/cortes/15_000400_149_1_26764_764652.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1564652I",
+        "duration": 240.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_149_1_26764_764652",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Mikel Legarda Uriarte",
+          "lastname": "Legarda Uriarte",
+          "firstname": "Mikel",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Vasco (EAJ-PNV)"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 44
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 154
+      },
+      "agendaItem": {
+        "title": "Moción consecuencia de interpelación urgente sobre el fracaso en\ntodos los ámbitos de la política de seguridad e interior de este\nGobierno.",
+        "officialTitle": "Moción consecuencia de interpelación urgente sobre el fracaso en\ntodos los ámbitos de la política de seguridad e interior de este\nGobierno.",
+        "type": "regular",
+        "nativeType": "ES-mocion"
+      },
+      "dateStart": "2025-11-25T20:05:00+01:00",
+      "dateEnd": "2025-11-25T20:10:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_149/cortes/15_000400_149_1_26764_764653.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1564653I",
+        "duration": 300.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_149_1_26764_764653",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Francesc-Marc Álvaro Vidal",
+          "lastname": "Álvaro Vidal",
+          "firstname": "Francesc-Marc",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Republicano"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 45
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 154
+      },
+      "agendaItem": {
+        "title": "Moción consecuencia de interpelación urgente sobre el fracaso en\ntodos los ámbitos de la política de seguridad e interior de este\nGobierno.",
+        "officialTitle": "Moción consecuencia de interpelación urgente sobre el fracaso en\ntodos los ámbitos de la política de seguridad e interior de este\nGobierno.",
+        "type": "regular",
+        "nativeType": "ES-mocion"
+      },
+      "dateStart": "2025-11-25T20:10:00+01:00",
+      "dateEnd": "2025-11-25T20:17:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_149/cortes/15_000400_149_1_26764_764654.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1564654I",
+        "duration": 420.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_149_1_26764_764654",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Enrique Fernando Santiago Romero",
+          "lastname": "Santiago Romero",
+          "firstname": "Enrique Fernando",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Plurinacional SUMAR"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 46
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 154
+      },
+      "agendaItem": {
+        "title": "Moción consecuencia de interpelación urgente sobre el fracaso en\ntodos los ámbitos de la política de seguridad e interior de este\nGobierno.",
+        "officialTitle": "Moción consecuencia de interpelación urgente sobre el fracaso en\ntodos los ámbitos de la política de seguridad e interior de este\nGobierno.",
+        "type": "regular",
+        "nativeType": "ES-mocion"
+      },
+      "dateStart": "2025-11-25T20:17:00+01:00",
+      "dateEnd": "2025-11-25T20:22:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_149/cortes/15_000400_149_1_26764_764655.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1564655I",
+        "duration": 300.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_149_1_26764_764655",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Francisco Javier Ortega Smith-Molina",
+          "lastname": "Ortega Smith-Molina",
+          "firstname": "Francisco Javier",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario VOX"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 47
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 154
+      },
+      "agendaItem": {
+        "title": "Moción consecuencia de interpelación urgente sobre el fracaso en\ntodos los ámbitos de la política de seguridad e interior de este\nGobierno.",
+        "officialTitle": "Moción consecuencia de interpelación urgente sobre el fracaso en\ntodos los ámbitos de la política de seguridad e interior de este\nGobierno.",
+        "type": "regular",
+        "nativeType": "ES-mocion"
+      },
+      "dateStart": "2025-11-25T20:22:00+01:00",
+      "dateEnd": "2025-11-25T20:29:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_149/cortes/15_000400_149_1_26764_764656.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1564656I",
+        "duration": 420.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_149_1_26764_764656",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "David Serrada Pariente",
+          "lastname": "Serrada Pariente",
+          "firstname": "David",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Socialista"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 48
+    }
+  ]
+}

@@ -1,0 +1,1963 @@
+{
+  "meta": {
+    "session": "15173",
+    "processing": {
+      "parse_media": "2026-05-23T07:17:41"
+    },
+    "dateStart": "2026-03-24T15:03:00+01:00",
+    "dateEnd": "2026-03-24T20:37:00+01:00"
+  },
+  "data": [
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 173
+      },
+      "agendaItem": {
+        "title": "Proposición de Ley Orgánica de modificación del artículo 379.1 del\nCódigo Penal, sobre conducción a velocidad superior a la permitida\nreglamentariamente.",
+        "officialTitle": "Proposición de Ley Orgánica de modificación del artículo 379.1 del\nCódigo Penal, sobre conducción a velocidad superior a la permitida\nreglamentariamente.",
+        "type": "regular",
+        "nativeType": "ES-ley"
+      },
+      "dateStart": "2026-03-24T15:03:00+01:00",
+      "dateEnd": "2026-03-24T15:14:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_167/cortes/15_000400_167_0_27129_770226.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1570226I",
+        "duration": 660.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_167_0_27129_770226",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Juan Carlos Jerez Antequera",
+          "lastname": "Jerez Antequera",
+          "firstname": "Juan Carlos",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Socialista"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 1
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 173
+      },
+      "agendaItem": {
+        "title": "Proposición de Ley Orgánica de modificación del artículo 379.1 del\nCódigo Penal, sobre conducción a velocidad superior a la permitida\nreglamentariamente.",
+        "officialTitle": "Proposición de Ley Orgánica de modificación del artículo 379.1 del\nCódigo Penal, sobre conducción a velocidad superior a la permitida\nreglamentariamente.",
+        "type": "regular",
+        "nativeType": "ES-ley"
+      },
+      "dateStart": "2026-03-24T15:14:00+01:00",
+      "dateEnd": "2026-03-24T15:19:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_167/cortes/15_000400_167_0_27129_770227.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1570227I",
+        "duration": 300.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_167_0_27129_770227",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Cristina Valido García",
+          "lastname": "Valido García",
+          "firstname": "Cristina",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Mixto"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 2
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 173
+      },
+      "agendaItem": {
+        "title": "Proposición de Ley Orgánica de modificación del artículo 379.1 del\nCódigo Penal, sobre conducción a velocidad superior a la permitida\nreglamentariamente.",
+        "officialTitle": "Proposición de Ley Orgánica de modificación del artículo 379.1 del\nCódigo Penal, sobre conducción a velocidad superior a la permitida\nreglamentariamente.",
+        "type": "regular",
+        "nativeType": "ES-ley"
+      },
+      "dateStart": "2026-03-24T15:19:00+01:00",
+      "dateEnd": "2026-03-24T15:24:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_167/cortes/15_000400_167_0_27129_770229.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1570229I",
+        "duration": 300.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_167_0_27129_770229",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Nerea Renteria Lasanta",
+          "lastname": "Renteria Lasanta",
+          "firstname": "Nerea",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Vasco (EAJ-PNV)"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 3
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 173
+      },
+      "agendaItem": {
+        "title": "Proposición de Ley Orgánica de modificación del artículo 379.1 del\nCódigo Penal, sobre conducción a velocidad superior a la permitida\nreglamentariamente.",
+        "officialTitle": "Proposición de Ley Orgánica de modificación del artículo 379.1 del\nCódigo Penal, sobre conducción a velocidad superior a la permitida\nreglamentariamente.",
+        "type": "regular",
+        "nativeType": "ES-ley"
+      },
+      "dateStart": "2026-03-24T15:24:00+01:00",
+      "dateEnd": "2026-03-24T15:32:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_167/cortes/15_000400_167_0_27129_770230.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1570230I",
+        "duration": 480.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_167_0_27129_770230",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Marta Madrenas i Mir",
+          "lastname": "Madrenas i Mir",
+          "firstname": "Marta",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Junts per Catalunya"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 4
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 173
+      },
+      "agendaItem": {
+        "title": "Proposición de Ley Orgánica de modificación del artículo 379.1 del\nCódigo Penal, sobre conducción a velocidad superior a la permitida\nreglamentariamente.",
+        "officialTitle": "Proposición de Ley Orgánica de modificación del artículo 379.1 del\nCódigo Penal, sobre conducción a velocidad superior a la permitida\nreglamentariamente.",
+        "type": "regular",
+        "nativeType": "ES-ley"
+      },
+      "dateStart": "2026-03-24T15:32:00+01:00",
+      "dateEnd": "2026-03-24T15:38:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_167/cortes/15_000400_167_0_27129_770231.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1570231I",
+        "duration": 360.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_167_0_27129_770231",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Inés Granollers Cunillera",
+          "lastname": "Granollers Cunillera",
+          "firstname": "Inés",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Republicano"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 5
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 173
+      },
+      "agendaItem": {
+        "title": "Proposición de Ley Orgánica de modificación del artículo 379.1 del\nCódigo Penal, sobre conducción a velocidad superior a la permitida\nreglamentariamente.",
+        "officialTitle": "Proposición de Ley Orgánica de modificación del artículo 379.1 del\nCódigo Penal, sobre conducción a velocidad superior a la permitida\nreglamentariamente.",
+        "type": "regular",
+        "nativeType": "ES-ley"
+      },
+      "dateStart": "2026-03-24T15:38:00+01:00",
+      "dateEnd": "2026-03-24T15:47:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_167/cortes/15_000400_167_0_27129_770232.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1570232I",
+        "duration": 540.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_167_0_27129_770232",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Laura Vergara Román",
+          "lastname": "Vergara Román",
+          "firstname": "Laura",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Plurinacional SUMAR"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 6
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 173
+      },
+      "agendaItem": {
+        "title": "Proposición de Ley Orgánica de modificación del artículo 379.1 del\nCódigo Penal, sobre conducción a velocidad superior a la permitida\nreglamentariamente.",
+        "officialTitle": "Proposición de Ley Orgánica de modificación del artículo 379.1 del\nCódigo Penal, sobre conducción a velocidad superior a la permitida\nreglamentariamente.",
+        "type": "regular",
+        "nativeType": "ES-ley"
+      },
+      "dateStart": "2026-03-24T15:47:00+01:00",
+      "dateEnd": "2026-03-24T15:53:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_167/cortes/15_000400_167_0_27129_770233.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1570233I",
+        "duration": 360.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_167_0_27129_770233",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Francisco José Alcaraz Martos",
+          "lastname": "Alcaraz Martos",
+          "firstname": "Francisco José",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario VOX"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 7
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 173
+      },
+      "agendaItem": {
+        "title": "Proposición de Ley Orgánica de modificación del artículo 379.1 del\nCódigo Penal, sobre conducción a velocidad superior a la permitida\nreglamentariamente.",
+        "officialTitle": "Proposición de Ley Orgánica de modificación del artículo 379.1 del\nCódigo Penal, sobre conducción a velocidad superior a la permitida\nreglamentariamente.",
+        "type": "regular",
+        "nativeType": "ES-ley"
+      },
+      "dateStart": "2026-03-24T15:53:00+01:00",
+      "dateEnd": "2026-03-24T16:01:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_167/cortes/15_000400_167_0_27129_770234.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1570234I",
+        "duration": 480.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_167_0_27129_770234",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Fernando De Rosa Torner",
+          "lastname": "De Rosa Torner",
+          "firstname": "Fernando",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Popular en el Congreso"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 8
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 173
+      },
+      "agendaItem": {
+        "title": "Proposición de Ley relativa a la modificación de la Ley 87/1978, de\n28 de diciembre, de Seguros Agrarios Combinados, para establecer seguros\nsobre los ingresos y las rentas, y reforzar la sostenibilidad de las\nproducciones agrarias.",
+        "officialTitle": "Proposición de Ley relativa a la modificación de la Ley 87/1978, de\n28 de diciembre, de Seguros Agrarios Combinados, para establecer seguros\nsobre los ingresos y las rentas, y reforzar la sostenibilidad de las\nproducciones agrarias.",
+        "type": "regular",
+        "nativeType": "ES-ley"
+      },
+      "dateStart": "2026-03-24T16:02:00+01:00",
+      "dateEnd": "2026-03-24T16:14:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_167/cortes/15_000400_167_0_27129_770236.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1570236I",
+        "duration": 720.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_167_0_27129_770236",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Pedro Ignacio Gallardo Barrena",
+          "lastname": "Gallardo Barrena",
+          "firstname": "Pedro Ignacio",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Popular en el Congreso"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 9
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 173
+      },
+      "agendaItem": {
+        "title": "Proposición de Ley relativa a la modificación de la Ley 87/1978, de\n28 de diciembre, de Seguros Agrarios Combinados, para establecer seguros\nsobre los ingresos y las rentas, y reforzar la sostenibilidad de las\nproducciones agrarias.",
+        "officialTitle": "Proposición de Ley relativa a la modificación de la Ley 87/1978, de\n28 de diciembre, de Seguros Agrarios Combinados, para establecer seguros\nsobre los ingresos y las rentas, y reforzar la sostenibilidad de las\nproducciones agrarias.",
+        "type": "regular",
+        "nativeType": "ES-ley"
+      },
+      "dateStart": "2026-03-24T16:14:00+01:00",
+      "dateEnd": "2026-03-24T16:19:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_167/cortes/15_000400_167_0_27129_770237.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1570237I",
+        "duration": 300.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_167_0_27129_770237",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Néstor Rego Candamil",
+          "lastname": "Rego Candamil",
+          "firstname": "Néstor",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Mixto"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 10
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 173
+      },
+      "agendaItem": {
+        "title": "Proposición de Ley relativa a la modificación de la Ley 87/1978, de\n28 de diciembre, de Seguros Agrarios Combinados, para establecer seguros\nsobre los ingresos y las rentas, y reforzar la sostenibilidad de las\nproducciones agrarias.",
+        "officialTitle": "Proposición de Ley relativa a la modificación de la Ley 87/1978, de\n28 de diciembre, de Seguros Agrarios Combinados, para establecer seguros\nsobre los ingresos y las rentas, y reforzar la sostenibilidad de las\nproducciones agrarias.",
+        "type": "regular",
+        "nativeType": "ES-ley"
+      },
+      "dateStart": "2026-03-24T16:19:00+01:00",
+      "dateEnd": "2026-03-24T16:25:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_167/cortes/15_000400_167_0_27129_770238.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1570238I",
+        "duration": 360.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_167_0_27129_770238",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Martina Velarde Gómez",
+          "lastname": "Velarde Gómez",
+          "firstname": "Martina",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Mixto"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 11
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 173
+      },
+      "agendaItem": {
+        "title": "Proposición de Ley relativa a la modificación de la Ley 87/1978, de\n28 de diciembre, de Seguros Agrarios Combinados, para establecer seguros\nsobre los ingresos y las rentas, y reforzar la sostenibilidad de las\nproducciones agrarias.",
+        "officialTitle": "Proposición de Ley relativa a la modificación de la Ley 87/1978, de\n28 de diciembre, de Seguros Agrarios Combinados, para establecer seguros\nsobre los ingresos y las rentas, y reforzar la sostenibilidad de las\nproducciones agrarias.",
+        "type": "regular",
+        "nativeType": "ES-ley"
+      },
+      "dateStart": "2026-03-24T16:25:00+01:00",
+      "dateEnd": "2026-03-24T16:32:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_167/cortes/15_000400_167_0_27129_770239.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1570239I",
+        "duration": 420.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_167_0_27129_770239",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Joseba Andoni Agirretxea Urresti",
+          "lastname": "Agirretxea Urresti",
+          "firstname": "Joseba Andoni",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Vasco (EAJ-PNV)"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 12
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 173
+      },
+      "agendaItem": {
+        "title": "Proposición de Ley relativa a la modificación de la Ley 87/1978, de\n28 de diciembre, de Seguros Agrarios Combinados, para establecer seguros\nsobre los ingresos y las rentas, y reforzar la sostenibilidad de las\nproducciones agrarias.",
+        "officialTitle": "Proposición de Ley relativa a la modificación de la Ley 87/1978, de\n28 de diciembre, de Seguros Agrarios Combinados, para establecer seguros\nsobre los ingresos y las rentas, y reforzar la sostenibilidad de las\nproducciones agrarias.",
+        "type": "regular",
+        "nativeType": "ES-ley"
+      },
+      "dateStart": "2026-03-24T16:32:00+01:00",
+      "dateEnd": "2026-03-24T16:40:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_167/cortes/15_000400_167_0_27129_770240.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1570240I",
+        "duration": 480.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_167_0_27129_770240",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Isidre Gavin i Valls",
+          "lastname": "Gavin i Valls",
+          "firstname": "Isidre",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Junts per Catalunya"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 13
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 173
+      },
+      "agendaItem": {
+        "title": "Proposición de Ley relativa a la modificación de la Ley 87/1978, de\n28 de diciembre, de Seguros Agrarios Combinados, para establecer seguros\nsobre los ingresos y las rentas, y reforzar la sostenibilidad de las\nproducciones agrarias.",
+        "officialTitle": "Proposición de Ley relativa a la modificación de la Ley 87/1978, de\n28 de diciembre, de Seguros Agrarios Combinados, para establecer seguros\nsobre los ingresos y las rentas, y reforzar la sostenibilidad de las\nproducciones agrarias.",
+        "type": "regular",
+        "nativeType": "ES-ley"
+      },
+      "dateStart": "2026-03-24T16:40:00+01:00",
+      "dateEnd": "2026-03-24T16:49:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_167/cortes/15_000400_167_0_27129_770241.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1570241I",
+        "duration": 540.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_167_0_27129_770241",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Teresa Jordà i Roura",
+          "lastname": "Jordà i Roura",
+          "firstname": "Teresa",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Republicano"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 14
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 173
+      },
+      "agendaItem": {
+        "title": "Proposición de Ley relativa a la modificación de la Ley 87/1978, de\n28 de diciembre, de Seguros Agrarios Combinados, para establecer seguros\nsobre los ingresos y las rentas, y reforzar la sostenibilidad de las\nproducciones agrarias.",
+        "officialTitle": "Proposición de Ley relativa a la modificación de la Ley 87/1978, de\n28 de diciembre, de Seguros Agrarios Combinados, para establecer seguros\nsobre los ingresos y las rentas, y reforzar la sostenibilidad de las\nproducciones agrarias.",
+        "type": "regular",
+        "nativeType": "ES-ley"
+      },
+      "dateStart": "2026-03-24T16:49:00+01:00",
+      "dateEnd": "2026-03-24T16:56:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_167/cortes/15_000400_167_0_27129_770242.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1570242I",
+        "duration": 420.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_167_0_27129_770242",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Txema Guijarro García",
+          "lastname": "Guijarro García",
+          "firstname": "Txema",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Plurinacional SUMAR"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 15
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 173
+      },
+      "agendaItem": {
+        "title": "Proposición de Ley relativa a la modificación de la Ley 87/1978, de\n28 de diciembre, de Seguros Agrarios Combinados, para establecer seguros\nsobre los ingresos y las rentas, y reforzar la sostenibilidad de las\nproducciones agrarias.",
+        "officialTitle": "Proposición de Ley relativa a la modificación de la Ley 87/1978, de\n28 de diciembre, de Seguros Agrarios Combinados, para establecer seguros\nsobre los ingresos y las rentas, y reforzar la sostenibilidad de las\nproducciones agrarias.",
+        "type": "regular",
+        "nativeType": "ES-ley"
+      },
+      "dateStart": "2026-03-24T16:56:00+01:00",
+      "dateEnd": "2026-03-24T17:03:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_167/cortes/15_000400_167_0_27129_770243.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1570243I",
+        "duration": 420.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_167_0_27129_770243",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Ricardo Chamorro Delmo",
+          "lastname": "Chamorro Delmo",
+          "firstname": "Ricardo",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario VOX"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 16
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 173
+      },
+      "agendaItem": {
+        "title": "Proposición de Ley relativa a la modificación de la Ley 87/1978, de\n28 de diciembre, de Seguros Agrarios Combinados, para establecer seguros\nsobre los ingresos y las rentas, y reforzar la sostenibilidad de las\nproducciones agrarias.",
+        "officialTitle": "Proposición de Ley relativa a la modificación de la Ley 87/1978, de\n28 de diciembre, de Seguros Agrarios Combinados, para establecer seguros\nsobre los ingresos y las rentas, y reforzar la sostenibilidad de las\nproducciones agrarias.",
+        "type": "regular",
+        "nativeType": "ES-ley"
+      },
+      "dateStart": "2026-03-24T17:03:00+01:00",
+      "dateEnd": "2026-03-24T17:11:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_167/cortes/15_000400_167_0_27129_770244.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1570244I",
+        "duration": 480.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_167_0_27129_770244",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "María Carmen Sánchez Díaz",
+          "lastname": "Sánchez Díaz",
+          "firstname": "María Carmen",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Socialista"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 17
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 173
+      },
+      "agendaItem": {
+        "title": "Proposición no de Ley de medidas fiscales urgentes para hacer frente\na la fatiga tributaria que padecen la clase media, trabajadores,\nautónomos y pequeños empresarios.",
+        "officialTitle": "Proposición no de Ley de medidas fiscales urgentes para hacer frente\na la fatiga tributaria que padecen la clase media, trabajadores,\nautónomos y pequeños empresarios.",
+        "type": "regular"
+      },
+      "dateStart": "2026-03-24T17:11:00+01:00",
+      "dateEnd": "2026-03-24T17:19:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_167/cortes/15_000400_167_0_27129_770245.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1570245I",
+        "duration": 480.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_167_0_27129_770245",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Josep Maria Cruset Domènech",
+          "lastname": "Cruset Domènech",
+          "firstname": "Josep Maria",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Junts per Catalunya"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 18
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 173
+      },
+      "agendaItem": {
+        "title": "Proposición no de Ley de medidas fiscales urgentes para hacer frente\na la fatiga tributaria que padecen la clase media, trabajadores,\nautónomos y pequeños empresarios.",
+        "officialTitle": "Proposición no de Ley de medidas fiscales urgentes para hacer frente\na la fatiga tributaria que padecen la clase media, trabajadores,\nautónomos y pequeños empresarios.",
+        "type": "regular"
+      },
+      "dateStart": "2026-03-24T17:19:00+01:00",
+      "dateEnd": "2026-03-24T17:25:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_167/cortes/15_000400_167_0_27129_770248.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1570248I",
+        "duration": 360.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_167_0_27129_770248",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Pablo Sáez Alonso-Muñumer",
+          "lastname": "Sáez Alonso-Muñumer",
+          "firstname": "Pablo",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario VOX"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 19
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 173
+      },
+      "agendaItem": {
+        "title": "Proposición no de Ley de medidas fiscales urgentes para hacer frente\na la fatiga tributaria que padecen la clase media, trabajadores,\nautónomos y pequeños empresarios.",
+        "officialTitle": "Proposición no de Ley de medidas fiscales urgentes para hacer frente\na la fatiga tributaria que padecen la clase media, trabajadores,\nautónomos y pequeños empresarios.",
+        "type": "regular"
+      },
+      "dateStart": "2026-03-24T17:25:00+01:00",
+      "dateEnd": "2026-03-24T17:32:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_167/cortes/15_000400_167_0_27129_770249.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1570249I",
+        "duration": 420.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_167_0_27129_770249",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Noemí Santana Perera",
+          "lastname": "Santana Perera",
+          "firstname": "Noemí",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Mixto"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 20
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 173
+      },
+      "agendaItem": {
+        "title": "Proposición no de Ley de medidas fiscales urgentes para hacer frente\na la fatiga tributaria que padecen la clase media, trabajadores,\nautónomos y pequeños empresarios.",
+        "officialTitle": "Proposición no de Ley de medidas fiscales urgentes para hacer frente\na la fatiga tributaria que padecen la clase media, trabajadores,\nautónomos y pequeños empresarios.",
+        "type": "regular"
+      },
+      "dateStart": "2026-03-24T17:32:00+01:00",
+      "dateEnd": "2026-03-24T17:37:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_167/cortes/15_000400_167_0_27129_770250.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1570250I",
+        "duration": 300.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_167_0_27129_770250",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Idoia Sagastizabal Unzetabarrenetxea",
+          "lastname": "Sagastizabal Unzetabarrenetxea",
+          "firstname": "Idoia",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Vasco (EAJ-PNV)"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 21
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 173
+      },
+      "agendaItem": {
+        "title": "Proposición no de Ley de medidas fiscales urgentes para hacer frente\na la fatiga tributaria que padecen la clase media, trabajadores,\nautónomos y pequeños empresarios.",
+        "officialTitle": "Proposición no de Ley de medidas fiscales urgentes para hacer frente\na la fatiga tributaria que padecen la clase media, trabajadores,\nautónomos y pequeños empresarios.",
+        "type": "regular"
+      },
+      "dateStart": "2026-03-24T17:37:00+01:00",
+      "dateEnd": "2026-03-24T17:44:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_167/cortes/15_000400_167_0_27129_770251.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1570251I",
+        "duration": 420.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_167_0_27129_770251",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Oskar Matute García de Jalón",
+          "lastname": "Matute García de Jalón",
+          "firstname": "Oskar",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Euskal Herria Bildu"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 22
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 173
+      },
+      "agendaItem": {
+        "title": "Proposición no de Ley de medidas fiscales urgentes para hacer frente\na la fatiga tributaria que padecen la clase media, trabajadores,\nautónomos y pequeños empresarios.",
+        "officialTitle": "Proposición no de Ley de medidas fiscales urgentes para hacer frente\na la fatiga tributaria que padecen la clase media, trabajadores,\nautónomos y pequeños empresarios.",
+        "type": "regular"
+      },
+      "dateStart": "2026-03-24T17:44:00+01:00",
+      "dateEnd": "2026-03-24T17:50:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_167/cortes/15_000400_167_0_27129_770252.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1570252I",
+        "duration": 360.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_167_0_27129_770252",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Pilar Vallugera Balañà",
+          "lastname": "Vallugera Balañà",
+          "firstname": "Pilar",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Republicano"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 23
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 173
+      },
+      "agendaItem": {
+        "title": "Proposición no de Ley de medidas fiscales urgentes para hacer frente\na la fatiga tributaria que padecen la clase media, trabajadores,\nautónomos y pequeños empresarios.",
+        "officialTitle": "Proposición no de Ley de medidas fiscales urgentes para hacer frente\na la fatiga tributaria que padecen la clase media, trabajadores,\nautónomos y pequeños empresarios.",
+        "type": "regular"
+      },
+      "dateStart": "2026-03-24T17:50:00+01:00",
+      "dateEnd": "2026-03-24T17:58:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_167/cortes/15_000400_167_0_27129_770253.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1570253I",
+        "duration": 480.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_167_0_27129_770253",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Aina Vidal Sáez",
+          "lastname": "Vidal Sáez",
+          "firstname": "Aina",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Plurinacional SUMAR"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 24
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 173
+      },
+      "agendaItem": {
+        "title": "Proposición no de Ley de medidas fiscales urgentes para hacer frente\na la fatiga tributaria que padecen la clase media, trabajadores,\nautónomos y pequeños empresarios.",
+        "officialTitle": "Proposición no de Ley de medidas fiscales urgentes para hacer frente\na la fatiga tributaria que padecen la clase media, trabajadores,\nautónomos y pequeños empresarios.",
+        "type": "regular"
+      },
+      "dateStart": "2026-03-24T17:58:00+01:00",
+      "dateEnd": "2026-03-24T18:04:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_167/cortes/15_000400_167_0_27129_770254.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1570254I",
+        "duration": 360.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_167_0_27129_770254",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Valle Mellado Sierra",
+          "lastname": "Mellado Sierra",
+          "firstname": "Valle",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Socialista"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 25
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 173
+      },
+      "agendaItem": {
+        "title": "Proposición no de Ley de medidas fiscales urgentes para hacer frente\na la fatiga tributaria que padecen la clase media, trabajadores,\nautónomos y pequeños empresarios.",
+        "officialTitle": "Proposición no de Ley de medidas fiscales urgentes para hacer frente\na la fatiga tributaria que padecen la clase media, trabajadores,\nautónomos y pequeños empresarios.",
+        "type": "regular"
+      },
+      "dateStart": "2026-03-24T18:04:00+01:00",
+      "dateEnd": "2026-03-24T18:10:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_167/cortes/15_000400_167_0_27129_770255.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1570255I",
+        "duration": 360.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_167_0_27129_770255",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Santi Rodríguez Serra",
+          "lastname": "Rodríguez Serra",
+          "firstname": "Santi",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Popular en el Congreso"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 26
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 173
+      },
+      "agendaItem": {
+        "title": "Proposición no de Ley para reforzar la competitividad y la\nresiliencia de la industria siderúrgica y electrointensiva.",
+        "officialTitle": "Proposición no de Ley para reforzar la competitividad y la\nresiliencia de la industria siderúrgica y electrointensiva.",
+        "type": "regular"
+      },
+      "dateStart": "2026-03-24T18:11:00+01:00",
+      "dateEnd": "2026-03-24T18:18:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_167/cortes/15_000400_167_0_27129_770257.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1570257I",
+        "duration": 420.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_167_0_27129_770257",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Idoia Sagastizabal Unzetabarrenetxea",
+          "lastname": "Sagastizabal Unzetabarrenetxea",
+          "firstname": "Idoia",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Vasco (EAJ-PNV)"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 27
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 173
+      },
+      "agendaItem": {
+        "title": "Proposición no de Ley para reforzar la competitividad y la\nresiliencia de la industria siderúrgica y electrointensiva.",
+        "officialTitle": "Proposición no de Ley para reforzar la competitividad y la\nresiliencia de la industria siderúrgica y electrointensiva.",
+        "type": "regular"
+      },
+      "dateStart": "2026-03-24T18:18:00+01:00",
+      "dateEnd": "2026-03-24T18:24:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_167/cortes/15_000400_167_0_27129_770258.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1570258I",
+        "duration": 360.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_167_0_27129_770258",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Mikel Otero Gabirondo",
+          "lastname": "Otero Gabirondo",
+          "firstname": "Mikel",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Euskal Herria Bildu"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 28
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 173
+      },
+      "agendaItem": {
+        "title": "Proposición no de Ley para reforzar la competitividad y la\nresiliencia de la industria siderúrgica y electrointensiva.",
+        "officialTitle": "Proposición no de Ley para reforzar la competitividad y la\nresiliencia de la industria siderúrgica y electrointensiva.",
+        "type": "regular"
+      },
+      "dateStart": "2026-03-24T18:24:00+01:00",
+      "dateEnd": "2026-03-24T18:30:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_167/cortes/15_000400_167_0_27129_770259.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1570259I",
+        "duration": 360.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_167_0_27129_770259",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Patricia Rueda Perelló",
+          "lastname": "Rueda Perelló",
+          "firstname": "Patricia",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario VOX"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 29
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 173
+      },
+      "agendaItem": {
+        "title": "Proposición no de Ley para reforzar la competitividad y la\nresiliencia de la industria siderúrgica y electrointensiva.",
+        "officialTitle": "Proposición no de Ley para reforzar la competitividad y la\nresiliencia de la industria siderúrgica y electrointensiva.",
+        "type": "regular"
+      },
+      "dateStart": "2026-03-24T18:30:00+01:00",
+      "dateEnd": "2026-03-24T18:36:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_167/cortes/15_000400_167_0_27129_770260.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1570260I",
+        "duration": 360.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_167_0_27129_770260",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Rafaela Romero Pozo",
+          "lastname": "Romero Pozo",
+          "firstname": "Rafaela",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Socialista"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 30
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 173
+      },
+      "agendaItem": {
+        "title": "Proposición no de Ley para reforzar la competitividad y la\nresiliencia de la industria siderúrgica y electrointensiva.",
+        "officialTitle": "Proposición no de Ley para reforzar la competitividad y la\nresiliencia de la industria siderúrgica y electrointensiva.",
+        "type": "regular"
+      },
+      "dateStart": "2026-03-24T18:36:00+01:00",
+      "dateEnd": "2026-03-24T18:43:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_167/cortes/15_000400_167_0_27129_770261.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1570261I",
+        "duration": 420.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_167_0_27129_770261",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Félix De las Cuevas Cortés",
+          "lastname": "De las Cuevas Cortés",
+          "firstname": "Félix",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Popular en el Congreso"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 31
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 173
+      },
+      "agendaItem": {
+        "title": "Proposición no de Ley para reforzar la competitividad y la\nresiliencia de la industria siderúrgica y electrointensiva.",
+        "officialTitle": "Proposición no de Ley para reforzar la competitividad y la\nresiliencia de la industria siderúrgica y electrointensiva.",
+        "type": "regular"
+      },
+      "dateStart": "2026-03-24T18:43:00+01:00",
+      "dateEnd": "2026-03-24T18:49:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_167/cortes/15_000400_167_0_27129_770262.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1570262I",
+        "duration": 360.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_167_0_27129_770262",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Pilar Calvo Gómez",
+          "lastname": "Calvo Gómez",
+          "firstname": "Pilar",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Junts per Catalunya"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 32
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 173
+      },
+      "agendaItem": {
+        "title": "Proposición no de Ley para reforzar la competitividad y la\nresiliencia de la industria siderúrgica y electrointensiva.",
+        "officialTitle": "Proposición no de Ley para reforzar la competitividad y la\nresiliencia de la industria siderúrgica y electrointensiva.",
+        "type": "regular"
+      },
+      "dateStart": "2026-03-24T18:49:00+01:00",
+      "dateEnd": "2026-03-24T18:55:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_167/cortes/15_000400_167_0_27129_770263.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1570263I",
+        "duration": 360.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_167_0_27129_770263",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Teresa Jordà i Roura",
+          "lastname": "Jordà i Roura",
+          "firstname": "Teresa",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Republicano"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 33
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 173
+      },
+      "agendaItem": {
+        "title": "Proposición no de Ley para reforzar la competitividad y la\nresiliencia de la industria siderúrgica y electrointensiva.",
+        "officialTitle": "Proposición no de Ley para reforzar la competitividad y la\nresiliencia de la industria siderúrgica y electrointensiva.",
+        "type": "regular"
+      },
+      "dateStart": "2026-03-24T18:55:00+01:00",
+      "dateEnd": "2026-03-24T19:00:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_167/cortes/15_000400_167_0_27129_770264.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1570264I",
+        "duration": 300.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_167_0_27129_770264",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Lander Martínez Hierro",
+          "lastname": "Martínez Hierro",
+          "firstname": "Lander",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Plurinacional SUMAR"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 34
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 173
+      },
+      "agendaItem": {
+        "title": "Moción consecuencia de interpelación urgente sobre las dificultades\nfiscales y económicas de la clase media y trabajadora.",
+        "officialTitle": "Moción consecuencia de interpelación urgente sobre las dificultades\nfiscales y económicas de la clase media y trabajadora.",
+        "type": "regular",
+        "nativeType": "ES-mocion"
+      },
+      "dateStart": "2026-03-24T19:00:00+01:00",
+      "dateEnd": "2026-03-24T19:09:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_167/cortes/15_000400_167_0_27129_770267.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1570267I",
+        "duration": 540.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_167_0_27129_770267",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Josep Maria Cruset Domènech",
+          "lastname": "Cruset Domènech",
+          "firstname": "Josep Maria",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Junts per Catalunya"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 35
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 173
+      },
+      "agendaItem": {
+        "title": "Moción consecuencia de interpelación urgente sobre las dificultades\nfiscales y económicas de la clase media y trabajadora.",
+        "officialTitle": "Moción consecuencia de interpelación urgente sobre las dificultades\nfiscales y económicas de la clase media y trabajadora.",
+        "type": "regular",
+        "nativeType": "ES-mocion"
+      },
+      "dateStart": "2026-03-24T19:09:00+01:00",
+      "dateEnd": "2026-03-24T19:15:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_167/cortes/15_000400_167_1_27130_770269.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1570269I",
+        "duration": 360.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_167_1_27130_770269",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Juan José Aizcorbe Torra",
+          "lastname": "Aizcorbe Torra",
+          "firstname": "Juan José",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario VOX"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 36
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 173
+      },
+      "agendaItem": {
+        "title": "Moción consecuencia de interpelación urgente sobre las dificultades\nfiscales y económicas de la clase media y trabajadora.",
+        "officialTitle": "Moción consecuencia de interpelación urgente sobre las dificultades\nfiscales y económicas de la clase media y trabajadora.",
+        "type": "regular",
+        "nativeType": "ES-mocion"
+      },
+      "dateStart": "2026-03-24T19:15:00+01:00",
+      "dateEnd": "2026-03-24T19:21:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_167/cortes/15_000400_167_1_27130_770273.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1570273I",
+        "duration": 360.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_167_1_27130_770273",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Àgueda Micó Micó",
+          "lastname": "Micó Micó",
+          "firstname": "Àgueda",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Mixto"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 37
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 173
+      },
+      "agendaItem": {
+        "title": "Moción consecuencia de interpelación urgente sobre las dificultades\nfiscales y económicas de la clase media y trabajadora.",
+        "officialTitle": "Moción consecuencia de interpelación urgente sobre las dificultades\nfiscales y económicas de la clase media y trabajadora.",
+        "type": "regular",
+        "nativeType": "ES-mocion"
+      },
+      "dateStart": "2026-03-24T19:21:00+01:00",
+      "dateEnd": "2026-03-24T19:27:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_167/cortes/15_000400_167_1_27130_770274.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1570274I",
+        "duration": 360.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_167_1_27130_770274",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Jordi Salvador i Duch",
+          "lastname": "Salvador i Duch",
+          "firstname": "Jordi",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Republicano"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 38
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 173
+      },
+      "agendaItem": {
+        "title": "Moción consecuencia de interpelación urgente sobre las dificultades\nfiscales y económicas de la clase media y trabajadora.",
+        "officialTitle": "Moción consecuencia de interpelación urgente sobre las dificultades\nfiscales y económicas de la clase media y trabajadora.",
+        "type": "regular",
+        "nativeType": "ES-mocion"
+      },
+      "dateStart": "2026-03-24T19:27:00+01:00",
+      "dateEnd": "2026-03-24T19:33:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_167/cortes/15_000400_167_1_27130_770275.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1570275I",
+        "duration": 360.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_167_1_27130_770275",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Carlos Martín Urriza",
+          "lastname": "Martín Urriza",
+          "firstname": "Carlos",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Plurinacional SUMAR"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 39
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 173
+      },
+      "agendaItem": {
+        "title": "Moción consecuencia de interpelación urgente sobre las dificultades\nfiscales y económicas de la clase media y trabajadora.",
+        "officialTitle": "Moción consecuencia de interpelación urgente sobre las dificultades\nfiscales y económicas de la clase media y trabajadora.",
+        "type": "regular",
+        "nativeType": "ES-mocion"
+      },
+      "dateStart": "2026-03-24T19:33:00+01:00",
+      "dateEnd": "2026-03-24T19:40:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_167/cortes/15_000400_167_1_27130_770276.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1570276I",
+        "duration": 420.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_167_1_27130_770276",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "María Mercè Perea i Conillas",
+          "lastname": "Perea i Conillas",
+          "firstname": "María Mercè",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Socialista"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 40
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 173
+      },
+      "agendaItem": {
+        "title": "Moción consecuencia de interpelación urgente sobre las dificultades\nfiscales y económicas de la clase media y trabajadora.",
+        "officialTitle": "Moción consecuencia de interpelación urgente sobre las dificultades\nfiscales y económicas de la clase media y trabajadora.",
+        "type": "regular",
+        "nativeType": "ES-mocion"
+      },
+      "dateStart": "2026-03-24T19:40:00+01:00",
+      "dateEnd": "2026-03-24T19:48:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_167/cortes/15_000400_167_1_27130_770277.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1570277I",
+        "duration": 480.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_167_1_27130_770277",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "María Mercedes Fernández González",
+          "lastname": "Fernández González",
+          "firstname": "María Mercedes",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Popular en el Congreso"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 41
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 173
+      },
+      "agendaItem": {
+        "title": "Moción consecuencia de interpelación urgente para dar cuenta de las\nmedidas que está poniendo en marcha el Gobierno para paliar las\nconsecuencias de la guerra en Irán sobre las familias y empresas\nespañolas.",
+        "officialTitle": "Moción consecuencia de interpelación urgente para dar cuenta de las\nmedidas que está poniendo en marcha el Gobierno para paliar las\nconsecuencias de la guerra en Irán sobre las familias y empresas\nespañolas.",
+        "type": "regular",
+        "nativeType": "ES-mocion"
+      },
+      "dateStart": "2026-03-24T19:48:00+01:00",
+      "dateEnd": "2026-03-24T19:57:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_167/cortes/15_000400_167_1_27130_770278.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1570278I",
+        "duration": 540.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_167_1_27130_770278",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Irene Garrido Valenzuela",
+          "lastname": "Garrido Valenzuela",
+          "firstname": "Irene",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Popular en el Congreso"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 42
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 173
+      },
+      "agendaItem": {
+        "title": "Moción consecuencia de interpelación urgente para dar cuenta de las\nmedidas que está poniendo en marcha el Gobierno para paliar las\nconsecuencias de la guerra en Irán sobre las familias y empresas\nespañolas.",
+        "officialTitle": "Moción consecuencia de interpelación urgente para dar cuenta de las\nmedidas que está poniendo en marcha el Gobierno para paliar las\nconsecuencias de la guerra en Irán sobre las familias y empresas\nespañolas.",
+        "type": "regular",
+        "nativeType": "ES-mocion"
+      },
+      "dateStart": "2026-03-24T19:57:00+01:00",
+      "dateEnd": "2026-03-24T20:03:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_167/cortes/15_000400_167_1_27130_770279.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1570279I",
+        "duration": 360.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_167_1_27130_770279",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Jacobo González-Robatto Perote",
+          "lastname": "González-Robatto Perote",
+          "firstname": "Jacobo",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario VOX"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 43
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 173
+      },
+      "agendaItem": {
+        "title": "Moción consecuencia de interpelación urgente para dar cuenta de las\nmedidas que está poniendo en marcha el Gobierno para paliar las\nconsecuencias de la guerra en Irán sobre las familias y empresas\nespañolas.",
+        "officialTitle": "Moción consecuencia de interpelación urgente para dar cuenta de las\nmedidas que está poniendo en marcha el Gobierno para paliar las\nconsecuencias de la guerra en Irán sobre las familias y empresas\nespañolas.",
+        "type": "regular",
+        "nativeType": "ES-mocion"
+      },
+      "dateStart": "2026-03-24T20:03:00+01:00",
+      "dateEnd": "2026-03-24T20:10:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_167/cortes/15_000400_167_1_27130_770280.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1570280I",
+        "duration": 420.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_167_1_27130_770280",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Néstor Rego Candamil",
+          "lastname": "Rego Candamil",
+          "firstname": "Néstor",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Mixto"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 44
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 173
+      },
+      "agendaItem": {
+        "title": "Moción consecuencia de interpelación urgente para dar cuenta de las\nmedidas que está poniendo en marcha el Gobierno para paliar las\nconsecuencias de la guerra en Irán sobre las familias y empresas\nespañolas.",
+        "officialTitle": "Moción consecuencia de interpelación urgente para dar cuenta de las\nmedidas que está poniendo en marcha el Gobierno para paliar las\nconsecuencias de la guerra en Irán sobre las familias y empresas\nespañolas.",
+        "type": "regular",
+        "nativeType": "ES-mocion"
+      },
+      "dateStart": "2026-03-24T20:10:00+01:00",
+      "dateEnd": "2026-03-24T20:16:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_167/cortes/15_000400_167_1_27130_770281.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1570281I",
+        "duration": 360.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_167_1_27130_770281",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Idoia Sagastizabal Unzetabarrenetxea",
+          "lastname": "Sagastizabal Unzetabarrenetxea",
+          "firstname": "Idoia",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Vasco (EAJ-PNV)"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 45
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 173
+      },
+      "agendaItem": {
+        "title": "Moción consecuencia de interpelación urgente para dar cuenta de las\nmedidas que está poniendo en marcha el Gobierno para paliar las\nconsecuencias de la guerra en Irán sobre las familias y empresas\nespañolas.",
+        "officialTitle": "Moción consecuencia de interpelación urgente para dar cuenta de las\nmedidas que está poniendo en marcha el Gobierno para paliar las\nconsecuencias de la guerra en Irán sobre las familias y empresas\nespañolas.",
+        "type": "regular",
+        "nativeType": "ES-mocion"
+      },
+      "dateStart": "2026-03-24T20:16:00+01:00",
+      "dateEnd": "2026-03-24T20:23:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_167/cortes/15_000400_167_1_27130_770282.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1570282I",
+        "duration": 420.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_167_1_27130_770282",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Teresa Jordà i Roura",
+          "lastname": "Jordà i Roura",
+          "firstname": "Teresa",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Republicano"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 46
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 173
+      },
+      "agendaItem": {
+        "title": "Moción consecuencia de interpelación urgente para dar cuenta de las\nmedidas que está poniendo en marcha el Gobierno para paliar las\nconsecuencias de la guerra en Irán sobre las familias y empresas\nespañolas.",
+        "officialTitle": "Moción consecuencia de interpelación urgente para dar cuenta de las\nmedidas que está poniendo en marcha el Gobierno para paliar las\nconsecuencias de la guerra en Irán sobre las familias y empresas\nespañolas.",
+        "type": "regular",
+        "nativeType": "ES-mocion"
+      },
+      "dateStart": "2026-03-24T20:23:00+01:00",
+      "dateEnd": "2026-03-24T20:31:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_167/cortes/15_000400_167_1_27130_770283.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1570283I",
+        "duration": 480.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_167_1_27130_770283",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Alberto Ibáñez Mezquita",
+          "lastname": "Ibáñez Mezquita",
+          "firstname": "Alberto",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Plurinacional SUMAR"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 47
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 173
+      },
+      "agendaItem": {
+        "title": "Moción consecuencia de interpelación urgente para dar cuenta de las\nmedidas que está poniendo en marcha el Gobierno para paliar las\nconsecuencias de la guerra en Irán sobre las familias y empresas\nespañolas.",
+        "officialTitle": "Moción consecuencia de interpelación urgente para dar cuenta de las\nmedidas que está poniendo en marcha el Gobierno para paliar las\nconsecuencias de la guerra en Irán sobre las familias y empresas\nespañolas.",
+        "type": "regular",
+        "nativeType": "ES-mocion"
+      },
+      "dateStart": "2026-03-24T20:31:00+01:00",
+      "dateEnd": "2026-03-24T20:37:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_167/cortes/15_000400_167_1_27130_770284.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1570284I",
+        "duration": 360.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_167_1_27130_770284",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Alberto Mayoral de Lamo",
+          "lastname": "Mayoral de Lamo",
+          "firstname": "Alberto",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Socialista"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 48
+    }
+  ]
+}

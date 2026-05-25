@@ -1,0 +1,2162 @@
+{
+  "meta": {
+    "session": "15106",
+    "processing": {
+      "parse_media": "2026-05-23T07:17:41"
+    },
+    "dateStart": "2025-03-25T15:03:00+01:00",
+    "dateEnd": "2025-03-25T21:11:00+01:00"
+  },
+  "data": [
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 106
+      },
+      "agendaItem": {
+        "title": "Proyecto de Ley de transparencia e integridad de las actividades de\nlos grupos de interés.",
+        "officialTitle": "Proyecto de Ley de transparencia e integridad de las actividades de\nlos grupos de interés.",
+        "type": "regular",
+        "nativeType": "ES-ley"
+      },
+      "dateStart": "2025-03-25T15:03:00+01:00",
+      "dateEnd": "2025-03-25T15:12:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_102/cortes/15_000400_102_0_25933_750331.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1550331I",
+        "duration": 540.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_102_0_25933_750331",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Óscar López Águeda",
+          "lastname": "López Águeda",
+          "firstname": "Óscar",
+          "type": "member of government",
+          "role": "Ministro para la Transformación Digital y de la Función Pública"
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 1
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 106
+      },
+      "agendaItem": {
+        "title": "Proyecto de Ley de transparencia e integridad de las actividades de\nlos grupos de interés.",
+        "officialTitle": "Proyecto de Ley de transparencia e integridad de las actividades de\nlos grupos de interés.",
+        "type": "regular",
+        "nativeType": "ES-ley"
+      },
+      "dateStart": "2025-03-25T15:12:00+01:00",
+      "dateEnd": "2025-03-25T15:26:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_102/cortes/15_000400_102_0_25933_750332.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1550332I",
+        "duration": 840.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_102_0_25933_750332",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "José María Sánchez García",
+          "lastname": "Sánchez García",
+          "firstname": "José María",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario VOX"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 2
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 106
+      },
+      "agendaItem": {
+        "title": "Proyecto de Ley de transparencia e integridad de las actividades de\nlos grupos de interés.",
+        "officialTitle": "Proyecto de Ley de transparencia e integridad de las actividades de\nlos grupos de interés.",
+        "type": "regular",
+        "nativeType": "ES-ley"
+      },
+      "dateStart": "2025-03-25T15:26:00+01:00",
+      "dateEnd": "2025-03-25T15:27:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_102/cortes/15_000400_102_0_25933_750333.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1550333I",
+        "duration": 60.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_102_0_25933_750333",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Montse Mínguez García",
+          "lastname": "Mínguez García",
+          "firstname": "Montse",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Socialista"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 3
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 106
+      },
+      "agendaItem": {
+        "title": "Proyecto de Ley de transparencia e integridad de las actividades de\nlos grupos de interés.",
+        "officialTitle": "Proyecto de Ley de transparencia e integridad de las actividades de\nlos grupos de interés.",
+        "type": "regular",
+        "nativeType": "ES-ley"
+      },
+      "dateStart": "2025-03-25T15:27:00+01:00",
+      "dateEnd": "2025-03-25T15:32:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_102/cortes/15_000400_102_0_25933_750334.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1550334I",
+        "duration": 300.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_102_0_25933_750334",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Néstor Rego Candamil",
+          "lastname": "Rego Candamil",
+          "firstname": "Néstor",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Mixto"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 4
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 106
+      },
+      "agendaItem": {
+        "title": "Proyecto de Ley de transparencia e integridad de las actividades de\nlos grupos de interés.",
+        "officialTitle": "Proyecto de Ley de transparencia e integridad de las actividades de\nlos grupos de interés.",
+        "type": "regular",
+        "nativeType": "ES-ley"
+      },
+      "dateStart": "2025-03-25T15:32:00+01:00",
+      "dateEnd": "2025-03-25T15:38:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_102/cortes/15_000400_102_0_25933_750335.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1550335I",
+        "duration": 360.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_102_0_25933_750335",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Martina Velarde Gómez",
+          "lastname": "Velarde Gómez",
+          "firstname": "Martina",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Mixto"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 5
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 106
+      },
+      "agendaItem": {
+        "title": "Proyecto de Ley de transparencia e integridad de las actividades de\nlos grupos de interés.",
+        "officialTitle": "Proyecto de Ley de transparencia e integridad de las actividades de\nlos grupos de interés.",
+        "type": "regular",
+        "nativeType": "ES-ley"
+      },
+      "dateStart": "2025-03-25T15:38:00+01:00",
+      "dateEnd": "2025-03-25T15:41:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_102/cortes/15_000400_102_0_25933_750336.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1550336I",
+        "duration": 180.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_102_0_25933_750336",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Mikel Legarda Uriarte",
+          "lastname": "Legarda Uriarte",
+          "firstname": "Mikel",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Vasco (EAJ-PNV)"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 6
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 106
+      },
+      "agendaItem": {
+        "title": "Proyecto de Ley de transparencia e integridad de las actividades de\nlos grupos de interés.",
+        "officialTitle": "Proyecto de Ley de transparencia e integridad de las actividades de\nlos grupos de interés.",
+        "type": "regular",
+        "nativeType": "ES-ley"
+      },
+      "dateStart": "2025-03-25T15:41:00+01:00",
+      "dateEnd": "2025-03-25T15:48:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_102/cortes/15_000400_102_0_25933_750337.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1550337I",
+        "duration": 420.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_102_0_25933_750337",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Francesc-Marc Álvaro Vidal",
+          "lastname": "Álvaro Vidal",
+          "firstname": "Francesc-Marc",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Republicano"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 7
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 106
+      },
+      "agendaItem": {
+        "title": "Proyecto de Ley de transparencia e integridad de las actividades de\nlos grupos de interés.",
+        "officialTitle": "Proyecto de Ley de transparencia e integridad de las actividades de\nlos grupos de interés.",
+        "type": "regular",
+        "nativeType": "ES-ley"
+      },
+      "dateStart": "2025-03-25T15:48:00+01:00",
+      "dateEnd": "2025-03-25T15:58:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_102/cortes/15_000400_102_0_25933_750338.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1550338I",
+        "duration": 600.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_102_0_25933_750338",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Francisco Sierra Caballero",
+          "lastname": "Sierra Caballero",
+          "firstname": "Francisco",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Plurinacional SUMAR"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 8
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 106
+      },
+      "agendaItem": {
+        "title": "Proyecto de Ley de transparencia e integridad de las actividades de\nlos grupos de interés.",
+        "officialTitle": "Proyecto de Ley de transparencia e integridad de las actividades de\nlos grupos de interés.",
+        "type": "regular",
+        "nativeType": "ES-ley"
+      },
+      "dateStart": "2025-03-25T15:58:00+01:00",
+      "dateEnd": "2025-03-25T16:07:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_102/cortes/15_000400_102_0_25933_750339.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1550339I",
+        "duration": 540.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_102_0_25933_750339",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "José Luis Aceves Galindo",
+          "lastname": "Aceves Galindo",
+          "firstname": "José Luis",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Socialista"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 9
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 106
+      },
+      "agendaItem": {
+        "title": "Proyecto de Ley de transparencia e integridad de las actividades de\nlos grupos de interés.",
+        "officialTitle": "Proyecto de Ley de transparencia e integridad de las actividades de\nlos grupos de interés.",
+        "type": "regular",
+        "nativeType": "ES-ley"
+      },
+      "dateStart": "2025-03-25T16:07:00+01:00",
+      "dateEnd": "2025-03-25T16:15:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_102/cortes/15_000400_102_0_25933_750340.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1550340I",
+        "duration": 480.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_102_0_25933_750340",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Ángel Ibáñez Hernando",
+          "lastname": "Ibáñez Hernando",
+          "firstname": "Ángel",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Popular en el Congreso"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 10
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 106
+      },
+      "agendaItem": {
+        "title": "Proyecto de Ley de transparencia e integridad de las actividades de\nlos grupos de interés.",
+        "officialTitle": "Proyecto de Ley de transparencia e integridad de las actividades de\nlos grupos de interés.",
+        "type": "regular",
+        "nativeType": "ES-ley"
+      },
+      "dateStart": "2025-03-25T16:15:00+01:00",
+      "dateEnd": "2025-03-25T16:16:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_102/cortes/15_000400_102_0_25933_750341.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1550341I",
+        "duration": 60.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_102_0_25933_750341",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Óscar López Águeda",
+          "lastname": "López Águeda",
+          "firstname": "Óscar",
+          "type": "member of government",
+          "role": "Ministro para la Transformación Digital y de la Función Pública"
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 11
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 106
+      },
+      "agendaItem": {
+        "title": "Proposición de Ley Orgánica para garantizar el funcionamiento de las\nsecciones de los Tribunales de Instancia y de las Audiencias provinciales\nen materia de violencia sobre la mujer, así como la especialización de\nlos jueces y magistrados destinados en ellas.",
+        "officialTitle": "Proposición de Ley Orgánica para garantizar el funcionamiento de las\nsecciones de los Tribunales de Instancia y de las Audiencias provinciales\nen materia de violencia sobre la mujer, así como la especialización de\nlos jueces y magistrados destinados en ellas.",
+        "type": "regular",
+        "nativeType": "ES-ley"
+      },
+      "dateStart": "2025-03-25T16:16:00+01:00",
+      "dateEnd": "2025-03-25T16:29:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_102/cortes/15_000400_102_0_25933_750344.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1550344I",
+        "duration": 780.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_102_0_25933_750344",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Patricia Rodríguez Calleja",
+          "lastname": "Rodríguez Calleja",
+          "firstname": "Patricia",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Popular en el Congreso"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 12
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 106
+      },
+      "agendaItem": {
+        "title": "Proposición de Ley Orgánica para garantizar el funcionamiento de las\nsecciones de los Tribunales de Instancia y de las Audiencias provinciales\nen materia de violencia sobre la mujer, así como la especialización de\nlos jueces y magistrados destinados en ellas.",
+        "officialTitle": "Proposición de Ley Orgánica para garantizar el funcionamiento de las\nsecciones de los Tribunales de Instancia y de las Audiencias provinciales\nen materia de violencia sobre la mujer, así como la especialización de\nlos jueces y magistrados destinados en ellas.",
+        "type": "regular",
+        "nativeType": "ES-ley"
+      },
+      "dateStart": "2025-03-25T16:29:00+01:00",
+      "dateEnd": "2025-03-25T16:33:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_102/cortes/15_000400_102_0_25933_750345.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1550345I",
+        "duration": 240.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_102_0_25933_750345",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Néstor Rego Candamil",
+          "lastname": "Rego Candamil",
+          "firstname": "Néstor",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Mixto"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 13
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 106
+      },
+      "agendaItem": {
+        "title": "Proposición de Ley Orgánica para garantizar el funcionamiento de las\nsecciones de los Tribunales de Instancia y de las Audiencias provinciales\nen materia de violencia sobre la mujer, así como la especialización de\nlos jueces y magistrados destinados en ellas.",
+        "officialTitle": "Proposición de Ley Orgánica para garantizar el funcionamiento de las\nsecciones de los Tribunales de Instancia y de las Audiencias provinciales\nen materia de violencia sobre la mujer, así como la especialización de\nlos jueces y magistrados destinados en ellas.",
+        "type": "regular",
+        "nativeType": "ES-ley"
+      },
+      "dateStart": "2025-03-25T16:33:00+01:00",
+      "dateEnd": "2025-03-25T16:37:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_102/cortes/15_000400_102_0_25933_750346.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1550346I",
+        "duration": 240.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_102_0_25933_750346",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Noemí Santana Perera",
+          "lastname": "Santana Perera",
+          "firstname": "Noemí",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Mixto"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 14
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 106
+      },
+      "agendaItem": {
+        "title": "Proposición de Ley Orgánica para garantizar el funcionamiento de las\nsecciones de los Tribunales de Instancia y de las Audiencias provinciales\nen materia de violencia sobre la mujer, así como la especialización de\nlos jueces y magistrados destinados en ellas.",
+        "officialTitle": "Proposición de Ley Orgánica para garantizar el funcionamiento de las\nsecciones de los Tribunales de Instancia y de las Audiencias provinciales\nen materia de violencia sobre la mujer, así como la especialización de\nlos jueces y magistrados destinados en ellas.",
+        "type": "regular",
+        "nativeType": "ES-ley"
+      },
+      "dateStart": "2025-03-25T16:37:00+01:00",
+      "dateEnd": "2025-03-25T16:44:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_102/cortes/15_000400_102_0_25933_750347.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1550347I",
+        "duration": 420.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_102_0_25933_750347",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Mikel Legarda Uriarte",
+          "lastname": "Legarda Uriarte",
+          "firstname": "Mikel",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Vasco (EAJ-PNV)"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 15
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 106
+      },
+      "agendaItem": {
+        "title": "Proposición de Ley Orgánica para garantizar el funcionamiento de las\nsecciones de los Tribunales de Instancia y de las Audiencias provinciales\nen materia de violencia sobre la mujer, así como la especialización de\nlos jueces y magistrados destinados en ellas.",
+        "officialTitle": "Proposición de Ley Orgánica para garantizar el funcionamiento de las\nsecciones de los Tribunales de Instancia y de las Audiencias provinciales\nen materia de violencia sobre la mujer, así como la especialización de\nlos jueces y magistrados destinados en ellas.",
+        "type": "regular",
+        "nativeType": "ES-ley"
+      },
+      "dateStart": "2025-03-25T16:44:00+01:00",
+      "dateEnd": "2025-03-25T16:50:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_102/cortes/15_000400_102_0_25933_750348.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1550348I",
+        "duration": 360.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_102_0_25933_750348",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Isabel Pozueta Fernández",
+          "lastname": "Pozueta Fernández",
+          "firstname": "Isabel",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Euskal Herria Bildu"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 16
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 106
+      },
+      "agendaItem": {
+        "title": "Proposición de Ley Orgánica para garantizar el funcionamiento de las\nsecciones de los Tribunales de Instancia y de las Audiencias provinciales\nen materia de violencia sobre la mujer, así como la especialización de\nlos jueces y magistrados destinados en ellas.",
+        "officialTitle": "Proposición de Ley Orgánica para garantizar el funcionamiento de las\nsecciones de los Tribunales de Instancia y de las Audiencias provinciales\nen materia de violencia sobre la mujer, así como la especialización de\nlos jueces y magistrados destinados en ellas.",
+        "type": "regular",
+        "nativeType": "ES-ley"
+      },
+      "dateStart": "2025-03-25T16:50:00+01:00",
+      "dateEnd": "2025-03-25T16:58:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_102/cortes/15_000400_102_0_25933_750349.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1550349I",
+        "duration": 480.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_102_0_25933_750349",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Josep Pagès i Massó",
+          "lastname": "Pagès i Massó",
+          "firstname": "Josep",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Junts per Catalunya"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 17
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 106
+      },
+      "agendaItem": {
+        "title": "Proposición de Ley Orgánica para garantizar el funcionamiento de las\nsecciones de los Tribunales de Instancia y de las Audiencias provinciales\nen materia de violencia sobre la mujer, así como la especialización de\nlos jueces y magistrados destinados en ellas.",
+        "officialTitle": "Proposición de Ley Orgánica para garantizar el funcionamiento de las\nsecciones de los Tribunales de Instancia y de las Audiencias provinciales\nen materia de violencia sobre la mujer, así como la especialización de\nlos jueces y magistrados destinados en ellas.",
+        "type": "regular",
+        "nativeType": "ES-ley"
+      },
+      "dateStart": "2025-03-25T16:58:00+01:00",
+      "dateEnd": "2025-03-25T17:06:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_102/cortes/15_000400_102_0_25933_750350.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1550350I",
+        "duration": 480.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_102_0_25933_750350",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Esther Gil de Reboleño Lastortres",
+          "lastname": "Gil de Reboleño Lastortres",
+          "firstname": "Esther",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Plurinacional SUMAR"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 18
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 106
+      },
+      "agendaItem": {
+        "title": "Proposición de Ley Orgánica para garantizar el funcionamiento de las\nsecciones de los Tribunales de Instancia y de las Audiencias provinciales\nen materia de violencia sobre la mujer, así como la especialización de\nlos jueces y magistrados destinados en ellas.",
+        "officialTitle": "Proposición de Ley Orgánica para garantizar el funcionamiento de las\nsecciones de los Tribunales de Instancia y de las Audiencias provinciales\nen materia de violencia sobre la mujer, así como la especialización de\nlos jueces y magistrados destinados en ellas.",
+        "type": "regular",
+        "nativeType": "ES-ley"
+      },
+      "dateStart": "2025-03-25T17:06:00+01:00",
+      "dateEnd": "2025-03-25T17:15:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_102/cortes/15_000400_102_0_25933_750351.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1550351I",
+        "duration": 540.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_102_0_25933_750351",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Rocío Aguirre Gil de Biedma",
+          "lastname": "Aguirre Gil de Biedma",
+          "firstname": "Rocío",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario VOX"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 19
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 106
+      },
+      "agendaItem": {
+        "title": "Proposición de Ley Orgánica para garantizar el funcionamiento de las\nsecciones de los Tribunales de Instancia y de las Audiencias provinciales\nen materia de violencia sobre la mujer, así como la especialización de\nlos jueces y magistrados destinados en ellas.",
+        "officialTitle": "Proposición de Ley Orgánica para garantizar el funcionamiento de las\nsecciones de los Tribunales de Instancia y de las Audiencias provinciales\nen materia de violencia sobre la mujer, así como la especialización de\nlos jueces y magistrados destinados en ellas.",
+        "type": "regular",
+        "nativeType": "ES-ley"
+      },
+      "dateStart": "2025-03-25T17:15:00+01:00",
+      "dateEnd": "2025-03-25T17:24:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_102/cortes/15_000400_102_0_25933_750352.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1550352I",
+        "duration": 540.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_102_0_25933_750352",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Alicia Álvarez González",
+          "lastname": "Álvarez González",
+          "firstname": "Alicia",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Socialista"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 20
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 106
+      },
+      "agendaItem": {
+        "title": "Proposición de Ley por la que se modifica la Ley 1/2005, de 9 de\nmarzo, por la que se regula el régimen del comercio de derechos de\nemisión de gases de efecto invernadero.",
+        "officialTitle": "Proposición de Ley por la que se modifica la Ley 1/2005, de 9 de\nmarzo, por la que se regula el régimen del comercio de derechos de\nemisión de gases de efecto invernadero.",
+        "type": "regular",
+        "nativeType": "ES-ley"
+      },
+      "dateStart": "2025-03-25T17:25:00+01:00",
+      "dateEnd": "2025-03-25T17:37:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_102/cortes/15_000400_102_0_25933_750354.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1550354I",
+        "duration": 720.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_102_0_25933_750354",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "María de las Nieves Ramírez Moreno",
+          "lastname": "Ramírez Moreno",
+          "firstname": "María de las Nieves",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Socialista"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 21
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 106
+      },
+      "agendaItem": {
+        "title": "Proposición de Ley por la que se modifica la Ley 1/2005, de 9 de\nmarzo, por la que se regula el régimen del comercio de derechos de\nemisión de gases de efecto invernadero.",
+        "officialTitle": "Proposición de Ley por la que se modifica la Ley 1/2005, de 9 de\nmarzo, por la que se regula el régimen del comercio de derechos de\nemisión de gases de efecto invernadero.",
+        "type": "regular",
+        "nativeType": "ES-ley"
+      },
+      "dateStart": "2025-03-25T17:37:00+01:00",
+      "dateEnd": "2025-03-25T17:48:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_102/cortes/15_000400_102_0_25933_750355.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1550355I",
+        "duration": 660.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_102_0_25933_750355",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "José María Figaredo Álvarez-Sala",
+          "lastname": "Figaredo Álvarez-Sala",
+          "firstname": "José María",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario VOX"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 22
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 106
+      },
+      "agendaItem": {
+        "title": "Proposición de Ley por la que se modifica la Ley 1/2005, de 9 de\nmarzo, por la que se regula el régimen del comercio de derechos de\nemisión de gases de efecto invernadero.",
+        "officialTitle": "Proposición de Ley por la que se modifica la Ley 1/2005, de 9 de\nmarzo, por la que se regula el régimen del comercio de derechos de\nemisión de gases de efecto invernadero.",
+        "type": "regular",
+        "nativeType": "ES-ley"
+      },
+      "dateStart": "2025-03-25T17:48:00+01:00",
+      "dateEnd": "2025-03-25T17:51:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_102/cortes/15_000400_102_0_25933_750356.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1550356I",
+        "duration": 180.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_102_0_25933_750356",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "María de las Nieves Ramírez Moreno",
+          "lastname": "Ramírez Moreno",
+          "firstname": "María de las Nieves",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Socialista"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 23
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 106
+      },
+      "agendaItem": {
+        "title": "Proposición de Ley por la que se modifica la Ley 1/2005, de 9 de\nmarzo, por la que se regula el régimen del comercio de derechos de\nemisión de gases de efecto invernadero.",
+        "officialTitle": "Proposición de Ley por la que se modifica la Ley 1/2005, de 9 de\nmarzo, por la que se regula el régimen del comercio de derechos de\nemisión de gases de efecto invernadero.",
+        "type": "regular",
+        "nativeType": "ES-ley"
+      },
+      "dateStart": "2025-03-25T17:51:00+01:00",
+      "dateEnd": "2025-03-25T17:57:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_102/cortes/15_000400_102_0_25933_750357.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1550357I",
+        "duration": 360.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_102_0_25933_750357",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "José María Figaredo Álvarez-Sala",
+          "lastname": "Figaredo Álvarez-Sala",
+          "firstname": "José María",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario VOX"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 24
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 106
+      },
+      "agendaItem": {
+        "title": "Proposición de Ley por la que se modifica la Ley 1/2005, de 9 de\nmarzo, por la que se regula el régimen del comercio de derechos de\nemisión de gases de efecto invernadero.",
+        "officialTitle": "Proposición de Ley por la que se modifica la Ley 1/2005, de 9 de\nmarzo, por la que se regula el régimen del comercio de derechos de\nemisión de gases de efecto invernadero.",
+        "type": "regular",
+        "nativeType": "ES-ley"
+      },
+      "dateStart": "2025-03-25T17:57:00+01:00",
+      "dateEnd": "2025-03-25T18:04:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_102/cortes/15_000400_102_0_25933_750358.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1550358I",
+        "duration": 420.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_102_0_25933_750358",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Javier Sánchez Serna",
+          "lastname": "Sánchez Serna",
+          "firstname": "Javier",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Mixto"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 25
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 106
+      },
+      "agendaItem": {
+        "title": "Proposición de Ley por la que se modifica la Ley 1/2005, de 9 de\nmarzo, por la que se regula el régimen del comercio de derechos de\nemisión de gases de efecto invernadero.",
+        "officialTitle": "Proposición de Ley por la que se modifica la Ley 1/2005, de 9 de\nmarzo, por la que se regula el régimen del comercio de derechos de\nemisión de gases de efecto invernadero.",
+        "type": "regular",
+        "nativeType": "ES-ley"
+      },
+      "dateStart": "2025-03-25T18:04:00+01:00",
+      "dateEnd": "2025-03-25T18:10:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_102/cortes/15_000400_102_0_25933_750359.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1550359I",
+        "duration": 360.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_102_0_25933_750359",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Idoia Sagastizabal Unzetabarrenetxea",
+          "lastname": "Sagastizabal Unzetabarrenetxea",
+          "firstname": "Idoia",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Vasco (EAJ-PNV)"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 26
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 106
+      },
+      "agendaItem": {
+        "title": "Proposición de Ley por la que se modifica la Ley 1/2005, de 9 de\nmarzo, por la que se regula el régimen del comercio de derechos de\nemisión de gases de efecto invernadero.",
+        "officialTitle": "Proposición de Ley por la que se modifica la Ley 1/2005, de 9 de\nmarzo, por la que se regula el régimen del comercio de derechos de\nemisión de gases de efecto invernadero.",
+        "type": "regular",
+        "nativeType": "ES-ley"
+      },
+      "dateStart": "2025-03-25T18:10:00+01:00",
+      "dateEnd": "2025-03-25T18:19:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_102/cortes/15_000400_102_0_25933_750360.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1550360I",
+        "duration": 540.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_102_0_25933_750360",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Mikel Otero Gabirondo",
+          "lastname": "Otero Gabirondo",
+          "firstname": "Mikel",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Euskal Herria Bildu"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 27
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 106
+      },
+      "agendaItem": {
+        "title": "Proposición de Ley por la que se modifica la Ley 1/2005, de 9 de\nmarzo, por la que se regula el régimen del comercio de derechos de\nemisión de gases de efecto invernadero.",
+        "officialTitle": "Proposición de Ley por la que se modifica la Ley 1/2005, de 9 de\nmarzo, por la que se regula el régimen del comercio de derechos de\nemisión de gases de efecto invernadero.",
+        "type": "regular",
+        "nativeType": "ES-ley"
+      },
+      "dateStart": "2025-03-25T18:19:00+01:00",
+      "dateEnd": "2025-03-25T18:24:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_102/cortes/15_000400_102_1_25935_750366.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1550366I",
+        "duration": 300.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_102_1_25935_750366",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Pilar Calvo Gómez",
+          "lastname": "Calvo Gómez",
+          "firstname": "Pilar",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Junts per Catalunya"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 28
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 106
+      },
+      "agendaItem": {
+        "title": "Proposición de Ley por la que se modifica la Ley 1/2005, de 9 de\nmarzo, por la que se regula el régimen del comercio de derechos de\nemisión de gases de efecto invernadero.",
+        "officialTitle": "Proposición de Ley por la que se modifica la Ley 1/2005, de 9 de\nmarzo, por la que se regula el régimen del comercio de derechos de\nemisión de gases de efecto invernadero.",
+        "type": "regular",
+        "nativeType": "ES-ley"
+      },
+      "dateStart": "2025-03-25T18:24:00+01:00",
+      "dateEnd": "2025-03-25T18:31:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_102/cortes/15_000400_102_1_25935_750367.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1550367I",
+        "duration": 420.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_102_1_25935_750367",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Teresa Jordà i Roura",
+          "lastname": "Jordà i Roura",
+          "firstname": "Teresa",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Republicano"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 29
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 106
+      },
+      "agendaItem": {
+        "title": "Proposición de Ley por la que se modifica la Ley 1/2005, de 9 de\nmarzo, por la que se regula el régimen del comercio de derechos de\nemisión de gases de efecto invernadero.",
+        "officialTitle": "Proposición de Ley por la que se modifica la Ley 1/2005, de 9 de\nmarzo, por la que se regula el régimen del comercio de derechos de\nemisión de gases de efecto invernadero.",
+        "type": "regular",
+        "nativeType": "ES-ley"
+      },
+      "dateStart": "2025-03-25T18:31:00+01:00",
+      "dateEnd": "2025-03-25T18:38:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_102/cortes/15_000400_102_1_25935_750368.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1550368I",
+        "duration": 420.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_102_1_25935_750368",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Júlia Boada Danés",
+          "lastname": "Boada Danés",
+          "firstname": "Júlia",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Plurinacional SUMAR"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 30
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 106
+      },
+      "agendaItem": {
+        "title": "Proposición de Ley por la que se modifica la Ley 1/2005, de 9 de\nmarzo, por la que se regula el régimen del comercio de derechos de\nemisión de gases de efecto invernadero.",
+        "officialTitle": "Proposición de Ley por la que se modifica la Ley 1/2005, de 9 de\nmarzo, por la que se regula el régimen del comercio de derechos de\nemisión de gases de efecto invernadero.",
+        "type": "regular",
+        "nativeType": "ES-ley"
+      },
+      "dateStart": "2025-03-25T18:38:00+01:00",
+      "dateEnd": "2025-03-25T18:46:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_102/cortes/15_000400_102_1_25935_750369.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1550369I",
+        "duration": 480.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_102_1_25935_750369",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Guillermo Mariscal Anaya",
+          "lastname": "Mariscal Anaya",
+          "firstname": "Guillermo",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Popular en el Congreso"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 31
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 106
+      },
+      "agendaItem": {
+        "title": "Proposición no de Ley relativa al acceso al bono social.",
+        "officialTitle": "Proposición no de Ley relativa al acceso al bono social.",
+        "type": "regular"
+      },
+      "dateStart": "2025-03-25T18:46:00+01:00",
+      "dateEnd": "2025-03-25T18:52:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_102/cortes/15_000400_102_1_25935_750372.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1550372I",
+        "duration": 360.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_102_1_25935_750372",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Idoia Sagastizabal Unzetabarrenetxea",
+          "lastname": "Sagastizabal Unzetabarrenetxea",
+          "firstname": "Idoia",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Vasco (EAJ-PNV)"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 32
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 106
+      },
+      "agendaItem": {
+        "title": "Proposición no de Ley relativa al acceso al bono social.",
+        "officialTitle": "Proposición no de Ley relativa al acceso al bono social.",
+        "type": "regular"
+      },
+      "dateStart": "2025-03-25T18:52:00+01:00",
+      "dateEnd": "2025-03-25T18:58:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_102/cortes/15_000400_102_1_25935_750373.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1550373I",
+        "duration": 360.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_102_1_25935_750373",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Josep Maria Cruset Domènech",
+          "lastname": "Cruset Domènech",
+          "firstname": "Josep Maria",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Junts per Catalunya"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 33
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 106
+      },
+      "agendaItem": {
+        "title": "Proposición no de Ley relativa al acceso al bono social.",
+        "officialTitle": "Proposición no de Ley relativa al acceso al bono social.",
+        "type": "regular"
+      },
+      "dateStart": "2025-03-25T18:58:00+01:00",
+      "dateEnd": "2025-03-25T19:04:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_102/cortes/15_000400_102_1_25935_750374.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1550374I",
+        "duration": 360.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_102_1_25935_750374",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Juan José Aizcorbe Torra",
+          "lastname": "Aizcorbe Torra",
+          "firstname": "Juan José",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario VOX"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 34
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 106
+      },
+      "agendaItem": {
+        "title": "Proposición no de Ley relativa al acceso al bono social.",
+        "officialTitle": "Proposición no de Ley relativa al acceso al bono social.",
+        "type": "regular"
+      },
+      "dateStart": "2025-03-25T19:04:00+01:00",
+      "dateEnd": "2025-03-25T19:11:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_102/cortes/15_000400_102_1_25935_750375.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1550375I",
+        "duration": 420.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_102_1_25935_750375",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Oskar Matute García de Jalón",
+          "lastname": "Matute García de Jalón",
+          "firstname": "Oskar",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Euskal Herria Bildu"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 35
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 106
+      },
+      "agendaItem": {
+        "title": "Proposición no de Ley relativa al acceso al bono social.",
+        "officialTitle": "Proposición no de Ley relativa al acceso al bono social.",
+        "type": "regular"
+      },
+      "dateStart": "2025-03-25T19:11:00+01:00",
+      "dateEnd": "2025-03-25T19:16:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_102/cortes/15_000400_102_1_25935_750376.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1550376I",
+        "duration": 300.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_102_1_25935_750376",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Jordi Salvador i Duch",
+          "lastname": "Salvador i Duch",
+          "firstname": "Jordi",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Republicano"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 36
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 106
+      },
+      "agendaItem": {
+        "title": "Proposición no de Ley relativa al acceso al bono social.",
+        "officialTitle": "Proposición no de Ley relativa al acceso al bono social.",
+        "type": "regular"
+      },
+      "dateStart": "2025-03-25T19:16:00+01:00",
+      "dateEnd": "2025-03-25T19:22:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_102/cortes/15_000400_102_1_25935_750377.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1550377I",
+        "duration": 360.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_102_1_25935_750377",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Eloi Badia Casas",
+          "lastname": "Badia Casas",
+          "firstname": "Eloi",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Plurinacional SUMAR"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 37
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 106
+      },
+      "agendaItem": {
+        "title": "Proposición no de Ley relativa al acceso al bono social.",
+        "officialTitle": "Proposición no de Ley relativa al acceso al bono social.",
+        "type": "regular"
+      },
+      "dateStart": "2025-03-25T19:22:00+01:00",
+      "dateEnd": "2025-03-25T19:29:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_102/cortes/15_000400_102_1_25935_750378.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1550378I",
+        "duration": 420.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_102_1_25935_750378",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Amador Marqués Atés",
+          "lastname": "Marqués Atés",
+          "firstname": "Amador",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Socialista"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 38
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 106
+      },
+      "agendaItem": {
+        "title": "Proposición no de Ley relativa al acceso al bono social.",
+        "officialTitle": "Proposición no de Ley relativa al acceso al bono social.",
+        "type": "regular"
+      },
+      "dateStart": "2025-03-25T19:29:00+01:00",
+      "dateEnd": "2025-03-25T19:35:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_102/cortes/15_000400_102_1_25935_750379.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1550379I",
+        "duration": 360.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_102_1_25935_750379",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Beatriz Álvarez Fanjul",
+          "lastname": "Álvarez Fanjul",
+          "firstname": "Beatriz",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Popular en el Congreso"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 39
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 106
+      },
+      "agendaItem": {
+        "title": "Proposición no de Ley relativa a la posición de España y la Unión\nEuropea respecto al desmantelamiento de la cooperación al desarrollo a\nnivel internacional y sus graves consecuencias para millones de personas\nen situaciones extremas en todo el mundo.",
+        "officialTitle": "Proposición no de Ley relativa a la posición de España y la Unión\nEuropea respecto al desmantelamiento de la cooperación al desarrollo a\nnivel internacional y sus graves consecuencias para millones de personas\nen situaciones extremas en todo el mundo.",
+        "type": "regular"
+      },
+      "dateStart": "2025-03-25T19:36:00+01:00",
+      "dateEnd": "2025-03-25T19:44:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_102/cortes/15_000400_102_1_25935_750381.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1550381I",
+        "duration": 480.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_102_1_25935_750381",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "María Guijarro Ceballos",
+          "lastname": "Guijarro Ceballos",
+          "firstname": "María",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Socialista"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 40
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 106
+      },
+      "agendaItem": {
+        "title": "Proposición no de Ley relativa a la posición de España y la Unión\nEuropea respecto al desmantelamiento de la cooperación al desarrollo a\nnivel internacional y sus graves consecuencias para millones de personas\nen situaciones extremas en todo el mundo.",
+        "officialTitle": "Proposición no de Ley relativa a la posición de España y la Unión\nEuropea respecto al desmantelamiento de la cooperación al desarrollo a\nnivel internacional y sus graves consecuencias para millones de personas\nen situaciones extremas en todo el mundo.",
+        "type": "regular"
+      },
+      "dateStart": "2025-03-25T19:44:00+01:00",
+      "dateEnd": "2025-03-25T19:50:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_102/cortes/15_000400_102_1_25935_750382.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1550382I",
+        "duration": 360.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_102_1_25935_750382",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Maribel Vaquero Montero",
+          "lastname": "Vaquero Montero",
+          "firstname": "Maribel",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Vasco (EAJ-PNV)"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 41
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 106
+      },
+      "agendaItem": {
+        "title": "Proposición no de Ley relativa a la posición de España y la Unión\nEuropea respecto al desmantelamiento de la cooperación al desarrollo a\nnivel internacional y sus graves consecuencias para millones de personas\nen situaciones extremas en todo el mundo.",
+        "officialTitle": "Proposición no de Ley relativa a la posición de España y la Unión\nEuropea respecto al desmantelamiento de la cooperación al desarrollo a\nnivel internacional y sus graves consecuencias para millones de personas\nen situaciones extremas en todo el mundo.",
+        "type": "regular"
+      },
+      "dateStart": "2025-03-25T19:50:00+01:00",
+      "dateEnd": "2025-03-25T19:55:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_102/cortes/15_000400_102_1_25935_750383.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1550383I",
+        "duration": 300.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_102_1_25935_750383",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Cristina Valido García",
+          "lastname": "Valido García",
+          "firstname": "Cristina",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Mixto"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 42
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 106
+      },
+      "agendaItem": {
+        "title": "Proposición no de Ley relativa a la posición de España y la Unión\nEuropea respecto al desmantelamiento de la cooperación al desarrollo a\nnivel internacional y sus graves consecuencias para millones de personas\nen situaciones extremas en todo el mundo.",
+        "officialTitle": "Proposición no de Ley relativa a la posición de España y la Unión\nEuropea respecto al desmantelamiento de la cooperación al desarrollo a\nnivel internacional y sus graves consecuencias para millones de personas\nen situaciones extremas en todo el mundo.",
+        "type": "regular"
+      },
+      "dateStart": "2025-03-25T19:55:00+01:00",
+      "dateEnd": "2025-03-25T20:02:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_102/cortes/15_000400_102_1_25935_750384.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1550384I",
+        "duration": 420.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_102_1_25935_750384",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Marije Fullaondo la Cruz",
+          "lastname": "Fullaondo la Cruz",
+          "firstname": "Marije",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Euskal Herria Bildu"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 43
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 106
+      },
+      "agendaItem": {
+        "title": "Proposición no de Ley relativa a la posición de España y la Unión\nEuropea respecto al desmantelamiento de la cooperación al desarrollo a\nnivel internacional y sus graves consecuencias para millones de personas\nen situaciones extremas en todo el mundo.",
+        "officialTitle": "Proposición no de Ley relativa a la posición de España y la Unión\nEuropea respecto al desmantelamiento de la cooperación al desarrollo a\nnivel internacional y sus graves consecuencias para millones de personas\nen situaciones extremas en todo el mundo.",
+        "type": "regular"
+      },
+      "dateStart": "2025-03-25T20:02:00+01:00",
+      "dateEnd": "2025-03-25T20:07:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_102/cortes/15_000400_102_1_25935_750385.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1550385I",
+        "duration": 300.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_102_1_25935_750385",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Jordi Salvador i Duch",
+          "lastname": "Salvador i Duch",
+          "firstname": "Jordi",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Republicano"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 44
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 106
+      },
+      "agendaItem": {
+        "title": "Proposición no de Ley relativa a la posición de España y la Unión\nEuropea respecto al desmantelamiento de la cooperación al desarrollo a\nnivel internacional y sus graves consecuencias para millones de personas\nen situaciones extremas en todo el mundo.",
+        "officialTitle": "Proposición no de Ley relativa a la posición de España y la Unión\nEuropea respecto al desmantelamiento de la cooperación al desarrollo a\nnivel internacional y sus graves consecuencias para millones de personas\nen situaciones extremas en todo el mundo.",
+        "type": "regular"
+      },
+      "dateStart": "2025-03-25T20:07:00+01:00",
+      "dateEnd": "2025-03-25T20:14:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_102/cortes/15_000400_102_1_25935_750386.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1550386I",
+        "duration": 420.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_102_1_25935_750386",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Viviane Ogou Corbi",
+          "lastname": "Ogou Corbi",
+          "firstname": "Viviane",
+          "type": "memberOfParliament"
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 45
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 106
+      },
+      "agendaItem": {
+        "title": "Proposición no de Ley relativa a la posición de España y la Unión\nEuropea respecto al desmantelamiento de la cooperación al desarrollo a\nnivel internacional y sus graves consecuencias para millones de personas\nen situaciones extremas en todo el mundo.",
+        "officialTitle": "Proposición no de Ley relativa a la posición de España y la Unión\nEuropea respecto al desmantelamiento de la cooperación al desarrollo a\nnivel internacional y sus graves consecuencias para millones de personas\nen situaciones extremas en todo el mundo.",
+        "type": "regular"
+      },
+      "dateStart": "2025-03-25T20:14:00+01:00",
+      "dateEnd": "2025-03-25T20:21:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_102/cortes/15_000400_102_1_25935_750387.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1550387I",
+        "duration": 420.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_102_1_25935_750387",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "María de los Reyes Romero Vilches",
+          "lastname": "Romero Vilches",
+          "firstname": "María de los Reyes",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario VOX"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 46
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 106
+      },
+      "agendaItem": {
+        "title": "Proposición no de Ley relativa a la posición de España y la Unión\nEuropea respecto al desmantelamiento de la cooperación al desarrollo a\nnivel internacional y sus graves consecuencias para millones de personas\nen situaciones extremas en todo el mundo.",
+        "officialTitle": "Proposición no de Ley relativa a la posición de España y la Unión\nEuropea respecto al desmantelamiento de la cooperación al desarrollo a\nnivel internacional y sus graves consecuencias para millones de personas\nen situaciones extremas en todo el mundo.",
+        "type": "regular"
+      },
+      "dateStart": "2025-03-25T20:21:00+01:00",
+      "dateEnd": "2025-03-25T20:29:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_102/cortes/15_000400_102_1_25935_750388.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1550388I",
+        "duration": 480.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_102_1_25935_750388",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Javier Noriega Gómez",
+          "lastname": "Noriega Gómez",
+          "firstname": "Javier",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Popular en el Congreso"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 47
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 106
+      },
+      "agendaItem": {
+        "title": "Moción consecuencia de interpelación urgente sobre las medidas que\npretende adoptar el Gobierno para evitar la pérdida de soberanía que\nsufre España.",
+        "officialTitle": "Moción consecuencia de interpelación urgente sobre las medidas que\npretende adoptar el Gobierno para evitar la pérdida de soberanía que\nsufre España.",
+        "type": "regular",
+        "nativeType": "ES-mocion"
+      },
+      "dateStart": "2025-03-25T20:29:00+01:00",
+      "dateEnd": "2025-03-25T20:37:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_102/cortes/15_000400_102_1_25935_750391.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1550391I",
+        "duration": 480.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_102_1_25935_750391",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Ignacio Hoces Íñiguez",
+          "lastname": "Hoces Íñiguez",
+          "firstname": "Ignacio",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario VOX"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 48
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 106
+      },
+      "agendaItem": {
+        "title": "Moción consecuencia de interpelación urgente sobre las medidas que\npretende adoptar el Gobierno para evitar la pérdida de soberanía que\nsufre España.",
+        "officialTitle": "Moción consecuencia de interpelación urgente sobre las medidas que\npretende adoptar el Gobierno para evitar la pérdida de soberanía que\nsufre España.",
+        "type": "regular",
+        "nativeType": "ES-mocion"
+      },
+      "dateStart": "2025-03-25T20:37:00+01:00",
+      "dateEnd": "2025-03-25T20:44:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_102/cortes/15_000400_102_1_25935_750392.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1550392I",
+        "duration": 420.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_102_1_25935_750392",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Martina Velarde Gómez",
+          "lastname": "Velarde Gómez",
+          "firstname": "Martina",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Mixto"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 49
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 106
+      },
+      "agendaItem": {
+        "title": "Moción consecuencia de interpelación urgente sobre las medidas que\npretende adoptar el Gobierno para evitar la pérdida de soberanía que\nsufre España.",
+        "officialTitle": "Moción consecuencia de interpelación urgente sobre las medidas que\npretende adoptar el Gobierno para evitar la pérdida de soberanía que\nsufre España.",
+        "type": "regular",
+        "nativeType": "ES-mocion"
+      },
+      "dateStart": "2025-03-25T20:44:00+01:00",
+      "dateEnd": "2025-03-25T20:49:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_102/cortes/15_000400_102_1_25935_750393.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1550393I",
+        "duration": 300.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_102_1_25935_750393",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Mikel Legarda Uriarte",
+          "lastname": "Legarda Uriarte",
+          "firstname": "Mikel",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Vasco (EAJ-PNV)"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 50
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 106
+      },
+      "agendaItem": {
+        "title": "Moción consecuencia de interpelación urgente sobre las medidas que\npretende adoptar el Gobierno para evitar la pérdida de soberanía que\nsufre España.",
+        "officialTitle": "Moción consecuencia de interpelación urgente sobre las medidas que\npretende adoptar el Gobierno para evitar la pérdida de soberanía que\nsufre España.",
+        "type": "regular",
+        "nativeType": "ES-mocion"
+      },
+      "dateStart": "2025-03-25T20:49:00+01:00",
+      "dateEnd": "2025-03-25T20:56:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_102/cortes/15_000400_102_1_25935_750394.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1550394I",
+        "duration": 420.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_102_1_25935_750394",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Aina Vidal Sáez",
+          "lastname": "Vidal Sáez",
+          "firstname": "Aina",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Plurinacional SUMAR"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 51
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 106
+      },
+      "agendaItem": {
+        "title": "Moción consecuencia de interpelación urgente sobre las medidas que\npretende adoptar el Gobierno para evitar la pérdida de soberanía que\nsufre España.",
+        "officialTitle": "Moción consecuencia de interpelación urgente sobre las medidas que\npretende adoptar el Gobierno para evitar la pérdida de soberanía que\nsufre España.",
+        "type": "regular",
+        "nativeType": "ES-mocion"
+      },
+      "dateStart": "2025-03-25T20:56:00+01:00",
+      "dateEnd": "2025-03-25T21:04:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_102/cortes/15_000400_102_1_25935_750395.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1550395I",
+        "duration": 480.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_102_1_25935_750395",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Rafaela Crespín Rubio",
+          "lastname": "Crespín Rubio",
+          "firstname": "Rafaela",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Socialista"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 52
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 106
+      },
+      "agendaItem": {
+        "title": "Moción consecuencia de interpelación urgente sobre las medidas que\npretende adoptar el Gobierno para evitar la pérdida de soberanía que\nsufre España.",
+        "officialTitle": "Moción consecuencia de interpelación urgente sobre las medidas que\npretende adoptar el Gobierno para evitar la pérdida de soberanía que\nsufre España.",
+        "type": "regular",
+        "nativeType": "ES-mocion"
+      },
+      "dateStart": "2025-03-25T21:04:00+01:00",
+      "dateEnd": "2025-03-25T21:11:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_102/cortes/15_000400_102_1_25935_750396.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1550396I",
+        "duration": 420.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_102_1_25935_750396",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Beatriz Jiménez Linuesa",
+          "lastname": "Jiménez Linuesa",
+          "firstname": "Beatriz",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Popular en el Congreso"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 53
+    }
+  ]
+}

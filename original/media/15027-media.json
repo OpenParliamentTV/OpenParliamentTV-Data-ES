@@ -1,0 +1,3400 @@
+{
+  "meta": {
+    "session": "15027",
+    "processing": {
+      "parse_media": "2026-05-23T07:17:41"
+    },
+    "dateStart": "2024-02-28T09:01:00+01:00",
+    "dateEnd": "2024-02-28T13:56:00+01:00"
+  },
+  "data": [
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 27
+      },
+      "agendaItem": {
+        "title": "¿Cuántos escándalos puede soportar su Gobierno?",
+        "officialTitle": "¿Cuántos escándalos puede soportar su Gobierno?",
+        "type": "qa",
+        "nativeType": "ES-pregunta"
+      },
+      "dateStart": "2024-02-28T09:01:00+01:00",
+      "dateEnd": "2024-02-28T09:03:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_025/cortes/15_000400_025_0_24661_729038.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1529038I",
+        "duration": 120.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_025_0_24661_729038",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Alberto Núñez Feijóo",
+          "lastname": "Núñez Feijóo",
+          "firstname": "Alberto",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Popular en el Congreso"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 1
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 27
+      },
+      "agendaItem": {
+        "title": "¿Cuántos escándalos puede soportar su Gobierno?",
+        "officialTitle": "¿Cuántos escándalos puede soportar su Gobierno?",
+        "type": "qa",
+        "nativeType": "ES-pregunta"
+      },
+      "dateStart": "2024-02-28T09:03:00+01:00",
+      "dateEnd": "2024-02-28T09:04:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_025/cortes/15_000400_025_0_24661_729039.mp4\nhttps://www.congreso.es/audiovisual/video/leg15/400/15_000400_025/cortes/15_000400_025_0_24661_729041.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1529039I https://app.congreso.es/v1/15729041I",
+        "duration": 60.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_025_0_24661_729041",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Pedro Sánchez Pérez-Castejón",
+          "lastname": "Sánchez Pérez-Castejón",
+          "firstname": "Pedro",
+          "type": "member of government",
+          "role": "Presidente del Gobierno",
+          "faction": {
+            "label": "Grupo Parlamentario Socialista"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 2
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 27
+      },
+      "agendaItem": {
+        "title": "¿Cuántos escándalos puede soportar su Gobierno?",
+        "officialTitle": "¿Cuántos escándalos puede soportar su Gobierno?",
+        "type": "qa",
+        "nativeType": "ES-pregunta"
+      },
+      "dateStart": "2024-02-28T09:04:00+01:00",
+      "dateEnd": "2024-02-28T09:06:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_025/cortes/15_000400_025_0_24661_729040.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1529040I",
+        "duration": 120.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_025_0_24661_729040",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Alberto Núñez Feijóo",
+          "lastname": "Núñez Feijóo",
+          "firstname": "Alberto",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Popular en el Congreso"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 3
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 27
+      },
+      "agendaItem": {
+        "title": "¿Por qué se empeña en recentralizar el Estado ampliando las\ncompetencias de las conferencias sectoriales unilateralmente a través de\nnormas reglamentarias a pesar de las continuas advertencias de los\npartidos que le apoyan?",
+        "officialTitle": "¿Por qué se empeña en recentralizar el Estado ampliando las\ncompetencias de las conferencias sectoriales unilateralmente a través de\nnormas reglamentarias a pesar de las continuas advertencias de los\npartidos que le apoyan?",
+        "type": "qa",
+        "nativeType": "ES-pregunta"
+      },
+      "dateStart": "2024-02-28T09:08:00+01:00",
+      "dateEnd": "2024-02-28T09:08:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_025/cortes/15_000400_025_0_24661_729043.mp4\nhttps://www.congreso.es/audiovisual/video/leg15/400/15_000400_025/cortes/15_000400_025_0_24661_729045.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1529043I https://app.congreso.es/v1/15729045I",
+        "duration": 0.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_025_0_24661_729045",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Aitor Esteban Bravo",
+          "lastname": "Esteban Bravo",
+          "firstname": "Aitor",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Vasco (EAJ-PNV)"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 4
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 27
+      },
+      "agendaItem": {
+        "title": "¿Por qué se empeña en recentralizar el Estado ampliando las\ncompetencias de las conferencias sectoriales unilateralmente a través de\nnormas reglamentarias a pesar de las continuas advertencias de los\npartidos que le apoyan?",
+        "officialTitle": "¿Por qué se empeña en recentralizar el Estado ampliando las\ncompetencias de las conferencias sectoriales unilateralmente a través de\nnormas reglamentarias a pesar de las continuas advertencias de los\npartidos que le apoyan?",
+        "type": "qa",
+        "nativeType": "ES-pregunta"
+      },
+      "dateStart": "2024-02-28T09:08:00+01:00",
+      "dateEnd": "2024-02-28T09:09:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_025/cortes/15_000400_025_0_24661_729044.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1529044I",
+        "duration": 60.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_025_0_24661_729044",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Pedro Sánchez Pérez-Castejón",
+          "lastname": "Sánchez Pérez-Castejón",
+          "firstname": "Pedro",
+          "type": "member of government",
+          "role": "Presidente del Gobierno",
+          "faction": {
+            "label": "Grupo Parlamentario Socialista"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 5
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 27
+      },
+      "agendaItem": {
+        "title": "¿Por qué se empeña en recentralizar el Estado ampliando las\ncompetencias de las conferencias sectoriales unilateralmente a través de\nnormas reglamentarias a pesar de las continuas advertencias de los\npartidos que le apoyan?",
+        "officialTitle": "¿Por qué se empeña en recentralizar el Estado ampliando las\ncompetencias de las conferencias sectoriales unilateralmente a través de\nnormas reglamentarias a pesar de las continuas advertencias de los\npartidos que le apoyan?",
+        "type": "qa",
+        "nativeType": "ES-pregunta"
+      },
+      "dateStart": "2024-02-28T09:11:00+01:00",
+      "dateEnd": "2024-02-28T09:13:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_025/cortes/15_000400_025_0_24661_729046.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1529046I",
+        "duration": 120.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_025_0_24661_729046",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Pedro Sánchez Pérez-Castejón",
+          "lastname": "Sánchez Pérez-Castejón",
+          "firstname": "Pedro",
+          "type": "member of government",
+          "role": "Presidente del Gobierno",
+          "faction": {
+            "label": "Grupo Parlamentario Socialista"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 6
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 27
+      },
+      "agendaItem": {
+        "title": "¿Cómo piensa el Gobierno garantizar el derecho a la vivienda?",
+        "officialTitle": "¿Cómo piensa el Gobierno garantizar el derecho a la vivienda?",
+        "type": "qa",
+        "nativeType": "ES-pregunta"
+      },
+      "dateStart": "2024-02-28T09:13:00+01:00",
+      "dateEnd": "2024-02-28T09:14:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_025/cortes/15_000400_025_0_24661_729048.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1529048I",
+        "duration": 60.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_025_0_24661_729048",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Ione Belarra Urteaga",
+          "lastname": "Belarra Urteaga",
+          "firstname": "Ione",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Mixto"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 7
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 27
+      },
+      "agendaItem": {
+        "title": "¿Cómo piensa el Gobierno garantizar el derecho a la vivienda?",
+        "officialTitle": "¿Cómo piensa el Gobierno garantizar el derecho a la vivienda?",
+        "type": "qa",
+        "nativeType": "ES-pregunta"
+      },
+      "dateStart": "2024-02-28T09:14:00+01:00",
+      "dateEnd": "2024-02-28T09:16:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_025/cortes/15_000400_025_0_24661_729049.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1529049I",
+        "duration": 120.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_025_0_24661_729049",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Pedro Sánchez Pérez-Castejón",
+          "lastname": "Sánchez Pérez-Castejón",
+          "firstname": "Pedro",
+          "type": "member of government",
+          "role": "Presidente del Gobierno",
+          "faction": {
+            "label": "Grupo Parlamentario Socialista"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 8
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 27
+      },
+      "agendaItem": {
+        "title": "¿Cómo piensa el Gobierno garantizar el derecho a la vivienda?",
+        "officialTitle": "¿Cómo piensa el Gobierno garantizar el derecho a la vivienda?",
+        "type": "qa",
+        "nativeType": "ES-pregunta"
+      },
+      "dateStart": "2024-02-28T09:16:00+01:00",
+      "dateEnd": "2024-02-28T09:17:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_025/cortes/15_000400_025_0_24661_729050.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1529050I",
+        "duration": 60.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_025_0_24661_729050",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Ione Belarra Urteaga",
+          "lastname": "Belarra Urteaga",
+          "firstname": "Ione",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Mixto"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 9
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 27
+      },
+      "agendaItem": {
+        "title": "¿Cómo piensa el Gobierno garantizar el derecho a la vivienda?",
+        "officialTitle": "¿Cómo piensa el Gobierno garantizar el derecho a la vivienda?",
+        "type": "qa",
+        "nativeType": "ES-pregunta"
+      },
+      "dateStart": "2024-02-28T09:17:00+01:00",
+      "dateEnd": "2024-02-28T09:18:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_025/cortes/15_000400_025_0_24661_729051.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1529051I",
+        "duration": 60.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_025_0_24661_729051",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Pedro Sánchez Pérez-Castejón",
+          "lastname": "Sánchez Pérez-Castejón",
+          "firstname": "Pedro",
+          "type": "member of government",
+          "role": "Presidente del Gobierno",
+          "faction": {
+            "label": "Grupo Parlamentario Socialista"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 10
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 27
+      },
+      "agendaItem": {
+        "title": "¿Mantiene el Estado español relaciones comerciales con material\nbélico con el Estado de Israel?",
+        "officialTitle": "¿Mantiene el Estado español relaciones comerciales con material\nbélico con el Estado de Israel?",
+        "type": "qa",
+        "nativeType": "ES-pregunta"
+      },
+      "dateStart": "2024-02-28T09:18:00+01:00",
+      "dateEnd": "2024-02-28T09:19:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_025/cortes/15_000400_025_0_24661_729053.mp4\nhttps://www.congreso.es/audiovisual/video/leg15/400/15_000400_025/cortes/15_000400_025_0_24661_729055.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1529053I https://app.congreso.es/v1/15729055I",
+        "duration": 60.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_025_0_24661_729055",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Jordi Salvador i Duch",
+          "lastname": "Salvador i Duch",
+          "firstname": "Jordi",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Republicano"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 11
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 27
+      },
+      "agendaItem": {
+        "title": "¿Mantiene el Estado español relaciones comerciales con material\nbélico con el Estado de Israel?",
+        "officialTitle": "¿Mantiene el Estado español relaciones comerciales con material\nbélico con el Estado de Israel?",
+        "type": "qa",
+        "nativeType": "ES-pregunta"
+      },
+      "dateStart": "2024-02-28T09:19:00+01:00",
+      "dateEnd": "2024-02-28T09:19:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_025/cortes/15_000400_025_0_24661_729054.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1529054I",
+        "duration": 0.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_025_0_24661_729054",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "José Manuel Albares Bueno",
+          "lastname": "Albares Bueno",
+          "firstname": "José Manuel",
+          "type": "member of government",
+          "role": "Ministro de Asuntos Exteriores, Unión Europea y Cooperación"
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 12
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 27
+      },
+      "agendaItem": {
+        "title": "¿Mantiene el Estado español relaciones comerciales con material\nbélico con el Estado de Israel?",
+        "officialTitle": "¿Mantiene el Estado español relaciones comerciales con material\nbélico con el Estado de Israel?",
+        "type": "qa",
+        "nativeType": "ES-pregunta"
+      },
+      "dateStart": "2024-02-28T09:21:00+01:00",
+      "dateEnd": "2024-02-28T09:24:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_025/cortes/15_000400_025_0_24661_729056.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1529056I",
+        "duration": 180.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_025_0_24661_729056",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "José Manuel Albares Bueno",
+          "lastname": "Albares Bueno",
+          "firstname": "José Manuel",
+          "type": "member of government",
+          "role": "Ministro de Asuntos Exteriores, Unión Europea y Cooperación"
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 13
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 27
+      },
+      "agendaItem": {
+        "title": "¿Qué piensa hacer el Gobierno para garantizar el derecho del\nperiodista Pablo González, que lleva dos años en prisión preventiva en\nPolonia, a un proceso sin dilaciones indebidas?",
+        "officialTitle": "¿Qué piensa hacer el Gobierno para garantizar el derecho del\nperiodista Pablo González, que lleva dos años en prisión preventiva en\nPolonia, a un proceso sin dilaciones indebidas?",
+        "type": "qa",
+        "nativeType": "ES-pregunta"
+      },
+      "dateStart": "2024-02-28T09:24:00+01:00",
+      "dateEnd": "2024-02-28T09:26:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_025/cortes/15_000400_025_0_24661_729058.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1529058I",
+        "duration": 120.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_025_0_24661_729058",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Jon Iñarritu García",
+          "lastname": "Iñarritu García",
+          "firstname": "Jon",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Euskal Herria Bildu"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 14
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 27
+      },
+      "agendaItem": {
+        "title": "¿Qué piensa hacer el Gobierno para garantizar el derecho del\nperiodista Pablo González, que lleva dos años en prisión preventiva en\nPolonia, a un proceso sin dilaciones indebidas?",
+        "officialTitle": "¿Qué piensa hacer el Gobierno para garantizar el derecho del\nperiodista Pablo González, que lleva dos años en prisión preventiva en\nPolonia, a un proceso sin dilaciones indebidas?",
+        "type": "qa",
+        "nativeType": "ES-pregunta"
+      },
+      "dateStart": "2024-02-28T09:26:00+01:00",
+      "dateEnd": "2024-02-28T09:29:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_025/cortes/15_000400_025_0_24661_729059.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1529059I",
+        "duration": 180.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_025_0_24661_729059",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "José Manuel Albares Bueno",
+          "lastname": "Albares Bueno",
+          "firstname": "José Manuel",
+          "type": "member of government",
+          "role": "Ministro de Asuntos Exteriores, Unión Europea y Cooperación"
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 15
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 27
+      },
+      "agendaItem": {
+        "title": "¿Qué información tenía el Gobierno sobre la trama de corrupción del\nllamado \"caso Koldo\"?",
+        "officialTitle": "¿Qué información tenía el Gobierno sobre la trama de corrupción del\nllamado \"caso Koldo\"?",
+        "type": "qa",
+        "nativeType": "ES-pregunta"
+      },
+      "dateStart": "2024-02-28T09:29:00+01:00",
+      "dateEnd": "2024-02-28T09:31:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_025/cortes/15_000400_025_0_24661_729061.mp4\nhttps://www.congreso.es/audiovisual/video/leg15/400/15_000400_025/cortes/15_000400_025_0_24661_729063.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1529061I https://app.congreso.es/v1/15729063I",
+        "duration": 120.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_025_0_24661_729063",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Miguel Tellado Filgueira",
+          "lastname": "Tellado Filgueira",
+          "firstname": "Miguel",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Popular en el Congreso"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 16
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 27
+      },
+      "agendaItem": {
+        "title": "¿Qué información tenía el Gobierno sobre la trama de corrupción del\nllamado \"caso Koldo\"?",
+        "officialTitle": "¿Qué información tenía el Gobierno sobre la trama de corrupción del\nllamado \"caso Koldo\"?",
+        "type": "qa",
+        "nativeType": "ES-pregunta"
+      },
+      "dateStart": "2024-02-28T09:31:00+01:00",
+      "dateEnd": "2024-02-28T09:33:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_025/cortes/15_000400_025_0_24661_729062.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1529062I",
+        "duration": 120.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_025_0_24661_729062",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Félix Bolaños García",
+          "lastname": "Bolaños García",
+          "firstname": "Félix",
+          "type": "member of government",
+          "role": "Ministro de la Presidencia, Justicia y Relaciones con las Cortes",
+          "faction": {
+            "label": "Grupo Parlamentario Socialista"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 17
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 27
+      },
+      "agendaItem": {
+        "title": "¿Qué información tenía el Gobierno sobre la trama de corrupción del\nllamado \"caso Koldo\"?",
+        "officialTitle": "¿Qué información tenía el Gobierno sobre la trama de corrupción del\nllamado \"caso Koldo\"?",
+        "type": "qa",
+        "nativeType": "ES-pregunta"
+      },
+      "dateStart": "2024-02-28T09:34:00+01:00",
+      "dateEnd": "2024-02-28T09:35:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_025/cortes/15_000400_025_0_24661_729064.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1529064I",
+        "duration": 60.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_025_0_24661_729064",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Félix Bolaños García",
+          "lastname": "Bolaños García",
+          "firstname": "Félix",
+          "type": "member of government",
+          "role": "Ministro de la Presidencia, Justicia y Relaciones con las Cortes",
+          "faction": {
+            "label": "Grupo Parlamentario Socialista"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 18
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 27
+      },
+      "agendaItem": {
+        "title": "¿En qué encuestas electorales ha acertado el CIS, con el señor\nTezanos de presidente?",
+        "officialTitle": "¿En qué encuestas electorales ha acertado el CIS, con el señor\nTezanos de presidente?",
+        "type": "qa",
+        "nativeType": "ES-pregunta"
+      },
+      "dateStart": "2024-02-28T09:35:00+01:00",
+      "dateEnd": "2024-02-28T09:36:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_025/cortes/15_000400_025_0_24661_729066.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1529066I",
+        "duration": 60.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_025_0_24661_729066",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Manuel Cobo Vega",
+          "lastname": "Cobo Vega",
+          "firstname": "Manuel",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Popular en el Congreso"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 19
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 27
+      },
+      "agendaItem": {
+        "title": "¿En qué encuestas electorales ha acertado el CIS, con el señor\nTezanos de presidente?",
+        "officialTitle": "¿En qué encuestas electorales ha acertado el CIS, con el señor\nTezanos de presidente?",
+        "type": "qa",
+        "nativeType": "ES-pregunta"
+      },
+      "dateStart": "2024-02-28T09:36:00+01:00",
+      "dateEnd": "2024-02-28T09:37:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_025/cortes/15_000400_025_0_24661_729067.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1529067I",
+        "duration": 60.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_025_0_24661_729067",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Félix Bolaños García",
+          "lastname": "Bolaños García",
+          "firstname": "Félix",
+          "type": "member of government",
+          "role": "Ministro de la Presidencia, Justicia y Relaciones con las Cortes",
+          "faction": {
+            "label": "Grupo Parlamentario Socialista"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 20
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 27
+      },
+      "agendaItem": {
+        "title": "¿En qué encuestas electorales ha acertado el CIS, con el señor\nTezanos de presidente?",
+        "officialTitle": "¿En qué encuestas electorales ha acertado el CIS, con el señor\nTezanos de presidente?",
+        "type": "qa",
+        "nativeType": "ES-pregunta"
+      },
+      "dateStart": "2024-02-28T09:37:00+01:00",
+      "dateEnd": "2024-02-28T09:39:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_025/cortes/15_000400_025_0_24661_729068.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1529068I",
+        "duration": 120.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_025_0_24661_729068",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Manuel Cobo Vega",
+          "lastname": "Cobo Vega",
+          "firstname": "Manuel",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Popular en el Congreso"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 21
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 27
+      },
+      "agendaItem": {
+        "title": "¿En qué encuestas electorales ha acertado el CIS, con el señor\nTezanos de presidente?",
+        "officialTitle": "¿En qué encuestas electorales ha acertado el CIS, con el señor\nTezanos de presidente?",
+        "type": "qa",
+        "nativeType": "ES-pregunta"
+      },
+      "dateStart": "2024-02-28T09:39:00+01:00",
+      "dateEnd": "2024-02-28T09:41:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_025/cortes/15_000400_025_0_24661_729069.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1529069I",
+        "duration": 120.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_025_0_24661_729069",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Félix Bolaños García",
+          "lastname": "Bolaños García",
+          "firstname": "Félix",
+          "type": "member of government",
+          "role": "Ministro de la Presidencia, Justicia y Relaciones con las Cortes",
+          "faction": {
+            "label": "Grupo Parlamentario Socialista"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 22
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 27
+      },
+      "agendaItem": {
+        "title": "¿Cómo contribuye a la convivencia la tramitación de una declaración\nunilateral de independencia en el Parlamento catalán?",
+        "officialTitle": "¿Cómo contribuye a la convivencia la tramitación de una declaración\nunilateral de independencia en el Parlamento catalán?",
+        "type": "qa",
+        "nativeType": "ES-pregunta"
+      },
+      "dateStart": "2024-02-28T09:41:00+01:00",
+      "dateEnd": "2024-02-28T09:41:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_025/cortes/15_000400_025_0_24661_729071.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1529071I",
+        "duration": 0.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_025_0_24661_729071",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Nacho Martín Blanco",
+          "lastname": "Martín Blanco",
+          "firstname": "Nacho",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Popular en el Congreso"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 23
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 27
+      },
+      "agendaItem": {
+        "title": "¿Cómo contribuye a la convivencia la tramitación de una declaración\nunilateral de independencia en el Parlamento catalán?",
+        "officialTitle": "¿Cómo contribuye a la convivencia la tramitación de una declaración\nunilateral de independencia en el Parlamento catalán?",
+        "type": "qa",
+        "nativeType": "ES-pregunta"
+      },
+      "dateStart": "2024-02-28T09:41:00+01:00",
+      "dateEnd": "2024-02-28T09:43:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_025/cortes/15_000400_025_0_24661_729072.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1529072I",
+        "duration": 120.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_025_0_24661_729072",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Félix Bolaños García",
+          "lastname": "Bolaños García",
+          "firstname": "Félix",
+          "type": "member of government",
+          "role": "Ministro de la Presidencia, Justicia y Relaciones con las Cortes",
+          "faction": {
+            "label": "Grupo Parlamentario Socialista"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 24
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 27
+      },
+      "agendaItem": {
+        "title": "¿Cómo contribuye a la convivencia la tramitación de una declaración\nunilateral de independencia en el Parlamento catalán?",
+        "officialTitle": "¿Cómo contribuye a la convivencia la tramitación de una declaración\nunilateral de independencia en el Parlamento catalán?",
+        "type": "qa",
+        "nativeType": "ES-pregunta"
+      },
+      "dateStart": "2024-02-28T09:43:00+01:00",
+      "dateEnd": "2024-02-28T09:45:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_025/cortes/15_000400_025_0_24661_729073.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1529073I",
+        "duration": 120.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_025_0_24661_729073",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Nacho Martín Blanco",
+          "lastname": "Martín Blanco",
+          "firstname": "Nacho",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Popular en el Congreso"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 25
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 27
+      },
+      "agendaItem": {
+        "title": "¿Cómo contribuye a la convivencia la tramitación de una declaración\nunilateral de independencia en el Parlamento catalán?",
+        "officialTitle": "¿Cómo contribuye a la convivencia la tramitación de una declaración\nunilateral de independencia en el Parlamento catalán?",
+        "type": "qa",
+        "nativeType": "ES-pregunta"
+      },
+      "dateStart": "2024-02-28T09:45:00+01:00",
+      "dateEnd": "2024-02-28T09:47:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_025/cortes/15_000400_025_0_24661_729074.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1529074I",
+        "duration": 120.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_025_0_24661_729074",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Félix Bolaños García",
+          "lastname": "Bolaños García",
+          "firstname": "Félix",
+          "type": "member of government",
+          "role": "Ministro de la Presidencia, Justicia y Relaciones con las Cortes",
+          "faction": {
+            "label": "Grupo Parlamentario Socialista"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 26
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 27
+      },
+      "agendaItem": {
+        "title": "¿Hay algún miembro del Gobierno implicado en el \"caso Koldo\"?",
+        "officialTitle": "¿Hay algún miembro del Gobierno implicado en el \"caso Koldo\"?",
+        "type": "qa",
+        "nativeType": "ES-pregunta"
+      },
+      "dateStart": "2024-02-28T09:47:00+01:00",
+      "dateEnd": "2024-02-28T09:47:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_025/cortes/15_000400_025_0_24661_729076.mp4\nhttps://www.congreso.es/audiovisual/video/leg15/400/15_000400_025/cortes/15_000400_025_0_24661_729078.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1529076I https://app.congreso.es/v1/15729078I",
+        "duration": 0.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_025_0_24661_729078",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "María José Rodríguez de Millán Parro",
+          "lastname": "Rodríguez de Millán Parro",
+          "firstname": "María José",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario VOX"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 27
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 27
+      },
+      "agendaItem": {
+        "title": "¿Hay algún miembro del Gobierno implicado en el \"caso Koldo\"?",
+        "officialTitle": "¿Hay algún miembro del Gobierno implicado en el \"caso Koldo\"?",
+        "type": "qa",
+        "nativeType": "ES-pregunta"
+      },
+      "dateStart": "2024-02-28T09:47:00+01:00",
+      "dateEnd": "2024-02-28T09:48:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_025/cortes/15_000400_025_0_24661_729077.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1529077I",
+        "duration": 60.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_025_0_24661_729077",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Félix Bolaños García",
+          "lastname": "Bolaños García",
+          "firstname": "Félix",
+          "type": "member of government",
+          "role": "Ministro de la Presidencia, Justicia y Relaciones con las Cortes",
+          "faction": {
+            "label": "Grupo Parlamentario Socialista"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 28
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 27
+      },
+      "agendaItem": {
+        "title": "¿Hay algún miembro del Gobierno implicado en el \"caso Koldo\"?",
+        "officialTitle": "¿Hay algún miembro del Gobierno implicado en el \"caso Koldo\"?",
+        "type": "qa",
+        "nativeType": "ES-pregunta"
+      },
+      "dateStart": "2024-02-28T09:50:00+01:00",
+      "dateEnd": "2024-02-28T09:52:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_025/cortes/15_000400_025_0_24661_729079.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1529079I",
+        "duration": 120.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_025_0_24661_729079",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Félix Bolaños García",
+          "lastname": "Bolaños García",
+          "firstname": "Félix",
+          "type": "member of government",
+          "role": "Ministro de la Presidencia, Justicia y Relaciones con las Cortes",
+          "faction": {
+            "label": "Grupo Parlamentario Socialista"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 29
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 27
+      },
+      "agendaItem": {
+        "title": "¿Ha realizado el Ministerio de la Presidencia, Justicia y Relaciones\ncon las Cortes alguna actuación ante el Comité Europeo de Derechos\nSociales para interferir en la resolución de la reclamación de UGT y CCOO\nque pretende conseguir indemnizaciones realmente reparadoras y\ndisuasorias en los despidos sin causa?",
+        "officialTitle": "¿Ha realizado el Ministerio de la Presidencia, Justicia y Relaciones\ncon las Cortes alguna actuación ante el Comité Europeo de Derechos\nSociales para interferir en la resolución de la reclamación de UGT y CCOO\nque pretende conseguir indemnizaciones realmente reparadoras y\ndisuasorias en los despidos sin causa?",
+        "type": "qa",
+        "nativeType": "ES-pregunta"
+      },
+      "dateStart": "2024-02-28T09:53:00+01:00",
+      "dateEnd": "2024-02-28T09:55:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_025/cortes/15_000400_025_0_24661_729081.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1529081I",
+        "duration": 120.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_025_0_24661_729081",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Jordi Salvador i Duch",
+          "lastname": "Salvador i Duch",
+          "firstname": "Jordi",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Republicano"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 30
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 27
+      },
+      "agendaItem": {
+        "title": "¿Ha realizado el Ministerio de la Presidencia, Justicia y Relaciones\ncon las Cortes alguna actuación ante el Comité Europeo de Derechos\nSociales para interferir en la resolución de la reclamación de UGT y CCOO\nque pretende conseguir indemnizaciones realmente reparadoras y\ndisuasorias en los despidos sin causa?",
+        "officialTitle": "¿Ha realizado el Ministerio de la Presidencia, Justicia y Relaciones\ncon las Cortes alguna actuación ante el Comité Europeo de Derechos\nSociales para interferir en la resolución de la reclamación de UGT y CCOO\nque pretende conseguir indemnizaciones realmente reparadoras y\ndisuasorias en los despidos sin causa?",
+        "type": "qa",
+        "nativeType": "ES-pregunta"
+      },
+      "dateStart": "2024-02-28T09:55:00+01:00",
+      "dateEnd": "2024-02-28T09:56:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_025/cortes/15_000400_025_0_24661_729082.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1529082I",
+        "duration": 60.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_025_0_24661_729082",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Félix Bolaños García",
+          "lastname": "Bolaños García",
+          "firstname": "Félix",
+          "type": "member of government",
+          "role": "Ministro de la Presidencia, Justicia y Relaciones con las Cortes",
+          "faction": {
+            "label": "Grupo Parlamentario Socialista"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 31
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 27
+      },
+      "agendaItem": {
+        "title": "¿Ha realizado el Ministerio de la Presidencia, Justicia y Relaciones\ncon las Cortes alguna actuación ante el Comité Europeo de Derechos\nSociales para interferir en la resolución de la reclamación de UGT y CCOO\nque pretende conseguir indemnizaciones realmente reparadoras y\ndisuasorias en los despidos sin causa?",
+        "officialTitle": "¿Ha realizado el Ministerio de la Presidencia, Justicia y Relaciones\ncon las Cortes alguna actuación ante el Comité Europeo de Derechos\nSociales para interferir en la resolución de la reclamación de UGT y CCOO\nque pretende conseguir indemnizaciones realmente reparadoras y\ndisuasorias en los despidos sin causa?",
+        "type": "qa",
+        "nativeType": "ES-pregunta"
+      },
+      "dateStart": "2024-02-28T09:56:00+01:00",
+      "dateEnd": "2024-02-28T09:57:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_025/cortes/15_000400_025_0_24661_729083.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1529083I",
+        "duration": 60.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_025_0_24661_729083",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Jordi Salvador i Duch",
+          "lastname": "Salvador i Duch",
+          "firstname": "Jordi",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Republicano"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 32
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 27
+      },
+      "agendaItem": {
+        "title": "¿Ha realizado el Ministerio de la Presidencia, Justicia y Relaciones\ncon las Cortes alguna actuación ante el Comité Europeo de Derechos\nSociales para interferir en la resolución de la reclamación de UGT y CCOO\nque pretende conseguir indemnizaciones realmente reparadoras y\ndisuasorias en los despidos sin causa?",
+        "officialTitle": "¿Ha realizado el Ministerio de la Presidencia, Justicia y Relaciones\ncon las Cortes alguna actuación ante el Comité Europeo de Derechos\nSociales para interferir en la resolución de la reclamación de UGT y CCOO\nque pretende conseguir indemnizaciones realmente reparadoras y\ndisuasorias en los despidos sin causa?",
+        "type": "qa",
+        "nativeType": "ES-pregunta"
+      },
+      "dateStart": "2024-02-28T09:57:00+01:00",
+      "dateEnd": "2024-02-28T09:58:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_025/cortes/15_000400_025_0_24661_729084.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1529084I",
+        "duration": 60.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_025_0_24661_729084",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Félix Bolaños García",
+          "lastname": "Bolaños García",
+          "firstname": "Félix",
+          "type": "member of government",
+          "role": "Ministro de la Presidencia, Justicia y Relaciones con las Cortes",
+          "faction": {
+            "label": "Grupo Parlamentario Socialista"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 33
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 27
+      },
+      "agendaItem": {
+        "title": "¿Qué razones han llevado al Ministerio del Interior a ser investigado\ndentro de la llamada Operación Delorme, que ha llevado a la detención de\nD. Koldo García?",
+        "officialTitle": "¿Qué razones han llevado al Ministerio del Interior a ser investigado\ndentro de la llamada Operación Delorme, que ha llevado a la detención de\nD. Koldo García?",
+        "type": "qa",
+        "nativeType": "ES-pregunta"
+      },
+      "dateStart": "2024-02-28T09:58:00+01:00",
+      "dateEnd": "2024-02-28T10:01:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_025/cortes/15_000400_025_0_24661_729086.mp4\nhttps://www.congreso.es/audiovisual/video/leg15/400/15_000400_025/cortes/15_000400_025_0_24661_729088.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1529086I https://app.congreso.es/v1/15729088I",
+        "duration": 180.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_025_0_24661_729088",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Concepción Gamarra Ruiz-Clavijo",
+          "lastname": "Gamarra Ruiz-Clavijo",
+          "firstname": "Concepción",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Popular en el Congreso"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 34
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 27
+      },
+      "agendaItem": {
+        "title": "¿Qué razones han llevado al Ministerio del Interior a ser investigado\ndentro de la llamada Operación Delorme, que ha llevado a la detención de\nD. Koldo García?",
+        "officialTitle": "¿Qué razones han llevado al Ministerio del Interior a ser investigado\ndentro de la llamada Operación Delorme, que ha llevado a la detención de\nD. Koldo García?",
+        "type": "qa",
+        "nativeType": "ES-pregunta"
+      },
+      "dateStart": "2024-02-28T10:01:00+01:00",
+      "dateEnd": "2024-02-28T10:02:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_025/cortes/15_000400_025_0_24661_729087.mp4\nhttps://www.congreso.es/audiovisual/video/leg15/400/15_000400_025/cortes/15_000400_025_0_24661_729089.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1529087I https://app.congreso.es/v1/15729089I",
+        "duration": 60.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_025_0_24661_729089",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Fernando Grande-Marlaska Gómez",
+          "lastname": "Grande-Marlaska Gómez",
+          "firstname": "Fernando",
+          "type": "member of government",
+          "role": "Ministro del Interior"
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 35
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 27
+      },
+      "agendaItem": {
+        "title": "¿Sabe cuál es la realidad de la criminalidad cotidiana?",
+        "officialTitle": "¿Sabe cuál es la realidad de la criminalidad cotidiana?",
+        "type": "qa",
+        "nativeType": "ES-pregunta"
+      },
+      "dateStart": "2024-02-28T10:05:00+01:00",
+      "dateEnd": "2024-02-28T10:05:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_025/cortes/15_000400_025_0_24661_729091.mp4\nhttps://www.congreso.es/audiovisual/video/leg15/400/15_000400_025/cortes/15_000400_025_0_24661_729093.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1529091I https://app.congreso.es/v1/15729093I",
+        "duration": 0.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_025_0_24661_729093",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Ignacio Gil Lázaro",
+          "lastname": "Gil Lázaro",
+          "firstname": "Ignacio",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario VOX"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 36
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 27
+      },
+      "agendaItem": {
+        "title": "¿Sabe cuál es la realidad de la criminalidad cotidiana?",
+        "officialTitle": "¿Sabe cuál es la realidad de la criminalidad cotidiana?",
+        "type": "qa",
+        "nativeType": "ES-pregunta"
+      },
+      "dateStart": "2024-02-28T10:05:00+01:00",
+      "dateEnd": "2024-02-28T10:06:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_025/cortes/15_000400_025_0_24661_729092.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1529092I",
+        "duration": 60.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_025_0_24661_729092",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Fernando Grande-Marlaska Gómez",
+          "lastname": "Grande-Marlaska Gómez",
+          "firstname": "Fernando",
+          "type": "member of government",
+          "role": "Ministro del Interior"
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 37
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 27
+      },
+      "agendaItem": {
+        "title": "¿Sabe cuál es la realidad de la criminalidad cotidiana?",
+        "officialTitle": "¿Sabe cuál es la realidad de la criminalidad cotidiana?",
+        "type": "qa",
+        "nativeType": "ES-pregunta"
+      },
+      "dateStart": "2024-02-28T10:08:00+01:00",
+      "dateEnd": "2024-02-28T10:10:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_025/cortes/15_000400_025_0_24661_729094.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1529094I",
+        "duration": 120.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_025_0_24661_729094",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Fernando Grande-Marlaska Gómez",
+          "lastname": "Grande-Marlaska Gómez",
+          "firstname": "Fernando",
+          "type": "member of government",
+          "role": "Ministro del Interior"
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 38
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 27
+      },
+      "agendaItem": {
+        "title": "¿Qué información tenía usted sobre la trama corrupta que se\ndesarrolló en el seno del Ministerio de Transportes?",
+        "officialTitle": "¿Qué información tenía usted sobre la trama corrupta que se\ndesarrolló en el seno del Ministerio de Transportes?",
+        "type": "qa",
+        "nativeType": "ES-pregunta"
+      },
+      "dateStart": "2024-02-28T10:10:00+01:00",
+      "dateEnd": "2024-02-28T10:12:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_025/cortes/15_000400_025_0_24661_729095.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1529095I",
+        "duration": 120.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_025_0_24661_729095",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Ester Muñoz de la Iglesia",
+          "lastname": "Muñoz de la Iglesia",
+          "firstname": "Ester",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Popular en el Congreso"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 39
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 27
+      },
+      "agendaItem": {
+        "title": "¿Qué información tenía usted sobre la trama corrupta que se\ndesarrolló en el seno del Ministerio de Transportes?",
+        "officialTitle": "¿Qué información tenía usted sobre la trama corrupta que se\ndesarrolló en el seno del Ministerio de Transportes?",
+        "type": "qa",
+        "nativeType": "ES-pregunta"
+      },
+      "dateStart": "2024-02-28T10:12:00+01:00",
+      "dateEnd": "2024-02-28T10:12:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_025/cortes/15_000400_025_0_24661_729096.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1529096I",
+        "duration": 0.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_025_0_24661_729096",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Óscar Puente Santiago",
+          "lastname": "Puente Santiago",
+          "firstname": "Óscar",
+          "type": "member of government",
+          "role": "Ministro de Transportes y Movilidad Sostenible",
+          "faction": {
+            "label": "Grupo Parlamentario Socialista"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 40
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 27
+      },
+      "agendaItem": {
+        "title": "¿Qué información tenía usted sobre la trama corrupta que se\ndesarrolló en el seno del Ministerio de Transportes?",
+        "officialTitle": "¿Qué información tenía usted sobre la trama corrupta que se\ndesarrolló en el seno del Ministerio de Transportes?",
+        "type": "qa",
+        "nativeType": "ES-pregunta"
+      },
+      "dateStart": "2024-02-28T10:12:00+01:00",
+      "dateEnd": "2024-02-28T10:14:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_025/cortes/15_000400_025_0_24661_729097.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1529097I",
+        "duration": 120.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_025_0_24661_729097",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Ester Muñoz de la Iglesia",
+          "lastname": "Muñoz de la Iglesia",
+          "firstname": "Ester",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Popular en el Congreso"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 41
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 27
+      },
+      "agendaItem": {
+        "title": "¿Qué información tenía usted sobre la trama corrupta que se\ndesarrolló en el seno del Ministerio de Transportes?",
+        "officialTitle": "¿Qué información tenía usted sobre la trama corrupta que se\ndesarrolló en el seno del Ministerio de Transportes?",
+        "type": "qa",
+        "nativeType": "ES-pregunta"
+      },
+      "dateStart": "2024-02-28T10:14:00+01:00",
+      "dateEnd": "2024-02-28T10:16:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_025/cortes/15_000400_025_0_24661_729099.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1529099I",
+        "duration": 120.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_025_0_24661_729099",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Óscar Puente Santiago",
+          "lastname": "Puente Santiago",
+          "firstname": "Óscar",
+          "type": "member of government",
+          "role": "Ministro de Transportes y Movilidad Sostenible",
+          "faction": {
+            "label": "Grupo Parlamentario Socialista"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 42
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 27
+      },
+      "agendaItem": {
+        "title": "¿Cómo va a corregir el Gobierno español la desinversión crónica de\nlas Rodalies de Cataluña?",
+        "officialTitle": "¿Cómo va a corregir el Gobierno español la desinversión crónica de\nlas Rodalies de Cataluña?",
+        "type": "qa",
+        "nativeType": "ES-pregunta"
+      },
+      "dateStart": "2024-02-28T10:16:00+01:00",
+      "dateEnd": "2024-02-28T10:16:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_025/cortes/15_000400_025_0_24661_729101.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1529101I",
+        "duration": 0.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_025_0_24661_729101",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Isidre Gavin i Valls",
+          "lastname": "Gavin i Valls",
+          "firstname": "Isidre",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Junts per Catalunya"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 43
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 27
+      },
+      "agendaItem": {
+        "title": "¿Cómo va a corregir el Gobierno español la desinversión crónica de\nlas Rodalies de Cataluña?",
+        "officialTitle": "¿Cómo va a corregir el Gobierno español la desinversión crónica de\nlas Rodalies de Cataluña?",
+        "type": "qa",
+        "nativeType": "ES-pregunta"
+      },
+      "dateStart": "2024-02-28T10:16:00+01:00",
+      "dateEnd": "2024-02-28T10:17:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_025/cortes/15_000400_025_0_24661_729102.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1529102I",
+        "duration": 60.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_025_0_24661_729102",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Óscar Puente Santiago",
+          "lastname": "Puente Santiago",
+          "firstname": "Óscar",
+          "type": "member of government",
+          "role": "Ministro de Transportes y Movilidad Sostenible",
+          "faction": {
+            "label": "Grupo Parlamentario Socialista"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 44
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 27
+      },
+      "agendaItem": {
+        "title": "¿Cómo va a corregir el Gobierno español la desinversión crónica de\nlas Rodalies de Cataluña?",
+        "officialTitle": "¿Cómo va a corregir el Gobierno español la desinversión crónica de\nlas Rodalies de Cataluña?",
+        "type": "qa",
+        "nativeType": "ES-pregunta"
+      },
+      "dateStart": "2024-02-28T10:17:00+01:00",
+      "dateEnd": "2024-02-28T10:19:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_025/cortes/15_000400_025_0_24661_729103.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1529103I",
+        "duration": 120.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_025_0_24661_729103",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Isidre Gavin i Valls",
+          "lastname": "Gavin i Valls",
+          "firstname": "Isidre",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Junts per Catalunya"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 45
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 27
+      },
+      "agendaItem": {
+        "title": "¿Cómo va a corregir el Gobierno español la desinversión crónica de\nlas Rodalies de Cataluña?",
+        "officialTitle": "¿Cómo va a corregir el Gobierno español la desinversión crónica de\nlas Rodalies de Cataluña?",
+        "type": "qa",
+        "nativeType": "ES-pregunta"
+      },
+      "dateStart": "2024-02-28T10:19:00+01:00",
+      "dateEnd": "2024-02-28T10:21:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_025/cortes/15_000400_025_0_24661_729104.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1529104I",
+        "duration": 120.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_025_0_24661_729104",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Óscar Puente Santiago",
+          "lastname": "Puente Santiago",
+          "firstname": "Óscar",
+          "type": "member of government",
+          "role": "Ministro de Transportes y Movilidad Sostenible",
+          "faction": {
+            "label": "Grupo Parlamentario Socialista"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 46
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 27
+      },
+      "agendaItem": {
+        "title": "¿Qué medidas van a tomar para garantizar la igualdad de oportunidades\nen el deporte femenino?",
+        "officialTitle": "¿Qué medidas van a tomar para garantizar la igualdad de oportunidades\nen el deporte femenino?",
+        "type": "qa",
+        "nativeType": "ES-pregunta"
+      },
+      "dateStart": "2024-02-28T10:21:00+01:00",
+      "dateEnd": "2024-02-28T10:23:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_025/cortes/15_000400_025_0_24661_729106.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1529106I",
+        "duration": 120.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_025_0_24661_729106",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Borja Sémper Pascual",
+          "lastname": "Sémper Pascual",
+          "firstname": "Borja",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Popular en el Congreso"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 47
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 27
+      },
+      "agendaItem": {
+        "title": "¿Qué medidas van a tomar para garantizar la igualdad de oportunidades\nen el deporte femenino?",
+        "officialTitle": "¿Qué medidas van a tomar para garantizar la igualdad de oportunidades\nen el deporte femenino?",
+        "type": "qa",
+        "nativeType": "ES-pregunta"
+      },
+      "dateStart": "2024-02-28T10:23:00+01:00",
+      "dateEnd": "2024-02-28T10:24:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_025/cortes/15_000400_025_0_24661_729107.mp4\nhttps://www.congreso.es/audiovisual/video/leg15/400/15_000400_025/cortes/15_000400_025_0_24661_729109.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1529107I https://app.congreso.es/v1/15729109I",
+        "duration": 60.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_025_0_24661_729109",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "María Pilar Alegría Continente",
+          "lastname": "Alegría Continente",
+          "firstname": "María Pilar",
+          "type": "member of government",
+          "role": "Ministra de Educación, Formación Profesional y Deporte"
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 48
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 27
+      },
+      "agendaItem": {
+        "title": "¿Qué medidas van a tomar para garantizar la igualdad de oportunidades\nen el deporte femenino?",
+        "officialTitle": "¿Qué medidas van a tomar para garantizar la igualdad de oportunidades\nen el deporte femenino?",
+        "type": "qa",
+        "nativeType": "ES-pregunta"
+      },
+      "dateStart": "2024-02-28T10:24:00+01:00",
+      "dateEnd": "2024-02-28T10:25:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_025/cortes/15_000400_025_0_24661_729108.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1529108I",
+        "duration": 60.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_025_0_24661_729108",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Borja Sémper Pascual",
+          "lastname": "Sémper Pascual",
+          "firstname": "Borja",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Popular en el Congreso"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 49
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 27
+      },
+      "agendaItem": {
+        "title": "¿Cuál es la vinculación entre su Gobierno y los Gobiernos autonómicos\nde Baleares y Canarias en la trama corrupta de compra de mascarillas?",
+        "officialTitle": "¿Cuál es la vinculación entre su Gobierno y los Gobiernos autonómicos\nde Baleares y Canarias en la trama corrupta de compra de mascarillas?",
+        "type": "qa",
+        "nativeType": "ES-pregunta"
+      },
+      "dateStart": "2024-02-28T10:27:00+01:00",
+      "dateEnd": "2024-02-28T10:29:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_025/cortes/15_000400_025_0_24661_729111.mp4\nhttps://www.congreso.es/audiovisual/video/leg15/400/15_000400_025/cortes/15_000400_025_0_24661_729113.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1529111I https://app.congreso.es/v1/15729113I",
+        "duration": 120.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_025_0_24661_729113",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Pedro Muñoz Abrines",
+          "lastname": "Muñoz Abrines",
+          "firstname": "Pedro",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Popular en el Congreso"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 50
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 27
+      },
+      "agendaItem": {
+        "title": "¿Cuál es la vinculación entre su Gobierno y los Gobiernos autonómicos\nde Baleares y Canarias en la trama corrupta de compra de mascarillas?",
+        "officialTitle": "¿Cuál es la vinculación entre su Gobierno y los Gobiernos autonómicos\nde Baleares y Canarias en la trama corrupta de compra de mascarillas?",
+        "type": "qa",
+        "nativeType": "ES-pregunta"
+      },
+      "dateStart": "2024-02-28T10:29:00+01:00",
+      "dateEnd": "2024-02-28T10:30:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_025/cortes/15_000400_025_0_24661_729112.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1529112I",
+        "duration": 60.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_025_0_24661_729112",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "José Félix Tezanos Tortajada",
+          "lastname": "Tezanos Tortajada",
+          "firstname": "José Félix",
+          "type": "member of government",
+          "role": "Ministro de Política Territorial y Memoria Democrática"
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 51
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 27
+      },
+      "agendaItem": {
+        "title": "¿Cuál es la vinculación entre su Gobierno y los Gobiernos autonómicos\nde Baleares y Canarias en la trama corrupta de compra de mascarillas?",
+        "officialTitle": "¿Cuál es la vinculación entre su Gobierno y los Gobiernos autonómicos\nde Baleares y Canarias en la trama corrupta de compra de mascarillas?",
+        "type": "qa",
+        "nativeType": "ES-pregunta"
+      },
+      "dateStart": "2024-02-28T10:32:00+01:00",
+      "dateEnd": "2024-02-28T10:33:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_025/cortes/15_000400_025_0_24661_729114.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1529114I",
+        "duration": 60.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_025_0_24661_729114",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "José Félix Tezanos Tortajada",
+          "lastname": "Tezanos Tortajada",
+          "firstname": "José Félix",
+          "type": "member of government",
+          "role": "Ministro de Política Territorial y Memoria Democrática"
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 52
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 27
+      },
+      "agendaItem": {
+        "title": "¿Cuál es su opinión sobre la polémica ejecución del Guggenheim de\nUrdaibai para el que su Gobierno ya ha destinado 40 millones de euros?",
+        "officialTitle": "¿Cuál es su opinión sobre la polémica ejecución del Guggenheim de\nUrdaibai para el que su Gobierno ya ha destinado 40 millones de euros?",
+        "type": "qa",
+        "nativeType": "ES-pregunta"
+      },
+      "dateStart": "2024-02-28T10:33:00+01:00",
+      "dateEnd": "2024-02-28T10:35:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_025/cortes/15_000400_025_0_24661_729116.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1529116I",
+        "duration": 120.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_025_0_24661_729116",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Javier De Andrés Guerra",
+          "lastname": "De Andrés Guerra",
+          "firstname": "Javier",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Popular en el Congreso"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 53
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 27
+      },
+      "agendaItem": {
+        "title": "¿Cuál es su opinión sobre la polémica ejecución del Guggenheim de\nUrdaibai para el que su Gobierno ya ha destinado 40 millones de euros?",
+        "officialTitle": "¿Cuál es su opinión sobre la polémica ejecución del Guggenheim de\nUrdaibai para el que su Gobierno ya ha destinado 40 millones de euros?",
+        "type": "qa",
+        "nativeType": "ES-pregunta"
+      },
+      "dateStart": "2024-02-28T10:35:00+01:00",
+      "dateEnd": "2024-02-28T10:37:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_025/cortes/15_000400_025_0_24661_729117.mp4\nhttps://www.congreso.es/audiovisual/video/leg15/400/15_000400_025/cortes/15_000400_025_0_24661_729119.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1529117I https://app.congreso.es/v1/15729119I",
+        "duration": 120.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_025_0_24661_729119",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Ernest Urtasun Domènech",
+          "lastname": "Urtasun Domènech",
+          "firstname": "Ernest",
+          "type": "member of government",
+          "role": "Ministro de Cultura"
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 54
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 27
+      },
+      "agendaItem": {
+        "title": "¿Cuál es su opinión sobre la polémica ejecución del Guggenheim de\nUrdaibai para el que su Gobierno ya ha destinado 40 millones de euros?",
+        "officialTitle": "¿Cuál es su opinión sobre la polémica ejecución del Guggenheim de\nUrdaibai para el que su Gobierno ya ha destinado 40 millones de euros?",
+        "type": "qa",
+        "nativeType": "ES-pregunta"
+      },
+      "dateStart": "2024-02-28T10:37:00+01:00",
+      "dateEnd": "2024-02-28T10:38:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_025/cortes/15_000400_025_0_24661_729118.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1529118I",
+        "duration": 60.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_025_0_24661_729118",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Javier De Andrés Guerra",
+          "lastname": "De Andrés Guerra",
+          "firstname": "Javier",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Popular en el Congreso"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 55
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 27
+      },
+      "agendaItem": {
+        "title": "¿Cómo valora el empeoramiento de las cifras e índices de igualdad en\nnuestro país?",
+        "officialTitle": "¿Cómo valora el empeoramiento de las cifras e índices de igualdad en\nnuestro país?",
+        "type": "qa",
+        "nativeType": "ES-pregunta"
+      },
+      "dateStart": "2024-02-28T10:39:00+01:00",
+      "dateEnd": "2024-02-28T10:39:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_025/cortes/15_000400_025_0_24661_729121.mp4\nhttps://www.congreso.es/audiovisual/video/leg15/400/15_000400_025/cortes/15_000400_025_0_24661_729123.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1529121I https://app.congreso.es/v1/15729123I",
+        "duration": 0.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_025_0_24661_729123",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Ana Isabel Alós López",
+          "lastname": "Alós López",
+          "firstname": "Ana Isabel",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Popular en el Congreso"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 56
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 27
+      },
+      "agendaItem": {
+        "title": "¿Cómo valora el empeoramiento de las cifras e índices de igualdad en\nnuestro país?",
+        "officialTitle": "¿Cómo valora el empeoramiento de las cifras e índices de igualdad en\nnuestro país?",
+        "type": "qa",
+        "nativeType": "ES-pregunta"
+      },
+      "dateStart": "2024-02-28T10:39:00+01:00",
+      "dateEnd": "2024-02-28T10:40:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_025/cortes/15_000400_025_0_24661_729122.mp4\nhttps://www.congreso.es/audiovisual/video/leg15/400/15_000400_025/cortes/15_000400_025_0_24661_729124.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1529122I https://app.congreso.es/v1/15729124I",
+        "duration": 60.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_025_0_24661_729124",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Ana María del Carmen Redondo García",
+          "lastname": "Redondo García",
+          "firstname": "Ana María del Carmen",
+          "type": "member of government",
+          "role": "Ministra de Igualdad"
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 57
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 27
+      },
+      "agendaItem": {
+        "title": "Interpelación urgente en relación con la política general del\nGobierno sobre la situación de los trabajadores y trabajadoras del campo.",
+        "officialTitle": "Interpelación urgente en relación con la política general del\nGobierno sobre la situación de los trabajadores y trabajadoras del campo.",
+        "type": "questioning_of_the_government",
+        "nativeType": "ES-interpelacion"
+      },
+      "dateStart": "2024-02-28T10:45:00+01:00",
+      "dateEnd": "2024-02-28T10:56:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_025/cortes/15_000400_025_0_24661_729127.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1529127I",
+        "duration": 660.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_025_0_24661_729127",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Javier Sánchez Serna",
+          "lastname": "Sánchez Serna",
+          "firstname": "Javier",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Mixto"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 58
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 27
+      },
+      "agendaItem": {
+        "title": "Interpelación urgente en relación con la política general del\nGobierno sobre la situación de los trabajadores y trabajadoras del campo.",
+        "officialTitle": "Interpelación urgente en relación con la política general del\nGobierno sobre la situación de los trabajadores y trabajadoras del campo.",
+        "type": "questioning_of_the_government",
+        "nativeType": "ES-interpelacion"
+      },
+      "dateStart": "2024-02-28T10:56:00+01:00",
+      "dateEnd": "2024-02-28T11:07:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_025/cortes/15_000400_025_0_24661_729128.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1529128I",
+        "duration": 660.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_025_0_24661_729128",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Elma Saiz Delgado",
+          "lastname": "Saiz Delgado",
+          "firstname": "Elma",
+          "type": "member of government",
+          "role": "Ministra de Inclusión, Seguridad Social y Migraciones"
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 59
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 27
+      },
+      "agendaItem": {
+        "title": "Interpelación urgente en relación con la política general del\nGobierno sobre la situación de los trabajadores y trabajadoras del campo.",
+        "officialTitle": "Interpelación urgente en relación con la política general del\nGobierno sobre la situación de los trabajadores y trabajadoras del campo.",
+        "type": "questioning_of_the_government",
+        "nativeType": "ES-interpelacion"
+      },
+      "dateStart": "2024-02-28T11:07:00+01:00",
+      "dateEnd": "2024-02-28T11:12:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_025/cortes/15_000400_025_0_24661_729129.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1529129I",
+        "duration": 300.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_025_0_24661_729129",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Javier Sánchez Serna",
+          "lastname": "Sánchez Serna",
+          "firstname": "Javier",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Mixto"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 60
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 27
+      },
+      "agendaItem": {
+        "title": "Interpelación urgente en relación con la política general del\nGobierno sobre la situación de los trabajadores y trabajadoras del campo.",
+        "officialTitle": "Interpelación urgente en relación con la política general del\nGobierno sobre la situación de los trabajadores y trabajadoras del campo.",
+        "type": "questioning_of_the_government",
+        "nativeType": "ES-interpelacion"
+      },
+      "dateStart": "2024-02-28T11:12:00+01:00",
+      "dateEnd": "2024-02-28T11:17:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_025/cortes/15_000400_025_0_24661_729130.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1529130I",
+        "duration": 300.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_025_0_24661_729130",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Elma Saiz Delgado",
+          "lastname": "Saiz Delgado",
+          "firstname": "Elma",
+          "type": "member of government",
+          "role": "Ministra de Inclusión, Seguridad Social y Migraciones"
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 61
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 27
+      },
+      "agendaItem": {
+        "title": "Interpelación urgente relativa a la responsabilidad del Gobierno en\nlos hechos que derivaron en las detenciones por el presunto cobro de\ncomisiones ilegales en la venta de mascarillas durante la pandemia de la\nCOVID-19.",
+        "officialTitle": "Interpelación urgente relativa a la responsabilidad del Gobierno en\nlos hechos que derivaron en las detenciones por el presunto cobro de\ncomisiones ilegales en la venta de mascarillas durante la pandemia de la\nCOVID-19.",
+        "type": "questioning_of_the_government",
+        "nativeType": "ES-interpelacion"
+      },
+      "dateStart": "2024-02-28T11:17:00+01:00",
+      "dateEnd": "2024-02-28T11:31:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_025/cortes/15_000400_025_0_24661_729132.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1529132I",
+        "duration": 840.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_025_0_24661_729132",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Marta González Vázquez",
+          "lastname": "González Vázquez",
+          "firstname": "Marta",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Popular en el Congreso"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 62
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 27
+      },
+      "agendaItem": {
+        "title": "Interpelación urgente relativa a la responsabilidad del Gobierno en\nlos hechos que derivaron en las detenciones por el presunto cobro de\ncomisiones ilegales en la venta de mascarillas durante la pandemia de la\nCOVID-19.",
+        "officialTitle": "Interpelación urgente relativa a la responsabilidad del Gobierno en\nlos hechos que derivaron en las detenciones por el presunto cobro de\ncomisiones ilegales en la venta de mascarillas durante la pandemia de la\nCOVID-19.",
+        "type": "questioning_of_the_government",
+        "nativeType": "ES-interpelacion"
+      },
+      "dateStart": "2024-02-28T11:31:00+01:00",
+      "dateEnd": "2024-02-28T11:42:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_025/cortes/15_000400_025_0_24661_729133.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1529133I",
+        "duration": 660.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_025_0_24661_729133",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Fernando Grande-Marlaska Gómez",
+          "lastname": "Grande-Marlaska Gómez",
+          "firstname": "Fernando",
+          "type": "member of government",
+          "role": "Ministro del Interior"
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 63
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 27
+      },
+      "agendaItem": {
+        "title": "Interpelación urgente relativa a la responsabilidad del Gobierno en\nlos hechos que derivaron en las detenciones por el presunto cobro de\ncomisiones ilegales en la venta de mascarillas durante la pandemia de la\nCOVID-19.",
+        "officialTitle": "Interpelación urgente relativa a la responsabilidad del Gobierno en\nlos hechos que derivaron en las detenciones por el presunto cobro de\ncomisiones ilegales en la venta de mascarillas durante la pandemia de la\nCOVID-19.",
+        "type": "questioning_of_the_government",
+        "nativeType": "ES-interpelacion"
+      },
+      "dateStart": "2024-02-28T11:42:00+01:00",
+      "dateEnd": "2024-02-28T11:49:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_025/cortes/15_000400_025_0_24661_729134.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1529134I",
+        "duration": 420.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_025_0_24661_729134",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Marta González Vázquez",
+          "lastname": "González Vázquez",
+          "firstname": "Marta",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Popular en el Congreso"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 64
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 27
+      },
+      "agendaItem": {
+        "title": "Interpelación urgente relativa a la responsabilidad del Gobierno en\nlos hechos que derivaron en las detenciones por el presunto cobro de\ncomisiones ilegales en la venta de mascarillas durante la pandemia de la\nCOVID-19.",
+        "officialTitle": "Interpelación urgente relativa a la responsabilidad del Gobierno en\nlos hechos que derivaron en las detenciones por el presunto cobro de\ncomisiones ilegales en la venta de mascarillas durante la pandemia de la\nCOVID-19.",
+        "type": "questioning_of_the_government",
+        "nativeType": "ES-interpelacion"
+      },
+      "dateStart": "2024-02-28T11:49:00+01:00",
+      "dateEnd": "2024-02-28T11:55:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_025/cortes/15_000400_025_0_24661_729135.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1529135I",
+        "duration": 360.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_025_0_24661_729135",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Fernando Grande-Marlaska Gómez",
+          "lastname": "Grande-Marlaska Gómez",
+          "firstname": "Fernando",
+          "type": "member of government",
+          "role": "Ministro del Interior"
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 65
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 27
+      },
+      "agendaItem": {
+        "title": "Interpelación urgente al Ministro de Cultura sobre las políticas que\nva a desarrollar su Ministerio para defender el legado cultural y\ncivilizador de España.",
+        "officialTitle": "Interpelación urgente al Ministro de Cultura sobre las políticas que\nva a desarrollar su Ministerio para defender el legado cultural y\ncivilizador de España.",
+        "type": "questioning_of_the_government",
+        "nativeType": "ES-interpelacion"
+      },
+      "dateStart": "2024-02-28T11:56:00+01:00",
+      "dateEnd": "2024-02-28T12:09:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_025/cortes/15_000400_025_1_24664_729140.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1529140I",
+        "duration": 780.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_025_1_24664_729140",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Joaquín Robles López",
+          "lastname": "Robles López",
+          "firstname": "Joaquín",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario VOX"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 66
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 27
+      },
+      "agendaItem": {
+        "title": "Interpelación urgente al Ministro de Cultura sobre las políticas que\nva a desarrollar su Ministerio para defender el legado cultural y\ncivilizador de España.",
+        "officialTitle": "Interpelación urgente al Ministro de Cultura sobre las políticas que\nva a desarrollar su Ministerio para defender el legado cultural y\ncivilizador de España.",
+        "type": "questioning_of_the_government",
+        "nativeType": "ES-interpelacion"
+      },
+      "dateStart": "2024-02-28T12:09:00+01:00",
+      "dateEnd": "2024-02-28T12:19:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_025/cortes/15_000400_025_1_24664_729141.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1529141I",
+        "duration": 600.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_025_1_24664_729141",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Ernest Urtasun Domènech",
+          "lastname": "Urtasun Domènech",
+          "firstname": "Ernest",
+          "type": "member of government",
+          "role": "Ministro de Cultura"
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 67
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 27
+      },
+      "agendaItem": {
+        "title": "Interpelación urgente al Ministro de Cultura sobre las políticas que\nva a desarrollar su Ministerio para defender el legado cultural y\ncivilizador de España.",
+        "officialTitle": "Interpelación urgente al Ministro de Cultura sobre las políticas que\nva a desarrollar su Ministerio para defender el legado cultural y\ncivilizador de España.",
+        "type": "questioning_of_the_government",
+        "nativeType": "ES-interpelacion"
+      },
+      "dateStart": "2024-02-28T12:19:00+01:00",
+      "dateEnd": "2024-02-28T12:23:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_025/cortes/15_000400_025_1_24664_729145.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1529145I",
+        "duration": 240.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_025_1_24664_729145",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Joaquín Robles López",
+          "lastname": "Robles López",
+          "firstname": "Joaquín",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario VOX"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 68
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 27
+      },
+      "agendaItem": {
+        "title": "Interpelación urgente al Ministro de Cultura sobre las políticas que\nva a desarrollar su Ministerio para defender el legado cultural y\ncivilizador de España.",
+        "officialTitle": "Interpelación urgente al Ministro de Cultura sobre las políticas que\nva a desarrollar su Ministerio para defender el legado cultural y\ncivilizador de España.",
+        "type": "questioning_of_the_government",
+        "nativeType": "ES-interpelacion"
+      },
+      "dateStart": "2024-02-28T12:23:00+01:00",
+      "dateEnd": "2024-02-28T12:28:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_025/cortes/15_000400_025_1_24664_729147.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1529147I",
+        "duration": 300.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_025_1_24664_729147",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Ernest Urtasun Domènech",
+          "lastname": "Urtasun Domènech",
+          "firstname": "Ernest",
+          "type": "member of government",
+          "role": "Ministro de Cultura"
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 69
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 27
+      },
+      "agendaItem": {
+        "title": "Moción consecuencia de interpelación urgente relativa a la escasez de\nmedios para hacer frente al narcotráfico y la responsabilidad del\nGobierno en el asesinato de dos guardias civiles en Barbate.",
+        "officialTitle": "Moción consecuencia de interpelación urgente relativa a la escasez de\nmedios para hacer frente al narcotráfico y la responsabilidad del\nGobierno en el asesinato de dos guardias civiles en Barbate.",
+        "type": "regular",
+        "nativeType": "ES-mocion"
+      },
+      "dateStart": "2024-02-28T12:28:00+01:00",
+      "dateEnd": "2024-02-28T12:37:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_025/cortes/15_000400_025_1_24664_729150.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1529150I",
+        "duration": 540.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_025_1_24664_729150",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Miguel Tellado Filgueira",
+          "lastname": "Tellado Filgueira",
+          "firstname": "Miguel",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Popular en el Congreso"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 70
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 27
+      },
+      "agendaItem": {
+        "title": "Moción consecuencia de interpelación urgente relativa a la escasez de\nmedios para hacer frente al narcotráfico y la responsabilidad del\nGobierno en el asesinato de dos guardias civiles en Barbate.",
+        "officialTitle": "Moción consecuencia de interpelación urgente relativa a la escasez de\nmedios para hacer frente al narcotráfico y la responsabilidad del\nGobierno en el asesinato de dos guardias civiles en Barbate.",
+        "type": "regular",
+        "nativeType": "ES-mocion"
+      },
+      "dateStart": "2024-02-28T12:37:00+01:00",
+      "dateEnd": "2024-02-28T12:42:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_025/cortes/15_000400_025_1_24664_729151.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1529151I",
+        "duration": 300.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_025_1_24664_729151",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Noemí Santana Perera",
+          "lastname": "Santana Perera",
+          "firstname": "Noemí",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Mixto"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 71
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 27
+      },
+      "agendaItem": {
+        "title": "Moción consecuencia de interpelación urgente relativa a la escasez de\nmedios para hacer frente al narcotráfico y la responsabilidad del\nGobierno en el asesinato de dos guardias civiles en Barbate.",
+        "officialTitle": "Moción consecuencia de interpelación urgente relativa a la escasez de\nmedios para hacer frente al narcotráfico y la responsabilidad del\nGobierno en el asesinato de dos guardias civiles en Barbate.",
+        "type": "regular",
+        "nativeType": "ES-mocion"
+      },
+      "dateStart": "2024-02-28T12:42:00+01:00",
+      "dateEnd": "2024-02-28T12:45:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_025/cortes/15_000400_025_1_24664_729152.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1529152I",
+        "duration": 180.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_025_1_24664_729152",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Alberto Catalán Higueras",
+          "lastname": "Catalán Higueras",
+          "firstname": "Alberto",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Mixto"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 72
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 27
+      },
+      "agendaItem": {
+        "title": "Moción consecuencia de interpelación urgente relativa a la escasez de\nmedios para hacer frente al narcotráfico y la responsabilidad del\nGobierno en el asesinato de dos guardias civiles en Barbate.",
+        "officialTitle": "Moción consecuencia de interpelación urgente relativa a la escasez de\nmedios para hacer frente al narcotráfico y la responsabilidad del\nGobierno en el asesinato de dos guardias civiles en Barbate.",
+        "type": "regular",
+        "nativeType": "ES-mocion"
+      },
+      "dateStart": "2024-02-28T12:45:00+01:00",
+      "dateEnd": "2024-02-28T12:52:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_025/cortes/15_000400_025_1_24664_729153.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1529153I",
+        "duration": 420.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_025_1_24664_729153",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Mikel Legarda Uriarte",
+          "lastname": "Legarda Uriarte",
+          "firstname": "Mikel",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Vasco (EAJ-PNV)"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 73
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 27
+      },
+      "agendaItem": {
+        "title": "Moción consecuencia de interpelación urgente relativa a la escasez de\nmedios para hacer frente al narcotráfico y la responsabilidad del\nGobierno en el asesinato de dos guardias civiles en Barbate.",
+        "officialTitle": "Moción consecuencia de interpelación urgente relativa a la escasez de\nmedios para hacer frente al narcotráfico y la responsabilidad del\nGobierno en el asesinato de dos guardias civiles en Barbate.",
+        "type": "regular",
+        "nativeType": "ES-mocion"
+      },
+      "dateStart": "2024-02-28T12:52:00+01:00",
+      "dateEnd": "2024-02-28T12:58:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_025/cortes/15_000400_025_1_24664_729154.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1529154I",
+        "duration": 360.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_025_1_24664_729154",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Jon Iñarritu García",
+          "lastname": "Iñarritu García",
+          "firstname": "Jon",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Euskal Herria Bildu"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 74
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 27
+      },
+      "agendaItem": {
+        "title": "Moción consecuencia de interpelación urgente relativa a la escasez de\nmedios para hacer frente al narcotráfico y la responsabilidad del\nGobierno en el asesinato de dos guardias civiles en Barbate.",
+        "officialTitle": "Moción consecuencia de interpelación urgente relativa a la escasez de\nmedios para hacer frente al narcotráfico y la responsabilidad del\nGobierno en el asesinato de dos guardias civiles en Barbate.",
+        "type": "regular",
+        "nativeType": "ES-mocion"
+      },
+      "dateStart": "2024-02-28T12:58:00+01:00",
+      "dateEnd": "2024-02-28T13:04:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_025/cortes/15_000400_025_1_24664_729155.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1529155I",
+        "duration": 360.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_025_1_24664_729155",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Montserrat Bassa Coll",
+          "lastname": "Bassa Coll",
+          "firstname": "Montserrat",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Republicano"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 75
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 27
+      },
+      "agendaItem": {
+        "title": "Moción consecuencia de interpelación urgente relativa a la escasez de\nmedios para hacer frente al narcotráfico y la responsabilidad del\nGobierno en el asesinato de dos guardias civiles en Barbate.",
+        "officialTitle": "Moción consecuencia de interpelación urgente relativa a la escasez de\nmedios para hacer frente al narcotráfico y la responsabilidad del\nGobierno en el asesinato de dos guardias civiles en Barbate.",
+        "type": "regular",
+        "nativeType": "ES-mocion"
+      },
+      "dateStart": "2024-02-28T13:04:00+01:00",
+      "dateEnd": "2024-02-28T13:11:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_025/cortes/15_000400_025_1_24664_729156.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1529156I",
+        "duration": 420.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_025_1_24664_729156",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Engracia Rivera Arias",
+          "lastname": "Rivera Arias",
+          "firstname": "Engracia",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Plurinacional SUMAR"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 76
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 27
+      },
+      "agendaItem": {
+        "title": "Moción consecuencia de interpelación urgente relativa a la escasez de\nmedios para hacer frente al narcotráfico y la responsabilidad del\nGobierno en el asesinato de dos guardias civiles en Barbate.",
+        "officialTitle": "Moción consecuencia de interpelación urgente relativa a la escasez de\nmedios para hacer frente al narcotráfico y la responsabilidad del\nGobierno en el asesinato de dos guardias civiles en Barbate.",
+        "type": "regular",
+        "nativeType": "ES-mocion"
+      },
+      "dateStart": "2024-02-28T13:11:00+01:00",
+      "dateEnd": "2024-02-28T13:17:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_025/cortes/15_000400_025_1_24664_729157.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1529157I",
+        "duration": 360.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_025_1_24664_729157",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Blanca Armario González",
+          "lastname": "Armario González",
+          "firstname": "Blanca",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario VOX"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 77
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 27
+      },
+      "agendaItem": {
+        "title": "Moción consecuencia de interpelación urgente relativa a la escasez de\nmedios para hacer frente al narcotráfico y la responsabilidad del\nGobierno en el asesinato de dos guardias civiles en Barbate.",
+        "officialTitle": "Moción consecuencia de interpelación urgente relativa a la escasez de\nmedios para hacer frente al narcotráfico y la responsabilidad del\nGobierno en el asesinato de dos guardias civiles en Barbate.",
+        "type": "regular",
+        "nativeType": "ES-mocion"
+      },
+      "dateStart": "2024-02-28T13:17:00+01:00",
+      "dateEnd": "2024-02-28T13:24:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_025/cortes/15_000400_025_1_24664_729158.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1529158I",
+        "duration": 420.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_025_1_24664_729158",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Juan Carlos Ruiz Boix",
+          "lastname": "Ruiz Boix",
+          "firstname": "Juan Carlos",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Socialista"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 78
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 27
+      },
+      "agendaItem": {
+        "title": "Moción consecuencia de interpelación urgente relativa a la escasez de\nmedios para hacer frente al narcotráfico y la responsabilidad del\nGobierno en el asesinato de dos guardias civiles en Barbate.",
+        "officialTitle": "Moción consecuencia de interpelación urgente relativa a la escasez de\nmedios para hacer frente al narcotráfico y la responsabilidad del\nGobierno en el asesinato de dos guardias civiles en Barbate.",
+        "type": "regular",
+        "nativeType": "ES-mocion"
+      },
+      "dateStart": "2024-02-28T13:24:00+01:00",
+      "dateEnd": "2024-02-28T13:24:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_025/cortes/15_000400_025_1_24664_729159.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1529159I",
+        "duration": 0.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_025_1_24664_729159",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Miguel Tellado Filgueira",
+          "lastname": "Tellado Filgueira",
+          "firstname": "Miguel",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Popular en el Congreso"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 79
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 27
+      },
+      "agendaItem": {
+        "title": "Moción consecuencia de interpelación urgente sobre las actuaciones\nque va a llevar a cabo el Ministerio de la Presidencia, Justicia y\nRelaciones con las Cortes para garantizar la independencia del Poder\nJudicial.",
+        "officialTitle": "Moción consecuencia de interpelación urgente sobre las actuaciones\nque va a llevar a cabo el Ministerio de la Presidencia, Justicia y\nRelaciones con las Cortes para garantizar la independencia del Poder\nJudicial.",
+        "type": "regular",
+        "nativeType": "ES-mocion"
+      },
+      "dateStart": "2024-02-28T13:24:00+01:00",
+      "dateEnd": "2024-02-28T13:34:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_025/cortes/15_000400_025_1_24664_729162.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1529162I",
+        "duration": 600.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_025_1_24664_729162",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Carlos Flores Juberías",
+          "lastname": "Flores Juberías",
+          "firstname": "Carlos",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario VOX"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 80
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 27
+      },
+      "agendaItem": {
+        "title": "Moción consecuencia de interpelación urgente sobre las actuaciones\nque va a llevar a cabo el Ministerio de la Presidencia, Justicia y\nRelaciones con las Cortes para garantizar la independencia del Poder\nJudicial.",
+        "officialTitle": "Moción consecuencia de interpelación urgente sobre las actuaciones\nque va a llevar a cabo el Ministerio de la Presidencia, Justicia y\nRelaciones con las Cortes para garantizar la independencia del Poder\nJudicial.",
+        "type": "regular",
+        "nativeType": "ES-mocion"
+      },
+      "dateStart": "2024-02-28T13:34:00+01:00",
+      "dateEnd": "2024-02-28T13:41:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_025/cortes/15_000400_025_1_24664_729163.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1529163I",
+        "duration": 420.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_025_1_24664_729163",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Francisco Sierra Caballero",
+          "lastname": "Sierra Caballero",
+          "firstname": "Francisco",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Plurinacional SUMAR"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 81
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 27
+      },
+      "agendaItem": {
+        "title": "Moción consecuencia de interpelación urgente sobre las actuaciones\nque va a llevar a cabo el Ministerio de la Presidencia, Justicia y\nRelaciones con las Cortes para garantizar la independencia del Poder\nJudicial.",
+        "officialTitle": "Moción consecuencia de interpelación urgente sobre las actuaciones\nque va a llevar a cabo el Ministerio de la Presidencia, Justicia y\nRelaciones con las Cortes para garantizar la independencia del Poder\nJudicial.",
+        "type": "regular",
+        "nativeType": "ES-mocion"
+      },
+      "dateStart": "2024-02-28T13:41:00+01:00",
+      "dateEnd": "2024-02-28T13:49:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_025/cortes/15_000400_025_1_24664_729164.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1529164I",
+        "duration": 480.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_025_1_24664_729164",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Mercedes González Fernández",
+          "lastname": "González Fernández",
+          "firstname": "Mercedes",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Socialista"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 82
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 27
+      },
+      "agendaItem": {
+        "title": "Moción consecuencia de interpelación urgente sobre las actuaciones\nque va a llevar a cabo el Ministerio de la Presidencia, Justicia y\nRelaciones con las Cortes para garantizar la independencia del Poder\nJudicial.",
+        "officialTitle": "Moción consecuencia de interpelación urgente sobre las actuaciones\nque va a llevar a cabo el Ministerio de la Presidencia, Justicia y\nRelaciones con las Cortes para garantizar la independencia del Poder\nJudicial.",
+        "type": "regular",
+        "nativeType": "ES-mocion"
+      },
+      "dateStart": "2024-02-28T13:49:00+01:00",
+      "dateEnd": "2024-02-28T13:56:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_025/cortes/15_000400_025_1_24664_729165.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1529165I",
+        "duration": 420.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_025_1_24664_729165",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "María del Mar González Bella",
+          "lastname": "González Bella",
+          "firstname": "María del Mar",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Popular en el Congreso"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 83
+    }
+  ]
+}

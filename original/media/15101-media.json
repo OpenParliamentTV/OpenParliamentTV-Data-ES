@@ -1,0 +1,4124 @@
+{
+  "meta": {
+    "session": "15101",
+    "processing": {
+      "parse_media": "2026-05-23T07:17:41"
+    },
+    "dateStart": "2025-03-12T09:01:00+01:00",
+    "dateEnd": "2025-03-12T18:04:00+01:00"
+  },
+  "data": [
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 101
+      },
+      "agendaItem": {
+        "title": "¿Qué más van a ceder para seguir en el Gobierno?",
+        "officialTitle": "¿Qué más van a ceder para seguir en el Gobierno?",
+        "type": "qa",
+        "nativeType": "ES-pregunta"
+      },
+      "dateStart": "2025-03-12T09:01:00+01:00",
+      "dateEnd": "2025-03-12T09:03:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_097/cortes/15_000400_097_0_25875_749194.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1549194I",
+        "duration": 120.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_097_0_25875_749194",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Concepción Gamarra Ruiz-Clavijo",
+          "lastname": "Gamarra Ruiz-Clavijo",
+          "firstname": "Concepción",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Popular en el Congreso"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 1
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 101
+      },
+      "agendaItem": {
+        "title": "¿Qué más van a ceder para seguir en el Gobierno?",
+        "officialTitle": "¿Qué más van a ceder para seguir en el Gobierno?",
+        "type": "qa",
+        "nativeType": "ES-pregunta"
+      },
+      "dateStart": "2025-03-12T09:03:00+01:00",
+      "dateEnd": "2025-03-12T09:04:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_097/cortes/15_000400_097_0_25875_749195.mp4\nhttps://www.congreso.es/audiovisual/video/leg15/400/15_000400_097/cortes/15_000400_097_0_25875_749197.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1549195I https://app.congreso.es/v1/15749197I",
+        "duration": 60.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_097_0_25875_749197",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "María Jesús Montero Cuadrado",
+          "lastname": "Montero Cuadrado",
+          "firstname": "María Jesús",
+          "type": "member of government",
+          "role": "Vicepresidenta Primera del Gobierno y Ministra de Hacienda",
+          "faction": {
+            "label": "Grupo Parlamentario Socialista"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 2
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 101
+      },
+      "agendaItem": {
+        "title": "¿Qué más van a ceder para seguir en el Gobierno?",
+        "officialTitle": "¿Qué más van a ceder para seguir en el Gobierno?",
+        "type": "qa",
+        "nativeType": "ES-pregunta"
+      },
+      "dateStart": "2025-03-12T09:04:00+01:00",
+      "dateEnd": "2025-03-12T09:05:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_097/cortes/15_000400_097_0_25875_749196.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1549196I",
+        "duration": 60.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_097_0_25875_749196",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Concepción Gamarra Ruiz-Clavijo",
+          "lastname": "Gamarra Ruiz-Clavijo",
+          "firstname": "Concepción",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Popular en el Congreso"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 3
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 101
+      },
+      "agendaItem": {
+        "title": "¿Cree que nuestro país merece un Ministerio de Hacienda como el que\nusted dirige?",
+        "officialTitle": "¿Cree que nuestro país merece un Ministerio de Hacienda como el que\nusted dirige?",
+        "type": "qa",
+        "nativeType": "ES-pregunta"
+      },
+      "dateStart": "2025-03-12T09:08:00+01:00",
+      "dateEnd": "2025-03-12T09:10:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_097/cortes/15_000400_097_0_25875_749199.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1549199I",
+        "duration": 120.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_097_0_25875_749199",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Elías Bendodo Benasayag",
+          "lastname": "Bendodo Benasayag",
+          "firstname": "Elías",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Popular en el Congreso"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 4
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 101
+      },
+      "agendaItem": {
+        "title": "¿Cree que nuestro país merece un Ministerio de Hacienda como el que\nusted dirige?",
+        "officialTitle": "¿Cree que nuestro país merece un Ministerio de Hacienda como el que\nusted dirige?",
+        "type": "qa",
+        "nativeType": "ES-pregunta"
+      },
+      "dateStart": "2025-03-12T09:10:00+01:00",
+      "dateEnd": "2025-03-12T09:12:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_097/cortes/15_000400_097_0_25875_749200.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1549200I",
+        "duration": 120.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_097_0_25875_749200",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "María Jesús Montero Cuadrado",
+          "lastname": "Montero Cuadrado",
+          "firstname": "María Jesús",
+          "type": "member of government",
+          "role": "Vicepresidenta Primera del Gobierno y Ministra de Hacienda",
+          "faction": {
+            "label": "Grupo Parlamentario Socialista"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 5
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 101
+      },
+      "agendaItem": {
+        "title": "¿Cree que nuestro país merece un Ministerio de Hacienda como el que\nusted dirige?",
+        "officialTitle": "¿Cree que nuestro país merece un Ministerio de Hacienda como el que\nusted dirige?",
+        "type": "qa",
+        "nativeType": "ES-pregunta"
+      },
+      "dateStart": "2025-03-12T09:12:00+01:00",
+      "dateEnd": "2025-03-12T09:13:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_097/cortes/15_000400_097_0_25875_749201.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1549201I",
+        "duration": 60.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_097_0_25875_749201",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Elías Bendodo Benasayag",
+          "lastname": "Bendodo Benasayag",
+          "firstname": "Elías",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Popular en el Congreso"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 6
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 101
+      },
+      "agendaItem": {
+        "title": "¿Cree que nuestro país merece un Ministerio de Hacienda como el que\nusted dirige?",
+        "officialTitle": "¿Cree que nuestro país merece un Ministerio de Hacienda como el que\nusted dirige?",
+        "type": "qa",
+        "nativeType": "ES-pregunta"
+      },
+      "dateStart": "2025-03-12T09:13:00+01:00",
+      "dateEnd": "2025-03-12T09:14:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_097/cortes/15_000400_097_0_25875_749202.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1549202I",
+        "duration": 60.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_097_0_25875_749202",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "María Jesús Montero Cuadrado",
+          "lastname": "Montero Cuadrado",
+          "firstname": "María Jesús",
+          "type": "member of government",
+          "role": "Vicepresidenta Primera del Gobierno y Ministra de Hacienda",
+          "faction": {
+            "label": "Grupo Parlamentario Socialista"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 7
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 101
+      },
+      "agendaItem": {
+        "title": "¿A cuántos miembros de su Gobierno y de su partido veremos pasar por\nlos juzgados en las próximas semanas?",
+        "officialTitle": "¿A cuántos miembros de su Gobierno y de su partido veremos pasar por\nlos juzgados en las próximas semanas?",
+        "type": "qa",
+        "nativeType": "ES-pregunta"
+      },
+      "dateStart": "2025-03-12T09:14:00+01:00",
+      "dateEnd": "2025-03-12T09:16:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_097/cortes/15_000400_097_0_25875_749204.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1549204I",
+        "duration": 120.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_097_0_25875_749204",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Mirian Guardiola Salmerón",
+          "lastname": "Guardiola Salmerón",
+          "firstname": "Mirian",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Popular en el Congreso"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 8
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 101
+      },
+      "agendaItem": {
+        "title": "¿A cuántos miembros de su Gobierno y de su partido veremos pasar por\nlos juzgados en las próximas semanas?",
+        "officialTitle": "¿A cuántos miembros de su Gobierno y de su partido veremos pasar por\nlos juzgados en las próximas semanas?",
+        "type": "qa",
+        "nativeType": "ES-pregunta"
+      },
+      "dateStart": "2025-03-12T09:16:00+01:00",
+      "dateEnd": "2025-03-12T09:17:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_097/cortes/15_000400_097_0_25875_749205.mp4\nhttps://www.congreso.es/audiovisual/video/leg15/400/15_000400_097/cortes/15_000400_097_0_25875_749207.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1549205I https://app.congreso.es/v1/15749207I",
+        "duration": 60.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_097_0_25875_749207",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "María Jesús Montero Cuadrado",
+          "lastname": "Montero Cuadrado",
+          "firstname": "María Jesús",
+          "type": "member of government",
+          "role": "Vicepresidenta Primera del Gobierno y Ministra de Hacienda",
+          "faction": {
+            "label": "Grupo Parlamentario Socialista"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 9
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 101
+      },
+      "agendaItem": {
+        "title": "¿A cuántos miembros de su Gobierno y de su partido veremos pasar por\nlos juzgados en las próximas semanas?",
+        "officialTitle": "¿A cuántos miembros de su Gobierno y de su partido veremos pasar por\nlos juzgados en las próximas semanas?",
+        "type": "qa",
+        "nativeType": "ES-pregunta"
+      },
+      "dateStart": "2025-03-12T09:17:00+01:00",
+      "dateEnd": "2025-03-12T09:18:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_097/cortes/15_000400_097_0_25875_749206.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1549206I",
+        "duration": 60.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_097_0_25875_749206",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Mirian Guardiola Salmerón",
+          "lastname": "Guardiola Salmerón",
+          "firstname": "Mirian",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Popular en el Congreso"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 10
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 101
+      },
+      "agendaItem": {
+        "title": "¿Es la igualdad entre españoles una prioridad de este Gobierno?",
+        "officialTitle": "¿Es la igualdad entre españoles una prioridad de este Gobierno?",
+        "type": "qa",
+        "nativeType": "ES-pregunta"
+      },
+      "dateStart": "2025-03-12T09:20:00+01:00",
+      "dateEnd": "2025-03-12T09:21:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_097/cortes/15_000400_097_0_25875_749209.mp4\nhttps://www.congreso.es/audiovisual/video/leg15/400/15_000400_097/cortes/15_000400_097_0_25875_749211.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1549209I https://app.congreso.es/v1/15749211I",
+        "duration": 60.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_097_0_25875_749211",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Jaime Eduardo de Olano Vela",
+          "lastname": "Olano Vela",
+          "firstname": "Jaime Eduardo de",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Popular en el Congreso"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 11
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 101
+      },
+      "agendaItem": {
+        "title": "¿Es la igualdad entre españoles una prioridad de este Gobierno?",
+        "officialTitle": "¿Es la igualdad entre españoles una prioridad de este Gobierno?",
+        "type": "qa",
+        "nativeType": "ES-pregunta"
+      },
+      "dateStart": "2025-03-12T09:21:00+01:00",
+      "dateEnd": "2025-03-12T09:23:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_097/cortes/15_000400_097_0_25875_749210.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1549210I",
+        "duration": 120.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_097_0_25875_749210",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "María Jesús Montero Cuadrado",
+          "lastname": "Montero Cuadrado",
+          "firstname": "María Jesús",
+          "type": "member of government",
+          "role": "Vicepresidenta Primera del Gobierno y Ministra de Hacienda",
+          "faction": {
+            "label": "Grupo Parlamentario Socialista"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 12
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 101
+      },
+      "agendaItem": {
+        "title": "¿Es la igualdad entre españoles una prioridad de este Gobierno?",
+        "officialTitle": "¿Es la igualdad entre españoles una prioridad de este Gobierno?",
+        "type": "qa",
+        "nativeType": "ES-pregunta"
+      },
+      "dateStart": "2025-03-12T09:25:00+01:00",
+      "dateEnd": "2025-03-12T09:26:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_097/cortes/15_000400_097_0_25875_749212.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1549212I",
+        "duration": 60.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_097_0_25875_749212",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "María Jesús Montero Cuadrado",
+          "lastname": "Montero Cuadrado",
+          "firstname": "María Jesús",
+          "type": "member of government",
+          "role": "Vicepresidenta Primera del Gobierno y Ministra de Hacienda",
+          "faction": {
+            "label": "Grupo Parlamentario Socialista"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 13
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 101
+      },
+      "agendaItem": {
+        "title": "¿Afectará a los sistemas y regímenes forales la quita de deuda de las\nComunidades Autónomas de régimen común?",
+        "officialTitle": "¿Afectará a los sistemas y regímenes forales la quita de deuda de las\nComunidades Autónomas de régimen común?",
+        "type": "qa",
+        "nativeType": "ES-pregunta"
+      },
+      "dateStart": "2025-03-12T09:26:00+01:00",
+      "dateEnd": "2025-03-12T09:29:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_097/cortes/15_000400_097_0_25875_749214.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1549214I",
+        "duration": 180.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_097_0_25875_749214",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Mertxe Aizpurua Arzallus",
+          "lastname": "Aizpurua Arzallus",
+          "firstname": "Mertxe",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Euskal Herria Bildu"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 14
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 101
+      },
+      "agendaItem": {
+        "title": "¿Afectará a los sistemas y regímenes forales la quita de deuda de las\nComunidades Autónomas de régimen común?",
+        "officialTitle": "¿Afectará a los sistemas y regímenes forales la quita de deuda de las\nComunidades Autónomas de régimen común?",
+        "type": "qa",
+        "nativeType": "ES-pregunta"
+      },
+      "dateStart": "2025-03-12T09:29:00+01:00",
+      "dateEnd": "2025-03-12T09:32:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_097/cortes/15_000400_097_0_25875_749215.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1549215I",
+        "duration": 180.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_097_0_25875_749215",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "María Jesús Montero Cuadrado",
+          "lastname": "Montero Cuadrado",
+          "firstname": "María Jesús",
+          "type": "member of government",
+          "role": "Vicepresidenta Primera del Gobierno y Ministra de Hacienda",
+          "faction": {
+            "label": "Grupo Parlamentario Socialista"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 15
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 101
+      },
+      "agendaItem": {
+        "title": "¿Tiene el Gobierno pensado empezar a gobernar para la gente, tal y\ncomo esperaban quienes les votaron el 23 de julio de 2023?",
+        "officialTitle": "¿Tiene el Gobierno pensado empezar a gobernar para la gente, tal y\ncomo esperaban quienes les votaron el 23 de julio de 2023?",
+        "type": "qa",
+        "nativeType": "ES-pregunta"
+      },
+      "dateStart": "2025-03-12T09:32:00+01:00",
+      "dateEnd": "2025-03-12T09:32:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_097/cortes/15_000400_097_0_25875_749217.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1549217I",
+        "duration": 0.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_097_0_25875_749217",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Ione Belarra Urteaga",
+          "lastname": "Belarra Urteaga",
+          "firstname": "Ione",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Mixto"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 16
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 101
+      },
+      "agendaItem": {
+        "title": "¿Tiene el Gobierno pensado empezar a gobernar para la gente, tal y\ncomo esperaban quienes les votaron el 23 de julio de 2023?",
+        "officialTitle": "¿Tiene el Gobierno pensado empezar a gobernar para la gente, tal y\ncomo esperaban quienes les votaron el 23 de julio de 2023?",
+        "type": "qa",
+        "nativeType": "ES-pregunta"
+      },
+      "dateStart": "2025-03-12T09:32:00+01:00",
+      "dateEnd": "2025-03-12T09:33:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_097/cortes/15_000400_097_0_25875_749218.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1549218I",
+        "duration": 60.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_097_0_25875_749218",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "María Jesús Montero Cuadrado",
+          "lastname": "Montero Cuadrado",
+          "firstname": "María Jesús",
+          "type": "member of government",
+          "role": "Vicepresidenta Primera del Gobierno y Ministra de Hacienda",
+          "faction": {
+            "label": "Grupo Parlamentario Socialista"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 17
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 101
+      },
+      "agendaItem": {
+        "title": "¿Tiene el Gobierno pensado empezar a gobernar para la gente, tal y\ncomo esperaban quienes les votaron el 23 de julio de 2023?",
+        "officialTitle": "¿Tiene el Gobierno pensado empezar a gobernar para la gente, tal y\ncomo esperaban quienes les votaron el 23 de julio de 2023?",
+        "type": "qa",
+        "nativeType": "ES-pregunta"
+      },
+      "dateStart": "2025-03-12T09:33:00+01:00",
+      "dateEnd": "2025-03-12T09:35:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_097/cortes/15_000400_097_0_25875_749219.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1549219I",
+        "duration": 120.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_097_0_25875_749219",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Ione Belarra Urteaga",
+          "lastname": "Belarra Urteaga",
+          "firstname": "Ione",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Mixto"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 18
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 101
+      },
+      "agendaItem": {
+        "title": "¿Tiene el Gobierno pensado empezar a gobernar para la gente, tal y\ncomo esperaban quienes les votaron el 23 de julio de 2023?",
+        "officialTitle": "¿Tiene el Gobierno pensado empezar a gobernar para la gente, tal y\ncomo esperaban quienes les votaron el 23 de julio de 2023?",
+        "type": "qa",
+        "nativeType": "ES-pregunta"
+      },
+      "dateStart": "2025-03-12T09:35:00+01:00",
+      "dateEnd": "2025-03-12T09:37:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_097/cortes/15_000400_097_0_25875_749220.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1549220I",
+        "duration": 120.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_097_0_25875_749220",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "María Jesús Montero Cuadrado",
+          "lastname": "Montero Cuadrado",
+          "firstname": "María Jesús",
+          "type": "member of government",
+          "role": "Vicepresidenta Primera del Gobierno y Ministra de Hacienda",
+          "faction": {
+            "label": "Grupo Parlamentario Socialista"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 19
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 101
+      },
+      "agendaItem": {
+        "title": "¿A qué sanciones se enfrentan las empresas que no cumplan sus\nprotocolos contra el acoso sexual?",
+        "officialTitle": "¿A qué sanciones se enfrentan las empresas que no cumplan sus\nprotocolos contra el acoso sexual?",
+        "type": "qa",
+        "nativeType": "ES-pregunta"
+      },
+      "dateStart": "2025-03-12T09:37:00+01:00",
+      "dateEnd": "2025-03-12T09:39:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_097/cortes/15_000400_097_0_25875_749222.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1549222I",
+        "duration": 120.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_097_0_25875_749222",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Ester Muñoz de la Iglesia",
+          "lastname": "Muñoz de la Iglesia",
+          "firstname": "Ester",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Popular en el Congreso"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 20
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 101
+      },
+      "agendaItem": {
+        "title": "¿A qué sanciones se enfrentan las empresas que no cumplan sus\nprotocolos contra el acoso sexual?",
+        "officialTitle": "¿A qué sanciones se enfrentan las empresas que no cumplan sus\nprotocolos contra el acoso sexual?",
+        "type": "qa",
+        "nativeType": "ES-pregunta"
+      },
+      "dateStart": "2025-03-12T09:39:00+01:00",
+      "dateEnd": "2025-03-12T09:39:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_097/cortes/15_000400_097_0_25875_749223.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1549223I",
+        "duration": 0.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_097_0_25875_749223",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Yolanda Díaz Pérez",
+          "lastname": "Díaz Pérez",
+          "firstname": "Yolanda",
+          "type": "member of government",
+          "role": "Vicepresidenta Segunda y Ministra de Trabajo y Economía Social",
+          "faction": {
+            "label": "Grupo Parlamentario Plurinacional SUMAR"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 21
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 101
+      },
+      "agendaItem": {
+        "title": "¿A qué sanciones se enfrentan las empresas que no cumplan sus\nprotocolos contra el acoso sexual?",
+        "officialTitle": "¿A qué sanciones se enfrentan las empresas que no cumplan sus\nprotocolos contra el acoso sexual?",
+        "type": "qa",
+        "nativeType": "ES-pregunta"
+      },
+      "dateStart": "2025-03-12T09:39:00+01:00",
+      "dateEnd": "2025-03-12T09:41:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_097/cortes/15_000400_097_0_25875_749224.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1549224I",
+        "duration": 120.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_097_0_25875_749224",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Ester Muñoz de la Iglesia",
+          "lastname": "Muñoz de la Iglesia",
+          "firstname": "Ester",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Popular en el Congreso"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 22
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 101
+      },
+      "agendaItem": {
+        "title": "¿A qué sanciones se enfrentan las empresas que no cumplan sus\nprotocolos contra el acoso sexual?",
+        "officialTitle": "¿A qué sanciones se enfrentan las empresas que no cumplan sus\nprotocolos contra el acoso sexual?",
+        "type": "qa",
+        "nativeType": "ES-pregunta"
+      },
+      "dateStart": "2025-03-12T09:41:00+01:00",
+      "dateEnd": "2025-03-12T09:47:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_097/cortes/15_000400_097_0_25875_749225.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1549225I",
+        "duration": 360.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_097_0_25875_749225",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Yolanda Díaz Pérez",
+          "lastname": "Díaz Pérez",
+          "firstname": "Yolanda",
+          "type": "member of government",
+          "role": "Vicepresidenta Segunda y Ministra de Trabajo y Economía Social",
+          "faction": {
+            "label": "Grupo Parlamentario Plurinacional SUMAR"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 23
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 101
+      },
+      "agendaItem": {
+        "title": "¿Por qué se empecinan en desperdiciar en base a discutibles rigideces\nlegales la gran cantidad de potencia eléctrica sobrante existente en vez\nde dársela a la industria, poniendo así en riesgo inversiones y empleos?",
+        "officialTitle": "¿Por qué se empecinan en desperdiciar en base a discutibles rigideces\nlegales la gran cantidad de potencia eléctrica sobrante existente en vez\nde dársela a la industria, poniendo así en riesgo inversiones y empleos?",
+        "type": "qa",
+        "nativeType": "ES-pregunta"
+      },
+      "dateStart": "2025-03-12T09:47:00+01:00",
+      "dateEnd": "2025-03-12T09:49:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_097/cortes/15_000400_097_0_25875_749227.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1549227I",
+        "duration": 120.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_097_0_25875_749227",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Idoia Sagastizabal Unzetabarrenetxea",
+          "lastname": "Sagastizabal Unzetabarrenetxea",
+          "firstname": "Idoia",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Vasco (EAJ-PNV)"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 24
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 101
+      },
+      "agendaItem": {
+        "title": "¿Por qué se empecinan en desperdiciar en base a discutibles rigideces\nlegales la gran cantidad de potencia eléctrica sobrante existente en vez\nde dársela a la industria, poniendo así en riesgo inversiones y empleos?",
+        "officialTitle": "¿Por qué se empecinan en desperdiciar en base a discutibles rigideces\nlegales la gran cantidad de potencia eléctrica sobrante existente en vez\nde dársela a la industria, poniendo así en riesgo inversiones y empleos?",
+        "type": "qa",
+        "nativeType": "ES-pregunta"
+      },
+      "dateStart": "2025-03-12T09:49:00+01:00",
+      "dateEnd": "2025-03-12T09:50:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_097/cortes/15_000400_097_0_25875_749228.mp4\nhttps://www.congreso.es/audiovisual/video/leg15/400/15_000400_097/cortes/15_000400_097_0_25875_749230.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1549228I https://app.congreso.es/v1/15749230I",
+        "duration": 60.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_097_0_25875_749230",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Sara Aagesen Muñoz",
+          "lastname": "Aagesen Muñoz",
+          "firstname": "Sara",
+          "type": "member of government",
+          "role": "Vicepresidenta Tercera y Ministra para la Transición Ecológica y el\nReto Demográfico"
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 25
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 101
+      },
+      "agendaItem": {
+        "title": "¿Por qué se empecinan en desperdiciar en base a discutibles rigideces\nlegales la gran cantidad de potencia eléctrica sobrante existente en vez\nde dársela a la industria, poniendo así en riesgo inversiones y empleos?",
+        "officialTitle": "¿Por qué se empecinan en desperdiciar en base a discutibles rigideces\nlegales la gran cantidad de potencia eléctrica sobrante existente en vez\nde dársela a la industria, poniendo así en riesgo inversiones y empleos?",
+        "type": "qa",
+        "nativeType": "ES-pregunta"
+      },
+      "dateStart": "2025-03-12T09:50:00+01:00",
+      "dateEnd": "2025-03-12T09:51:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_097/cortes/15_000400_097_0_25875_749229.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1549229I",
+        "duration": 60.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_097_0_25875_749229",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Idoia Sagastizabal Unzetabarrenetxea",
+          "lastname": "Sagastizabal Unzetabarrenetxea",
+          "firstname": "Idoia",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Vasco (EAJ-PNV)"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 26
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 101
+      },
+      "agendaItem": {
+        "title": "¿Qué explicación le da el Gobierno a sus contradicciones?",
+        "officialTitle": "¿Qué explicación le da el Gobierno a sus contradicciones?",
+        "type": "qa",
+        "nativeType": "ES-pregunta"
+      },
+      "dateStart": "2025-03-12T09:53:00+01:00",
+      "dateEnd": "2025-03-12T09:54:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_097/cortes/15_000400_097_0_25875_749232.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1549232I",
+        "duration": 60.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_097_0_25875_749232",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "María José Rodríguez de Millán Parro",
+          "lastname": "Rodríguez de Millán Parro",
+          "firstname": "María José",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario VOX"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 27
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 101
+      },
+      "agendaItem": {
+        "title": "¿Qué explicación le da el Gobierno a sus contradicciones?",
+        "officialTitle": "¿Qué explicación le da el Gobierno a sus contradicciones?",
+        "type": "qa",
+        "nativeType": "ES-pregunta"
+      },
+      "dateStart": "2025-03-12T09:54:00+01:00",
+      "dateEnd": "2025-03-12T09:55:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_097/cortes/15_000400_097_0_25875_749233.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1549233I",
+        "duration": 60.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_097_0_25875_749233",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Félix Bolaños García",
+          "lastname": "Bolaños García",
+          "firstname": "Félix",
+          "type": "member of government",
+          "role": "Ministro de la Presidencia, Justicia y Relaciones con las Cortes",
+          "faction": {
+            "label": "Grupo Parlamentario Socialista"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 28
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 101
+      },
+      "agendaItem": {
+        "title": "¿Qué explicación le da el Gobierno a sus contradicciones?",
+        "officialTitle": "¿Qué explicación le da el Gobierno a sus contradicciones?",
+        "type": "qa",
+        "nativeType": "ES-pregunta"
+      },
+      "dateStart": "2025-03-12T09:55:00+01:00",
+      "dateEnd": "2025-03-12T09:57:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_097/cortes/15_000400_097_0_25875_749234.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1549234I",
+        "duration": 120.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_097_0_25875_749234",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "María José Rodríguez de Millán Parro",
+          "lastname": "Rodríguez de Millán Parro",
+          "firstname": "María José",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario VOX"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 29
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 101
+      },
+      "agendaItem": {
+        "title": "¿Qué explicación le da el Gobierno a sus contradicciones?",
+        "officialTitle": "¿Qué explicación le da el Gobierno a sus contradicciones?",
+        "type": "qa",
+        "nativeType": "ES-pregunta"
+      },
+      "dateStart": "2025-03-12T09:57:00+01:00",
+      "dateEnd": "2025-03-12T09:59:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_097/cortes/15_000400_097_0_25875_749235.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1549235I",
+        "duration": 120.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_097_0_25875_749235",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Félix Bolaños García",
+          "lastname": "Bolaños García",
+          "firstname": "Félix",
+          "type": "member of government",
+          "role": "Ministro de la Presidencia, Justicia y Relaciones con las Cortes",
+          "faction": {
+            "label": "Grupo Parlamentario Socialista"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 30
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 101
+      },
+      "agendaItem": {
+        "title": "¿Considera legítima la cesión de competencias exclusivas del Estado a\ncambio de seguir en el poder?",
+        "officialTitle": "¿Considera legítima la cesión de competencias exclusivas del Estado a\ncambio de seguir en el poder?",
+        "type": "qa",
+        "nativeType": "ES-pregunta"
+      },
+      "dateStart": "2025-03-12T09:59:00+01:00",
+      "dateEnd": "2025-03-12T10:00:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_097/cortes/15_000400_097_0_25875_749237.mp4\nhttps://www.congreso.es/audiovisual/video/leg15/400/15_000400_097/cortes/15_000400_097_0_25875_749239.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1549237I https://app.congreso.es/v1/15749239I",
+        "duration": 60.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_097_0_25875_749239",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Miguel Tellado Filgueira",
+          "lastname": "Tellado Filgueira",
+          "firstname": "Miguel",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Popular en el Congreso"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 31
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 101
+      },
+      "agendaItem": {
+        "title": "¿Considera legítima la cesión de competencias exclusivas del Estado a\ncambio de seguir en el poder?",
+        "officialTitle": "¿Considera legítima la cesión de competencias exclusivas del Estado a\ncambio de seguir en el poder?",
+        "type": "qa",
+        "nativeType": "ES-pregunta"
+      },
+      "dateStart": "2025-03-12T10:00:00+01:00",
+      "dateEnd": "2025-03-12T10:01:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_097/cortes/15_000400_097_0_25875_749238.mp4\nhttps://www.congreso.es/audiovisual/video/leg15/400/15_000400_097/cortes/15_000400_097_0_25875_749240.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1549238I https://app.congreso.es/v1/15749240I",
+        "duration": 60.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_097_0_25875_749240",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Fernando Grande-Marlaska Gómez",
+          "lastname": "Grande-Marlaska Gómez",
+          "firstname": "Fernando",
+          "type": "member of government",
+          "role": "Ministro del Interior"
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 32
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 101
+      },
+      "agendaItem": {
+        "title": "¿Qué respuesta da a las quejas contra las cesiones en materia de\nfronteras hechas públicas por las Fuerzas y Cuerpos de Seguridad del\nEstado?",
+        "officialTitle": "¿Qué respuesta da a las quejas contra las cesiones en materia de\nfronteras hechas públicas por las Fuerzas y Cuerpos de Seguridad del\nEstado?",
+        "type": "qa",
+        "nativeType": "ES-pregunta"
+      },
+      "dateStart": "2025-03-12T10:05:00+01:00",
+      "dateEnd": "2025-03-12T10:06:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_097/cortes/15_000400_097_0_25875_749242.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1549242I",
+        "duration": 60.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_097_0_25875_749242",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Ana Belén Vázquez Blanco",
+          "lastname": "Vázquez Blanco",
+          "firstname": "Ana Belén",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Popular en el Congreso"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 33
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 101
+      },
+      "agendaItem": {
+        "title": "¿Qué respuesta da a las quejas contra las cesiones en materia de\nfronteras hechas públicas por las Fuerzas y Cuerpos de Seguridad del\nEstado?",
+        "officialTitle": "¿Qué respuesta da a las quejas contra las cesiones en materia de\nfronteras hechas públicas por las Fuerzas y Cuerpos de Seguridad del\nEstado?",
+        "type": "qa",
+        "nativeType": "ES-pregunta"
+      },
+      "dateStart": "2025-03-12T10:06:00+01:00",
+      "dateEnd": "2025-03-12T10:07:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_097/cortes/15_000400_097_0_25875_749243.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1549243I",
+        "duration": 60.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_097_0_25875_749243",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Fernando Grande-Marlaska Gómez",
+          "lastname": "Grande-Marlaska Gómez",
+          "firstname": "Fernando",
+          "type": "member of government",
+          "role": "Ministro del Interior"
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 34
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 101
+      },
+      "agendaItem": {
+        "title": "¿Qué respuesta da a las quejas contra las cesiones en materia de\nfronteras hechas públicas por las Fuerzas y Cuerpos de Seguridad del\nEstado?",
+        "officialTitle": "¿Qué respuesta da a las quejas contra las cesiones en materia de\nfronteras hechas públicas por las Fuerzas y Cuerpos de Seguridad del\nEstado?",
+        "type": "qa",
+        "nativeType": "ES-pregunta"
+      },
+      "dateStart": "2025-03-12T10:07:00+01:00",
+      "dateEnd": "2025-03-12T10:09:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_097/cortes/15_000400_097_0_25875_749244.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1549244I",
+        "duration": 120.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_097_0_25875_749244",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Ana Belén Vázquez Blanco",
+          "lastname": "Vázquez Blanco",
+          "firstname": "Ana Belén",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Popular en el Congreso"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 35
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 101
+      },
+      "agendaItem": {
+        "title": "¿Qué respuesta da a las quejas contra las cesiones en materia de\nfronteras hechas públicas por las Fuerzas y Cuerpos de Seguridad del\nEstado?",
+        "officialTitle": "¿Qué respuesta da a las quejas contra las cesiones en materia de\nfronteras hechas públicas por las Fuerzas y Cuerpos de Seguridad del\nEstado?",
+        "type": "qa",
+        "nativeType": "ES-pregunta"
+      },
+      "dateStart": "2025-03-12T10:09:00+01:00",
+      "dateEnd": "2025-03-12T10:11:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_097/cortes/15_000400_097_0_25875_749245.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1549245I",
+        "duration": 120.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_097_0_25875_749245",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Fernando Grande-Marlaska Gómez",
+          "lastname": "Grande-Marlaska Gómez",
+          "firstname": "Fernando",
+          "type": "member of government",
+          "role": "Ministro del Interior"
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 36
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 101
+      },
+      "agendaItem": {
+        "title": "¿Cómo va a defender la expulsión de la Guardia Civil y la Policía\nNacional de Cataluña?",
+        "officialTitle": "¿Cómo va a defender la expulsión de la Guardia Civil y la Policía\nNacional de Cataluña?",
+        "type": "qa",
+        "nativeType": "ES-pregunta"
+      },
+      "dateStart": "2025-03-12T10:11:00+01:00",
+      "dateEnd": "2025-03-12T10:11:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_097/cortes/15_000400_097_0_25875_749247.mp4\nhttps://www.congreso.es/audiovisual/video/leg15/400/15_000400_097/cortes/15_000400_097_0_25875_749249.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1549247I https://app.congreso.es/v1/15749249I",
+        "duration": 0.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_097_0_25875_749249",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Ignacio Gil Lázaro",
+          "lastname": "Gil Lázaro",
+          "firstname": "Ignacio",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario VOX"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 37
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 101
+      },
+      "agendaItem": {
+        "title": "¿Cómo va a defender la expulsión de la Guardia Civil y la Policía\nNacional de Cataluña?",
+        "officialTitle": "¿Cómo va a defender la expulsión de la Guardia Civil y la Policía\nNacional de Cataluña?",
+        "type": "qa",
+        "nativeType": "ES-pregunta"
+      },
+      "dateStart": "2025-03-12T10:11:00+01:00",
+      "dateEnd": "2025-03-12T10:12:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_097/cortes/15_000400_097_0_25875_749248.mp4\nhttps://www.congreso.es/audiovisual/video/leg15/400/15_000400_097/cortes/15_000400_097_0_25875_749250.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1549248I https://app.congreso.es/v1/15749250I",
+        "duration": 60.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_097_0_25875_749250",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Fernando Grande-Marlaska Gómez",
+          "lastname": "Grande-Marlaska Gómez",
+          "firstname": "Fernando",
+          "type": "member of government",
+          "role": "Ministro del Interior"
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 38
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 101
+      },
+      "agendaItem": {
+        "title": "¿Cuáles son los \"procesos de contratación habituales\" en su\nMinisterio?",
+        "officialTitle": "¿Cuáles son los \"procesos de contratación habituales\" en su\nMinisterio?",
+        "type": "qa",
+        "nativeType": "ES-pregunta"
+      },
+      "dateStart": "2025-03-12T10:17:00+01:00",
+      "dateEnd": "2025-03-12T10:18:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_097/cortes/15_000400_097_0_25875_749252.mp4\nhttps://www.congreso.es/audiovisual/video/leg15/400/15_000400_097/cortes/15_000400_097_0_25875_749254.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1549252I https://app.congreso.es/v1/15749254I",
+        "duration": 60.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_097_0_25875_749254",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Patricia Rodríguez Calleja",
+          "lastname": "Rodríguez Calleja",
+          "firstname": "Patricia",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Popular en el Congreso"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 39
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 101
+      },
+      "agendaItem": {
+        "title": "¿Cuáles son los \"procesos de contratación habituales\" en su\nMinisterio?",
+        "officialTitle": "¿Cuáles son los \"procesos de contratación habituales\" en su\nMinisterio?",
+        "type": "qa",
+        "nativeType": "ES-pregunta"
+      },
+      "dateStart": "2025-03-12T10:18:00+01:00",
+      "dateEnd": "2025-03-12T10:19:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_097/cortes/15_000400_097_0_25875_749253.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1549253I",
+        "duration": 60.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_097_0_25875_749253",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Óscar Puente Santiago",
+          "lastname": "Puente Santiago",
+          "firstname": "Óscar",
+          "type": "member of government",
+          "role": "Ministro de Transportes y Movilidad Sostenible",
+          "faction": {
+            "label": "Grupo Parlamentario Socialista"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 40
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 101
+      },
+      "agendaItem": {
+        "title": "¿Cuáles son los \"procesos de contratación habituales\" en su\nMinisterio?",
+        "officialTitle": "¿Cuáles son los \"procesos de contratación habituales\" en su\nMinisterio?",
+        "type": "qa",
+        "nativeType": "ES-pregunta"
+      },
+      "dateStart": "2025-03-12T10:21:00+01:00",
+      "dateEnd": "2025-03-12T10:23:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_097/cortes/15_000400_097_0_25875_749255.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1549255I",
+        "duration": 120.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_097_0_25875_749255",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Óscar Puente Santiago",
+          "lastname": "Puente Santiago",
+          "firstname": "Óscar",
+          "type": "member of government",
+          "role": "Ministro de Transportes y Movilidad Sostenible",
+          "faction": {
+            "label": "Grupo Parlamentario Socialista"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 41
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 101
+      },
+      "agendaItem": {
+        "title": "¿Hasta cuándo piensan ustedes dispensar por parte de ADIF y de RENFE\nun trato injusto e inhumano a los usuarios de Rodalies de Cataluña?",
+        "officialTitle": "¿Hasta cuándo piensan ustedes dispensar por parte de ADIF y de RENFE\nun trato injusto e inhumano a los usuarios de Rodalies de Cataluña?",
+        "type": "qa",
+        "nativeType": "ES-pregunta"
+      },
+      "dateStart": "2025-03-12T10:23:00+01:00",
+      "dateEnd": "2025-03-12T10:23:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_097/cortes/15_000400_097_0_25875_749257.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1549257I",
+        "duration": 0.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_097_0_25875_749257",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Isidre Gavin i Valls",
+          "lastname": "Gavin i Valls",
+          "firstname": "Isidre",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Junts per Catalunya"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 42
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 101
+      },
+      "agendaItem": {
+        "title": "¿Hasta cuándo piensan ustedes dispensar por parte de ADIF y de RENFE\nun trato injusto e inhumano a los usuarios de Rodalies de Cataluña?",
+        "officialTitle": "¿Hasta cuándo piensan ustedes dispensar por parte de ADIF y de RENFE\nun trato injusto e inhumano a los usuarios de Rodalies de Cataluña?",
+        "type": "qa",
+        "nativeType": "ES-pregunta"
+      },
+      "dateStart": "2025-03-12T10:23:00+01:00",
+      "dateEnd": "2025-03-12T10:24:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_097/cortes/15_000400_097_0_25875_749258.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1549258I",
+        "duration": 60.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_097_0_25875_749258",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Óscar Puente Santiago",
+          "lastname": "Puente Santiago",
+          "firstname": "Óscar",
+          "type": "member of government",
+          "role": "Ministro de Transportes y Movilidad Sostenible",
+          "faction": {
+            "label": "Grupo Parlamentario Socialista"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 43
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 101
+      },
+      "agendaItem": {
+        "title": "¿Hasta cuándo piensan ustedes dispensar por parte de ADIF y de RENFE\nun trato injusto e inhumano a los usuarios de Rodalies de Cataluña?",
+        "officialTitle": "¿Hasta cuándo piensan ustedes dispensar por parte de ADIF y de RENFE\nun trato injusto e inhumano a los usuarios de Rodalies de Cataluña?",
+        "type": "qa",
+        "nativeType": "ES-pregunta"
+      },
+      "dateStart": "2025-03-12T10:24:00+01:00",
+      "dateEnd": "2025-03-12T10:26:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_097/cortes/15_000400_097_0_25875_749259.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1549259I",
+        "duration": 120.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_097_0_25875_749259",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Isidre Gavin i Valls",
+          "lastname": "Gavin i Valls",
+          "firstname": "Isidre",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Junts per Catalunya"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 44
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 101
+      },
+      "agendaItem": {
+        "title": "¿Hasta cuándo piensan ustedes dispensar por parte de ADIF y de RENFE\nun trato injusto e inhumano a los usuarios de Rodalies de Cataluña?",
+        "officialTitle": "¿Hasta cuándo piensan ustedes dispensar por parte de ADIF y de RENFE\nun trato injusto e inhumano a los usuarios de Rodalies de Cataluña?",
+        "type": "qa",
+        "nativeType": "ES-pregunta"
+      },
+      "dateStart": "2025-03-12T10:26:00+01:00",
+      "dateEnd": "2025-03-12T10:29:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_097/cortes/15_000400_097_0_25875_749261.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1549261I",
+        "duration": 180.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_097_0_25875_749261",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Óscar Puente Santiago",
+          "lastname": "Puente Santiago",
+          "firstname": "Óscar",
+          "type": "member of government",
+          "role": "Ministro de Transportes y Movilidad Sostenible",
+          "faction": {
+            "label": "Grupo Parlamentario Socialista"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 45
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 101
+      },
+      "agendaItem": {
+        "title": "¿Considera que se puede confiar en su gestión al frente del\nMinisterio teniendo en cuenta sus precedentes?",
+        "officialTitle": "¿Considera que se puede confiar en su gestión al frente del\nMinisterio teniendo en cuenta sus precedentes?",
+        "type": "qa",
+        "nativeType": "ES-pregunta"
+      },
+      "dateStart": "2025-03-12T10:29:00+01:00",
+      "dateEnd": "2025-03-12T10:29:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_097/cortes/15_000400_097_0_25875_749262.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1549262I",
+        "duration": 0.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_097_0_25875_749262",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Pedro Muñoz Abrines",
+          "lastname": "Muñoz Abrines",
+          "firstname": "Pedro",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Popular en el Congreso"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 46
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 101
+      },
+      "agendaItem": {
+        "title": "¿Considera que se puede confiar en su gestión al frente del\nMinisterio teniendo en cuenta sus precedentes?",
+        "officialTitle": "¿Considera que se puede confiar en su gestión al frente del\nMinisterio teniendo en cuenta sus precedentes?",
+        "type": "qa",
+        "nativeType": "ES-pregunta"
+      },
+      "dateStart": "2025-03-12T10:29:00+01:00",
+      "dateEnd": "2025-03-12T10:30:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_097/cortes/15_000400_097_0_25875_749263.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1549263I",
+        "duration": 60.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_097_0_25875_749263",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Ángel Víctor Torres Pérez",
+          "lastname": "Torres Pérez",
+          "firstname": "Ángel Víctor",
+          "type": "member of government",
+          "role": "Ministro de Política Territorial y Memoria Democrática"
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 47
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 101
+      },
+      "agendaItem": {
+        "title": "¿Considera que se puede confiar en su gestión al frente del\nMinisterio teniendo en cuenta sus precedentes?",
+        "officialTitle": "¿Considera que se puede confiar en su gestión al frente del\nMinisterio teniendo en cuenta sus precedentes?",
+        "type": "qa",
+        "nativeType": "ES-pregunta"
+      },
+      "dateStart": "2025-03-12T10:30:00+01:00",
+      "dateEnd": "2025-03-12T10:33:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_097/cortes/15_000400_097_0_25875_749264.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1549264I",
+        "duration": 180.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_097_0_25875_749264",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Pedro Muñoz Abrines",
+          "lastname": "Muñoz Abrines",
+          "firstname": "Pedro",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Popular en el Congreso"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 48
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 101
+      },
+      "agendaItem": {
+        "title": "¿Considera que se puede confiar en su gestión al frente del\nMinisterio teniendo en cuenta sus precedentes?",
+        "officialTitle": "¿Considera que se puede confiar en su gestión al frente del\nMinisterio teniendo en cuenta sus precedentes?",
+        "type": "qa",
+        "nativeType": "ES-pregunta"
+      },
+      "dateStart": "2025-03-12T10:33:00+01:00",
+      "dateEnd": "2025-03-12T10:35:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_097/cortes/15_000400_097_0_25875_749265.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1549265I",
+        "duration": 120.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_097_0_25875_749265",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Ángel Víctor Torres Pérez",
+          "lastname": "Torres Pérez",
+          "firstname": "Ángel Víctor",
+          "type": "member of government",
+          "role": "Ministro de Política Territorial y Memoria Democrática"
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 49
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 101
+      },
+      "agendaItem": {
+        "title": "¿Por qué no se ha extinguido la Fundación Nacional Francisco Franco?",
+        "officialTitle": "¿Por qué no se ha extinguido la Fundación Nacional Francisco Franco?",
+        "type": "qa",
+        "nativeType": "ES-pregunta"
+      },
+      "dateStart": "2025-03-12T10:35:00+01:00",
+      "dateEnd": "2025-03-12T10:35:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_097/cortes/15_000400_097_0_25875_749267.mp4\nhttps://www.congreso.es/audiovisual/video/leg15/400/15_000400_097/cortes/15_000400_097_0_25875_749269.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1549267I https://app.congreso.es/v1/15749269I",
+        "duration": 0.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_097_0_25875_749269",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Francesc-Marc Álvaro Vidal",
+          "lastname": "Álvaro Vidal",
+          "firstname": "Francesc-Marc",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Republicano"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 50
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 101
+      },
+      "agendaItem": {
+        "title": "¿Por qué no se ha extinguido la Fundación Nacional Francisco Franco?",
+        "officialTitle": "¿Por qué no se ha extinguido la Fundación Nacional Francisco Franco?",
+        "type": "qa",
+        "nativeType": "ES-pregunta"
+      },
+      "dateStart": "2025-03-12T10:35:00+01:00",
+      "dateEnd": "2025-03-12T10:36:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_097/cortes/15_000400_097_0_25875_749268.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1549268I",
+        "duration": 60.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_097_0_25875_749268",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Ángel Víctor Torres Pérez",
+          "lastname": "Torres Pérez",
+          "firstname": "Ángel Víctor",
+          "type": "member of government",
+          "role": "Ministro de Política Territorial y Memoria Democrática"
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 51
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 101
+      },
+      "agendaItem": {
+        "title": "¿Por qué no se ha extinguido la Fundación Nacional Francisco Franco?",
+        "officialTitle": "¿Por qué no se ha extinguido la Fundación Nacional Francisco Franco?",
+        "type": "qa",
+        "nativeType": "ES-pregunta"
+      },
+      "dateStart": "2025-03-12T10:38:00+01:00",
+      "dateEnd": "2025-03-12T10:40:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_097/cortes/15_000400_097_0_25875_749270.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1549270I",
+        "duration": 120.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_097_0_25875_749270",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Ángel Víctor Torres Pérez",
+          "lastname": "Torres Pérez",
+          "firstname": "Ángel Víctor",
+          "type": "member of government",
+          "role": "Ministro de Política Territorial y Memoria Democrática"
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 52
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 101
+      },
+      "agendaItem": {
+        "title": "¿Cómo puede el Gobierno defender la democracia y la soberanía\nterritorial fuera de España mientras las socava dentro de España?",
+        "officialTitle": "¿Cómo puede el Gobierno defender la democracia y la soberanía\nterritorial fuera de España mientras las socava dentro de España?",
+        "type": "qa",
+        "nativeType": "ES-pregunta"
+      },
+      "dateStart": "2025-03-12T10:40:00+01:00",
+      "dateEnd": "2025-03-12T10:41:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_097/cortes/15_000400_097_0_25875_749272.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1549272I",
+        "duration": 60.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_097_0_25875_749272",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Cayetana Álvarez de Toledo Peralta-Ramos",
+          "lastname": "Álvarez de Toledo Peralta-Ramos",
+          "firstname": "Cayetana",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Popular en el Congreso"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 53
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 101
+      },
+      "agendaItem": {
+        "title": "¿Cómo puede el Gobierno defender la democracia y la soberanía\nterritorial fuera de España mientras las socava dentro de España?",
+        "officialTitle": "¿Cómo puede el Gobierno defender la democracia y la soberanía\nterritorial fuera de España mientras las socava dentro de España?",
+        "type": "qa",
+        "nativeType": "ES-pregunta"
+      },
+      "dateStart": "2025-03-12T10:41:00+01:00",
+      "dateEnd": "2025-03-12T10:41:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_097/cortes/15_000400_097_0_25875_749273.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1549273I",
+        "duration": 0.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_097_0_25875_749273",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "José Manuel Albares Bueno",
+          "lastname": "Albares Bueno",
+          "firstname": "José Manuel",
+          "type": "member of government",
+          "role": "Ministro de Asuntos Exteriores, Unión Europea y Cooperación"
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 54
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 101
+      },
+      "agendaItem": {
+        "title": "¿Cómo puede el Gobierno defender la democracia y la soberanía\nterritorial fuera de España mientras las socava dentro de España?",
+        "officialTitle": "¿Cómo puede el Gobierno defender la democracia y la soberanía\nterritorial fuera de España mientras las socava dentro de España?",
+        "type": "qa",
+        "nativeType": "ES-pregunta"
+      },
+      "dateStart": "2025-03-12T10:41:00+01:00",
+      "dateEnd": "2025-03-12T10:43:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_097/cortes/15_000400_097_0_25875_749274.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1549274I",
+        "duration": 120.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_097_0_25875_749274",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Cayetana Álvarez de Toledo Peralta-Ramos",
+          "lastname": "Álvarez de Toledo Peralta-Ramos",
+          "firstname": "Cayetana",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Popular en el Congreso"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 55
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 101
+      },
+      "agendaItem": {
+        "title": "¿Cómo puede el Gobierno defender la democracia y la soberanía\nterritorial fuera de España mientras las socava dentro de España?",
+        "officialTitle": "¿Cómo puede el Gobierno defender la democracia y la soberanía\nterritorial fuera de España mientras las socava dentro de España?",
+        "type": "qa",
+        "nativeType": "ES-pregunta"
+      },
+      "dateStart": "2025-03-12T10:43:00+01:00",
+      "dateEnd": "2025-03-12T10:46:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_097/cortes/15_000400_097_0_25875_749275.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1549275I",
+        "duration": 180.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_097_0_25875_749275",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "José Manuel Albares Bueno",
+          "lastname": "Albares Bueno",
+          "firstname": "José Manuel",
+          "type": "member of government",
+          "role": "Ministro de Asuntos Exteriores, Unión Europea y Cooperación"
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 56
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 101
+      },
+      "agendaItem": {
+        "title": "¿Cuál es el objetivo del Gobierno al regular la Comisión\nInterministerial para el Desarrollo Sostenible y la Solidaridad Global?",
+        "officialTitle": "¿Cuál es el objetivo del Gobierno al regular la Comisión\nInterministerial para el Desarrollo Sostenible y la Solidaridad Global?",
+        "type": "qa",
+        "nativeType": "ES-pregunta"
+      },
+      "dateStart": "2025-03-12T10:46:00+01:00",
+      "dateEnd": "2025-03-12T10:49:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_097/cortes/15_000400_097_0_25875_749277.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1549277I",
+        "duration": 180.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_097_0_25875_749277",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Jordi Salvador i Duch",
+          "lastname": "Salvador i Duch",
+          "firstname": "Jordi",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Republicano"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 57
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 101
+      },
+      "agendaItem": {
+        "title": "¿Cuál es el objetivo del Gobierno al regular la Comisión\nInterministerial para el Desarrollo Sostenible y la Solidaridad Global?",
+        "officialTitle": "¿Cuál es el objetivo del Gobierno al regular la Comisión\nInterministerial para el Desarrollo Sostenible y la Solidaridad Global?",
+        "type": "qa",
+        "nativeType": "ES-pregunta"
+      },
+      "dateStart": "2025-03-12T10:49:00+01:00",
+      "dateEnd": "2025-03-12T10:51:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_097/cortes/15_000400_097_0_25875_749278.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1549278I",
+        "duration": 120.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_097_0_25875_749278",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "José Manuel Albares Bueno",
+          "lastname": "Albares Bueno",
+          "firstname": "José Manuel",
+          "type": "member of government",
+          "role": "Ministro de Asuntos Exteriores, Unión Europea y Cooperación"
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 58
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 101
+      },
+      "agendaItem": {
+        "title": "Interpelación urgente relativa a la posición del Gobierno español\nante los anuncios intervencionistas, belicistas, anexionistas y de apoyo\na la limpieza étnica de los Estados Unidos de América.",
+        "officialTitle": "Interpelación urgente relativa a la posición del Gobierno español\nante los anuncios intervencionistas, belicistas, anexionistas y de apoyo\na la limpieza étnica de los Estados Unidos de América.",
+        "type": "questioning_of_the_government",
+        "nativeType": "ES-interpelacion"
+      },
+      "dateStart": "2025-03-12T10:52:00+01:00",
+      "dateEnd": "2025-03-12T11:05:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_097/cortes/15_000400_097_0_25875_749281.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1549281I",
+        "duration": 780.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_097_0_25875_749281",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Néstor Rego Candamil",
+          "lastname": "Rego Candamil",
+          "firstname": "Néstor",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Mixto"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 59
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 101
+      },
+      "agendaItem": {
+        "title": "Interpelación urgente relativa a la posición del Gobierno español\nante los anuncios intervencionistas, belicistas, anexionistas y de apoyo\na la limpieza étnica de los Estados Unidos de América.",
+        "officialTitle": "Interpelación urgente relativa a la posición del Gobierno español\nante los anuncios intervencionistas, belicistas, anexionistas y de apoyo\na la limpieza étnica de los Estados Unidos de América.",
+        "type": "questioning_of_the_government",
+        "nativeType": "ES-interpelacion"
+      },
+      "dateStart": "2025-03-12T11:05:00+01:00",
+      "dateEnd": "2025-03-12T11:18:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_097/cortes/15_000400_097_0_25875_749282.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1549282I",
+        "duration": 780.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_097_0_25875_749282",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "José Manuel Albares Bueno",
+          "lastname": "Albares Bueno",
+          "firstname": "José Manuel",
+          "type": "member of government",
+          "role": "Ministro de Asuntos Exteriores, Unión Europea y Cooperación"
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 60
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 101
+      },
+      "agendaItem": {
+        "title": "Interpelación urgente relativa a la posición del Gobierno español\nante los anuncios intervencionistas, belicistas, anexionistas y de apoyo\na la limpieza étnica de los Estados Unidos de América.",
+        "officialTitle": "Interpelación urgente relativa a la posición del Gobierno español\nante los anuncios intervencionistas, belicistas, anexionistas y de apoyo\na la limpieza étnica de los Estados Unidos de América.",
+        "type": "questioning_of_the_government",
+        "nativeType": "ES-interpelacion"
+      },
+      "dateStart": "2025-03-12T11:18:00+01:00",
+      "dateEnd": "2025-03-12T11:24:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_097/cortes/15_000400_097_0_25875_749283.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1549283I",
+        "duration": 360.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_097_0_25875_749283",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Néstor Rego Candamil",
+          "lastname": "Rego Candamil",
+          "firstname": "Néstor",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Mixto"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 61
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 101
+      },
+      "agendaItem": {
+        "title": "Interpelación urgente relativa a la posición del Gobierno español\nante los anuncios intervencionistas, belicistas, anexionistas y de apoyo\na la limpieza étnica de los Estados Unidos de América.",
+        "officialTitle": "Interpelación urgente relativa a la posición del Gobierno español\nante los anuncios intervencionistas, belicistas, anexionistas y de apoyo\na la limpieza étnica de los Estados Unidos de América.",
+        "type": "questioning_of_the_government",
+        "nativeType": "ES-interpelacion"
+      },
+      "dateStart": "2025-03-12T11:24:00+01:00",
+      "dateEnd": "2025-03-12T11:30:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_097/cortes/15_000400_097_0_25875_749284.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1549284I",
+        "duration": 360.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_097_0_25875_749284",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "José Manuel Albares Bueno",
+          "lastname": "Albares Bueno",
+          "firstname": "José Manuel",
+          "type": "member of government",
+          "role": "Ministro de Asuntos Exteriores, Unión Europea y Cooperación"
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 62
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 101
+      },
+      "agendaItem": {
+        "title": "Interpelación urgente al Ministro de la Presidencia, Justicia y\nRelaciones con las Cortes sobre las medidas que adoptará el Gobierno para\nla restauración de las zonas arrasadas por la gota fría en Valencia.",
+        "officialTitle": "Interpelación urgente al Ministro de la Presidencia, Justicia y\nRelaciones con las Cortes sobre las medidas que adoptará el Gobierno para\nla restauración de las zonas arrasadas por la gota fría en Valencia.",
+        "type": "questioning_of_the_government",
+        "nativeType": "ES-interpelacion"
+      },
+      "dateStart": "2025-03-12T11:30:00+01:00",
+      "dateEnd": "2025-03-12T11:44:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_097/cortes/15_000400_097_1_25877_749291.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1549291I",
+        "duration": 840.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_097_1_25877_749291",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Carlos Flores Juberías",
+          "lastname": "Flores Juberías",
+          "firstname": "Carlos",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario VOX"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 63
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 101
+      },
+      "agendaItem": {
+        "title": "Interpelación urgente al Ministro de la Presidencia, Justicia y\nRelaciones con las Cortes sobre las medidas que adoptará el Gobierno para\nla restauración de las zonas arrasadas por la gota fría en Valencia.",
+        "officialTitle": "Interpelación urgente al Ministro de la Presidencia, Justicia y\nRelaciones con las Cortes sobre las medidas que adoptará el Gobierno para\nla restauración de las zonas arrasadas por la gota fría en Valencia.",
+        "type": "questioning_of_the_government",
+        "nativeType": "ES-interpelacion"
+      },
+      "dateStart": "2025-03-12T11:44:00+01:00",
+      "dateEnd": "2025-03-12T11:57:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_097/cortes/15_000400_097_1_25877_749293.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1549293I",
+        "duration": 780.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_097_1_25877_749293",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Ángel Víctor Torres Pérez",
+          "lastname": "Torres Pérez",
+          "firstname": "Ángel Víctor",
+          "type": "member of government",
+          "role": "Ministro de Política Territorial y Memoria Democrática"
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 64
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 101
+      },
+      "agendaItem": {
+        "title": "Interpelación urgente al Ministro de la Presidencia, Justicia y\nRelaciones con las Cortes sobre las medidas que adoptará el Gobierno para\nla restauración de las zonas arrasadas por la gota fría en Valencia.",
+        "officialTitle": "Interpelación urgente al Ministro de la Presidencia, Justicia y\nRelaciones con las Cortes sobre las medidas que adoptará el Gobierno para\nla restauración de las zonas arrasadas por la gota fría en Valencia.",
+        "type": "questioning_of_the_government",
+        "nativeType": "ES-interpelacion"
+      },
+      "dateStart": "2025-03-12T11:57:00+01:00",
+      "dateEnd": "2025-03-12T12:03:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_097/cortes/15_000400_097_1_25877_749294.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1549294I",
+        "duration": 360.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_097_1_25877_749294",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Carlos Flores Juberías",
+          "lastname": "Flores Juberías",
+          "firstname": "Carlos",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario VOX"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 65
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 101
+      },
+      "agendaItem": {
+        "title": "Interpelación urgente al Ministro de la Presidencia, Justicia y\nRelaciones con las Cortes sobre las medidas que adoptará el Gobierno para\nla restauración de las zonas arrasadas por la gota fría en Valencia.",
+        "officialTitle": "Interpelación urgente al Ministro de la Presidencia, Justicia y\nRelaciones con las Cortes sobre las medidas que adoptará el Gobierno para\nla restauración de las zonas arrasadas por la gota fría en Valencia.",
+        "type": "questioning_of_the_government",
+        "nativeType": "ES-interpelacion"
+      },
+      "dateStart": "2025-03-12T12:03:00+01:00",
+      "dateEnd": "2025-03-12T12:09:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_097/cortes/15_000400_097_1_25877_749295.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1549295I",
+        "duration": 360.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_097_1_25877_749295",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Ángel Víctor Torres Pérez",
+          "lastname": "Torres Pérez",
+          "firstname": "Ángel Víctor",
+          "type": "member of government",
+          "role": "Ministro de Política Territorial y Memoria Democrática"
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 66
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 101
+      },
+      "agendaItem": {
+        "title": "Interpelación urgente al Ministro del Interior sobre la criminalidad\nen nuestro país y las medidas que tiene previsto adoptar el Gobierno para\ndar respuesta al aumento de ésta en España y, particularmente, en\nNavarra.",
+        "officialTitle": "Interpelación urgente al Ministro del Interior sobre la criminalidad\nen nuestro país y las medidas que tiene previsto adoptar el Gobierno para\ndar respuesta al aumento de ésta en España y, particularmente, en\nNavarra.",
+        "type": "questioning_of_the_government",
+        "nativeType": "ES-interpelacion"
+      },
+      "dateStart": "2025-03-12T12:09:00+01:00",
+      "dateEnd": "2025-03-12T12:21:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_097/cortes/15_000400_097_1_25877_749297.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1549297I",
+        "duration": 720.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_097_1_25877_749297",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Alberto Catalán Higueras",
+          "lastname": "Catalán Higueras",
+          "firstname": "Alberto",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Mixto"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 67
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 101
+      },
+      "agendaItem": {
+        "title": "Interpelación urgente al Ministro del Interior sobre la criminalidad\nen nuestro país y las medidas que tiene previsto adoptar el Gobierno para\ndar respuesta al aumento de ésta en España y, particularmente, en\nNavarra.",
+        "officialTitle": "Interpelación urgente al Ministro del Interior sobre la criminalidad\nen nuestro país y las medidas que tiene previsto adoptar el Gobierno para\ndar respuesta al aumento de ésta en España y, particularmente, en\nNavarra.",
+        "type": "questioning_of_the_government",
+        "nativeType": "ES-interpelacion"
+      },
+      "dateStart": "2025-03-12T12:21:00+01:00",
+      "dateEnd": "2025-03-12T12:36:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_097/cortes/15_000400_097_1_25877_749298.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1549298I",
+        "duration": 900.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_097_1_25877_749298",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Fernando Grande-Marlaska Gómez",
+          "lastname": "Grande-Marlaska Gómez",
+          "firstname": "Fernando",
+          "type": "member of government",
+          "role": "Ministro del Interior"
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 68
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 101
+      },
+      "agendaItem": {
+        "title": "Interpelación urgente al Ministro del Interior sobre la criminalidad\nen nuestro país y las medidas que tiene previsto adoptar el Gobierno para\ndar respuesta al aumento de ésta en España y, particularmente, en\nNavarra.",
+        "officialTitle": "Interpelación urgente al Ministro del Interior sobre la criminalidad\nen nuestro país y las medidas que tiene previsto adoptar el Gobierno para\ndar respuesta al aumento de ésta en España y, particularmente, en\nNavarra.",
+        "type": "questioning_of_the_government",
+        "nativeType": "ES-interpelacion"
+      },
+      "dateStart": "2025-03-12T12:36:00+01:00",
+      "dateEnd": "2025-03-12T12:41:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_097/cortes/15_000400_097_1_25877_749299.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1549299I",
+        "duration": 300.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_097_1_25877_749299",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Alberto Catalán Higueras",
+          "lastname": "Catalán Higueras",
+          "firstname": "Alberto",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Mixto"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 69
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 101
+      },
+      "agendaItem": {
+        "title": "Interpelación urgente al Ministro del Interior sobre la criminalidad\nen nuestro país y las medidas que tiene previsto adoptar el Gobierno para\ndar respuesta al aumento de ésta en España y, particularmente, en\nNavarra.",
+        "officialTitle": "Interpelación urgente al Ministro del Interior sobre la criminalidad\nen nuestro país y las medidas que tiene previsto adoptar el Gobierno para\ndar respuesta al aumento de ésta en España y, particularmente, en\nNavarra.",
+        "type": "questioning_of_the_government",
+        "nativeType": "ES-interpelacion"
+      },
+      "dateStart": "2025-03-12T12:41:00+01:00",
+      "dateEnd": "2025-03-12T12:47:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_097/cortes/15_000400_097_1_25877_749300.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1549300I",
+        "duration": 360.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_097_1_25877_749300",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Fernando Grande-Marlaska Gómez",
+          "lastname": "Grande-Marlaska Gómez",
+          "firstname": "Fernando",
+          "type": "member of government",
+          "role": "Ministro del Interior"
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 70
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 101
+      },
+      "agendaItem": {
+        "title": "Interpelación urgente al Ministro del Interior sobre las cesiones que\nacaba de realizar su Gobierno en materia de inmigración y fronteras.",
+        "officialTitle": "Interpelación urgente al Ministro del Interior sobre las cesiones que\nacaba de realizar su Gobierno en materia de inmigración y fronteras.",
+        "type": "questioning_of_the_government",
+        "nativeType": "ES-interpelacion"
+      },
+      "dateStart": "2025-03-12T12:47:00+01:00",
+      "dateEnd": "2025-03-12T13:01:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_097/cortes/15_000400_097_1_25877_749302.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1549302I",
+        "duration": 840.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_097_1_25877_749302",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Carlos Rojas García",
+          "lastname": "Rojas García",
+          "firstname": "Carlos",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Popular en el Congreso"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 71
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 101
+      },
+      "agendaItem": {
+        "title": "Interpelación urgente al Ministro del Interior sobre las cesiones que\nacaba de realizar su Gobierno en materia de inmigración y fronteras.",
+        "officialTitle": "Interpelación urgente al Ministro del Interior sobre las cesiones que\nacaba de realizar su Gobierno en materia de inmigración y fronteras.",
+        "type": "questioning_of_the_government",
+        "nativeType": "ES-interpelacion"
+      },
+      "dateStart": "2025-03-12T13:01:00+01:00",
+      "dateEnd": "2025-03-12T13:15:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_097/cortes/15_000400_097_1_25877_749303.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1549303I",
+        "duration": 840.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_097_1_25877_749303",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Fernando Grande-Marlaska Gómez",
+          "lastname": "Grande-Marlaska Gómez",
+          "firstname": "Fernando",
+          "type": "member of government",
+          "role": "Ministro del Interior"
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 72
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 101
+      },
+      "agendaItem": {
+        "title": "Interpelación urgente al Ministro del Interior sobre las cesiones que\nacaba de realizar su Gobierno en materia de inmigración y fronteras.",
+        "officialTitle": "Interpelación urgente al Ministro del Interior sobre las cesiones que\nacaba de realizar su Gobierno en materia de inmigración y fronteras.",
+        "type": "questioning_of_the_government",
+        "nativeType": "ES-interpelacion"
+      },
+      "dateStart": "2025-03-12T13:15:00+01:00",
+      "dateEnd": "2025-03-12T13:23:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_097/cortes/15_000400_097_1_25877_749304.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1549304I",
+        "duration": 480.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_097_1_25877_749304",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Carlos Rojas García",
+          "lastname": "Rojas García",
+          "firstname": "Carlos",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Popular en el Congreso"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 73
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 101
+      },
+      "agendaItem": {
+        "title": "Interpelación urgente al Ministro del Interior sobre las cesiones que\nacaba de realizar su Gobierno en materia de inmigración y fronteras.",
+        "officialTitle": "Interpelación urgente al Ministro del Interior sobre las cesiones que\nacaba de realizar su Gobierno en materia de inmigración y fronteras.",
+        "type": "questioning_of_the_government",
+        "nativeType": "ES-interpelacion"
+      },
+      "dateStart": "2025-03-12T13:23:00+01:00",
+      "dateEnd": "2025-03-12T13:30:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_097/cortes/15_000400_097_1_25877_749305.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1549305I",
+        "duration": 420.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_097_1_25877_749305",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Fernando Grande-Marlaska Gómez",
+          "lastname": "Grande-Marlaska Gómez",
+          "firstname": "Fernando",
+          "type": "member of government",
+          "role": "Ministro del Interior"
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 74
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 101
+      },
+      "agendaItem": {
+        "title": "Solicitud de comparecencia del Ministro de Asuntos Exteriores, Unión\nEuropea y Cooperación ante el Pleno de la Cámara, para exponer la\nposición del Gobierno ante la voluntad mostrada por EEUU e Israel, por\nsus presidentes Trump y Netanyahu, de iniciar un plan de limpieza étnica\nen Gaza para expulsar a su población y ocupar y apropiarse del territorio\npalestino, así como sobre las acciones y posiciones que adoptará el\nGobierno ante EEUU e Israel, ante la Unión Europea, las instituciones\ninternacionales y la comunidad internacional para enfrentarlo.",
+        "officialTitle": "Solicitud de comparecencia del Ministro de Asuntos Exteriores, Unión\nEuropea y Cooperación ante el Pleno de la Cámara, para exponer la\nposición del Gobierno ante la voluntad mostrada por EEUU e Israel, por\nsus presidentes Trump y Netanyahu, de iniciar un plan de limpieza étnica\nen Gaza para expulsar a su población y ocupar y apropiarse del territorio\npalestino, así como sobre las acciones y posiciones que adoptará el\nGobierno ante EEUU e Israel, ante la Unión Europea, las instituciones\ninternacionales y la comunidad internacional para enfrentarlo.",
+        "type": "briefing",
+        "nativeType": "ES-comparecencia"
+      },
+      "dateStart": "2025-03-12T13:31:00+01:00",
+      "dateEnd": "2025-03-12T14:05:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_097/cortes/15_000400_097_1_25877_749308.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1549308I",
+        "duration": 2040.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_097_1_25877_749308",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "José Manuel Albares Bueno",
+          "lastname": "Albares Bueno",
+          "firstname": "José Manuel",
+          "type": "member of government",
+          "role": "Ministro de Asuntos Exteriores, Unión Europea y Cooperación"
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 75
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 101
+      },
+      "agendaItem": {
+        "title": "Solicitud de comparecencia del Ministro de Asuntos Exteriores, Unión\nEuropea y Cooperación ante el Pleno de la Cámara, para exponer la\nposición del Gobierno ante la voluntad mostrada por EEUU e Israel, por\nsus presidentes Trump y Netanyahu, de iniciar un plan de limpieza étnica\nen Gaza para expulsar a su población y ocupar y apropiarse del territorio\npalestino, así como sobre las acciones y posiciones que adoptará el\nGobierno ante EEUU e Israel, ante la Unión Europea, las instituciones\ninternacionales y la comunidad internacional para enfrentarlo.",
+        "officialTitle": "Solicitud de comparecencia del Ministro de Asuntos Exteriores, Unión\nEuropea y Cooperación ante el Pleno de la Cámara, para exponer la\nposición del Gobierno ante la voluntad mostrada por EEUU e Israel, por\nsus presidentes Trump y Netanyahu, de iniciar un plan de limpieza étnica\nen Gaza para expulsar a su población y ocupar y apropiarse del territorio\npalestino, así como sobre las acciones y posiciones que adoptará el\nGobierno ante EEUU e Israel, ante la Unión Europea, las instituciones\ninternacionales y la comunidad internacional para enfrentarlo.",
+        "type": "briefing",
+        "nativeType": "ES-comparecencia"
+      },
+      "dateStart": "2025-03-12T14:05:00+01:00",
+      "dateEnd": "2025-03-12T14:16:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_097/cortes/15_000400_097_1_25877_749309.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1549309I",
+        "duration": 660.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_097_1_25877_749309",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Carlos Javier Floriano Corrales",
+          "lastname": "Floriano Corrales",
+          "firstname": "Carlos Javier",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Popular en el Congreso"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 76
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 101
+      },
+      "agendaItem": {
+        "title": "Solicitud de comparecencia del Ministro de Asuntos Exteriores, Unión\nEuropea y Cooperación ante el Pleno de la Cámara, para exponer la\nposición del Gobierno ante la voluntad mostrada por EEUU e Israel, por\nsus presidentes Trump y Netanyahu, de iniciar un plan de limpieza étnica\nen Gaza para expulsar a su población y ocupar y apropiarse del territorio\npalestino, así como sobre las acciones y posiciones que adoptará el\nGobierno ante EEUU e Israel, ante la Unión Europea, las instituciones\ninternacionales y la comunidad internacional para enfrentarlo.",
+        "officialTitle": "Solicitud de comparecencia del Ministro de Asuntos Exteriores, Unión\nEuropea y Cooperación ante el Pleno de la Cámara, para exponer la\nposición del Gobierno ante la voluntad mostrada por EEUU e Israel, por\nsus presidentes Trump y Netanyahu, de iniciar un plan de limpieza étnica\nen Gaza para expulsar a su población y ocupar y apropiarse del territorio\npalestino, así como sobre las acciones y posiciones que adoptará el\nGobierno ante EEUU e Israel, ante la Unión Europea, las instituciones\ninternacionales y la comunidad internacional para enfrentarlo.",
+        "type": "briefing",
+        "nativeType": "ES-comparecencia"
+      },
+      "dateStart": "2025-03-12T14:16:00+01:00",
+      "dateEnd": "2025-03-12T14:28:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_097/cortes/15_000400_097_1_25877_749310.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1549310I",
+        "duration": 720.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_097_1_25877_749310",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Carlos Flores Juberías",
+          "lastname": "Flores Juberías",
+          "firstname": "Carlos",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario VOX"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 77
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 101
+      },
+      "agendaItem": {
+        "title": "Solicitud de comparecencia del Ministro de Asuntos Exteriores, Unión\nEuropea y Cooperación ante el Pleno de la Cámara, para exponer la\nposición del Gobierno ante la voluntad mostrada por EEUU e Israel, por\nsus presidentes Trump y Netanyahu, de iniciar un plan de limpieza étnica\nen Gaza para expulsar a su población y ocupar y apropiarse del territorio\npalestino, así como sobre las acciones y posiciones que adoptará el\nGobierno ante EEUU e Israel, ante la Unión Europea, las instituciones\ninternacionales y la comunidad internacional para enfrentarlo.",
+        "officialTitle": "Solicitud de comparecencia del Ministro de Asuntos Exteriores, Unión\nEuropea y Cooperación ante el Pleno de la Cámara, para exponer la\nposición del Gobierno ante la voluntad mostrada por EEUU e Israel, por\nsus presidentes Trump y Netanyahu, de iniciar un plan de limpieza étnica\nen Gaza para expulsar a su población y ocupar y apropiarse del territorio\npalestino, así como sobre las acciones y posiciones que adoptará el\nGobierno ante EEUU e Israel, ante la Unión Europea, las instituciones\ninternacionales y la comunidad internacional para enfrentarlo.",
+        "type": "briefing",
+        "nativeType": "ES-comparecencia"
+      },
+      "dateStart": "2025-03-12T14:28:00+01:00",
+      "dateEnd": "2025-03-12T14:40:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_097/cortes/15_000400_097_1_25877_749311.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1549311I",
+        "duration": 720.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_097_1_25877_749311",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Agustín Santos Maraver",
+          "lastname": "Santos Maraver",
+          "firstname": "Agustín",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Plurinacional SUMAR"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 78
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 101
+      },
+      "agendaItem": {
+        "title": "Solicitud de comparecencia del Ministro de Asuntos Exteriores, Unión\nEuropea y Cooperación ante el Pleno de la Cámara, para exponer la\nposición del Gobierno ante la voluntad mostrada por EEUU e Israel, por\nsus presidentes Trump y Netanyahu, de iniciar un plan de limpieza étnica\nen Gaza para expulsar a su población y ocupar y apropiarse del territorio\npalestino, así como sobre las acciones y posiciones que adoptará el\nGobierno ante EEUU e Israel, ante la Unión Europea, las instituciones\ninternacionales y la comunidad internacional para enfrentarlo.",
+        "officialTitle": "Solicitud de comparecencia del Ministro de Asuntos Exteriores, Unión\nEuropea y Cooperación ante el Pleno de la Cámara, para exponer la\nposición del Gobierno ante la voluntad mostrada por EEUU e Israel, por\nsus presidentes Trump y Netanyahu, de iniciar un plan de limpieza étnica\nen Gaza para expulsar a su población y ocupar y apropiarse del territorio\npalestino, así como sobre las acciones y posiciones que adoptará el\nGobierno ante EEUU e Israel, ante la Unión Europea, las instituciones\ninternacionales y la comunidad internacional para enfrentarlo.",
+        "type": "briefing",
+        "nativeType": "ES-comparecencia"
+      },
+      "dateStart": "2025-03-12T14:40:00+01:00",
+      "dateEnd": "2025-03-12T14:50:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_097/cortes/15_000400_097_1_25877_749312.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1549312I",
+        "duration": 600.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_097_1_25877_749312",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Francesc-Marc Álvaro Vidal",
+          "lastname": "Álvaro Vidal",
+          "firstname": "Francesc-Marc",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Republicano"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 79
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 101
+      },
+      "agendaItem": {
+        "title": "Solicitud de comparecencia del Ministro de Asuntos Exteriores, Unión\nEuropea y Cooperación ante el Pleno de la Cámara, para exponer la\nposición del Gobierno ante la voluntad mostrada por EEUU e Israel, por\nsus presidentes Trump y Netanyahu, de iniciar un plan de limpieza étnica\nen Gaza para expulsar a su población y ocupar y apropiarse del territorio\npalestino, así como sobre las acciones y posiciones que adoptará el\nGobierno ante EEUU e Israel, ante la Unión Europea, las instituciones\ninternacionales y la comunidad internacional para enfrentarlo.",
+        "officialTitle": "Solicitud de comparecencia del Ministro de Asuntos Exteriores, Unión\nEuropea y Cooperación ante el Pleno de la Cámara, para exponer la\nposición del Gobierno ante la voluntad mostrada por EEUU e Israel, por\nsus presidentes Trump y Netanyahu, de iniciar un plan de limpieza étnica\nen Gaza para expulsar a su población y ocupar y apropiarse del territorio\npalestino, así como sobre las acciones y posiciones que adoptará el\nGobierno ante EEUU e Israel, ante la Unión Europea, las instituciones\ninternacionales y la comunidad internacional para enfrentarlo.",
+        "type": "briefing",
+        "nativeType": "ES-comparecencia"
+      },
+      "dateStart": "2025-03-12T14:50:00+01:00",
+      "dateEnd": "2025-03-12T15:03:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_097/cortes/15_000400_097_1_25877_749313.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1549313I",
+        "duration": 780.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_097_1_25877_749313",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Marta Madrenas i Mir",
+          "lastname": "Madrenas i Mir",
+          "firstname": "Marta",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Junts per Catalunya"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 80
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 101
+      },
+      "agendaItem": {
+        "title": "Solicitud de comparecencia del Ministro de Asuntos Exteriores, Unión\nEuropea y Cooperación ante el Pleno de la Cámara, para exponer la\nposición del Gobierno ante la voluntad mostrada por EEUU e Israel, por\nsus presidentes Trump y Netanyahu, de iniciar un plan de limpieza étnica\nen Gaza para expulsar a su población y ocupar y apropiarse del territorio\npalestino, así como sobre las acciones y posiciones que adoptará el\nGobierno ante EEUU e Israel, ante la Unión Europea, las instituciones\ninternacionales y la comunidad internacional para enfrentarlo.",
+        "officialTitle": "Solicitud de comparecencia del Ministro de Asuntos Exteriores, Unión\nEuropea y Cooperación ante el Pleno de la Cámara, para exponer la\nposición del Gobierno ante la voluntad mostrada por EEUU e Israel, por\nsus presidentes Trump y Netanyahu, de iniciar un plan de limpieza étnica\nen Gaza para expulsar a su población y ocupar y apropiarse del territorio\npalestino, así como sobre las acciones y posiciones que adoptará el\nGobierno ante EEUU e Israel, ante la Unión Europea, las instituciones\ninternacionales y la comunidad internacional para enfrentarlo.",
+        "type": "briefing",
+        "nativeType": "ES-comparecencia"
+      },
+      "dateStart": "2025-03-12T15:03:00+01:00",
+      "dateEnd": "2025-03-12T15:15:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_097/cortes/15_000400_097_1_25877_749314.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1549314I",
+        "duration": 720.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_097_1_25877_749314",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Oskar Matute García de Jalón",
+          "lastname": "Matute García de Jalón",
+          "firstname": "Oskar",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Euskal Herria Bildu"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 81
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 101
+      },
+      "agendaItem": {
+        "title": "Solicitud de comparecencia del Ministro de Asuntos Exteriores, Unión\nEuropea y Cooperación ante el Pleno de la Cámara, para exponer la\nposición del Gobierno ante la voluntad mostrada por EEUU e Israel, por\nsus presidentes Trump y Netanyahu, de iniciar un plan de limpieza étnica\nen Gaza para expulsar a su población y ocupar y apropiarse del territorio\npalestino, así como sobre las acciones y posiciones que adoptará el\nGobierno ante EEUU e Israel, ante la Unión Europea, las instituciones\ninternacionales y la comunidad internacional para enfrentarlo.",
+        "officialTitle": "Solicitud de comparecencia del Ministro de Asuntos Exteriores, Unión\nEuropea y Cooperación ante el Pleno de la Cámara, para exponer la\nposición del Gobierno ante la voluntad mostrada por EEUU e Israel, por\nsus presidentes Trump y Netanyahu, de iniciar un plan de limpieza étnica\nen Gaza para expulsar a su población y ocupar y apropiarse del territorio\npalestino, así como sobre las acciones y posiciones que adoptará el\nGobierno ante EEUU e Israel, ante la Unión Europea, las instituciones\ninternacionales y la comunidad internacional para enfrentarlo.",
+        "type": "briefing",
+        "nativeType": "ES-comparecencia"
+      },
+      "dateStart": "2025-03-12T15:15:00+01:00",
+      "dateEnd": "2025-03-12T15:27:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_097/cortes/15_000400_097_1_25877_749315.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1549315I",
+        "duration": 720.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_097_1_25877_749315",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Mikel Legarda Uriarte",
+          "lastname": "Legarda Uriarte",
+          "firstname": "Mikel",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Vasco (EAJ-PNV)"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 82
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 101
+      },
+      "agendaItem": {
+        "title": "Solicitud de comparecencia del Ministro de Asuntos Exteriores, Unión\nEuropea y Cooperación ante el Pleno de la Cámara, para exponer la\nposición del Gobierno ante la voluntad mostrada por EEUU e Israel, por\nsus presidentes Trump y Netanyahu, de iniciar un plan de limpieza étnica\nen Gaza para expulsar a su población y ocupar y apropiarse del territorio\npalestino, así como sobre las acciones y posiciones que adoptará el\nGobierno ante EEUU e Israel, ante la Unión Europea, las instituciones\ninternacionales y la comunidad internacional para enfrentarlo.",
+        "officialTitle": "Solicitud de comparecencia del Ministro de Asuntos Exteriores, Unión\nEuropea y Cooperación ante el Pleno de la Cámara, para exponer la\nposición del Gobierno ante la voluntad mostrada por EEUU e Israel, por\nsus presidentes Trump y Netanyahu, de iniciar un plan de limpieza étnica\nen Gaza para expulsar a su población y ocupar y apropiarse del territorio\npalestino, así como sobre las acciones y posiciones que adoptará el\nGobierno ante EEUU e Israel, ante la Unión Europea, las instituciones\ninternacionales y la comunidad internacional para enfrentarlo.",
+        "type": "briefing",
+        "nativeType": "ES-comparecencia"
+      },
+      "dateStart": "2025-03-12T15:27:00+01:00",
+      "dateEnd": "2025-03-12T15:35:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_097/cortes/15_000400_097_1_25877_749316.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1549316I",
+        "duration": 480.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_097_1_25877_749316",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Ione Belarra Urteaga",
+          "lastname": "Belarra Urteaga",
+          "firstname": "Ione",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Mixto"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 83
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 101
+      },
+      "agendaItem": {
+        "title": "Solicitud de comparecencia del Ministro de Asuntos Exteriores, Unión\nEuropea y Cooperación ante el Pleno de la Cámara, para exponer la\nposición del Gobierno ante la voluntad mostrada por EEUU e Israel, por\nsus presidentes Trump y Netanyahu, de iniciar un plan de limpieza étnica\nen Gaza para expulsar a su población y ocupar y apropiarse del territorio\npalestino, así como sobre las acciones y posiciones que adoptará el\nGobierno ante EEUU e Israel, ante la Unión Europea, las instituciones\ninternacionales y la comunidad internacional para enfrentarlo.",
+        "officialTitle": "Solicitud de comparecencia del Ministro de Asuntos Exteriores, Unión\nEuropea y Cooperación ante el Pleno de la Cámara, para exponer la\nposición del Gobierno ante la voluntad mostrada por EEUU e Israel, por\nsus presidentes Trump y Netanyahu, de iniciar un plan de limpieza étnica\nen Gaza para expulsar a su población y ocupar y apropiarse del territorio\npalestino, así como sobre las acciones y posiciones que adoptará el\nGobierno ante EEUU e Israel, ante la Unión Europea, las instituciones\ninternacionales y la comunidad internacional para enfrentarlo.",
+        "type": "briefing",
+        "nativeType": "ES-comparecencia"
+      },
+      "dateStart": "2025-03-12T15:36:00+01:00",
+      "dateEnd": "2025-03-12T15:40:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_097/cortes/15_000400_097_2_25880_749322.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1549322I",
+        "duration": 240.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_097_2_25880_749322",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Néstor Rego Candamil",
+          "lastname": "Rego Candamil",
+          "firstname": "Néstor",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Mixto"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 84
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 101
+      },
+      "agendaItem": {
+        "title": "Solicitud de comparecencia del Ministro de Asuntos Exteriores, Unión\nEuropea y Cooperación ante el Pleno de la Cámara, para exponer la\nposición del Gobierno ante la voluntad mostrada por EEUU e Israel, por\nsus presidentes Trump y Netanyahu, de iniciar un plan de limpieza étnica\nen Gaza para expulsar a su población y ocupar y apropiarse del territorio\npalestino, así como sobre las acciones y posiciones que adoptará el\nGobierno ante EEUU e Israel, ante la Unión Europea, las instituciones\ninternacionales y la comunidad internacional para enfrentarlo.",
+        "officialTitle": "Solicitud de comparecencia del Ministro de Asuntos Exteriores, Unión\nEuropea y Cooperación ante el Pleno de la Cámara, para exponer la\nposición del Gobierno ante la voluntad mostrada por EEUU e Israel, por\nsus presidentes Trump y Netanyahu, de iniciar un plan de limpieza étnica\nen Gaza para expulsar a su población y ocupar y apropiarse del territorio\npalestino, así como sobre las acciones y posiciones que adoptará el\nGobierno ante EEUU e Israel, ante la Unión Europea, las instituciones\ninternacionales y la comunidad internacional para enfrentarlo.",
+        "type": "briefing",
+        "nativeType": "ES-comparecencia"
+      },
+      "dateStart": "2025-03-12T15:40:00+01:00",
+      "dateEnd": "2025-03-12T15:44:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_097/cortes/15_000400_097_2_25880_749323.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1549323I",
+        "duration": 240.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_097_2_25880_749323",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Cristina Valido García",
+          "lastname": "Valido García",
+          "firstname": "Cristina",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Mixto"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 85
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 101
+      },
+      "agendaItem": {
+        "title": "Solicitud de comparecencia del Ministro de Asuntos Exteriores, Unión\nEuropea y Cooperación ante el Pleno de la Cámara, para exponer la\nposición del Gobierno ante la voluntad mostrada por EEUU e Israel, por\nsus presidentes Trump y Netanyahu, de iniciar un plan de limpieza étnica\nen Gaza para expulsar a su población y ocupar y apropiarse del territorio\npalestino, así como sobre las acciones y posiciones que adoptará el\nGobierno ante EEUU e Israel, ante la Unión Europea, las instituciones\ninternacionales y la comunidad internacional para enfrentarlo.",
+        "officialTitle": "Solicitud de comparecencia del Ministro de Asuntos Exteriores, Unión\nEuropea y Cooperación ante el Pleno de la Cámara, para exponer la\nposición del Gobierno ante la voluntad mostrada por EEUU e Israel, por\nsus presidentes Trump y Netanyahu, de iniciar un plan de limpieza étnica\nen Gaza para expulsar a su población y ocupar y apropiarse del territorio\npalestino, así como sobre las acciones y posiciones que adoptará el\nGobierno ante EEUU e Israel, ante la Unión Europea, las instituciones\ninternacionales y la comunidad internacional para enfrentarlo.",
+        "type": "briefing",
+        "nativeType": "ES-comparecencia"
+      },
+      "dateStart": "2025-03-12T15:44:00+01:00",
+      "dateEnd": "2025-03-12T15:49:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_097/cortes/15_000400_097_2_25880_749324.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1549324I",
+        "duration": 300.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_097_2_25880_749324",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Alberto Catalán Higueras",
+          "lastname": "Catalán Higueras",
+          "firstname": "Alberto",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Mixto"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 86
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 101
+      },
+      "agendaItem": {
+        "title": "Solicitud de comparecencia del Ministro de Asuntos Exteriores, Unión\nEuropea y Cooperación ante el Pleno de la Cámara, para exponer la\nposición del Gobierno ante la voluntad mostrada por EEUU e Israel, por\nsus presidentes Trump y Netanyahu, de iniciar un plan de limpieza étnica\nen Gaza para expulsar a su población y ocupar y apropiarse del territorio\npalestino, así como sobre las acciones y posiciones que adoptará el\nGobierno ante EEUU e Israel, ante la Unión Europea, las instituciones\ninternacionales y la comunidad internacional para enfrentarlo.",
+        "officialTitle": "Solicitud de comparecencia del Ministro de Asuntos Exteriores, Unión\nEuropea y Cooperación ante el Pleno de la Cámara, para exponer la\nposición del Gobierno ante la voluntad mostrada por EEUU e Israel, por\nsus presidentes Trump y Netanyahu, de iniciar un plan de limpieza étnica\nen Gaza para expulsar a su población y ocupar y apropiarse del territorio\npalestino, así como sobre las acciones y posiciones que adoptará el\nGobierno ante EEUU e Israel, ante la Unión Europea, las instituciones\ninternacionales y la comunidad internacional para enfrentarlo.",
+        "type": "briefing",
+        "nativeType": "ES-comparecencia"
+      },
+      "dateStart": "2025-03-12T15:49:00+01:00",
+      "dateEnd": "2025-03-12T16:01:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_097/cortes/15_000400_097_2_25880_749325.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1549325I",
+        "duration": 720.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_097_2_25880_749325",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Sergio Gutiérrez Prieto",
+          "lastname": "Gutiérrez Prieto",
+          "firstname": "Sergio",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Socialista"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 87
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 101
+      },
+      "agendaItem": {
+        "title": "Solicitud de comparecencia del Ministro de Asuntos Exteriores, Unión\nEuropea y Cooperación ante el Pleno de la Cámara, para exponer la\nposición del Gobierno ante la voluntad mostrada por EEUU e Israel, por\nsus presidentes Trump y Netanyahu, de iniciar un plan de limpieza étnica\nen Gaza para expulsar a su población y ocupar y apropiarse del territorio\npalestino, así como sobre las acciones y posiciones que adoptará el\nGobierno ante EEUU e Israel, ante la Unión Europea, las instituciones\ninternacionales y la comunidad internacional para enfrentarlo.",
+        "officialTitle": "Solicitud de comparecencia del Ministro de Asuntos Exteriores, Unión\nEuropea y Cooperación ante el Pleno de la Cámara, para exponer la\nposición del Gobierno ante la voluntad mostrada por EEUU e Israel, por\nsus presidentes Trump y Netanyahu, de iniciar un plan de limpieza étnica\nen Gaza para expulsar a su población y ocupar y apropiarse del territorio\npalestino, así como sobre las acciones y posiciones que adoptará el\nGobierno ante EEUU e Israel, ante la Unión Europea, las instituciones\ninternacionales y la comunidad internacional para enfrentarlo.",
+        "type": "briefing",
+        "nativeType": "ES-comparecencia"
+      },
+      "dateStart": "2025-03-12T16:01:00+01:00",
+      "dateEnd": "2025-03-12T16:38:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_097/cortes/15_000400_097_2_25880_749326.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1549326I",
+        "duration": 2220.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_097_2_25880_749326",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "José Manuel Albares Bueno",
+          "lastname": "Albares Bueno",
+          "firstname": "José Manuel",
+          "type": "member of government",
+          "role": "Ministro de Asuntos Exteriores, Unión Europea y Cooperación"
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 88
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 101
+      },
+      "agendaItem": {
+        "title": "Solicitud de comparecencia del Ministro de Asuntos Exteriores, Unión\nEuropea y Cooperación ante el Pleno de la Cámara, para exponer la\nposición del Gobierno ante la voluntad mostrada por EEUU e Israel, por\nsus presidentes Trump y Netanyahu, de iniciar un plan de limpieza étnica\nen Gaza para expulsar a su población y ocupar y apropiarse del territorio\npalestino, así como sobre las acciones y posiciones que adoptará el\nGobierno ante EEUU e Israel, ante la Unión Europea, las instituciones\ninternacionales y la comunidad internacional para enfrentarlo.",
+        "officialTitle": "Solicitud de comparecencia del Ministro de Asuntos Exteriores, Unión\nEuropea y Cooperación ante el Pleno de la Cámara, para exponer la\nposición del Gobierno ante la voluntad mostrada por EEUU e Israel, por\nsus presidentes Trump y Netanyahu, de iniciar un plan de limpieza étnica\nen Gaza para expulsar a su población y ocupar y apropiarse del territorio\npalestino, así como sobre las acciones y posiciones que adoptará el\nGobierno ante EEUU e Israel, ante la Unión Europea, las instituciones\ninternacionales y la comunidad internacional para enfrentarlo.",
+        "type": "briefing",
+        "nativeType": "ES-comparecencia"
+      },
+      "dateStart": "2025-03-12T16:38:00+01:00",
+      "dateEnd": "2025-03-12T16:46:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_097/cortes/15_000400_097_2_25880_749327.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1549327I",
+        "duration": 480.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_097_2_25880_749327",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Carlos Javier Floriano Corrales",
+          "lastname": "Floriano Corrales",
+          "firstname": "Carlos Javier",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Popular en el Congreso"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 89
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 101
+      },
+      "agendaItem": {
+        "title": "Solicitud de comparecencia del Ministro de Asuntos Exteriores, Unión\nEuropea y Cooperación ante el Pleno de la Cámara, para exponer la\nposición del Gobierno ante la voluntad mostrada por EEUU e Israel, por\nsus presidentes Trump y Netanyahu, de iniciar un plan de limpieza étnica\nen Gaza para expulsar a su población y ocupar y apropiarse del territorio\npalestino, así como sobre las acciones y posiciones que adoptará el\nGobierno ante EEUU e Israel, ante la Unión Europea, las instituciones\ninternacionales y la comunidad internacional para enfrentarlo.",
+        "officialTitle": "Solicitud de comparecencia del Ministro de Asuntos Exteriores, Unión\nEuropea y Cooperación ante el Pleno de la Cámara, para exponer la\nposición del Gobierno ante la voluntad mostrada por EEUU e Israel, por\nsus presidentes Trump y Netanyahu, de iniciar un plan de limpieza étnica\nen Gaza para expulsar a su población y ocupar y apropiarse del territorio\npalestino, así como sobre las acciones y posiciones que adoptará el\nGobierno ante EEUU e Israel, ante la Unión Europea, las instituciones\ninternacionales y la comunidad internacional para enfrentarlo.",
+        "type": "briefing",
+        "nativeType": "ES-comparecencia"
+      },
+      "dateStart": "2025-03-12T16:46:00+01:00",
+      "dateEnd": "2025-03-12T16:52:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_097/cortes/15_000400_097_2_25880_749328.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1549328I",
+        "duration": 360.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_097_2_25880_749328",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Carlos Flores Juberías",
+          "lastname": "Flores Juberías",
+          "firstname": "Carlos",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario VOX"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 90
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 101
+      },
+      "agendaItem": {
+        "title": "Solicitud de comparecencia del Ministro de Asuntos Exteriores, Unión\nEuropea y Cooperación ante el Pleno de la Cámara, para exponer la\nposición del Gobierno ante la voluntad mostrada por EEUU e Israel, por\nsus presidentes Trump y Netanyahu, de iniciar un plan de limpieza étnica\nen Gaza para expulsar a su población y ocupar y apropiarse del territorio\npalestino, así como sobre las acciones y posiciones que adoptará el\nGobierno ante EEUU e Israel, ante la Unión Europea, las instituciones\ninternacionales y la comunidad internacional para enfrentarlo.",
+        "officialTitle": "Solicitud de comparecencia del Ministro de Asuntos Exteriores, Unión\nEuropea y Cooperación ante el Pleno de la Cámara, para exponer la\nposición del Gobierno ante la voluntad mostrada por EEUU e Israel, por\nsus presidentes Trump y Netanyahu, de iniciar un plan de limpieza étnica\nen Gaza para expulsar a su población y ocupar y apropiarse del territorio\npalestino, así como sobre las acciones y posiciones que adoptará el\nGobierno ante EEUU e Israel, ante la Unión Europea, las instituciones\ninternacionales y la comunidad internacional para enfrentarlo.",
+        "type": "briefing",
+        "nativeType": "ES-comparecencia"
+      },
+      "dateStart": "2025-03-12T16:52:00+01:00",
+      "dateEnd": "2025-03-12T16:58:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_097/cortes/15_000400_097_2_25880_749329.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1549329I",
+        "duration": 360.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_097_2_25880_749329",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Agustín Santos Maraver",
+          "lastname": "Santos Maraver",
+          "firstname": "Agustín",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Plurinacional SUMAR"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 91
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 101
+      },
+      "agendaItem": {
+        "title": "Solicitud de comparecencia del Ministro de Asuntos Exteriores, Unión\nEuropea y Cooperación ante el Pleno de la Cámara, para exponer la\nposición del Gobierno ante la voluntad mostrada por EEUU e Israel, por\nsus presidentes Trump y Netanyahu, de iniciar un plan de limpieza étnica\nen Gaza para expulsar a su población y ocupar y apropiarse del territorio\npalestino, así como sobre las acciones y posiciones que adoptará el\nGobierno ante EEUU e Israel, ante la Unión Europea, las instituciones\ninternacionales y la comunidad internacional para enfrentarlo.",
+        "officialTitle": "Solicitud de comparecencia del Ministro de Asuntos Exteriores, Unión\nEuropea y Cooperación ante el Pleno de la Cámara, para exponer la\nposición del Gobierno ante la voluntad mostrada por EEUU e Israel, por\nsus presidentes Trump y Netanyahu, de iniciar un plan de limpieza étnica\nen Gaza para expulsar a su población y ocupar y apropiarse del territorio\npalestino, así como sobre las acciones y posiciones que adoptará el\nGobierno ante EEUU e Israel, ante la Unión Europea, las instituciones\ninternacionales y la comunidad internacional para enfrentarlo.",
+        "type": "briefing",
+        "nativeType": "ES-comparecencia"
+      },
+      "dateStart": "2025-03-12T16:58:00+01:00",
+      "dateEnd": "2025-03-12T17:04:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_097/cortes/15_000400_097_2_25880_749330.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1549330I",
+        "duration": 360.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_097_2_25880_749330",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Francesc-Marc Álvaro Vidal",
+          "lastname": "Álvaro Vidal",
+          "firstname": "Francesc-Marc",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Republicano"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 92
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 101
+      },
+      "agendaItem": {
+        "title": "Solicitud de comparecencia del Ministro de Asuntos Exteriores, Unión\nEuropea y Cooperación ante el Pleno de la Cámara, para exponer la\nposición del Gobierno ante la voluntad mostrada por EEUU e Israel, por\nsus presidentes Trump y Netanyahu, de iniciar un plan de limpieza étnica\nen Gaza para expulsar a su población y ocupar y apropiarse del territorio\npalestino, así como sobre las acciones y posiciones que adoptará el\nGobierno ante EEUU e Israel, ante la Unión Europea, las instituciones\ninternacionales y la comunidad internacional para enfrentarlo.",
+        "officialTitle": "Solicitud de comparecencia del Ministro de Asuntos Exteriores, Unión\nEuropea y Cooperación ante el Pleno de la Cámara, para exponer la\nposición del Gobierno ante la voluntad mostrada por EEUU e Israel, por\nsus presidentes Trump y Netanyahu, de iniciar un plan de limpieza étnica\nen Gaza para expulsar a su población y ocupar y apropiarse del territorio\npalestino, así como sobre las acciones y posiciones que adoptará el\nGobierno ante EEUU e Israel, ante la Unión Europea, las instituciones\ninternacionales y la comunidad internacional para enfrentarlo.",
+        "type": "briefing",
+        "nativeType": "ES-comparecencia"
+      },
+      "dateStart": "2025-03-12T17:04:00+01:00",
+      "dateEnd": "2025-03-12T17:10:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_097/cortes/15_000400_097_2_25880_749331.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1549331I",
+        "duration": 360.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_097_2_25880_749331",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Sergio Gutiérrez Prieto",
+          "lastname": "Gutiérrez Prieto",
+          "firstname": "Sergio",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Socialista"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 93
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 101
+      },
+      "agendaItem": {
+        "title": "Solicitud de comparecencia del Ministro de Asuntos Exteriores, Unión\nEuropea y Cooperación ante el Pleno de la Cámara, para exponer la\nposición del Gobierno ante la voluntad mostrada por EEUU e Israel, por\nsus presidentes Trump y Netanyahu, de iniciar un plan de limpieza étnica\nen Gaza para expulsar a su población y ocupar y apropiarse del territorio\npalestino, así como sobre las acciones y posiciones que adoptará el\nGobierno ante EEUU e Israel, ante la Unión Europea, las instituciones\ninternacionales y la comunidad internacional para enfrentarlo.",
+        "officialTitle": "Solicitud de comparecencia del Ministro de Asuntos Exteriores, Unión\nEuropea y Cooperación ante el Pleno de la Cámara, para exponer la\nposición del Gobierno ante la voluntad mostrada por EEUU e Israel, por\nsus presidentes Trump y Netanyahu, de iniciar un plan de limpieza étnica\nen Gaza para expulsar a su población y ocupar y apropiarse del territorio\npalestino, así como sobre las acciones y posiciones que adoptará el\nGobierno ante EEUU e Israel, ante la Unión Europea, las instituciones\ninternacionales y la comunidad internacional para enfrentarlo.",
+        "type": "briefing",
+        "nativeType": "ES-comparecencia"
+      },
+      "dateStart": "2025-03-12T17:10:00+01:00",
+      "dateEnd": "2025-03-12T17:19:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_097/cortes/15_000400_097_2_25880_749332.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1549332I",
+        "duration": 540.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_097_2_25880_749332",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "José Manuel Albares Bueno",
+          "lastname": "Albares Bueno",
+          "firstname": "José Manuel",
+          "type": "member of government",
+          "role": "Ministro de Asuntos Exteriores, Unión Europea y Cooperación"
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 94
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 101
+      },
+      "agendaItem": {
+        "title": "Moción consecuencia de interpelación urgente sobre el infierno fiscal\nal que este Gobierno está sometiendo a los españoles.",
+        "officialTitle": "Moción consecuencia de interpelación urgente sobre el infierno fiscal\nal que este Gobierno está sometiendo a los españoles.",
+        "type": "regular",
+        "nativeType": "ES-mocion"
+      },
+      "dateStart": "2025-03-12T17:19:00+01:00",
+      "dateEnd": "2025-03-12T17:28:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_097/cortes/15_000400_097_2_25880_749335.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1549335I",
+        "duration": 540.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_097_2_25880_749335",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "José Vicente Marí Bosó",
+          "lastname": "Marí Bosó",
+          "firstname": "José Vicente",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Popular en el Congreso"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 95
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 101
+      },
+      "agendaItem": {
+        "title": "Moción consecuencia de interpelación urgente sobre el infierno fiscal\nal que este Gobierno está sometiendo a los españoles.",
+        "officialTitle": "Moción consecuencia de interpelación urgente sobre el infierno fiscal\nal que este Gobierno está sometiendo a los españoles.",
+        "type": "regular",
+        "nativeType": "ES-mocion"
+      },
+      "dateStart": "2025-03-12T17:28:00+01:00",
+      "dateEnd": "2025-03-12T17:36:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_097/cortes/15_000400_097_2_25880_749336.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1549336I",
+        "duration": 480.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_097_2_25880_749336",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Jacobo González-Robatto Perote",
+          "lastname": "González-Robatto Perote",
+          "firstname": "Jacobo",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario VOX"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 96
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 101
+      },
+      "agendaItem": {
+        "title": "Moción consecuencia de interpelación urgente sobre el infierno fiscal\nal que este Gobierno está sometiendo a los españoles.",
+        "officialTitle": "Moción consecuencia de interpelación urgente sobre el infierno fiscal\nal que este Gobierno está sometiendo a los españoles.",
+        "type": "regular",
+        "nativeType": "ES-mocion"
+      },
+      "dateStart": "2025-03-12T17:36:00+01:00",
+      "dateEnd": "2025-03-12T17:39:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_097/cortes/15_000400_097_2_25880_749337.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1549337I",
+        "duration": 180.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_097_2_25880_749337",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Idoia Sagastizabal Unzetabarrenetxea",
+          "lastname": "Sagastizabal Unzetabarrenetxea",
+          "firstname": "Idoia",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Vasco (EAJ-PNV)"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 97
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 101
+      },
+      "agendaItem": {
+        "title": "Moción consecuencia de interpelación urgente sobre el infierno fiscal\nal que este Gobierno está sometiendo a los españoles.",
+        "officialTitle": "Moción consecuencia de interpelación urgente sobre el infierno fiscal\nal que este Gobierno está sometiendo a los españoles.",
+        "type": "regular",
+        "nativeType": "ES-mocion"
+      },
+      "dateStart": "2025-03-12T17:39:00+01:00",
+      "dateEnd": "2025-03-12T17:45:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_097/cortes/15_000400_097_2_25880_749338.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1549338I",
+        "duration": 360.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_097_2_25880_749338",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Josep Maria Cruset Domènech",
+          "lastname": "Cruset Domènech",
+          "firstname": "Josep Maria",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Junts per Catalunya"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 98
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 101
+      },
+      "agendaItem": {
+        "title": "Moción consecuencia de interpelación urgente sobre el infierno fiscal\nal que este Gobierno está sometiendo a los españoles.",
+        "officialTitle": "Moción consecuencia de interpelación urgente sobre el infierno fiscal\nal que este Gobierno está sometiendo a los españoles.",
+        "type": "regular",
+        "nativeType": "ES-mocion"
+      },
+      "dateStart": "2025-03-12T17:45:00+01:00",
+      "dateEnd": "2025-03-12T17:51:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_097/cortes/15_000400_097_2_25880_749339.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1549339I",
+        "duration": 360.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_097_2_25880_749339",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Teresa Jordà i Roura",
+          "lastname": "Jordà i Roura",
+          "firstname": "Teresa",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Republicano"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 99
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 101
+      },
+      "agendaItem": {
+        "title": "Moción consecuencia de interpelación urgente sobre el infierno fiscal\nal que este Gobierno está sometiendo a los españoles.",
+        "officialTitle": "Moción consecuencia de interpelación urgente sobre el infierno fiscal\nal que este Gobierno está sometiendo a los españoles.",
+        "type": "regular",
+        "nativeType": "ES-mocion"
+      },
+      "dateStart": "2025-03-12T17:51:00+01:00",
+      "dateEnd": "2025-03-12T17:58:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_097/cortes/15_000400_097_2_25880_749340.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1549340I",
+        "duration": 420.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_097_2_25880_749340",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Carlos Martín Urriza",
+          "lastname": "Martín Urriza",
+          "firstname": "Carlos",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Plurinacional SUMAR"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 100
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 101
+      },
+      "agendaItem": {
+        "title": "Moción consecuencia de interpelación urgente sobre el infierno fiscal\nal que este Gobierno está sometiendo a los españoles.",
+        "officialTitle": "Moción consecuencia de interpelación urgente sobre el infierno fiscal\nal que este Gobierno está sometiendo a los españoles.",
+        "type": "regular",
+        "nativeType": "ES-mocion"
+      },
+      "dateStart": "2025-03-12T17:58:00+01:00",
+      "dateEnd": "2025-03-12T18:04:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_097/cortes/15_000400_097_2_25880_749341.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1549341I",
+        "duration": 360.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_097_2_25880_749341",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Montse Mínguez García",
+          "lastname": "Mínguez García",
+          "firstname": "Montse",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Socialista"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 101
+    }
+  ]
+}

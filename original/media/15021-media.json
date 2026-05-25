@@ -1,0 +1,2574 @@
+{
+  "meta": {
+    "session": "15021",
+    "processing": {
+      "parse_media": "2026-05-23T07:17:41"
+    },
+    "dateStart": "2024-02-06T15:05:00+01:00",
+    "dateEnd": "2024-02-06T21:19:00+01:00"
+  },
+  "data": [
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 21
+      },
+      "agendaItem": {
+        "title": "Juramento o promesa de acatamiento de la Constitución",
+        "officialTitle": "Juramento o promesa de acatamiento de la Constitución",
+        "type": "oath",
+        "nativeType": "ES-juramento"
+      },
+      "dateStart": "2024-02-06T15:05:00+01:00",
+      "dateEnd": "2024-02-06T15:05:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_019/cortes/15_000400_019_0_24568_728122.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1528122I",
+        "duration": 0.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_019_0_24568_728122",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Manuel Lago Peñas",
+          "lastname": "Lago Peñas",
+          "firstname": "Manuel",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Plurinacional SUMAR"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 1
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 21
+      },
+      "agendaItem": {
+        "title": "Proposición de Ley de garantía del servicio de cajero automático en\nlos municipios en riesgo de exclusión financiera y de garantía del acceso\na los servicios bancarios (corresponde al número de expediente\n125/000017/0000 de la XIV Legislatura).",
+        "officialTitle": "Proposición de Ley de garantía del servicio de cajero automático en\nlos municipios en riesgo de exclusión financiera y de garantía del acceso\na los servicios bancarios (corresponde al número de expediente\n125/000017/0000 de la XIV Legislatura).",
+        "type": "regular",
+        "nativeType": "ES-ley"
+      },
+      "dateStart": "2024-02-06T15:07:00+01:00",
+      "dateEnd": "2024-02-06T15:12:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_019/cortes/15_000400_019_0_24568_728126.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1528126I",
+        "duration": 300.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_019_0_24568_728126",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Jordi Orobitg Solé",
+          "lastname": "Orobitg Solé",
+          "firstname": "Jordi",
+          "type": "person",
+          "role": "Representante del Parlamento de Cataluña"
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 2
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 21
+      },
+      "agendaItem": {
+        "title": "Proposición de Ley de garantía del servicio de cajero automático en\nlos municipios en riesgo de exclusión financiera y de garantía del acceso\na los servicios bancarios (corresponde al número de expediente\n125/000017/0000 de la XIV Legislatura).",
+        "officialTitle": "Proposición de Ley de garantía del servicio de cajero automático en\nlos municipios en riesgo de exclusión financiera y de garantía del acceso\na los servicios bancarios (corresponde al número de expediente\n125/000017/0000 de la XIV Legislatura).",
+        "type": "regular",
+        "nativeType": "ES-ley"
+      },
+      "dateStart": "2024-02-06T15:12:00+01:00",
+      "dateEnd": "2024-02-06T15:19:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_019/cortes/15_000400_019_0_24568_728127.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1528127I",
+        "duration": 420.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_019_0_24568_728127",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Jordi Munell Garcia",
+          "lastname": "Munell Garcia",
+          "firstname": "Jordi",
+          "type": "person",
+          "role": "Representante del Parlamento de Cataluña"
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 3
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 21
+      },
+      "agendaItem": {
+        "title": "Proposición de Ley de garantía del servicio de cajero automático en\nlos municipios en riesgo de exclusión financiera y de garantía del acceso\na los servicios bancarios (corresponde al número de expediente\n125/000017/0000 de la XIV Legislatura).",
+        "officialTitle": "Proposición de Ley de garantía del servicio de cajero automático en\nlos municipios en riesgo de exclusión financiera y de garantía del acceso\na los servicios bancarios (corresponde al número de expediente\n125/000017/0000 de la XIV Legislatura).",
+        "type": "regular",
+        "nativeType": "ES-ley"
+      },
+      "dateStart": "2024-02-06T15:19:00+01:00",
+      "dateEnd": "2024-02-06T15:24:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_019/cortes/15_000400_019_0_24568_728128.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1528128I",
+        "duration": 300.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_019_0_24568_728128",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Joan Carles Gallego Herrera",
+          "lastname": "Gallego Herrera",
+          "firstname": "Joan Carles",
+          "type": "person",
+          "role": "Representante del Parlamento de Cataluña"
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 4
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 21
+      },
+      "agendaItem": {
+        "title": "Proposición de Ley de garantía del servicio de cajero automático en\nlos municipios en riesgo de exclusión financiera y de garantía del acceso\na los servicios bancarios (corresponde al número de expediente\n125/000017/0000 de la XIV Legislatura).",
+        "officialTitle": "Proposición de Ley de garantía del servicio de cajero automático en\nlos municipios en riesgo de exclusión financiera y de garantía del acceso\na los servicios bancarios (corresponde al número de expediente\n125/000017/0000 de la XIV Legislatura).",
+        "type": "regular",
+        "nativeType": "ES-ley"
+      },
+      "dateStart": "2024-02-06T15:25:00+01:00",
+      "dateEnd": "2024-02-06T15:27:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_019/cortes/15_000400_019_0_24568_728129.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1528129I",
+        "duration": 120.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_019_0_24568_728129",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Cristina Valido García",
+          "lastname": "Valido García",
+          "firstname": "Cristina",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Mixto"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 5
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 21
+      },
+      "agendaItem": {
+        "title": "Proposición de Ley de garantía del servicio de cajero automático en\nlos municipios en riesgo de exclusión financiera y de garantía del acceso\na los servicios bancarios (corresponde al número de expediente\n125/000017/0000 de la XIV Legislatura).",
+        "officialTitle": "Proposición de Ley de garantía del servicio de cajero automático en\nlos municipios en riesgo de exclusión financiera y de garantía del acceso\na los servicios bancarios (corresponde al número de expediente\n125/000017/0000 de la XIV Legislatura).",
+        "type": "regular",
+        "nativeType": "ES-ley"
+      },
+      "dateStart": "2024-02-06T15:27:00+01:00",
+      "dateEnd": "2024-02-06T15:30:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_019/cortes/15_000400_019_0_24568_728130.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1528130I",
+        "duration": 180.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_019_0_24568_728130",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Néstor Rego Candamil",
+          "lastname": "Rego Candamil",
+          "firstname": "Néstor",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Mixto"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 6
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 21
+      },
+      "agendaItem": {
+        "title": "Proposición de Ley de garantía del servicio de cajero automático en\nlos municipios en riesgo de exclusión financiera y de garantía del acceso\na los servicios bancarios (corresponde al número de expediente\n125/000017/0000 de la XIV Legislatura).",
+        "officialTitle": "Proposición de Ley de garantía del servicio de cajero automático en\nlos municipios en riesgo de exclusión financiera y de garantía del acceso\na los servicios bancarios (corresponde al número de expediente\n125/000017/0000 de la XIV Legislatura).",
+        "type": "regular",
+        "nativeType": "ES-ley"
+      },
+      "dateStart": "2024-02-06T15:31:00+01:00",
+      "dateEnd": "2024-02-06T15:34:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_019/cortes/15_000400_019_0_24568_728131.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1528131I",
+        "duration": 180.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_019_0_24568_728131",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Noemí Santana Perera",
+          "lastname": "Santana Perera",
+          "firstname": "Noemí",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Mixto"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 7
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 21
+      },
+      "agendaItem": {
+        "title": "Proposición de Ley de garantía del servicio de cajero automático en\nlos municipios en riesgo de exclusión financiera y de garantía del acceso\na los servicios bancarios (corresponde al número de expediente\n125/000017/0000 de la XIV Legislatura).",
+        "officialTitle": "Proposición de Ley de garantía del servicio de cajero automático en\nlos municipios en riesgo de exclusión financiera y de garantía del acceso\na los servicios bancarios (corresponde al número de expediente\n125/000017/0000 de la XIV Legislatura).",
+        "type": "regular",
+        "nativeType": "ES-ley"
+      },
+      "dateStart": "2024-02-06T15:35:00+01:00",
+      "dateEnd": "2024-02-06T15:40:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_019/cortes/15_000400_019_0_24568_728132.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1528132I",
+        "duration": 300.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_019_0_24568_728132",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Idoia Sagastizabal Unzetabarrenetxea",
+          "lastname": "Sagastizabal Unzetabarrenetxea",
+          "firstname": "Idoia",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Vasco (EAJ-PNV)"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 8
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 21
+      },
+      "agendaItem": {
+        "title": "Proposición de Ley de garantía del servicio de cajero automático en\nlos municipios en riesgo de exclusión financiera y de garantía del acceso\na los servicios bancarios (corresponde al número de expediente\n125/000017/0000 de la XIV Legislatura).",
+        "officialTitle": "Proposición de Ley de garantía del servicio de cajero automático en\nlos municipios en riesgo de exclusión financiera y de garantía del acceso\na los servicios bancarios (corresponde al número de expediente\n125/000017/0000 de la XIV Legislatura).",
+        "type": "regular",
+        "nativeType": "ES-ley"
+      },
+      "dateStart": "2024-02-06T15:40:00+01:00",
+      "dateEnd": "2024-02-06T15:47:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_019/cortes/15_000400_019_0_24568_728133.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1528133I",
+        "duration": 420.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_019_0_24568_728133",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Oskar Matute García de Jalón",
+          "lastname": "Matute García de Jalón",
+          "firstname": "Oskar",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Euskal Herria Bildu"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 9
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 21
+      },
+      "agendaItem": {
+        "title": "Proposición de Ley de garantía del servicio de cajero automático en\nlos municipios en riesgo de exclusión financiera y de garantía del acceso\na los servicios bancarios (corresponde al número de expediente\n125/000017/0000 de la XIV Legislatura).",
+        "officialTitle": "Proposición de Ley de garantía del servicio de cajero automático en\nlos municipios en riesgo de exclusión financiera y de garantía del acceso\na los servicios bancarios (corresponde al número de expediente\n125/000017/0000 de la XIV Legislatura).",
+        "type": "regular",
+        "nativeType": "ES-ley"
+      },
+      "dateStart": "2024-02-06T15:48:00+01:00",
+      "dateEnd": "2024-02-06T15:54:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_019/cortes/15_000400_019_0_24568_728134.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1528134I",
+        "duration": 360.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_019_0_24568_728134",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Isidre Gavin i Valls",
+          "lastname": "Gavin i Valls",
+          "firstname": "Isidre",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Junts per Catalunya"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 10
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 21
+      },
+      "agendaItem": {
+        "title": "Proposición de Ley de garantía del servicio de cajero automático en\nlos municipios en riesgo de exclusión financiera y de garantía del acceso\na los servicios bancarios (corresponde al número de expediente\n125/000017/0000 de la XIV Legislatura).",
+        "officialTitle": "Proposición de Ley de garantía del servicio de cajero automático en\nlos municipios en riesgo de exclusión financiera y de garantía del acceso\na los servicios bancarios (corresponde al número de expediente\n125/000017/0000 de la XIV Legislatura).",
+        "type": "regular",
+        "nativeType": "ES-ley"
+      },
+      "dateStart": "2024-02-06T15:55:00+01:00",
+      "dateEnd": "2024-02-06T16:02:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_019/cortes/15_000400_019_0_24568_728135.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1528135I",
+        "duration": 420.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_019_0_24568_728135",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Inés Granollers Cunillera",
+          "lastname": "Granollers Cunillera",
+          "firstname": "Inés",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Republicano"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 11
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 21
+      },
+      "agendaItem": {
+        "title": "Proposición de Ley de garantía del servicio de cajero automático en\nlos municipios en riesgo de exclusión financiera y de garantía del acceso\na los servicios bancarios (corresponde al número de expediente\n125/000017/0000 de la XIV Legislatura).",
+        "officialTitle": "Proposición de Ley de garantía del servicio de cajero automático en\nlos municipios en riesgo de exclusión financiera y de garantía del acceso\na los servicios bancarios (corresponde al número de expediente\n125/000017/0000 de la XIV Legislatura).",
+        "type": "regular",
+        "nativeType": "ES-ley"
+      },
+      "dateStart": "2024-02-06T16:03:00+01:00",
+      "dateEnd": "2024-02-06T16:10:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_019/cortes/15_000400_019_0_24568_728136.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1528136I",
+        "duration": 420.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_019_0_24568_728136",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Fèlix Alonso Cantorné",
+          "lastname": "Alonso Cantorné",
+          "firstname": "Fèlix",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Plurinacional SUMAR"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 12
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 21
+      },
+      "agendaItem": {
+        "title": "Proposición de Ley de garantía del servicio de cajero automático en\nlos municipios en riesgo de exclusión financiera y de garantía del acceso\na los servicios bancarios (corresponde al número de expediente\n125/000017/0000 de la XIV Legislatura).",
+        "officialTitle": "Proposición de Ley de garantía del servicio de cajero automático en\nlos municipios en riesgo de exclusión financiera y de garantía del acceso\na los servicios bancarios (corresponde al número de expediente\n125/000017/0000 de la XIV Legislatura).",
+        "type": "regular",
+        "nativeType": "ES-ley"
+      },
+      "dateStart": "2024-02-06T16:11:00+01:00",
+      "dateEnd": "2024-02-06T16:17:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_019/cortes/15_000400_019_0_24568_728137.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1528137I",
+        "duration": 360.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_019_0_24568_728137",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Carina Mejías Sánchez",
+          "lastname": "Mejías Sánchez",
+          "firstname": "Carina",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario VOX"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 13
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 21
+      },
+      "agendaItem": {
+        "title": "Proposición de Ley de garantía del servicio de cajero automático en\nlos municipios en riesgo de exclusión financiera y de garantía del acceso\na los servicios bancarios (corresponde al número de expediente\n125/000017/0000 de la XIV Legislatura).",
+        "officialTitle": "Proposición de Ley de garantía del servicio de cajero automático en\nlos municipios en riesgo de exclusión financiera y de garantía del acceso\na los servicios bancarios (corresponde al número de expediente\n125/000017/0000 de la XIV Legislatura).",
+        "type": "regular",
+        "nativeType": "ES-ley"
+      },
+      "dateStart": "2024-02-06T16:18:00+01:00",
+      "dateEnd": "2024-02-06T16:26:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_019/cortes/15_000400_019_0_24568_728138.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1528138I",
+        "duration": 480.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_019_0_24568_728138",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Alicia Álvarez González",
+          "lastname": "Álvarez González",
+          "firstname": "Alicia",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Socialista"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 14
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 21
+      },
+      "agendaItem": {
+        "title": "Proposición de Ley de garantía del servicio de cajero automático en\nlos municipios en riesgo de exclusión financiera y de garantía del acceso\na los servicios bancarios (corresponde al número de expediente\n125/000017/0000 de la XIV Legislatura).",
+        "officialTitle": "Proposición de Ley de garantía del servicio de cajero automático en\nlos municipios en riesgo de exclusión financiera y de garantía del acceso\na los servicios bancarios (corresponde al número de expediente\n125/000017/0000 de la XIV Legislatura).",
+        "type": "regular",
+        "nativeType": "ES-ley"
+      },
+      "dateStart": "2024-02-06T16:26:00+01:00",
+      "dateEnd": "2024-02-06T16:33:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_019/cortes/15_000400_019_0_24568_728139.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1528139I",
+        "duration": 420.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_019_0_24568_728139",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Santi Rodríguez Serra",
+          "lastname": "Rodríguez Serra",
+          "firstname": "Santi",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Popular en el Congreso"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 15
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 21
+      },
+      "agendaItem": {
+        "title": "Proposición de Ley Orgánica sobre crímenes de ETA sin resolver y sus\nvíctimas para el cumplimiento del informe de 21 de abril de 2022 del\nComité de Peticiones del Parlamento Europeo (PE702.917v03-00).",
+        "officialTitle": "Proposición de Ley Orgánica sobre crímenes de ETA sin resolver y sus\nvíctimas para el cumplimiento del informe de 21 de abril de 2022 del\nComité de Peticiones del Parlamento Europeo (PE702.917v03-00).",
+        "type": "regular",
+        "nativeType": "ES-ley"
+      },
+      "dateStart": "2024-02-06T16:34:00+01:00",
+      "dateEnd": "2024-02-06T16:45:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_019/cortes/15_000400_019_0_24568_728142.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1528142I",
+        "duration": 660.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_019_0_24568_728142",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Sergio Sayas López",
+          "lastname": "Sayas López",
+          "firstname": "Sergio",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Popular en el Congreso"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 16
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 21
+      },
+      "agendaItem": {
+        "title": "Proposición de Ley Orgánica sobre crímenes de ETA sin resolver y sus\nvíctimas para el cumplimiento del informe de 21 de abril de 2022 del\nComité de Peticiones del Parlamento Europeo (PE702.917v03-00).",
+        "officialTitle": "Proposición de Ley Orgánica sobre crímenes de ETA sin resolver y sus\nvíctimas para el cumplimiento del informe de 21 de abril de 2022 del\nComité de Peticiones del Parlamento Europeo (PE702.917v03-00).",
+        "type": "regular",
+        "nativeType": "ES-ley"
+      },
+      "dateStart": "2024-02-06T16:46:00+01:00",
+      "dateEnd": "2024-02-06T16:54:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_019/cortes/15_000400_019_0_24568_728143.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1528143I",
+        "duration": 480.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_019_0_24568_728143",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Mikel Legarda Uriarte",
+          "lastname": "Legarda Uriarte",
+          "firstname": "Mikel",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Vasco (EAJ-PNV)"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 17
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 21
+      },
+      "agendaItem": {
+        "title": "Proposición de Ley Orgánica sobre crímenes de ETA sin resolver y sus\nvíctimas para el cumplimiento del informe de 21 de abril de 2022 del\nComité de Peticiones del Parlamento Europeo (PE702.917v03-00).",
+        "officialTitle": "Proposición de Ley Orgánica sobre crímenes de ETA sin resolver y sus\nvíctimas para el cumplimiento del informe de 21 de abril de 2022 del\nComité de Peticiones del Parlamento Europeo (PE702.917v03-00).",
+        "type": "regular",
+        "nativeType": "ES-ley"
+      },
+      "dateStart": "2024-02-06T16:54:00+01:00",
+      "dateEnd": "2024-02-06T17:00:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_019/cortes/15_000400_019_0_24568_728144.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1528144I",
+        "duration": 360.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_019_0_24568_728144",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Mertxe Aizpurua Arzallus",
+          "lastname": "Aizpurua Arzallus",
+          "firstname": "Mertxe",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Euskal Herria Bildu"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 18
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 21
+      },
+      "agendaItem": {
+        "title": "Proposición de Ley Orgánica sobre crímenes de ETA sin resolver y sus\nvíctimas para el cumplimiento del informe de 21 de abril de 2022 del\nComité de Peticiones del Parlamento Europeo (PE702.917v03-00).",
+        "officialTitle": "Proposición de Ley Orgánica sobre crímenes de ETA sin resolver y sus\nvíctimas para el cumplimiento del informe de 21 de abril de 2022 del\nComité de Peticiones del Parlamento Europeo (PE702.917v03-00).",
+        "type": "regular",
+        "nativeType": "ES-ley"
+      },
+      "dateStart": "2024-02-06T17:01:00+01:00",
+      "dateEnd": "2024-02-06T17:07:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_019/cortes/15_000400_019_0_24568_728145.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1528145I",
+        "duration": 360.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_019_0_24568_728145",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Montserrat Bassa Coll",
+          "lastname": "Bassa Coll",
+          "firstname": "Montserrat",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Republicano"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 19
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 21
+      },
+      "agendaItem": {
+        "title": "Proposición de Ley Orgánica sobre crímenes de ETA sin resolver y sus\nvíctimas para el cumplimiento del informe de 21 de abril de 2022 del\nComité de Peticiones del Parlamento Europeo (PE702.917v03-00).",
+        "officialTitle": "Proposición de Ley Orgánica sobre crímenes de ETA sin resolver y sus\nvíctimas para el cumplimiento del informe de 21 de abril de 2022 del\nComité de Peticiones del Parlamento Europeo (PE702.917v03-00).",
+        "type": "regular",
+        "nativeType": "ES-ley"
+      },
+      "dateStart": "2024-02-06T17:08:00+01:00",
+      "dateEnd": "2024-02-06T17:15:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_019/cortes/15_000400_019_0_24568_728146.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1528146I",
+        "duration": 420.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_019_0_24568_728146",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Lander Martínez Hierro",
+          "lastname": "Martínez Hierro",
+          "firstname": "Lander",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Plurinacional SUMAR"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 20
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 21
+      },
+      "agendaItem": {
+        "title": "Proposición de Ley Orgánica sobre crímenes de ETA sin resolver y sus\nvíctimas para el cumplimiento del informe de 21 de abril de 2022 del\nComité de Peticiones del Parlamento Europeo (PE702.917v03-00).",
+        "officialTitle": "Proposición de Ley Orgánica sobre crímenes de ETA sin resolver y sus\nvíctimas para el cumplimiento del informe de 21 de abril de 2022 del\nComité de Peticiones del Parlamento Europeo (PE702.917v03-00).",
+        "type": "regular",
+        "nativeType": "ES-ley"
+      },
+      "dateStart": "2024-02-06T17:16:00+01:00",
+      "dateEnd": "2024-02-06T17:23:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_019/cortes/15_000400_019_0_24568_728147.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1528147I",
+        "duration": 420.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_019_0_24568_728147",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Francisco José Alcaraz Martos",
+          "lastname": "Alcaraz Martos",
+          "firstname": "Francisco José",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario VOX"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 21
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 21
+      },
+      "agendaItem": {
+        "title": "Proposición de Ley Orgánica sobre crímenes de ETA sin resolver y sus\nvíctimas para el cumplimiento del informe de 21 de abril de 2022 del\nComité de Peticiones del Parlamento Europeo (PE702.917v03-00).",
+        "officialTitle": "Proposición de Ley Orgánica sobre crímenes de ETA sin resolver y sus\nvíctimas para el cumplimiento del informe de 21 de abril de 2022 del\nComité de Peticiones del Parlamento Europeo (PE702.917v03-00).",
+        "type": "regular",
+        "nativeType": "ES-ley"
+      },
+      "dateStart": "2024-02-06T17:24:00+01:00",
+      "dateEnd": "2024-02-06T17:32:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_019/cortes/15_000400_019_0_24568_728148.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1528148I",
+        "duration": 480.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_019_0_24568_728148",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Rafaela Romero Pozo",
+          "lastname": "Romero Pozo",
+          "firstname": "Rafaela",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Socialista"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 22
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 21
+      },
+      "agendaItem": {
+        "title": "Proposición de Ley Orgánica sobre crímenes de ETA sin resolver y sus\nvíctimas para el cumplimiento del informe de 21 de abril de 2022 del\nComité de Peticiones del Parlamento Europeo (PE702.917v03-00).",
+        "officialTitle": "Proposición de Ley Orgánica sobre crímenes de ETA sin resolver y sus\nvíctimas para el cumplimiento del informe de 21 de abril de 2022 del\nComité de Peticiones del Parlamento Europeo (PE702.917v03-00).",
+        "type": "regular",
+        "nativeType": "ES-ley"
+      },
+      "dateStart": "2024-02-06T17:33:00+01:00",
+      "dateEnd": "2024-02-06T17:34:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_019/cortes/15_000400_019_0_24568_728149.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1528149I",
+        "duration": 60.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_019_0_24568_728149",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Javier De Andrés Guerra",
+          "lastname": "De Andrés Guerra",
+          "firstname": "Javier",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Popular en el Congreso"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 23
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 21
+      },
+      "agendaItem": {
+        "title": "Proposición no de Ley relativa a las actuaciones que el Gobierno debe\ntomar en relación con las infraestructuras y el transporte en la\nComunidad Autónoma de Galicia.",
+        "officialTitle": "Proposición no de Ley relativa a las actuaciones que el Gobierno debe\ntomar en relación con las infraestructuras y el transporte en la\nComunidad Autónoma de Galicia.",
+        "type": "regular"
+      },
+      "dateStart": "2024-02-06T17:36:00+01:00",
+      "dateEnd": "2024-02-06T17:43:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_019/cortes/15_000400_019_0_24568_728152.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1528152I",
+        "duration": 420.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_019_0_24568_728152",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Celso Luis Delgado Arce",
+          "lastname": "Delgado Arce",
+          "firstname": "Celso Luis",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Popular en el Congreso"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 24
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 21
+      },
+      "agendaItem": {
+        "title": "Proposición no de Ley relativa a las actuaciones que el Gobierno debe\ntomar en relación con las infraestructuras y el transporte en la\nComunidad Autónoma de Galicia.",
+        "officialTitle": "Proposición no de Ley relativa a las actuaciones que el Gobierno debe\ntomar en relación con las infraestructuras y el transporte en la\nComunidad Autónoma de Galicia.",
+        "type": "regular"
+      },
+      "dateStart": "2024-02-06T17:44:00+01:00",
+      "dateEnd": "2024-02-06T17:50:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_019/cortes/15_000400_019_0_24568_728153.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1528153I",
+        "duration": 360.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_019_0_24568_728153",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Néstor Rego Candamil",
+          "lastname": "Rego Candamil",
+          "firstname": "Néstor",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Mixto"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 25
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 21
+      },
+      "agendaItem": {
+        "title": "Proposición no de Ley relativa a las actuaciones que el Gobierno debe\ntomar en relación con las infraestructuras y el transporte en la\nComunidad Autónoma de Galicia.",
+        "officialTitle": "Proposición no de Ley relativa a las actuaciones que el Gobierno debe\ntomar en relación con las infraestructuras y el transporte en la\nComunidad Autónoma de Galicia.",
+        "type": "regular"
+      },
+      "dateStart": "2024-02-06T17:51:00+01:00",
+      "dateEnd": "2024-02-06T17:56:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_019/cortes/15_000400_019_0_24568_728154.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1528154I",
+        "duration": 300.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_019_0_24568_728154",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Patricia Rueda Perelló",
+          "lastname": "Rueda Perelló",
+          "firstname": "Patricia",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario VOX"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 26
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 21
+      },
+      "agendaItem": {
+        "title": "Proposición no de Ley relativa a las actuaciones que el Gobierno debe\ntomar en relación con las infraestructuras y el transporte en la\nComunidad Autónoma de Galicia.",
+        "officialTitle": "Proposición no de Ley relativa a las actuaciones que el Gobierno debe\ntomar en relación con las infraestructuras y el transporte en la\nComunidad Autónoma de Galicia.",
+        "type": "regular"
+      },
+      "dateStart": "2024-02-06T17:57:00+01:00",
+      "dateEnd": "2024-02-06T18:03:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_019/cortes/15_000400_019_0_24568_728155.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1528155I",
+        "duration": 360.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_019_0_24568_728155",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Margarita Martín Rodríguez",
+          "lastname": "Martín Rodríguez",
+          "firstname": "Margarita",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Socialista"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 27
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 21
+      },
+      "agendaItem": {
+        "title": "Proposición no de Ley relativa a las actuaciones que el Gobierno debe\ntomar en relación con las infraestructuras y el transporte en la\nComunidad Autónoma de Galicia.",
+        "officialTitle": "Proposición no de Ley relativa a las actuaciones que el Gobierno debe\ntomar en relación con las infraestructuras y el transporte en la\nComunidad Autónoma de Galicia.",
+        "type": "regular"
+      },
+      "dateStart": "2024-02-06T18:04:00+01:00",
+      "dateEnd": "2024-02-06T18:05:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_019/cortes/15_000400_019_0_24568_728156.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1528156I",
+        "duration": 60.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_019_0_24568_728156",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Maribel Vaquero Montero",
+          "lastname": "Vaquero Montero",
+          "firstname": "Maribel",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Vasco (EAJ-PNV)"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 28
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 21
+      },
+      "agendaItem": {
+        "title": "Proposición no de Ley relativa a las actuaciones que el Gobierno debe\ntomar en relación con las infraestructuras y el transporte en la\nComunidad Autónoma de Galicia.",
+        "officialTitle": "Proposición no de Ley relativa a las actuaciones que el Gobierno debe\ntomar en relación con las infraestructuras y el transporte en la\nComunidad Autónoma de Galicia.",
+        "type": "regular"
+      },
+      "dateStart": "2024-02-06T18:05:00+01:00",
+      "dateEnd": "2024-02-06T18:11:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_019/cortes/15_000400_019_0_24568_728157.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1528157I",
+        "duration": 360.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_019_0_24568_728157",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Verónica Martínez Barbero",
+          "lastname": "Martínez Barbero",
+          "firstname": "Verónica",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Plurinacional SUMAR"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 29
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 21
+      },
+      "agendaItem": {
+        "title": "Proposición no de Ley para el apoyo a la cadena de valor del sector\ndel automóvil y despliegue del vehículo eléctrico y conectado de Galicia.",
+        "officialTitle": "Proposición no de Ley para el apoyo a la cadena de valor del sector\ndel automóvil y despliegue del vehículo eléctrico y conectado de Galicia.",
+        "type": "regular"
+      },
+      "dateStart": "2024-02-06T18:12:00+01:00",
+      "dateEnd": "2024-02-06T18:18:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_019/cortes/15_000400_019_0_24568_728159.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1528159I",
+        "duration": 360.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_019_0_24568_728159",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "David Regades Fernández",
+          "lastname": "Regades Fernández",
+          "firstname": "David",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Socialista"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 30
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 21
+      },
+      "agendaItem": {
+        "title": "Proposición no de Ley para el apoyo a la cadena de valor del sector\ndel automóvil y despliegue del vehículo eléctrico y conectado de Galicia.",
+        "officialTitle": "Proposición no de Ley para el apoyo a la cadena de valor del sector\ndel automóvil y despliegue del vehículo eléctrico y conectado de Galicia.",
+        "type": "regular"
+      },
+      "dateStart": "2024-02-06T18:19:00+01:00",
+      "dateEnd": "2024-02-06T18:22:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_019/cortes/15_000400_019_0_24568_728160.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1528160I",
+        "duration": 180.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_019_0_24568_728160",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Néstor Rego Candamil",
+          "lastname": "Rego Candamil",
+          "firstname": "Néstor",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Mixto"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 31
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 21
+      },
+      "agendaItem": {
+        "title": "Proposición no de Ley para el apoyo a la cadena de valor del sector\ndel automóvil y despliegue del vehículo eléctrico y conectado de Galicia.",
+        "officialTitle": "Proposición no de Ley para el apoyo a la cadena de valor del sector\ndel automóvil y despliegue del vehículo eléctrico y conectado de Galicia.",
+        "type": "regular"
+      },
+      "dateStart": "2024-02-06T18:23:00+01:00",
+      "dateEnd": "2024-02-06T18:26:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_019/cortes/15_000400_019_0_24568_728161.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1528161I",
+        "duration": 180.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_019_0_24568_728161",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Noemí Santana Perera",
+          "lastname": "Santana Perera",
+          "firstname": "Noemí",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Mixto"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 32
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 21
+      },
+      "agendaItem": {
+        "title": "Proposición no de Ley para el apoyo a la cadena de valor del sector\ndel automóvil y despliegue del vehículo eléctrico y conectado de Galicia.",
+        "officialTitle": "Proposición no de Ley para el apoyo a la cadena de valor del sector\ndel automóvil y despliegue del vehículo eléctrico y conectado de Galicia.",
+        "type": "regular"
+      },
+      "dateStart": "2024-02-06T18:26:00+01:00",
+      "dateEnd": "2024-02-06T18:31:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_019/cortes/15_000400_019_0_24568_728162.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1528162I",
+        "duration": 300.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_019_0_24568_728162",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Manuel Lago Peñas",
+          "lastname": "Lago Peñas",
+          "firstname": "Manuel",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Plurinacional SUMAR"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 33
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 21
+      },
+      "agendaItem": {
+        "title": "Proposición no de Ley para el apoyo a la cadena de valor del sector\ndel automóvil y despliegue del vehículo eléctrico y conectado de Galicia.",
+        "officialTitle": "Proposición no de Ley para el apoyo a la cadena de valor del sector\ndel automóvil y despliegue del vehículo eléctrico y conectado de Galicia.",
+        "type": "regular"
+      },
+      "dateStart": "2024-02-06T18:32:00+01:00",
+      "dateEnd": "2024-02-06T18:37:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_019/cortes/15_000400_019_0_24568_728163.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1528163I",
+        "duration": 300.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_019_0_24568_728163",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Andrés Alberto Rodríguez Almeida",
+          "lastname": "Rodríguez Almeida",
+          "firstname": "Andrés Alberto",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario VOX"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 34
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 21
+      },
+      "agendaItem": {
+        "title": "Proposición no de Ley para el apoyo a la cadena de valor del sector\ndel automóvil y despliegue del vehículo eléctrico y conectado de Galicia.",
+        "officialTitle": "Proposición no de Ley para el apoyo a la cadena de valor del sector\ndel automóvil y despliegue del vehículo eléctrico y conectado de Galicia.",
+        "type": "regular"
+      },
+      "dateStart": "2024-02-06T18:38:00+01:00",
+      "dateEnd": "2024-02-06T18:45:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_019/cortes/15_000400_019_1_24571_728167.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1528167I",
+        "duration": 420.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_019_1_24571_728167",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Francisco José Conde López",
+          "lastname": "Conde López",
+          "firstname": "Francisco José",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Popular en el Congreso"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 35
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 21
+      },
+      "agendaItem": {
+        "title": "Proposición no de Ley para el apoyo a la cadena de valor del sector\ndel automóvil y despliegue del vehículo eléctrico y conectado de Galicia.",
+        "officialTitle": "Proposición no de Ley para el apoyo a la cadena de valor del sector\ndel automóvil y despliegue del vehículo eléctrico y conectado de Galicia.",
+        "type": "regular"
+      },
+      "dateStart": "2024-02-06T18:45:00+01:00",
+      "dateEnd": "2024-02-06T18:46:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_019/cortes/15_000400_019_1_24571_728168.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1528168I",
+        "duration": 60.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_019_1_24571_728168",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Idoia Sagastizabal Unzetabarrenetxea",
+          "lastname": "Sagastizabal Unzetabarrenetxea",
+          "firstname": "Idoia",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Vasco (EAJ-PNV)"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 36
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 21
+      },
+      "agendaItem": {
+        "title": "Proposición no de Ley para el apoyo a la cadena de valor del sector\ndel automóvil y despliegue del vehículo eléctrico y conectado de Galicia.",
+        "officialTitle": "Proposición no de Ley para el apoyo a la cadena de valor del sector\ndel automóvil y despliegue del vehículo eléctrico y conectado de Galicia.",
+        "type": "regular"
+      },
+      "dateStart": "2024-02-06T18:46:00+01:00",
+      "dateEnd": "2024-02-06T18:52:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_019/cortes/15_000400_019_1_24571_728173.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1528173I",
+        "duration": 360.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_019_1_24571_728173",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Inés Granollers Cunillera",
+          "lastname": "Granollers Cunillera",
+          "firstname": "Inés",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Republicano"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 37
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 21
+      },
+      "agendaItem": {
+        "title": "Proposición no de Ley para el apoyo a la cadena de valor del sector\ndel automóvil y despliegue del vehículo eléctrico y conectado de Galicia.",
+        "officialTitle": "Proposición no de Ley para el apoyo a la cadena de valor del sector\ndel automóvil y despliegue del vehículo eléctrico y conectado de Galicia.",
+        "type": "regular"
+      },
+      "dateStart": "2024-02-06T18:52:00+01:00",
+      "dateEnd": "2024-02-06T18:52:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_019/cortes/15_000400_019_1_24571_728175.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1528175I",
+        "duration": 0.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_019_1_24571_728175",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "David Regades Fernández",
+          "lastname": "Regades Fernández",
+          "firstname": "David",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Socialista"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 38
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 21
+      },
+      "agendaItem": {
+        "title": "Moción consecuencia de interpelación urgente en relación con el\ndespliegue y desarrollo de la Ley 20/2022, de 19 de octubre, de Memoria\nDemocrática.",
+        "officialTitle": "Moción consecuencia de interpelación urgente en relación con el\ndespliegue y desarrollo de la Ley 20/2022, de 19 de octubre, de Memoria\nDemocrática.",
+        "type": "regular",
+        "nativeType": "ES-mocion"
+      },
+      "dateStart": "2024-02-06T18:53:00+01:00",
+      "dateEnd": "2024-02-06T19:00:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_019/cortes/15_000400_019_1_24571_728174.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1528174I",
+        "duration": 420.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_019_1_24571_728174",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Francesc-Marc Álvaro Vidal",
+          "lastname": "Álvaro Vidal",
+          "firstname": "Francesc-Marc",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Republicano"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 39
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 21
+      },
+      "agendaItem": {
+        "title": "Moción consecuencia de interpelación urgente en relación con el\ndespliegue y desarrollo de la Ley 20/2022, de 19 de octubre, de Memoria\nDemocrática.",
+        "officialTitle": "Moción consecuencia de interpelación urgente en relación con el\ndespliegue y desarrollo de la Ley 20/2022, de 19 de octubre, de Memoria\nDemocrática.",
+        "type": "regular",
+        "nativeType": "ES-mocion"
+      },
+      "dateStart": "2024-02-06T19:01:00+01:00",
+      "dateEnd": "2024-02-06T19:07:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_019/cortes/15_000400_019_1_24571_728176.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1528176I",
+        "duration": 360.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_019_1_24571_728176",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Raúl Díaz Marín",
+          "lastname": "Díaz Marín",
+          "firstname": "Raúl",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Socialista"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 40
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 21
+      },
+      "agendaItem": {
+        "title": "Moción consecuencia de interpelación urgente en relación con el\ndespliegue y desarrollo de la Ley 20/2022, de 19 de octubre, de Memoria\nDemocrática.",
+        "officialTitle": "Moción consecuencia de interpelación urgente en relación con el\ndespliegue y desarrollo de la Ley 20/2022, de 19 de octubre, de Memoria\nDemocrática.",
+        "type": "regular",
+        "nativeType": "ES-mocion"
+      },
+      "dateStart": "2024-02-06T19:08:00+01:00",
+      "dateEnd": "2024-02-06T19:11:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_019/cortes/15_000400_019_1_24571_728179.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1528179I",
+        "duration": 180.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_019_1_24571_728179",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Néstor Rego Candamil",
+          "lastname": "Rego Candamil",
+          "firstname": "Néstor",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Mixto"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 41
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 21
+      },
+      "agendaItem": {
+        "title": "Moción consecuencia de interpelación urgente en relación con el\ndespliegue y desarrollo de la Ley 20/2022, de 19 de octubre, de Memoria\nDemocrática.",
+        "officialTitle": "Moción consecuencia de interpelación urgente en relación con el\ndespliegue y desarrollo de la Ley 20/2022, de 19 de octubre, de Memoria\nDemocrática.",
+        "type": "regular",
+        "nativeType": "ES-mocion"
+      },
+      "dateStart": "2024-02-06T19:12:00+01:00",
+      "dateEnd": "2024-02-06T19:15:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_019/cortes/15_000400_019_1_24571_728180.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1528180I",
+        "duration": 180.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_019_1_24571_728180",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Martina Velarde Gómez",
+          "lastname": "Velarde Gómez",
+          "firstname": "Martina",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Mixto"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 42
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 21
+      },
+      "agendaItem": {
+        "title": "Moción consecuencia de interpelación urgente en relación con el\ndespliegue y desarrollo de la Ley 20/2022, de 19 de octubre, de Memoria\nDemocrática.",
+        "officialTitle": "Moción consecuencia de interpelación urgente en relación con el\ndespliegue y desarrollo de la Ley 20/2022, de 19 de octubre, de Memoria\nDemocrática.",
+        "type": "regular",
+        "nativeType": "ES-mocion"
+      },
+      "dateStart": "2024-02-06T19:16:00+01:00",
+      "dateEnd": "2024-02-06T19:20:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_019/cortes/15_000400_019_1_24571_728181.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1528181I",
+        "duration": 240.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_019_1_24571_728181",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Mikel Legarda Uriarte",
+          "lastname": "Legarda Uriarte",
+          "firstname": "Mikel",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Vasco (EAJ-PNV)"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 43
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 21
+      },
+      "agendaItem": {
+        "title": "Moción consecuencia de interpelación urgente en relación con el\ndespliegue y desarrollo de la Ley 20/2022, de 19 de octubre, de Memoria\nDemocrática.",
+        "officialTitle": "Moción consecuencia de interpelación urgente en relación con el\ndespliegue y desarrollo de la Ley 20/2022, de 19 de octubre, de Memoria\nDemocrática.",
+        "type": "regular",
+        "nativeType": "ES-mocion"
+      },
+      "dateStart": "2024-02-06T19:21:00+01:00",
+      "dateEnd": "2024-02-06T19:26:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_019/cortes/15_000400_019_1_24571_728182.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1528182I",
+        "duration": 300.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_019_1_24571_728182",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Isabel Pozueta Fernández",
+          "lastname": "Pozueta Fernández",
+          "firstname": "Isabel",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Euskal Herria Bildu"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 44
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 21
+      },
+      "agendaItem": {
+        "title": "Moción consecuencia de interpelación urgente en relación con el\ndespliegue y desarrollo de la Ley 20/2022, de 19 de octubre, de Memoria\nDemocrática.",
+        "officialTitle": "Moción consecuencia de interpelación urgente en relación con el\ndespliegue y desarrollo de la Ley 20/2022, de 19 de octubre, de Memoria\nDemocrática.",
+        "type": "regular",
+        "nativeType": "ES-mocion"
+      },
+      "dateStart": "2024-02-06T19:27:00+01:00",
+      "dateEnd": "2024-02-06T19:34:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_019/cortes/15_000400_019_1_24571_728183.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1528183I",
+        "duration": 420.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_019_1_24571_728183",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Eduard Pujol Bonell",
+          "lastname": "Pujol Bonell",
+          "firstname": "Eduard",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Junts per Catalunya"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 45
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 21
+      },
+      "agendaItem": {
+        "title": "Moción consecuencia de interpelación urgente en relación con el\ndespliegue y desarrollo de la Ley 20/2022, de 19 de octubre, de Memoria\nDemocrática.",
+        "officialTitle": "Moción consecuencia de interpelación urgente en relación con el\ndespliegue y desarrollo de la Ley 20/2022, de 19 de octubre, de Memoria\nDemocrática.",
+        "type": "regular",
+        "nativeType": "ES-mocion"
+      },
+      "dateStart": "2024-02-06T19:35:00+01:00",
+      "dateEnd": "2024-02-06T19:40:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_019/cortes/15_000400_019_1_24571_728184.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1528184I",
+        "duration": 300.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_019_1_24571_728184",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Nahuel González López",
+          "lastname": "González López",
+          "firstname": "Nahuel",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Plurinacional SUMAR"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 46
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 21
+      },
+      "agendaItem": {
+        "title": "Moción consecuencia de interpelación urgente en relación con el\ndespliegue y desarrollo de la Ley 20/2022, de 19 de octubre, de Memoria\nDemocrática.",
+        "officialTitle": "Moción consecuencia de interpelación urgente en relación con el\ndespliegue y desarrollo de la Ley 20/2022, de 19 de octubre, de Memoria\nDemocrática.",
+        "type": "regular",
+        "nativeType": "ES-mocion"
+      },
+      "dateStart": "2024-02-06T19:41:00+01:00",
+      "dateEnd": "2024-02-06T19:46:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_019/cortes/15_000400_019_1_24571_728185.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1528185I",
+        "duration": 300.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_019_1_24571_728185",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Ignacio Hoces Íñiguez",
+          "lastname": "Hoces Íñiguez",
+          "firstname": "Ignacio",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario VOX"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 47
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 21
+      },
+      "agendaItem": {
+        "title": "Moción consecuencia de interpelación urgente en relación con el\ndespliegue y desarrollo de la Ley 20/2022, de 19 de octubre, de Memoria\nDemocrática.",
+        "officialTitle": "Moción consecuencia de interpelación urgente en relación con el\ndespliegue y desarrollo de la Ley 20/2022, de 19 de octubre, de Memoria\nDemocrática.",
+        "type": "regular",
+        "nativeType": "ES-mocion"
+      },
+      "dateStart": "2024-02-06T19:47:00+01:00",
+      "dateEnd": "2024-02-06T19:53:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_019/cortes/15_000400_019_1_24571_728186.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1528186I",
+        "duration": 360.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_019_1_24571_728186",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Pedro Muñoz Abrines",
+          "lastname": "Muñoz Abrines",
+          "firstname": "Pedro",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Popular en el Congreso"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 48
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 21
+      },
+      "agendaItem": {
+        "title": "Moción consecuencia de interpelación urgente sobre la planificación y\nasistencia sanitaria que va a desarrollar la Ministra de Sanidad para\nasegurar el derecho a la protección de la salud de todos los españoles, y\nen particular la de aquellos que padecen enfermedades crónicas gravemente\nlimitantes.",
+        "officialTitle": "Moción consecuencia de interpelación urgente sobre la planificación y\nasistencia sanitaria que va a desarrollar la Ministra de Sanidad para\nasegurar el derecho a la protección de la salud de todos los españoles, y\nen particular la de aquellos que padecen enfermedades crónicas gravemente\nlimitantes.",
+        "type": "regular",
+        "nativeType": "ES-mocion"
+      },
+      "dateStart": "2024-02-06T19:54:00+01:00",
+      "dateEnd": "2024-02-06T20:01:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_019/cortes/15_000400_019_1_24571_728188.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1528188I",
+        "duration": 420.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_019_1_24571_728188",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "David García Gomis",
+          "lastname": "García Gomis",
+          "firstname": "David",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario VOX"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 49
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 21
+      },
+      "agendaItem": {
+        "title": "Moción consecuencia de interpelación urgente sobre la planificación y\nasistencia sanitaria que va a desarrollar la Ministra de Sanidad para\nasegurar el derecho a la protección de la salud de todos los españoles, y\nen particular la de aquellos que padecen enfermedades crónicas gravemente\nlimitantes.",
+        "officialTitle": "Moción consecuencia de interpelación urgente sobre la planificación y\nasistencia sanitaria que va a desarrollar la Ministra de Sanidad para\nasegurar el derecho a la protección de la salud de todos los españoles, y\nen particular la de aquellos que padecen enfermedades crónicas gravemente\nlimitantes.",
+        "type": "regular",
+        "nativeType": "ES-mocion"
+      },
+      "dateStart": "2024-02-06T20:02:00+01:00",
+      "dateEnd": "2024-02-06T20:08:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_019/cortes/15_000400_019_1_24571_728189.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1528189I",
+        "duration": 360.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_019_1_24571_728189",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "María del Mar Vázquez Jiménez",
+          "lastname": "Vázquez Jiménez",
+          "firstname": "María del Mar",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Popular en el Congreso"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 50
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 21
+      },
+      "agendaItem": {
+        "title": "Moción consecuencia de interpelación urgente sobre la planificación y\nasistencia sanitaria que va a desarrollar la Ministra de Sanidad para\nasegurar el derecho a la protección de la salud de todos los españoles, y\nen particular la de aquellos que padecen enfermedades crónicas gravemente\nlimitantes.",
+        "officialTitle": "Moción consecuencia de interpelación urgente sobre la planificación y\nasistencia sanitaria que va a desarrollar la Ministra de Sanidad para\nasegurar el derecho a la protección de la salud de todos los españoles, y\nen particular la de aquellos que padecen enfermedades crónicas gravemente\nlimitantes.",
+        "type": "regular",
+        "nativeType": "ES-mocion"
+      },
+      "dateStart": "2024-02-06T20:09:00+01:00",
+      "dateEnd": "2024-02-06T20:15:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_019/cortes/15_000400_019_1_24571_728190.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1528190I",
+        "duration": 360.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_019_1_24571_728190",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Martina Velarde Gómez",
+          "lastname": "Velarde Gómez",
+          "firstname": "Martina",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Mixto"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 51
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 21
+      },
+      "agendaItem": {
+        "title": "Moción consecuencia de interpelación urgente sobre la planificación y\nasistencia sanitaria que va a desarrollar la Ministra de Sanidad para\nasegurar el derecho a la protección de la salud de todos los españoles, y\nen particular la de aquellos que padecen enfermedades crónicas gravemente\nlimitantes.",
+        "officialTitle": "Moción consecuencia de interpelación urgente sobre la planificación y\nasistencia sanitaria que va a desarrollar la Ministra de Sanidad para\nasegurar el derecho a la protección de la salud de todos los españoles, y\nen particular la de aquellos que padecen enfermedades crónicas gravemente\nlimitantes.",
+        "type": "regular",
+        "nativeType": "ES-mocion"
+      },
+      "dateStart": "2024-02-06T20:16:00+01:00",
+      "dateEnd": "2024-02-06T20:16:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_019/cortes/15_000400_019_1_24571_728191.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1528191I",
+        "duration": 0.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_019_1_24571_728191",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Maribel Vaquero Montero",
+          "lastname": "Vaquero Montero",
+          "firstname": "Maribel",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Vasco (EAJ-PNV)"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 52
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 21
+      },
+      "agendaItem": {
+        "title": "Moción consecuencia de interpelación urgente sobre la planificación y\nasistencia sanitaria que va a desarrollar la Ministra de Sanidad para\nasegurar el derecho a la protección de la salud de todos los españoles, y\nen particular la de aquellos que padecen enfermedades crónicas gravemente\nlimitantes.",
+        "officialTitle": "Moción consecuencia de interpelación urgente sobre la planificación y\nasistencia sanitaria que va a desarrollar la Ministra de Sanidad para\nasegurar el derecho a la protección de la salud de todos los españoles, y\nen particular la de aquellos que padecen enfermedades crónicas gravemente\nlimitantes.",
+        "type": "regular",
+        "nativeType": "ES-mocion"
+      },
+      "dateStart": "2024-02-06T20:17:00+01:00",
+      "dateEnd": "2024-02-06T20:22:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_019/cortes/15_000400_019_1_24571_728192.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1528192I",
+        "duration": 300.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_019_1_24571_728192",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Rafael Cofiño Fernández",
+          "lastname": "Cofiño Fernández",
+          "firstname": "Rafael",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Plurinacional SUMAR"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 53
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 21
+      },
+      "agendaItem": {
+        "title": "Moción consecuencia de interpelación urgente sobre la planificación y\nasistencia sanitaria que va a desarrollar la Ministra de Sanidad para\nasegurar el derecho a la protección de la salud de todos los españoles, y\nen particular la de aquellos que padecen enfermedades crónicas gravemente\nlimitantes.",
+        "officialTitle": "Moción consecuencia de interpelación urgente sobre la planificación y\nasistencia sanitaria que va a desarrollar la Ministra de Sanidad para\nasegurar el derecho a la protección de la salud de todos los españoles, y\nen particular la de aquellos que padecen enfermedades crónicas gravemente\nlimitantes.",
+        "type": "regular",
+        "nativeType": "ES-mocion"
+      },
+      "dateStart": "2024-02-06T20:23:00+01:00",
+      "dateEnd": "2024-02-06T20:29:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_019/cortes/15_000400_019_1_24571_728193.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1528193I",
+        "duration": 360.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_019_1_24571_728193",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Modesto Pose Mesura",
+          "lastname": "Pose Mesura",
+          "firstname": "Modesto",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Socialista"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 54
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 21
+      },
+      "agendaItem": {
+        "title": "Moción consecuencia de interpelación urgente sobre la planificación y\nasistencia sanitaria que va a desarrollar la Ministra de Sanidad para\nasegurar el derecho a la protección de la salud de todos los españoles, y\nen particular la de aquellos que padecen enfermedades crónicas gravemente\nlimitantes.",
+        "officialTitle": "Moción consecuencia de interpelación urgente sobre la planificación y\nasistencia sanitaria que va a desarrollar la Ministra de Sanidad para\nasegurar el derecho a la protección de la salud de todos los españoles, y\nen particular la de aquellos que padecen enfermedades crónicas gravemente\nlimitantes.",
+        "type": "regular",
+        "nativeType": "ES-mocion"
+      },
+      "dateStart": "2024-02-06T20:29:00+01:00",
+      "dateEnd": "2024-02-06T20:29:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_019/cortes/15_000400_019_1_24571_728194.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1528194I",
+        "duration": 0.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_019_1_24571_728194",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "David García Gomis",
+          "lastname": "García Gomis",
+          "firstname": "David",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario VOX"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 55
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 21
+      },
+      "agendaItem": {
+        "title": "Moción consecuencia de interpelación urgente sobre las medidas que\npiensa adoptar el Gobierno para cumplir la Ley Orgánica 2/2012, de 27 de\nabril, de Estabilidad Presupuestaria y Sostenibilidad Financiera.",
+        "officialTitle": "Moción consecuencia de interpelación urgente sobre las medidas que\npiensa adoptar el Gobierno para cumplir la Ley Orgánica 2/2012, de 27 de\nabril, de Estabilidad Presupuestaria y Sostenibilidad Financiera.",
+        "type": "regular",
+        "nativeType": "ES-mocion"
+      },
+      "dateStart": "2024-02-06T20:30:00+01:00",
+      "dateEnd": "2024-02-06T20:38:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_019/cortes/15_000400_019_1_24571_728196.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1528196I",
+        "duration": 480.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_019_1_24571_728196",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "José Vicente Marí Bosó",
+          "lastname": "Marí Bosó",
+          "firstname": "José Vicente",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Popular en el Congreso"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 56
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 21
+      },
+      "agendaItem": {
+        "title": "Moción consecuencia de interpelación urgente sobre las medidas que\npiensa adoptar el Gobierno para cumplir la Ley Orgánica 2/2012, de 27 de\nabril, de Estabilidad Presupuestaria y Sostenibilidad Financiera.",
+        "officialTitle": "Moción consecuencia de interpelación urgente sobre las medidas que\npiensa adoptar el Gobierno para cumplir la Ley Orgánica 2/2012, de 27 de\nabril, de Estabilidad Presupuestaria y Sostenibilidad Financiera.",
+        "type": "regular",
+        "nativeType": "ES-mocion"
+      },
+      "dateStart": "2024-02-06T20:39:00+01:00",
+      "dateEnd": "2024-02-06T20:46:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_019/cortes/15_000400_019_1_24571_728197.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1528197I",
+        "duration": 420.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_019_1_24571_728197",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "José María Figaredo Álvarez-Sala",
+          "lastname": "Figaredo Álvarez-Sala",
+          "firstname": "José María",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario VOX"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 57
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 21
+      },
+      "agendaItem": {
+        "title": "Moción consecuencia de interpelación urgente sobre las medidas que\npiensa adoptar el Gobierno para cumplir la Ley Orgánica 2/2012, de 27 de\nabril, de Estabilidad Presupuestaria y Sostenibilidad Financiera.",
+        "officialTitle": "Moción consecuencia de interpelación urgente sobre las medidas que\npiensa adoptar el Gobierno para cumplir la Ley Orgánica 2/2012, de 27 de\nabril, de Estabilidad Presupuestaria y Sostenibilidad Financiera.",
+        "type": "regular",
+        "nativeType": "ES-mocion"
+      },
+      "dateStart": "2024-02-06T20:47:00+01:00",
+      "dateEnd": "2024-02-06T20:51:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_019/cortes/15_000400_019_1_24571_728198.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1528198I",
+        "duration": 240.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_019_1_24571_728198",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Noemí Santana Perera",
+          "lastname": "Santana Perera",
+          "firstname": "Noemí",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Mixto"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 58
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 21
+      },
+      "agendaItem": {
+        "title": "Moción consecuencia de interpelación urgente sobre las medidas que\npiensa adoptar el Gobierno para cumplir la Ley Orgánica 2/2012, de 27 de\nabril, de Estabilidad Presupuestaria y Sostenibilidad Financiera.",
+        "officialTitle": "Moción consecuencia de interpelación urgente sobre las medidas que\npiensa adoptar el Gobierno para cumplir la Ley Orgánica 2/2012, de 27 de\nabril, de Estabilidad Presupuestaria y Sostenibilidad Financiera.",
+        "type": "regular",
+        "nativeType": "ES-mocion"
+      },
+      "dateStart": "2024-02-06T20:52:00+01:00",
+      "dateEnd": "2024-02-06T20:58:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_019/cortes/15_000400_019_1_24571_728199.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1528199I",
+        "duration": 360.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_019_1_24571_728199",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Josep Maria Cruset Domènech",
+          "lastname": "Cruset Domènech",
+          "firstname": "Josep Maria",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Junts per Catalunya"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 59
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 21
+      },
+      "agendaItem": {
+        "title": "Moción consecuencia de interpelación urgente sobre las medidas que\npiensa adoptar el Gobierno para cumplir la Ley Orgánica 2/2012, de 27 de\nabril, de Estabilidad Presupuestaria y Sostenibilidad Financiera.",
+        "officialTitle": "Moción consecuencia de interpelación urgente sobre las medidas que\npiensa adoptar el Gobierno para cumplir la Ley Orgánica 2/2012, de 27 de\nabril, de Estabilidad Presupuestaria y Sostenibilidad Financiera.",
+        "type": "regular",
+        "nativeType": "ES-mocion"
+      },
+      "dateStart": "2024-02-06T20:59:00+01:00",
+      "dateEnd": "2024-02-06T21:04:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_019/cortes/15_000400_019_1_24571_728200.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1528200I",
+        "duration": 300.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_019_1_24571_728200",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Teresa Jordà i Roura",
+          "lastname": "Jordà i Roura",
+          "firstname": "Teresa",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Republicano"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 60
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 21
+      },
+      "agendaItem": {
+        "title": "Moción consecuencia de interpelación urgente sobre las medidas que\npiensa adoptar el Gobierno para cumplir la Ley Orgánica 2/2012, de 27 de\nabril, de Estabilidad Presupuestaria y Sostenibilidad Financiera.",
+        "officialTitle": "Moción consecuencia de interpelación urgente sobre las medidas que\npiensa adoptar el Gobierno para cumplir la Ley Orgánica 2/2012, de 27 de\nabril, de Estabilidad Presupuestaria y Sostenibilidad Financiera.",
+        "type": "regular",
+        "nativeType": "ES-mocion"
+      },
+      "dateStart": "2024-02-06T21:05:00+01:00",
+      "dateEnd": "2024-02-06T21:12:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_019/cortes/15_000400_019_1_24571_728201.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1528201I",
+        "duration": 420.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_019_1_24571_728201",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Carlos Martín Urriza",
+          "lastname": "Martín Urriza",
+          "firstname": "Carlos",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Plurinacional SUMAR"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 61
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 21
+      },
+      "agendaItem": {
+        "title": "Moción consecuencia de interpelación urgente sobre las medidas que\npiensa adoptar el Gobierno para cumplir la Ley Orgánica 2/2012, de 27 de\nabril, de Estabilidad Presupuestaria y Sostenibilidad Financiera.",
+        "officialTitle": "Moción consecuencia de interpelación urgente sobre las medidas que\npiensa adoptar el Gobierno para cumplir la Ley Orgánica 2/2012, de 27 de\nabril, de Estabilidad Presupuestaria y Sostenibilidad Financiera.",
+        "type": "regular",
+        "nativeType": "ES-mocion"
+      },
+      "dateStart": "2024-02-06T21:13:00+01:00",
+      "dateEnd": "2024-02-06T21:18:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_019/cortes/15_000400_019_1_24571_728202.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1528202I",
+        "duration": 300.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_019_1_24571_728202",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Juan Antonio González Gracia",
+          "lastname": "González Gracia",
+          "firstname": "Juan Antonio",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Socialista"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 62
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 21
+      },
+      "agendaItem": {
+        "title": "Moción consecuencia de interpelación urgente sobre las medidas que\npiensa adoptar el Gobierno para cumplir la Ley Orgánica 2/2012, de 27 de\nabril, de Estabilidad Presupuestaria y Sostenibilidad Financiera.",
+        "officialTitle": "Moción consecuencia de interpelación urgente sobre las medidas que\npiensa adoptar el Gobierno para cumplir la Ley Orgánica 2/2012, de 27 de\nabril, de Estabilidad Presupuestaria y Sostenibilidad Financiera.",
+        "type": "regular",
+        "nativeType": "ES-mocion"
+      },
+      "dateStart": "2024-02-06T21:19:00+01:00",
+      "dateEnd": "2024-02-06T21:19:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_019/cortes/15_000400_019_1_24571_728203.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1528203I",
+        "duration": 0.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_019_1_24571_728203",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "José Vicente Marí Bosó",
+          "lastname": "Marí Bosó",
+          "firstname": "José Vicente",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Popular en el Congreso"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 63
+    }
+  ]
+}

@@ -1,0 +1,4920 @@
+{
+  "meta": {
+    "session": "15037",
+    "processing": {
+      "parse_media": "2026-05-23T07:17:41"
+    },
+    "dateStart": "2024-04-10T09:04:00+02:00",
+    "dateEnd": "2024-04-10T18:42:00+02:00"
+  },
+  "data": [
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 37
+      },
+      "agendaItem": {
+        "title": "Solicitud de comparecencia del Presidente del Gobierno ante el Pleno\nde la Cámara, para dar cuenta de cómo se organizó su reciente viaje\noficial a Marruecos, las razones de que no se informase hasta 24 horas\nantes y sobre los asuntos abordados, especialmente, aquellos pendientes\ntras la última XII RAN Marruecos-España y que, a más de un año, no se han\nmaterializado.",
+        "officialTitle": "Solicitud de comparecencia del Presidente del Gobierno ante el Pleno\nde la Cámara, para dar cuenta de cómo se organizó su reciente viaje\noficial a Marruecos, las razones de que no se informase hasta 24 horas\nantes y sobre los asuntos abordados, especialmente, aquellos pendientes\ntras la última XII RAN Marruecos-España y que, a más de un año, no se han\nmaterializado.",
+        "type": "briefing",
+        "nativeType": "ES-comparecencia"
+      },
+      "dateStart": "2024-04-10T09:04:00+02:00",
+      "dateEnd": "2024-04-10T09:39:00+02:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_035/cortes/15_000400_035_0_24825_731543.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1531543I",
+        "duration": 2100.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_035_0_24825_731543",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Pedro Sánchez Pérez-Castejón",
+          "lastname": "Sánchez Pérez-Castejón",
+          "firstname": "Pedro",
+          "type": "member of government",
+          "role": "Presidente del Gobierno",
+          "faction": {
+            "label": "Grupo Parlamentario Socialista"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 1
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 37
+      },
+      "agendaItem": {
+        "title": "Solicitud de comparecencia, a petición propia, del Presidente del\nGobierno ante el Pleno de la Cámara, para informar del Consejo Europeo\nOrdinario celebrado los días 21 y 22 de marzo de 2024.",
+        "officialTitle": "Solicitud de comparecencia, a petición propia, del Presidente del\nGobierno ante el Pleno de la Cámara, para informar del Consejo Europeo\nOrdinario celebrado los días 21 y 22 de marzo de 2024.",
+        "type": "briefing",
+        "nativeType": "ES-comparecencia"
+      },
+      "dateStart": "2024-04-10T09:04:00+02:00",
+      "dateEnd": "2024-04-10T09:39:00+02:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_035/cortes/15_000400_035_0_24825_731543.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1531543I",
+        "duration": 2100.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_035_0_24825_731543",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Pedro Sánchez Pérez-Castejón",
+          "lastname": "Sánchez Pérez-Castejón",
+          "firstname": "Pedro",
+          "type": "member of government",
+          "role": "Presidente del Gobierno",
+          "faction": {
+            "label": "Grupo Parlamentario Socialista"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 2
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 37
+      },
+      "agendaItem": {
+        "title": "Solicitud de comparecencia del Presidente del Gobierno ante el Pleno\nde la Cámara, para dar cuenta de cómo se organizó su reciente viaje\noficial a Marruecos, las razones de que no se informase hasta 24 horas\nantes y sobre los asuntos abordados, especialmente, aquellos pendientes\ntras la última XII RAN Marruecos-España y que, a más de un año, no se han\nmaterializado.",
+        "officialTitle": "Solicitud de comparecencia del Presidente del Gobierno ante el Pleno\nde la Cámara, para dar cuenta de cómo se organizó su reciente viaje\noficial a Marruecos, las razones de que no se informase hasta 24 horas\nantes y sobre los asuntos abordados, especialmente, aquellos pendientes\ntras la última XII RAN Marruecos-España y que, a más de un año, no se han\nmaterializado.",
+        "type": "briefing",
+        "nativeType": "ES-comparecencia"
+      },
+      "dateStart": "2024-04-10T09:39:00+02:00",
+      "dateEnd": "2024-04-10T09:56:00+02:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_035/cortes/15_000400_035_0_24825_731544.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1531544I",
+        "duration": 1020.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_035_0_24825_731544",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Alberto Núñez Feijóo",
+          "lastname": "Núñez Feijóo",
+          "firstname": "Alberto",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Popular en el Congreso"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 3
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 37
+      },
+      "agendaItem": {
+        "title": "Solicitud de comparecencia, a petición propia, del Presidente del\nGobierno ante el Pleno de la Cámara, para informar del Consejo Europeo\nOrdinario celebrado los días 21 y 22 de marzo de 2024.",
+        "officialTitle": "Solicitud de comparecencia, a petición propia, del Presidente del\nGobierno ante el Pleno de la Cámara, para informar del Consejo Europeo\nOrdinario celebrado los días 21 y 22 de marzo de 2024.",
+        "type": "briefing",
+        "nativeType": "ES-comparecencia"
+      },
+      "dateStart": "2024-04-10T09:39:00+02:00",
+      "dateEnd": "2024-04-10T09:56:00+02:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_035/cortes/15_000400_035_0_24825_731544.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1531544I",
+        "duration": 1020.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_035_0_24825_731544",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Alberto Núñez Feijóo",
+          "lastname": "Núñez Feijóo",
+          "firstname": "Alberto",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Popular en el Congreso"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 4
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 37
+      },
+      "agendaItem": {
+        "title": "Solicitud de comparecencia del Presidente del Gobierno ante el Pleno\nde la Cámara, para dar cuenta de cómo se organizó su reciente viaje\noficial a Marruecos, las razones de que no se informase hasta 24 horas\nantes y sobre los asuntos abordados, especialmente, aquellos pendientes\ntras la última XII RAN Marruecos-España y que, a más de un año, no se han\nmaterializado.",
+        "officialTitle": "Solicitud de comparecencia del Presidente del Gobierno ante el Pleno\nde la Cámara, para dar cuenta de cómo se organizó su reciente viaje\noficial a Marruecos, las razones de que no se informase hasta 24 horas\nantes y sobre los asuntos abordados, especialmente, aquellos pendientes\ntras la última XII RAN Marruecos-España y que, a más de un año, no se han\nmaterializado.",
+        "type": "briefing",
+        "nativeType": "ES-comparecencia"
+      },
+      "dateStart": "2024-04-10T09:56:00+02:00",
+      "dateEnd": "2024-04-10T10:12:00+02:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_035/cortes/15_000400_035_0_24825_731545.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1531545I",
+        "duration": 960.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_035_0_24825_731545",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Santiago Abascal Conde",
+          "lastname": "Abascal Conde",
+          "firstname": "Santiago",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario VOX"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 5
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 37
+      },
+      "agendaItem": {
+        "title": "Solicitud de comparecencia, a petición propia, del Presidente del\nGobierno ante el Pleno de la Cámara, para informar del Consejo Europeo\nOrdinario celebrado los días 21 y 22 de marzo de 2024.",
+        "officialTitle": "Solicitud de comparecencia, a petición propia, del Presidente del\nGobierno ante el Pleno de la Cámara, para informar del Consejo Europeo\nOrdinario celebrado los días 21 y 22 de marzo de 2024.",
+        "type": "briefing",
+        "nativeType": "ES-comparecencia"
+      },
+      "dateStart": "2024-04-10T09:56:00+02:00",
+      "dateEnd": "2024-04-10T10:12:00+02:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_035/cortes/15_000400_035_0_24825_731545.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1531545I",
+        "duration": 960.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_035_0_24825_731545",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Santiago Abascal Conde",
+          "lastname": "Abascal Conde",
+          "firstname": "Santiago",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario VOX"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 6
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 37
+      },
+      "agendaItem": {
+        "title": "Solicitud de comparecencia del Presidente del Gobierno ante el Pleno\nde la Cámara, para dar cuenta de cómo se organizó su reciente viaje\noficial a Marruecos, las razones de que no se informase hasta 24 horas\nantes y sobre los asuntos abordados, especialmente, aquellos pendientes\ntras la última XII RAN Marruecos-España y que, a más de un año, no se han\nmaterializado.",
+        "officialTitle": "Solicitud de comparecencia del Presidente del Gobierno ante el Pleno\nde la Cámara, para dar cuenta de cómo se organizó su reciente viaje\noficial a Marruecos, las razones de que no se informase hasta 24 horas\nantes y sobre los asuntos abordados, especialmente, aquellos pendientes\ntras la última XII RAN Marruecos-España y que, a más de un año, no se han\nmaterializado.",
+        "type": "briefing",
+        "nativeType": "ES-comparecencia"
+      },
+      "dateStart": "2024-04-10T10:12:00+02:00",
+      "dateEnd": "2024-04-10T10:30:00+02:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_035/cortes/15_000400_035_0_24825_731546.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1531546I",
+        "duration": 1080.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_035_0_24825_731546",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Íñigo Errejón Galván",
+          "lastname": "Errejón Galván",
+          "firstname": "Íñigo",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Plurinacional SUMAR"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 7
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 37
+      },
+      "agendaItem": {
+        "title": "Solicitud de comparecencia, a petición propia, del Presidente del\nGobierno ante el Pleno de la Cámara, para informar del Consejo Europeo\nOrdinario celebrado los días 21 y 22 de marzo de 2024.",
+        "officialTitle": "Solicitud de comparecencia, a petición propia, del Presidente del\nGobierno ante el Pleno de la Cámara, para informar del Consejo Europeo\nOrdinario celebrado los días 21 y 22 de marzo de 2024.",
+        "type": "briefing",
+        "nativeType": "ES-comparecencia"
+      },
+      "dateStart": "2024-04-10T10:12:00+02:00",
+      "dateEnd": "2024-04-10T10:30:00+02:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_035/cortes/15_000400_035_0_24825_731546.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1531546I",
+        "duration": 1080.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_035_0_24825_731546",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Íñigo Errejón Galván",
+          "lastname": "Errejón Galván",
+          "firstname": "Íñigo",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Plurinacional SUMAR"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 8
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 37
+      },
+      "agendaItem": {
+        "title": "Solicitud de comparecencia del Presidente del Gobierno ante el Pleno\nde la Cámara, para dar cuenta de cómo se organizó su reciente viaje\noficial a Marruecos, las razones de que no se informase hasta 24 horas\nantes y sobre los asuntos abordados, especialmente, aquellos pendientes\ntras la última XII RAN Marruecos-España y que, a más de un año, no se han\nmaterializado.",
+        "officialTitle": "Solicitud de comparecencia del Presidente del Gobierno ante el Pleno\nde la Cámara, para dar cuenta de cómo se organizó su reciente viaje\noficial a Marruecos, las razones de que no se informase hasta 24 horas\nantes y sobre los asuntos abordados, especialmente, aquellos pendientes\ntras la última XII RAN Marruecos-España y que, a más de un año, no se han\nmaterializado.",
+        "type": "briefing",
+        "nativeType": "ES-comparecencia"
+      },
+      "dateStart": "2024-04-10T10:30:00+02:00",
+      "dateEnd": "2024-04-10T10:44:00+02:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_035/cortes/15_000400_035_0_24825_731547.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1531547I",
+        "duration": 840.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_035_0_24825_731547",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Gabriel Rufián Romero",
+          "lastname": "Rufián Romero",
+          "firstname": "Gabriel",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Republicano"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 9
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 37
+      },
+      "agendaItem": {
+        "title": "Solicitud de comparecencia, a petición propia, del Presidente del\nGobierno ante el Pleno de la Cámara, para informar del Consejo Europeo\nOrdinario celebrado los días 21 y 22 de marzo de 2024.",
+        "officialTitle": "Solicitud de comparecencia, a petición propia, del Presidente del\nGobierno ante el Pleno de la Cámara, para informar del Consejo Europeo\nOrdinario celebrado los días 21 y 22 de marzo de 2024.",
+        "type": "briefing",
+        "nativeType": "ES-comparecencia"
+      },
+      "dateStart": "2024-04-10T10:30:00+02:00",
+      "dateEnd": "2024-04-10T10:44:00+02:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_035/cortes/15_000400_035_0_24825_731547.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1531547I",
+        "duration": 840.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_035_0_24825_731547",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Gabriel Rufián Romero",
+          "lastname": "Rufián Romero",
+          "firstname": "Gabriel",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Republicano"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 10
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 37
+      },
+      "agendaItem": {
+        "title": "Solicitud de comparecencia del Presidente del Gobierno ante el Pleno\nde la Cámara, para dar cuenta de cómo se organizó su reciente viaje\noficial a Marruecos, las razones de que no se informase hasta 24 horas\nantes y sobre los asuntos abordados, especialmente, aquellos pendientes\ntras la última XII RAN Marruecos-España y que, a más de un año, no se han\nmaterializado.",
+        "officialTitle": "Solicitud de comparecencia del Presidente del Gobierno ante el Pleno\nde la Cámara, para dar cuenta de cómo se organizó su reciente viaje\noficial a Marruecos, las razones de que no se informase hasta 24 horas\nantes y sobre los asuntos abordados, especialmente, aquellos pendientes\ntras la última XII RAN Marruecos-España y que, a más de un año, no se han\nmaterializado.",
+        "type": "briefing",
+        "nativeType": "ES-comparecencia"
+      },
+      "dateStart": "2024-04-10T10:44:00+02:00",
+      "dateEnd": "2024-04-10T10:55:00+02:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_035/cortes/15_000400_035_0_24825_731548.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1531548I",
+        "duration": 660.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_035_0_24825_731548",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Míriam Nogueras i Camero",
+          "lastname": "Nogueras i Camero",
+          "firstname": "Míriam",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Junts per Catalunya"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 11
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 37
+      },
+      "agendaItem": {
+        "title": "Solicitud de comparecencia, a petición propia, del Presidente del\nGobierno ante el Pleno de la Cámara, para informar del Consejo Europeo\nOrdinario celebrado los días 21 y 22 de marzo de 2024.",
+        "officialTitle": "Solicitud de comparecencia, a petición propia, del Presidente del\nGobierno ante el Pleno de la Cámara, para informar del Consejo Europeo\nOrdinario celebrado los días 21 y 22 de marzo de 2024.",
+        "type": "briefing",
+        "nativeType": "ES-comparecencia"
+      },
+      "dateStart": "2024-04-10T10:44:00+02:00",
+      "dateEnd": "2024-04-10T10:55:00+02:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_035/cortes/15_000400_035_0_24825_731548.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1531548I",
+        "duration": 660.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_035_0_24825_731548",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Míriam Nogueras i Camero",
+          "lastname": "Nogueras i Camero",
+          "firstname": "Míriam",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Junts per Catalunya"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 12
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 37
+      },
+      "agendaItem": {
+        "title": "Solicitud de comparecencia del Presidente del Gobierno ante el Pleno\nde la Cámara, para dar cuenta de cómo se organizó su reciente viaje\noficial a Marruecos, las razones de que no se informase hasta 24 horas\nantes y sobre los asuntos abordados, especialmente, aquellos pendientes\ntras la última XII RAN Marruecos-España y que, a más de un año, no se han\nmaterializado.",
+        "officialTitle": "Solicitud de comparecencia del Presidente del Gobierno ante el Pleno\nde la Cámara, para dar cuenta de cómo se organizó su reciente viaje\noficial a Marruecos, las razones de que no se informase hasta 24 horas\nantes y sobre los asuntos abordados, especialmente, aquellos pendientes\ntras la última XII RAN Marruecos-España y que, a más de un año, no se han\nmaterializado.",
+        "type": "briefing",
+        "nativeType": "ES-comparecencia"
+      },
+      "dateStart": "2024-04-10T10:55:00+02:00",
+      "dateEnd": "2024-04-10T11:11:00+02:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_035/cortes/15_000400_035_0_24825_731549.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1531549I",
+        "duration": 960.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_035_0_24825_731549",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Oskar Matute García de Jalón",
+          "lastname": "Matute García de Jalón",
+          "firstname": "Oskar",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Euskal Herria Bildu"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 13
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 37
+      },
+      "agendaItem": {
+        "title": "Solicitud de comparecencia, a petición propia, del Presidente del\nGobierno ante el Pleno de la Cámara, para informar del Consejo Europeo\nOrdinario celebrado los días 21 y 22 de marzo de 2024.",
+        "officialTitle": "Solicitud de comparecencia, a petición propia, del Presidente del\nGobierno ante el Pleno de la Cámara, para informar del Consejo Europeo\nOrdinario celebrado los días 21 y 22 de marzo de 2024.",
+        "type": "briefing",
+        "nativeType": "ES-comparecencia"
+      },
+      "dateStart": "2024-04-10T10:55:00+02:00",
+      "dateEnd": "2024-04-10T11:11:00+02:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_035/cortes/15_000400_035_0_24825_731549.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1531549I",
+        "duration": 960.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_035_0_24825_731549",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Oskar Matute García de Jalón",
+          "lastname": "Matute García de Jalón",
+          "firstname": "Oskar",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Euskal Herria Bildu"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 14
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 37
+      },
+      "agendaItem": {
+        "title": "Solicitud de comparecencia, a petición propia, del Presidente del\nGobierno ante el Pleno de la Cámara, para informar del Consejo Europeo\nOrdinario celebrado los días 21 y 22 de marzo de 2024.",
+        "officialTitle": "Solicitud de comparecencia, a petición propia, del Presidente del\nGobierno ante el Pleno de la Cámara, para informar del Consejo Europeo\nOrdinario celebrado los días 21 y 22 de marzo de 2024.",
+        "type": "briefing",
+        "nativeType": "ES-comparecencia"
+      },
+      "dateStart": "2024-04-10T11:11:00+02:00",
+      "dateEnd": "2024-04-10T11:29:00+02:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_035/cortes/15_000400_035_0_24825_731550.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1531550I",
+        "duration": 1080.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_035_0_24825_731550",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Aitor Esteban Bravo",
+          "lastname": "Esteban Bravo",
+          "firstname": "Aitor",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Vasco (EAJ-PNV)"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 15
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 37
+      },
+      "agendaItem": {
+        "title": "Solicitud de comparecencia del Presidente del Gobierno ante el Pleno\nde la Cámara, para dar cuenta de cómo se organizó su reciente viaje\noficial a Marruecos, las razones de que no se informase hasta 24 horas\nantes y sobre los asuntos abordados, especialmente, aquellos pendientes\ntras la última XII RAN Marruecos-España y que, a más de un año, no se han\nmaterializado.",
+        "officialTitle": "Solicitud de comparecencia del Presidente del Gobierno ante el Pleno\nde la Cámara, para dar cuenta de cómo se organizó su reciente viaje\noficial a Marruecos, las razones de que no se informase hasta 24 horas\nantes y sobre los asuntos abordados, especialmente, aquellos pendientes\ntras la última XII RAN Marruecos-España y que, a más de un año, no se han\nmaterializado.",
+        "type": "briefing",
+        "nativeType": "ES-comparecencia"
+      },
+      "dateStart": "2024-04-10T11:11:00+02:00",
+      "dateEnd": "2024-04-10T11:29:00+02:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_035/cortes/15_000400_035_0_24825_731550.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1531550I",
+        "duration": 1080.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_035_0_24825_731550",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Aitor Esteban Bravo",
+          "lastname": "Esteban Bravo",
+          "firstname": "Aitor",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Vasco (EAJ-PNV)"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 16
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 37
+      },
+      "agendaItem": {
+        "title": "Solicitud de comparecencia, a petición propia, del Presidente del\nGobierno ante el Pleno de la Cámara, para informar del Consejo Europeo\nOrdinario celebrado los días 21 y 22 de marzo de 2024.",
+        "officialTitle": "Solicitud de comparecencia, a petición propia, del Presidente del\nGobierno ante el Pleno de la Cámara, para informar del Consejo Europeo\nOrdinario celebrado los días 21 y 22 de marzo de 2024.",
+        "type": "briefing",
+        "nativeType": "ES-comparecencia"
+      },
+      "dateStart": "2024-04-10T11:29:00+02:00",
+      "dateEnd": "2024-04-10T11:39:00+02:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_035/cortes/15_000400_035_0_24825_731551.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1531551I",
+        "duration": 600.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_035_0_24825_731551",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Ione Belarra Urteaga",
+          "lastname": "Belarra Urteaga",
+          "firstname": "Ione",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Mixto"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 17
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 37
+      },
+      "agendaItem": {
+        "title": "Solicitud de comparecencia del Presidente del Gobierno ante el Pleno\nde la Cámara, para dar cuenta de cómo se organizó su reciente viaje\noficial a Marruecos, las razones de que no se informase hasta 24 horas\nantes y sobre los asuntos abordados, especialmente, aquellos pendientes\ntras la última XII RAN Marruecos-España y que, a más de un año, no se han\nmaterializado.",
+        "officialTitle": "Solicitud de comparecencia del Presidente del Gobierno ante el Pleno\nde la Cámara, para dar cuenta de cómo se organizó su reciente viaje\noficial a Marruecos, las razones de que no se informase hasta 24 horas\nantes y sobre los asuntos abordados, especialmente, aquellos pendientes\ntras la última XII RAN Marruecos-España y que, a más de un año, no se han\nmaterializado.",
+        "type": "briefing",
+        "nativeType": "ES-comparecencia"
+      },
+      "dateStart": "2024-04-10T11:29:00+02:00",
+      "dateEnd": "2024-04-10T11:39:00+02:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_035/cortes/15_000400_035_0_24825_731551.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1531551I",
+        "duration": 600.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_035_0_24825_731551",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Ione Belarra Urteaga",
+          "lastname": "Belarra Urteaga",
+          "firstname": "Ione",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Mixto"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 18
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 37
+      },
+      "agendaItem": {
+        "title": "Solicitud de comparecencia, a petición propia, del Presidente del\nGobierno ante el Pleno de la Cámara, para informar del Consejo Europeo\nOrdinario celebrado los días 21 y 22 de marzo de 2024.",
+        "officialTitle": "Solicitud de comparecencia, a petición propia, del Presidente del\nGobierno ante el Pleno de la Cámara, para informar del Consejo Europeo\nOrdinario celebrado los días 21 y 22 de marzo de 2024.",
+        "type": "briefing",
+        "nativeType": "ES-comparecencia"
+      },
+      "dateStart": "2024-04-10T11:39:00+02:00",
+      "dateEnd": "2024-04-10T11:46:00+02:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_035/cortes/15_000400_035_0_24825_731552.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1531552I",
+        "duration": 420.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_035_0_24825_731552",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Néstor Rego Candamil",
+          "lastname": "Rego Candamil",
+          "firstname": "Néstor",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Mixto"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 19
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 37
+      },
+      "agendaItem": {
+        "title": "Solicitud de comparecencia del Presidente del Gobierno ante el Pleno\nde la Cámara, para dar cuenta de cómo se organizó su reciente viaje\noficial a Marruecos, las razones de que no se informase hasta 24 horas\nantes y sobre los asuntos abordados, especialmente, aquellos pendientes\ntras la última XII RAN Marruecos-España y que, a más de un año, no se han\nmaterializado.",
+        "officialTitle": "Solicitud de comparecencia del Presidente del Gobierno ante el Pleno\nde la Cámara, para dar cuenta de cómo se organizó su reciente viaje\noficial a Marruecos, las razones de que no se informase hasta 24 horas\nantes y sobre los asuntos abordados, especialmente, aquellos pendientes\ntras la última XII RAN Marruecos-España y que, a más de un año, no se han\nmaterializado.",
+        "type": "briefing",
+        "nativeType": "ES-comparecencia"
+      },
+      "dateStart": "2024-04-10T11:39:00+02:00",
+      "dateEnd": "2024-04-10T11:46:00+02:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_035/cortes/15_000400_035_0_24825_731552.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1531552I",
+        "duration": 420.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_035_0_24825_731552",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Néstor Rego Candamil",
+          "lastname": "Rego Candamil",
+          "firstname": "Néstor",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Mixto"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 20
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 37
+      },
+      "agendaItem": {
+        "title": "Solicitud de comparecencia, a petición propia, del Presidente del\nGobierno ante el Pleno de la Cámara, para informar del Consejo Europeo\nOrdinario celebrado los días 21 y 22 de marzo de 2024.",
+        "officialTitle": "Solicitud de comparecencia, a petición propia, del Presidente del\nGobierno ante el Pleno de la Cámara, para informar del Consejo Europeo\nOrdinario celebrado los días 21 y 22 de marzo de 2024.",
+        "type": "briefing",
+        "nativeType": "ES-comparecencia"
+      },
+      "dateStart": "2024-04-10T11:46:00+02:00",
+      "dateEnd": "2024-04-10T11:51:00+02:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_035/cortes/15_000400_035_0_24825_731553.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1531553I",
+        "duration": 300.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_035_0_24825_731553",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Cristina Valido García",
+          "lastname": "Valido García",
+          "firstname": "Cristina",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Mixto"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 21
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 37
+      },
+      "agendaItem": {
+        "title": "Solicitud de comparecencia del Presidente del Gobierno ante el Pleno\nde la Cámara, para dar cuenta de cómo se organizó su reciente viaje\noficial a Marruecos, las razones de que no se informase hasta 24 horas\nantes y sobre los asuntos abordados, especialmente, aquellos pendientes\ntras la última XII RAN Marruecos-España y que, a más de un año, no se han\nmaterializado.",
+        "officialTitle": "Solicitud de comparecencia del Presidente del Gobierno ante el Pleno\nde la Cámara, para dar cuenta de cómo se organizó su reciente viaje\noficial a Marruecos, las razones de que no se informase hasta 24 horas\nantes y sobre los asuntos abordados, especialmente, aquellos pendientes\ntras la última XII RAN Marruecos-España y que, a más de un año, no se han\nmaterializado.",
+        "type": "briefing",
+        "nativeType": "ES-comparecencia"
+      },
+      "dateStart": "2024-04-10T11:46:00+02:00",
+      "dateEnd": "2024-04-10T11:51:00+02:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_035/cortes/15_000400_035_0_24825_731553.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1531553I",
+        "duration": 300.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_035_0_24825_731553",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Cristina Valido García",
+          "lastname": "Valido García",
+          "firstname": "Cristina",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Mixto"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 22
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 37
+      },
+      "agendaItem": {
+        "title": "Solicitud de comparecencia, a petición propia, del Presidente del\nGobierno ante el Pleno de la Cámara, para informar del Consejo Europeo\nOrdinario celebrado los días 21 y 22 de marzo de 2024.",
+        "officialTitle": "Solicitud de comparecencia, a petición propia, del Presidente del\nGobierno ante el Pleno de la Cámara, para informar del Consejo Europeo\nOrdinario celebrado los días 21 y 22 de marzo de 2024.",
+        "type": "briefing",
+        "nativeType": "ES-comparecencia"
+      },
+      "dateStart": "2024-04-10T11:51:00+02:00",
+      "dateEnd": "2024-04-10T11:57:00+02:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_035/cortes/15_000400_035_0_24825_731554.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1531554I",
+        "duration": 360.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_035_0_24825_731554",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Alberto Catalán Higueras",
+          "lastname": "Catalán Higueras",
+          "firstname": "Alberto",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Mixto"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 23
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 37
+      },
+      "agendaItem": {
+        "title": "Solicitud de comparecencia del Presidente del Gobierno ante el Pleno\nde la Cámara, para dar cuenta de cómo se organizó su reciente viaje\noficial a Marruecos, las razones de que no se informase hasta 24 horas\nantes y sobre los asuntos abordados, especialmente, aquellos pendientes\ntras la última XII RAN Marruecos-España y que, a más de un año, no se han\nmaterializado.",
+        "officialTitle": "Solicitud de comparecencia del Presidente del Gobierno ante el Pleno\nde la Cámara, para dar cuenta de cómo se organizó su reciente viaje\noficial a Marruecos, las razones de que no se informase hasta 24 horas\nantes y sobre los asuntos abordados, especialmente, aquellos pendientes\ntras la última XII RAN Marruecos-España y que, a más de un año, no se han\nmaterializado.",
+        "type": "briefing",
+        "nativeType": "ES-comparecencia"
+      },
+      "dateStart": "2024-04-10T11:51:00+02:00",
+      "dateEnd": "2024-04-10T11:57:00+02:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_035/cortes/15_000400_035_0_24825_731554.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1531554I",
+        "duration": 360.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_035_0_24825_731554",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Alberto Catalán Higueras",
+          "lastname": "Catalán Higueras",
+          "firstname": "Alberto",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Mixto"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 24
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 37
+      },
+      "agendaItem": {
+        "title": "Solicitud de comparecencia del Presidente del Gobierno ante el Pleno\nde la Cámara, para dar cuenta de cómo se organizó su reciente viaje\noficial a Marruecos, las razones de que no se informase hasta 24 horas\nantes y sobre los asuntos abordados, especialmente, aquellos pendientes\ntras la última XII RAN Marruecos-España y que, a más de un año, no se han\nmaterializado.",
+        "officialTitle": "Solicitud de comparecencia del Presidente del Gobierno ante el Pleno\nde la Cámara, para dar cuenta de cómo se organizó su reciente viaje\noficial a Marruecos, las razones de que no se informase hasta 24 horas\nantes y sobre los asuntos abordados, especialmente, aquellos pendientes\ntras la última XII RAN Marruecos-España y que, a más de un año, no se han\nmaterializado.",
+        "type": "briefing",
+        "nativeType": "ES-comparecencia"
+      },
+      "dateStart": "2024-04-10T11:57:00+02:00",
+      "dateEnd": "2024-04-10T12:16:00+02:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_035/cortes/15_000400_035_0_24825_731555.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1531555I",
+        "duration": 1140.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_035_0_24825_731555",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Patxi López Álvarez",
+          "lastname": "López Álvarez",
+          "firstname": "Patxi",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Socialista"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 25
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 37
+      },
+      "agendaItem": {
+        "title": "Solicitud de comparecencia, a petición propia, del Presidente del\nGobierno ante el Pleno de la Cámara, para informar del Consejo Europeo\nOrdinario celebrado los días 21 y 22 de marzo de 2024.",
+        "officialTitle": "Solicitud de comparecencia, a petición propia, del Presidente del\nGobierno ante el Pleno de la Cámara, para informar del Consejo Europeo\nOrdinario celebrado los días 21 y 22 de marzo de 2024.",
+        "type": "briefing",
+        "nativeType": "ES-comparecencia"
+      },
+      "dateStart": "2024-04-10T11:57:00+02:00",
+      "dateEnd": "2024-04-10T12:16:00+02:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_035/cortes/15_000400_035_0_24825_731555.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1531555I",
+        "duration": 1140.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_035_0_24825_731555",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Patxi López Álvarez",
+          "lastname": "López Álvarez",
+          "firstname": "Patxi",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Socialista"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 26
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 37
+      },
+      "agendaItem": {
+        "title": "Solicitud de comparecencia del Presidente del Gobierno ante el Pleno\nde la Cámara, para dar cuenta de cómo se organizó su reciente viaje\noficial a Marruecos, las razones de que no se informase hasta 24 horas\nantes y sobre los asuntos abordados, especialmente, aquellos pendientes\ntras la última XII RAN Marruecos-España y que, a más de un año, no se han\nmaterializado.",
+        "officialTitle": "Solicitud de comparecencia del Presidente del Gobierno ante el Pleno\nde la Cámara, para dar cuenta de cómo se organizó su reciente viaje\noficial a Marruecos, las razones de que no se informase hasta 24 horas\nantes y sobre los asuntos abordados, especialmente, aquellos pendientes\ntras la última XII RAN Marruecos-España y que, a más de un año, no se han\nmaterializado.",
+        "type": "briefing",
+        "nativeType": "ES-comparecencia"
+      },
+      "dateStart": "2024-04-10T12:22:00+02:00",
+      "dateEnd": "2024-04-10T12:23:00+02:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_035/cortes/15_000400_035_1_24830_731567.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1531567I",
+        "duration": 60.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_035_1_24830_731567",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "José María Figaredo Álvarez-Sala",
+          "lastname": "Figaredo Álvarez-Sala",
+          "firstname": "José María",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario VOX"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 27
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 37
+      },
+      "agendaItem": {
+        "title": "Solicitud de comparecencia, a petición propia, del Presidente del\nGobierno ante el Pleno de la Cámara, para informar del Consejo Europeo\nOrdinario celebrado los días 21 y 22 de marzo de 2024.",
+        "officialTitle": "Solicitud de comparecencia, a petición propia, del Presidente del\nGobierno ante el Pleno de la Cámara, para informar del Consejo Europeo\nOrdinario celebrado los días 21 y 22 de marzo de 2024.",
+        "type": "briefing",
+        "nativeType": "ES-comparecencia"
+      },
+      "dateStart": "2024-04-10T12:22:00+02:00",
+      "dateEnd": "2024-04-10T12:23:00+02:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_035/cortes/15_000400_035_1_24830_731567.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1531567I",
+        "duration": 60.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_035_1_24830_731567",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "José María Figaredo Álvarez-Sala",
+          "lastname": "Figaredo Álvarez-Sala",
+          "firstname": "José María",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario VOX"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 28
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 37
+      },
+      "agendaItem": {
+        "title": "Solicitud de comparecencia del Presidente del Gobierno ante el Pleno\nde la Cámara, para dar cuenta de cómo se organizó su reciente viaje\noficial a Marruecos, las razones de que no se informase hasta 24 horas\nantes y sobre los asuntos abordados, especialmente, aquellos pendientes\ntras la última XII RAN Marruecos-España y que, a más de un año, no se han\nmaterializado.",
+        "officialTitle": "Solicitud de comparecencia del Presidente del Gobierno ante el Pleno\nde la Cámara, para dar cuenta de cómo se organizó su reciente viaje\noficial a Marruecos, las razones de que no se informase hasta 24 horas\nantes y sobre los asuntos abordados, especialmente, aquellos pendientes\ntras la última XII RAN Marruecos-España y que, a más de un año, no se han\nmaterializado.",
+        "type": "briefing",
+        "nativeType": "ES-comparecencia"
+      },
+      "dateStart": "2024-04-10T12:23:00+02:00",
+      "dateEnd": "2024-04-10T13:41:00+02:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_035/cortes/15_000400_035_1_24830_731568.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1531568I",
+        "duration": 4680.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_035_1_24830_731568",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Pedro Sánchez Pérez-Castejón",
+          "lastname": "Sánchez Pérez-Castejón",
+          "firstname": "Pedro",
+          "type": "member of government",
+          "role": "Presidente del Gobierno",
+          "faction": {
+            "label": "Grupo Parlamentario Socialista"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 29
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 37
+      },
+      "agendaItem": {
+        "title": "Solicitud de comparecencia, a petición propia, del Presidente del\nGobierno ante el Pleno de la Cámara, para informar del Consejo Europeo\nOrdinario celebrado los días 21 y 22 de marzo de 2024.",
+        "officialTitle": "Solicitud de comparecencia, a petición propia, del Presidente del\nGobierno ante el Pleno de la Cámara, para informar del Consejo Europeo\nOrdinario celebrado los días 21 y 22 de marzo de 2024.",
+        "type": "briefing",
+        "nativeType": "ES-comparecencia"
+      },
+      "dateStart": "2024-04-10T12:23:00+02:00",
+      "dateEnd": "2024-04-10T13:41:00+02:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_035/cortes/15_000400_035_1_24830_731568.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1531568I",
+        "duration": 4680.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_035_1_24830_731568",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Pedro Sánchez Pérez-Castejón",
+          "lastname": "Sánchez Pérez-Castejón",
+          "firstname": "Pedro",
+          "type": "member of government",
+          "role": "Presidente del Gobierno",
+          "faction": {
+            "label": "Grupo Parlamentario Socialista"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 30
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 37
+      },
+      "agendaItem": {
+        "title": "Solicitud de comparecencia del Presidente del Gobierno ante el Pleno\nde la Cámara, para dar cuenta de cómo se organizó su reciente viaje\noficial a Marruecos, las razones de que no se informase hasta 24 horas\nantes y sobre los asuntos abordados, especialmente, aquellos pendientes\ntras la última XII RAN Marruecos-España y que, a más de un año, no se han\nmaterializado.",
+        "officialTitle": "Solicitud de comparecencia del Presidente del Gobierno ante el Pleno\nde la Cámara, para dar cuenta de cómo se organizó su reciente viaje\noficial a Marruecos, las razones de que no se informase hasta 24 horas\nantes y sobre los asuntos abordados, especialmente, aquellos pendientes\ntras la última XII RAN Marruecos-España y que, a más de un año, no se han\nmaterializado.",
+        "type": "briefing",
+        "nativeType": "ES-comparecencia"
+      },
+      "dateStart": "2024-04-10T13:41:00+02:00",
+      "dateEnd": "2024-04-10T13:51:00+02:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_035/cortes/15_000400_035_1_24830_731569.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1531569I",
+        "duration": 600.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_035_1_24830_731569",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Alberto Núñez Feijóo",
+          "lastname": "Núñez Feijóo",
+          "firstname": "Alberto",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Popular en el Congreso"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 31
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 37
+      },
+      "agendaItem": {
+        "title": "Solicitud de comparecencia, a petición propia, del Presidente del\nGobierno ante el Pleno de la Cámara, para informar del Consejo Europeo\nOrdinario celebrado los días 21 y 22 de marzo de 2024.",
+        "officialTitle": "Solicitud de comparecencia, a petición propia, del Presidente del\nGobierno ante el Pleno de la Cámara, para informar del Consejo Europeo\nOrdinario celebrado los días 21 y 22 de marzo de 2024.",
+        "type": "briefing",
+        "nativeType": "ES-comparecencia"
+      },
+      "dateStart": "2024-04-10T13:41:00+02:00",
+      "dateEnd": "2024-04-10T13:51:00+02:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_035/cortes/15_000400_035_1_24830_731569.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1531569I",
+        "duration": 600.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_035_1_24830_731569",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Alberto Núñez Feijóo",
+          "lastname": "Núñez Feijóo",
+          "firstname": "Alberto",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Popular en el Congreso"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 32
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 37
+      },
+      "agendaItem": {
+        "title": "Solicitud de comparecencia del Presidente del Gobierno ante el Pleno\nde la Cámara, para dar cuenta de cómo se organizó su reciente viaje\noficial a Marruecos, las razones de que no se informase hasta 24 horas\nantes y sobre los asuntos abordados, especialmente, aquellos pendientes\ntras la última XII RAN Marruecos-España y que, a más de un año, no se han\nmaterializado.",
+        "officialTitle": "Solicitud de comparecencia del Presidente del Gobierno ante el Pleno\nde la Cámara, para dar cuenta de cómo se organizó su reciente viaje\noficial a Marruecos, las razones de que no se informase hasta 24 horas\nantes y sobre los asuntos abordados, especialmente, aquellos pendientes\ntras la última XII RAN Marruecos-España y que, a más de un año, no se han\nmaterializado.",
+        "type": "briefing",
+        "nativeType": "ES-comparecencia"
+      },
+      "dateStart": "2024-04-10T13:51:00+02:00",
+      "dateEnd": "2024-04-10T13:59:00+02:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_035/cortes/15_000400_035_1_24830_731570.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1531570I",
+        "duration": 480.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_035_1_24830_731570",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Santiago Abascal Conde",
+          "lastname": "Abascal Conde",
+          "firstname": "Santiago",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario VOX"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 33
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 37
+      },
+      "agendaItem": {
+        "title": "Solicitud de comparecencia, a petición propia, del Presidente del\nGobierno ante el Pleno de la Cámara, para informar del Consejo Europeo\nOrdinario celebrado los días 21 y 22 de marzo de 2024.",
+        "officialTitle": "Solicitud de comparecencia, a petición propia, del Presidente del\nGobierno ante el Pleno de la Cámara, para informar del Consejo Europeo\nOrdinario celebrado los días 21 y 22 de marzo de 2024.",
+        "type": "briefing",
+        "nativeType": "ES-comparecencia"
+      },
+      "dateStart": "2024-04-10T13:51:00+02:00",
+      "dateEnd": "2024-04-10T13:59:00+02:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_035/cortes/15_000400_035_1_24830_731570.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1531570I",
+        "duration": 480.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_035_1_24830_731570",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Santiago Abascal Conde",
+          "lastname": "Abascal Conde",
+          "firstname": "Santiago",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario VOX"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 34
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 37
+      },
+      "agendaItem": {
+        "title": "Solicitud de comparecencia, a petición propia, del Presidente del\nGobierno ante el Pleno de la Cámara, para informar del Consejo Europeo\nOrdinario celebrado los días 21 y 22 de marzo de 2024.",
+        "officialTitle": "Solicitud de comparecencia, a petición propia, del Presidente del\nGobierno ante el Pleno de la Cámara, para informar del Consejo Europeo\nOrdinario celebrado los días 21 y 22 de marzo de 2024.",
+        "type": "briefing",
+        "nativeType": "ES-comparecencia"
+      },
+      "dateStart": "2024-04-10T13:59:00+02:00",
+      "dateEnd": "2024-04-10T14:05:00+02:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_035/cortes/15_000400_035_1_24830_731571.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1531571I",
+        "duration": 360.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_035_1_24830_731571",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Íñigo Errejón Galván",
+          "lastname": "Errejón Galván",
+          "firstname": "Íñigo",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Plurinacional SUMAR"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 35
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 37
+      },
+      "agendaItem": {
+        "title": "Solicitud de comparecencia del Presidente del Gobierno ante el Pleno\nde la Cámara, para dar cuenta de cómo se organizó su reciente viaje\noficial a Marruecos, las razones de que no se informase hasta 24 horas\nantes y sobre los asuntos abordados, especialmente, aquellos pendientes\ntras la última XII RAN Marruecos-España y que, a más de un año, no se han\nmaterializado.",
+        "officialTitle": "Solicitud de comparecencia del Presidente del Gobierno ante el Pleno\nde la Cámara, para dar cuenta de cómo se organizó su reciente viaje\noficial a Marruecos, las razones de que no se informase hasta 24 horas\nantes y sobre los asuntos abordados, especialmente, aquellos pendientes\ntras la última XII RAN Marruecos-España y que, a más de un año, no se han\nmaterializado.",
+        "type": "briefing",
+        "nativeType": "ES-comparecencia"
+      },
+      "dateStart": "2024-04-10T13:59:00+02:00",
+      "dateEnd": "2024-04-10T14:05:00+02:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_035/cortes/15_000400_035_1_24830_731571.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1531571I",
+        "duration": 360.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_035_1_24830_731571",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Íñigo Errejón Galván",
+          "lastname": "Errejón Galván",
+          "firstname": "Íñigo",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Plurinacional SUMAR"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 36
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 37
+      },
+      "agendaItem": {
+        "title": "Solicitud de comparecencia, a petición propia, del Presidente del\nGobierno ante el Pleno de la Cámara, para informar del Consejo Europeo\nOrdinario celebrado los días 21 y 22 de marzo de 2024.",
+        "officialTitle": "Solicitud de comparecencia, a petición propia, del Presidente del\nGobierno ante el Pleno de la Cámara, para informar del Consejo Europeo\nOrdinario celebrado los días 21 y 22 de marzo de 2024.",
+        "type": "briefing",
+        "nativeType": "ES-comparecencia"
+      },
+      "dateStart": "2024-04-10T14:05:00+02:00",
+      "dateEnd": "2024-04-10T14:09:00+02:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_035/cortes/15_000400_035_1_24830_731572.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1531572I",
+        "duration": 240.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_035_1_24830_731572",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Gabriel Rufián Romero",
+          "lastname": "Rufián Romero",
+          "firstname": "Gabriel",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Republicano"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 37
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 37
+      },
+      "agendaItem": {
+        "title": "Solicitud de comparecencia del Presidente del Gobierno ante el Pleno\nde la Cámara, para dar cuenta de cómo se organizó su reciente viaje\noficial a Marruecos, las razones de que no se informase hasta 24 horas\nantes y sobre los asuntos abordados, especialmente, aquellos pendientes\ntras la última XII RAN Marruecos-España y que, a más de un año, no se han\nmaterializado.",
+        "officialTitle": "Solicitud de comparecencia del Presidente del Gobierno ante el Pleno\nde la Cámara, para dar cuenta de cómo se organizó su reciente viaje\noficial a Marruecos, las razones de que no se informase hasta 24 horas\nantes y sobre los asuntos abordados, especialmente, aquellos pendientes\ntras la última XII RAN Marruecos-España y que, a más de un año, no se han\nmaterializado.",
+        "type": "briefing",
+        "nativeType": "ES-comparecencia"
+      },
+      "dateStart": "2024-04-10T14:05:00+02:00",
+      "dateEnd": "2024-04-10T14:09:00+02:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_035/cortes/15_000400_035_1_24830_731572.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1531572I",
+        "duration": 240.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_035_1_24830_731572",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Gabriel Rufián Romero",
+          "lastname": "Rufián Romero",
+          "firstname": "Gabriel",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Republicano"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 38
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 37
+      },
+      "agendaItem": {
+        "title": "Solicitud de comparecencia, a petición propia, del Presidente del\nGobierno ante el Pleno de la Cámara, para informar del Consejo Europeo\nOrdinario celebrado los días 21 y 22 de marzo de 2024.",
+        "officialTitle": "Solicitud de comparecencia, a petición propia, del Presidente del\nGobierno ante el Pleno de la Cámara, para informar del Consejo Europeo\nOrdinario celebrado los días 21 y 22 de marzo de 2024.",
+        "type": "briefing",
+        "nativeType": "ES-comparecencia"
+      },
+      "dateStart": "2024-04-10T14:09:00+02:00",
+      "dateEnd": "2024-04-10T14:16:00+02:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_035/cortes/15_000400_035_1_24830_731573.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1531573I",
+        "duration": 420.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_035_1_24830_731573",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Míriam Nogueras i Camero",
+          "lastname": "Nogueras i Camero",
+          "firstname": "Míriam",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Junts per Catalunya"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 39
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 37
+      },
+      "agendaItem": {
+        "title": "Solicitud de comparecencia del Presidente del Gobierno ante el Pleno\nde la Cámara, para dar cuenta de cómo se organizó su reciente viaje\noficial a Marruecos, las razones de que no se informase hasta 24 horas\nantes y sobre los asuntos abordados, especialmente, aquellos pendientes\ntras la última XII RAN Marruecos-España y que, a más de un año, no se han\nmaterializado.",
+        "officialTitle": "Solicitud de comparecencia del Presidente del Gobierno ante el Pleno\nde la Cámara, para dar cuenta de cómo se organizó su reciente viaje\noficial a Marruecos, las razones de que no se informase hasta 24 horas\nantes y sobre los asuntos abordados, especialmente, aquellos pendientes\ntras la última XII RAN Marruecos-España y que, a más de un año, no se han\nmaterializado.",
+        "type": "briefing",
+        "nativeType": "ES-comparecencia"
+      },
+      "dateStart": "2024-04-10T14:09:00+02:00",
+      "dateEnd": "2024-04-10T14:16:00+02:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_035/cortes/15_000400_035_1_24830_731573.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1531573I",
+        "duration": 420.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_035_1_24830_731573",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Míriam Nogueras i Camero",
+          "lastname": "Nogueras i Camero",
+          "firstname": "Míriam",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Junts per Catalunya"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 40
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 37
+      },
+      "agendaItem": {
+        "title": "Solicitud de comparecencia, a petición propia, del Presidente del\nGobierno ante el Pleno de la Cámara, para informar del Consejo Europeo\nOrdinario celebrado los días 21 y 22 de marzo de 2024.",
+        "officialTitle": "Solicitud de comparecencia, a petición propia, del Presidente del\nGobierno ante el Pleno de la Cámara, para informar del Consejo Europeo\nOrdinario celebrado los días 21 y 22 de marzo de 2024.",
+        "type": "briefing",
+        "nativeType": "ES-comparecencia"
+      },
+      "dateStart": "2024-04-10T14:16:00+02:00",
+      "dateEnd": "2024-04-10T14:22:00+02:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_035/cortes/15_000400_035_1_24830_731574.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1531574I",
+        "duration": 360.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_035_1_24830_731574",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Oskar Matute García de Jalón",
+          "lastname": "Matute García de Jalón",
+          "firstname": "Oskar",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Euskal Herria Bildu"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 41
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 37
+      },
+      "agendaItem": {
+        "title": "Solicitud de comparecencia del Presidente del Gobierno ante el Pleno\nde la Cámara, para dar cuenta de cómo se organizó su reciente viaje\noficial a Marruecos, las razones de que no se informase hasta 24 horas\nantes y sobre los asuntos abordados, especialmente, aquellos pendientes\ntras la última XII RAN Marruecos-España y que, a más de un año, no se han\nmaterializado.",
+        "officialTitle": "Solicitud de comparecencia del Presidente del Gobierno ante el Pleno\nde la Cámara, para dar cuenta de cómo se organizó su reciente viaje\noficial a Marruecos, las razones de que no se informase hasta 24 horas\nantes y sobre los asuntos abordados, especialmente, aquellos pendientes\ntras la última XII RAN Marruecos-España y que, a más de un año, no se han\nmaterializado.",
+        "type": "briefing",
+        "nativeType": "ES-comparecencia"
+      },
+      "dateStart": "2024-04-10T14:16:00+02:00",
+      "dateEnd": "2024-04-10T14:22:00+02:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_035/cortes/15_000400_035_1_24830_731574.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1531574I",
+        "duration": 360.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_035_1_24830_731574",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Oskar Matute García de Jalón",
+          "lastname": "Matute García de Jalón",
+          "firstname": "Oskar",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Euskal Herria Bildu"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 42
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 37
+      },
+      "agendaItem": {
+        "title": "Solicitud de comparecencia, a petición propia, del Presidente del\nGobierno ante el Pleno de la Cámara, para informar del Consejo Europeo\nOrdinario celebrado los días 21 y 22 de marzo de 2024.",
+        "officialTitle": "Solicitud de comparecencia, a petición propia, del Presidente del\nGobierno ante el Pleno de la Cámara, para informar del Consejo Europeo\nOrdinario celebrado los días 21 y 22 de marzo de 2024.",
+        "type": "briefing",
+        "nativeType": "ES-comparecencia"
+      },
+      "dateStart": "2024-04-10T14:22:00+02:00",
+      "dateEnd": "2024-04-10T14:25:00+02:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_035/cortes/15_000400_035_1_24830_731576.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1531576I",
+        "duration": 180.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_035_1_24830_731576",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Pedro Sánchez Pérez-Castejón",
+          "lastname": "Sánchez Pérez-Castejón",
+          "firstname": "Pedro",
+          "type": "member of government",
+          "role": "Presidente del Gobierno",
+          "faction": {
+            "label": "Grupo Parlamentario Socialista"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 43
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 37
+      },
+      "agendaItem": {
+        "title": "Solicitud de comparecencia del Presidente del Gobierno ante el Pleno\nde la Cámara, para dar cuenta de cómo se organizó su reciente viaje\noficial a Marruecos, las razones de que no se informase hasta 24 horas\nantes y sobre los asuntos abordados, especialmente, aquellos pendientes\ntras la última XII RAN Marruecos-España y que, a más de un año, no se han\nmaterializado.",
+        "officialTitle": "Solicitud de comparecencia del Presidente del Gobierno ante el Pleno\nde la Cámara, para dar cuenta de cómo se organizó su reciente viaje\noficial a Marruecos, las razones de que no se informase hasta 24 horas\nantes y sobre los asuntos abordados, especialmente, aquellos pendientes\ntras la última XII RAN Marruecos-España y que, a más de un año, no se han\nmaterializado.",
+        "type": "briefing",
+        "nativeType": "ES-comparecencia"
+      },
+      "dateStart": "2024-04-10T14:22:00+02:00",
+      "dateEnd": "2024-04-10T14:25:00+02:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_035/cortes/15_000400_035_1_24830_731576.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1531576I",
+        "duration": 180.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_035_1_24830_731576",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Pedro Sánchez Pérez-Castejón",
+          "lastname": "Sánchez Pérez-Castejón",
+          "firstname": "Pedro",
+          "type": "member of government",
+          "role": "Presidente del Gobierno",
+          "faction": {
+            "label": "Grupo Parlamentario Socialista"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 44
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 37
+      },
+      "agendaItem": {
+        "title": "¿Su presidencia se debe exclusivamente a los intereses generales de\nlos españoles?",
+        "officialTitle": "¿Su presidencia se debe exclusivamente a los intereses generales de\nlos españoles?",
+        "type": "qa",
+        "nativeType": "ES-pregunta"
+      },
+      "dateStart": "2024-04-10T14:25:00+02:00",
+      "dateEnd": "2024-04-10T14:27:00+02:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_035/cortes/15_000400_035_1_24830_731579.mp4\nhttps://www.congreso.es/audiovisual/video/leg15/400/15_000400_035/cortes/15_000400_035_1_24830_731581.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1531579I https://app.congreso.es/v1/15731581I",
+        "duration": 120.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_035_1_24830_731581",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Alberto Núñez Feijóo",
+          "lastname": "Núñez Feijóo",
+          "firstname": "Alberto",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Popular en el Congreso"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 45
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 37
+      },
+      "agendaItem": {
+        "title": "¿Su presidencia se debe exclusivamente a los intereses generales de\nlos españoles?",
+        "officialTitle": "¿Su presidencia se debe exclusivamente a los intereses generales de\nlos españoles?",
+        "type": "qa",
+        "nativeType": "ES-pregunta"
+      },
+      "dateStart": "2024-04-10T14:27:00+02:00",
+      "dateEnd": "2024-04-10T14:28:00+02:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_035/cortes/15_000400_035_1_24830_731580.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1531580I",
+        "duration": 60.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_035_1_24830_731580",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Pedro Sánchez Pérez-Castejón",
+          "lastname": "Sánchez Pérez-Castejón",
+          "firstname": "Pedro",
+          "type": "member of government",
+          "role": "Presidente del Gobierno",
+          "faction": {
+            "label": "Grupo Parlamentario Socialista"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 46
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 37
+      },
+      "agendaItem": {
+        "title": "¿Su presidencia se debe exclusivamente a los intereses generales de\nlos españoles?",
+        "officialTitle": "¿Su presidencia se debe exclusivamente a los intereses generales de\nlos españoles?",
+        "type": "qa",
+        "nativeType": "ES-pregunta"
+      },
+      "dateStart": "2024-04-10T14:29:00+02:00",
+      "dateEnd": "2024-04-10T14:31:00+02:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_035/cortes/15_000400_035_1_24830_731582.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1531582I",
+        "duration": 120.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_035_1_24830_731582",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Pedro Sánchez Pérez-Castejón",
+          "lastname": "Sánchez Pérez-Castejón",
+          "firstname": "Pedro",
+          "type": "member of government",
+          "role": "Presidente del Gobierno",
+          "faction": {
+            "label": "Grupo Parlamentario Socialista"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 47
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 37
+      },
+      "agendaItem": {
+        "title": "¿Va el Gobierno a hacer frente a su responsabilidad y a ejercer las\ncompetencias que le corresponden en el itinerario de las y los menores no\nacompañados?",
+        "officialTitle": "¿Va el Gobierno a hacer frente a su responsabilidad y a ejercer las\ncompetencias que le corresponden en el itinerario de las y los menores no\nacompañados?",
+        "type": "qa",
+        "nativeType": "ES-pregunta"
+      },
+      "dateStart": "2024-04-10T14:31:00+02:00",
+      "dateEnd": "2024-04-10T14:33:00+02:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_035/cortes/15_000400_035_1_24830_731584.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1531584I",
+        "duration": 120.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_035_1_24830_731584",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Aitor Esteban Bravo",
+          "lastname": "Esteban Bravo",
+          "firstname": "Aitor",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Vasco (EAJ-PNV)"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 48
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 37
+      },
+      "agendaItem": {
+        "title": "¿Va el Gobierno a hacer frente a su responsabilidad y a ejercer las\ncompetencias que le corresponden en el itinerario de las y los menores no\nacompañados?",
+        "officialTitle": "¿Va el Gobierno a hacer frente a su responsabilidad y a ejercer las\ncompetencias que le corresponden en el itinerario de las y los menores no\nacompañados?",
+        "type": "qa",
+        "nativeType": "ES-pregunta"
+      },
+      "dateStart": "2024-04-10T14:33:00+02:00",
+      "dateEnd": "2024-04-10T14:34:00+02:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_035/cortes/15_000400_035_1_24830_731585.mp4\nhttps://www.congreso.es/audiovisual/video/leg15/400/15_000400_035/cortes/15_000400_035_1_24830_731587.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1531585I https://app.congreso.es/v1/15731587I",
+        "duration": 60.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_035_1_24830_731587",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Pedro Sánchez Pérez-Castejón",
+          "lastname": "Sánchez Pérez-Castejón",
+          "firstname": "Pedro",
+          "type": "member of government",
+          "role": "Presidente del Gobierno",
+          "faction": {
+            "label": "Grupo Parlamentario Socialista"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 49
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 37
+      },
+      "agendaItem": {
+        "title": "¿Va el Gobierno a hacer frente a su responsabilidad y a ejercer las\ncompetencias que le corresponden en el itinerario de las y los menores no\nacompañados?",
+        "officialTitle": "¿Va el Gobierno a hacer frente a su responsabilidad y a ejercer las\ncompetencias que le corresponden en el itinerario de las y los menores no\nacompañados?",
+        "type": "qa",
+        "nativeType": "ES-pregunta"
+      },
+      "dateStart": "2024-04-10T14:34:00+02:00",
+      "dateEnd": "2024-04-10T14:35:00+02:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_035/cortes/15_000400_035_1_24830_731586.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1531586I",
+        "duration": 60.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_035_1_24830_731586",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Aitor Esteban Bravo",
+          "lastname": "Esteban Bravo",
+          "firstname": "Aitor",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Vasco (EAJ-PNV)"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 50
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 37
+      },
+      "agendaItem": {
+        "title": "¿Considera que con sus socios de gobierno se puede hacer frente a los\nretos de futuro de Navarra y España?",
+        "officialTitle": "¿Considera que con sus socios de gobierno se puede hacer frente a los\nretos de futuro de Navarra y España?",
+        "type": "qa",
+        "nativeType": "ES-pregunta"
+      },
+      "dateStart": "2024-04-10T14:36:00+02:00",
+      "dateEnd": "2024-04-10T14:38:00+02:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_035/cortes/15_000400_035_1_24830_731589.mp4\nhttps://www.congreso.es/audiovisual/video/leg15/400/15_000400_035/cortes/15_000400_035_1_24830_731591.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1531589I https://app.congreso.es/v1/15731591I",
+        "duration": 120.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_035_1_24830_731591",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Alberto Catalán Higueras",
+          "lastname": "Catalán Higueras",
+          "firstname": "Alberto",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Mixto"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 51
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 37
+      },
+      "agendaItem": {
+        "title": "¿Considera que con sus socios de gobierno se puede hacer frente a los\nretos de futuro de Navarra y España?",
+        "officialTitle": "¿Considera que con sus socios de gobierno se puede hacer frente a los\nretos de futuro de Navarra y España?",
+        "type": "qa",
+        "nativeType": "ES-pregunta"
+      },
+      "dateStart": "2024-04-10T14:38:00+02:00",
+      "dateEnd": "2024-04-10T14:39:00+02:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_035/cortes/15_000400_035_1_24830_731590.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1531590I",
+        "duration": 60.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_035_1_24830_731590",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Pedro Sánchez Pérez-Castejón",
+          "lastname": "Sánchez Pérez-Castejón",
+          "firstname": "Pedro",
+          "type": "member of government",
+          "role": "Presidente del Gobierno",
+          "faction": {
+            "label": "Grupo Parlamentario Socialista"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 52
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 37
+      },
+      "agendaItem": {
+        "title": "¿Considera que con sus socios de gobierno se puede hacer frente a los\nretos de futuro de Navarra y España?",
+        "officialTitle": "¿Considera que con sus socios de gobierno se puede hacer frente a los\nretos de futuro de Navarra y España?",
+        "type": "qa",
+        "nativeType": "ES-pregunta"
+      },
+      "dateStart": "2024-04-10T14:41:00+02:00",
+      "dateEnd": "2024-04-10T14:42:00+02:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_035/cortes/15_000400_035_1_24830_731592.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1531592I",
+        "duration": 60.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_035_1_24830_731592",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Pedro Sánchez Pérez-Castejón",
+          "lastname": "Sánchez Pérez-Castejón",
+          "firstname": "Pedro",
+          "type": "member of government",
+          "role": "Presidente del Gobierno",
+          "faction": {
+            "label": "Grupo Parlamentario Socialista"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 53
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 37
+      },
+      "agendaItem": {
+        "title": "¿Va a seguir subiendo el Gobierno los impuestos?",
+        "officialTitle": "¿Va a seguir subiendo el Gobierno los impuestos?",
+        "type": "qa",
+        "nativeType": "ES-pregunta"
+      },
+      "dateStart": "2024-04-10T14:42:00+02:00",
+      "dateEnd": "2024-04-10T14:43:00+02:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_035/cortes/15_000400_035_1_24830_731594.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1531594I",
+        "duration": 60.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_035_1_24830_731594",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Concepción Gamarra Ruiz-Clavijo",
+          "lastname": "Gamarra Ruiz-Clavijo",
+          "firstname": "Concepción",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Popular en el Congreso"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 54
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 37
+      },
+      "agendaItem": {
+        "title": "¿Va a seguir subiendo el Gobierno los impuestos?",
+        "officialTitle": "¿Va a seguir subiendo el Gobierno los impuestos?",
+        "type": "qa",
+        "nativeType": "ES-pregunta"
+      },
+      "dateStart": "2024-04-10T14:43:00+02:00",
+      "dateEnd": "2024-04-10T14:45:00+02:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_035/cortes/15_000400_035_1_24830_731595.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1531595I",
+        "duration": 120.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_035_1_24830_731595",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "María Jesús Montero Cuadrado",
+          "lastname": "Montero Cuadrado",
+          "firstname": "María Jesús",
+          "type": "member of government",
+          "role": "Vicepresidenta Primera del Gobierno y Ministra de Hacienda",
+          "faction": {
+            "label": "Grupo Parlamentario Socialista"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 55
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 37
+      },
+      "agendaItem": {
+        "title": "¿Va a seguir subiendo el Gobierno los impuestos?",
+        "officialTitle": "¿Va a seguir subiendo el Gobierno los impuestos?",
+        "type": "qa",
+        "nativeType": "ES-pregunta"
+      },
+      "dateStart": "2024-04-10T14:45:00+02:00",
+      "dateEnd": "2024-04-10T14:47:00+02:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_035/cortes/15_000400_035_1_24830_731596.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1531596I",
+        "duration": 120.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_035_1_24830_731596",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Concepción Gamarra Ruiz-Clavijo",
+          "lastname": "Gamarra Ruiz-Clavijo",
+          "firstname": "Concepción",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Popular en el Congreso"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 56
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 37
+      },
+      "agendaItem": {
+        "title": "¿Va a seguir subiendo el Gobierno los impuestos?",
+        "officialTitle": "¿Va a seguir subiendo el Gobierno los impuestos?",
+        "type": "qa",
+        "nativeType": "ES-pregunta"
+      },
+      "dateStart": "2024-04-10T14:47:00+02:00",
+      "dateEnd": "2024-04-10T14:48:00+02:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_035/cortes/15_000400_035_1_24830_731597.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1531597I",
+        "duration": 60.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_035_1_24830_731597",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "María Jesús Montero Cuadrado",
+          "lastname": "Montero Cuadrado",
+          "firstname": "María Jesús",
+          "type": "member of government",
+          "role": "Vicepresidenta Primera del Gobierno y Ministra de Hacienda",
+          "faction": {
+            "label": "Grupo Parlamentario Socialista"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 57
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 37
+      },
+      "agendaItem": {
+        "title": "¿Qué previsión tiene el Gobierno para la Campaña de la Renta 2023?",
+        "officialTitle": "¿Qué previsión tiene el Gobierno para la Campaña de la Renta 2023?",
+        "type": "qa",
+        "nativeType": "ES-pregunta"
+      },
+      "dateStart": "2024-04-10T14:48:00+02:00",
+      "dateEnd": "2024-04-10T14:50:00+02:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_035/cortes/15_000400_035_1_24830_731599.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1531599I",
+        "duration": 120.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_035_1_24830_731599",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Miguel Tellado Filgueira",
+          "lastname": "Tellado Filgueira",
+          "firstname": "Miguel",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Popular en el Congreso"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 58
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 37
+      },
+      "agendaItem": {
+        "title": "¿Qué previsión tiene el Gobierno para la Campaña de la Renta 2023?",
+        "officialTitle": "¿Qué previsión tiene el Gobierno para la Campaña de la Renta 2023?",
+        "type": "qa",
+        "nativeType": "ES-pregunta"
+      },
+      "dateStart": "2024-04-10T14:50:00+02:00",
+      "dateEnd": "2024-04-10T14:51:00+02:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_035/cortes/15_000400_035_1_24830_731600.mp4\nhttps://www.congreso.es/audiovisual/video/leg15/400/15_000400_035/cortes/15_000400_035_1_24830_731602.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1531600I https://app.congreso.es/v1/15731602I",
+        "duration": 60.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_035_1_24830_731602",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "María Jesús Montero Cuadrado",
+          "lastname": "Montero Cuadrado",
+          "firstname": "María Jesús",
+          "type": "member of government",
+          "role": "Vicepresidenta Primera del Gobierno y Ministra de Hacienda",
+          "faction": {
+            "label": "Grupo Parlamentario Socialista"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 59
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 37
+      },
+      "agendaItem": {
+        "title": "¿Qué previsión tiene el Gobierno para la Campaña de la Renta 2023?",
+        "officialTitle": "¿Qué previsión tiene el Gobierno para la Campaña de la Renta 2023?",
+        "type": "qa",
+        "nativeType": "ES-pregunta"
+      },
+      "dateStart": "2024-04-10T14:51:00+02:00",
+      "dateEnd": "2024-04-10T14:53:00+02:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_035/cortes/15_000400_035_1_24830_731601.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1531601I",
+        "duration": 120.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_035_1_24830_731601",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Miguel Tellado Filgueira",
+          "lastname": "Tellado Filgueira",
+          "firstname": "Miguel",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Popular en el Congreso"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 60
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 37
+      },
+      "agendaItem": {
+        "title": "¿Qué estrategia fiscal va a llevar a cabo el Gobierno ante la falta\nde presupuestos?",
+        "officialTitle": "¿Qué estrategia fiscal va a llevar a cabo el Gobierno ante la falta\nde presupuestos?",
+        "type": "qa",
+        "nativeType": "ES-pregunta"
+      },
+      "dateStart": "2024-04-10T14:54:00+02:00",
+      "dateEnd": "2024-04-10T14:55:00+02:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_035/cortes/15_000400_035_2_24840_731832.mp4\nhttps://www.congreso.es/audiovisual/video/leg15/400/15_000400_035/cortes/15_000400_035_2_24840_731834.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1531832I https://app.congreso.es/v1/15731834I",
+        "duration": 60.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_035_2_24840_731834",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "José María Figaredo Álvarez-Sala",
+          "lastname": "Figaredo Álvarez-Sala",
+          "firstname": "José María",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario VOX"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 61
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 37
+      },
+      "agendaItem": {
+        "title": "¿Qué estrategia fiscal va a llevar a cabo el Gobierno ante la falta\nde presupuestos?",
+        "officialTitle": "¿Qué estrategia fiscal va a llevar a cabo el Gobierno ante la falta\nde presupuestos?",
+        "type": "qa",
+        "nativeType": "ES-pregunta"
+      },
+      "dateStart": "2024-04-10T14:55:00+02:00",
+      "dateEnd": "2024-04-10T14:56:00+02:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_035/cortes/15_000400_035_2_24840_731833.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1531833I",
+        "duration": 60.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_035_2_24840_731833",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "María Jesús Montero Cuadrado",
+          "lastname": "Montero Cuadrado",
+          "firstname": "María Jesús",
+          "type": "member of government",
+          "role": "Vicepresidenta Primera del Gobierno y Ministra de Hacienda",
+          "faction": {
+            "label": "Grupo Parlamentario Socialista"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 62
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 37
+      },
+      "agendaItem": {
+        "title": "¿Qué estrategia fiscal va a llevar a cabo el Gobierno ante la falta\nde presupuestos?",
+        "officialTitle": "¿Qué estrategia fiscal va a llevar a cabo el Gobierno ante la falta\nde presupuestos?",
+        "type": "qa",
+        "nativeType": "ES-pregunta"
+      },
+      "dateStart": "2024-04-10T14:58:00+02:00",
+      "dateEnd": "2024-04-10T15:00:00+02:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_035/cortes/15_000400_035_2_24840_731835.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1531835I",
+        "duration": 120.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_035_2_24840_731835",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "María Jesús Montero Cuadrado",
+          "lastname": "Montero Cuadrado",
+          "firstname": "María Jesús",
+          "type": "member of government",
+          "role": "Vicepresidenta Primera del Gobierno y Ministra de Hacienda",
+          "faction": {
+            "label": "Grupo Parlamentario Socialista"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 63
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 37
+      },
+      "agendaItem": {
+        "title": "¿Qué está haciendo el Gobierno para paliar los efectos de la sequía\nen Cataluña?",
+        "officialTitle": "¿Qué está haciendo el Gobierno para paliar los efectos de la sequía\nen Cataluña?",
+        "type": "qa",
+        "nativeType": "ES-pregunta"
+      },
+      "dateStart": "2024-04-10T15:00:00+02:00",
+      "dateEnd": "2024-04-10T15:02:00+02:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_035/cortes/15_000400_035_2_24840_731837.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1531837I",
+        "duration": 120.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_035_2_24840_731837",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Santi Rodríguez Serra",
+          "lastname": "Rodríguez Serra",
+          "firstname": "Santi",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Popular en el Congreso"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 64
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 37
+      },
+      "agendaItem": {
+        "title": "¿Qué está haciendo el Gobierno para paliar los efectos de la sequía\nen Cataluña?",
+        "officialTitle": "¿Qué está haciendo el Gobierno para paliar los efectos de la sequía\nen Cataluña?",
+        "type": "qa",
+        "nativeType": "ES-pregunta"
+      },
+      "dateStart": "2024-04-10T15:02:00+02:00",
+      "dateEnd": "2024-04-10T15:04:00+02:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_035/cortes/15_000400_035_2_24840_731839.mp4\nhttps://www.congreso.es/audiovisual/video/leg15/400/15_000400_035/cortes/15_000400_035_2_24840_731841.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1531839I https://app.congreso.es/v1/15731841I",
+        "duration": 120.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_035_2_24840_731841",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Teresa Ribera Rodríguez",
+          "lastname": "Ribera Rodríguez",
+          "firstname": "Teresa",
+          "type": "member of government",
+          "role": "Vicepresidenta Tercera y Ministra para la Transición Ecológica y el\nReto Demográfico"
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 65
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 37
+      },
+      "agendaItem": {
+        "title": "¿Qué está haciendo el Gobierno para paliar los efectos de la sequía\nen Cataluña?",
+        "officialTitle": "¿Qué está haciendo el Gobierno para paliar los efectos de la sequía\nen Cataluña?",
+        "type": "qa",
+        "nativeType": "ES-pregunta"
+      },
+      "dateStart": "2024-04-10T15:04:00+02:00",
+      "dateEnd": "2024-04-10T15:05:00+02:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_035/cortes/15_000400_035_2_24840_731840.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1531840I",
+        "duration": 60.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_035_2_24840_731840",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Santi Rodríguez Serra",
+          "lastname": "Rodríguez Serra",
+          "firstname": "Santi",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Popular en el Congreso"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 66
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 37
+      },
+      "agendaItem": {
+        "title": "¿Cuál es el conflicto entre España y Cataluña?",
+        "officialTitle": "¿Cuál es el conflicto entre España y Cataluña?",
+        "type": "qa",
+        "nativeType": "ES-pregunta"
+      },
+      "dateStart": "2024-04-10T15:06:00+02:00",
+      "dateEnd": "2024-04-10T15:06:00+02:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_035/cortes/15_000400_035_2_24840_731843.mp4\nhttps://www.congreso.es/audiovisual/video/leg15/400/15_000400_035/cortes/15_000400_035_2_24840_731845.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1531843I https://app.congreso.es/v1/15731845I",
+        "duration": 0.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_035_2_24840_731845",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Cayetana Álvarez de Toledo Peralta-Ramos",
+          "lastname": "Álvarez de Toledo Peralta-Ramos",
+          "firstname": "Cayetana",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Popular en el Congreso"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 67
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 37
+      },
+      "agendaItem": {
+        "title": "¿Cuál es el conflicto entre España y Cataluña?",
+        "officialTitle": "¿Cuál es el conflicto entre España y Cataluña?",
+        "type": "qa",
+        "nativeType": "ES-pregunta"
+      },
+      "dateStart": "2024-04-10T15:06:00+02:00",
+      "dateEnd": "2024-04-10T15:08:00+02:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_035/cortes/15_000400_035_2_24840_731844.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1531844I",
+        "duration": 120.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_035_2_24840_731844",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Félix Bolaños García",
+          "lastname": "Bolaños García",
+          "firstname": "Félix",
+          "type": "member of government",
+          "role": "Ministro de la Presidencia, Justicia y Relaciones con las Cortes",
+          "faction": {
+            "label": "Grupo Parlamentario Socialista"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 68
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 37
+      },
+      "agendaItem": {
+        "title": "¿Cuál es el conflicto entre España y Cataluña?",
+        "officialTitle": "¿Cuál es el conflicto entre España y Cataluña?",
+        "type": "qa",
+        "nativeType": "ES-pregunta"
+      },
+      "dateStart": "2024-04-10T15:11:00+02:00",
+      "dateEnd": "2024-04-10T15:12:00+02:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_035/cortes/15_000400_035_2_24840_731846.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1531846I",
+        "duration": 60.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_035_2_24840_731846",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Félix Bolaños García",
+          "lastname": "Bolaños García",
+          "firstname": "Félix",
+          "type": "member of government",
+          "role": "Ministro de la Presidencia, Justicia y Relaciones con las Cortes",
+          "faction": {
+            "label": "Grupo Parlamentario Socialista"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 69
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 37
+      },
+      "agendaItem": {
+        "title": "¿Va a explicar el Gobierno el papel de Begoña Gómez en los contratos\npúblicos?",
+        "officialTitle": "¿Va a explicar el Gobierno el papel de Begoña Gómez en los contratos\npúblicos?",
+        "type": "qa",
+        "nativeType": "ES-pregunta"
+      },
+      "dateStart": "2024-04-10T15:12:00+02:00",
+      "dateEnd": "2024-04-10T15:12:00+02:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_035/cortes/15_000400_035_2_24840_731851.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1531851I",
+        "duration": 0.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_035_2_24840_731851",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "María José Rodríguez de Millán Parro",
+          "lastname": "Rodríguez de Millán Parro",
+          "firstname": "María José",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario VOX"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 70
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 37
+      },
+      "agendaItem": {
+        "title": "¿Va a explicar el Gobierno el papel de Begoña Gómez en los contratos\npúblicos?",
+        "officialTitle": "¿Va a explicar el Gobierno el papel de Begoña Gómez en los contratos\npúblicos?",
+        "type": "qa",
+        "nativeType": "ES-pregunta"
+      },
+      "dateStart": "2024-04-10T15:12:00+02:00",
+      "dateEnd": "2024-04-10T15:14:00+02:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_035/cortes/15_000400_035_2_24840_731852.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1531852I",
+        "duration": 120.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_035_2_24840_731852",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Félix Bolaños García",
+          "lastname": "Bolaños García",
+          "firstname": "Félix",
+          "type": "member of government",
+          "role": "Ministro de la Presidencia, Justicia y Relaciones con las Cortes",
+          "faction": {
+            "label": "Grupo Parlamentario Socialista"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 71
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 37
+      },
+      "agendaItem": {
+        "title": "¿Va a explicar el Gobierno el papel de Begoña Gómez en los contratos\npúblicos?",
+        "officialTitle": "¿Va a explicar el Gobierno el papel de Begoña Gómez en los contratos\npúblicos?",
+        "type": "qa",
+        "nativeType": "ES-pregunta"
+      },
+      "dateStart": "2024-04-10T15:14:00+02:00",
+      "dateEnd": "2024-04-10T15:17:00+02:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_035/cortes/15_000400_035_3_24846_731849.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1531849I",
+        "duration": 180.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_035_3_24846_731849",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "María José Rodríguez de Millán Parro",
+          "lastname": "Rodríguez de Millán Parro",
+          "firstname": "María José",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario VOX"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 72
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 37
+      },
+      "agendaItem": {
+        "title": "¿Va a explicar el Gobierno el papel de Begoña Gómez en los contratos\npúblicos?",
+        "officialTitle": "¿Va a explicar el Gobierno el papel de Begoña Gómez en los contratos\npúblicos?",
+        "type": "qa",
+        "nativeType": "ES-pregunta"
+      },
+      "dateStart": "2024-04-10T15:17:00+02:00",
+      "dateEnd": "2024-04-10T15:18:00+02:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_035/cortes/15_000400_035_3_24846_731853.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1531853I",
+        "duration": 60.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_035_3_24846_731853",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Félix Bolaños García",
+          "lastname": "Bolaños García",
+          "firstname": "Félix",
+          "type": "member of government",
+          "role": "Ministro de la Presidencia, Justicia y Relaciones con las Cortes",
+          "faction": {
+            "label": "Grupo Parlamentario Socialista"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 73
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 37
+      },
+      "agendaItem": {
+        "title": "¿Cómo está afectando el caso Ábalos a la imagen del Gobierno y de su\nMinisterio?",
+        "officialTitle": "¿Cómo está afectando el caso Ábalos a la imagen del Gobierno y de su\nMinisterio?",
+        "type": "qa",
+        "nativeType": "ES-pregunta"
+      },
+      "dateStart": "2024-04-10T15:18:00+02:00",
+      "dateEnd": "2024-04-10T15:19:00+02:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_035/cortes/15_000400_035_3_24846_731856.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1531856I",
+        "duration": 60.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_035_3_24846_731856",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Elías Bendodo Benasayag",
+          "lastname": "Bendodo Benasayag",
+          "firstname": "Elías",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Popular en el Congreso"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 74
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 37
+      },
+      "agendaItem": {
+        "title": "¿Cómo está afectando el caso Ábalos a la imagen del Gobierno y de su\nMinisterio?",
+        "officialTitle": "¿Cómo está afectando el caso Ábalos a la imagen del Gobierno y de su\nMinisterio?",
+        "type": "qa",
+        "nativeType": "ES-pregunta"
+      },
+      "dateStart": "2024-04-10T15:19:00+02:00",
+      "dateEnd": "2024-04-10T15:21:00+02:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_035/cortes/15_000400_035_3_24846_731857.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1531857I",
+        "duration": 120.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_035_3_24846_731857",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Margarita Robles Fernández",
+          "lastname": "Robles Fernández",
+          "firstname": "Margarita",
+          "type": "member of government",
+          "role": "Ministra de Defensa"
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 75
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 37
+      },
+      "agendaItem": {
+        "title": "¿Cómo está afectando el caso Ábalos a la imagen del Gobierno y de su\nMinisterio?",
+        "officialTitle": "¿Cómo está afectando el caso Ábalos a la imagen del Gobierno y de su\nMinisterio?",
+        "type": "qa",
+        "nativeType": "ES-pregunta"
+      },
+      "dateStart": "2024-04-10T15:21:00+02:00",
+      "dateEnd": "2024-04-10T15:22:00+02:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_035/cortes/15_000400_035_3_24846_731858.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1531858I",
+        "duration": 60.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_035_3_24846_731858",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Elías Bendodo Benasayag",
+          "lastname": "Bendodo Benasayag",
+          "firstname": "Elías",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Popular en el Congreso"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 76
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 37
+      },
+      "agendaItem": {
+        "title": "¿Cómo está afectando el caso Ábalos a la imagen del Gobierno y de su\nMinisterio?",
+        "officialTitle": "¿Cómo está afectando el caso Ábalos a la imagen del Gobierno y de su\nMinisterio?",
+        "type": "qa",
+        "nativeType": "ES-pregunta"
+      },
+      "dateStart": "2024-04-10T15:22:00+02:00",
+      "dateEnd": "2024-04-10T15:24:00+02:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_035/cortes/15_000400_035_3_24846_731859.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1531859I",
+        "duration": 120.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_035_3_24846_731859",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Margarita Robles Fernández",
+          "lastname": "Robles Fernández",
+          "firstname": "Margarita",
+          "type": "member of government",
+          "role": "Ministra de Defensa"
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 77
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 37
+      },
+      "agendaItem": {
+        "title": "¿Qué valoración hace de los medios de los que dispone el Gobierno\nVasco para hacer frente al incremento de la delincuencia?",
+        "officialTitle": "¿Qué valoración hace de los medios de los que dispone el Gobierno\nVasco para hacer frente al incremento de la delincuencia?",
+        "type": "qa",
+        "nativeType": "ES-pregunta"
+      },
+      "dateStart": "2024-04-10T15:24:00+02:00",
+      "dateEnd": "2024-04-10T15:25:00+02:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_035/cortes/15_000400_035_3_24846_731861.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1531861I",
+        "duration": 60.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_035_3_24846_731861",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Beatriz Álvarez Fanjul",
+          "lastname": "Álvarez Fanjul",
+          "firstname": "Beatriz",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Popular en el Congreso"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 78
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 37
+      },
+      "agendaItem": {
+        "title": "¿Qué valoración hace de los medios de los que dispone el Gobierno\nVasco para hacer frente al incremento de la delincuencia?",
+        "officialTitle": "¿Qué valoración hace de los medios de los que dispone el Gobierno\nVasco para hacer frente al incremento de la delincuencia?",
+        "type": "qa",
+        "nativeType": "ES-pregunta"
+      },
+      "dateStart": "2024-04-10T15:25:00+02:00",
+      "dateEnd": "2024-04-10T15:26:00+02:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_035/cortes/15_000400_035_3_24846_731862.mp4\nhttps://www.congreso.es/audiovisual/video/leg15/400/15_000400_035/cortes/15_000400_035_3_24846_731864.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1531862I https://app.congreso.es/v1/15731864I",
+        "duration": 60.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_035_3_24846_731864",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Fernando Grande-Marlaska Gómez",
+          "lastname": "Grande-Marlaska Gómez",
+          "firstname": "Fernando",
+          "type": "member of government",
+          "role": "Ministro del Interior"
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 79
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 37
+      },
+      "agendaItem": {
+        "title": "¿Qué valoración hace de los medios de los que dispone el Gobierno\nVasco para hacer frente al incremento de la delincuencia?",
+        "officialTitle": "¿Qué valoración hace de los medios de los que dispone el Gobierno\nVasco para hacer frente al incremento de la delincuencia?",
+        "type": "qa",
+        "nativeType": "ES-pregunta"
+      },
+      "dateStart": "2024-04-10T15:26:00+02:00",
+      "dateEnd": "2024-04-10T15:28:00+02:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_035/cortes/15_000400_035_3_24846_731863.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1531863I",
+        "duration": 120.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_035_3_24846_731863",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Beatriz Álvarez Fanjul",
+          "lastname": "Álvarez Fanjul",
+          "firstname": "Beatriz",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Popular en el Congreso"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 80
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 37
+      },
+      "agendaItem": {
+        "title": "¿Cómo justifica el Gobierno su reiterada inacción respecto a las\nlistas de espera para examinarse del carné de conducir en Cataluña?",
+        "officialTitle": "¿Cómo justifica el Gobierno su reiterada inacción respecto a las\nlistas de espera para examinarse del carné de conducir en Cataluña?",
+        "type": "qa",
+        "nativeType": "ES-pregunta"
+      },
+      "dateStart": "2024-04-10T15:30:00+02:00",
+      "dateEnd": "2024-04-10T15:31:00+02:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_035/cortes/15_000400_035_3_24846_731866.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1531866I",
+        "duration": 60.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_035_3_24846_731866",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Inés Granollers Cunillera",
+          "lastname": "Granollers Cunillera",
+          "firstname": "Inés",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Republicano"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 81
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 37
+      },
+      "agendaItem": {
+        "title": "¿Cómo justifica el Gobierno su reiterada inacción respecto a las\nlistas de espera para examinarse del carné de conducir en Cataluña?",
+        "officialTitle": "¿Cómo justifica el Gobierno su reiterada inacción respecto a las\nlistas de espera para examinarse del carné de conducir en Cataluña?",
+        "type": "qa",
+        "nativeType": "ES-pregunta"
+      },
+      "dateStart": "2024-04-10T15:31:00+02:00",
+      "dateEnd": "2024-04-10T15:33:00+02:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_035/cortes/15_000400_035_3_24846_731867.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1531867I",
+        "duration": 120.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_035_3_24846_731867",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Fernando Grande-Marlaska Gómez",
+          "lastname": "Grande-Marlaska Gómez",
+          "firstname": "Fernando",
+          "type": "member of government",
+          "role": "Ministro del Interior"
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 82
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 37
+      },
+      "agendaItem": {
+        "title": "¿Cómo justifica el Gobierno su reiterada inacción respecto a las\nlistas de espera para examinarse del carné de conducir en Cataluña?",
+        "officialTitle": "¿Cómo justifica el Gobierno su reiterada inacción respecto a las\nlistas de espera para examinarse del carné de conducir en Cataluña?",
+        "type": "qa",
+        "nativeType": "ES-pregunta"
+      },
+      "dateStart": "2024-04-10T15:33:00+02:00",
+      "dateEnd": "2024-04-10T15:34:00+02:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_035/cortes/15_000400_035_3_24846_731868.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1531868I",
+        "duration": 60.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_035_3_24846_731868",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Inés Granollers Cunillera",
+          "lastname": "Granollers Cunillera",
+          "firstname": "Inés",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Republicano"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 83
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 37
+      },
+      "agendaItem": {
+        "title": "¿Cómo justifica el Gobierno su reiterada inacción respecto a las\nlistas de espera para examinarse del carné de conducir en Cataluña?",
+        "officialTitle": "¿Cómo justifica el Gobierno su reiterada inacción respecto a las\nlistas de espera para examinarse del carné de conducir en Cataluña?",
+        "type": "qa",
+        "nativeType": "ES-pregunta"
+      },
+      "dateStart": "2024-04-10T15:34:00+02:00",
+      "dateEnd": "2024-04-10T15:35:00+02:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_035/cortes/15_000400_035_3_24846_731869.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1531869I",
+        "duration": 60.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_035_3_24846_731869",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Fernando Grande-Marlaska Gómez",
+          "lastname": "Grande-Marlaska Gómez",
+          "firstname": "Fernando",
+          "type": "member of government",
+          "role": "Ministro del Interior"
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 84
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 37
+      },
+      "agendaItem": {
+        "title": "¿Cuál es la previsión a medio y corto plazo del Gobierno en cuanto al\ntransporte ferroviario de media distancia en Cataluña?",
+        "officialTitle": "¿Cuál es la previsión a medio y corto plazo del Gobierno en cuanto al\ntransporte ferroviario de media distancia en Cataluña?",
+        "type": "qa",
+        "nativeType": "ES-pregunta"
+      },
+      "dateStart": "2024-04-10T15:35:00+02:00",
+      "dateEnd": "2024-04-10T15:36:00+02:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_035/cortes/15_000400_035_3_24846_731871.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1531871I",
+        "duration": 60.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_035_3_24846_731871",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Isidre Gavin i Valls",
+          "lastname": "Gavin i Valls",
+          "firstname": "Isidre",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Junts per Catalunya"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 85
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 37
+      },
+      "agendaItem": {
+        "title": "¿Cuál es la previsión a medio y corto plazo del Gobierno en cuanto al\ntransporte ferroviario de media distancia en Cataluña?",
+        "officialTitle": "¿Cuál es la previsión a medio y corto plazo del Gobierno en cuanto al\ntransporte ferroviario de media distancia en Cataluña?",
+        "type": "qa",
+        "nativeType": "ES-pregunta"
+      },
+      "dateStart": "2024-04-10T15:36:00+02:00",
+      "dateEnd": "2024-04-10T15:36:00+02:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_035/cortes/15_000400_035_3_24846_731872.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1531872I",
+        "duration": 0.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_035_3_24846_731872",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Óscar Puente Santiago",
+          "lastname": "Puente Santiago",
+          "firstname": "Óscar",
+          "type": "member of government",
+          "role": "Ministro de Transportes y Movilidad Sostenible",
+          "faction": {
+            "label": "Grupo Parlamentario Socialista"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 86
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 37
+      },
+      "agendaItem": {
+        "title": "¿Cuál es la previsión a medio y corto plazo del Gobierno en cuanto al\ntransporte ferroviario de media distancia en Cataluña?",
+        "officialTitle": "¿Cuál es la previsión a medio y corto plazo del Gobierno en cuanto al\ntransporte ferroviario de media distancia en Cataluña?",
+        "type": "qa",
+        "nativeType": "ES-pregunta"
+      },
+      "dateStart": "2024-04-10T15:36:00+02:00",
+      "dateEnd": "2024-04-10T15:39:00+02:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_035/cortes/15_000400_035_3_24846_731873.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1531873I",
+        "duration": 180.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_035_3_24846_731873",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Isidre Gavin i Valls",
+          "lastname": "Gavin i Valls",
+          "firstname": "Isidre",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Junts per Catalunya"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 87
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 37
+      },
+      "agendaItem": {
+        "title": "¿Cuál es la previsión a medio y corto plazo del Gobierno en cuanto al\ntransporte ferroviario de media distancia en Cataluña?",
+        "officialTitle": "¿Cuál es la previsión a medio y corto plazo del Gobierno en cuanto al\ntransporte ferroviario de media distancia en Cataluña?",
+        "type": "qa",
+        "nativeType": "ES-pregunta"
+      },
+      "dateStart": "2024-04-10T15:39:00+02:00",
+      "dateEnd": "2024-04-10T15:41:00+02:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_035/cortes/15_000400_035_3_24846_731874.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1531874I",
+        "duration": 120.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_035_3_24846_731874",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Óscar Puente Santiago",
+          "lastname": "Puente Santiago",
+          "firstname": "Óscar",
+          "type": "member of government",
+          "role": "Ministro de Transportes y Movilidad Sostenible",
+          "faction": {
+            "label": "Grupo Parlamentario Socialista"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 88
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 37
+      },
+      "agendaItem": {
+        "title": "¿Tiene voluntad de atender las necesarias mejoras en los servicios\nferroviarios de Araba/Álava?",
+        "officialTitle": "¿Tiene voluntad de atender las necesarias mejoras en los servicios\nferroviarios de Araba/Álava?",
+        "type": "qa",
+        "nativeType": "ES-pregunta"
+      },
+      "dateStart": "2024-04-10T15:41:00+02:00",
+      "dateEnd": "2024-04-10T15:43:00+02:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_035/cortes/15_000400_035_3_24846_731876.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1531876I",
+        "duration": 120.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_035_3_24846_731876",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Iñaki Ruiz de Pinedo Undiano",
+          "lastname": "Ruiz de Pinedo Undiano",
+          "firstname": "Iñaki",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Euskal Herria Bildu"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 89
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 37
+      },
+      "agendaItem": {
+        "title": "¿Tiene voluntad de atender las necesarias mejoras en los servicios\nferroviarios de Araba/Álava?",
+        "officialTitle": "¿Tiene voluntad de atender las necesarias mejoras en los servicios\nferroviarios de Araba/Álava?",
+        "type": "qa",
+        "nativeType": "ES-pregunta"
+      },
+      "dateStart": "2024-04-10T15:43:00+02:00",
+      "dateEnd": "2024-04-10T15:46:00+02:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_035/cortes/15_000400_035_3_24846_731877.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1531877I",
+        "duration": 180.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_035_3_24846_731877",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Óscar Puente Santiago",
+          "lastname": "Puente Santiago",
+          "firstname": "Óscar",
+          "type": "member of government",
+          "role": "Ministro de Transportes y Movilidad Sostenible",
+          "faction": {
+            "label": "Grupo Parlamentario Socialista"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 90
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 37
+      },
+      "agendaItem": {
+        "title": "¿Tiene voluntad de atender las necesarias mejoras en los servicios\nferroviarios de Araba/Álava?",
+        "officialTitle": "¿Tiene voluntad de atender las necesarias mejoras en los servicios\nferroviarios de Araba/Álava?",
+        "type": "qa",
+        "nativeType": "ES-pregunta"
+      },
+      "dateStart": "2024-04-10T15:46:00+02:00",
+      "dateEnd": "2024-04-10T15:47:00+02:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_035/cortes/15_000400_035_3_24846_731878.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1531878I",
+        "duration": 60.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_035_3_24846_731878",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Iñaki Ruiz de Pinedo Undiano",
+          "lastname": "Ruiz de Pinedo Undiano",
+          "firstname": "Iñaki",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Euskal Herria Bildu"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 91
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 37
+      },
+      "agendaItem": {
+        "title": "¿Tiene voluntad de atender las necesarias mejoras en los servicios\nferroviarios de Araba/Álava?",
+        "officialTitle": "¿Tiene voluntad de atender las necesarias mejoras en los servicios\nferroviarios de Araba/Álava?",
+        "type": "qa",
+        "nativeType": "ES-pregunta"
+      },
+      "dateStart": "2024-04-10T15:47:00+02:00",
+      "dateEnd": "2024-04-10T15:47:00+02:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_035/cortes/15_000400_035_3_24846_731879.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1531879I",
+        "duration": 0.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_035_3_24846_731879",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Óscar Puente Santiago",
+          "lastname": "Puente Santiago",
+          "firstname": "Óscar",
+          "type": "member of government",
+          "role": "Ministro de Transportes y Movilidad Sostenible",
+          "faction": {
+            "label": "Grupo Parlamentario Socialista"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 92
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 37
+      },
+      "agendaItem": {
+        "title": "¿Cree usted que cumple con los estándares éticos exigibles a un\nMinistro del Gobierno de España?",
+        "officialTitle": "¿Cree usted que cumple con los estándares éticos exigibles a un\nMinistro del Gobierno de España?",
+        "type": "qa",
+        "nativeType": "ES-pregunta"
+      },
+      "dateStart": "2024-04-10T15:47:00+02:00",
+      "dateEnd": "2024-04-10T15:48:00+02:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_035/cortes/15_000400_035_3_24846_731881.mp4\nhttps://www.congreso.es/audiovisual/video/leg15/400/15_000400_035/cortes/15_000400_035_3_24846_731883.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1531881I https://app.congreso.es/v1/15731883I",
+        "duration": 60.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_035_3_24846_731883",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Laura María Lima García",
+          "lastname": "Lima García",
+          "firstname": "Laura María",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Popular en el Congreso"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 93
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 37
+      },
+      "agendaItem": {
+        "title": "¿Cree usted que cumple con los estándares éticos exigibles a un\nMinistro del Gobierno de España?",
+        "officialTitle": "¿Cree usted que cumple con los estándares éticos exigibles a un\nMinistro del Gobierno de España?",
+        "type": "qa",
+        "nativeType": "ES-pregunta"
+      },
+      "dateStart": "2024-04-10T15:48:00+02:00",
+      "dateEnd": "2024-04-10T15:49:00+02:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_035/cortes/15_000400_035_3_24846_731882.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1531882I",
+        "duration": 60.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_035_3_24846_731882",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "José Félix Tezanos Tortajada",
+          "lastname": "Tezanos Tortajada",
+          "firstname": "José Félix",
+          "type": "member of government",
+          "role": "Ministro de Política Territorial y Memoria Democrática"
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 94
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 37
+      },
+      "agendaItem": {
+        "title": "¿Cree usted que cumple con los estándares éticos exigibles a un\nMinistro del Gobierno de España?",
+        "officialTitle": "¿Cree usted que cumple con los estándares éticos exigibles a un\nMinistro del Gobierno de España?",
+        "type": "qa",
+        "nativeType": "ES-pregunta"
+      },
+      "dateStart": "2024-04-10T15:51:00+02:00",
+      "dateEnd": "2024-04-10T15:53:00+02:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_035/cortes/15_000400_035_3_24846_731884.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1531884I",
+        "duration": 120.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_035_3_24846_731884",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "José Félix Tezanos Tortajada",
+          "lastname": "Tezanos Tortajada",
+          "firstname": "José Félix",
+          "type": "member of government",
+          "role": "Ministro de Política Territorial y Memoria Democrática"
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 95
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 37
+      },
+      "agendaItem": {
+        "title": "¿Considera este Gobierno que sus políticas de vivienda han mejorado\nrealmente el acceso a la vivienda en Cataluña?",
+        "officialTitle": "¿Considera este Gobierno que sus políticas de vivienda han mejorado\nrealmente el acceso a la vivienda en Cataluña?",
+        "type": "qa",
+        "nativeType": "ES-pregunta"
+      },
+      "dateStart": "2024-04-10T15:53:00+02:00",
+      "dateEnd": "2024-04-10T15:53:00+02:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_035/cortes/15_000400_035_3_24846_731886.mp4\nhttps://www.congreso.es/audiovisual/video/leg15/400/15_000400_035/cortes/15_000400_035_3_24846_731888.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1531886I https://app.congreso.es/v1/15731888I",
+        "duration": 0.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_035_3_24846_731888",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Nacho Martín Blanco",
+          "lastname": "Martín Blanco",
+          "firstname": "Nacho",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Popular en el Congreso"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 96
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 37
+      },
+      "agendaItem": {
+        "title": "¿Considera este Gobierno que sus políticas de vivienda han mejorado\nrealmente el acceso a la vivienda en Cataluña?",
+        "officialTitle": "¿Considera este Gobierno que sus políticas de vivienda han mejorado\nrealmente el acceso a la vivienda en Cataluña?",
+        "type": "qa",
+        "nativeType": "ES-pregunta"
+      },
+      "dateStart": "2024-04-10T15:53:00+02:00",
+      "dateEnd": "2024-04-10T15:53:00+02:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_035/cortes/15_000400_035_3_24846_731887.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1531887I",
+        "duration": 0.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_035_3_24846_731887",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Isabel Rodríguez García",
+          "lastname": "Rodríguez García",
+          "firstname": "Isabel",
+          "type": "member of government",
+          "role": "Ministra de Vivienda y Agenda Urbana"
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 97
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 37
+      },
+      "agendaItem": {
+        "title": "¿Considera este Gobierno que sus políticas de vivienda han mejorado\nrealmente el acceso a la vivienda en Cataluña?",
+        "officialTitle": "¿Considera este Gobierno que sus políticas de vivienda han mejorado\nrealmente el acceso a la vivienda en Cataluña?",
+        "type": "qa",
+        "nativeType": "ES-pregunta"
+      },
+      "dateStart": "2024-04-10T15:56:00+02:00",
+      "dateEnd": "2024-04-10T15:58:00+02:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_035/cortes/15_000400_035_3_24846_731889.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1531889I",
+        "duration": 120.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_035_3_24846_731889",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Isabel Rodríguez García",
+          "lastname": "Rodríguez García",
+          "firstname": "Isabel",
+          "type": "member of government",
+          "role": "Ministra de Vivienda y Agenda Urbana"
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 98
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 37
+      },
+      "agendaItem": {
+        "title": "¿Cómo valora el dramático incremento de las agresiones sexuales en el\núltimo año?",
+        "officialTitle": "¿Cómo valora el dramático incremento de las agresiones sexuales en el\núltimo año?",
+        "type": "qa",
+        "nativeType": "ES-pregunta"
+      },
+      "dateStart": "2024-04-10T15:58:00+02:00",
+      "dateEnd": "2024-04-10T15:59:00+02:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_035/cortes/15_000400_035_3_24846_731891.mp4\nhttps://www.congreso.es/audiovisual/video/leg15/400/15_000400_035/cortes/15_000400_035_3_24846_731893.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1531891I https://app.congreso.es/v1/15731893I",
+        "duration": 60.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_035_3_24846_731893",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Patricia Rodríguez Calleja",
+          "lastname": "Rodríguez Calleja",
+          "firstname": "Patricia",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Popular en el Congreso"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 99
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 37
+      },
+      "agendaItem": {
+        "title": "¿Cómo valora el dramático incremento de las agresiones sexuales en el\núltimo año?",
+        "officialTitle": "¿Cómo valora el dramático incremento de las agresiones sexuales en el\núltimo año?",
+        "type": "qa",
+        "nativeType": "ES-pregunta"
+      },
+      "dateStart": "2024-04-10T15:59:00+02:00",
+      "dateEnd": "2024-04-10T16:01:00+02:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_035/cortes/15_000400_035_3_24846_731892.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1531892I",
+        "duration": 120.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_035_3_24846_731892",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Ana María del Carmen Redondo García",
+          "lastname": "Redondo García",
+          "firstname": "Ana María del Carmen",
+          "type": "member of government",
+          "role": "Ministra de Igualdad"
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 100
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 37
+      },
+      "agendaItem": {
+        "title": "¿Cómo valora el dramático incremento de las agresiones sexuales en el\núltimo año?",
+        "officialTitle": "¿Cómo valora el dramático incremento de las agresiones sexuales en el\núltimo año?",
+        "type": "qa",
+        "nativeType": "ES-pregunta"
+      },
+      "dateStart": "2024-04-10T16:04:00+02:00",
+      "dateEnd": "2024-04-10T16:05:00+02:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_035/cortes/15_000400_035_3_24846_731894.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1531894I",
+        "duration": 60.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_035_3_24846_731894",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Ana María del Carmen Redondo García",
+          "lastname": "Redondo García",
+          "firstname": "Ana María del Carmen",
+          "type": "member of government",
+          "role": "Ministra de Igualdad"
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 101
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 37
+      },
+      "agendaItem": {
+        "title": "Interpelación urgente sobre la necesidad de acordar una financiación\nsingular para Cataluña a fin de que la ciudadanía catalana disponga de\nservicios públicos a la altura de su esfuerzo fiscal.",
+        "officialTitle": "Interpelación urgente sobre la necesidad de acordar una financiación\nsingular para Cataluña a fin de que la ciudadanía catalana disponga de\nservicios públicos a la altura de su esfuerzo fiscal.",
+        "type": "questioning_of_the_government",
+        "nativeType": "ES-interpelacion"
+      },
+      "dateStart": "2024-04-10T16:05:00+02:00",
+      "dateEnd": "2024-04-10T16:19:00+02:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_035/cortes/15_000400_035_3_24846_731897.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1531897I",
+        "duration": 840.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_035_3_24846_731897",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Teresa Jordà i Roura",
+          "lastname": "Jordà i Roura",
+          "firstname": "Teresa",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Republicano"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 102
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 37
+      },
+      "agendaItem": {
+        "title": "Interpelación urgente sobre la necesidad de acordar una financiación\nsingular para Cataluña a fin de que la ciudadanía catalana disponga de\nservicios públicos a la altura de su esfuerzo fiscal.",
+        "officialTitle": "Interpelación urgente sobre la necesidad de acordar una financiación\nsingular para Cataluña a fin de que la ciudadanía catalana disponga de\nservicios públicos a la altura de su esfuerzo fiscal.",
+        "type": "questioning_of_the_government",
+        "nativeType": "ES-interpelacion"
+      },
+      "dateStart": "2024-04-10T16:19:00+02:00",
+      "dateEnd": "2024-04-10T16:32:00+02:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_035/cortes/15_000400_035_3_24846_731898.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1531898I",
+        "duration": 780.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_035_3_24846_731898",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "María Jesús Montero Cuadrado",
+          "lastname": "Montero Cuadrado",
+          "firstname": "María Jesús",
+          "type": "member of government",
+          "role": "Vicepresidenta Primera del Gobierno y Ministra de Hacienda",
+          "faction": {
+            "label": "Grupo Parlamentario Socialista"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 103
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 37
+      },
+      "agendaItem": {
+        "title": "Interpelación urgente sobre la necesidad de acordar una financiación\nsingular para Cataluña a fin de que la ciudadanía catalana disponga de\nservicios públicos a la altura de su esfuerzo fiscal.",
+        "officialTitle": "Interpelación urgente sobre la necesidad de acordar una financiación\nsingular para Cataluña a fin de que la ciudadanía catalana disponga de\nservicios públicos a la altura de su esfuerzo fiscal.",
+        "type": "questioning_of_the_government",
+        "nativeType": "ES-interpelacion"
+      },
+      "dateStart": "2024-04-10T16:32:00+02:00",
+      "dateEnd": "2024-04-10T16:38:00+02:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_035/cortes/15_000400_035_3_24846_731899.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1531899I",
+        "duration": 360.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_035_3_24846_731899",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Teresa Jordà i Roura",
+          "lastname": "Jordà i Roura",
+          "firstname": "Teresa",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Republicano"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 104
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 37
+      },
+      "agendaItem": {
+        "title": "Interpelación urgente sobre la necesidad de acordar una financiación\nsingular para Cataluña a fin de que la ciudadanía catalana disponga de\nservicios públicos a la altura de su esfuerzo fiscal.",
+        "officialTitle": "Interpelación urgente sobre la necesidad de acordar una financiación\nsingular para Cataluña a fin de que la ciudadanía catalana disponga de\nservicios públicos a la altura de su esfuerzo fiscal.",
+        "type": "questioning_of_the_government",
+        "nativeType": "ES-interpelacion"
+      },
+      "dateStart": "2024-04-10T16:38:00+02:00",
+      "dateEnd": "2024-04-10T16:45:00+02:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_035/cortes/15_000400_035_3_24846_731900.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1531900I",
+        "duration": 420.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_035_3_24846_731900",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "María Jesús Montero Cuadrado",
+          "lastname": "Montero Cuadrado",
+          "firstname": "María Jesús",
+          "type": "member of government",
+          "role": "Vicepresidenta Primera del Gobierno y Ministra de Hacienda",
+          "faction": {
+            "label": "Grupo Parlamentario Socialista"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 105
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 37
+      },
+      "agendaItem": {
+        "title": "Interpelación urgente relativa a la inseguridad ciudadana y a la\nocupación ilegal que afectan especialmente a Cataluña.",
+        "officialTitle": "Interpelación urgente relativa a la inseguridad ciudadana y a la\nocupación ilegal que afectan especialmente a Cataluña.",
+        "type": "questioning_of_the_government",
+        "nativeType": "ES-interpelacion"
+      },
+      "dateStart": "2024-04-10T16:45:00+02:00",
+      "dateEnd": "2024-04-10T16:58:00+02:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_035/cortes/15_000400_035_3_24846_731902.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1531902I",
+        "duration": 780.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_035_3_24846_731902",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Pedro Luis Huguet Tous",
+          "lastname": "Huguet Tous",
+          "firstname": "Pedro Luis",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Popular en el Congreso"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 106
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 37
+      },
+      "agendaItem": {
+        "title": "Interpelación urgente relativa a la inseguridad ciudadana y a la\nocupación ilegal que afectan especialmente a Cataluña.",
+        "officialTitle": "Interpelación urgente relativa a la inseguridad ciudadana y a la\nocupación ilegal que afectan especialmente a Cataluña.",
+        "type": "questioning_of_the_government",
+        "nativeType": "ES-interpelacion"
+      },
+      "dateStart": "2024-04-10T16:58:00+02:00",
+      "dateEnd": "2024-04-10T17:11:00+02:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_035/cortes/15_000400_035_3_24846_731904.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1531904I",
+        "duration": 780.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_035_3_24846_731904",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Fernando Grande-Marlaska Gómez",
+          "lastname": "Grande-Marlaska Gómez",
+          "firstname": "Fernando",
+          "type": "member of government",
+          "role": "Ministro del Interior"
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 107
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 37
+      },
+      "agendaItem": {
+        "title": "Interpelación urgente relativa a la inseguridad ciudadana y a la\nocupación ilegal que afectan especialmente a Cataluña.",
+        "officialTitle": "Interpelación urgente relativa a la inseguridad ciudadana y a la\nocupación ilegal que afectan especialmente a Cataluña.",
+        "type": "questioning_of_the_government",
+        "nativeType": "ES-interpelacion"
+      },
+      "dateStart": "2024-04-10T17:11:00+02:00",
+      "dateEnd": "2024-04-10T17:15:00+02:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_035/cortes/15_000400_035_3_24846_731905.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1531905I",
+        "duration": 240.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_035_3_24846_731905",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Pedro Luis Huguet Tous",
+          "lastname": "Huguet Tous",
+          "firstname": "Pedro Luis",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Popular en el Congreso"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 108
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 37
+      },
+      "agendaItem": {
+        "title": "Interpelación urgente relativa a la inseguridad ciudadana y a la\nocupación ilegal que afectan especialmente a Cataluña.",
+        "officialTitle": "Interpelación urgente relativa a la inseguridad ciudadana y a la\nocupación ilegal que afectan especialmente a Cataluña.",
+        "type": "questioning_of_the_government",
+        "nativeType": "ES-interpelacion"
+      },
+      "dateStart": "2024-04-10T17:15:00+02:00",
+      "dateEnd": "2024-04-10T17:18:00+02:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_035/cortes/15_000400_035_3_24846_731906.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1531906I",
+        "duration": 180.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_035_3_24846_731906",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Fernando Grande-Marlaska Gómez",
+          "lastname": "Grande-Marlaska Gómez",
+          "firstname": "Fernando",
+          "type": "member of government",
+          "role": "Ministro del Interior"
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 109
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 37
+      },
+      "agendaItem": {
+        "title": "Interpelación urgente sobre la solución que va a dar a la actual\nsituación de incompatibilidad para recibir una pensión no contributiva\ncon el complemento de la Renta Canaria de Ciudadanía.",
+        "officialTitle": "Interpelación urgente sobre la solución que va a dar a la actual\nsituación de incompatibilidad para recibir una pensión no contributiva\ncon el complemento de la Renta Canaria de Ciudadanía.",
+        "type": "questioning_of_the_government",
+        "nativeType": "ES-interpelacion"
+      },
+      "dateStart": "2024-04-10T17:18:00+02:00",
+      "dateEnd": "2024-04-10T17:29:00+02:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_035/cortes/15_000400_035_3_24846_731908.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1531908I",
+        "duration": 660.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_035_3_24846_731908",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Cristina Valido García",
+          "lastname": "Valido García",
+          "firstname": "Cristina",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Mixto"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 110
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 37
+      },
+      "agendaItem": {
+        "title": "Interpelación urgente sobre la solución que va a dar a la actual\nsituación de incompatibilidad para recibir una pensión no contributiva\ncon el complemento de la Renta Canaria de Ciudadanía.",
+        "officialTitle": "Interpelación urgente sobre la solución que va a dar a la actual\nsituación de incompatibilidad para recibir una pensión no contributiva\ncon el complemento de la Renta Canaria de Ciudadanía.",
+        "type": "questioning_of_the_government",
+        "nativeType": "ES-interpelacion"
+      },
+      "dateStart": "2024-04-10T17:29:00+02:00",
+      "dateEnd": "2024-04-10T17:41:00+02:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_035/cortes/15_000400_035_3_24846_731909.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1531909I",
+        "duration": 720.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_035_3_24846_731909",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Elma Saiz Delgado",
+          "lastname": "Saiz Delgado",
+          "firstname": "Elma",
+          "type": "member of government",
+          "role": "Ministra de Inclusión, Seguridad Social y Migraciones"
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 111
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 37
+      },
+      "agendaItem": {
+        "title": "Interpelación urgente sobre la solución que va a dar a la actual\nsituación de incompatibilidad para recibir una pensión no contributiva\ncon el complemento de la Renta Canaria de Ciudadanía.",
+        "officialTitle": "Interpelación urgente sobre la solución que va a dar a la actual\nsituación de incompatibilidad para recibir una pensión no contributiva\ncon el complemento de la Renta Canaria de Ciudadanía.",
+        "type": "questioning_of_the_government",
+        "nativeType": "ES-interpelacion"
+      },
+      "dateStart": "2024-04-10T17:41:00+02:00",
+      "dateEnd": "2024-04-10T17:45:00+02:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_035/cortes/15_000400_035_3_24846_731911.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1531911I",
+        "duration": 240.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_035_3_24846_731911",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Cristina Valido García",
+          "lastname": "Valido García",
+          "firstname": "Cristina",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Mixto"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 112
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 37
+      },
+      "agendaItem": {
+        "title": "Interpelación urgente sobre la solución que va a dar a la actual\nsituación de incompatibilidad para recibir una pensión no contributiva\ncon el complemento de la Renta Canaria de Ciudadanía.",
+        "officialTitle": "Interpelación urgente sobre la solución que va a dar a la actual\nsituación de incompatibilidad para recibir una pensión no contributiva\ncon el complemento de la Renta Canaria de Ciudadanía.",
+        "type": "questioning_of_the_government",
+        "nativeType": "ES-interpelacion"
+      },
+      "dateStart": "2024-04-10T17:45:00+02:00",
+      "dateEnd": "2024-04-10T17:49:00+02:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_035/cortes/15_000400_035_3_24846_731912.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1531912I",
+        "duration": 240.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_035_3_24846_731912",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Elma Saiz Delgado",
+          "lastname": "Saiz Delgado",
+          "firstname": "Elma",
+          "type": "member of government",
+          "role": "Ministra de Inclusión, Seguridad Social y Migraciones"
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 113
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 37
+      },
+      "agendaItem": {
+        "title": "Interpelación urgente a la Ministra para la Transición Ecológica y el\nReto Demográfico sobre las medidas que va a llevar a cabo el Gobierno\npara aprovechar los recursos hídricos de España.",
+        "officialTitle": "Interpelación urgente a la Ministra para la Transición Ecológica y el\nReto Demográfico sobre las medidas que va a llevar a cabo el Gobierno\npara aprovechar los recursos hídricos de España.",
+        "type": "questioning_of_the_government",
+        "nativeType": "ES-interpelacion"
+      },
+      "dateStart": "2024-04-10T17:49:00+02:00",
+      "dateEnd": "2024-04-10T18:04:00+02:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_035/cortes/15_000400_035_3_24846_731914.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1531914I",
+        "duration": 900.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_035_3_24846_731914",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Ricardo Chamorro Delmo",
+          "lastname": "Chamorro Delmo",
+          "firstname": "Ricardo",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario VOX"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 114
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 37
+      },
+      "agendaItem": {
+        "title": "Interpelación urgente a la Ministra para la Transición Ecológica y el\nReto Demográfico sobre las medidas que va a llevar a cabo el Gobierno\npara aprovechar los recursos hídricos de España.",
+        "officialTitle": "Interpelación urgente a la Ministra para la Transición Ecológica y el\nReto Demográfico sobre las medidas que va a llevar a cabo el Gobierno\npara aprovechar los recursos hídricos de España.",
+        "type": "questioning_of_the_government",
+        "nativeType": "ES-interpelacion"
+      },
+      "dateStart": "2024-04-10T18:04:00+02:00",
+      "dateEnd": "2024-04-10T18:17:00+02:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_035/cortes/15_000400_035_3_24846_731915.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1531915I",
+        "duration": 780.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_035_3_24846_731915",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Teresa Ribera Rodríguez",
+          "lastname": "Ribera Rodríguez",
+          "firstname": "Teresa",
+          "type": "member of government",
+          "role": "Vicepresidenta Tercera y Ministra para la Transición Ecológica y el\nReto Demográfico"
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 115
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 37
+      },
+      "agendaItem": {
+        "title": "Interpelación urgente a la Ministra para la Transición Ecológica y el\nReto Demográfico sobre las medidas que va a llevar a cabo el Gobierno\npara aprovechar los recursos hídricos de España.",
+        "officialTitle": "Interpelación urgente a la Ministra para la Transición Ecológica y el\nReto Demográfico sobre las medidas que va a llevar a cabo el Gobierno\npara aprovechar los recursos hídricos de España.",
+        "type": "questioning_of_the_government",
+        "nativeType": "ES-interpelacion"
+      },
+      "dateStart": "2024-04-10T18:17:00+02:00",
+      "dateEnd": "2024-04-10T18:23:00+02:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_035/cortes/15_000400_035_3_24846_731916.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1531916I",
+        "duration": 360.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_035_3_24846_731916",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Ricardo Chamorro Delmo",
+          "lastname": "Chamorro Delmo",
+          "firstname": "Ricardo",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario VOX"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 116
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 37
+      },
+      "agendaItem": {
+        "title": "Interpelación urgente a la Ministra para la Transición Ecológica y el\nReto Demográfico sobre las medidas que va a llevar a cabo el Gobierno\npara aprovechar los recursos hídricos de España.",
+        "officialTitle": "Interpelación urgente a la Ministra para la Transición Ecológica y el\nReto Demográfico sobre las medidas que va a llevar a cabo el Gobierno\npara aprovechar los recursos hídricos de España.",
+        "type": "questioning_of_the_government",
+        "nativeType": "ES-interpelacion"
+      },
+      "dateStart": "2024-04-10T18:23:00+02:00",
+      "dateEnd": "2024-04-10T18:29:00+02:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_035/cortes/15_000400_035_3_24846_731917.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1531917I",
+        "duration": 360.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_035_3_24846_731917",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Teresa Ribera Rodríguez",
+          "lastname": "Ribera Rodríguez",
+          "firstname": "Teresa",
+          "type": "member of government",
+          "role": "Vicepresidenta Tercera y Ministra para la Transición Ecológica y el\nReto Demográfico"
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 117
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 37
+      },
+      "agendaItem": {
+        "title": "Informe acerca del cumplimiento del Presupuesto de la Cámara\ncorrespondiente al ejercicio 2022, de conformidad con el artículo 31.1.2º\ndel Reglamento.",
+        "officialTitle": "Informe acerca del cumplimiento del Presupuesto de la Cámara\ncorrespondiente al ejercicio 2022, de conformidad con el artículo 31.1.2º\ndel Reglamento.",
+        "type": "regular"
+      },
+      "dateStart": "2024-04-10T18:29:00+02:00",
+      "dateEnd": "2024-04-10T18:33:00+02:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_035/cortes/15_000400_035_3_24846_731920.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1531920I",
+        "duration": 240.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_035_3_24846_731920",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Isaura Leal Fernández",
+          "lastname": "Leal Fernández",
+          "firstname": "Isaura",
+          "type": "person",
+          "role": "Secretaria segunda de la Mesa del Congreso de los Diputados",
+          "faction": {
+            "label": "Grupo Parlamentario Socialista"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 118
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 37
+      },
+      "agendaItem": {
+        "title": "Informe acerca del cumplimiento del Presupuesto de la Cámara\ncorrespondiente al ejercicio 2022, de conformidad con el artículo 31.1.2º\ndel Reglamento.",
+        "officialTitle": "Informe acerca del cumplimiento del Presupuesto de la Cámara\ncorrespondiente al ejercicio 2022, de conformidad con el artículo 31.1.2º\ndel Reglamento.",
+        "type": "regular"
+      },
+      "dateStart": "2024-04-10T18:34:00+02:00",
+      "dateEnd": "2024-04-10T18:41:00+02:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_035/cortes/15_000400_035_3_24846_731921.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1531921I",
+        "duration": 420.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_035_3_24846_731921",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Carmen Navarro Lacoba",
+          "lastname": "Navarro Lacoba",
+          "firstname": "Carmen",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Popular en el Congreso"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 119
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 37
+      },
+      "agendaItem": {
+        "title": "Informe acerca del cumplimiento del Presupuesto de la Cámara\ncorrespondiente al ejercicio 2022, de conformidad con el artículo 31.1.2º\ndel Reglamento.",
+        "officialTitle": "Informe acerca del cumplimiento del Presupuesto de la Cámara\ncorrespondiente al ejercicio 2022, de conformidad con el artículo 31.1.2º\ndel Reglamento.",
+        "type": "regular"
+      },
+      "dateStart": "2024-04-10T18:41:00+02:00",
+      "dateEnd": "2024-04-10T18:42:00+02:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_035/cortes/15_000400_035_3_24846_731922.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1531922I",
+        "duration": 60.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_035_3_24846_731922",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Montse Mínguez García",
+          "lastname": "Mínguez García",
+          "firstname": "Montse",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Socialista"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 120
+    }
+  ]
+}

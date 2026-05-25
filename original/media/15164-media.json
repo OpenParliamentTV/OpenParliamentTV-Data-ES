@@ -1,0 +1,4935 @@
+{
+  "meta": {
+    "session": "15164",
+    "processing": {
+      "parse_media": "2026-05-23T07:17:41"
+    },
+    "dateStart": "2026-02-11T09:03:00+01:00",
+    "dateEnd": "2026-02-11T19:43:00+01:00"
+  },
+  "data": [
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 164
+      },
+      "agendaItem": {
+        "title": "Solicitud de comparecencia, a petición propia, del Presidente del\nGobierno ante el Pleno de la Cámara, para dar cuenta de la posición del\nGobierno de España en los distintos encuentros y foros internacionales en\nlos que ha participado, así como para informar sobre los últimos\naccidentes y la situación actual del servicio ferroviario.",
+        "officialTitle": "Solicitud de comparecencia, a petición propia, del Presidente del\nGobierno ante el Pleno de la Cámara, para dar cuenta de la posición del\nGobierno de España en los distintos encuentros y foros internacionales en\nlos que ha participado, así como para informar sobre los últimos\naccidentes y la situación actual del servicio ferroviario.",
+        "type": "briefing",
+        "nativeType": "ES-comparecencia"
+      },
+      "dateStart": "2026-02-11T09:03:00+01:00",
+      "dateEnd": "2026-02-11T09:33:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_158/cortes/15_000400_158_0_26987_767344.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1567344I",
+        "duration": 1800.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_158_0_26987_767344",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Pedro Sánchez Pérez-Castejón",
+          "lastname": "Sánchez Pérez-Castejón",
+          "firstname": "Pedro",
+          "type": "member of government",
+          "role": "Presidente del Gobierno",
+          "faction": {
+            "label": "Grupo Parlamentario Socialista"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 1
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 164
+      },
+      "agendaItem": {
+        "title": "Solicitud de comparecencia urgente del Presidente del Gobierno ante\nel Pleno de la Cámara, para informar sobre las causas, consecuencias y\nmedidas adoptadas en relación con los accidentes ferroviarios de los días\n18 y 20/01/2026 en las provincias de Córdoba y Barcelona.",
+        "officialTitle": "Solicitud de comparecencia urgente del Presidente del Gobierno ante\nel Pleno de la Cámara, para informar sobre las causas, consecuencias y\nmedidas adoptadas en relación con los accidentes ferroviarios de los días\n18 y 20/01/2026 en las provincias de Córdoba y Barcelona.",
+        "type": "briefing",
+        "nativeType": "ES-comparecencia"
+      },
+      "dateStart": "2026-02-11T09:03:00+01:00",
+      "dateEnd": "2026-02-11T09:33:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_158/cortes/15_000400_158_0_26987_767344.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1567344I",
+        "duration": 1800.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_158_0_26987_767344",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Pedro Sánchez Pérez-Castejón",
+          "lastname": "Sánchez Pérez-Castejón",
+          "firstname": "Pedro",
+          "type": "member of government",
+          "role": "Presidente del Gobierno",
+          "faction": {
+            "label": "Grupo Parlamentario Socialista"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 2
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 164
+      },
+      "agendaItem": {
+        "title": "Solicitud de comparecencia, a petición propia, del Presidente del\nGobierno ante el Pleno de la Cámara, para dar cuenta de la posición del\nGobierno de España en los distintos encuentros y foros internacionales en\nlos que ha participado, así como para informar sobre los últimos\naccidentes y la situación actual del servicio ferroviario.",
+        "officialTitle": "Solicitud de comparecencia, a petición propia, del Presidente del\nGobierno ante el Pleno de la Cámara, para dar cuenta de la posición del\nGobierno de España en los distintos encuentros y foros internacionales en\nlos que ha participado, así como para informar sobre los últimos\naccidentes y la situación actual del servicio ferroviario.",
+        "type": "briefing",
+        "nativeType": "ES-comparecencia"
+      },
+      "dateStart": "2026-02-11T09:33:00+01:00",
+      "dateEnd": "2026-02-11T09:56:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_158/cortes/15_000400_158_0_26987_767345.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1567345I",
+        "duration": 1380.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_158_0_26987_767345",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Alberto Núñez Feijóo",
+          "lastname": "Núñez Feijóo",
+          "firstname": "Alberto",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Popular en el Congreso"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 3
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 164
+      },
+      "agendaItem": {
+        "title": "Solicitud de comparecencia urgente del Presidente del Gobierno ante\nel Pleno de la Cámara, para informar sobre las causas, consecuencias y\nmedidas adoptadas en relación con los accidentes ferroviarios de los días\n18 y 20/01/2026 en las provincias de Córdoba y Barcelona.",
+        "officialTitle": "Solicitud de comparecencia urgente del Presidente del Gobierno ante\nel Pleno de la Cámara, para informar sobre las causas, consecuencias y\nmedidas adoptadas en relación con los accidentes ferroviarios de los días\n18 y 20/01/2026 en las provincias de Córdoba y Barcelona.",
+        "type": "briefing",
+        "nativeType": "ES-comparecencia"
+      },
+      "dateStart": "2026-02-11T09:33:00+01:00",
+      "dateEnd": "2026-02-11T09:56:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_158/cortes/15_000400_158_0_26987_767345.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1567345I",
+        "duration": 1380.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_158_0_26987_767345",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Alberto Núñez Feijóo",
+          "lastname": "Núñez Feijóo",
+          "firstname": "Alberto",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Popular en el Congreso"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 4
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 164
+      },
+      "agendaItem": {
+        "title": "Solicitud de comparecencia, a petición propia, del Presidente del\nGobierno ante el Pleno de la Cámara, para dar cuenta de la posición del\nGobierno de España en los distintos encuentros y foros internacionales en\nlos que ha participado, así como para informar sobre los últimos\naccidentes y la situación actual del servicio ferroviario.",
+        "officialTitle": "Solicitud de comparecencia, a petición propia, del Presidente del\nGobierno ante el Pleno de la Cámara, para dar cuenta de la posición del\nGobierno de España en los distintos encuentros y foros internacionales en\nlos que ha participado, así como para informar sobre los últimos\naccidentes y la situación actual del servicio ferroviario.",
+        "type": "briefing",
+        "nativeType": "ES-comparecencia"
+      },
+      "dateStart": "2026-02-11T09:56:00+01:00",
+      "dateEnd": "2026-02-11T10:17:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_158/cortes/15_000400_158_0_26987_767346.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1567346I",
+        "duration": 1260.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_158_0_26987_767346",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Santiago Abascal Conde",
+          "lastname": "Abascal Conde",
+          "firstname": "Santiago",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario VOX"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 5
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 164
+      },
+      "agendaItem": {
+        "title": "Solicitud de comparecencia urgente del Presidente del Gobierno ante\nel Pleno de la Cámara, para informar sobre las causas, consecuencias y\nmedidas adoptadas en relación con los accidentes ferroviarios de los días\n18 y 20/01/2026 en las provincias de Córdoba y Barcelona.",
+        "officialTitle": "Solicitud de comparecencia urgente del Presidente del Gobierno ante\nel Pleno de la Cámara, para informar sobre las causas, consecuencias y\nmedidas adoptadas en relación con los accidentes ferroviarios de los días\n18 y 20/01/2026 en las provincias de Córdoba y Barcelona.",
+        "type": "briefing",
+        "nativeType": "ES-comparecencia"
+      },
+      "dateStart": "2026-02-11T09:56:00+01:00",
+      "dateEnd": "2026-02-11T10:17:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_158/cortes/15_000400_158_0_26987_767346.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1567346I",
+        "duration": 1260.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_158_0_26987_767346",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Santiago Abascal Conde",
+          "lastname": "Abascal Conde",
+          "firstname": "Santiago",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario VOX"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 6
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 164
+      },
+      "agendaItem": {
+        "title": "Solicitud de comparecencia urgente del Presidente del Gobierno ante\nel Pleno de la Cámara, para informar sobre las causas, consecuencias y\nmedidas adoptadas en relación con los accidentes ferroviarios de los días\n18 y 20/01/2026 en las provincias de Córdoba y Barcelona.",
+        "officialTitle": "Solicitud de comparecencia urgente del Presidente del Gobierno ante\nel Pleno de la Cámara, para informar sobre las causas, consecuencias y\nmedidas adoptadas en relación con los accidentes ferroviarios de los días\n18 y 20/01/2026 en las provincias de Córdoba y Barcelona.",
+        "type": "briefing",
+        "nativeType": "ES-comparecencia"
+      },
+      "dateStart": "2026-02-11T10:17:00+01:00",
+      "dateEnd": "2026-02-11T10:38:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_158/cortes/15_000400_158_0_26987_767347.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1567347I",
+        "duration": 1260.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_158_0_26987_767347",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Verónica Martínez Barbero",
+          "lastname": "Martínez Barbero",
+          "firstname": "Verónica",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Plurinacional SUMAR"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 7
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 164
+      },
+      "agendaItem": {
+        "title": "Solicitud de comparecencia, a petición propia, del Presidente del\nGobierno ante el Pleno de la Cámara, para dar cuenta de la posición del\nGobierno de España en los distintos encuentros y foros internacionales en\nlos que ha participado, así como para informar sobre los últimos\naccidentes y la situación actual del servicio ferroviario.",
+        "officialTitle": "Solicitud de comparecencia, a petición propia, del Presidente del\nGobierno ante el Pleno de la Cámara, para dar cuenta de la posición del\nGobierno de España en los distintos encuentros y foros internacionales en\nlos que ha participado, así como para informar sobre los últimos\naccidentes y la situación actual del servicio ferroviario.",
+        "type": "briefing",
+        "nativeType": "ES-comparecencia"
+      },
+      "dateStart": "2026-02-11T10:17:00+01:00",
+      "dateEnd": "2026-02-11T10:38:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_158/cortes/15_000400_158_0_26987_767347.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1567347I",
+        "duration": 1260.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_158_0_26987_767347",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Verónica Martínez Barbero",
+          "lastname": "Martínez Barbero",
+          "firstname": "Verónica",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Plurinacional SUMAR"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 8
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 164
+      },
+      "agendaItem": {
+        "title": "Solicitud de comparecencia urgente del Presidente del Gobierno ante\nel Pleno de la Cámara, para informar sobre las causas, consecuencias y\nmedidas adoptadas en relación con los accidentes ferroviarios de los días\n18 y 20/01/2026 en las provincias de Córdoba y Barcelona.",
+        "officialTitle": "Solicitud de comparecencia urgente del Presidente del Gobierno ante\nel Pleno de la Cámara, para informar sobre las causas, consecuencias y\nmedidas adoptadas en relación con los accidentes ferroviarios de los días\n18 y 20/01/2026 en las provincias de Córdoba y Barcelona.",
+        "type": "briefing",
+        "nativeType": "ES-comparecencia"
+      },
+      "dateStart": "2026-02-11T10:38:00+01:00",
+      "dateEnd": "2026-02-11T10:59:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_158/cortes/15_000400_158_0_26987_767348.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1567348I",
+        "duration": 1260.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_158_0_26987_767348",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Gabriel Rufián Romero",
+          "lastname": "Rufián Romero",
+          "firstname": "Gabriel",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Republicano"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 9
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 164
+      },
+      "agendaItem": {
+        "title": "Solicitud de comparecencia, a petición propia, del Presidente del\nGobierno ante el Pleno de la Cámara, para dar cuenta de la posición del\nGobierno de España en los distintos encuentros y foros internacionales en\nlos que ha participado, así como para informar sobre los últimos\naccidentes y la situación actual del servicio ferroviario.",
+        "officialTitle": "Solicitud de comparecencia, a petición propia, del Presidente del\nGobierno ante el Pleno de la Cámara, para dar cuenta de la posición del\nGobierno de España en los distintos encuentros y foros internacionales en\nlos que ha participado, así como para informar sobre los últimos\naccidentes y la situación actual del servicio ferroviario.",
+        "type": "briefing",
+        "nativeType": "ES-comparecencia"
+      },
+      "dateStart": "2026-02-11T10:38:00+01:00",
+      "dateEnd": "2026-02-11T10:59:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_158/cortes/15_000400_158_0_26987_767348.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1567348I",
+        "duration": 1260.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_158_0_26987_767348",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Gabriel Rufián Romero",
+          "lastname": "Rufián Romero",
+          "firstname": "Gabriel",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Republicano"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 10
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 164
+      },
+      "agendaItem": {
+        "title": "Solicitud de comparecencia urgente del Presidente del Gobierno ante\nel Pleno de la Cámara, para informar sobre las causas, consecuencias y\nmedidas adoptadas en relación con los accidentes ferroviarios de los días\n18 y 20/01/2026 en las provincias de Córdoba y Barcelona.",
+        "officialTitle": "Solicitud de comparecencia urgente del Presidente del Gobierno ante\nel Pleno de la Cámara, para informar sobre las causas, consecuencias y\nmedidas adoptadas en relación con los accidentes ferroviarios de los días\n18 y 20/01/2026 en las provincias de Córdoba y Barcelona.",
+        "type": "briefing",
+        "nativeType": "ES-comparecencia"
+      },
+      "dateStart": "2026-02-11T10:59:00+01:00",
+      "dateEnd": "2026-02-11T11:16:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_158/cortes/15_000400_158_0_26987_767349.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1567349I",
+        "duration": 1020.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_158_0_26987_767349",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Míriam Nogueras i Camero",
+          "lastname": "Nogueras i Camero",
+          "firstname": "Míriam",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Junts per Catalunya"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 11
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 164
+      },
+      "agendaItem": {
+        "title": "Solicitud de comparecencia, a petición propia, del Presidente del\nGobierno ante el Pleno de la Cámara, para dar cuenta de la posición del\nGobierno de España en los distintos encuentros y foros internacionales en\nlos que ha participado, así como para informar sobre los últimos\naccidentes y la situación actual del servicio ferroviario.",
+        "officialTitle": "Solicitud de comparecencia, a petición propia, del Presidente del\nGobierno ante el Pleno de la Cámara, para dar cuenta de la posición del\nGobierno de España en los distintos encuentros y foros internacionales en\nlos que ha participado, así como para informar sobre los últimos\naccidentes y la situación actual del servicio ferroviario.",
+        "type": "briefing",
+        "nativeType": "ES-comparecencia"
+      },
+      "dateStart": "2026-02-11T10:59:00+01:00",
+      "dateEnd": "2026-02-11T11:16:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_158/cortes/15_000400_158_0_26987_767349.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1567349I",
+        "duration": 1020.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_158_0_26987_767349",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Míriam Nogueras i Camero",
+          "lastname": "Nogueras i Camero",
+          "firstname": "Míriam",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Junts per Catalunya"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 12
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 164
+      },
+      "agendaItem": {
+        "title": "Solicitud de comparecencia urgente del Presidente del Gobierno ante\nel Pleno de la Cámara, para informar sobre las causas, consecuencias y\nmedidas adoptadas en relación con los accidentes ferroviarios de los días\n18 y 20/01/2026 en las provincias de Córdoba y Barcelona.",
+        "officialTitle": "Solicitud de comparecencia urgente del Presidente del Gobierno ante\nel Pleno de la Cámara, para informar sobre las causas, consecuencias y\nmedidas adoptadas en relación con los accidentes ferroviarios de los días\n18 y 20/01/2026 en las provincias de Córdoba y Barcelona.",
+        "type": "briefing",
+        "nativeType": "ES-comparecencia"
+      },
+      "dateStart": "2026-02-11T11:16:00+01:00",
+      "dateEnd": "2026-02-11T11:38:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_158/cortes/15_000400_158_0_26987_767350.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1567350I",
+        "duration": 1320.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_158_0_26987_767350",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Mertxe Aizpurua Arzallus",
+          "lastname": "Aizpurua Arzallus",
+          "firstname": "Mertxe",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Euskal Herria Bildu"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 13
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 164
+      },
+      "agendaItem": {
+        "title": "Solicitud de comparecencia, a petición propia, del Presidente del\nGobierno ante el Pleno de la Cámara, para dar cuenta de la posición del\nGobierno de España en los distintos encuentros y foros internacionales en\nlos que ha participado, así como para informar sobre los últimos\naccidentes y la situación actual del servicio ferroviario.",
+        "officialTitle": "Solicitud de comparecencia, a petición propia, del Presidente del\nGobierno ante el Pleno de la Cámara, para dar cuenta de la posición del\nGobierno de España en los distintos encuentros y foros internacionales en\nlos que ha participado, así como para informar sobre los últimos\naccidentes y la situación actual del servicio ferroviario.",
+        "type": "briefing",
+        "nativeType": "ES-comparecencia"
+      },
+      "dateStart": "2026-02-11T11:16:00+01:00",
+      "dateEnd": "2026-02-11T11:38:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_158/cortes/15_000400_158_0_26987_767350.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1567350I",
+        "duration": 1320.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_158_0_26987_767350",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Mertxe Aizpurua Arzallus",
+          "lastname": "Aizpurua Arzallus",
+          "firstname": "Mertxe",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Euskal Herria Bildu"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 14
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 164
+      },
+      "agendaItem": {
+        "title": "Solicitud de comparecencia urgente del Presidente del Gobierno ante\nel Pleno de la Cámara, para informar sobre las causas, consecuencias y\nmedidas adoptadas en relación con los accidentes ferroviarios de los días\n18 y 20/01/2026 en las provincias de Córdoba y Barcelona.",
+        "officialTitle": "Solicitud de comparecencia urgente del Presidente del Gobierno ante\nel Pleno de la Cámara, para informar sobre las causas, consecuencias y\nmedidas adoptadas en relación con los accidentes ferroviarios de los días\n18 y 20/01/2026 en las provincias de Córdoba y Barcelona.",
+        "type": "briefing",
+        "nativeType": "ES-comparecencia"
+      },
+      "dateStart": "2026-02-11T11:38:00+01:00",
+      "dateEnd": "2026-02-11T11:54:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_158/cortes/15_000400_158_0_26987_767351.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1567351I",
+        "duration": 960.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_158_0_26987_767351",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Maribel Vaquero Montero",
+          "lastname": "Vaquero Montero",
+          "firstname": "Maribel",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Vasco (EAJ-PNV)"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 15
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 164
+      },
+      "agendaItem": {
+        "title": "Solicitud de comparecencia, a petición propia, del Presidente del\nGobierno ante el Pleno de la Cámara, para dar cuenta de la posición del\nGobierno de España en los distintos encuentros y foros internacionales en\nlos que ha participado, así como para informar sobre los últimos\naccidentes y la situación actual del servicio ferroviario.",
+        "officialTitle": "Solicitud de comparecencia, a petición propia, del Presidente del\nGobierno ante el Pleno de la Cámara, para dar cuenta de la posición del\nGobierno de España en los distintos encuentros y foros internacionales en\nlos que ha participado, así como para informar sobre los últimos\naccidentes y la situación actual del servicio ferroviario.",
+        "type": "briefing",
+        "nativeType": "ES-comparecencia"
+      },
+      "dateStart": "2026-02-11T11:38:00+01:00",
+      "dateEnd": "2026-02-11T11:54:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_158/cortes/15_000400_158_0_26987_767351.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1567351I",
+        "duration": 960.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_158_0_26987_767351",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Maribel Vaquero Montero",
+          "lastname": "Vaquero Montero",
+          "firstname": "Maribel",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Vasco (EAJ-PNV)"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 16
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 164
+      },
+      "agendaItem": {
+        "title": "Solicitud de comparecencia urgente del Presidente del Gobierno ante\nel Pleno de la Cámara, para informar sobre las causas, consecuencias y\nmedidas adoptadas en relación con los accidentes ferroviarios de los días\n18 y 20/01/2026 en las provincias de Córdoba y Barcelona.",
+        "officialTitle": "Solicitud de comparecencia urgente del Presidente del Gobierno ante\nel Pleno de la Cámara, para informar sobre las causas, consecuencias y\nmedidas adoptadas en relación con los accidentes ferroviarios de los días\n18 y 20/01/2026 en las provincias de Córdoba y Barcelona.",
+        "type": "briefing",
+        "nativeType": "ES-comparecencia"
+      },
+      "dateStart": "2026-02-11T11:54:00+01:00",
+      "dateEnd": "2026-02-11T12:05:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_158/cortes/15_000400_158_0_26987_767352.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1567352I",
+        "duration": 660.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_158_0_26987_767352",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Ione Belarra Urteaga",
+          "lastname": "Belarra Urteaga",
+          "firstname": "Ione",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Mixto"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 17
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 164
+      },
+      "agendaItem": {
+        "title": "Solicitud de comparecencia, a petición propia, del Presidente del\nGobierno ante el Pleno de la Cámara, para dar cuenta de la posición del\nGobierno de España en los distintos encuentros y foros internacionales en\nlos que ha participado, así como para informar sobre los últimos\naccidentes y la situación actual del servicio ferroviario.",
+        "officialTitle": "Solicitud de comparecencia, a petición propia, del Presidente del\nGobierno ante el Pleno de la Cámara, para dar cuenta de la posición del\nGobierno de España en los distintos encuentros y foros internacionales en\nlos que ha participado, así como para informar sobre los últimos\naccidentes y la situación actual del servicio ferroviario.",
+        "type": "briefing",
+        "nativeType": "ES-comparecencia"
+      },
+      "dateStart": "2026-02-11T11:54:00+01:00",
+      "dateEnd": "2026-02-11T12:05:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_158/cortes/15_000400_158_0_26987_767352.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1567352I",
+        "duration": 660.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_158_0_26987_767352",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Ione Belarra Urteaga",
+          "lastname": "Belarra Urteaga",
+          "firstname": "Ione",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Mixto"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 18
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 164
+      },
+      "agendaItem": {
+        "title": "Solicitud de comparecencia, a petición propia, del Presidente del\nGobierno ante el Pleno de la Cámara, para dar cuenta de la posición del\nGobierno de España en los distintos encuentros y foros internacionales en\nlos que ha participado, así como para informar sobre los últimos\naccidentes y la situación actual del servicio ferroviario.",
+        "officialTitle": "Solicitud de comparecencia, a petición propia, del Presidente del\nGobierno ante el Pleno de la Cámara, para dar cuenta de la posición del\nGobierno de España en los distintos encuentros y foros internacionales en\nlos que ha participado, así como para informar sobre los últimos\naccidentes y la situación actual del servicio ferroviario.",
+        "type": "briefing",
+        "nativeType": "ES-comparecencia"
+      },
+      "dateStart": "2026-02-11T12:05:00+01:00",
+      "dateEnd": "2026-02-11T12:12:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_158/cortes/15_000400_158_0_26987_767353.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1567353I",
+        "duration": 420.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_158_0_26987_767353",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Néstor Rego Candamil",
+          "lastname": "Rego Candamil",
+          "firstname": "Néstor",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Mixto"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 19
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 164
+      },
+      "agendaItem": {
+        "title": "Solicitud de comparecencia urgente del Presidente del Gobierno ante\nel Pleno de la Cámara, para informar sobre las causas, consecuencias y\nmedidas adoptadas en relación con los accidentes ferroviarios de los días\n18 y 20/01/2026 en las provincias de Córdoba y Barcelona.",
+        "officialTitle": "Solicitud de comparecencia urgente del Presidente del Gobierno ante\nel Pleno de la Cámara, para informar sobre las causas, consecuencias y\nmedidas adoptadas en relación con los accidentes ferroviarios de los días\n18 y 20/01/2026 en las provincias de Córdoba y Barcelona.",
+        "type": "briefing",
+        "nativeType": "ES-comparecencia"
+      },
+      "dateStart": "2026-02-11T12:05:00+01:00",
+      "dateEnd": "2026-02-11T12:12:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_158/cortes/15_000400_158_0_26987_767353.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1567353I",
+        "duration": 420.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_158_0_26987_767353",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Néstor Rego Candamil",
+          "lastname": "Rego Candamil",
+          "firstname": "Néstor",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Mixto"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 20
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 164
+      },
+      "agendaItem": {
+        "title": "Solicitud de comparecencia, a petición propia, del Presidente del\nGobierno ante el Pleno de la Cámara, para dar cuenta de la posición del\nGobierno de España en los distintos encuentros y foros internacionales en\nlos que ha participado, así como para informar sobre los últimos\naccidentes y la situación actual del servicio ferroviario.",
+        "officialTitle": "Solicitud de comparecencia, a petición propia, del Presidente del\nGobierno ante el Pleno de la Cámara, para dar cuenta de la posición del\nGobierno de España en los distintos encuentros y foros internacionales en\nlos que ha participado, así como para informar sobre los últimos\naccidentes y la situación actual del servicio ferroviario.",
+        "type": "briefing",
+        "nativeType": "ES-comparecencia"
+      },
+      "dateStart": "2026-02-11T12:12:00+01:00",
+      "dateEnd": "2026-02-11T12:17:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_158/cortes/15_000400_158_0_26987_767354.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1567354I",
+        "duration": 300.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_158_0_26987_767354",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Cristina Valido García",
+          "lastname": "Valido García",
+          "firstname": "Cristina",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Mixto"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 21
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 164
+      },
+      "agendaItem": {
+        "title": "Solicitud de comparecencia urgente del Presidente del Gobierno ante\nel Pleno de la Cámara, para informar sobre las causas, consecuencias y\nmedidas adoptadas en relación con los accidentes ferroviarios de los días\n18 y 20/01/2026 en las provincias de Córdoba y Barcelona.",
+        "officialTitle": "Solicitud de comparecencia urgente del Presidente del Gobierno ante\nel Pleno de la Cámara, para informar sobre las causas, consecuencias y\nmedidas adoptadas en relación con los accidentes ferroviarios de los días\n18 y 20/01/2026 en las provincias de Córdoba y Barcelona.",
+        "type": "briefing",
+        "nativeType": "ES-comparecencia"
+      },
+      "dateStart": "2026-02-11T12:12:00+01:00",
+      "dateEnd": "2026-02-11T12:17:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_158/cortes/15_000400_158_0_26987_767354.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1567354I",
+        "duration": 300.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_158_0_26987_767354",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Cristina Valido García",
+          "lastname": "Valido García",
+          "firstname": "Cristina",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Mixto"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 22
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 164
+      },
+      "agendaItem": {
+        "title": "Solicitud de comparecencia, a petición propia, del Presidente del\nGobierno ante el Pleno de la Cámara, para dar cuenta de la posición del\nGobierno de España en los distintos encuentros y foros internacionales en\nlos que ha participado, así como para informar sobre los últimos\naccidentes y la situación actual del servicio ferroviario.",
+        "officialTitle": "Solicitud de comparecencia, a petición propia, del Presidente del\nGobierno ante el Pleno de la Cámara, para dar cuenta de la posición del\nGobierno de España en los distintos encuentros y foros internacionales en\nlos que ha participado, así como para informar sobre los últimos\naccidentes y la situación actual del servicio ferroviario.",
+        "type": "briefing",
+        "nativeType": "ES-comparecencia"
+      },
+      "dateStart": "2026-02-11T12:17:00+01:00",
+      "dateEnd": "2026-02-11T12:22:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_158/cortes/15_000400_158_0_26987_767355.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1567355I",
+        "duration": 300.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_158_0_26987_767355",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Alberto Catalán Higueras",
+          "lastname": "Catalán Higueras",
+          "firstname": "Alberto",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Mixto"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 23
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 164
+      },
+      "agendaItem": {
+        "title": "Solicitud de comparecencia urgente del Presidente del Gobierno ante\nel Pleno de la Cámara, para informar sobre las causas, consecuencias y\nmedidas adoptadas en relación con los accidentes ferroviarios de los días\n18 y 20/01/2026 en las provincias de Córdoba y Barcelona.",
+        "officialTitle": "Solicitud de comparecencia urgente del Presidente del Gobierno ante\nel Pleno de la Cámara, para informar sobre las causas, consecuencias y\nmedidas adoptadas en relación con los accidentes ferroviarios de los días\n18 y 20/01/2026 en las provincias de Córdoba y Barcelona.",
+        "type": "briefing",
+        "nativeType": "ES-comparecencia"
+      },
+      "dateStart": "2026-02-11T12:17:00+01:00",
+      "dateEnd": "2026-02-11T12:22:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_158/cortes/15_000400_158_0_26987_767355.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1567355I",
+        "duration": 300.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_158_0_26987_767355",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Alberto Catalán Higueras",
+          "lastname": "Catalán Higueras",
+          "firstname": "Alberto",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Mixto"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 24
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 164
+      },
+      "agendaItem": {
+        "title": "Solicitud de comparecencia, a petición propia, del Presidente del\nGobierno ante el Pleno de la Cámara, para dar cuenta de la posición del\nGobierno de España en los distintos encuentros y foros internacionales en\nlos que ha participado, así como para informar sobre los últimos\naccidentes y la situación actual del servicio ferroviario.",
+        "officialTitle": "Solicitud de comparecencia, a petición propia, del Presidente del\nGobierno ante el Pleno de la Cámara, para dar cuenta de la posición del\nGobierno de España en los distintos encuentros y foros internacionales en\nlos que ha participado, así como para informar sobre los últimos\naccidentes y la situación actual del servicio ferroviario.",
+        "type": "briefing",
+        "nativeType": "ES-comparecencia"
+      },
+      "dateStart": "2026-02-11T12:22:00+01:00",
+      "dateEnd": "2026-02-11T12:27:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_158/cortes/15_000400_158_0_26987_767356.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1567356I",
+        "duration": 300.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_158_0_26987_767356",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Àgueda Micó Micó",
+          "lastname": "Micó Micó",
+          "firstname": "Àgueda",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Mixto"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 25
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 164
+      },
+      "agendaItem": {
+        "title": "Solicitud de comparecencia urgente del Presidente del Gobierno ante\nel Pleno de la Cámara, para informar sobre las causas, consecuencias y\nmedidas adoptadas en relación con los accidentes ferroviarios de los días\n18 y 20/01/2026 en las provincias de Córdoba y Barcelona.",
+        "officialTitle": "Solicitud de comparecencia urgente del Presidente del Gobierno ante\nel Pleno de la Cámara, para informar sobre las causas, consecuencias y\nmedidas adoptadas en relación con los accidentes ferroviarios de los días\n18 y 20/01/2026 en las provincias de Córdoba y Barcelona.",
+        "type": "briefing",
+        "nativeType": "ES-comparecencia"
+      },
+      "dateStart": "2026-02-11T12:22:00+01:00",
+      "dateEnd": "2026-02-11T12:27:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_158/cortes/15_000400_158_0_26987_767356.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1567356I",
+        "duration": 300.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_158_0_26987_767356",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Àgueda Micó Micó",
+          "lastname": "Micó Micó",
+          "firstname": "Àgueda",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Mixto"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 26
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 164
+      },
+      "agendaItem": {
+        "title": "Solicitud de comparecencia urgente del Presidente del Gobierno ante\nel Pleno de la Cámara, para informar sobre las causas, consecuencias y\nmedidas adoptadas en relación con los accidentes ferroviarios de los días\n18 y 20/01/2026 en las provincias de Córdoba y Barcelona.",
+        "officialTitle": "Solicitud de comparecencia urgente del Presidente del Gobierno ante\nel Pleno de la Cámara, para informar sobre las causas, consecuencias y\nmedidas adoptadas en relación con los accidentes ferroviarios de los días\n18 y 20/01/2026 en las provincias de Córdoba y Barcelona.",
+        "type": "briefing",
+        "nativeType": "ES-comparecencia"
+      },
+      "dateStart": "2026-02-11T12:27:00+01:00",
+      "dateEnd": "2026-02-11T12:49:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_158/cortes/15_000400_158_0_26987_767357.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1567357I",
+        "duration": 1320.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_158_0_26987_767357",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Patxi López Álvarez",
+          "lastname": "López Álvarez",
+          "firstname": "Patxi",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Socialista"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 27
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 164
+      },
+      "agendaItem": {
+        "title": "Solicitud de comparecencia, a petición propia, del Presidente del\nGobierno ante el Pleno de la Cámara, para dar cuenta de la posición del\nGobierno de España en los distintos encuentros y foros internacionales en\nlos que ha participado, así como para informar sobre los últimos\naccidentes y la situación actual del servicio ferroviario.",
+        "officialTitle": "Solicitud de comparecencia, a petición propia, del Presidente del\nGobierno ante el Pleno de la Cámara, para dar cuenta de la posición del\nGobierno de España en los distintos encuentros y foros internacionales en\nlos que ha participado, así como para informar sobre los últimos\naccidentes y la situación actual del servicio ferroviario.",
+        "type": "briefing",
+        "nativeType": "ES-comparecencia"
+      },
+      "dateStart": "2026-02-11T12:27:00+01:00",
+      "dateEnd": "2026-02-11T12:49:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_158/cortes/15_000400_158_0_26987_767357.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1567357I",
+        "duration": 1320.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_158_0_26987_767357",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Patxi López Álvarez",
+          "lastname": "López Álvarez",
+          "firstname": "Patxi",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Socialista"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 28
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 164
+      },
+      "agendaItem": {
+        "title": "Solicitud de comparecencia urgente del Presidente del Gobierno ante\nel Pleno de la Cámara, para informar sobre las causas, consecuencias y\nmedidas adoptadas en relación con los accidentes ferroviarios de los días\n18 y 20/01/2026 en las provincias de Córdoba y Barcelona.",
+        "officialTitle": "Solicitud de comparecencia urgente del Presidente del Gobierno ante\nel Pleno de la Cámara, para informar sobre las causas, consecuencias y\nmedidas adoptadas en relación con los accidentes ferroviarios de los días\n18 y 20/01/2026 en las provincias de Córdoba y Barcelona.",
+        "type": "briefing",
+        "nativeType": "ES-comparecencia"
+      },
+      "dateStart": "2026-02-11T12:55:00+01:00",
+      "dateEnd": "2026-02-11T14:37:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_158/cortes/15_000400_158_1_26990_767366.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1567366I",
+        "duration": 6120.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_158_1_26990_767366",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Pedro Sánchez Pérez-Castejón",
+          "lastname": "Sánchez Pérez-Castejón",
+          "firstname": "Pedro",
+          "type": "member of government",
+          "role": "Presidente del Gobierno",
+          "faction": {
+            "label": "Grupo Parlamentario Socialista"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 29
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 164
+      },
+      "agendaItem": {
+        "title": "Solicitud de comparecencia, a petición propia, del Presidente del\nGobierno ante el Pleno de la Cámara, para dar cuenta de la posición del\nGobierno de España en los distintos encuentros y foros internacionales en\nlos que ha participado, así como para informar sobre los últimos\naccidentes y la situación actual del servicio ferroviario.",
+        "officialTitle": "Solicitud de comparecencia, a petición propia, del Presidente del\nGobierno ante el Pleno de la Cámara, para dar cuenta de la posición del\nGobierno de España en los distintos encuentros y foros internacionales en\nlos que ha participado, así como para informar sobre los últimos\naccidentes y la situación actual del servicio ferroviario.",
+        "type": "briefing",
+        "nativeType": "ES-comparecencia"
+      },
+      "dateStart": "2026-02-11T12:55:00+01:00",
+      "dateEnd": "2026-02-11T14:37:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_158/cortes/15_000400_158_1_26990_767366.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1567366I",
+        "duration": 6120.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_158_1_26990_767366",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Pedro Sánchez Pérez-Castejón",
+          "lastname": "Sánchez Pérez-Castejón",
+          "firstname": "Pedro",
+          "type": "member of government",
+          "role": "Presidente del Gobierno",
+          "faction": {
+            "label": "Grupo Parlamentario Socialista"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 30
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 164
+      },
+      "agendaItem": {
+        "title": "Solicitud de comparecencia urgente del Presidente del Gobierno ante\nel Pleno de la Cámara, para informar sobre las causas, consecuencias y\nmedidas adoptadas en relación con los accidentes ferroviarios de los días\n18 y 20/01/2026 en las provincias de Córdoba y Barcelona.",
+        "officialTitle": "Solicitud de comparecencia urgente del Presidente del Gobierno ante\nel Pleno de la Cámara, para informar sobre las causas, consecuencias y\nmedidas adoptadas en relación con los accidentes ferroviarios de los días\n18 y 20/01/2026 en las provincias de Córdoba y Barcelona.",
+        "type": "briefing",
+        "nativeType": "ES-comparecencia"
+      },
+      "dateStart": "2026-02-11T14:37:00+01:00",
+      "dateEnd": "2026-02-11T14:45:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_158/cortes/15_000400_158_1_26990_767367.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1567367I",
+        "duration": 480.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_158_1_26990_767367",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Alberto Núñez Feijóo",
+          "lastname": "Núñez Feijóo",
+          "firstname": "Alberto",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Popular en el Congreso"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 31
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 164
+      },
+      "agendaItem": {
+        "title": "Solicitud de comparecencia, a petición propia, del Presidente del\nGobierno ante el Pleno de la Cámara, para dar cuenta de la posición del\nGobierno de España en los distintos encuentros y foros internacionales en\nlos que ha participado, así como para informar sobre los últimos\naccidentes y la situación actual del servicio ferroviario.",
+        "officialTitle": "Solicitud de comparecencia, a petición propia, del Presidente del\nGobierno ante el Pleno de la Cámara, para dar cuenta de la posición del\nGobierno de España en los distintos encuentros y foros internacionales en\nlos que ha participado, así como para informar sobre los últimos\naccidentes y la situación actual del servicio ferroviario.",
+        "type": "briefing",
+        "nativeType": "ES-comparecencia"
+      },
+      "dateStart": "2026-02-11T14:37:00+01:00",
+      "dateEnd": "2026-02-11T14:45:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_158/cortes/15_000400_158_1_26990_767367.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1567367I",
+        "duration": 480.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_158_1_26990_767367",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Alberto Núñez Feijóo",
+          "lastname": "Núñez Feijóo",
+          "firstname": "Alberto",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Popular en el Congreso"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 32
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 164
+      },
+      "agendaItem": {
+        "title": "Solicitud de comparecencia urgente del Presidente del Gobierno ante\nel Pleno de la Cámara, para informar sobre las causas, consecuencias y\nmedidas adoptadas en relación con los accidentes ferroviarios de los días\n18 y 20/01/2026 en las provincias de Córdoba y Barcelona.",
+        "officialTitle": "Solicitud de comparecencia urgente del Presidente del Gobierno ante\nel Pleno de la Cámara, para informar sobre las causas, consecuencias y\nmedidas adoptadas en relación con los accidentes ferroviarios de los días\n18 y 20/01/2026 en las provincias de Córdoba y Barcelona.",
+        "type": "briefing",
+        "nativeType": "ES-comparecencia"
+      },
+      "dateStart": "2026-02-11T14:45:00+01:00",
+      "dateEnd": "2026-02-11T14:52:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_158/cortes/15_000400_158_1_26990_767368.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1567368I",
+        "duration": 420.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_158_1_26990_767368",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Santiago Abascal Conde",
+          "lastname": "Abascal Conde",
+          "firstname": "Santiago",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario VOX"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 33
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 164
+      },
+      "agendaItem": {
+        "title": "Solicitud de comparecencia, a petición propia, del Presidente del\nGobierno ante el Pleno de la Cámara, para dar cuenta de la posición del\nGobierno de España en los distintos encuentros y foros internacionales en\nlos que ha participado, así como para informar sobre los últimos\naccidentes y la situación actual del servicio ferroviario.",
+        "officialTitle": "Solicitud de comparecencia, a petición propia, del Presidente del\nGobierno ante el Pleno de la Cámara, para dar cuenta de la posición del\nGobierno de España en los distintos encuentros y foros internacionales en\nlos que ha participado, así como para informar sobre los últimos\naccidentes y la situación actual del servicio ferroviario.",
+        "type": "briefing",
+        "nativeType": "ES-comparecencia"
+      },
+      "dateStart": "2026-02-11T14:45:00+01:00",
+      "dateEnd": "2026-02-11T14:52:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_158/cortes/15_000400_158_1_26990_767368.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1567368I",
+        "duration": 420.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_158_1_26990_767368",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Santiago Abascal Conde",
+          "lastname": "Abascal Conde",
+          "firstname": "Santiago",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario VOX"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 34
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 164
+      },
+      "agendaItem": {
+        "title": "Solicitud de comparecencia urgente del Presidente del Gobierno ante\nel Pleno de la Cámara, para informar sobre las causas, consecuencias y\nmedidas adoptadas en relación con los accidentes ferroviarios de los días\n18 y 20/01/2026 en las provincias de Córdoba y Barcelona.",
+        "officialTitle": "Solicitud de comparecencia urgente del Presidente del Gobierno ante\nel Pleno de la Cámara, para informar sobre las causas, consecuencias y\nmedidas adoptadas en relación con los accidentes ferroviarios de los días\n18 y 20/01/2026 en las provincias de Córdoba y Barcelona.",
+        "type": "briefing",
+        "nativeType": "ES-comparecencia"
+      },
+      "dateStart": "2026-02-11T14:52:00+01:00",
+      "dateEnd": "2026-02-11T14:58:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_158/cortes/15_000400_158_1_26990_767369.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1567369I",
+        "duration": 360.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_158_1_26990_767369",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Verónica Martínez Barbero",
+          "lastname": "Martínez Barbero",
+          "firstname": "Verónica",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Plurinacional SUMAR"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 35
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 164
+      },
+      "agendaItem": {
+        "title": "Solicitud de comparecencia, a petición propia, del Presidente del\nGobierno ante el Pleno de la Cámara, para dar cuenta de la posición del\nGobierno de España en los distintos encuentros y foros internacionales en\nlos que ha participado, así como para informar sobre los últimos\naccidentes y la situación actual del servicio ferroviario.",
+        "officialTitle": "Solicitud de comparecencia, a petición propia, del Presidente del\nGobierno ante el Pleno de la Cámara, para dar cuenta de la posición del\nGobierno de España en los distintos encuentros y foros internacionales en\nlos que ha participado, así como para informar sobre los últimos\naccidentes y la situación actual del servicio ferroviario.",
+        "type": "briefing",
+        "nativeType": "ES-comparecencia"
+      },
+      "dateStart": "2026-02-11T14:52:00+01:00",
+      "dateEnd": "2026-02-11T14:58:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_158/cortes/15_000400_158_1_26990_767369.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1567369I",
+        "duration": 360.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_158_1_26990_767369",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Verónica Martínez Barbero",
+          "lastname": "Martínez Barbero",
+          "firstname": "Verónica",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Plurinacional SUMAR"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 36
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 164
+      },
+      "agendaItem": {
+        "title": "Solicitud de comparecencia urgente del Presidente del Gobierno ante\nel Pleno de la Cámara, para informar sobre las causas, consecuencias y\nmedidas adoptadas en relación con los accidentes ferroviarios de los días\n18 y 20/01/2026 en las provincias de Córdoba y Barcelona.",
+        "officialTitle": "Solicitud de comparecencia urgente del Presidente del Gobierno ante\nel Pleno de la Cámara, para informar sobre las causas, consecuencias y\nmedidas adoptadas en relación con los accidentes ferroviarios de los días\n18 y 20/01/2026 en las provincias de Córdoba y Barcelona.",
+        "type": "briefing",
+        "nativeType": "ES-comparecencia"
+      },
+      "dateStart": "2026-02-11T14:58:00+01:00",
+      "dateEnd": "2026-02-11T15:03:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_158/cortes/15_000400_158_1_26990_767370.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1567370I",
+        "duration": 300.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_158_1_26990_767370",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Gabriel Rufián Romero",
+          "lastname": "Rufián Romero",
+          "firstname": "Gabriel",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Republicano"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 37
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 164
+      },
+      "agendaItem": {
+        "title": "Solicitud de comparecencia, a petición propia, del Presidente del\nGobierno ante el Pleno de la Cámara, para dar cuenta de la posición del\nGobierno de España en los distintos encuentros y foros internacionales en\nlos que ha participado, así como para informar sobre los últimos\naccidentes y la situación actual del servicio ferroviario.",
+        "officialTitle": "Solicitud de comparecencia, a petición propia, del Presidente del\nGobierno ante el Pleno de la Cámara, para dar cuenta de la posición del\nGobierno de España en los distintos encuentros y foros internacionales en\nlos que ha participado, así como para informar sobre los últimos\naccidentes y la situación actual del servicio ferroviario.",
+        "type": "briefing",
+        "nativeType": "ES-comparecencia"
+      },
+      "dateStart": "2026-02-11T14:58:00+01:00",
+      "dateEnd": "2026-02-11T15:03:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_158/cortes/15_000400_158_1_26990_767370.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1567370I",
+        "duration": 300.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_158_1_26990_767370",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Gabriel Rufián Romero",
+          "lastname": "Rufián Romero",
+          "firstname": "Gabriel",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Republicano"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 38
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 164
+      },
+      "agendaItem": {
+        "title": "Solicitud de comparecencia urgente del Presidente del Gobierno ante\nel Pleno de la Cámara, para informar sobre las causas, consecuencias y\nmedidas adoptadas en relación con los accidentes ferroviarios de los días\n18 y 20/01/2026 en las provincias de Córdoba y Barcelona.",
+        "officialTitle": "Solicitud de comparecencia urgente del Presidente del Gobierno ante\nel Pleno de la Cámara, para informar sobre las causas, consecuencias y\nmedidas adoptadas en relación con los accidentes ferroviarios de los días\n18 y 20/01/2026 en las provincias de Córdoba y Barcelona.",
+        "type": "briefing",
+        "nativeType": "ES-comparecencia"
+      },
+      "dateStart": "2026-02-11T15:03:00+01:00",
+      "dateEnd": "2026-02-11T15:06:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_158/cortes/15_000400_158_1_26990_767371.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1567371I",
+        "duration": 180.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_158_1_26990_767371",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Míriam Nogueras i Camero",
+          "lastname": "Nogueras i Camero",
+          "firstname": "Míriam",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Junts per Catalunya"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 39
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 164
+      },
+      "agendaItem": {
+        "title": "Solicitud de comparecencia, a petición propia, del Presidente del\nGobierno ante el Pleno de la Cámara, para dar cuenta de la posición del\nGobierno de España en los distintos encuentros y foros internacionales en\nlos que ha participado, así como para informar sobre los últimos\naccidentes y la situación actual del servicio ferroviario.",
+        "officialTitle": "Solicitud de comparecencia, a petición propia, del Presidente del\nGobierno ante el Pleno de la Cámara, para dar cuenta de la posición del\nGobierno de España en los distintos encuentros y foros internacionales en\nlos que ha participado, así como para informar sobre los últimos\naccidentes y la situación actual del servicio ferroviario.",
+        "type": "briefing",
+        "nativeType": "ES-comparecencia"
+      },
+      "dateStart": "2026-02-11T15:03:00+01:00",
+      "dateEnd": "2026-02-11T15:06:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_158/cortes/15_000400_158_1_26990_767371.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1567371I",
+        "duration": 180.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_158_1_26990_767371",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Míriam Nogueras i Camero",
+          "lastname": "Nogueras i Camero",
+          "firstname": "Míriam",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Junts per Catalunya"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 40
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 164
+      },
+      "agendaItem": {
+        "title": "Solicitud de comparecencia urgente del Presidente del Gobierno ante\nel Pleno de la Cámara, para informar sobre las causas, consecuencias y\nmedidas adoptadas en relación con los accidentes ferroviarios de los días\n18 y 20/01/2026 en las provincias de Córdoba y Barcelona.",
+        "officialTitle": "Solicitud de comparecencia urgente del Presidente del Gobierno ante\nel Pleno de la Cámara, para informar sobre las causas, consecuencias y\nmedidas adoptadas en relación con los accidentes ferroviarios de los días\n18 y 20/01/2026 en las provincias de Córdoba y Barcelona.",
+        "type": "briefing",
+        "nativeType": "ES-comparecencia"
+      },
+      "dateStart": "2026-02-11T15:06:00+01:00",
+      "dateEnd": "2026-02-11T15:11:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_158/cortes/15_000400_158_1_26990_767372.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1567372I",
+        "duration": 300.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_158_1_26990_767372",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Patxi López Álvarez",
+          "lastname": "López Álvarez",
+          "firstname": "Patxi",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Socialista"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 41
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 164
+      },
+      "agendaItem": {
+        "title": "Solicitud de comparecencia, a petición propia, del Presidente del\nGobierno ante el Pleno de la Cámara, para dar cuenta de la posición del\nGobierno de España en los distintos encuentros y foros internacionales en\nlos que ha participado, así como para informar sobre los últimos\naccidentes y la situación actual del servicio ferroviario.",
+        "officialTitle": "Solicitud de comparecencia, a petición propia, del Presidente del\nGobierno ante el Pleno de la Cámara, para dar cuenta de la posición del\nGobierno de España en los distintos encuentros y foros internacionales en\nlos que ha participado, así como para informar sobre los últimos\naccidentes y la situación actual del servicio ferroviario.",
+        "type": "briefing",
+        "nativeType": "ES-comparecencia"
+      },
+      "dateStart": "2026-02-11T15:06:00+01:00",
+      "dateEnd": "2026-02-11T15:11:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_158/cortes/15_000400_158_1_26990_767372.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1567372I",
+        "duration": 300.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_158_1_26990_767372",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Patxi López Álvarez",
+          "lastname": "López Álvarez",
+          "firstname": "Patxi",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Socialista"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 42
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 164
+      },
+      "agendaItem": {
+        "title": "Solicitud de comparecencia urgente del Presidente del Gobierno ante\nel Pleno de la Cámara, para informar sobre las causas, consecuencias y\nmedidas adoptadas en relación con los accidentes ferroviarios de los días\n18 y 20/01/2026 en las provincias de Córdoba y Barcelona.",
+        "officialTitle": "Solicitud de comparecencia urgente del Presidente del Gobierno ante\nel Pleno de la Cámara, para informar sobre las causas, consecuencias y\nmedidas adoptadas en relación con los accidentes ferroviarios de los días\n18 y 20/01/2026 en las provincias de Córdoba y Barcelona.",
+        "type": "briefing",
+        "nativeType": "ES-comparecencia"
+      },
+      "dateStart": "2026-02-11T15:11:00+01:00",
+      "dateEnd": "2026-02-11T15:18:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_158/cortes/15_000400_158_1_26990_767373.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1567373I",
+        "duration": 420.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_158_1_26990_767373",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Pedro Sánchez Pérez-Castejón",
+          "lastname": "Sánchez Pérez-Castejón",
+          "firstname": "Pedro",
+          "type": "member of government",
+          "role": "Presidente del Gobierno",
+          "faction": {
+            "label": "Grupo Parlamentario Socialista"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 43
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 164
+      },
+      "agendaItem": {
+        "title": "Solicitud de comparecencia, a petición propia, del Presidente del\nGobierno ante el Pleno de la Cámara, para dar cuenta de la posición del\nGobierno de España en los distintos encuentros y foros internacionales en\nlos que ha participado, así como para informar sobre los últimos\naccidentes y la situación actual del servicio ferroviario.",
+        "officialTitle": "Solicitud de comparecencia, a petición propia, del Presidente del\nGobierno ante el Pleno de la Cámara, para dar cuenta de la posición del\nGobierno de España en los distintos encuentros y foros internacionales en\nlos que ha participado, así como para informar sobre los últimos\naccidentes y la situación actual del servicio ferroviario.",
+        "type": "briefing",
+        "nativeType": "ES-comparecencia"
+      },
+      "dateStart": "2026-02-11T15:11:00+01:00",
+      "dateEnd": "2026-02-11T15:18:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_158/cortes/15_000400_158_1_26990_767373.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1567373I",
+        "duration": 420.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_158_1_26990_767373",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Pedro Sánchez Pérez-Castejón",
+          "lastname": "Sánchez Pérez-Castejón",
+          "firstname": "Pedro",
+          "type": "member of government",
+          "role": "Presidente del Gobierno",
+          "faction": {
+            "label": "Grupo Parlamentario Socialista"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 44
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 164
+      },
+      "agendaItem": {
+        "title": "¿Está usted actuando con la responsabilidad exigible a un Presidente\ndel Gobierno de España?",
+        "officialTitle": "¿Está usted actuando con la responsabilidad exigible a un Presidente\ndel Gobierno de España?",
+        "type": "qa",
+        "nativeType": "ES-pregunta"
+      },
+      "dateStart": "2026-02-11T15:18:00+01:00",
+      "dateEnd": "2026-02-11T15:19:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_158/cortes/15_000400_158_1_26990_767376.mp4\nhttps://www.congreso.es/audiovisual/video/leg15/400/15_000400_158/cortes/15_000400_158_1_26990_767378.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1567376I https://app.congreso.es/v1/15767378I",
+        "duration": 60.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_158_1_26990_767378",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Alberto Núñez Feijóo",
+          "lastname": "Núñez Feijóo",
+          "firstname": "Alberto",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Popular en el Congreso"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 45
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 164
+      },
+      "agendaItem": {
+        "title": "¿Está usted actuando con la responsabilidad exigible a un Presidente\ndel Gobierno de España?",
+        "officialTitle": "¿Está usted actuando con la responsabilidad exigible a un Presidente\ndel Gobierno de España?",
+        "type": "qa",
+        "nativeType": "ES-pregunta"
+      },
+      "dateStart": "2026-02-11T15:19:00+01:00",
+      "dateEnd": "2026-02-11T15:21:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_158/cortes/15_000400_158_1_26990_767377.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1567377I",
+        "duration": 120.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_158_1_26990_767377",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Pedro Sánchez Pérez-Castejón",
+          "lastname": "Sánchez Pérez-Castejón",
+          "firstname": "Pedro",
+          "type": "member of government",
+          "role": "Presidente del Gobierno",
+          "faction": {
+            "label": "Grupo Parlamentario Socialista"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 46
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 164
+      },
+      "agendaItem": {
+        "title": "¿Está usted actuando con la responsabilidad exigible a un Presidente\ndel Gobierno de España?",
+        "officialTitle": "¿Está usted actuando con la responsabilidad exigible a un Presidente\ndel Gobierno de España?",
+        "type": "qa",
+        "nativeType": "ES-pregunta"
+      },
+      "dateStart": "2026-02-11T15:23:00+01:00",
+      "dateEnd": "2026-02-11T15:25:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_158/cortes/15_000400_158_1_26990_767379.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1567379I",
+        "duration": 120.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_158_1_26990_767379",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Pedro Sánchez Pérez-Castejón",
+          "lastname": "Sánchez Pérez-Castejón",
+          "firstname": "Pedro",
+          "type": "member of government",
+          "role": "Presidente del Gobierno",
+          "faction": {
+            "label": "Grupo Parlamentario Socialista"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 47
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 164
+      },
+      "agendaItem": {
+        "title": "¿Qué relación tiene su anuncio de censurar las redes sociales y la\nregularización de medio millón de inmigrantes ilegales?",
+        "officialTitle": "¿Qué relación tiene su anuncio de censurar las redes sociales y la\nregularización de medio millón de inmigrantes ilegales?",
+        "type": "qa",
+        "nativeType": "ES-pregunta"
+      },
+      "dateStart": "2026-02-11T15:25:00+01:00",
+      "dateEnd": "2026-02-11T15:27:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_158/cortes/15_000400_158_1_26990_767381.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1567381I",
+        "duration": 120.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_158_1_26990_767381",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Santiago Abascal Conde",
+          "lastname": "Abascal Conde",
+          "firstname": "Santiago",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario VOX"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 48
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 164
+      },
+      "agendaItem": {
+        "title": "¿Qué relación tiene su anuncio de censurar las redes sociales y la\nregularización de medio millón de inmigrantes ilegales?",
+        "officialTitle": "¿Qué relación tiene su anuncio de censurar las redes sociales y la\nregularización de medio millón de inmigrantes ilegales?",
+        "type": "qa",
+        "nativeType": "ES-pregunta"
+      },
+      "dateStart": "2026-02-11T15:27:00+01:00",
+      "dateEnd": "2026-02-11T15:29:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_158/cortes/15_000400_158_1_26990_767382.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1567382I",
+        "duration": 120.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_158_1_26990_767382",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Pedro Sánchez Pérez-Castejón",
+          "lastname": "Sánchez Pérez-Castejón",
+          "firstname": "Pedro",
+          "type": "member of government",
+          "role": "Presidente del Gobierno",
+          "faction": {
+            "label": "Grupo Parlamentario Socialista"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 49
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 164
+      },
+      "agendaItem": {
+        "title": "¿Qué relación tiene su anuncio de censurar las redes sociales y la\nregularización de medio millón de inmigrantes ilegales?",
+        "officialTitle": "¿Qué relación tiene su anuncio de censurar las redes sociales y la\nregularización de medio millón de inmigrantes ilegales?",
+        "type": "qa",
+        "nativeType": "ES-pregunta"
+      },
+      "dateStart": "2026-02-11T15:29:00+01:00",
+      "dateEnd": "2026-02-11T15:30:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_158/cortes/15_000400_158_1_26990_767383.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1567383I",
+        "duration": 60.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_158_1_26990_767383",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Santiago Abascal Conde",
+          "lastname": "Abascal Conde",
+          "firstname": "Santiago",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario VOX"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 50
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 164
+      },
+      "agendaItem": {
+        "title": "¿Qué relación tiene su anuncio de censurar las redes sociales y la\nregularización de medio millón de inmigrantes ilegales?",
+        "officialTitle": "¿Qué relación tiene su anuncio de censurar las redes sociales y la\nregularización de medio millón de inmigrantes ilegales?",
+        "type": "qa",
+        "nativeType": "ES-pregunta"
+      },
+      "dateStart": "2026-02-11T15:30:00+01:00",
+      "dateEnd": "2026-02-11T15:31:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_158/cortes/15_000400_158_1_26990_767384.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1567384I",
+        "duration": 60.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_158_1_26990_767384",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Pedro Sánchez Pérez-Castejón",
+          "lastname": "Sánchez Pérez-Castejón",
+          "firstname": "Pedro",
+          "type": "member of government",
+          "role": "Presidente del Gobierno",
+          "faction": {
+            "label": "Grupo Parlamentario Socialista"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 51
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 164
+      },
+      "agendaItem": {
+        "title": "¿Cree que las políticas de su Gobierno son coherentes?",
+        "officialTitle": "¿Cree que las políticas de su Gobierno son coherentes?",
+        "type": "qa",
+        "nativeType": "ES-pregunta"
+      },
+      "dateStart": "2026-02-11T15:31:00+01:00",
+      "dateEnd": "2026-02-11T15:32:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_158/cortes/15_000400_158_1_26990_767386.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1567386I",
+        "duration": 60.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_158_1_26990_767386",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Ester Muñoz de la Iglesia",
+          "lastname": "Muñoz de la Iglesia",
+          "firstname": "Ester",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Popular en el Congreso"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 52
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 164
+      },
+      "agendaItem": {
+        "title": "¿Cree que las políticas de su Gobierno son coherentes?",
+        "officialTitle": "¿Cree que las políticas de su Gobierno son coherentes?",
+        "type": "qa",
+        "nativeType": "ES-pregunta"
+      },
+      "dateStart": "2026-02-11T15:32:00+01:00",
+      "dateEnd": "2026-02-11T15:34:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_158/cortes/15_000400_158_1_26990_767387.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1567387I",
+        "duration": 120.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_158_1_26990_767387",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "María Jesús Montero Cuadrado",
+          "lastname": "Montero Cuadrado",
+          "firstname": "María Jesús",
+          "type": "member of government",
+          "role": "Vicepresidenta Primera del Gobierno y Ministra de Hacienda",
+          "faction": {
+            "label": "Grupo Parlamentario Socialista"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 53
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 164
+      },
+      "agendaItem": {
+        "title": "¿Cree que las políticas de su Gobierno son coherentes?",
+        "officialTitle": "¿Cree que las políticas de su Gobierno son coherentes?",
+        "type": "qa",
+        "nativeType": "ES-pregunta"
+      },
+      "dateStart": "2026-02-11T15:34:00+01:00",
+      "dateEnd": "2026-02-11T15:36:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_158/cortes/15_000400_158_1_26990_767388.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1567388I",
+        "duration": 120.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_158_1_26990_767388",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Ester Muñoz de la Iglesia",
+          "lastname": "Muñoz de la Iglesia",
+          "firstname": "Ester",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Popular en el Congreso"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 54
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 164
+      },
+      "agendaItem": {
+        "title": "¿Cree que las políticas de su Gobierno son coherentes?",
+        "officialTitle": "¿Cree que las políticas de su Gobierno son coherentes?",
+        "type": "qa",
+        "nativeType": "ES-pregunta"
+      },
+      "dateStart": "2026-02-11T15:36:00+01:00",
+      "dateEnd": "2026-02-11T15:38:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_158/cortes/15_000400_158_1_26990_767389.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1567389I",
+        "duration": 120.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_158_1_26990_767389",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "María Jesús Montero Cuadrado",
+          "lastname": "Montero Cuadrado",
+          "firstname": "María Jesús",
+          "type": "member of government",
+          "role": "Vicepresidenta Primera del Gobierno y Ministra de Hacienda",
+          "faction": {
+            "label": "Grupo Parlamentario Socialista"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 55
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 164
+      },
+      "agendaItem": {
+        "title": "¿Cuánto hay que mentir en su Gobierno para dimitir?",
+        "officialTitle": "¿Cuánto hay que mentir en su Gobierno para dimitir?",
+        "type": "qa",
+        "nativeType": "ES-pregunta"
+      },
+      "dateStart": "2026-02-11T15:38:00+01:00",
+      "dateEnd": "2026-02-11T15:39:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_158/cortes/15_000400_158_1_26990_767391.mp4\nhttps://www.congreso.es/audiovisual/video/leg15/400/15_000400_158/cortes/15_000400_158_1_26990_767393.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1567391I https://app.congreso.es/v1/15767393I",
+        "duration": 60.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_158_1_26990_767393",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Elías Bendodo Benasayag",
+          "lastname": "Bendodo Benasayag",
+          "firstname": "Elías",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Popular en el Congreso"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 56
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 164
+      },
+      "agendaItem": {
+        "title": "¿Cuánto hay que mentir en su Gobierno para dimitir?",
+        "officialTitle": "¿Cuánto hay que mentir en su Gobierno para dimitir?",
+        "type": "qa",
+        "nativeType": "ES-pregunta"
+      },
+      "dateStart": "2026-02-11T15:39:00+01:00",
+      "dateEnd": "2026-02-11T15:41:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_158/cortes/15_000400_158_1_26990_767392.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1567392I",
+        "duration": 120.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_158_1_26990_767392",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "María Jesús Montero Cuadrado",
+          "lastname": "Montero Cuadrado",
+          "firstname": "María Jesús",
+          "type": "member of government",
+          "role": "Vicepresidenta Primera del Gobierno y Ministra de Hacienda",
+          "faction": {
+            "label": "Grupo Parlamentario Socialista"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 57
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 164
+      },
+      "agendaItem": {
+        "title": "¿Cuánto hay que mentir en su Gobierno para dimitir?",
+        "officialTitle": "¿Cuánto hay que mentir en su Gobierno para dimitir?",
+        "type": "qa",
+        "nativeType": "ES-pregunta"
+      },
+      "dateStart": "2026-02-11T15:42:00+01:00",
+      "dateEnd": "2026-02-11T15:43:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_158/cortes/15_000400_158_1_26990_767394.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1567394I",
+        "duration": 60.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_158_1_26990_767394",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "María Jesús Montero Cuadrado",
+          "lastname": "Montero Cuadrado",
+          "firstname": "María Jesús",
+          "type": "member of government",
+          "role": "Vicepresidenta Primera del Gobierno y Ministra de Hacienda",
+          "faction": {
+            "label": "Grupo Parlamentario Socialista"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 58
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 164
+      },
+      "agendaItem": {
+        "title": "¿Qué proponen desde el Ministerio de Trabajo y Economía Social para\nla gente que se queda tirada y no puede ir a trabajar?",
+        "officialTitle": "¿Qué proponen desde el Ministerio de Trabajo y Economía Social para\nla gente que se queda tirada y no puede ir a trabajar?",
+        "type": "qa",
+        "nativeType": "ES-pregunta"
+      },
+      "dateStart": "2026-02-11T15:43:00+01:00",
+      "dateEnd": "2026-02-11T15:46:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_158/cortes/15_000400_158_1_26990_767396.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1567396I",
+        "duration": 180.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_158_1_26990_767396",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Jordi Salvador i Duch",
+          "lastname": "Salvador i Duch",
+          "firstname": "Jordi",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Republicano"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 59
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 164
+      },
+      "agendaItem": {
+        "title": "¿Qué proponen desde el Ministerio de Trabajo y Economía Social para\nla gente que se queda tirada y no puede ir a trabajar?",
+        "officialTitle": "¿Qué proponen desde el Ministerio de Trabajo y Economía Social para\nla gente que se queda tirada y no puede ir a trabajar?",
+        "type": "qa",
+        "nativeType": "ES-pregunta"
+      },
+      "dateStart": "2026-02-11T15:46:00+01:00",
+      "dateEnd": "2026-02-11T15:49:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_158/cortes/15_000400_158_1_26990_767397.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1567397I",
+        "duration": 180.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_158_1_26990_767397",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Yolanda Díaz Pérez",
+          "lastname": "Díaz Pérez",
+          "firstname": "Yolanda",
+          "type": "member of government",
+          "role": "Vicepresidenta Segunda y Ministra de Trabajo y Economía Social",
+          "faction": {
+            "label": "Grupo Parlamentario Plurinacional SUMAR"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 60
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 164
+      },
+      "agendaItem": {
+        "title": "¿Qué medidas va a adoptar el Gobierno para evitar que los\nconsumidores sigan asumiendo en su factura eléctrica el sobrecoste\nderivado de las medidas excepcionales aplicadas tras el apagón?",
+        "officialTitle": "¿Qué medidas va a adoptar el Gobierno para evitar que los\nconsumidores sigan asumiendo en su factura eléctrica el sobrecoste\nderivado de las medidas excepcionales aplicadas tras el apagón?",
+        "type": "qa",
+        "nativeType": "ES-pregunta"
+      },
+      "dateStart": "2026-02-11T15:49:00+01:00",
+      "dateEnd": "2026-02-11T15:52:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_158/cortes/15_000400_158_1_26990_767399.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1567399I",
+        "duration": 180.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_158_1_26990_767399",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Idoia Sagastizabal Unzetabarrenetxea",
+          "lastname": "Sagastizabal Unzetabarrenetxea",
+          "firstname": "Idoia",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Vasco (EAJ-PNV)"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 61
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 164
+      },
+      "agendaItem": {
+        "title": "¿Qué medidas va a adoptar el Gobierno para evitar que los\nconsumidores sigan asumiendo en su factura eléctrica el sobrecoste\nderivado de las medidas excepcionales aplicadas tras el apagón?",
+        "officialTitle": "¿Qué medidas va a adoptar el Gobierno para evitar que los\nconsumidores sigan asumiendo en su factura eléctrica el sobrecoste\nderivado de las medidas excepcionales aplicadas tras el apagón?",
+        "type": "qa",
+        "nativeType": "ES-pregunta"
+      },
+      "dateStart": "2026-02-11T15:52:00+01:00",
+      "dateEnd": "2026-02-11T15:54:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_158/cortes/15_000400_158_1_26990_767400.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1567400I",
+        "duration": 120.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_158_1_26990_767400",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Sara Aagesen Muñoz",
+          "lastname": "Aagesen Muñoz",
+          "firstname": "Sara",
+          "type": "member of government",
+          "role": "Vicepresidenta Tercera y Ministra para la Transición Ecológica y el\nReto Demográfico"
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 62
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 164
+      },
+      "agendaItem": {
+        "title": "¿Es España un socio fiable?",
+        "officialTitle": "¿Es España un socio fiable?",
+        "type": "qa",
+        "nativeType": "ES-pregunta"
+      },
+      "dateStart": "2026-02-11T15:54:00+01:00",
+      "dateEnd": "2026-02-11T15:55:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_158/cortes/15_000400_158_1_26990_767403.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1567403I",
+        "duration": 60.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_158_1_26990_767403",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Cayetana Álvarez de Toledo Peralta-Ramos",
+          "lastname": "Álvarez de Toledo Peralta-Ramos",
+          "firstname": "Cayetana",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Popular en el Congreso"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 63
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 164
+      },
+      "agendaItem": {
+        "title": "¿Es España un socio fiable?",
+        "officialTitle": "¿Es España un socio fiable?",
+        "type": "qa",
+        "nativeType": "ES-pregunta"
+      },
+      "dateStart": "2026-02-11T15:55:00+01:00",
+      "dateEnd": "2026-02-11T15:56:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_158/cortes/15_000400_158_1_26990_767404.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1567404I",
+        "duration": 60.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_158_1_26990_767404",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "José Manuel Albares Bueno",
+          "lastname": "Albares Bueno",
+          "firstname": "José Manuel",
+          "type": "member of government",
+          "role": "Ministro de Asuntos Exteriores, Unión Europea y Cooperación"
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 64
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 164
+      },
+      "agendaItem": {
+        "title": "¿Es España un socio fiable?",
+        "officialTitle": "¿Es España un socio fiable?",
+        "type": "qa",
+        "nativeType": "ES-pregunta"
+      },
+      "dateStart": "2026-02-11T15:56:00+01:00",
+      "dateEnd": "2026-02-11T15:58:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_158/cortes/15_000400_158_1_26990_767405.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1567405I",
+        "duration": 120.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_158_1_26990_767405",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Cayetana Álvarez de Toledo Peralta-Ramos",
+          "lastname": "Álvarez de Toledo Peralta-Ramos",
+          "firstname": "Cayetana",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Popular en el Congreso"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 65
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 164
+      },
+      "agendaItem": {
+        "title": "¿Es España un socio fiable?",
+        "officialTitle": "¿Es España un socio fiable?",
+        "type": "qa",
+        "nativeType": "ES-pregunta"
+      },
+      "dateStart": "2026-02-11T15:58:00+01:00",
+      "dateEnd": "2026-02-11T16:01:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_158/cortes/15_000400_158_1_26990_767406.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1567406I",
+        "duration": 180.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_158_1_26990_767406",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "José Manuel Albares Bueno",
+          "lastname": "Albares Bueno",
+          "firstname": "José Manuel",
+          "type": "member of government",
+          "role": "Ministro de Asuntos Exteriores, Unión Europea y Cooperación"
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 66
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 164
+      },
+      "agendaItem": {
+        "title": "¿Qué más tiene que pasar esta legislatura para que dimitan y\nconvoquen elecciones?",
+        "officialTitle": "¿Qué más tiene que pasar esta legislatura para que dimitan y\nconvoquen elecciones?",
+        "type": "qa",
+        "nativeType": "ES-pregunta"
+      },
+      "dateStart": "2026-02-11T16:01:00+01:00",
+      "dateEnd": "2026-02-11T16:03:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_158/cortes/15_000400_158_1_26990_767408.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1567408I",
+        "duration": 120.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_158_1_26990_767408",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Miguel Tellado Filgueira",
+          "lastname": "Tellado Filgueira",
+          "firstname": "Miguel",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Popular en el Congreso"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 67
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 164
+      },
+      "agendaItem": {
+        "title": "¿Qué más tiene que pasar esta legislatura para que dimitan y\nconvoquen elecciones?",
+        "officialTitle": "¿Qué más tiene que pasar esta legislatura para que dimitan y\nconvoquen elecciones?",
+        "type": "qa",
+        "nativeType": "ES-pregunta"
+      },
+      "dateStart": "2026-02-11T16:03:00+01:00",
+      "dateEnd": "2026-02-11T16:05:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_158/cortes/15_000400_158_1_26990_767409.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1567409I",
+        "duration": 120.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_158_1_26990_767409",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Félix Bolaños García",
+          "lastname": "Bolaños García",
+          "firstname": "Félix",
+          "type": "member of government",
+          "role": "Ministro de la Presidencia, Justicia y Relaciones con las Cortes",
+          "faction": {
+            "label": "Grupo Parlamentario Socialista"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 68
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 164
+      },
+      "agendaItem": {
+        "title": "¿Qué más tiene que pasar esta legislatura para que dimitan y\nconvoquen elecciones?",
+        "officialTitle": "¿Qué más tiene que pasar esta legislatura para que dimitan y\nconvoquen elecciones?",
+        "type": "qa",
+        "nativeType": "ES-pregunta"
+      },
+      "dateStart": "2026-02-11T16:05:00+01:00",
+      "dateEnd": "2026-02-11T16:06:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_158/cortes/15_000400_158_1_26990_767410.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1567410I",
+        "duration": 60.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_158_1_26990_767410",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Miguel Tellado Filgueira",
+          "lastname": "Tellado Filgueira",
+          "firstname": "Miguel",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Popular en el Congreso"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 69
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 164
+      },
+      "agendaItem": {
+        "title": "¿Qué más tiene que pasar esta legislatura para que dimitan y\nconvoquen elecciones?",
+        "officialTitle": "¿Qué más tiene que pasar esta legislatura para que dimitan y\nconvoquen elecciones?",
+        "type": "qa",
+        "nativeType": "ES-pregunta"
+      },
+      "dateStart": "2026-02-11T16:06:00+01:00",
+      "dateEnd": "2026-02-11T16:07:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_158/cortes/15_000400_158_1_26990_767411.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1567411I",
+        "duration": 60.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_158_1_26990_767411",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Félix Bolaños García",
+          "lastname": "Bolaños García",
+          "firstname": "Félix",
+          "type": "member of government",
+          "role": "Ministro de la Presidencia, Justicia y Relaciones con las Cortes",
+          "faction": {
+            "label": "Grupo Parlamentario Socialista"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 70
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 164
+      },
+      "agendaItem": {
+        "title": "¿Cuál es la prioridad de su Gobierno?",
+        "officialTitle": "¿Cuál es la prioridad de su Gobierno?",
+        "type": "qa",
+        "nativeType": "ES-pregunta"
+      },
+      "dateStart": "2026-02-11T16:07:00+01:00",
+      "dateEnd": "2026-02-11T16:08:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_158/cortes/15_000400_158_1_26990_767413.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1567413I",
+        "duration": 60.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_158_1_26990_767413",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Concepción Gamarra Ruiz-Clavijo",
+          "lastname": "Gamarra Ruiz-Clavijo",
+          "firstname": "Concepción",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Popular en el Congreso"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 71
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 164
+      },
+      "agendaItem": {
+        "title": "¿Cuál es la prioridad de su Gobierno?",
+        "officialTitle": "¿Cuál es la prioridad de su Gobierno?",
+        "type": "qa",
+        "nativeType": "ES-pregunta"
+      },
+      "dateStart": "2026-02-11T16:08:00+01:00",
+      "dateEnd": "2026-02-11T16:11:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_158/cortes/15_000400_158_1_26990_767414.mp4\nhttps://www.congreso.es/audiovisual/video/leg15/400/15_000400_158/cortes/15_000400_158_1_26990_767416.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1567414I https://app.congreso.es/v1/15767416I",
+        "duration": 180.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_158_1_26990_767416",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Félix Bolaños García",
+          "lastname": "Bolaños García",
+          "firstname": "Félix",
+          "type": "member of government",
+          "role": "Ministro de la Presidencia, Justicia y Relaciones con las Cortes",
+          "faction": {
+            "label": "Grupo Parlamentario Socialista"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 72
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 164
+      },
+      "agendaItem": {
+        "title": "¿Cuál es la prioridad de su Gobierno?",
+        "officialTitle": "¿Cuál es la prioridad de su Gobierno?",
+        "type": "qa",
+        "nativeType": "ES-pregunta"
+      },
+      "dateStart": "2026-02-11T16:11:00+01:00",
+      "dateEnd": "2026-02-11T16:12:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_158/cortes/15_000400_158_1_26990_767415.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1567415I",
+        "duration": 60.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_158_1_26990_767415",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Concepción Gamarra Ruiz-Clavijo",
+          "lastname": "Gamarra Ruiz-Clavijo",
+          "firstname": "Concepción",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Popular en el Congreso"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 73
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 164
+      },
+      "agendaItem": {
+        "title": "¿Cree que su Ministerio está actuando con la debida anticipación y\ndiligencia?",
+        "officialTitle": "¿Cree que su Ministerio está actuando con la debida anticipación y\ndiligencia?",
+        "type": "qa",
+        "nativeType": "ES-pregunta"
+      },
+      "dateStart": "2026-02-11T16:13:00+01:00",
+      "dateEnd": "2026-02-11T16:13:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_158/cortes/15_000400_158_1_26990_767418.mp4\nhttps://www.congreso.es/audiovisual/video/leg15/400/15_000400_158/cortes/15_000400_158_1_26990_767420.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1567418I https://app.congreso.es/v1/15767420I",
+        "duration": 0.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_158_1_26990_767420",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Ana Belén Vázquez Blanco",
+          "lastname": "Vázquez Blanco",
+          "firstname": "Ana Belén",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Popular en el Congreso"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 74
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 164
+      },
+      "agendaItem": {
+        "title": "¿Cree que su Ministerio está actuando con la debida anticipación y\ndiligencia?",
+        "officialTitle": "¿Cree que su Ministerio está actuando con la debida anticipación y\ndiligencia?",
+        "type": "qa",
+        "nativeType": "ES-pregunta"
+      },
+      "dateStart": "2026-02-11T16:13:00+01:00",
+      "dateEnd": "2026-02-11T16:15:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_158/cortes/15_000400_158_1_26990_767419.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1567419I",
+        "duration": 120.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_158_1_26990_767419",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Fernando Grande-Marlaska Gómez",
+          "lastname": "Grande-Marlaska Gómez",
+          "firstname": "Fernando",
+          "type": "member of government",
+          "role": "Ministro del Interior"
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 75
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 164
+      },
+      "agendaItem": {
+        "title": "¿Cree que su Ministerio está actuando con la debida anticipación y\ndiligencia?",
+        "officialTitle": "¿Cree que su Ministerio está actuando con la debida anticipación y\ndiligencia?",
+        "type": "qa",
+        "nativeType": "ES-pregunta"
+      },
+      "dateStart": "2026-02-11T16:17:00+01:00",
+      "dateEnd": "2026-02-11T16:19:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_158/cortes/15_000400_158_1_26990_767421.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1567421I",
+        "duration": 120.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_158_1_26990_767421",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Fernando Grande-Marlaska Gómez",
+          "lastname": "Grande-Marlaska Gómez",
+          "firstname": "Fernando",
+          "type": "member of government",
+          "role": "Ministro del Interior"
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 76
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 164
+      },
+      "agendaItem": {
+        "title": "¿Qué valoración hace de su trabajo al frente del Ministerio de\nTransportes y Movilidad Sostenible?",
+        "officialTitle": "¿Qué valoración hace de su trabajo al frente del Ministerio de\nTransportes y Movilidad Sostenible?",
+        "type": "qa",
+        "nativeType": "ES-pregunta"
+      },
+      "dateStart": "2026-02-11T16:19:00+01:00",
+      "dateEnd": "2026-02-11T16:19:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_158/cortes/15_000400_158_1_26990_767423.mp4\nhttps://www.congreso.es/audiovisual/video/leg15/400/15_000400_158/cortes/15_000400_158_1_26990_767425.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1567423I https://app.congreso.es/v1/15767425I",
+        "duration": 0.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_158_1_26990_767425",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "José Vicente Marí Bosó",
+          "lastname": "Marí Bosó",
+          "firstname": "José Vicente",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Popular en el Congreso"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 77
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 164
+      },
+      "agendaItem": {
+        "title": "¿Qué valoración hace de su trabajo al frente del Ministerio de\nTransportes y Movilidad Sostenible?",
+        "officialTitle": "¿Qué valoración hace de su trabajo al frente del Ministerio de\nTransportes y Movilidad Sostenible?",
+        "type": "qa",
+        "nativeType": "ES-pregunta"
+      },
+      "dateStart": "2026-02-11T16:19:00+01:00",
+      "dateEnd": "2026-02-11T16:20:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_158/cortes/15_000400_158_1_26990_767424.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1567424I",
+        "duration": 60.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_158_1_26990_767424",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Óscar Puente Santiago",
+          "lastname": "Puente Santiago",
+          "firstname": "Óscar",
+          "type": "member of government",
+          "role": "Ministro de Transportes y Movilidad Sostenible",
+          "faction": {
+            "label": "Grupo Parlamentario Socialista"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 78
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 164
+      },
+      "agendaItem": {
+        "title": "¿Qué valoración hace de su trabajo al frente del Ministerio de\nTransportes y Movilidad Sostenible?",
+        "officialTitle": "¿Qué valoración hace de su trabajo al frente del Ministerio de\nTransportes y Movilidad Sostenible?",
+        "type": "qa",
+        "nativeType": "ES-pregunta"
+      },
+      "dateStart": "2026-02-11T16:22:00+01:00",
+      "dateEnd": "2026-02-11T16:24:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_158/cortes/15_000400_158_1_26990_767426.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1567426I",
+        "duration": 120.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_158_1_26990_767426",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Óscar Puente Santiago",
+          "lastname": "Puente Santiago",
+          "firstname": "Óscar",
+          "type": "member of government",
+          "role": "Ministro de Transportes y Movilidad Sostenible",
+          "faction": {
+            "label": "Grupo Parlamentario Socialista"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 79
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 164
+      },
+      "agendaItem": {
+        "title": "¿Cree que las infraestructuras de transporte de nuestro país están\nmejor hoy que hace 8 años?",
+        "officialTitle": "¿Cree que las infraestructuras de transporte de nuestro país están\nmejor hoy que hace 8 años?",
+        "type": "qa",
+        "nativeType": "ES-pregunta"
+      },
+      "dateStart": "2026-02-11T16:24:00+01:00",
+      "dateEnd": "2026-02-11T16:25:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_158/cortes/15_000400_158_1_26990_767428.mp4\nhttps://www.congreso.es/audiovisual/video/leg15/400/15_000400_158/cortes/15_000400_158_1_26990_767430.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1567428I https://app.congreso.es/v1/15767430I",
+        "duration": 60.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_158_1_26990_767430",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Eduardo Carazo Hermoso",
+          "lastname": "Carazo Hermoso",
+          "firstname": "Eduardo",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Popular en el Congreso"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 80
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 164
+      },
+      "agendaItem": {
+        "title": "¿Cree que las infraestructuras de transporte de nuestro país están\nmejor hoy que hace 8 años?",
+        "officialTitle": "¿Cree que las infraestructuras de transporte de nuestro país están\nmejor hoy que hace 8 años?",
+        "type": "qa",
+        "nativeType": "ES-pregunta"
+      },
+      "dateStart": "2026-02-11T16:25:00+01:00",
+      "dateEnd": "2026-02-11T16:26:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_158/cortes/15_000400_158_1_26990_767429.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1567429I",
+        "duration": 60.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_158_1_26990_767429",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Óscar Puente Santiago",
+          "lastname": "Puente Santiago",
+          "firstname": "Óscar",
+          "type": "member of government",
+          "role": "Ministro de Transportes y Movilidad Sostenible",
+          "faction": {
+            "label": "Grupo Parlamentario Socialista"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 81
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 164
+      },
+      "agendaItem": {
+        "title": "¿Cree que las infraestructuras de transporte de nuestro país están\nmejor hoy que hace 8 años?",
+        "officialTitle": "¿Cree que las infraestructuras de transporte de nuestro país están\nmejor hoy que hace 8 años?",
+        "type": "qa",
+        "nativeType": "ES-pregunta"
+      },
+      "dateStart": "2026-02-11T16:28:00+01:00",
+      "dateEnd": "2026-02-11T16:30:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_158/cortes/15_000400_158_1_26990_767431.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1567431I",
+        "duration": 120.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_158_1_26990_767431",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Óscar Puente Santiago",
+          "lastname": "Puente Santiago",
+          "firstname": "Óscar",
+          "type": "member of government",
+          "role": "Ministro de Transportes y Movilidad Sostenible",
+          "faction": {
+            "label": "Grupo Parlamentario Socialista"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 82
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 164
+      },
+      "agendaItem": {
+        "title": "¿Pueden garantizar la seguridad a los españoles que cojan un tren?",
+        "officialTitle": "¿Pueden garantizar la seguridad a los españoles que cojan un tren?",
+        "type": "qa",
+        "nativeType": "ES-pregunta"
+      },
+      "dateStart": "2026-02-11T16:30:00+01:00",
+      "dateEnd": "2026-02-11T16:31:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_158/cortes/15_000400_158_1_26990_767433.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1567433I",
+        "duration": 60.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_158_1_26990_767433",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "María José Rodríguez de Millán Parro",
+          "lastname": "Rodríguez de Millán Parro",
+          "firstname": "María José",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario VOX"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 83
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 164
+      },
+      "agendaItem": {
+        "title": "¿Pueden garantizar la seguridad a los españoles que cojan un tren?",
+        "officialTitle": "¿Pueden garantizar la seguridad a los españoles que cojan un tren?",
+        "type": "qa",
+        "nativeType": "ES-pregunta"
+      },
+      "dateStart": "2026-02-11T16:31:00+01:00",
+      "dateEnd": "2026-02-11T16:31:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_158/cortes/15_000400_158_1_26990_767434.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1567434I",
+        "duration": 0.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_158_1_26990_767434",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Óscar Puente Santiago",
+          "lastname": "Puente Santiago",
+          "firstname": "Óscar",
+          "type": "member of government",
+          "role": "Ministro de Transportes y Movilidad Sostenible",
+          "faction": {
+            "label": "Grupo Parlamentario Socialista"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 84
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 164
+      },
+      "agendaItem": {
+        "title": "¿Pueden garantizar la seguridad a los españoles que cojan un tren?",
+        "officialTitle": "¿Pueden garantizar la seguridad a los españoles que cojan un tren?",
+        "type": "qa",
+        "nativeType": "ES-pregunta"
+      },
+      "dateStart": "2026-02-11T16:31:00+01:00",
+      "dateEnd": "2026-02-11T16:34:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_158/cortes/15_000400_158_1_26990_767435.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1567435I",
+        "duration": 180.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_158_1_26990_767435",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "María José Rodríguez de Millán Parro",
+          "lastname": "Rodríguez de Millán Parro",
+          "firstname": "María José",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario VOX"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 85
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 164
+      },
+      "agendaItem": {
+        "title": "¿Pueden garantizar la seguridad a los españoles que cojan un tren?",
+        "officialTitle": "¿Pueden garantizar la seguridad a los españoles que cojan un tren?",
+        "type": "qa",
+        "nativeType": "ES-pregunta"
+      },
+      "dateStart": "2026-02-11T16:34:00+01:00",
+      "dateEnd": "2026-02-11T16:36:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_158/cortes/15_000400_158_1_26990_767436.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1567436I",
+        "duration": 120.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_158_1_26990_767436",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Óscar Puente Santiago",
+          "lastname": "Puente Santiago",
+          "firstname": "Óscar",
+          "type": "member of government",
+          "role": "Ministro de Transportes y Movilidad Sostenible",
+          "faction": {
+            "label": "Grupo Parlamentario Socialista"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 86
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 164
+      },
+      "agendaItem": {
+        "title": "¿Qué prioridad da el Gobierno español a las inversiones en transporte\nferroviario?",
+        "officialTitle": "¿Qué prioridad da el Gobierno español a las inversiones en transporte\nferroviario?",
+        "type": "qa",
+        "nativeType": "ES-pregunta"
+      },
+      "dateStart": "2026-02-11T16:36:00+01:00",
+      "dateEnd": "2026-02-11T16:37:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_158/cortes/15_000400_158_1_26990_767438.mp4\nhttps://www.congreso.es/audiovisual/video/leg15/400/15_000400_158/cortes/15_000400_158_1_26990_767440.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1567438I https://app.congreso.es/v1/15767440I",
+        "duration": 60.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_158_1_26990_767440",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Isidre Gavin i Valls",
+          "lastname": "Gavin i Valls",
+          "firstname": "Isidre",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Junts per Catalunya"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 87
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 164
+      },
+      "agendaItem": {
+        "title": "¿Qué prioridad da el Gobierno español a las inversiones en transporte\nferroviario?",
+        "officialTitle": "¿Qué prioridad da el Gobierno español a las inversiones en transporte\nferroviario?",
+        "type": "qa",
+        "nativeType": "ES-pregunta"
+      },
+      "dateStart": "2026-02-11T16:37:00+01:00",
+      "dateEnd": "2026-02-11T16:37:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_158/cortes/15_000400_158_1_26990_767439.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1567439I",
+        "duration": 0.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_158_1_26990_767439",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Óscar Puente Santiago",
+          "lastname": "Puente Santiago",
+          "firstname": "Óscar",
+          "type": "member of government",
+          "role": "Ministro de Transportes y Movilidad Sostenible",
+          "faction": {
+            "label": "Grupo Parlamentario Socialista"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 88
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 164
+      },
+      "agendaItem": {
+        "title": "¿Qué prioridad da el Gobierno español a las inversiones en transporte\nferroviario?",
+        "officialTitle": "¿Qué prioridad da el Gobierno español a las inversiones en transporte\nferroviario?",
+        "type": "qa",
+        "nativeType": "ES-pregunta"
+      },
+      "dateStart": "2026-02-11T16:39:00+01:00",
+      "dateEnd": "2026-02-11T16:42:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_158/cortes/15_000400_158_1_26990_767441.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1567441I",
+        "duration": 180.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_158_1_26990_767441",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Óscar Puente Santiago",
+          "lastname": "Puente Santiago",
+          "firstname": "Óscar",
+          "type": "member of government",
+          "role": "Ministro de Transportes y Movilidad Sostenible",
+          "faction": {
+            "label": "Grupo Parlamentario Socialista"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 89
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 164
+      },
+      "agendaItem": {
+        "title": "¿Qué valoración hace el Gobierno de la seguridad en la red\nferroviaria?",
+        "officialTitle": "¿Qué valoración hace el Gobierno de la seguridad en la red\nferroviaria?",
+        "type": "qa",
+        "nativeType": "ES-pregunta"
+      },
+      "dateStart": "2026-02-11T16:42:00+01:00",
+      "dateEnd": "2026-02-11T16:43:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_158/cortes/15_000400_158_1_26990_767443.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1567443I",
+        "duration": 60.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_158_1_26990_767443",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Alberto Catalán Higueras",
+          "lastname": "Catalán Higueras",
+          "firstname": "Alberto",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Mixto"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 90
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 164
+      },
+      "agendaItem": {
+        "title": "¿Qué valoración hace el Gobierno de la seguridad en la red\nferroviaria?",
+        "officialTitle": "¿Qué valoración hace el Gobierno de la seguridad en la red\nferroviaria?",
+        "type": "qa",
+        "nativeType": "ES-pregunta"
+      },
+      "dateStart": "2026-02-11T16:43:00+01:00",
+      "dateEnd": "2026-02-11T16:43:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_158/cortes/15_000400_158_1_26990_767444.mp4\nhttps://www.congreso.es/audiovisual/video/leg15/400/15_000400_158/cortes/15_000400_158_1_26990_767446.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1567444I https://app.congreso.es/v1/15767446I",
+        "duration": 0.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_158_1_26990_767446",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Óscar Puente Santiago",
+          "lastname": "Puente Santiago",
+          "firstname": "Óscar",
+          "type": "member of government",
+          "role": "Ministro de Transportes y Movilidad Sostenible",
+          "faction": {
+            "label": "Grupo Parlamentario Socialista"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 91
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 164
+      },
+      "agendaItem": {
+        "title": "¿Qué valoración hace el Gobierno de la seguridad en la red\nferroviaria?",
+        "officialTitle": "¿Qué valoración hace el Gobierno de la seguridad en la red\nferroviaria?",
+        "type": "qa",
+        "nativeType": "ES-pregunta"
+      },
+      "dateStart": "2026-02-11T16:43:00+01:00",
+      "dateEnd": "2026-02-11T16:45:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_158/cortes/15_000400_158_1_26990_767445.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1567445I",
+        "duration": 120.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_158_1_26990_767445",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Alberto Catalán Higueras",
+          "lastname": "Catalán Higueras",
+          "firstname": "Alberto",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Mixto"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 92
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 164
+      },
+      "agendaItem": {
+        "title": "¿Va usted a dar explicaciones y asumir su responsabilidad?",
+        "officialTitle": "¿Va usted a dar explicaciones y asumir su responsabilidad?",
+        "type": "qa",
+        "nativeType": "ES-pregunta"
+      },
+      "dateStart": "2026-02-11T16:48:00+01:00",
+      "dateEnd": "2026-02-11T16:49:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_158/cortes/15_000400_158_1_26990_767448.mp4\nhttps://www.congreso.es/audiovisual/video/leg15/400/15_000400_158/cortes/15_000400_158_1_26990_767450.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1567448I https://app.congreso.es/v1/15767450I",
+        "duration": 60.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_158_1_26990_767450",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Carmen Fúnez de Gregorio",
+          "lastname": "Fúnez de Gregorio",
+          "firstname": "Carmen",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Popular en el Congreso"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 93
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 164
+      },
+      "agendaItem": {
+        "title": "¿Va usted a dar explicaciones y asumir su responsabilidad?",
+        "officialTitle": "¿Va usted a dar explicaciones y asumir su responsabilidad?",
+        "type": "qa",
+        "nativeType": "ES-pregunta"
+      },
+      "dateStart": "2026-02-11T16:49:00+01:00",
+      "dateEnd": "2026-02-11T16:49:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_158/cortes/15_000400_158_1_26990_767449.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1567449I",
+        "duration": 0.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_158_1_26990_767449",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Mónica García Gómez",
+          "lastname": "García Gómez",
+          "firstname": "Mónica",
+          "type": "member of government",
+          "role": "Ministra de Sanidad"
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 94
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 164
+      },
+      "agendaItem": {
+        "title": "¿Va usted a dar explicaciones y asumir su responsabilidad?",
+        "officialTitle": "¿Va usted a dar explicaciones y asumir su responsabilidad?",
+        "type": "qa",
+        "nativeType": "ES-pregunta"
+      },
+      "dateStart": "2026-02-11T16:52:00+01:00",
+      "dateEnd": "2026-02-11T16:54:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_158/cortes/15_000400_158_1_26990_767451.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1567451I",
+        "duration": 120.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_158_1_26990_767451",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Mónica García Gómez",
+          "lastname": "García Gómez",
+          "firstname": "Mónica",
+          "type": "member of government",
+          "role": "Ministra de Sanidad"
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 95
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 164
+      },
+      "agendaItem": {
+        "title": "¿Qué medidas económicas prevé adoptar frente a la crisis desatada en\nTubos Reunidos para evitar la posible pérdida de más de mil empleos\nindustriales en Euskal Herria?",
+        "officialTitle": "¿Qué medidas económicas prevé adoptar frente a la crisis desatada en\nTubos Reunidos para evitar la posible pérdida de más de mil empleos\nindustriales en Euskal Herria?",
+        "type": "qa",
+        "nativeType": "ES-pregunta"
+      },
+      "dateStart": "2026-02-11T16:54:00+01:00",
+      "dateEnd": "2026-02-11T16:56:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_158/cortes/15_000400_158_1_26990_767453.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1567453I",
+        "duration": 120.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_158_1_26990_767453",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Mikel Otero Gabirondo",
+          "lastname": "Otero Gabirondo",
+          "firstname": "Mikel",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Euskal Herria Bildu"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 96
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 164
+      },
+      "agendaItem": {
+        "title": "¿Qué medidas económicas prevé adoptar frente a la crisis desatada en\nTubos Reunidos para evitar la posible pérdida de más de mil empleos\nindustriales en Euskal Herria?",
+        "officialTitle": "¿Qué medidas económicas prevé adoptar frente a la crisis desatada en\nTubos Reunidos para evitar la posible pérdida de más de mil empleos\nindustriales en Euskal Herria?",
+        "type": "qa",
+        "nativeType": "ES-pregunta"
+      },
+      "dateStart": "2026-02-11T16:56:00+01:00",
+      "dateEnd": "2026-02-11T16:57:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_158/cortes/15_000400_158_1_26990_767454.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1567454I",
+        "duration": 60.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_158_1_26990_767454",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Carlos Cuerpo Caballero",
+          "lastname": "Cuerpo Caballero",
+          "firstname": "Carlos",
+          "type": "member of government",
+          "role": "Ministro de Economía, Comercio y Empresa"
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 97
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 164
+      },
+      "agendaItem": {
+        "title": "¿Qué medidas económicas prevé adoptar frente a la crisis desatada en\nTubos Reunidos para evitar la posible pérdida de más de mil empleos\nindustriales en Euskal Herria?",
+        "officialTitle": "¿Qué medidas económicas prevé adoptar frente a la crisis desatada en\nTubos Reunidos para evitar la posible pérdida de más de mil empleos\nindustriales en Euskal Herria?",
+        "type": "qa",
+        "nativeType": "ES-pregunta"
+      },
+      "dateStart": "2026-02-11T16:57:00+01:00",
+      "dateEnd": "2026-02-11T16:58:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_158/cortes/15_000400_158_1_26990_767455.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1567455I",
+        "duration": 60.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_158_1_26990_767455",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Mikel Otero Gabirondo",
+          "lastname": "Otero Gabirondo",
+          "firstname": "Mikel",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Euskal Herria Bildu"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 98
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 164
+      },
+      "agendaItem": {
+        "title": "¿Qué medidas económicas prevé adoptar frente a la crisis desatada en\nTubos Reunidos para evitar la posible pérdida de más de mil empleos\nindustriales en Euskal Herria?",
+        "officialTitle": "¿Qué medidas económicas prevé adoptar frente a la crisis desatada en\nTubos Reunidos para evitar la posible pérdida de más de mil empleos\nindustriales en Euskal Herria?",
+        "type": "qa",
+        "nativeType": "ES-pregunta"
+      },
+      "dateStart": "2026-02-11T16:58:00+01:00",
+      "dateEnd": "2026-02-11T16:59:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_158/cortes/15_000400_158_1_26990_767456.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1567456I",
+        "duration": 60.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_158_1_26990_767456",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Carlos Cuerpo Caballero",
+          "lastname": "Cuerpo Caballero",
+          "firstname": "Carlos",
+          "type": "member of government",
+          "role": "Ministro de Economía, Comercio y Empresa"
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 99
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 164
+      },
+      "agendaItem": {
+        "title": "Interpelación urgente al Ministro de Economía, Comercio y Empresa\nsobre el impacto en la economía canaria de la falta de aplicación e\nincumplimientos de la normativa europea y española en vigor por su\ncondición de Región Ultraperiférica.",
+        "officialTitle": "Interpelación urgente al Ministro de Economía, Comercio y Empresa\nsobre el impacto en la economía canaria de la falta de aplicación e\nincumplimientos de la normativa europea y española en vigor por su\ncondición de Región Ultraperiférica.",
+        "type": "questioning_of_the_government",
+        "nativeType": "ES-interpelacion"
+      },
+      "dateStart": "2026-02-11T16:59:00+01:00",
+      "dateEnd": "2026-02-11T17:13:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_158/cortes/15_000400_158_1_26990_767459.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1567459I",
+        "duration": 840.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_158_1_26990_767459",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Cristina Valido García",
+          "lastname": "Valido García",
+          "firstname": "Cristina",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Mixto"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 100
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 164
+      },
+      "agendaItem": {
+        "title": "Interpelación urgente al Ministro de Economía, Comercio y Empresa\nsobre el impacto en la economía canaria de la falta de aplicación e\nincumplimientos de la normativa europea y española en vigor por su\ncondición de Región Ultraperiférica.",
+        "officialTitle": "Interpelación urgente al Ministro de Economía, Comercio y Empresa\nsobre el impacto en la economía canaria de la falta de aplicación e\nincumplimientos de la normativa europea y española en vigor por su\ncondición de Región Ultraperiférica.",
+        "type": "questioning_of_the_government",
+        "nativeType": "ES-interpelacion"
+      },
+      "dateStart": "2026-02-11T17:13:00+01:00",
+      "dateEnd": "2026-02-11T17:22:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_158/cortes/15_000400_158_1_26990_767460.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1567460I",
+        "duration": 540.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_158_1_26990_767460",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Carlos Cuerpo Caballero",
+          "lastname": "Cuerpo Caballero",
+          "firstname": "Carlos",
+          "type": "member of government",
+          "role": "Ministro de Economía, Comercio y Empresa"
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 101
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 164
+      },
+      "agendaItem": {
+        "title": "Interpelación urgente al Ministro de Economía, Comercio y Empresa\nsobre el impacto en la economía canaria de la falta de aplicación e\nincumplimientos de la normativa europea y española en vigor por su\ncondición de Región Ultraperiférica.",
+        "officialTitle": "Interpelación urgente al Ministro de Economía, Comercio y Empresa\nsobre el impacto en la economía canaria de la falta de aplicación e\nincumplimientos de la normativa europea y española en vigor por su\ncondición de Región Ultraperiférica.",
+        "type": "questioning_of_the_government",
+        "nativeType": "ES-interpelacion"
+      },
+      "dateStart": "2026-02-11T17:22:00+01:00",
+      "dateEnd": "2026-02-11T17:28:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_158/cortes/15_000400_158_1_26990_767461.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1567461I",
+        "duration": 360.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_158_1_26990_767461",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Cristina Valido García",
+          "lastname": "Valido García",
+          "firstname": "Cristina",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Mixto"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 102
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 164
+      },
+      "agendaItem": {
+        "title": "Interpelación urgente al Ministro de Economía, Comercio y Empresa\nsobre el impacto en la economía canaria de la falta de aplicación e\nincumplimientos de la normativa europea y española en vigor por su\ncondición de Región Ultraperiférica.",
+        "officialTitle": "Interpelación urgente al Ministro de Economía, Comercio y Empresa\nsobre el impacto en la economía canaria de la falta de aplicación e\nincumplimientos de la normativa europea y española en vigor por su\ncondición de Región Ultraperiférica.",
+        "type": "questioning_of_the_government",
+        "nativeType": "ES-interpelacion"
+      },
+      "dateStart": "2026-02-11T17:28:00+01:00",
+      "dateEnd": "2026-02-11T17:33:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_158/cortes/15_000400_158_1_26990_767462.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1567462I",
+        "duration": 300.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_158_1_26990_767462",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Carlos Cuerpo Caballero",
+          "lastname": "Cuerpo Caballero",
+          "firstname": "Carlos",
+          "type": "member of government",
+          "role": "Ministro de Economía, Comercio y Empresa"
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 103
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 164
+      },
+      "agendaItem": {
+        "title": "Interpelación urgente a la Ministra de Vivienda y Agenda Urbana sobre\nel evidente fracaso de las políticas en materia de vivienda de este\nGobierno.",
+        "officialTitle": "Interpelación urgente a la Ministra de Vivienda y Agenda Urbana sobre\nel evidente fracaso de las políticas en materia de vivienda de este\nGobierno.",
+        "type": "questioning_of_the_government",
+        "nativeType": "ES-interpelacion"
+      },
+      "dateStart": "2026-02-11T17:33:00+01:00",
+      "dateEnd": "2026-02-11T17:45:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_158/cortes/15_000400_158_2_26991_767466.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1567466I",
+        "duration": 720.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_158_2_26991_767466",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Sergio Sayas López",
+          "lastname": "Sayas López",
+          "firstname": "Sergio",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Popular en el Congreso"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 104
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 164
+      },
+      "agendaItem": {
+        "title": "Interpelación urgente a la Ministra de Vivienda y Agenda Urbana sobre\nel evidente fracaso de las políticas en materia de vivienda de este\nGobierno.",
+        "officialTitle": "Interpelación urgente a la Ministra de Vivienda y Agenda Urbana sobre\nel evidente fracaso de las políticas en materia de vivienda de este\nGobierno.",
+        "type": "questioning_of_the_government",
+        "nativeType": "ES-interpelacion"
+      },
+      "dateStart": "2026-02-11T17:45:00+01:00",
+      "dateEnd": "2026-02-11T17:58:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_158/cortes/15_000400_158_2_26991_767467.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1567467I",
+        "duration": 780.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_158_2_26991_767467",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Isabel Rodríguez García",
+          "lastname": "Rodríguez García",
+          "firstname": "Isabel",
+          "type": "member of government",
+          "role": "Ministra de Vivienda y Agenda Urbana"
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 105
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 164
+      },
+      "agendaItem": {
+        "title": "Interpelación urgente a la Ministra de Vivienda y Agenda Urbana sobre\nel evidente fracaso de las políticas en materia de vivienda de este\nGobierno.",
+        "officialTitle": "Interpelación urgente a la Ministra de Vivienda y Agenda Urbana sobre\nel evidente fracaso de las políticas en materia de vivienda de este\nGobierno.",
+        "type": "questioning_of_the_government",
+        "nativeType": "ES-interpelacion"
+      },
+      "dateStart": "2026-02-11T17:58:00+01:00",
+      "dateEnd": "2026-02-11T18:02:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_158/cortes/15_000400_158_2_26991_767469.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1567469I",
+        "duration": 240.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_158_2_26991_767469",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Sergio Sayas López",
+          "lastname": "Sayas López",
+          "firstname": "Sergio",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Popular en el Congreso"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 106
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 164
+      },
+      "agendaItem": {
+        "title": "Interpelación urgente a la Ministra de Vivienda y Agenda Urbana sobre\nel evidente fracaso de las políticas en materia de vivienda de este\nGobierno.",
+        "officialTitle": "Interpelación urgente a la Ministra de Vivienda y Agenda Urbana sobre\nel evidente fracaso de las políticas en materia de vivienda de este\nGobierno.",
+        "type": "questioning_of_the_government",
+        "nativeType": "ES-interpelacion"
+      },
+      "dateStart": "2026-02-11T18:02:00+01:00",
+      "dateEnd": "2026-02-11T18:08:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_158/cortes/15_000400_158_2_26991_767470.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1567470I",
+        "duration": 360.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_158_2_26991_767470",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Isabel Rodríguez García",
+          "lastname": "Rodríguez García",
+          "firstname": "Isabel",
+          "type": "member of government",
+          "role": "Ministra de Vivienda y Agenda Urbana"
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 107
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 164
+      },
+      "agendaItem": {
+        "title": "Interpelación urgente al Ministro de Transportes y Movilidad\nSostenible sobre cuáles van a ser las medidas del Gobierno para\ngarantizar la seguridad de las infraestructuras de transportes.",
+        "officialTitle": "Interpelación urgente al Ministro de Transportes y Movilidad\nSostenible sobre cuáles van a ser las medidas del Gobierno para\ngarantizar la seguridad de las infraestructuras de transportes.",
+        "type": "questioning_of_the_government",
+        "nativeType": "ES-interpelacion"
+      },
+      "dateStart": "2026-02-11T18:09:00+01:00",
+      "dateEnd": "2026-02-11T18:22:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_158/cortes/15_000400_158_2_26991_767472.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1567472I",
+        "duration": 780.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_158_2_26991_767472",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Carina Mejías Sánchez",
+          "lastname": "Mejías Sánchez",
+          "firstname": "Carina",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario VOX"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 108
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 164
+      },
+      "agendaItem": {
+        "title": "Interpelación urgente al Ministro de Transportes y Movilidad\nSostenible sobre cuáles van a ser las medidas del Gobierno para\ngarantizar la seguridad de las infraestructuras de transportes.",
+        "officialTitle": "Interpelación urgente al Ministro de Transportes y Movilidad\nSostenible sobre cuáles van a ser las medidas del Gobierno para\ngarantizar la seguridad de las infraestructuras de transportes.",
+        "type": "questioning_of_the_government",
+        "nativeType": "ES-interpelacion"
+      },
+      "dateStart": "2026-02-11T18:22:00+01:00",
+      "dateEnd": "2026-02-11T18:36:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_158/cortes/15_000400_158_2_26991_767473.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1567473I",
+        "duration": 840.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_158_2_26991_767473",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Óscar Puente Santiago",
+          "lastname": "Puente Santiago",
+          "firstname": "Óscar",
+          "type": "member of government",
+          "role": "Ministro de Transportes y Movilidad Sostenible",
+          "faction": {
+            "label": "Grupo Parlamentario Socialista"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 109
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 164
+      },
+      "agendaItem": {
+        "title": "Interpelación urgente al Ministro de Transportes y Movilidad\nSostenible sobre cuáles van a ser las medidas del Gobierno para\ngarantizar la seguridad de las infraestructuras de transportes.",
+        "officialTitle": "Interpelación urgente al Ministro de Transportes y Movilidad\nSostenible sobre cuáles van a ser las medidas del Gobierno para\ngarantizar la seguridad de las infraestructuras de transportes.",
+        "type": "questioning_of_the_government",
+        "nativeType": "ES-interpelacion"
+      },
+      "dateStart": "2026-02-11T18:36:00+01:00",
+      "dateEnd": "2026-02-11T18:41:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_158/cortes/15_000400_158_2_26991_767474.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1567474I",
+        "duration": 300.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_158_2_26991_767474",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Carina Mejías Sánchez",
+          "lastname": "Mejías Sánchez",
+          "firstname": "Carina",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario VOX"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 110
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 164
+      },
+      "agendaItem": {
+        "title": "Interpelación urgente al Ministro de Transportes y Movilidad\nSostenible sobre cuáles van a ser las medidas del Gobierno para\ngarantizar la seguridad de las infraestructuras de transportes.",
+        "officialTitle": "Interpelación urgente al Ministro de Transportes y Movilidad\nSostenible sobre cuáles van a ser las medidas del Gobierno para\ngarantizar la seguridad de las infraestructuras de transportes.",
+        "type": "questioning_of_the_government",
+        "nativeType": "ES-interpelacion"
+      },
+      "dateStart": "2026-02-11T18:41:00+01:00",
+      "dateEnd": "2026-02-11T18:47:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_158/cortes/15_000400_158_2_26991_767475.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1567475I",
+        "duration": 360.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_158_2_26991_767475",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Óscar Puente Santiago",
+          "lastname": "Puente Santiago",
+          "firstname": "Óscar",
+          "type": "member of government",
+          "role": "Ministro de Transportes y Movilidad Sostenible",
+          "faction": {
+            "label": "Grupo Parlamentario Socialista"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 111
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 164
+      },
+      "agendaItem": {
+        "title": "Moción consecuencia de interpelación urgente sobre la mejora de la\nprotección social de los trabajadores autónomos.",
+        "officialTitle": "Moción consecuencia de interpelación urgente sobre la mejora de la\nprotección social de los trabajadores autónomos.",
+        "type": "regular",
+        "nativeType": "ES-mocion"
+      },
+      "dateStart": "2026-02-11T18:48:00+01:00",
+      "dateEnd": "2026-02-11T18:54:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_158/cortes/15_000400_158_2_26991_767478.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1567478I",
+        "duration": 360.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_158_2_26991_767478",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Jordi Salvador i Duch",
+          "lastname": "Salvador i Duch",
+          "firstname": "Jordi",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Republicano"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 112
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 164
+      },
+      "agendaItem": {
+        "title": "Moción consecuencia de interpelación urgente sobre la mejora de la\nprotección social de los trabajadores autónomos.",
+        "officialTitle": "Moción consecuencia de interpelación urgente sobre la mejora de la\nprotección social de los trabajadores autónomos.",
+        "type": "regular",
+        "nativeType": "ES-mocion"
+      },
+      "dateStart": "2026-02-11T18:54:00+01:00",
+      "dateEnd": "2026-02-11T19:02:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_158/cortes/15_000400_158_2_26991_767479.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1567479I",
+        "duration": 480.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_158_2_26991_767479",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Aina Vidal Sáez",
+          "lastname": "Vidal Sáez",
+          "firstname": "Aina",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Plurinacional SUMAR"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 113
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 164
+      },
+      "agendaItem": {
+        "title": "Moción consecuencia de interpelación urgente sobre la mejora de la\nprotección social de los trabajadores autónomos.",
+        "officialTitle": "Moción consecuencia de interpelación urgente sobre la mejora de la\nprotección social de los trabajadores autónomos.",
+        "type": "regular",
+        "nativeType": "ES-mocion"
+      },
+      "dateStart": "2026-02-11T19:02:00+01:00",
+      "dateEnd": "2026-02-11T19:08:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_158/cortes/15_000400_158_2_26991_767480.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1567480I",
+        "duration": 360.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_158_2_26991_767480",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "David García Gomis",
+          "lastname": "García Gomis",
+          "firstname": "David",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario VOX"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 114
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 164
+      },
+      "agendaItem": {
+        "title": "Moción consecuencia de interpelación urgente sobre la mejora de la\nprotección social de los trabajadores autónomos.",
+        "officialTitle": "Moción consecuencia de interpelación urgente sobre la mejora de la\nprotección social de los trabajadores autónomos.",
+        "type": "regular",
+        "nativeType": "ES-mocion"
+      },
+      "dateStart": "2026-02-11T19:08:00+01:00",
+      "dateEnd": "2026-02-11T19:15:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_158/cortes/15_000400_158_2_26991_767481.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1567481I",
+        "duration": 420.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_158_2_26991_767481",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "María Mercè Perea i Conillas",
+          "lastname": "Perea i Conillas",
+          "firstname": "María Mercè",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Socialista"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 115
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 164
+      },
+      "agendaItem": {
+        "title": "Moción consecuencia de interpelación urgente sobre la mejora de la\nprotección social de los trabajadores autónomos.",
+        "officialTitle": "Moción consecuencia de interpelación urgente sobre la mejora de la\nprotección social de los trabajadores autónomos.",
+        "type": "regular",
+        "nativeType": "ES-mocion"
+      },
+      "dateStart": "2026-02-11T19:15:00+01:00",
+      "dateEnd": "2026-02-11T19:21:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_158/cortes/15_000400_158_2_26991_767482.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1567482I",
+        "duration": 360.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_158_2_26991_767482",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Néstor Rego Candamil",
+          "lastname": "Rego Candamil",
+          "firstname": "Néstor",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Mixto"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 116
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 164
+      },
+      "agendaItem": {
+        "title": "Moción consecuencia de interpelación urgente sobre la mejora de la\nprotección social de los trabajadores autónomos.",
+        "officialTitle": "Moción consecuencia de interpelación urgente sobre la mejora de la\nprotección social de los trabajadores autónomos.",
+        "type": "regular",
+        "nativeType": "ES-mocion"
+      },
+      "dateStart": "2026-02-11T19:21:00+01:00",
+      "dateEnd": "2026-02-11T19:26:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_158/cortes/15_000400_158_2_26991_767483.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1567483I",
+        "duration": 300.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_158_2_26991_767483",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Idoia Sagastizabal Unzetabarrenetxea",
+          "lastname": "Sagastizabal Unzetabarrenetxea",
+          "firstname": "Idoia",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Vasco (EAJ-PNV)"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 117
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 164
+      },
+      "agendaItem": {
+        "title": "Moción consecuencia de interpelación urgente sobre la mejora de la\nprotección social de los trabajadores autónomos.",
+        "officialTitle": "Moción consecuencia de interpelación urgente sobre la mejora de la\nprotección social de los trabajadores autónomos.",
+        "type": "regular",
+        "nativeType": "ES-mocion"
+      },
+      "dateStart": "2026-02-11T19:26:00+01:00",
+      "dateEnd": "2026-02-11T19:31:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_158/cortes/15_000400_158_2_26991_767484.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1567484I",
+        "duration": 300.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_158_2_26991_767484",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Oskar Matute García de Jalón",
+          "lastname": "Matute García de Jalón",
+          "firstname": "Oskar",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Euskal Herria Bildu"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 118
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 164
+      },
+      "agendaItem": {
+        "title": "Moción consecuencia de interpelación urgente sobre la mejora de la\nprotección social de los trabajadores autónomos.",
+        "officialTitle": "Moción consecuencia de interpelación urgente sobre la mejora de la\nprotección social de los trabajadores autónomos.",
+        "type": "regular",
+        "nativeType": "ES-mocion"
+      },
+      "dateStart": "2026-02-11T19:31:00+01:00",
+      "dateEnd": "2026-02-11T19:37:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_158/cortes/15_000400_158_2_26991_767485.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1567485I",
+        "duration": 360.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_158_2_26991_767485",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Josep Maria Cervera Pinart",
+          "lastname": "Cervera Pinart",
+          "firstname": "Josep Maria",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Junts per Catalunya"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 119
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 164
+      },
+      "agendaItem": {
+        "title": "Moción consecuencia de interpelación urgente sobre la mejora de la\nprotección social de los trabajadores autónomos.",
+        "officialTitle": "Moción consecuencia de interpelación urgente sobre la mejora de la\nprotección social de los trabajadores autónomos.",
+        "type": "regular",
+        "nativeType": "ES-mocion"
+      },
+      "dateStart": "2026-02-11T19:37:00+01:00",
+      "dateEnd": "2026-02-11T19:43:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_158/cortes/15_000400_158_2_26991_767486.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1567486I",
+        "duration": 360.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_158_2_26991_767486",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Alma Alfonso Silvestre",
+          "lastname": "Alfonso Silvestre",
+          "firstname": "Alma",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Popular en el Congreso"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 120
+    }
+  ]
+}

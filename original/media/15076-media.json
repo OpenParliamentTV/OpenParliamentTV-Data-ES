@@ -1,0 +1,379 @@
+{
+  "meta": {
+    "session": "15076",
+    "processing": {
+      "parse_media": "2026-05-23T07:17:41"
+    },
+    "dateStart": "2024-10-30T11:04:00+01:00",
+    "dateEnd": "2024-10-30T11:46:00+01:00"
+  },
+  "data": [
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 76
+      },
+      "agendaItem": {
+        "title": "Real Decreto-ley 5/2024, de 22 de octubre, por el que se modifica la\nLey 17/2006, de 5 de junio, de la radio y la televisión de titularidad\nestatal, para adoptar medidas urgentes relativas al régimen jurídico\naplicable a la Corporación RTVE.",
+        "officialTitle": "Real Decreto-ley 5/2024, de 22 de octubre, por el que se modifica la\nLey 17/2006, de 5 de junio, de la radio y la televisión de titularidad\nestatal, para adoptar medidas urgentes relativas al régimen jurídico\naplicable a la Corporación RTVE.",
+        "type": "regular",
+        "nativeType": "ES-ley"
+      },
+      "dateStart": "2024-10-30T11:04:00+01:00",
+      "dateEnd": "2024-10-30T11:08:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_073/cortes/15_000400_073_0_25402_741224.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1541224I",
+        "duration": 240.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_073_0_25402_741224",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Óscar López Águeda",
+          "lastname": "López Águeda",
+          "firstname": "Óscar",
+          "type": "member of government",
+          "role": "Ministro para la Transformación Digital y de la Función Pública"
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 1
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 76
+      },
+      "agendaItem": {
+        "title": "Real Decreto-ley 5/2024, de 22 de octubre, por el que se modifica la\nLey 17/2006, de 5 de junio, de la radio y la televisión de titularidad\nestatal, para adoptar medidas urgentes relativas al régimen jurídico\naplicable a la Corporación RTVE.",
+        "officialTitle": "Real Decreto-ley 5/2024, de 22 de octubre, por el que se modifica la\nLey 17/2006, de 5 de junio, de la radio y la televisión de titularidad\nestatal, para adoptar medidas urgentes relativas al régimen jurídico\naplicable a la Corporación RTVE.",
+        "type": "regular",
+        "nativeType": "ES-ley"
+      },
+      "dateStart": "2024-10-30T11:08:00+01:00",
+      "dateEnd": "2024-10-30T11:13:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_073/cortes/15_000400_073_0_25402_741225.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1541225I",
+        "duration": 300.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_073_0_25402_741225",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Néstor Rego Candamil",
+          "lastname": "Rego Candamil",
+          "firstname": "Néstor",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Mixto"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 2
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 76
+      },
+      "agendaItem": {
+        "title": "Real Decreto-ley 5/2024, de 22 de octubre, por el que se modifica la\nLey 17/2006, de 5 de junio, de la radio y la televisión de titularidad\nestatal, para adoptar medidas urgentes relativas al régimen jurídico\naplicable a la Corporación RTVE.",
+        "officialTitle": "Real Decreto-ley 5/2024, de 22 de octubre, por el que se modifica la\nLey 17/2006, de 5 de junio, de la radio y la televisión de titularidad\nestatal, para adoptar medidas urgentes relativas al régimen jurídico\naplicable a la Corporación RTVE.",
+        "type": "regular",
+        "nativeType": "ES-ley"
+      },
+      "dateStart": "2024-10-30T11:13:00+01:00",
+      "dateEnd": "2024-10-30T11:15:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_073/cortes/15_000400_073_0_25402_741226.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1541226I",
+        "duration": 120.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_073_0_25402_741226",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Ione Belarra Urteaga",
+          "lastname": "Belarra Urteaga",
+          "firstname": "Ione",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Mixto"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 3
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 76
+      },
+      "agendaItem": {
+        "title": "Real Decreto-ley 5/2024, de 22 de octubre, por el que se modifica la\nLey 17/2006, de 5 de junio, de la radio y la televisión de titularidad\nestatal, para adoptar medidas urgentes relativas al régimen jurídico\naplicable a la Corporación RTVE.",
+        "officialTitle": "Real Decreto-ley 5/2024, de 22 de octubre, por el que se modifica la\nLey 17/2006, de 5 de junio, de la radio y la televisión de titularidad\nestatal, para adoptar medidas urgentes relativas al régimen jurídico\naplicable a la Corporación RTVE.",
+        "type": "regular",
+        "nativeType": "ES-ley"
+      },
+      "dateStart": "2024-10-30T11:15:00+01:00",
+      "dateEnd": "2024-10-30T11:18:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_073/cortes/15_000400_073_0_25402_741227.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1541227I",
+        "duration": 180.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_073_0_25402_741227",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Joseba Andoni Agirretxea Urresti",
+          "lastname": "Agirretxea Urresti",
+          "firstname": "Joseba Andoni",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Vasco (EAJ-PNV)"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 4
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 76
+      },
+      "agendaItem": {
+        "title": "Real Decreto-ley 5/2024, de 22 de octubre, por el que se modifica la\nLey 17/2006, de 5 de junio, de la radio y la televisión de titularidad\nestatal, para adoptar medidas urgentes relativas al régimen jurídico\naplicable a la Corporación RTVE.",
+        "officialTitle": "Real Decreto-ley 5/2024, de 22 de octubre, por el que se modifica la\nLey 17/2006, de 5 de junio, de la radio y la televisión de titularidad\nestatal, para adoptar medidas urgentes relativas al régimen jurídico\naplicable a la Corporación RTVE.",
+        "type": "regular",
+        "nativeType": "ES-ley"
+      },
+      "dateStart": "2024-10-30T11:18:00+01:00",
+      "dateEnd": "2024-10-30T11:22:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_073/cortes/15_000400_073_0_25402_741228.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1541228I",
+        "duration": 240.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_073_0_25402_741228",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Mertxe Aizpurua Arzallus",
+          "lastname": "Aizpurua Arzallus",
+          "firstname": "Mertxe",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Euskal Herria Bildu"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 5
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 76
+      },
+      "agendaItem": {
+        "title": "Real Decreto-ley 5/2024, de 22 de octubre, por el que se modifica la\nLey 17/2006, de 5 de junio, de la radio y la televisión de titularidad\nestatal, para adoptar medidas urgentes relativas al régimen jurídico\naplicable a la Corporación RTVE.",
+        "officialTitle": "Real Decreto-ley 5/2024, de 22 de octubre, por el que se modifica la\nLey 17/2006, de 5 de junio, de la radio y la televisión de titularidad\nestatal, para adoptar medidas urgentes relativas al régimen jurídico\naplicable a la Corporación RTVE.",
+        "type": "regular",
+        "nativeType": "ES-ley"
+      },
+      "dateStart": "2024-10-30T11:22:00+01:00",
+      "dateEnd": "2024-10-30T11:26:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_073/cortes/15_000400_073_0_25402_741229.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1541229I",
+        "duration": 240.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_073_0_25402_741229",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Francesc-Marc Álvaro Vidal",
+          "lastname": "Álvaro Vidal",
+          "firstname": "Francesc-Marc",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Republicano"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 6
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 76
+      },
+      "agendaItem": {
+        "title": "Real Decreto-ley 5/2024, de 22 de octubre, por el que se modifica la\nLey 17/2006, de 5 de junio, de la radio y la televisión de titularidad\nestatal, para adoptar medidas urgentes relativas al régimen jurídico\naplicable a la Corporación RTVE.",
+        "officialTitle": "Real Decreto-ley 5/2024, de 22 de octubre, por el que se modifica la\nLey 17/2006, de 5 de junio, de la radio y la televisión de titularidad\nestatal, para adoptar medidas urgentes relativas al régimen jurídico\naplicable a la Corporación RTVE.",
+        "type": "regular",
+        "nativeType": "ES-ley"
+      },
+      "dateStart": "2024-10-30T11:26:00+01:00",
+      "dateEnd": "2024-10-30T11:32:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_073/cortes/15_000400_073_0_25402_741230.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1541230I",
+        "duration": 360.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_073_0_25402_741230",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Francisco Sierra Caballero",
+          "lastname": "Sierra Caballero",
+          "firstname": "Francisco",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Plurinacional SUMAR"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 7
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 76
+      },
+      "agendaItem": {
+        "title": "Real Decreto-ley 5/2024, de 22 de octubre, por el que se modifica la\nLey 17/2006, de 5 de junio, de la radio y la televisión de titularidad\nestatal, para adoptar medidas urgentes relativas al régimen jurídico\naplicable a la Corporación RTVE.",
+        "officialTitle": "Real Decreto-ley 5/2024, de 22 de octubre, por el que se modifica la\nLey 17/2006, de 5 de junio, de la radio y la televisión de titularidad\nestatal, para adoptar medidas urgentes relativas al régimen jurídico\naplicable a la Corporación RTVE.",
+        "type": "regular",
+        "nativeType": "ES-ley"
+      },
+      "dateStart": "2024-10-30T11:32:00+01:00",
+      "dateEnd": "2024-10-30T11:41:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_073/cortes/15_000400_073_0_25402_741231.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1541231I",
+        "duration": 540.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_073_0_25402_741231",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Vicent Manuel Sarrià Morell",
+          "lastname": "Sarrià Morell",
+          "firstname": "Vicent Manuel",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Socialista"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 8
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 76
+      },
+      "agendaItem": {
+        "title": "Real Decreto-ley 5/2024, de 22 de octubre, por el que se modifica la\nLey 17/2006, de 5 de junio, de la radio y la televisión de titularidad\nestatal, para adoptar medidas urgentes relativas al régimen jurídico\naplicable a la Corporación RTVE.",
+        "officialTitle": "Real Decreto-ley 5/2024, de 22 de octubre, por el que se modifica la\nLey 17/2006, de 5 de junio, de la radio y la televisión de titularidad\nestatal, para adoptar medidas urgentes relativas al régimen jurídico\naplicable a la Corporación RTVE.",
+        "type": "regular",
+        "nativeType": "ES-ley"
+      },
+      "dateStart": "2024-10-30T11:41:00+01:00",
+      "dateEnd": "2024-10-30T11:46:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_073/cortes/15_000400_073_0_25402_741232.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1541232I",
+        "duration": 300.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_073_0_25402_741232",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Pilar Calvo Gómez",
+          "lastname": "Calvo Gómez",
+          "firstname": "Pilar",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Junts per Catalunya"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 9
+    }
+  ]
+}

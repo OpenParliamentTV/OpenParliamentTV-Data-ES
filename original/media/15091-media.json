@@ -1,0 +1,1531 @@
+{
+  "meta": {
+    "session": "15091",
+    "processing": {
+      "parse_media": "2026-05-23T07:17:41"
+    },
+    "dateStart": "2024-12-19T09:04:00+01:00",
+    "dateEnd": "2024-12-19T14:12:00+01:00"
+  },
+  "data": [
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 91
+      },
+      "agendaItem": {
+        "title": "Proyecto de Ley de prevención de las pérdidas y el desperdicio\nalimentario.",
+        "officialTitle": "Proyecto de Ley de prevención de las pérdidas y el desperdicio\nalimentario.",
+        "type": "regular",
+        "nativeType": "ES-ley"
+      },
+      "dateStart": "2024-12-19T09:04:00+01:00",
+      "dateEnd": "2024-12-19T09:07:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_088/cortes/15_000400_088_0_25621_745164.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1545164I",
+        "duration": 180.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_088_0_25621_745164",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Cristina Valido García",
+          "lastname": "Valido García",
+          "firstname": "Cristina",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Mixto"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 1
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 91
+      },
+      "agendaItem": {
+        "title": "Proyecto de Ley de prevención de las pérdidas y el desperdicio\nalimentario.",
+        "officialTitle": "Proyecto de Ley de prevención de las pérdidas y el desperdicio\nalimentario.",
+        "type": "regular",
+        "nativeType": "ES-ley"
+      },
+      "dateStart": "2024-12-19T09:07:00+01:00",
+      "dateEnd": "2024-12-19T09:10:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_088/cortes/15_000400_088_0_25621_745166.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1545166I",
+        "duration": 180.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_088_0_25621_745166",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Néstor Rego Candamil",
+          "lastname": "Rego Candamil",
+          "firstname": "Néstor",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Mixto"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 2
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 91
+      },
+      "agendaItem": {
+        "title": "Proyecto de Ley de prevención de las pérdidas y el desperdicio\nalimentario.",
+        "officialTitle": "Proyecto de Ley de prevención de las pérdidas y el desperdicio\nalimentario.",
+        "type": "regular",
+        "nativeType": "ES-ley"
+      },
+      "dateStart": "2024-12-19T09:10:00+01:00",
+      "dateEnd": "2024-12-19T09:15:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_088/cortes/15_000400_088_0_25621_745167.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1545167I",
+        "duration": 300.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_088_0_25621_745167",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Martina Velarde Gómez",
+          "lastname": "Velarde Gómez",
+          "firstname": "Martina",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Mixto"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 3
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 91
+      },
+      "agendaItem": {
+        "title": "Proyecto de Ley de prevención de las pérdidas y el desperdicio\nalimentario.",
+        "officialTitle": "Proyecto de Ley de prevención de las pérdidas y el desperdicio\nalimentario.",
+        "type": "regular",
+        "nativeType": "ES-ley"
+      },
+      "dateStart": "2024-12-19T09:15:00+01:00",
+      "dateEnd": "2024-12-19T09:20:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_088/cortes/15_000400_088_0_25621_745168.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1545168I",
+        "duration": 300.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_088_0_25621_745168",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Joseba Andoni Agirretxea Urresti",
+          "lastname": "Agirretxea Urresti",
+          "firstname": "Joseba Andoni",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Vasco (EAJ-PNV)"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 4
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 91
+      },
+      "agendaItem": {
+        "title": "Proyecto de Ley de prevención de las pérdidas y el desperdicio\nalimentario.",
+        "officialTitle": "Proyecto de Ley de prevención de las pérdidas y el desperdicio\nalimentario.",
+        "type": "regular",
+        "nativeType": "ES-ley"
+      },
+      "dateStart": "2024-12-19T09:20:00+01:00",
+      "dateEnd": "2024-12-19T09:29:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_088/cortes/15_000400_088_0_25621_745169.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1545169I",
+        "duration": 540.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_088_0_25621_745169",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Teresa Jordà i Roura",
+          "lastname": "Jordà i Roura",
+          "firstname": "Teresa",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Republicano"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 5
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 91
+      },
+      "agendaItem": {
+        "title": "Proyecto de Ley de prevención de las pérdidas y el desperdicio\nalimentario.",
+        "officialTitle": "Proyecto de Ley de prevención de las pérdidas y el desperdicio\nalimentario.",
+        "type": "regular",
+        "nativeType": "ES-ley"
+      },
+      "dateStart": "2024-12-19T09:29:00+01:00",
+      "dateEnd": "2024-12-19T09:37:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_088/cortes/15_000400_088_0_25621_745170.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1545170I",
+        "duration": 480.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_088_0_25621_745170",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Juan Antonio Valero Morales",
+          "lastname": "Valero Morales",
+          "firstname": "Juan Antonio",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Plurinacional SUMAR"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 6
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 91
+      },
+      "agendaItem": {
+        "title": "Proyecto de Ley de prevención de las pérdidas y el desperdicio\nalimentario.",
+        "officialTitle": "Proyecto de Ley de prevención de las pérdidas y el desperdicio\nalimentario.",
+        "type": "regular",
+        "nativeType": "ES-ley"
+      },
+      "dateStart": "2024-12-19T09:37:00+01:00",
+      "dateEnd": "2024-12-19T09:47:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_088/cortes/15_000400_088_0_25621_745171.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1545171I",
+        "duration": 600.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_088_0_25621_745171",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Tomás Fernández Ríos",
+          "lastname": "Fernández Ríos",
+          "firstname": "Tomás",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario VOX"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 7
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 91
+      },
+      "agendaItem": {
+        "title": "Proyecto de Ley de prevención de las pérdidas y el desperdicio\nalimentario.",
+        "officialTitle": "Proyecto de Ley de prevención de las pérdidas y el desperdicio\nalimentario.",
+        "type": "regular",
+        "nativeType": "ES-ley"
+      },
+      "dateStart": "2024-12-19T09:47:00+01:00",
+      "dateEnd": "2024-12-19T09:56:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_088/cortes/15_000400_088_0_25621_745172.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1545172I",
+        "duration": 540.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_088_0_25621_745172",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "María Luisa Faneca López",
+          "lastname": "Faneca López",
+          "firstname": "María Luisa",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Socialista"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 8
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 91
+      },
+      "agendaItem": {
+        "title": "Proyecto de Ley de prevención de las pérdidas y el desperdicio\nalimentario.",
+        "officialTitle": "Proyecto de Ley de prevención de las pérdidas y el desperdicio\nalimentario.",
+        "type": "regular",
+        "nativeType": "ES-ley"
+      },
+      "dateStart": "2024-12-19T09:56:00+01:00",
+      "dateEnd": "2024-12-19T10:06:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_088/cortes/15_000400_088_0_25621_745173.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1545173I",
+        "duration": 600.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_088_0_25621_745173",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Milagros Marcos Ortega",
+          "lastname": "Marcos Ortega",
+          "firstname": "Milagros",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Popular en el Congreso"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 9
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 91
+      },
+      "agendaItem": {
+        "title": "Proyecto de Ley de prevención de las pérdidas y el desperdicio\nalimentario.",
+        "officialTitle": "Proyecto de Ley de prevención de las pérdidas y el desperdicio\nalimentario.",
+        "type": "regular",
+        "nativeType": "ES-ley"
+      },
+      "dateStart": "2024-12-19T10:06:00+01:00",
+      "dateEnd": "2024-12-19T10:14:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_088/cortes/15_000400_088_0_25621_745174.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1545174I",
+        "duration": 480.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_088_0_25621_745174",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Iñaki Ruiz de Pinedo Undiano",
+          "lastname": "Ruiz de Pinedo Undiano",
+          "firstname": "Iñaki",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Euskal Herria Bildu"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 10
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 91
+      },
+      "agendaItem": {
+        "title": "Proyecto de Ley de prevención de las pérdidas y el desperdicio\nalimentario.",
+        "officialTitle": "Proyecto de Ley de prevención de las pérdidas y el desperdicio\nalimentario.",
+        "type": "regular",
+        "nativeType": "ES-ley"
+      },
+      "dateStart": "2024-12-19T10:14:00+01:00",
+      "dateEnd": "2024-12-19T10:21:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_088/cortes/15_000400_088_0_25621_745175.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1545175I",
+        "duration": 420.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_088_0_25621_745175",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Isidre Gavin i Valls",
+          "lastname": "Gavin i Valls",
+          "firstname": "Isidre",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Junts per Catalunya"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 11
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 91
+      },
+      "agendaItem": {
+        "title": "Real Decreto-ley 8/2024, de 28 de noviembre, por el que se adoptan\nmedidas urgentes complementarias en el marco del Plan de respuesta\ninmediata, reconstrucción y relanzamiento frente a los daños causados por\nla Depresión Aislada en Niveles Altos (DANA) en diferentes municipios\nentre el 28 de octubre y el 4 de noviembre de 2024.",
+        "officialTitle": "Real Decreto-ley 8/2024, de 28 de noviembre, por el que se adoptan\nmedidas urgentes complementarias en el marco del Plan de respuesta\ninmediata, reconstrucción y relanzamiento frente a los daños causados por\nla Depresión Aislada en Niveles Altos (DANA) en diferentes municipios\nentre el 28 de octubre y el 4 de noviembre de 2024.",
+        "type": "regular",
+        "nativeType": "ES-ley"
+      },
+      "dateStart": "2024-12-19T10:55:00+01:00",
+      "dateEnd": "2024-12-19T11:06:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_088/cortes/15_000400_088_0_25621_745180.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1545180I",
+        "duration": 660.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_088_0_25621_745180",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Félix Bolaños García",
+          "lastname": "Bolaños García",
+          "firstname": "Félix",
+          "type": "member of government",
+          "role": "Ministro de la Presidencia, Justicia y Relaciones con las Cortes",
+          "faction": {
+            "label": "Grupo Parlamentario Socialista"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 12
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 91
+      },
+      "agendaItem": {
+        "title": "Real Decreto-ley 8/2024, de 28 de noviembre, por el que se adoptan\nmedidas urgentes complementarias en el marco del Plan de respuesta\ninmediata, reconstrucción y relanzamiento frente a los daños causados por\nla Depresión Aislada en Niveles Altos (DANA) en diferentes municipios\nentre el 28 de octubre y el 4 de noviembre de 2024.",
+        "officialTitle": "Real Decreto-ley 8/2024, de 28 de noviembre, por el que se adoptan\nmedidas urgentes complementarias en el marco del Plan de respuesta\ninmediata, reconstrucción y relanzamiento frente a los daños causados por\nla Depresión Aislada en Niveles Altos (DANA) en diferentes municipios\nentre el 28 de octubre y el 4 de noviembre de 2024.",
+        "type": "regular",
+        "nativeType": "ES-ley"
+      },
+      "dateStart": "2024-12-19T11:06:00+01:00",
+      "dateEnd": "2024-12-19T11:13:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_088/cortes/15_000400_088_0_25621_745181.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1545181I",
+        "duration": 420.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_088_0_25621_745181",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Javier Sánchez Serna",
+          "lastname": "Sánchez Serna",
+          "firstname": "Javier",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Mixto"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 13
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 91
+      },
+      "agendaItem": {
+        "title": "Real Decreto-ley 8/2024, de 28 de noviembre, por el que se adoptan\nmedidas urgentes complementarias en el marco del Plan de respuesta\ninmediata, reconstrucción y relanzamiento frente a los daños causados por\nla Depresión Aislada en Niveles Altos (DANA) en diferentes municipios\nentre el 28 de octubre y el 4 de noviembre de 2024.",
+        "officialTitle": "Real Decreto-ley 8/2024, de 28 de noviembre, por el que se adoptan\nmedidas urgentes complementarias en el marco del Plan de respuesta\ninmediata, reconstrucción y relanzamiento frente a los daños causados por\nla Depresión Aislada en Niveles Altos (DANA) en diferentes municipios\nentre el 28 de octubre y el 4 de noviembre de 2024.",
+        "type": "regular",
+        "nativeType": "ES-ley"
+      },
+      "dateStart": "2024-12-19T11:13:00+01:00",
+      "dateEnd": "2024-12-19T11:17:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_088/cortes/15_000400_088_0_25621_745182.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1545182I",
+        "duration": 240.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_088_0_25621_745182",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Idoia Sagastizabal Unzetabarrenetxea",
+          "lastname": "Sagastizabal Unzetabarrenetxea",
+          "firstname": "Idoia",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Vasco (EAJ-PNV)"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 14
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 91
+      },
+      "agendaItem": {
+        "title": "Real Decreto-ley 8/2024, de 28 de noviembre, por el que se adoptan\nmedidas urgentes complementarias en el marco del Plan de respuesta\ninmediata, reconstrucción y relanzamiento frente a los daños causados por\nla Depresión Aislada en Niveles Altos (DANA) en diferentes municipios\nentre el 28 de octubre y el 4 de noviembre de 2024.",
+        "officialTitle": "Real Decreto-ley 8/2024, de 28 de noviembre, por el que se adoptan\nmedidas urgentes complementarias en el marco del Plan de respuesta\ninmediata, reconstrucción y relanzamiento frente a los daños causados por\nla Depresión Aislada en Niveles Altos (DANA) en diferentes municipios\nentre el 28 de octubre y el 4 de noviembre de 2024.",
+        "type": "regular",
+        "nativeType": "ES-ley"
+      },
+      "dateStart": "2024-12-19T11:17:00+01:00",
+      "dateEnd": "2024-12-19T11:22:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_088/cortes/15_000400_088_0_25621_745183.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1545183I",
+        "duration": 300.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_088_0_25621_745183",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Mertxe Aizpurua Arzallus",
+          "lastname": "Aizpurua Arzallus",
+          "firstname": "Mertxe",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Euskal Herria Bildu"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 15
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 91
+      },
+      "agendaItem": {
+        "title": "Real Decreto-ley 8/2024, de 28 de noviembre, por el que se adoptan\nmedidas urgentes complementarias en el marco del Plan de respuesta\ninmediata, reconstrucción y relanzamiento frente a los daños causados por\nla Depresión Aislada en Niveles Altos (DANA) en diferentes municipios\nentre el 28 de octubre y el 4 de noviembre de 2024.",
+        "officialTitle": "Real Decreto-ley 8/2024, de 28 de noviembre, por el que se adoptan\nmedidas urgentes complementarias en el marco del Plan de respuesta\ninmediata, reconstrucción y relanzamiento frente a los daños causados por\nla Depresión Aislada en Niveles Altos (DANA) en diferentes municipios\nentre el 28 de octubre y el 4 de noviembre de 2024.",
+        "type": "regular",
+        "nativeType": "ES-ley"
+      },
+      "dateStart": "2024-12-19T11:22:00+01:00",
+      "dateEnd": "2024-12-19T11:31:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_088/cortes/15_000400_088_0_25621_745184.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1545184I",
+        "duration": 540.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_088_0_25621_745184",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Nahuel González López",
+          "lastname": "González López",
+          "firstname": "Nahuel",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Plurinacional SUMAR"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 16
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 91
+      },
+      "agendaItem": {
+        "title": "Real Decreto-ley 8/2024, de 28 de noviembre, por el que se adoptan\nmedidas urgentes complementarias en el marco del Plan de respuesta\ninmediata, reconstrucción y relanzamiento frente a los daños causados por\nla Depresión Aislada en Niveles Altos (DANA) en diferentes municipios\nentre el 28 de octubre y el 4 de noviembre de 2024.",
+        "officialTitle": "Real Decreto-ley 8/2024, de 28 de noviembre, por el que se adoptan\nmedidas urgentes complementarias en el marco del Plan de respuesta\ninmediata, reconstrucción y relanzamiento frente a los daños causados por\nla Depresión Aislada en Niveles Altos (DANA) en diferentes municipios\nentre el 28 de octubre y el 4 de noviembre de 2024.",
+        "type": "regular",
+        "nativeType": "ES-ley"
+      },
+      "dateStart": "2024-12-19T11:31:00+01:00",
+      "dateEnd": "2024-12-19T11:40:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_088/cortes/15_000400_088_0_25621_745185.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1545185I",
+        "duration": 540.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_088_0_25621_745185",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Carlos Flores Juberías",
+          "lastname": "Flores Juberías",
+          "firstname": "Carlos",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario VOX"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 17
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 91
+      },
+      "agendaItem": {
+        "title": "Real Decreto-ley 8/2024, de 28 de noviembre, por el que se adoptan\nmedidas urgentes complementarias en el marco del Plan de respuesta\ninmediata, reconstrucción y relanzamiento frente a los daños causados por\nla Depresión Aislada en Niveles Altos (DANA) en diferentes municipios\nentre el 28 de octubre y el 4 de noviembre de 2024.",
+        "officialTitle": "Real Decreto-ley 8/2024, de 28 de noviembre, por el que se adoptan\nmedidas urgentes complementarias en el marco del Plan de respuesta\ninmediata, reconstrucción y relanzamiento frente a los daños causados por\nla Depresión Aislada en Niveles Altos (DANA) en diferentes municipios\nentre el 28 de octubre y el 4 de noviembre de 2024.",
+        "type": "regular",
+        "nativeType": "ES-ley"
+      },
+      "dateStart": "2024-12-19T11:40:00+01:00",
+      "dateEnd": "2024-12-19T11:48:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_088/cortes/15_000400_088_0_25621_745186.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1545186I",
+        "duration": 480.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_088_0_25621_745186",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Vicent Manuel Sarrià Morell",
+          "lastname": "Sarrià Morell",
+          "firstname": "Vicent Manuel",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Socialista"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 18
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 91
+      },
+      "agendaItem": {
+        "title": "Real Decreto-ley 8/2024, de 28 de noviembre, por el que se adoptan\nmedidas urgentes complementarias en el marco del Plan de respuesta\ninmediata, reconstrucción y relanzamiento frente a los daños causados por\nla Depresión Aislada en Niveles Altos (DANA) en diferentes municipios\nentre el 28 de octubre y el 4 de noviembre de 2024.",
+        "officialTitle": "Real Decreto-ley 8/2024, de 28 de noviembre, por el que se adoptan\nmedidas urgentes complementarias en el marco del Plan de respuesta\ninmediata, reconstrucción y relanzamiento frente a los daños causados por\nla Depresión Aislada en Niveles Altos (DANA) en diferentes municipios\nentre el 28 de octubre y el 4 de noviembre de 2024.",
+        "type": "regular",
+        "nativeType": "ES-ley"
+      },
+      "dateStart": "2024-12-19T11:48:00+01:00",
+      "dateEnd": "2024-12-19T11:58:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_088/cortes/15_000400_088_0_25621_745187.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1545187I",
+        "duration": 600.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_088_0_25621_745187",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Juan Bravo Baena",
+          "lastname": "Bravo Baena",
+          "firstname": "Juan",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Popular en el Congreso"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 19
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 91
+      },
+      "agendaItem": {
+        "title": "Real Decreto-ley 8/2024, de 28 de noviembre, por el que se adoptan\nmedidas urgentes complementarias en el marco del Plan de respuesta\ninmediata, reconstrucción y relanzamiento frente a los daños causados por\nla Depresión Aislada en Niveles Altos (DANA) en diferentes municipios\nentre el 28 de octubre y el 4 de noviembre de 2024.",
+        "officialTitle": "Real Decreto-ley 8/2024, de 28 de noviembre, por el que se adoptan\nmedidas urgentes complementarias en el marco del Plan de respuesta\ninmediata, reconstrucción y relanzamiento frente a los daños causados por\nla Depresión Aislada en Niveles Altos (DANA) en diferentes municipios\nentre el 28 de octubre y el 4 de noviembre de 2024.",
+        "type": "regular",
+        "nativeType": "ES-ley"
+      },
+      "dateStart": "2024-12-19T11:58:00+01:00",
+      "dateEnd": "2024-12-19T12:03:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_088/cortes/15_000400_088_0_25621_745188.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1545188I",
+        "duration": 300.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_088_0_25621_745188",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Félix Bolaños García",
+          "lastname": "Bolaños García",
+          "firstname": "Félix",
+          "type": "member of government",
+          "role": "Ministro de la Presidencia, Justicia y Relaciones con las Cortes",
+          "faction": {
+            "label": "Grupo Parlamentario Socialista"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 20
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 91
+      },
+      "agendaItem": {
+        "title": "Proyecto de Ley Orgánica de medidas en materia de eficiencia del\nServicio Público de Justicia.",
+        "officialTitle": "Proyecto de Ley Orgánica de medidas en materia de eficiencia del\nServicio Público de Justicia.",
+        "type": "regular",
+        "nativeType": "ES-ley"
+      },
+      "dateStart": "2024-12-19T12:06:00+01:00",
+      "dateEnd": "2024-12-19T12:12:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_088/cortes/15_000400_088_1_25623_745194.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1545194I",
+        "duration": 360.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_088_1_25623_745194",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Martina Velarde Gómez",
+          "lastname": "Velarde Gómez",
+          "firstname": "Martina",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Mixto"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 21
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 91
+      },
+      "agendaItem": {
+        "title": "Proyecto de Ley Orgánica de medidas en materia de eficiencia del\nServicio Público de Justicia.",
+        "officialTitle": "Proyecto de Ley Orgánica de medidas en materia de eficiencia del\nServicio Público de Justicia.",
+        "type": "regular",
+        "nativeType": "ES-ley"
+      },
+      "dateStart": "2024-12-19T12:12:00+01:00",
+      "dateEnd": "2024-12-19T12:18:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_088/cortes/15_000400_088_1_25623_745195.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1545195I",
+        "duration": 360.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_088_1_25623_745195",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Jon Iñarritu García",
+          "lastname": "Iñarritu García",
+          "firstname": "Jon",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Euskal Herria Bildu"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 22
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 91
+      },
+      "agendaItem": {
+        "title": "Proyecto de Ley Orgánica de medidas en materia de eficiencia del\nServicio Público de Justicia.",
+        "officialTitle": "Proyecto de Ley Orgánica de medidas en materia de eficiencia del\nServicio Público de Justicia.",
+        "type": "regular",
+        "nativeType": "ES-ley"
+      },
+      "dateStart": "2024-12-19T12:18:00+01:00",
+      "dateEnd": "2024-12-19T12:26:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_088/cortes/15_000400_088_1_25623_745196.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1545196I",
+        "duration": 480.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_088_1_25623_745196",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Josep Pagès i Massó",
+          "lastname": "Pagès i Massó",
+          "firstname": "Josep",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Junts per Catalunya"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 23
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 91
+      },
+      "agendaItem": {
+        "title": "Proyecto de Ley Orgánica de medidas en materia de eficiencia del\nServicio Público de Justicia.",
+        "officialTitle": "Proyecto de Ley Orgánica de medidas en materia de eficiencia del\nServicio Público de Justicia.",
+        "type": "regular",
+        "nativeType": "ES-ley"
+      },
+      "dateStart": "2024-12-19T12:26:00+01:00",
+      "dateEnd": "2024-12-19T12:31:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_088/cortes/15_000400_088_1_25623_745197.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1545197I",
+        "duration": 300.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_088_1_25623_745197",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Pilar Vallugera Balañà",
+          "lastname": "Vallugera Balañà",
+          "firstname": "Pilar",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Republicano"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 24
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 91
+      },
+      "agendaItem": {
+        "title": "Proyecto de Ley Orgánica de medidas en materia de eficiencia del\nServicio Público de Justicia.",
+        "officialTitle": "Proyecto de Ley Orgánica de medidas en materia de eficiencia del\nServicio Público de Justicia.",
+        "type": "regular",
+        "nativeType": "ES-ley"
+      },
+      "dateStart": "2024-12-19T12:31:00+01:00",
+      "dateEnd": "2024-12-19T12:38:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_088/cortes/15_000400_088_1_25623_745198.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1545198I",
+        "duration": 420.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_088_1_25623_745198",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Enrique Fernando Santiago Romero",
+          "lastname": "Santiago Romero",
+          "firstname": "Enrique Fernando",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Plurinacional SUMAR"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 25
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 91
+      },
+      "agendaItem": {
+        "title": "Proyecto de Ley Orgánica de medidas en materia de eficiencia del\nServicio Público de Justicia.",
+        "officialTitle": "Proyecto de Ley Orgánica de medidas en materia de eficiencia del\nServicio Público de Justicia.",
+        "type": "regular",
+        "nativeType": "ES-ley"
+      },
+      "dateStart": "2024-12-19T12:38:00+01:00",
+      "dateEnd": "2024-12-19T12:46:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_088/cortes/15_000400_088_1_25623_745199.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1545199I",
+        "duration": 480.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_088_1_25623_745199",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Juan José Aizcorbe Torra",
+          "lastname": "Aizcorbe Torra",
+          "firstname": "Juan José",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario VOX"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 26
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 91
+      },
+      "agendaItem": {
+        "title": "Proyecto de Ley Orgánica de medidas en materia de eficiencia del\nServicio Público de Justicia.",
+        "officialTitle": "Proyecto de Ley Orgánica de medidas en materia de eficiencia del\nServicio Público de Justicia.",
+        "type": "regular",
+        "nativeType": "ES-ley"
+      },
+      "dateStart": "2024-12-19T12:46:00+01:00",
+      "dateEnd": "2024-12-19T12:54:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_088/cortes/15_000400_088_1_25623_745200.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1545200I",
+        "duration": 480.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_088_1_25623_745200",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Francisco Aranda Vargas",
+          "lastname": "Aranda Vargas",
+          "firstname": "Francisco",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Socialista"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 27
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 91
+      },
+      "agendaItem": {
+        "title": "Proyecto de Ley Orgánica de medidas en materia de eficiencia del\nServicio Público de Justicia.",
+        "officialTitle": "Proyecto de Ley Orgánica de medidas en materia de eficiencia del\nServicio Público de Justicia.",
+        "type": "regular",
+        "nativeType": "ES-ley"
+      },
+      "dateStart": "2024-12-19T12:54:00+01:00",
+      "dateEnd": "2024-12-19T13:03:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_088/cortes/15_000400_088_1_25623_745201.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1545201I",
+        "duration": 540.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_088_1_25623_745201",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "María Jesús Moro Almaraz",
+          "lastname": "Moro Almaraz",
+          "firstname": "María Jesús",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Popular en el Congreso"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 28
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 91
+      },
+      "agendaItem": {
+        "title": "Proyecto de Ley por la que se establecen un Impuesto Complementario\npara garantizar un nivel mínimo global de imposición para los grupos\nmultinacionales y los grupos nacionales de gran magnitud, un Impuesto\nsobre el margen de intereses y comisiones de determinadas entidades\nfinancieras y un Impuesto sobre los líquidos para cigarrillos\nelectrónicos y otros productos relacionados con el tabaco, y se modifican\notras normas tributarias.",
+        "officialTitle": "Proyecto de Ley por la que se establecen un Impuesto Complementario\npara garantizar un nivel mínimo global de imposición para los grupos\nmultinacionales y los grupos nacionales de gran magnitud, un Impuesto\nsobre el margen de intereses y comisiones de determinadas entidades\nfinancieras y un Impuesto sobre los líquidos para cigarrillos\nelectrónicos y otros productos relacionados con el tabaco, y se modifican\notras normas tributarias.",
+        "type": "regular",
+        "nativeType": "ES-ley"
+      },
+      "dateStart": "2024-12-19T13:04:00+01:00",
+      "dateEnd": "2024-12-19T13:09:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_088/cortes/15_000400_088_1_25623_745206.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1545206I",
+        "duration": 300.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_088_1_25623_745206",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Néstor Rego Candamil",
+          "lastname": "Rego Candamil",
+          "firstname": "Néstor",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Mixto"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 29
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 91
+      },
+      "agendaItem": {
+        "title": "Proyecto de Ley por la que se establecen un Impuesto Complementario\npara garantizar un nivel mínimo global de imposición para los grupos\nmultinacionales y los grupos nacionales de gran magnitud, un Impuesto\nsobre el margen de intereses y comisiones de determinadas entidades\nfinancieras y un Impuesto sobre los líquidos para cigarrillos\nelectrónicos y otros productos relacionados con el tabaco, y se modifican\notras normas tributarias.",
+        "officialTitle": "Proyecto de Ley por la que se establecen un Impuesto Complementario\npara garantizar un nivel mínimo global de imposición para los grupos\nmultinacionales y los grupos nacionales de gran magnitud, un Impuesto\nsobre el margen de intereses y comisiones de determinadas entidades\nfinancieras y un Impuesto sobre los líquidos para cigarrillos\nelectrónicos y otros productos relacionados con el tabaco, y se modifican\notras normas tributarias.",
+        "type": "regular",
+        "nativeType": "ES-ley"
+      },
+      "dateStart": "2024-12-19T13:09:00+01:00",
+      "dateEnd": "2024-12-19T13:14:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_088/cortes/15_000400_088_1_25623_745207.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1545207I",
+        "duration": 300.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_088_1_25623_745207",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Ione Belarra Urteaga",
+          "lastname": "Belarra Urteaga",
+          "firstname": "Ione",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Mixto"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 30
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 91
+      },
+      "agendaItem": {
+        "title": "Proyecto de Ley por la que se establecen un Impuesto Complementario\npara garantizar un nivel mínimo global de imposición para los grupos\nmultinacionales y los grupos nacionales de gran magnitud, un Impuesto\nsobre el margen de intereses y comisiones de determinadas entidades\nfinancieras y un Impuesto sobre los líquidos para cigarrillos\nelectrónicos y otros productos relacionados con el tabaco, y se modifican\notras normas tributarias.",
+        "officialTitle": "Proyecto de Ley por la que se establecen un Impuesto Complementario\npara garantizar un nivel mínimo global de imposición para los grupos\nmultinacionales y los grupos nacionales de gran magnitud, un Impuesto\nsobre el margen de intereses y comisiones de determinadas entidades\nfinancieras y un Impuesto sobre los líquidos para cigarrillos\nelectrónicos y otros productos relacionados con el tabaco, y se modifican\notras normas tributarias.",
+        "type": "regular",
+        "nativeType": "ES-ley"
+      },
+      "dateStart": "2024-12-19T13:14:00+01:00",
+      "dateEnd": "2024-12-19T13:22:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_088/cortes/15_000400_088_1_25623_745209.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1545209I",
+        "duration": 480.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_088_1_25623_745209",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Oskar Matute García de Jalón",
+          "lastname": "Matute García de Jalón",
+          "firstname": "Oskar",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Euskal Herria Bildu"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 31
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 91
+      },
+      "agendaItem": {
+        "title": "Proyecto de Ley por la que se establecen un Impuesto Complementario\npara garantizar un nivel mínimo global de imposición para los grupos\nmultinacionales y los grupos nacionales de gran magnitud, un Impuesto\nsobre el margen de intereses y comisiones de determinadas entidades\nfinancieras y un Impuesto sobre los líquidos para cigarrillos\nelectrónicos y otros productos relacionados con el tabaco, y se modifican\notras normas tributarias.",
+        "officialTitle": "Proyecto de Ley por la que se establecen un Impuesto Complementario\npara garantizar un nivel mínimo global de imposición para los grupos\nmultinacionales y los grupos nacionales de gran magnitud, un Impuesto\nsobre el margen de intereses y comisiones de determinadas entidades\nfinancieras y un Impuesto sobre los líquidos para cigarrillos\nelectrónicos y otros productos relacionados con el tabaco, y se modifican\notras normas tributarias.",
+        "type": "regular",
+        "nativeType": "ES-ley"
+      },
+      "dateStart": "2024-12-19T13:22:00+01:00",
+      "dateEnd": "2024-12-19T13:28:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_088/cortes/15_000400_088_1_25623_745211.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1545211I",
+        "duration": 360.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_088_1_25623_745211",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Josep Maria Cruset Domènech",
+          "lastname": "Cruset Domènech",
+          "firstname": "Josep Maria",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Junts per Catalunya"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 32
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 91
+      },
+      "agendaItem": {
+        "title": "Proyecto de Ley por la que se establecen un Impuesto Complementario\npara garantizar un nivel mínimo global de imposición para los grupos\nmultinacionales y los grupos nacionales de gran magnitud, un Impuesto\nsobre el margen de intereses y comisiones de determinadas entidades\nfinancieras y un Impuesto sobre los líquidos para cigarrillos\nelectrónicos y otros productos relacionados con el tabaco, y se modifican\notras normas tributarias.",
+        "officialTitle": "Proyecto de Ley por la que se establecen un Impuesto Complementario\npara garantizar un nivel mínimo global de imposición para los grupos\nmultinacionales y los grupos nacionales de gran magnitud, un Impuesto\nsobre el margen de intereses y comisiones de determinadas entidades\nfinancieras y un Impuesto sobre los líquidos para cigarrillos\nelectrónicos y otros productos relacionados con el tabaco, y se modifican\notras normas tributarias.",
+        "type": "regular",
+        "nativeType": "ES-ley"
+      },
+      "dateStart": "2024-12-19T13:28:00+01:00",
+      "dateEnd": "2024-12-19T13:36:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_088/cortes/15_000400_088_1_25623_745212.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1545212I",
+        "duration": 480.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_088_1_25623_745212",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Pilar Vallugera Balañà",
+          "lastname": "Vallugera Balañà",
+          "firstname": "Pilar",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Republicano"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 33
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 91
+      },
+      "agendaItem": {
+        "title": "Proyecto de Ley por la que se establecen un Impuesto Complementario\npara garantizar un nivel mínimo global de imposición para los grupos\nmultinacionales y los grupos nacionales de gran magnitud, un Impuesto\nsobre el margen de intereses y comisiones de determinadas entidades\nfinancieras y un Impuesto sobre los líquidos para cigarrillos\nelectrónicos y otros productos relacionados con el tabaco, y se modifican\notras normas tributarias.",
+        "officialTitle": "Proyecto de Ley por la que se establecen un Impuesto Complementario\npara garantizar un nivel mínimo global de imposición para los grupos\nmultinacionales y los grupos nacionales de gran magnitud, un Impuesto\nsobre el margen de intereses y comisiones de determinadas entidades\nfinancieras y un Impuesto sobre los líquidos para cigarrillos\nelectrónicos y otros productos relacionados con el tabaco, y se modifican\notras normas tributarias.",
+        "type": "regular",
+        "nativeType": "ES-ley"
+      },
+      "dateStart": "2024-12-19T13:36:00+01:00",
+      "dateEnd": "2024-12-19T13:44:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_088/cortes/15_000400_088_1_25623_745213.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1545213I",
+        "duration": 480.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_088_1_25623_745213",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Manuel Lago Peñas",
+          "lastname": "Lago Peñas",
+          "firstname": "Manuel",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Plurinacional SUMAR"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 34
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 91
+      },
+      "agendaItem": {
+        "title": "Proyecto de Ley por la que se establecen un Impuesto Complementario\npara garantizar un nivel mínimo global de imposición para los grupos\nmultinacionales y los grupos nacionales de gran magnitud, un Impuesto\nsobre el margen de intereses y comisiones de determinadas entidades\nfinancieras y un Impuesto sobre los líquidos para cigarrillos\nelectrónicos y otros productos relacionados con el tabaco, y se modifican\notras normas tributarias.",
+        "officialTitle": "Proyecto de Ley por la que se establecen un Impuesto Complementario\npara garantizar un nivel mínimo global de imposición para los grupos\nmultinacionales y los grupos nacionales de gran magnitud, un Impuesto\nsobre el margen de intereses y comisiones de determinadas entidades\nfinancieras y un Impuesto sobre los líquidos para cigarrillos\nelectrónicos y otros productos relacionados con el tabaco, y se modifican\notras normas tributarias.",
+        "type": "regular",
+        "nativeType": "ES-ley"
+      },
+      "dateStart": "2024-12-19T13:44:00+01:00",
+      "dateEnd": "2024-12-19T13:53:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_088/cortes/15_000400_088_1_25623_745214.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1545214I",
+        "duration": 540.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_088_1_25623_745214",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Pablo Sáez Alonso-Muñumer",
+          "lastname": "Sáez Alonso-Muñumer",
+          "firstname": "Pablo",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario VOX"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 35
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 91
+      },
+      "agendaItem": {
+        "title": "Proyecto de Ley por la que se establecen un Impuesto Complementario\npara garantizar un nivel mínimo global de imposición para los grupos\nmultinacionales y los grupos nacionales de gran magnitud, un Impuesto\nsobre el margen de intereses y comisiones de determinadas entidades\nfinancieras y un Impuesto sobre los líquidos para cigarrillos\nelectrónicos y otros productos relacionados con el tabaco, y se modifican\notras normas tributarias.",
+        "officialTitle": "Proyecto de Ley por la que se establecen un Impuesto Complementario\npara garantizar un nivel mínimo global de imposición para los grupos\nmultinacionales y los grupos nacionales de gran magnitud, un Impuesto\nsobre el margen de intereses y comisiones de determinadas entidades\nfinancieras y un Impuesto sobre los líquidos para cigarrillos\nelectrónicos y otros productos relacionados con el tabaco, y se modifican\notras normas tributarias.",
+        "type": "regular",
+        "nativeType": "ES-ley"
+      },
+      "dateStart": "2024-12-19T13:53:00+01:00",
+      "dateEnd": "2024-12-19T14:02:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_088/cortes/15_000400_088_1_25623_745215.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1545215I",
+        "duration": 540.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_088_1_25623_745215",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Juan Antonio González Gracia",
+          "lastname": "González Gracia",
+          "firstname": "Juan Antonio",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Socialista"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 36
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 91
+      },
+      "agendaItem": {
+        "title": "Proyecto de Ley por la que se establecen un Impuesto Complementario\npara garantizar un nivel mínimo global de imposición para los grupos\nmultinacionales y los grupos nacionales de gran magnitud, un Impuesto\nsobre el margen de intereses y comisiones de determinadas entidades\nfinancieras y un Impuesto sobre los líquidos para cigarrillos\nelectrónicos y otros productos relacionados con el tabaco, y se modifican\notras normas tributarias.",
+        "officialTitle": "Proyecto de Ley por la que se establecen un Impuesto Complementario\npara garantizar un nivel mínimo global de imposición para los grupos\nmultinacionales y los grupos nacionales de gran magnitud, un Impuesto\nsobre el margen de intereses y comisiones de determinadas entidades\nfinancieras y un Impuesto sobre los líquidos para cigarrillos\nelectrónicos y otros productos relacionados con el tabaco, y se modifican\notras normas tributarias.",
+        "type": "regular",
+        "nativeType": "ES-ley"
+      },
+      "dateStart": "2024-12-19T14:02:00+01:00",
+      "dateEnd": "2024-12-19T14:12:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_088/cortes/15_000400_088_1_25623_745216.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1545216I",
+        "duration": 600.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_088_1_25623_745216",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "José Vicente Marí Bosó",
+          "lastname": "Marí Bosó",
+          "firstname": "José Vicente",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Popular en el Congreso"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 37
+    }
+  ]
+}

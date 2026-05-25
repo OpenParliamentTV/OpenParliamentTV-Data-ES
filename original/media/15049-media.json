@@ -1,0 +1,2083 @@
+{
+  "meta": {
+    "session": "15049",
+    "processing": {
+      "parse_media": "2026-05-23T07:17:41"
+    },
+    "dateStart": "2024-06-18T15:02:00+02:00",
+    "dateEnd": "2024-06-18T21:00:00+02:00"
+  },
+  "data": [
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 49
+      },
+      "agendaItem": {
+        "title": "Proposición de Ley Orgánica por la que se modifica el artículo 80 de\nla Ley Orgánica 1/1979, de 26 de septiembre, General Penitenciaria, para\nreconocer, a efectos legales, el carácter de agentes de la autoridad a\nlos funcionarios de Instituciones Penitenciarias.",
+        "officialTitle": "Proposición de Ley Orgánica por la que se modifica el artículo 80 de\nla Ley Orgánica 1/1979, de 26 de septiembre, General Penitenciaria, para\nreconocer, a efectos legales, el carácter de agentes de la autoridad a\nlos funcionarios de Instituciones Penitenciarias.",
+        "type": "regular",
+        "nativeType": "ES-ley"
+      },
+      "dateStart": "2024-06-18T15:02:00+02:00",
+      "dateEnd": "2024-06-18T15:15:00+02:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_047/cortes/15_000400_047_0_25012_735497.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1535497I",
+        "duration": 780.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_047_0_25012_735497",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "José Luis Aceves Galindo",
+          "lastname": "Aceves Galindo",
+          "firstname": "José Luis",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Socialista"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 1
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 49
+      },
+      "agendaItem": {
+        "title": "Proposición de Ley Orgánica por la que se modifica el artículo 80 de\nla Ley Orgánica 1/1979, de 26 de septiembre, General Penitenciaria, para\nreconocer, a efectos legales, el carácter de agentes de la autoridad a\nlos funcionarios de Instituciones Penitenciarias.",
+        "officialTitle": "Proposición de Ley Orgánica por la que se modifica el artículo 80 de\nla Ley Orgánica 1/1979, de 26 de septiembre, General Penitenciaria, para\nreconocer, a efectos legales, el carácter de agentes de la autoridad a\nlos funcionarios de Instituciones Penitenciarias.",
+        "type": "regular",
+        "nativeType": "ES-ley"
+      },
+      "dateStart": "2024-06-18T15:15:00+02:00",
+      "dateEnd": "2024-06-18T15:21:00+02:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_047/cortes/15_000400_047_0_25012_735498.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1535498I",
+        "duration": 360.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_047_0_25012_735498",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Cristina Valido García",
+          "lastname": "Valido García",
+          "firstname": "Cristina",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Mixto"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 2
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 49
+      },
+      "agendaItem": {
+        "title": "Proposición de Ley Orgánica por la que se modifica el artículo 80 de\nla Ley Orgánica 1/1979, de 26 de septiembre, General Penitenciaria, para\nreconocer, a efectos legales, el carácter de agentes de la autoridad a\nlos funcionarios de Instituciones Penitenciarias.",
+        "officialTitle": "Proposición de Ley Orgánica por la que se modifica el artículo 80 de\nla Ley Orgánica 1/1979, de 26 de septiembre, General Penitenciaria, para\nreconocer, a efectos legales, el carácter de agentes de la autoridad a\nlos funcionarios de Instituciones Penitenciarias.",
+        "type": "regular",
+        "nativeType": "ES-ley"
+      },
+      "dateStart": "2024-06-18T15:21:00+02:00",
+      "dateEnd": "2024-06-18T15:28:00+02:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_047/cortes/15_000400_047_0_25012_735499.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1535499I",
+        "duration": 420.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_047_0_25012_735499",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Mikel Legarda Uriarte",
+          "lastname": "Legarda Uriarte",
+          "firstname": "Mikel",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Vasco (EAJ-PNV)"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 3
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 49
+      },
+      "agendaItem": {
+        "title": "Proposición de Ley Orgánica por la que se modifica el artículo 80 de\nla Ley Orgánica 1/1979, de 26 de septiembre, General Penitenciaria, para\nreconocer, a efectos legales, el carácter de agentes de la autoridad a\nlos funcionarios de Instituciones Penitenciarias.",
+        "officialTitle": "Proposición de Ley Orgánica por la que se modifica el artículo 80 de\nla Ley Orgánica 1/1979, de 26 de septiembre, General Penitenciaria, para\nreconocer, a efectos legales, el carácter de agentes de la autoridad a\nlos funcionarios de Instituciones Penitenciarias.",
+        "type": "regular",
+        "nativeType": "ES-ley"
+      },
+      "dateStart": "2024-06-18T15:28:00+02:00",
+      "dateEnd": "2024-06-18T15:36:00+02:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_047/cortes/15_000400_047_0_25012_735500.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1535500I",
+        "duration": 480.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_047_0_25012_735500",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Jon Iñarritu García",
+          "lastname": "Iñarritu García",
+          "firstname": "Jon",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Euskal Herria Bildu"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 4
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 49
+      },
+      "agendaItem": {
+        "title": "Proposición de Ley Orgánica por la que se modifica el artículo 80 de\nla Ley Orgánica 1/1979, de 26 de septiembre, General Penitenciaria, para\nreconocer, a efectos legales, el carácter de agentes de la autoridad a\nlos funcionarios de Instituciones Penitenciarias.",
+        "officialTitle": "Proposición de Ley Orgánica por la que se modifica el artículo 80 de\nla Ley Orgánica 1/1979, de 26 de septiembre, General Penitenciaria, para\nreconocer, a efectos legales, el carácter de agentes de la autoridad a\nlos funcionarios de Instituciones Penitenciarias.",
+        "type": "regular",
+        "nativeType": "ES-ley"
+      },
+      "dateStart": "2024-06-18T15:36:00+02:00",
+      "dateEnd": "2024-06-18T15:43:00+02:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_047/cortes/15_000400_047_0_25012_735501.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1535501I",
+        "duration": 420.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_047_0_25012_735501",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Josep Maria Cervera Pinart",
+          "lastname": "Cervera Pinart",
+          "firstname": "Josep Maria",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Junts per Catalunya"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 5
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 49
+      },
+      "agendaItem": {
+        "title": "Proposición de Ley Orgánica por la que se modifica el artículo 80 de\nla Ley Orgánica 1/1979, de 26 de septiembre, General Penitenciaria, para\nreconocer, a efectos legales, el carácter de agentes de la autoridad a\nlos funcionarios de Instituciones Penitenciarias.",
+        "officialTitle": "Proposición de Ley Orgánica por la que se modifica el artículo 80 de\nla Ley Orgánica 1/1979, de 26 de septiembre, General Penitenciaria, para\nreconocer, a efectos legales, el carácter de agentes de la autoridad a\nlos funcionarios de Instituciones Penitenciarias.",
+        "type": "regular",
+        "nativeType": "ES-ley"
+      },
+      "dateStart": "2024-06-18T15:43:00+02:00",
+      "dateEnd": "2024-06-18T15:50:00+02:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_047/cortes/15_000400_047_0_25012_735502.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1535502I",
+        "duration": 420.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_047_0_25012_735502",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Pilar Vallugera Balañà",
+          "lastname": "Vallugera Balañà",
+          "firstname": "Pilar",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Republicano"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 6
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 49
+      },
+      "agendaItem": {
+        "title": "Proposición de Ley Orgánica por la que se modifica el artículo 80 de\nla Ley Orgánica 1/1979, de 26 de septiembre, General Penitenciaria, para\nreconocer, a efectos legales, el carácter de agentes de la autoridad a\nlos funcionarios de Instituciones Penitenciarias.",
+        "officialTitle": "Proposición de Ley Orgánica por la que se modifica el artículo 80 de\nla Ley Orgánica 1/1979, de 26 de septiembre, General Penitenciaria, para\nreconocer, a efectos legales, el carácter de agentes de la autoridad a\nlos funcionarios de Instituciones Penitenciarias.",
+        "type": "regular",
+        "nativeType": "ES-ley"
+      },
+      "dateStart": "2024-06-18T15:50:00+02:00",
+      "dateEnd": "2024-06-18T15:58:00+02:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_047/cortes/15_000400_047_0_25012_735503.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1535503I",
+        "duration": 480.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_047_0_25012_735503",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Enrique Fernando Santiago Romero",
+          "lastname": "Santiago Romero",
+          "firstname": "Enrique Fernando",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Plurinacional SUMAR"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 7
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 49
+      },
+      "agendaItem": {
+        "title": "Proposición de Ley Orgánica por la que se modifica el artículo 80 de\nla Ley Orgánica 1/1979, de 26 de septiembre, General Penitenciaria, para\nreconocer, a efectos legales, el carácter de agentes de la autoridad a\nlos funcionarios de Instituciones Penitenciarias.",
+        "officialTitle": "Proposición de Ley Orgánica por la que se modifica el artículo 80 de\nla Ley Orgánica 1/1979, de 26 de septiembre, General Penitenciaria, para\nreconocer, a efectos legales, el carácter de agentes de la autoridad a\nlos funcionarios de Instituciones Penitenciarias.",
+        "type": "regular",
+        "nativeType": "ES-ley"
+      },
+      "dateStart": "2024-06-18T15:58:00+02:00",
+      "dateEnd": "2024-06-18T16:06:00+02:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_047/cortes/15_000400_047_0_25012_735504.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1535504I",
+        "duration": 480.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_047_0_25012_735504",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Francisco Javier Ortega Smith-Molina",
+          "lastname": "Ortega Smith-Molina",
+          "firstname": "Francisco Javier",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario VOX"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 8
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 49
+      },
+      "agendaItem": {
+        "title": "Proposición de Ley Orgánica por la que se modifica el artículo 80 de\nla Ley Orgánica 1/1979, de 26 de septiembre, General Penitenciaria, para\nreconocer, a efectos legales, el carácter de agentes de la autoridad a\nlos funcionarios de Instituciones Penitenciarias.",
+        "officialTitle": "Proposición de Ley Orgánica por la que se modifica el artículo 80 de\nla Ley Orgánica 1/1979, de 26 de septiembre, General Penitenciaria, para\nreconocer, a efectos legales, el carácter de agentes de la autoridad a\nlos funcionarios de Instituciones Penitenciarias.",
+        "type": "regular",
+        "nativeType": "ES-ley"
+      },
+      "dateStart": "2024-06-18T16:06:00+02:00",
+      "dateEnd": "2024-06-18T16:14:00+02:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_047/cortes/15_000400_047_0_25012_735505.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1535505I",
+        "duration": 480.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_047_0_25012_735505",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Ana Belén Vázquez Blanco",
+          "lastname": "Vázquez Blanco",
+          "firstname": "Ana Belén",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Popular en el Congreso"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 9
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 49
+      },
+      "agendaItem": {
+        "title": "Proposición de Ley de protección del Patrimonio Histórico frente al\nvandalismo.",
+        "officialTitle": "Proposición de Ley de protección del Patrimonio Histórico frente al\nvandalismo.",
+        "type": "regular",
+        "nativeType": "ES-ley"
+      },
+      "dateStart": "2024-06-18T16:15:00+02:00",
+      "dateEnd": "2024-06-18T16:28:00+02:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_047/cortes/15_000400_047_0_25012_735507.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1535507I",
+        "duration": 780.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_047_0_25012_735507",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Marta González Vázquez",
+          "lastname": "González Vázquez",
+          "firstname": "Marta",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Popular en el Congreso"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 10
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 49
+      },
+      "agendaItem": {
+        "title": "Proposición de Ley de protección del Patrimonio Histórico frente al\nvandalismo.",
+        "officialTitle": "Proposición de Ley de protección del Patrimonio Histórico frente al\nvandalismo.",
+        "type": "regular",
+        "nativeType": "ES-ley"
+      },
+      "dateStart": "2024-06-18T16:28:00+02:00",
+      "dateEnd": "2024-06-18T16:36:00+02:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_047/cortes/15_000400_047_0_25012_735508.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1535508I",
+        "duration": 480.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_047_0_25012_735508",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Martina Velarde Gómez",
+          "lastname": "Velarde Gómez",
+          "firstname": "Martina",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Mixto"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 11
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 49
+      },
+      "agendaItem": {
+        "title": "Proposición de Ley de protección del Patrimonio Histórico frente al\nvandalismo.",
+        "officialTitle": "Proposición de Ley de protección del Patrimonio Histórico frente al\nvandalismo.",
+        "type": "regular",
+        "nativeType": "ES-ley"
+      },
+      "dateStart": "2024-06-18T16:36:00+02:00",
+      "dateEnd": "2024-06-18T16:44:00+02:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_047/cortes/15_000400_047_0_25012_735509.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1535509I",
+        "duration": 480.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_047_0_25012_735509",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Joseba Andoni Agirretxea Urresti",
+          "lastname": "Agirretxea Urresti",
+          "firstname": "Joseba Andoni",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Vasco (EAJ-PNV)"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 12
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 49
+      },
+      "agendaItem": {
+        "title": "Proposición de Ley de protección del Patrimonio Histórico frente al\nvandalismo.",
+        "officialTitle": "Proposición de Ley de protección del Patrimonio Histórico frente al\nvandalismo.",
+        "type": "regular",
+        "nativeType": "ES-ley"
+      },
+      "dateStart": "2024-06-18T16:44:00+02:00",
+      "dateEnd": "2024-06-18T16:52:00+02:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_047/cortes/15_000400_047_0_25012_735510.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1535510I",
+        "duration": 480.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_047_0_25012_735510",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Oskar Matute García de Jalón",
+          "lastname": "Matute García de Jalón",
+          "firstname": "Oskar",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Euskal Herria Bildu"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 13
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 49
+      },
+      "agendaItem": {
+        "title": "Proposición de Ley de protección del Patrimonio Histórico frente al\nvandalismo.",
+        "officialTitle": "Proposición de Ley de protección del Patrimonio Histórico frente al\nvandalismo.",
+        "type": "regular",
+        "nativeType": "ES-ley"
+      },
+      "dateStart": "2024-06-18T16:52:00+02:00",
+      "dateEnd": "2024-06-18T17:00:00+02:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_047/cortes/15_000400_047_0_25012_735511.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1535511I",
+        "duration": 480.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_047_0_25012_735511",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Eduard Pujol Bonell",
+          "lastname": "Pujol Bonell",
+          "firstname": "Eduard",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Junts per Catalunya"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 14
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 49
+      },
+      "agendaItem": {
+        "title": "Proposición de Ley de protección del Patrimonio Histórico frente al\nvandalismo.",
+        "officialTitle": "Proposición de Ley de protección del Patrimonio Histórico frente al\nvandalismo.",
+        "type": "regular",
+        "nativeType": "ES-ley"
+      },
+      "dateStart": "2024-06-18T17:00:00+02:00",
+      "dateEnd": "2024-06-18T17:07:00+02:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_047/cortes/15_000400_047_0_25012_735512.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1535512I",
+        "duration": 420.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_047_0_25012_735512",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Francesc-Marc Álvaro Vidal",
+          "lastname": "Álvaro Vidal",
+          "firstname": "Francesc-Marc",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Republicano"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 15
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 49
+      },
+      "agendaItem": {
+        "title": "Proposición de Ley de protección del Patrimonio Histórico frente al\nvandalismo.",
+        "officialTitle": "Proposición de Ley de protección del Patrimonio Histórico frente al\nvandalismo.",
+        "type": "regular",
+        "nativeType": "ES-ley"
+      },
+      "dateStart": "2024-06-18T17:07:00+02:00",
+      "dateEnd": "2024-06-18T17:14:00+02:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_047/cortes/15_000400_047_0_25012_735513.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1535513I",
+        "duration": 420.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_047_0_25012_735513",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Júlia Boada Danés",
+          "lastname": "Boada Danés",
+          "firstname": "Júlia",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Plurinacional SUMAR"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 16
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 49
+      },
+      "agendaItem": {
+        "title": "Proposición de Ley de protección del Patrimonio Histórico frente al\nvandalismo.",
+        "officialTitle": "Proposición de Ley de protección del Patrimonio Histórico frente al\nvandalismo.",
+        "type": "regular",
+        "nativeType": "ES-ley"
+      },
+      "dateStart": "2024-06-18T17:14:00+02:00",
+      "dateEnd": "2024-06-18T17:21:00+02:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_047/cortes/15_000400_047_0_25012_735514.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1535514I",
+        "duration": 420.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_047_0_25012_735514",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "José Ramírez del Río",
+          "lastname": "Ramírez del Río",
+          "firstname": "José",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario VOX"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 17
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 49
+      },
+      "agendaItem": {
+        "title": "Proposición de Ley de protección del Patrimonio Histórico frente al\nvandalismo.",
+        "officialTitle": "Proposición de Ley de protección del Patrimonio Histórico frente al\nvandalismo.",
+        "type": "regular",
+        "nativeType": "ES-ley"
+      },
+      "dateStart": "2024-06-18T17:21:00+02:00",
+      "dateEnd": "2024-06-18T17:29:00+02:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_047/cortes/15_000400_047_0_25012_735515.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1535515I",
+        "duration": 480.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_047_0_25012_735515",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Isabel María Pérez Ortiz",
+          "lastname": "Pérez Ortiz",
+          "firstname": "Isabel María",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Socialista"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 18
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 49
+      },
+      "agendaItem": {
+        "title": "Proposición no de Ley relativa al Sáhara Occidental y los compromisos\npendientes de la XII RAN Marruecos-España.",
+        "officialTitle": "Proposición no de Ley relativa al Sáhara Occidental y los compromisos\npendientes de la XII RAN Marruecos-España.",
+        "type": "regular"
+      },
+      "dateStart": "2024-06-18T17:29:00+02:00",
+      "dateEnd": "2024-06-18T17:38:00+02:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_047/cortes/15_000400_047_0_25012_735518.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1535518I",
+        "duration": 540.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_047_0_25012_735518",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Rafael Antonio Hernando Fraile",
+          "lastname": "Hernando Fraile",
+          "firstname": "Rafael Antonio",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Popular en el Congreso"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 19
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 49
+      },
+      "agendaItem": {
+        "title": "Proposición no de Ley relativa al Sáhara Occidental y los compromisos\npendientes de la XII RAN Marruecos-España.",
+        "officialTitle": "Proposición no de Ley relativa al Sáhara Occidental y los compromisos\npendientes de la XII RAN Marruecos-España.",
+        "type": "regular"
+      },
+      "dateStart": "2024-06-18T17:38:00+02:00",
+      "dateEnd": "2024-06-18T17:40:00+02:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_047/cortes/15_000400_047_0_25012_735519.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1535519I",
+        "duration": 120.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_047_0_25012_735519",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Néstor Rego Candamil",
+          "lastname": "Rego Candamil",
+          "firstname": "Néstor",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Mixto"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 20
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 49
+      },
+      "agendaItem": {
+        "title": "Proposición no de Ley relativa al Sáhara Occidental y los compromisos\npendientes de la XII RAN Marruecos-España.",
+        "officialTitle": "Proposición no de Ley relativa al Sáhara Occidental y los compromisos\npendientes de la XII RAN Marruecos-España.",
+        "type": "regular"
+      },
+      "dateStart": "2024-06-18T17:40:00+02:00",
+      "dateEnd": "2024-06-18T17:43:00+02:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_047/cortes/15_000400_047_0_25012_735520.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1535520I",
+        "duration": 180.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_047_0_25012_735520",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Javier Sánchez Serna",
+          "lastname": "Sánchez Serna",
+          "firstname": "Javier",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Mixto"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 21
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 49
+      },
+      "agendaItem": {
+        "title": "Proposición no de Ley relativa al Sáhara Occidental y los compromisos\npendientes de la XII RAN Marruecos-España.",
+        "officialTitle": "Proposición no de Ley relativa al Sáhara Occidental y los compromisos\npendientes de la XII RAN Marruecos-España.",
+        "type": "regular"
+      },
+      "dateStart": "2024-06-18T17:43:00+02:00",
+      "dateEnd": "2024-06-18T17:46:00+02:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_047/cortes/15_000400_047_0_25012_735521.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1535521I",
+        "duration": 180.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_047_0_25012_735521",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Cristina Valido García",
+          "lastname": "Valido García",
+          "firstname": "Cristina",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Mixto"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 22
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 49
+      },
+      "agendaItem": {
+        "title": "Proposición no de Ley relativa al Sáhara Occidental y los compromisos\npendientes de la XII RAN Marruecos-España.",
+        "officialTitle": "Proposición no de Ley relativa al Sáhara Occidental y los compromisos\npendientes de la XII RAN Marruecos-España.",
+        "type": "regular"
+      },
+      "dateStart": "2024-06-18T17:46:00+02:00",
+      "dateEnd": "2024-06-18T17:54:00+02:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_047/cortes/15_000400_047_0_25012_735522.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1535522I",
+        "duration": 480.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_047_0_25012_735522",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Teslem Andala Ubbi",
+          "lastname": "Andala Ubbi",
+          "firstname": "Teslem",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Plurinacional SUMAR"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 23
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 49
+      },
+      "agendaItem": {
+        "title": "Proposición no de Ley relativa al Sáhara Occidental y los compromisos\npendientes de la XII RAN Marruecos-España.",
+        "officialTitle": "Proposición no de Ley relativa al Sáhara Occidental y los compromisos\npendientes de la XII RAN Marruecos-España.",
+        "type": "regular"
+      },
+      "dateStart": "2024-06-18T17:54:00+02:00",
+      "dateEnd": "2024-06-18T18:01:00+02:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_047/cortes/15_000400_047_0_25012_735523.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1535523I",
+        "duration": 420.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_047_0_25012_735523",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Alberto Asarta Cuevas",
+          "lastname": "Asarta Cuevas",
+          "firstname": "Alberto",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario VOX"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 24
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 49
+      },
+      "agendaItem": {
+        "title": "Proposición no de Ley relativa al Sáhara Occidental y los compromisos\npendientes de la XII RAN Marruecos-España.",
+        "officialTitle": "Proposición no de Ley relativa al Sáhara Occidental y los compromisos\npendientes de la XII RAN Marruecos-España.",
+        "type": "regular"
+      },
+      "dateStart": "2024-06-18T18:01:00+02:00",
+      "dateEnd": "2024-06-18T18:07:00+02:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_047/cortes/15_000400_047_0_25012_735524.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1535524I",
+        "duration": 360.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_047_0_25012_735524",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Mikel Legarda Uriarte",
+          "lastname": "Legarda Uriarte",
+          "firstname": "Mikel",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Vasco (EAJ-PNV)"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 25
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 49
+      },
+      "agendaItem": {
+        "title": "Proposición no de Ley relativa al Sáhara Occidental y los compromisos\npendientes de la XII RAN Marruecos-España.",
+        "officialTitle": "Proposición no de Ley relativa al Sáhara Occidental y los compromisos\npendientes de la XII RAN Marruecos-España.",
+        "type": "regular"
+      },
+      "dateStart": "2024-06-18T18:07:00+02:00",
+      "dateEnd": "2024-06-18T18:15:00+02:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_047/cortes/15_000400_047_0_25012_735525.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1535525I",
+        "duration": 480.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_047_0_25012_735525",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Jon Iñarritu García",
+          "lastname": "Iñarritu García",
+          "firstname": "Jon",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Euskal Herria Bildu"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 26
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 49
+      },
+      "agendaItem": {
+        "title": "Proposición no de Ley relativa al Sáhara Occidental y los compromisos\npendientes de la XII RAN Marruecos-España.",
+        "officialTitle": "Proposición no de Ley relativa al Sáhara Occidental y los compromisos\npendientes de la XII RAN Marruecos-España.",
+        "type": "regular"
+      },
+      "dateStart": "2024-06-18T18:15:00+02:00",
+      "dateEnd": "2024-06-18T18:22:00+02:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_047/cortes/15_000400_047_0_25012_735526.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1535526I",
+        "duration": 420.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_047_0_25012_735526",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Francesc-Marc Álvaro Vidal",
+          "lastname": "Álvaro Vidal",
+          "firstname": "Francesc-Marc",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Republicano"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 27
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 49
+      },
+      "agendaItem": {
+        "title": "Proposición no de Ley relativa al Sáhara Occidental y los compromisos\npendientes de la XII RAN Marruecos-España.",
+        "officialTitle": "Proposición no de Ley relativa al Sáhara Occidental y los compromisos\npendientes de la XII RAN Marruecos-España.",
+        "type": "regular"
+      },
+      "dateStart": "2024-06-18T18:22:00+02:00",
+      "dateEnd": "2024-06-18T18:29:00+02:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_047/cortes/15_000400_047_0_25012_735527.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1535527I",
+        "duration": 420.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_047_0_25012_735527",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Hana Jalloul Muro",
+          "lastname": "Jalloul Muro",
+          "firstname": "Hana",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Socialista"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 28
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 49
+      },
+      "agendaItem": {
+        "title": "Proposición no de Ley sobre un Acuerdo de País contra los Discursos\nde Odio.",
+        "officialTitle": "Proposición no de Ley sobre un Acuerdo de País contra los Discursos\nde Odio.",
+        "type": "regular"
+      },
+      "dateStart": "2024-06-18T18:29:00+02:00",
+      "dateEnd": "2024-06-18T18:40:00+02:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_047/cortes/15_000400_047_0_25012_735530.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1535530I",
+        "duration": 660.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_047_0_25012_735530",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Víctor Gutiérrez Santiago",
+          "lastname": "Gutiérrez Santiago",
+          "firstname": "Víctor",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Socialista"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 29
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 49
+      },
+      "agendaItem": {
+        "title": "Proposición no de Ley sobre un Acuerdo de País contra los Discursos\nde Odio.",
+        "officialTitle": "Proposición no de Ley sobre un Acuerdo de País contra los Discursos\nde Odio.",
+        "type": "regular"
+      },
+      "dateStart": "2024-06-18T18:40:00+02:00",
+      "dateEnd": "2024-06-18T18:44:00+02:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_047/cortes/15_000400_047_0_25012_735531.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1535531I",
+        "duration": 240.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_047_0_25012_735531",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Néstor Rego Candamil",
+          "lastname": "Rego Candamil",
+          "firstname": "Néstor",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Mixto"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 30
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 49
+      },
+      "agendaItem": {
+        "title": "Proposición no de Ley sobre un Acuerdo de País contra los Discursos\nde Odio.",
+        "officialTitle": "Proposición no de Ley sobre un Acuerdo de País contra los Discursos\nde Odio.",
+        "type": "regular"
+      },
+      "dateStart": "2024-06-18T18:44:00+02:00",
+      "dateEnd": "2024-06-18T18:48:00+02:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_047/cortes/15_000400_047_0_25012_735532.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1535532I",
+        "duration": 240.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_047_0_25012_735532",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Ione Belarra Urteaga",
+          "lastname": "Belarra Urteaga",
+          "firstname": "Ione",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Mixto"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 31
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 49
+      },
+      "agendaItem": {
+        "title": "Proposición no de Ley sobre un Acuerdo de País contra los Discursos\nde Odio.",
+        "officialTitle": "Proposición no de Ley sobre un Acuerdo de País contra los Discursos\nde Odio.",
+        "type": "regular"
+      },
+      "dateStart": "2024-06-18T18:48:00+02:00",
+      "dateEnd": "2024-06-18T18:53:00+02:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_047/cortes/15_000400_047_0_25012_735533.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1535533I",
+        "duration": 300.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_047_0_25012_735533",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Mikel Legarda Uriarte",
+          "lastname": "Legarda Uriarte",
+          "firstname": "Mikel",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Vasco (EAJ-PNV)"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 32
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 49
+      },
+      "agendaItem": {
+        "title": "Proposición no de Ley sobre un Acuerdo de País contra los Discursos\nde Odio.",
+        "officialTitle": "Proposición no de Ley sobre un Acuerdo de País contra los Discursos\nde Odio.",
+        "type": "regular"
+      },
+      "dateStart": "2024-06-18T18:53:00+02:00",
+      "dateEnd": "2024-06-18T18:59:00+02:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_047/cortes/15_000400_047_0_25012_735534.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1535534I",
+        "duration": 360.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_047_0_25012_735534",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Marije Fullaondo la Cruz",
+          "lastname": "Fullaondo la Cruz",
+          "firstname": "Marije",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Euskal Herria Bildu"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 33
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 49
+      },
+      "agendaItem": {
+        "title": "Proposición no de Ley sobre un Acuerdo de País contra los Discursos\nde Odio.",
+        "officialTitle": "Proposición no de Ley sobre un Acuerdo de País contra los Discursos\nde Odio.",
+        "type": "regular"
+      },
+      "dateStart": "2024-06-18T18:59:00+02:00",
+      "dateEnd": "2024-06-18T19:05:00+02:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_047/cortes/15_000400_047_0_25012_735535.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1535535I",
+        "duration": 360.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_047_0_25012_735535",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Pilar Calvo Gómez",
+          "lastname": "Calvo Gómez",
+          "firstname": "Pilar",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Junts per Catalunya"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 34
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 49
+      },
+      "agendaItem": {
+        "title": "Proposición no de Ley sobre un Acuerdo de País contra los Discursos\nde Odio.",
+        "officialTitle": "Proposición no de Ley sobre un Acuerdo de País contra los Discursos\nde Odio.",
+        "type": "regular"
+      },
+      "dateStart": "2024-06-18T19:05:00+02:00",
+      "dateEnd": "2024-06-18T19:11:00+02:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_047/cortes/15_000400_047_0_25012_735536.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1535536I",
+        "duration": 360.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_047_0_25012_735536",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Gabriel Rufián Romero",
+          "lastname": "Rufián Romero",
+          "firstname": "Gabriel",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Republicano"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 35
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 49
+      },
+      "agendaItem": {
+        "title": "Proposición no de Ley sobre un Acuerdo de País contra los Discursos\nde Odio.",
+        "officialTitle": "Proposición no de Ley sobre un Acuerdo de País contra los Discursos\nde Odio.",
+        "type": "regular"
+      },
+      "dateStart": "2024-06-18T19:11:00+02:00",
+      "dateEnd": "2024-06-18T19:17:00+02:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_047/cortes/15_000400_047_0_25012_735537.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1535537I",
+        "duration": 360.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_047_0_25012_735537",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Esther Gil de Reboleño Lastortres",
+          "lastname": "Gil de Reboleño Lastortres",
+          "firstname": "Esther",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Plurinacional SUMAR"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 36
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 49
+      },
+      "agendaItem": {
+        "title": "Proposición no de Ley sobre un Acuerdo de País contra los Discursos\nde Odio.",
+        "officialTitle": "Proposición no de Ley sobre un Acuerdo de País contra los Discursos\nde Odio.",
+        "type": "regular"
+      },
+      "dateStart": "2024-06-18T19:18:00+02:00",
+      "dateEnd": "2024-06-18T19:24:00+02:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_047/cortes/15_000400_047_1_25014_735541.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1535541I",
+        "duration": 360.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_047_1_25014_735541",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Manuel Mariscal Zabala",
+          "lastname": "Mariscal Zabala",
+          "firstname": "Manuel",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario VOX"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 37
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 49
+      },
+      "agendaItem": {
+        "title": "Proposición no de Ley sobre un Acuerdo de País contra los Discursos\nde Odio.",
+        "officialTitle": "Proposición no de Ley sobre un Acuerdo de País contra los Discursos\nde Odio.",
+        "type": "regular"
+      },
+      "dateStart": "2024-06-18T19:24:00+02:00",
+      "dateEnd": "2024-06-18T19:31:00+02:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_047/cortes/15_000400_047_1_25014_735544.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1535544I",
+        "duration": 420.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_047_1_25014_735544",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Edurne Uriarte Bengoechea",
+          "lastname": "Uriarte Bengoechea",
+          "firstname": "Edurne",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Popular en el Congreso"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 38
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 49
+      },
+      "agendaItem": {
+        "title": "Moción consecuencia de interpelación urgente sobre las medidas que va\na adoptar el Gobierno para garantizar el empleo estable y de calidad en\nEspaña.",
+        "officialTitle": "Moción consecuencia de interpelación urgente sobre las medidas que va\na adoptar el Gobierno para garantizar el empleo estable y de calidad en\nEspaña.",
+        "type": "regular",
+        "nativeType": "ES-mocion"
+      },
+      "dateStart": "2024-06-18T19:32:00+02:00",
+      "dateEnd": "2024-06-18T19:40:00+02:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_047/cortes/15_000400_047_1_25014_735547.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1535547I",
+        "duration": 480.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_047_1_25014_735547",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "David García Gomis",
+          "lastname": "García Gomis",
+          "firstname": "David",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario VOX"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 39
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 49
+      },
+      "agendaItem": {
+        "title": "Moción consecuencia de interpelación urgente sobre las medidas que va\na adoptar el Gobierno para garantizar el empleo estable y de calidad en\nEspaña.",
+        "officialTitle": "Moción consecuencia de interpelación urgente sobre las medidas que va\na adoptar el Gobierno para garantizar el empleo estable y de calidad en\nEspaña.",
+        "type": "regular",
+        "nativeType": "ES-mocion"
+      },
+      "dateStart": "2024-06-18T19:40:00+02:00",
+      "dateEnd": "2024-06-18T19:42:00+02:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_047/cortes/15_000400_047_1_25014_735548.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1535548I",
+        "duration": 120.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_047_1_25014_735548",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Idoia Sagastizabal Unzetabarrenetxea",
+          "lastname": "Sagastizabal Unzetabarrenetxea",
+          "firstname": "Idoia",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Vasco (EAJ-PNV)"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 40
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 49
+      },
+      "agendaItem": {
+        "title": "Moción consecuencia de interpelación urgente sobre las medidas que va\na adoptar el Gobierno para garantizar el empleo estable y de calidad en\nEspaña.",
+        "officialTitle": "Moción consecuencia de interpelación urgente sobre las medidas que va\na adoptar el Gobierno para garantizar el empleo estable y de calidad en\nEspaña.",
+        "type": "regular",
+        "nativeType": "ES-mocion"
+      },
+      "dateStart": "2024-06-18T19:43:00+02:00",
+      "dateEnd": "2024-06-18T19:50:00+02:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_047/cortes/15_000400_047_1_25014_735549.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1535549I",
+        "duration": 420.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_047_1_25014_735549",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "María Carmen Castilla Álvarez",
+          "lastname": "Castilla Álvarez",
+          "firstname": "María Carmen",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Socialista"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 41
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 49
+      },
+      "agendaItem": {
+        "title": "Moción consecuencia de interpelación urgente sobre las medidas que va\na adoptar el Gobierno para garantizar el empleo estable y de calidad en\nEspaña.",
+        "officialTitle": "Moción consecuencia de interpelación urgente sobre las medidas que va\na adoptar el Gobierno para garantizar el empleo estable y de calidad en\nEspaña.",
+        "type": "regular",
+        "nativeType": "ES-mocion"
+      },
+      "dateStart": "2024-06-18T19:50:00+02:00",
+      "dateEnd": "2024-06-18T19:56:00+02:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_047/cortes/15_000400_047_1_25014_735550.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1535550I",
+        "duration": 360.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_047_1_25014_735550",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Aina Vidal Sáez",
+          "lastname": "Vidal Sáez",
+          "firstname": "Aina",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Plurinacional SUMAR"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 42
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 49
+      },
+      "agendaItem": {
+        "title": "Moción consecuencia de interpelación urgente sobre las medidas que va\na adoptar el Gobierno para garantizar el empleo estable y de calidad en\nEspaña.",
+        "officialTitle": "Moción consecuencia de interpelación urgente sobre las medidas que va\na adoptar el Gobierno para garantizar el empleo estable y de calidad en\nEspaña.",
+        "type": "regular",
+        "nativeType": "ES-mocion"
+      },
+      "dateStart": "2024-06-18T19:56:00+02:00",
+      "dateEnd": "2024-06-18T20:03:00+02:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_047/cortes/15_000400_047_1_25014_735552.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1535552I",
+        "duration": 420.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_047_1_25014_735552",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Cristóbal Garre Murcia",
+          "lastname": "Garre Murcia",
+          "firstname": "Cristóbal",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Popular en el Congreso"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 43
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 49
+      },
+      "agendaItem": {
+        "title": "Moción consecuencia de interpelación urgente relativa a las políticas\nque pretende implementar el Gobierno para abordar la turistificación y la\nproblemática relacionada con la misma.",
+        "officialTitle": "Moción consecuencia de interpelación urgente relativa a las políticas\nque pretende implementar el Gobierno para abordar la turistificación y la\nproblemática relacionada con la misma.",
+        "type": "regular",
+        "nativeType": "ES-mocion"
+      },
+      "dateStart": "2024-06-18T20:03:00+02:00",
+      "dateEnd": "2024-06-18T20:11:00+02:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_047/cortes/15_000400_047_1_25014_735554.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1535554I",
+        "duration": 480.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_047_1_25014_735554",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Noemí Santana Perera",
+          "lastname": "Santana Perera",
+          "firstname": "Noemí",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Mixto"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 44
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 49
+      },
+      "agendaItem": {
+        "title": "Moción consecuencia de interpelación urgente relativa a las políticas\nque pretende implementar el Gobierno para abordar la turistificación y la\nproblemática relacionada con la misma.",
+        "officialTitle": "Moción consecuencia de interpelación urgente relativa a las políticas\nque pretende implementar el Gobierno para abordar la turistificación y la\nproblemática relacionada con la misma.",
+        "type": "regular",
+        "nativeType": "ES-mocion"
+      },
+      "dateStart": "2024-06-18T20:11:00+02:00",
+      "dateEnd": "2024-06-18T20:19:00+02:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_047/cortes/15_000400_047_1_25014_735555.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1535555I",
+        "duration": 480.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_047_1_25014_735555",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Inés Granollers Cunillera",
+          "lastname": "Granollers Cunillera",
+          "firstname": "Inés",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Republicano"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 45
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 49
+      },
+      "agendaItem": {
+        "title": "Moción consecuencia de interpelación urgente relativa a las políticas\nque pretende implementar el Gobierno para abordar la turistificación y la\nproblemática relacionada con la misma.",
+        "officialTitle": "Moción consecuencia de interpelación urgente relativa a las políticas\nque pretende implementar el Gobierno para abordar la turistificación y la\nproblemática relacionada con la misma.",
+        "type": "regular",
+        "nativeType": "ES-mocion"
+      },
+      "dateStart": "2024-06-18T20:19:00+02:00",
+      "dateEnd": "2024-06-18T20:26:00+02:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_047/cortes/15_000400_047_1_25014_735556.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1535556I",
+        "duration": 420.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_047_1_25014_735556",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Pepe Mercadal Baquero",
+          "lastname": "Mercadal Baquero",
+          "firstname": "Pepe",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Socialista"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 46
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 49
+      },
+      "agendaItem": {
+        "title": "Moción consecuencia de interpelación urgente relativa a las políticas\nque pretende implementar el Gobierno para abordar la turistificación y la\nproblemática relacionada con la misma.",
+        "officialTitle": "Moción consecuencia de interpelación urgente relativa a las políticas\nque pretende implementar el Gobierno para abordar la turistificación y la\nproblemática relacionada con la misma.",
+        "type": "regular",
+        "nativeType": "ES-mocion"
+      },
+      "dateStart": "2024-06-18T20:26:00+02:00",
+      "dateEnd": "2024-06-18T20:31:00+02:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_047/cortes/15_000400_047_1_25014_735557.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1535557I",
+        "duration": 300.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_047_1_25014_735557",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Idoia Sagastizabal Unzetabarrenetxea",
+          "lastname": "Sagastizabal Unzetabarrenetxea",
+          "firstname": "Idoia",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Vasco (EAJ-PNV)"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 47
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 49
+      },
+      "agendaItem": {
+        "title": "Moción consecuencia de interpelación urgente relativa a las políticas\nque pretende implementar el Gobierno para abordar la turistificación y la\nproblemática relacionada con la misma.",
+        "officialTitle": "Moción consecuencia de interpelación urgente relativa a las políticas\nque pretende implementar el Gobierno para abordar la turistificación y la\nproblemática relacionada con la misma.",
+        "type": "regular",
+        "nativeType": "ES-mocion"
+      },
+      "dateStart": "2024-06-18T20:31:00+02:00",
+      "dateEnd": "2024-06-18T20:37:00+02:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_047/cortes/15_000400_047_1_25014_735558.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1535558I",
+        "duration": 360.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_047_1_25014_735558",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Josep Maria Cruset Domènech",
+          "lastname": "Cruset Domènech",
+          "firstname": "Josep Maria",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Junts per Catalunya"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 48
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 49
+      },
+      "agendaItem": {
+        "title": "Moción consecuencia de interpelación urgente relativa a las políticas\nque pretende implementar el Gobierno para abordar la turistificación y la\nproblemática relacionada con la misma.",
+        "officialTitle": "Moción consecuencia de interpelación urgente relativa a las políticas\nque pretende implementar el Gobierno para abordar la turistificación y la\nproblemática relacionada con la misma.",
+        "type": "regular",
+        "nativeType": "ES-mocion"
+      },
+      "dateStart": "2024-06-18T20:37:00+02:00",
+      "dateEnd": "2024-06-18T20:45:00+02:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_047/cortes/15_000400_047_1_25014_735559.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1535559I",
+        "duration": 480.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_047_1_25014_735559",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Vicenç Vidal Matas",
+          "lastname": "Vidal Matas",
+          "firstname": "Vicenç",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Plurinacional SUMAR"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 49
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 49
+      },
+      "agendaItem": {
+        "title": "Moción consecuencia de interpelación urgente relativa a las políticas\nque pretende implementar el Gobierno para abordar la turistificación y la\nproblemática relacionada con la misma.",
+        "officialTitle": "Moción consecuencia de interpelación urgente relativa a las políticas\nque pretende implementar el Gobierno para abordar la turistificación y la\nproblemática relacionada con la misma.",
+        "type": "regular",
+        "nativeType": "ES-mocion"
+      },
+      "dateStart": "2024-06-18T20:45:00+02:00",
+      "dateEnd": "2024-06-18T20:53:00+02:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_047/cortes/15_000400_047_1_25014_735560.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1535560I",
+        "duration": 480.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_047_1_25014_735560",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Jorge Campos Asensi",
+          "lastname": "Campos Asensi",
+          "firstname": "Jorge",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario VOX"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 50
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 49
+      },
+      "agendaItem": {
+        "title": "Moción consecuencia de interpelación urgente relativa a las políticas\nque pretende implementar el Gobierno para abordar la turistificación y la\nproblemática relacionada con la misma.",
+        "officialTitle": "Moción consecuencia de interpelación urgente relativa a las políticas\nque pretende implementar el Gobierno para abordar la turistificación y la\nproblemática relacionada con la misma.",
+        "type": "regular",
+        "nativeType": "ES-mocion"
+      },
+      "dateStart": "2024-06-18T20:53:00+02:00",
+      "dateEnd": "2024-06-18T21:00:00+02:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_047/cortes/15_000400_047_1_25014_735561.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1535561I",
+        "duration": 420.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_047_1_25014_735561",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Sandra Pascual Rocamora",
+          "lastname": "Pascual Rocamora",
+          "firstname": "Sandra",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Popular en el Congreso"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 51
+    }
+  ]
+}

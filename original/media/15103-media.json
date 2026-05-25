@@ -1,0 +1,1839 @@
+{
+  "meta": {
+    "session": "15103",
+    "processing": {
+      "parse_media": "2026-05-23T07:17:41"
+    },
+    "dateStart": "2025-03-18T15:01:00+01:00",
+    "dateEnd": "2025-03-18T20:02:00+01:00"
+  },
+  "data": [
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 103
+      },
+      "agendaItem": {
+        "title": "Proposición de Ley Orgánica de medidas urgentes para hacer frente a\nla ocupación ilegal de inmuebles.",
+        "officialTitle": "Proposición de Ley Orgánica de medidas urgentes para hacer frente a\nla ocupación ilegal de inmuebles.",
+        "type": "regular",
+        "nativeType": "ES-ley"
+      },
+      "dateStart": "2025-03-18T15:01:00+01:00",
+      "dateEnd": "2025-03-18T15:15:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_099/cortes/15_000400_099_0_25908_749806.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1549806I",
+        "duration": 840.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_099_0_25908_749806",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Marta Madrenas i Mir",
+          "lastname": "Madrenas i Mir",
+          "firstname": "Marta",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Junts per Catalunya"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 1
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 103
+      },
+      "agendaItem": {
+        "title": "Proposición de Ley Orgánica de medidas urgentes para hacer frente a\nla ocupación ilegal de inmuebles.",
+        "officialTitle": "Proposición de Ley Orgánica de medidas urgentes para hacer frente a\nla ocupación ilegal de inmuebles.",
+        "type": "regular",
+        "nativeType": "ES-ley"
+      },
+      "dateStart": "2025-03-18T15:15:00+01:00",
+      "dateEnd": "2025-03-18T15:20:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_099/cortes/15_000400_099_0_25908_749807.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1549807I",
+        "duration": 300.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_099_0_25908_749807",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Cristina Valido García",
+          "lastname": "Valido García",
+          "firstname": "Cristina",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Mixto"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 2
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 103
+      },
+      "agendaItem": {
+        "title": "Proposición de Ley Orgánica de medidas urgentes para hacer frente a\nla ocupación ilegal de inmuebles.",
+        "officialTitle": "Proposición de Ley Orgánica de medidas urgentes para hacer frente a\nla ocupación ilegal de inmuebles.",
+        "type": "regular",
+        "nativeType": "ES-ley"
+      },
+      "dateStart": "2025-03-18T15:20:00+01:00",
+      "dateEnd": "2025-03-18T15:27:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_099/cortes/15_000400_099_0_25908_749808.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1549808I",
+        "duration": 420.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_099_0_25908_749808",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Mikel Legarda Uriarte",
+          "lastname": "Legarda Uriarte",
+          "firstname": "Mikel",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Vasco (EAJ-PNV)"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 3
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 103
+      },
+      "agendaItem": {
+        "title": "Proposición de Ley Orgánica de medidas urgentes para hacer frente a\nla ocupación ilegal de inmuebles.",
+        "officialTitle": "Proposición de Ley Orgánica de medidas urgentes para hacer frente a\nla ocupación ilegal de inmuebles.",
+        "type": "regular",
+        "nativeType": "ES-ley"
+      },
+      "dateStart": "2025-03-18T15:27:00+01:00",
+      "dateEnd": "2025-03-18T15:35:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_099/cortes/15_000400_099_0_25908_749809.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1549809I",
+        "duration": 480.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_099_0_25908_749809",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Oskar Matute García de Jalón",
+          "lastname": "Matute García de Jalón",
+          "firstname": "Oskar",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Euskal Herria Bildu"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 4
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 103
+      },
+      "agendaItem": {
+        "title": "Proposición de Ley Orgánica de medidas urgentes para hacer frente a\nla ocupación ilegal de inmuebles.",
+        "officialTitle": "Proposición de Ley Orgánica de medidas urgentes para hacer frente a\nla ocupación ilegal de inmuebles.",
+        "type": "regular",
+        "nativeType": "ES-ley"
+      },
+      "dateStart": "2025-03-18T15:35:00+01:00",
+      "dateEnd": "2025-03-18T15:42:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_099/cortes/15_000400_099_0_25908_749810.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1549810I",
+        "duration": 420.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_099_0_25908_749810",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Etna Estrems Fayos",
+          "lastname": "Estrems Fayos",
+          "firstname": "Etna",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Republicano"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 5
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 103
+      },
+      "agendaItem": {
+        "title": "Proposición de Ley Orgánica de medidas urgentes para hacer frente a\nla ocupación ilegal de inmuebles.",
+        "officialTitle": "Proposición de Ley Orgánica de medidas urgentes para hacer frente a\nla ocupación ilegal de inmuebles.",
+        "type": "regular",
+        "nativeType": "ES-ley"
+      },
+      "dateStart": "2025-03-18T15:42:00+01:00",
+      "dateEnd": "2025-03-18T15:49:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_099/cortes/15_000400_099_0_25908_749811.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1549811I",
+        "duration": 420.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_099_0_25908_749811",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Gerardo Pisarello Prados",
+          "lastname": "Pisarello Prados",
+          "firstname": "Gerardo",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Plurinacional SUMAR"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 6
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 103
+      },
+      "agendaItem": {
+        "title": "Proposición de Ley Orgánica de medidas urgentes para hacer frente a\nla ocupación ilegal de inmuebles.",
+        "officialTitle": "Proposición de Ley Orgánica de medidas urgentes para hacer frente a\nla ocupación ilegal de inmuebles.",
+        "type": "regular",
+        "nativeType": "ES-ley"
+      },
+      "dateStart": "2025-03-18T15:49:00+01:00",
+      "dateEnd": "2025-03-18T15:58:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_099/cortes/15_000400_099_0_25908_749812.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1549812I",
+        "duration": 540.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_099_0_25908_749812",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Carlos Hernández Quero",
+          "lastname": "Hernández Quero",
+          "firstname": "Carlos",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario VOX"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 7
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 103
+      },
+      "agendaItem": {
+        "title": "Proposición de Ley Orgánica de medidas urgentes para hacer frente a\nla ocupación ilegal de inmuebles.",
+        "officialTitle": "Proposición de Ley Orgánica de medidas urgentes para hacer frente a\nla ocupación ilegal de inmuebles.",
+        "type": "regular",
+        "nativeType": "ES-ley"
+      },
+      "dateStart": "2025-03-18T15:58:00+01:00",
+      "dateEnd": "2025-03-18T16:06:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_099/cortes/15_000400_099_0_25908_749813.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1549813I",
+        "duration": 480.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_099_0_25908_749813",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Guillermo Hita Téllez",
+          "lastname": "Hita Téllez",
+          "firstname": "Guillermo",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Socialista"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 8
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 103
+      },
+      "agendaItem": {
+        "title": "Proposición de Ley Orgánica de medidas urgentes para hacer frente a\nla ocupación ilegal de inmuebles.",
+        "officialTitle": "Proposición de Ley Orgánica de medidas urgentes para hacer frente a\nla ocupación ilegal de inmuebles.",
+        "type": "regular",
+        "nativeType": "ES-ley"
+      },
+      "dateStart": "2025-03-18T16:06:00+01:00",
+      "dateEnd": "2025-03-18T16:15:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_099/cortes/15_000400_099_0_25908_749814.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1549814I",
+        "duration": 540.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_099_0_25908_749814",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Cristina Agüera Gago",
+          "lastname": "Agüera Gago",
+          "firstname": "Cristina",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Popular en el Congreso"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 9
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 103
+      },
+      "agendaItem": {
+        "title": "Proposición de Ley sobre la reducción de la tasa máxima de alcohol en\nla conducción y la prohibición de la difusión de la ubicación de\ncontroles en redes sociales.",
+        "officialTitle": "Proposición de Ley sobre la reducción de la tasa máxima de alcohol en\nla conducción y la prohibición de la difusión de la ubicación de\ncontroles en redes sociales.",
+        "type": "regular",
+        "nativeType": "ES-ley"
+      },
+      "dateStart": "2025-03-18T16:15:00+01:00",
+      "dateEnd": "2025-03-18T16:25:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_099/cortes/15_000400_099_0_25908_749816.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1549816I",
+        "duration": 600.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_099_0_25908_749816",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Manuel Arribas Maroto",
+          "lastname": "Arribas Maroto",
+          "firstname": "Manuel",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Socialista"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 10
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 103
+      },
+      "agendaItem": {
+        "title": "Proposición de Ley sobre la reducción de la tasa máxima de alcohol en\nla conducción y la prohibición de la difusión de la ubicación de\ncontroles en redes sociales.",
+        "officialTitle": "Proposición de Ley sobre la reducción de la tasa máxima de alcohol en\nla conducción y la prohibición de la difusión de la ubicación de\ncontroles en redes sociales.",
+        "type": "regular",
+        "nativeType": "ES-ley"
+      },
+      "dateStart": "2025-03-18T16:25:00+01:00",
+      "dateEnd": "2025-03-18T16:31:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_099/cortes/15_000400_099_0_25908_749817.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1549817I",
+        "duration": 360.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_099_0_25908_749817",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Maribel Vaquero Montero",
+          "lastname": "Vaquero Montero",
+          "firstname": "Maribel",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Vasco (EAJ-PNV)"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 11
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 103
+      },
+      "agendaItem": {
+        "title": "Proposición de Ley sobre la reducción de la tasa máxima de alcohol en\nla conducción y la prohibición de la difusión de la ubicación de\ncontroles en redes sociales.",
+        "officialTitle": "Proposición de Ley sobre la reducción de la tasa máxima de alcohol en\nla conducción y la prohibición de la difusión de la ubicación de\ncontroles en redes sociales.",
+        "type": "regular",
+        "nativeType": "ES-ley"
+      },
+      "dateStart": "2025-03-18T16:31:00+01:00",
+      "dateEnd": "2025-03-18T16:38:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_099/cortes/15_000400_099_0_25908_749818.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1549818I",
+        "duration": 420.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_099_0_25908_749818",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Marta Madrenas i Mir",
+          "lastname": "Madrenas i Mir",
+          "firstname": "Marta",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Junts per Catalunya"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 12
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 103
+      },
+      "agendaItem": {
+        "title": "Proposición de Ley sobre la reducción de la tasa máxima de alcohol en\nla conducción y la prohibición de la difusión de la ubicación de\ncontroles en redes sociales.",
+        "officialTitle": "Proposición de Ley sobre la reducción de la tasa máxima de alcohol en\nla conducción y la prohibición de la difusión de la ubicación de\ncontroles en redes sociales.",
+        "type": "regular",
+        "nativeType": "ES-ley"
+      },
+      "dateStart": "2025-03-18T16:38:00+01:00",
+      "dateEnd": "2025-03-18T16:44:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_099/cortes/15_000400_099_0_25908_749819.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1549819I",
+        "duration": 360.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_099_0_25908_749819",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Inés Granollers Cunillera",
+          "lastname": "Granollers Cunillera",
+          "firstname": "Inés",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Republicano"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 13
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 103
+      },
+      "agendaItem": {
+        "title": "Proposición de Ley sobre la reducción de la tasa máxima de alcohol en\nla conducción y la prohibición de la difusión de la ubicación de\ncontroles en redes sociales.",
+        "officialTitle": "Proposición de Ley sobre la reducción de la tasa máxima de alcohol en\nla conducción y la prohibición de la difusión de la ubicación de\ncontroles en redes sociales.",
+        "type": "regular",
+        "nativeType": "ES-ley"
+      },
+      "dateStart": "2025-03-18T16:44:00+01:00",
+      "dateEnd": "2025-03-18T16:53:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_099/cortes/15_000400_099_0_25908_749820.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1549820I",
+        "duration": 540.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_099_0_25908_749820",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Fèlix Alonso Cantorné",
+          "lastname": "Alonso Cantorné",
+          "firstname": "Fèlix",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Plurinacional SUMAR"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 14
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 103
+      },
+      "agendaItem": {
+        "title": "Proposición de Ley sobre la reducción de la tasa máxima de alcohol en\nla conducción y la prohibición de la difusión de la ubicación de\ncontroles en redes sociales.",
+        "officialTitle": "Proposición de Ley sobre la reducción de la tasa máxima de alcohol en\nla conducción y la prohibición de la difusión de la ubicación de\ncontroles en redes sociales.",
+        "type": "regular",
+        "nativeType": "ES-ley"
+      },
+      "dateStart": "2025-03-18T16:53:00+01:00",
+      "dateEnd": "2025-03-18T17:00:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_099/cortes/15_000400_099_0_25908_749821.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1549821I",
+        "duration": 420.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_099_0_25908_749821",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Francisco José Alcaraz Martos",
+          "lastname": "Alcaraz Martos",
+          "firstname": "Francisco José",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario VOX"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 15
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 103
+      },
+      "agendaItem": {
+        "title": "Proposición de Ley sobre la reducción de la tasa máxima de alcohol en\nla conducción y la prohibición de la difusión de la ubicación de\ncontroles en redes sociales.",
+        "officialTitle": "Proposición de Ley sobre la reducción de la tasa máxima de alcohol en\nla conducción y la prohibición de la difusión de la ubicación de\ncontroles en redes sociales.",
+        "type": "regular",
+        "nativeType": "ES-ley"
+      },
+      "dateStart": "2025-03-18T17:00:00+01:00",
+      "dateEnd": "2025-03-18T17:08:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_099/cortes/15_000400_099_0_25908_749822.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1549822I",
+        "duration": 480.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_099_0_25908_749822",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Bella Verano Domínguez",
+          "lastname": "Verano Domínguez",
+          "firstname": "Bella",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Popular en el Congreso"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 16
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 103
+      },
+      "agendaItem": {
+        "title": "Proposición no de Ley para adaptar la Ley 49/60, de 21 de julio,\nsobre propiedad horizontal, a la Convención sobre los derechos de las\npersonas con discapacidad de la ONU.",
+        "officialTitle": "Proposición no de Ley para adaptar la Ley 49/60, de 21 de julio,\nsobre propiedad horizontal, a la Convención sobre los derechos de las\npersonas con discapacidad de la ONU.",
+        "type": "regular"
+      },
+      "dateStart": "2025-03-18T17:08:00+01:00",
+      "dateEnd": "2025-03-18T17:16:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_099/cortes/15_000400_099_0_25908_749826.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1549826I",
+        "duration": 480.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_099_0_25908_749826",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Emilio Sáez Cruz",
+          "lastname": "Sáez Cruz",
+          "firstname": "Emilio",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Socialista"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 17
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 103
+      },
+      "agendaItem": {
+        "title": "Proposición no de Ley para adaptar la Ley 49/60, de 21 de julio,\nsobre propiedad horizontal, a la Convención sobre los derechos de las\npersonas con discapacidad de la ONU.",
+        "officialTitle": "Proposición no de Ley para adaptar la Ley 49/60, de 21 de julio,\nsobre propiedad horizontal, a la Convención sobre los derechos de las\npersonas con discapacidad de la ONU.",
+        "type": "regular"
+      },
+      "dateStart": "2025-03-18T17:16:00+01:00",
+      "dateEnd": "2025-03-18T17:22:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_099/cortes/15_000400_099_0_25908_749827.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1549827I",
+        "duration": 360.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_099_0_25908_749827",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Noemí Santana Perera",
+          "lastname": "Santana Perera",
+          "firstname": "Noemí",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Mixto"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 18
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 103
+      },
+      "agendaItem": {
+        "title": "Proposición no de Ley para adaptar la Ley 49/60, de 21 de julio,\nsobre propiedad horizontal, a la Convención sobre los derechos de las\npersonas con discapacidad de la ONU.",
+        "officialTitle": "Proposición no de Ley para adaptar la Ley 49/60, de 21 de julio,\nsobre propiedad horizontal, a la Convención sobre los derechos de las\npersonas con discapacidad de la ONU.",
+        "type": "regular"
+      },
+      "dateStart": "2025-03-18T17:22:00+01:00",
+      "dateEnd": "2025-03-18T17:26:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_099/cortes/15_000400_099_0_25908_749828.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1549828I",
+        "duration": 240.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_099_0_25908_749828",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Maribel Vaquero Montero",
+          "lastname": "Vaquero Montero",
+          "firstname": "Maribel",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Vasco (EAJ-PNV)"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 19
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 103
+      },
+      "agendaItem": {
+        "title": "Proposición no de Ley para adaptar la Ley 49/60, de 21 de julio,\nsobre propiedad horizontal, a la Convención sobre los derechos de las\npersonas con discapacidad de la ONU.",
+        "officialTitle": "Proposición no de Ley para adaptar la Ley 49/60, de 21 de julio,\nsobre propiedad horizontal, a la Convención sobre los derechos de las\npersonas con discapacidad de la ONU.",
+        "type": "regular"
+      },
+      "dateStart": "2025-03-18T17:26:00+01:00",
+      "dateEnd": "2025-03-18T17:32:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_099/cortes/15_000400_099_0_25908_749829.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1549829I",
+        "duration": 360.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_099_0_25908_749829",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Etna Estrems Fayos",
+          "lastname": "Estrems Fayos",
+          "firstname": "Etna",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Republicano"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 20
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 103
+      },
+      "agendaItem": {
+        "title": "Proposición no de Ley para adaptar la Ley 49/60, de 21 de julio,\nsobre propiedad horizontal, a la Convención sobre los derechos de las\npersonas con discapacidad de la ONU.",
+        "officialTitle": "Proposición no de Ley para adaptar la Ley 49/60, de 21 de julio,\nsobre propiedad horizontal, a la Convención sobre los derechos de las\npersonas con discapacidad de la ONU.",
+        "type": "regular"
+      },
+      "dateStart": "2025-03-18T17:32:00+01:00",
+      "dateEnd": "2025-03-18T17:38:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_099/cortes/15_000400_099_0_25908_749830.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1549830I",
+        "duration": 360.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_099_0_25908_749830",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Vicenç Vidal Matas",
+          "lastname": "Vidal Matas",
+          "firstname": "Vicenç",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Plurinacional SUMAR"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 21
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 103
+      },
+      "agendaItem": {
+        "title": "Proposición no de Ley para adaptar la Ley 49/60, de 21 de julio,\nsobre propiedad horizontal, a la Convención sobre los derechos de las\npersonas con discapacidad de la ONU.",
+        "officialTitle": "Proposición no de Ley para adaptar la Ley 49/60, de 21 de julio,\nsobre propiedad horizontal, a la Convención sobre los derechos de las\npersonas con discapacidad de la ONU.",
+        "type": "regular"
+      },
+      "dateStart": "2025-03-18T17:38:00+01:00",
+      "dateEnd": "2025-03-18T17:44:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_099/cortes/15_000400_099_0_25908_749831.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1549831I",
+        "duration": 360.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_099_0_25908_749831",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "María de la Cabeza Ruiz Solás",
+          "lastname": "Ruiz Solás",
+          "firstname": "María de la Cabeza",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario VOX"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 22
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 103
+      },
+      "agendaItem": {
+        "title": "Proposición no de Ley para adaptar la Ley 49/60, de 21 de julio,\nsobre propiedad horizontal, a la Convención sobre los derechos de las\npersonas con discapacidad de la ONU.",
+        "officialTitle": "Proposición no de Ley para adaptar la Ley 49/60, de 21 de julio,\nsobre propiedad horizontal, a la Convención sobre los derechos de las\npersonas con discapacidad de la ONU.",
+        "type": "regular"
+      },
+      "dateStart": "2025-03-18T17:44:00+01:00",
+      "dateEnd": "2025-03-18T17:51:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_099/cortes/15_000400_099_0_25908_749832.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1549832I",
+        "duration": 420.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_099_0_25908_749832",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Violante Tomás Olivares",
+          "lastname": "Tomás Olivares",
+          "firstname": "Violante",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Popular en el Congreso"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 23
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 103
+      },
+      "agendaItem": {
+        "title": "Proposición no de Ley relativa a reafirmar el apoyo a Ucrania y\nfortalecer la relación transatlántica.",
+        "officialTitle": "Proposición no de Ley relativa a reafirmar el apoyo a Ucrania y\nfortalecer la relación transatlántica.",
+        "type": "regular"
+      },
+      "dateStart": "2025-03-18T17:51:00+01:00",
+      "dateEnd": "2025-03-18T18:00:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_099/cortes/15_000400_099_0_25908_749834.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1549834I",
+        "duration": 540.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_099_0_25908_749834",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Borja Sémper Pascual",
+          "lastname": "Sémper Pascual",
+          "firstname": "Borja",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Popular en el Congreso"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 24
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 103
+      },
+      "agendaItem": {
+        "title": "Proposición no de Ley relativa a reafirmar el apoyo a Ucrania y\nfortalecer la relación transatlántica.",
+        "officialTitle": "Proposición no de Ley relativa a reafirmar el apoyo a Ucrania y\nfortalecer la relación transatlántica.",
+        "type": "regular"
+      },
+      "dateStart": "2025-03-18T18:00:00+01:00",
+      "dateEnd": "2025-03-18T18:07:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_099/cortes/15_000400_099_0_25908_749835.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1549835I",
+        "duration": 420.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_099_0_25908_749835",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Isidre Gavin i Valls",
+          "lastname": "Gavin i Valls",
+          "firstname": "Isidre",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Junts per Catalunya"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 25
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 103
+      },
+      "agendaItem": {
+        "title": "Proposición no de Ley relativa a reafirmar el apoyo a Ucrania y\nfortalecer la relación transatlántica.",
+        "officialTitle": "Proposición no de Ley relativa a reafirmar el apoyo a Ucrania y\nfortalecer la relación transatlántica.",
+        "type": "regular"
+      },
+      "dateStart": "2025-03-18T18:07:00+01:00",
+      "dateEnd": "2025-03-18T18:14:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_099/cortes/15_000400_099_0_25908_749836.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1549836I",
+        "duration": 420.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_099_0_25908_749836",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Alberto Asarta Cuevas",
+          "lastname": "Asarta Cuevas",
+          "firstname": "Alberto",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario VOX"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 26
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 103
+      },
+      "agendaItem": {
+        "title": "Proposición no de Ley relativa a reafirmar el apoyo a Ucrania y\nfortalecer la relación transatlántica.",
+        "officialTitle": "Proposición no de Ley relativa a reafirmar el apoyo a Ucrania y\nfortalecer la relación transatlántica.",
+        "type": "regular"
+      },
+      "dateStart": "2025-03-18T18:15:00+01:00",
+      "dateEnd": "2025-03-18T18:17:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_099/cortes/15_000400_099_1_25910_749842.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1549842I",
+        "duration": 120.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_099_1_25910_749842",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Alberto Catalán Higueras",
+          "lastname": "Catalán Higueras",
+          "firstname": "Alberto",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Mixto"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 27
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 103
+      },
+      "agendaItem": {
+        "title": "Proposición no de Ley relativa a reafirmar el apoyo a Ucrania y\nfortalecer la relación transatlántica.",
+        "officialTitle": "Proposición no de Ley relativa a reafirmar el apoyo a Ucrania y\nfortalecer la relación transatlántica.",
+        "type": "regular"
+      },
+      "dateStart": "2025-03-18T18:17:00+01:00",
+      "dateEnd": "2025-03-18T18:20:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_099/cortes/15_000400_099_1_25910_749843.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1549843I",
+        "duration": 180.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_099_1_25910_749843",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Néstor Rego Candamil",
+          "lastname": "Rego Candamil",
+          "firstname": "Néstor",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Mixto"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 28
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 103
+      },
+      "agendaItem": {
+        "title": "Proposición no de Ley relativa a reafirmar el apoyo a Ucrania y\nfortalecer la relación transatlántica.",
+        "officialTitle": "Proposición no de Ley relativa a reafirmar el apoyo a Ucrania y\nfortalecer la relación transatlántica.",
+        "type": "regular"
+      },
+      "dateStart": "2025-03-18T18:20:00+01:00",
+      "dateEnd": "2025-03-18T18:22:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_099/cortes/15_000400_099_1_25910_749844.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1549844I",
+        "duration": 120.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_099_1_25910_749844",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Javier Sánchez Serna",
+          "lastname": "Sánchez Serna",
+          "firstname": "Javier",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Mixto"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 29
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 103
+      },
+      "agendaItem": {
+        "title": "Proposición no de Ley relativa a reafirmar el apoyo a Ucrania y\nfortalecer la relación transatlántica.",
+        "officialTitle": "Proposición no de Ley relativa a reafirmar el apoyo a Ucrania y\nfortalecer la relación transatlántica.",
+        "type": "regular"
+      },
+      "dateStart": "2025-03-18T18:22:00+01:00",
+      "dateEnd": "2025-03-18T18:29:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_099/cortes/15_000400_099_1_25910_749845.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1549845I",
+        "duration": 420.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_099_1_25910_749845",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Jon Iñarritu García",
+          "lastname": "Iñarritu García",
+          "firstname": "Jon",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Euskal Herria Bildu"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 30
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 103
+      },
+      "agendaItem": {
+        "title": "Proposición no de Ley relativa a reafirmar el apoyo a Ucrania y\nfortalecer la relación transatlántica.",
+        "officialTitle": "Proposición no de Ley relativa a reafirmar el apoyo a Ucrania y\nfortalecer la relación transatlántica.",
+        "type": "regular"
+      },
+      "dateStart": "2025-03-18T18:29:00+01:00",
+      "dateEnd": "2025-03-18T18:36:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_099/cortes/15_000400_099_1_25910_749846.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1549846I",
+        "duration": 420.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_099_1_25910_749846",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Francesc-Marc Álvaro Vidal",
+          "lastname": "Álvaro Vidal",
+          "firstname": "Francesc-Marc",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Republicano"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 31
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 103
+      },
+      "agendaItem": {
+        "title": "Proposición no de Ley relativa a reafirmar el apoyo a Ucrania y\nfortalecer la relación transatlántica.",
+        "officialTitle": "Proposición no de Ley relativa a reafirmar el apoyo a Ucrania y\nfortalecer la relación transatlántica.",
+        "type": "regular"
+      },
+      "dateStart": "2025-03-18T18:36:00+01:00",
+      "dateEnd": "2025-03-18T18:41:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_099/cortes/15_000400_099_1_25910_749847.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1549847I",
+        "duration": 300.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_099_1_25910_749847",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Agustín Santos Maraver",
+          "lastname": "Santos Maraver",
+          "firstname": "Agustín",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Plurinacional SUMAR"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 32
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 103
+      },
+      "agendaItem": {
+        "title": "Proposición no de Ley relativa a reafirmar el apoyo a Ucrania y\nfortalecer la relación transatlántica.",
+        "officialTitle": "Proposición no de Ley relativa a reafirmar el apoyo a Ucrania y\nfortalecer la relación transatlántica.",
+        "type": "regular"
+      },
+      "dateStart": "2025-03-18T18:41:00+01:00",
+      "dateEnd": "2025-03-18T18:48:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_099/cortes/15_000400_099_1_25910_749848.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1549848I",
+        "duration": 420.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_099_1_25910_749848",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Obdulia Taboadela Álvarez",
+          "lastname": "Taboadela Álvarez",
+          "firstname": "Obdulia",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Socialista"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 33
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 103
+      },
+      "agendaItem": {
+        "title": "Proposición no de Ley relativa a reafirmar el apoyo a Ucrania y\nfortalecer la relación transatlántica.",
+        "officialTitle": "Proposición no de Ley relativa a reafirmar el apoyo a Ucrania y\nfortalecer la relación transatlántica.",
+        "type": "regular"
+      },
+      "dateStart": "2025-03-18T18:48:00+01:00",
+      "dateEnd": "2025-03-18T18:48:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_099/cortes/15_000400_099_1_25910_749849.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1549849I",
+        "duration": 0.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_099_1_25910_749849",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Borja Sémper Pascual",
+          "lastname": "Sémper Pascual",
+          "firstname": "Borja",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Popular en el Congreso"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 34
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 103
+      },
+      "agendaItem": {
+        "title": "Moción consecuencia de interpelación urgente relativa a la posición\ndel Gobierno español ante los anuncios intervencionistas, belicistas,\nanexionistas y de apoyo a la limpieza étnica de los Estados Unidos de\nAmérica.",
+        "officialTitle": "Moción consecuencia de interpelación urgente relativa a la posición\ndel Gobierno español ante los anuncios intervencionistas, belicistas,\nanexionistas y de apoyo a la limpieza étnica de los Estados Unidos de\nAmérica.",
+        "type": "regular",
+        "nativeType": "ES-mocion"
+      },
+      "dateStart": "2025-03-18T18:49:00+01:00",
+      "dateEnd": "2025-03-18T18:57:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_099/cortes/15_000400_099_1_25910_749852.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1549852I",
+        "duration": 480.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_099_1_25910_749852",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Néstor Rego Candamil",
+          "lastname": "Rego Candamil",
+          "firstname": "Néstor",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Mixto"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 35
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 103
+      },
+      "agendaItem": {
+        "title": "Moción consecuencia de interpelación urgente relativa a la posición\ndel Gobierno español ante los anuncios intervencionistas, belicistas,\nanexionistas y de apoyo a la limpieza étnica de los Estados Unidos de\nAmérica.",
+        "officialTitle": "Moción consecuencia de interpelación urgente relativa a la posición\ndel Gobierno español ante los anuncios intervencionistas, belicistas,\nanexionistas y de apoyo a la limpieza étnica de los Estados Unidos de\nAmérica.",
+        "type": "regular",
+        "nativeType": "ES-mocion"
+      },
+      "dateStart": "2025-03-18T18:57:00+01:00",
+      "dateEnd": "2025-03-18T19:03:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_099/cortes/15_000400_099_1_25910_749853.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1549853I",
+        "duration": 360.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_099_1_25910_749853",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Verónica Martínez Barbero",
+          "lastname": "Martínez Barbero",
+          "firstname": "Verónica",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Plurinacional SUMAR"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 36
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 103
+      },
+      "agendaItem": {
+        "title": "Moción consecuencia de interpelación urgente relativa a la posición\ndel Gobierno español ante los anuncios intervencionistas, belicistas,\nanexionistas y de apoyo a la limpieza étnica de los Estados Unidos de\nAmérica.",
+        "officialTitle": "Moción consecuencia de interpelación urgente relativa a la posición\ndel Gobierno español ante los anuncios intervencionistas, belicistas,\nanexionistas y de apoyo a la limpieza étnica de los Estados Unidos de\nAmérica.",
+        "type": "regular",
+        "nativeType": "ES-mocion"
+      },
+      "dateStart": "2025-03-18T19:03:00+01:00",
+      "dateEnd": "2025-03-18T19:09:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_099/cortes/15_000400_099_1_25910_749854.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1549854I",
+        "duration": 360.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_099_1_25910_749854",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "José María Sánchez García",
+          "lastname": "Sánchez García",
+          "firstname": "José María",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario VOX"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 37
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 103
+      },
+      "agendaItem": {
+        "title": "Moción consecuencia de interpelación urgente relativa a la posición\ndel Gobierno español ante los anuncios intervencionistas, belicistas,\nanexionistas y de apoyo a la limpieza étnica de los Estados Unidos de\nAmérica.",
+        "officialTitle": "Moción consecuencia de interpelación urgente relativa a la posición\ndel Gobierno español ante los anuncios intervencionistas, belicistas,\nanexionistas y de apoyo a la limpieza étnica de los Estados Unidos de\nAmérica.",
+        "type": "regular",
+        "nativeType": "ES-mocion"
+      },
+      "dateStart": "2025-03-18T19:09:00+01:00",
+      "dateEnd": "2025-03-18T19:15:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_099/cortes/15_000400_099_1_25910_749855.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1549855I",
+        "duration": 360.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_099_1_25910_749855",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Esther Peña Camarero",
+          "lastname": "Peña Camarero",
+          "firstname": "Esther",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Socialista"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 38
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 103
+      },
+      "agendaItem": {
+        "title": "Moción consecuencia de interpelación urgente relativa a la posición\ndel Gobierno español ante los anuncios intervencionistas, belicistas,\nanexionistas y de apoyo a la limpieza étnica de los Estados Unidos de\nAmérica.",
+        "officialTitle": "Moción consecuencia de interpelación urgente relativa a la posición\ndel Gobierno español ante los anuncios intervencionistas, belicistas,\nanexionistas y de apoyo a la limpieza étnica de los Estados Unidos de\nAmérica.",
+        "type": "regular",
+        "nativeType": "ES-mocion"
+      },
+      "dateStart": "2025-03-18T19:15:00+01:00",
+      "dateEnd": "2025-03-18T19:22:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_099/cortes/15_000400_099_1_25910_749856.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1549856I",
+        "duration": 420.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_099_1_25910_749856",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Marta González Vázquez",
+          "lastname": "González Vázquez",
+          "firstname": "Marta",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Popular en el Congreso"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 39
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 103
+      },
+      "agendaItem": {
+        "title": "Moción consecuencia de interpelación urgente relativa a la posición\ndel Gobierno español ante los anuncios intervencionistas, belicistas,\nanexionistas y de apoyo a la limpieza étnica de los Estados Unidos de\nAmérica.",
+        "officialTitle": "Moción consecuencia de interpelación urgente relativa a la posición\ndel Gobierno español ante los anuncios intervencionistas, belicistas,\nanexionistas y de apoyo a la limpieza étnica de los Estados Unidos de\nAmérica.",
+        "type": "regular",
+        "nativeType": "ES-mocion"
+      },
+      "dateStart": "2025-03-18T19:22:00+01:00",
+      "dateEnd": "2025-03-18T19:23:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_099/cortes/15_000400_099_1_25910_749857.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1549857I",
+        "duration": 60.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_099_1_25910_749857",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Néstor Rego Candamil",
+          "lastname": "Rego Candamil",
+          "firstname": "Néstor",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Mixto"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 40
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 103
+      },
+      "agendaItem": {
+        "title": "Moción consecuencia de interpelación urgente sobre las medidas que\nadoptará el Gobierno para la restauración de las zonas arrasadas por la\ngota fría en Valencia.",
+        "officialTitle": "Moción consecuencia de interpelación urgente sobre las medidas que\nadoptará el Gobierno para la restauración de las zonas arrasadas por la\ngota fría en Valencia.",
+        "type": "regular",
+        "nativeType": "ES-mocion"
+      },
+      "dateStart": "2025-03-18T19:29:00+01:00",
+      "dateEnd": "2025-03-18T19:38:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_099/cortes/15_000400_099_1_25910_749860.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1549860I",
+        "duration": 540.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_099_1_25910_749860",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Ignacio Gil Lázaro",
+          "lastname": "Gil Lázaro",
+          "firstname": "Ignacio",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario VOX"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 41
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 103
+      },
+      "agendaItem": {
+        "title": "Moción consecuencia de interpelación urgente sobre las medidas que\nadoptará el Gobierno para la restauración de las zonas arrasadas por la\ngota fría en Valencia.",
+        "officialTitle": "Moción consecuencia de interpelación urgente sobre las medidas que\nadoptará el Gobierno para la restauración de las zonas arrasadas por la\ngota fría en Valencia.",
+        "type": "regular",
+        "nativeType": "ES-mocion"
+      },
+      "dateStart": "2025-03-18T19:38:00+01:00",
+      "dateEnd": "2025-03-18T19:43:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_099/cortes/15_000400_099_1_25910_749861.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1549861I",
+        "duration": 300.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_099_1_25910_749861",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Teresa Jordà i Roura",
+          "lastname": "Jordà i Roura",
+          "firstname": "Teresa",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Republicano"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 42
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 103
+      },
+      "agendaItem": {
+        "title": "Moción consecuencia de interpelación urgente sobre las medidas que\nadoptará el Gobierno para la restauración de las zonas arrasadas por la\ngota fría en Valencia.",
+        "officialTitle": "Moción consecuencia de interpelación urgente sobre las medidas que\nadoptará el Gobierno para la restauración de las zonas arrasadas por la\ngota fría en Valencia.",
+        "type": "regular",
+        "nativeType": "ES-mocion"
+      },
+      "dateStart": "2025-03-18T19:43:00+01:00",
+      "dateEnd": "2025-03-18T19:48:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_099/cortes/15_000400_099_1_25910_749862.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1549862I",
+        "duration": 300.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_099_1_25910_749862",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Nahuel González López",
+          "lastname": "González López",
+          "firstname": "Nahuel",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Plurinacional SUMAR"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 43
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 103
+      },
+      "agendaItem": {
+        "title": "Moción consecuencia de interpelación urgente sobre las medidas que\nadoptará el Gobierno para la restauración de las zonas arrasadas por la\ngota fría en Valencia.",
+        "officialTitle": "Moción consecuencia de interpelación urgente sobre las medidas que\nadoptará el Gobierno para la restauración de las zonas arrasadas por la\ngota fría en Valencia.",
+        "type": "regular",
+        "nativeType": "ES-mocion"
+      },
+      "dateStart": "2025-03-18T19:48:00+01:00",
+      "dateEnd": "2025-03-18T19:54:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_099/cortes/15_000400_099_1_25910_749863.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1549863I",
+        "duration": 360.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_099_1_25910_749863",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Víctor Camino Miñana",
+          "lastname": "Camino Miñana",
+          "firstname": "Víctor",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Socialista"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 44
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 103
+      },
+      "agendaItem": {
+        "title": "Moción consecuencia de interpelación urgente sobre las medidas que\nadoptará el Gobierno para la restauración de las zonas arrasadas por la\ngota fría en Valencia.",
+        "officialTitle": "Moción consecuencia de interpelación urgente sobre las medidas que\nadoptará el Gobierno para la restauración de las zonas arrasadas por la\ngota fría en Valencia.",
+        "type": "regular",
+        "nativeType": "ES-mocion"
+      },
+      "dateStart": "2025-03-18T19:54:00+01:00",
+      "dateEnd": "2025-03-18T20:02:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_099/cortes/15_000400_099_1_25910_749864.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1549864I",
+        "duration": 480.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_099_1_25910_749864",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "César Sánchez Pérez",
+          "lastname": "Sánchez Pérez",
+          "firstname": "César",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Popular en el Congreso"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 45
+    }
+  ]
+}

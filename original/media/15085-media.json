@@ -1,0 +1,1722 @@
+{
+  "meta": {
+    "session": "15085",
+    "processing": {
+      "parse_media": "2026-05-23T07:17:41"
+    },
+    "dateStart": "2024-11-28T09:08:00+01:00",
+    "dateEnd": "2024-11-28T13:41:00+01:00"
+  },
+  "data": [
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 85
+      },
+      "agendaItem": {
+        "title": "Proposición de Ley Orgánica por la que se modifica la Ley Orgánica\n1/2002, de 22 de marzo, reguladora del derecho de asociación.",
+        "officialTitle": "Proposición de Ley Orgánica por la que se modifica la Ley Orgánica\n1/2002, de 22 de marzo, reguladora del derecho de asociación.",
+        "type": "regular",
+        "nativeType": "ES-ley"
+      },
+      "dateStart": "2024-11-28T09:08:00+01:00",
+      "dateEnd": "2024-11-28T09:21:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_082/cortes/15_000400_082_0_25516_743197.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1543197I",
+        "duration": 780.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_082_0_25516_743197",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Juan José Aizcorbe Torra",
+          "lastname": "Aizcorbe Torra",
+          "firstname": "Juan José",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario VOX"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 1
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 85
+      },
+      "agendaItem": {
+        "title": "Proposición de Ley Orgánica por la que se modifica la Ley Orgánica\n1/2002, de 22 de marzo, reguladora del derecho de asociación.",
+        "officialTitle": "Proposición de Ley Orgánica por la que se modifica la Ley Orgánica\n1/2002, de 22 de marzo, reguladora del derecho de asociación.",
+        "type": "regular",
+        "nativeType": "ES-ley"
+      },
+      "dateStart": "2024-11-28T09:21:00+01:00",
+      "dateEnd": "2024-11-28T09:27:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_082/cortes/15_000400_082_0_25516_743198.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1543198I",
+        "duration": 360.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_082_0_25516_743198",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Néstor Rego Candamil",
+          "lastname": "Rego Candamil",
+          "firstname": "Néstor",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Mixto"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 2
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 85
+      },
+      "agendaItem": {
+        "title": "Proposición de Ley Orgánica por la que se modifica la Ley Orgánica\n1/2002, de 22 de marzo, reguladora del derecho de asociación.",
+        "officialTitle": "Proposición de Ley Orgánica por la que se modifica la Ley Orgánica\n1/2002, de 22 de marzo, reguladora del derecho de asociación.",
+        "type": "regular",
+        "nativeType": "ES-ley"
+      },
+      "dateStart": "2024-11-28T09:27:00+01:00",
+      "dateEnd": "2024-11-28T09:33:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_082/cortes/15_000400_082_0_25516_743199.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1543199I",
+        "duration": 360.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_082_0_25516_743199",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Martina Velarde Gómez",
+          "lastname": "Velarde Gómez",
+          "firstname": "Martina",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Mixto"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 3
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 85
+      },
+      "agendaItem": {
+        "title": "Proposición de Ley Orgánica por la que se modifica la Ley Orgánica\n1/2002, de 22 de marzo, reguladora del derecho de asociación.",
+        "officialTitle": "Proposición de Ley Orgánica por la que se modifica la Ley Orgánica\n1/2002, de 22 de marzo, reguladora del derecho de asociación.",
+        "type": "regular",
+        "nativeType": "ES-ley"
+      },
+      "dateStart": "2024-11-28T09:33:00+01:00",
+      "dateEnd": "2024-11-28T09:35:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_082/cortes/15_000400_082_0_25516_743200.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1543200I",
+        "duration": 120.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_082_0_25516_743200",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Mikel Legarda Uriarte",
+          "lastname": "Legarda Uriarte",
+          "firstname": "Mikel",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Vasco (EAJ-PNV)"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 4
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 85
+      },
+      "agendaItem": {
+        "title": "Proposición de Ley Orgánica por la que se modifica la Ley Orgánica\n1/2002, de 22 de marzo, reguladora del derecho de asociación.",
+        "officialTitle": "Proposición de Ley Orgánica por la que se modifica la Ley Orgánica\n1/2002, de 22 de marzo, reguladora del derecho de asociación.",
+        "type": "regular",
+        "nativeType": "ES-ley"
+      },
+      "dateStart": "2024-11-28T09:35:00+01:00",
+      "dateEnd": "2024-11-28T09:38:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_082/cortes/15_000400_082_0_25516_743201.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1543201I",
+        "duration": 180.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_082_0_25516_743201",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Gabriel Rufián Romero",
+          "lastname": "Rufián Romero",
+          "firstname": "Gabriel",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Republicano"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 5
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 85
+      },
+      "agendaItem": {
+        "title": "Proposición de Ley Orgánica por la que se modifica la Ley Orgánica\n1/2002, de 22 de marzo, reguladora del derecho de asociación.",
+        "officialTitle": "Proposición de Ley Orgánica por la que se modifica la Ley Orgánica\n1/2002, de 22 de marzo, reguladora del derecho de asociación.",
+        "type": "regular",
+        "nativeType": "ES-ley"
+      },
+      "dateStart": "2024-11-28T09:38:00+01:00",
+      "dateEnd": "2024-11-28T09:46:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_082/cortes/15_000400_082_0_25516_743202.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1543202I",
+        "duration": 480.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_082_0_25516_743202",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Gerardo Pisarello Prados",
+          "lastname": "Pisarello Prados",
+          "firstname": "Gerardo",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Plurinacional SUMAR"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 6
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 85
+      },
+      "agendaItem": {
+        "title": "Proposición de Ley Orgánica por la que se modifica la Ley Orgánica\n1/2002, de 22 de marzo, reguladora del derecho de asociación.",
+        "officialTitle": "Proposición de Ley Orgánica por la que se modifica la Ley Orgánica\n1/2002, de 22 de marzo, reguladora del derecho de asociación.",
+        "type": "regular",
+        "nativeType": "ES-ley"
+      },
+      "dateStart": "2024-11-28T09:46:00+01:00",
+      "dateEnd": "2024-11-28T09:56:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_082/cortes/15_000400_082_0_25516_743203.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1543203I",
+        "duration": 600.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_082_0_25516_743203",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Rafaela Romero Pozo",
+          "lastname": "Romero Pozo",
+          "firstname": "Rafaela",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Socialista"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 7
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 85
+      },
+      "agendaItem": {
+        "title": "Proposición de Ley Orgánica por la que se modifica la Ley Orgánica\n1/2002, de 22 de marzo, reguladora del derecho de asociación.",
+        "officialTitle": "Proposición de Ley Orgánica por la que se modifica la Ley Orgánica\n1/2002, de 22 de marzo, reguladora del derecho de asociación.",
+        "type": "regular",
+        "nativeType": "ES-ley"
+      },
+      "dateStart": "2024-11-28T09:56:00+01:00",
+      "dateEnd": "2024-11-28T10:05:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_082/cortes/15_000400_082_0_25516_743206.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1543206I",
+        "duration": 540.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_082_0_25516_743206",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "María Jesús Moro Almaraz",
+          "lastname": "Moro Almaraz",
+          "firstname": "María Jesús",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Popular en el Congreso"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 8
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 85
+      },
+      "agendaItem": {
+        "title": "Solicitud de comparecencia, a petición propia, del Ministro de\nAsuntos Exteriores, Unión Europea y Cooperación ante el Pleno de la\nCámara, para informar de las iniciativas de España para la paz en Oriente\nMedio.",
+        "officialTitle": "Solicitud de comparecencia, a petición propia, del Ministro de\nAsuntos Exteriores, Unión Europea y Cooperación ante el Pleno de la\nCámara, para informar de las iniciativas de España para la paz en Oriente\nMedio.",
+        "type": "briefing",
+        "nativeType": "ES-comparecencia"
+      },
+      "dateStart": "2024-11-28T10:07:00+01:00",
+      "dateEnd": "2024-11-28T10:38:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_082/cortes/15_000400_082_0_25516_743214.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1543214I",
+        "duration": 1860.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_082_0_25516_743214",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "José Manuel Albares Bueno",
+          "lastname": "Albares Bueno",
+          "firstname": "José Manuel",
+          "type": "member of government",
+          "role": "Ministro de Asuntos Exteriores, Unión Europea y Cooperación"
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 9
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 85
+      },
+      "agendaItem": {
+        "title": "Solicitud de comparecencia del Ministro de Asuntos Exteriores, Unión\nEuropea y Cooperación ante el Pleno de la Cámara, para informar sobre la\nposición del Gobierno ante la grave situación en Oriente Próximo por la\nextensión de los ataques de Israel en la zona con los bombardeos en\nLíbano, incluido el ataque al cuartel general de las fuerzas de paz de la\nONU, además de la continuidad de la destrucción de Gaza y Cisjordania y\nel peligro de escalada del conflicto en toda el área.",
+        "officialTitle": "Solicitud de comparecencia del Ministro de Asuntos Exteriores, Unión\nEuropea y Cooperación ante el Pleno de la Cámara, para informar sobre la\nposición del Gobierno ante la grave situación en Oriente Próximo por la\nextensión de los ataques de Israel en la zona con los bombardeos en\nLíbano, incluido el ataque al cuartel general de las fuerzas de paz de la\nONU, además de la continuidad de la destrucción de Gaza y Cisjordania y\nel peligro de escalada del conflicto en toda el área.",
+        "type": "briefing",
+        "nativeType": "ES-comparecencia"
+      },
+      "dateStart": "2024-11-28T10:07:00+01:00",
+      "dateEnd": "2024-11-28T10:38:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_082/cortes/15_000400_082_0_25516_743214.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1543214I",
+        "duration": 1860.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_082_0_25516_743214",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "José Manuel Albares Bueno",
+          "lastname": "Albares Bueno",
+          "firstname": "José Manuel",
+          "type": "member of government",
+          "role": "Ministro de Asuntos Exteriores, Unión Europea y Cooperación"
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 10
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 85
+      },
+      "agendaItem": {
+        "title": "Solicitud de comparecencia, a petición propia, del Ministro de\nAsuntos Exteriores, Unión Europea y Cooperación ante el Pleno de la\nCámara, para informar de las iniciativas de España para la paz en Oriente\nMedio.",
+        "officialTitle": "Solicitud de comparecencia, a petición propia, del Ministro de\nAsuntos Exteriores, Unión Europea y Cooperación ante el Pleno de la\nCámara, para informar de las iniciativas de España para la paz en Oriente\nMedio.",
+        "type": "briefing",
+        "nativeType": "ES-comparecencia"
+      },
+      "dateStart": "2024-11-28T10:38:00+01:00",
+      "dateEnd": "2024-11-28T10:49:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_082/cortes/15_000400_082_0_25516_743216.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1543216I",
+        "duration": 660.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_082_0_25516_743216",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Carlos Javier Floriano Corrales",
+          "lastname": "Floriano Corrales",
+          "firstname": "Carlos Javier",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Popular en el Congreso"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 11
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 85
+      },
+      "agendaItem": {
+        "title": "Solicitud de comparecencia del Ministro de Asuntos Exteriores, Unión\nEuropea y Cooperación ante el Pleno de la Cámara, para informar sobre la\nposición del Gobierno ante la grave situación en Oriente Próximo por la\nextensión de los ataques de Israel en la zona con los bombardeos en\nLíbano, incluido el ataque al cuartel general de las fuerzas de paz de la\nONU, además de la continuidad de la destrucción de Gaza y Cisjordania y\nel peligro de escalada del conflicto en toda el área.",
+        "officialTitle": "Solicitud de comparecencia del Ministro de Asuntos Exteriores, Unión\nEuropea y Cooperación ante el Pleno de la Cámara, para informar sobre la\nposición del Gobierno ante la grave situación en Oriente Próximo por la\nextensión de los ataques de Israel en la zona con los bombardeos en\nLíbano, incluido el ataque al cuartel general de las fuerzas de paz de la\nONU, además de la continuidad de la destrucción de Gaza y Cisjordania y\nel peligro de escalada del conflicto en toda el área.",
+        "type": "briefing",
+        "nativeType": "ES-comparecencia"
+      },
+      "dateStart": "2024-11-28T10:38:00+01:00",
+      "dateEnd": "2024-11-28T10:49:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_082/cortes/15_000400_082_0_25516_743216.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1543216I",
+        "duration": 660.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_082_0_25516_743216",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Carlos Javier Floriano Corrales",
+          "lastname": "Floriano Corrales",
+          "firstname": "Carlos Javier",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Popular en el Congreso"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 12
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 85
+      },
+      "agendaItem": {
+        "title": "Solicitud de comparecencia, a petición propia, del Ministro de\nAsuntos Exteriores, Unión Europea y Cooperación ante el Pleno de la\nCámara, para informar de las iniciativas de España para la paz en Oriente\nMedio.",
+        "officialTitle": "Solicitud de comparecencia, a petición propia, del Ministro de\nAsuntos Exteriores, Unión Europea y Cooperación ante el Pleno de la\nCámara, para informar de las iniciativas de España para la paz en Oriente\nMedio.",
+        "type": "briefing",
+        "nativeType": "ES-comparecencia"
+      },
+      "dateStart": "2024-11-28T10:49:00+01:00",
+      "dateEnd": "2024-11-28T11:01:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_082/cortes/15_000400_082_0_25516_743217.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1543217I",
+        "duration": 720.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_082_0_25516_743217",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Carlos Flores Juberías",
+          "lastname": "Flores Juberías",
+          "firstname": "Carlos",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario VOX"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 13
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 85
+      },
+      "agendaItem": {
+        "title": "Solicitud de comparecencia del Ministro de Asuntos Exteriores, Unión\nEuropea y Cooperación ante el Pleno de la Cámara, para informar sobre la\nposición del Gobierno ante la grave situación en Oriente Próximo por la\nextensión de los ataques de Israel en la zona con los bombardeos en\nLíbano, incluido el ataque al cuartel general de las fuerzas de paz de la\nONU, además de la continuidad de la destrucción de Gaza y Cisjordania y\nel peligro de escalada del conflicto en toda el área.",
+        "officialTitle": "Solicitud de comparecencia del Ministro de Asuntos Exteriores, Unión\nEuropea y Cooperación ante el Pleno de la Cámara, para informar sobre la\nposición del Gobierno ante la grave situación en Oriente Próximo por la\nextensión de los ataques de Israel en la zona con los bombardeos en\nLíbano, incluido el ataque al cuartel general de las fuerzas de paz de la\nONU, además de la continuidad de la destrucción de Gaza y Cisjordania y\nel peligro de escalada del conflicto en toda el área.",
+        "type": "briefing",
+        "nativeType": "ES-comparecencia"
+      },
+      "dateStart": "2024-11-28T10:49:00+01:00",
+      "dateEnd": "2024-11-28T11:01:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_082/cortes/15_000400_082_0_25516_743217.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1543217I",
+        "duration": 720.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_082_0_25516_743217",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Carlos Flores Juberías",
+          "lastname": "Flores Juberías",
+          "firstname": "Carlos",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario VOX"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 14
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 85
+      },
+      "agendaItem": {
+        "title": "Solicitud de comparecencia, a petición propia, del Ministro de\nAsuntos Exteriores, Unión Europea y Cooperación ante el Pleno de la\nCámara, para informar de las iniciativas de España para la paz en Oriente\nMedio.",
+        "officialTitle": "Solicitud de comparecencia, a petición propia, del Ministro de\nAsuntos Exteriores, Unión Europea y Cooperación ante el Pleno de la\nCámara, para informar de las iniciativas de España para la paz en Oriente\nMedio.",
+        "type": "briefing",
+        "nativeType": "ES-comparecencia"
+      },
+      "dateStart": "2024-11-28T11:01:00+01:00",
+      "dateEnd": "2024-11-28T11:11:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_082/cortes/15_000400_082_0_25516_743218.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1543218I",
+        "duration": 600.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_082_0_25516_743218",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Agustín Santos Maraver",
+          "lastname": "Santos Maraver",
+          "firstname": "Agustín",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Plurinacional SUMAR"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 15
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 85
+      },
+      "agendaItem": {
+        "title": "Solicitud de comparecencia del Ministro de Asuntos Exteriores, Unión\nEuropea y Cooperación ante el Pleno de la Cámara, para informar sobre la\nposición del Gobierno ante la grave situación en Oriente Próximo por la\nextensión de los ataques de Israel en la zona con los bombardeos en\nLíbano, incluido el ataque al cuartel general de las fuerzas de paz de la\nONU, además de la continuidad de la destrucción de Gaza y Cisjordania y\nel peligro de escalada del conflicto en toda el área.",
+        "officialTitle": "Solicitud de comparecencia del Ministro de Asuntos Exteriores, Unión\nEuropea y Cooperación ante el Pleno de la Cámara, para informar sobre la\nposición del Gobierno ante la grave situación en Oriente Próximo por la\nextensión de los ataques de Israel en la zona con los bombardeos en\nLíbano, incluido el ataque al cuartel general de las fuerzas de paz de la\nONU, además de la continuidad de la destrucción de Gaza y Cisjordania y\nel peligro de escalada del conflicto en toda el área.",
+        "type": "briefing",
+        "nativeType": "ES-comparecencia"
+      },
+      "dateStart": "2024-11-28T11:01:00+01:00",
+      "dateEnd": "2024-11-28T11:11:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_082/cortes/15_000400_082_0_25516_743218.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1543218I",
+        "duration": 600.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_082_0_25516_743218",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Agustín Santos Maraver",
+          "lastname": "Santos Maraver",
+          "firstname": "Agustín",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Plurinacional SUMAR"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 16
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 85
+      },
+      "agendaItem": {
+        "title": "Solicitud de comparecencia, a petición propia, del Ministro de\nAsuntos Exteriores, Unión Europea y Cooperación ante el Pleno de la\nCámara, para informar de las iniciativas de España para la paz en Oriente\nMedio.",
+        "officialTitle": "Solicitud de comparecencia, a petición propia, del Ministro de\nAsuntos Exteriores, Unión Europea y Cooperación ante el Pleno de la\nCámara, para informar de las iniciativas de España para la paz en Oriente\nMedio.",
+        "type": "briefing",
+        "nativeType": "ES-comparecencia"
+      },
+      "dateStart": "2024-11-28T11:11:00+01:00",
+      "dateEnd": "2024-11-28T11:26:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_082/cortes/15_000400_082_0_25516_743219.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1543219I",
+        "duration": 900.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_082_0_25516_743219",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Jordi Salvador i Duch",
+          "lastname": "Salvador i Duch",
+          "firstname": "Jordi",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Republicano"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 17
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 85
+      },
+      "agendaItem": {
+        "title": "Solicitud de comparecencia del Ministro de Asuntos Exteriores, Unión\nEuropea y Cooperación ante el Pleno de la Cámara, para informar sobre la\nposición del Gobierno ante la grave situación en Oriente Próximo por la\nextensión de los ataques de Israel en la zona con los bombardeos en\nLíbano, incluido el ataque al cuartel general de las fuerzas de paz de la\nONU, además de la continuidad de la destrucción de Gaza y Cisjordania y\nel peligro de escalada del conflicto en toda el área.",
+        "officialTitle": "Solicitud de comparecencia del Ministro de Asuntos Exteriores, Unión\nEuropea y Cooperación ante el Pleno de la Cámara, para informar sobre la\nposición del Gobierno ante la grave situación en Oriente Próximo por la\nextensión de los ataques de Israel en la zona con los bombardeos en\nLíbano, incluido el ataque al cuartel general de las fuerzas de paz de la\nONU, además de la continuidad de la destrucción de Gaza y Cisjordania y\nel peligro de escalada del conflicto en toda el área.",
+        "type": "briefing",
+        "nativeType": "ES-comparecencia"
+      },
+      "dateStart": "2024-11-28T11:11:00+01:00",
+      "dateEnd": "2024-11-28T11:26:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_082/cortes/15_000400_082_0_25516_743219.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1543219I",
+        "duration": 900.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_082_0_25516_743219",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Jordi Salvador i Duch",
+          "lastname": "Salvador i Duch",
+          "firstname": "Jordi",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Republicano"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 18
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 85
+      },
+      "agendaItem": {
+        "title": "Solicitud de comparecencia, a petición propia, del Ministro de\nAsuntos Exteriores, Unión Europea y Cooperación ante el Pleno de la\nCámara, para informar de las iniciativas de España para la paz en Oriente\nMedio.",
+        "officialTitle": "Solicitud de comparecencia, a petición propia, del Ministro de\nAsuntos Exteriores, Unión Europea y Cooperación ante el Pleno de la\nCámara, para informar de las iniciativas de España para la paz en Oriente\nMedio.",
+        "type": "briefing",
+        "nativeType": "ES-comparecencia"
+      },
+      "dateStart": "2024-11-28T11:26:00+01:00",
+      "dateEnd": "2024-11-28T11:36:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_082/cortes/15_000400_082_0_25516_743220.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1543220I",
+        "duration": 600.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_082_0_25516_743220",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Marta Madrenas i Mir",
+          "lastname": "Madrenas i Mir",
+          "firstname": "Marta",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Junts per Catalunya"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 19
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 85
+      },
+      "agendaItem": {
+        "title": "Solicitud de comparecencia del Ministro de Asuntos Exteriores, Unión\nEuropea y Cooperación ante el Pleno de la Cámara, para informar sobre la\nposición del Gobierno ante la grave situación en Oriente Próximo por la\nextensión de los ataques de Israel en la zona con los bombardeos en\nLíbano, incluido el ataque al cuartel general de las fuerzas de paz de la\nONU, además de la continuidad de la destrucción de Gaza y Cisjordania y\nel peligro de escalada del conflicto en toda el área.",
+        "officialTitle": "Solicitud de comparecencia del Ministro de Asuntos Exteriores, Unión\nEuropea y Cooperación ante el Pleno de la Cámara, para informar sobre la\nposición del Gobierno ante la grave situación en Oriente Próximo por la\nextensión de los ataques de Israel en la zona con los bombardeos en\nLíbano, incluido el ataque al cuartel general de las fuerzas de paz de la\nONU, además de la continuidad de la destrucción de Gaza y Cisjordania y\nel peligro de escalada del conflicto en toda el área.",
+        "type": "briefing",
+        "nativeType": "ES-comparecencia"
+      },
+      "dateStart": "2024-11-28T11:26:00+01:00",
+      "dateEnd": "2024-11-28T11:36:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_082/cortes/15_000400_082_0_25516_743220.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1543220I",
+        "duration": 600.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_082_0_25516_743220",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Marta Madrenas i Mir",
+          "lastname": "Madrenas i Mir",
+          "firstname": "Marta",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Junts per Catalunya"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 20
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 85
+      },
+      "agendaItem": {
+        "title": "Solicitud de comparecencia, a petición propia, del Ministro de\nAsuntos Exteriores, Unión Europea y Cooperación ante el Pleno de la\nCámara, para informar de las iniciativas de España para la paz en Oriente\nMedio.",
+        "officialTitle": "Solicitud de comparecencia, a petición propia, del Ministro de\nAsuntos Exteriores, Unión Europea y Cooperación ante el Pleno de la\nCámara, para informar de las iniciativas de España para la paz en Oriente\nMedio.",
+        "type": "briefing",
+        "nativeType": "ES-comparecencia"
+      },
+      "dateStart": "2024-11-28T11:36:00+01:00",
+      "dateEnd": "2024-11-28T11:47:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_082/cortes/15_000400_082_0_25516_743221.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1543221I",
+        "duration": 660.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_082_0_25516_743221",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Oskar Matute García de Jalón",
+          "lastname": "Matute García de Jalón",
+          "firstname": "Oskar",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Euskal Herria Bildu"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 21
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 85
+      },
+      "agendaItem": {
+        "title": "Solicitud de comparecencia del Ministro de Asuntos Exteriores, Unión\nEuropea y Cooperación ante el Pleno de la Cámara, para informar sobre la\nposición del Gobierno ante la grave situación en Oriente Próximo por la\nextensión de los ataques de Israel en la zona con los bombardeos en\nLíbano, incluido el ataque al cuartel general de las fuerzas de paz de la\nONU, además de la continuidad de la destrucción de Gaza y Cisjordania y\nel peligro de escalada del conflicto en toda el área.",
+        "officialTitle": "Solicitud de comparecencia del Ministro de Asuntos Exteriores, Unión\nEuropea y Cooperación ante el Pleno de la Cámara, para informar sobre la\nposición del Gobierno ante la grave situación en Oriente Próximo por la\nextensión de los ataques de Israel en la zona con los bombardeos en\nLíbano, incluido el ataque al cuartel general de las fuerzas de paz de la\nONU, además de la continuidad de la destrucción de Gaza y Cisjordania y\nel peligro de escalada del conflicto en toda el área.",
+        "type": "briefing",
+        "nativeType": "ES-comparecencia"
+      },
+      "dateStart": "2024-11-28T11:36:00+01:00",
+      "dateEnd": "2024-11-28T11:47:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_082/cortes/15_000400_082_0_25516_743221.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1543221I",
+        "duration": 660.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_082_0_25516_743221",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Oskar Matute García de Jalón",
+          "lastname": "Matute García de Jalón",
+          "firstname": "Oskar",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Euskal Herria Bildu"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 22
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 85
+      },
+      "agendaItem": {
+        "title": "Solicitud de comparecencia, a petición propia, del Ministro de\nAsuntos Exteriores, Unión Europea y Cooperación ante el Pleno de la\nCámara, para informar de las iniciativas de España para la paz en Oriente\nMedio.",
+        "officialTitle": "Solicitud de comparecencia, a petición propia, del Ministro de\nAsuntos Exteriores, Unión Europea y Cooperación ante el Pleno de la\nCámara, para informar de las iniciativas de España para la paz en Oriente\nMedio.",
+        "type": "briefing",
+        "nativeType": "ES-comparecencia"
+      },
+      "dateStart": "2024-11-28T11:47:00+01:00",
+      "dateEnd": "2024-11-28T11:59:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_082/cortes/15_000400_082_0_25516_743222.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1543222I",
+        "duration": 720.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_082_0_25516_743222",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Aitor Esteban Bravo",
+          "lastname": "Esteban Bravo",
+          "firstname": "Aitor",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Vasco (EAJ-PNV)"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 23
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 85
+      },
+      "agendaItem": {
+        "title": "Solicitud de comparecencia del Ministro de Asuntos Exteriores, Unión\nEuropea y Cooperación ante el Pleno de la Cámara, para informar sobre la\nposición del Gobierno ante la grave situación en Oriente Próximo por la\nextensión de los ataques de Israel en la zona con los bombardeos en\nLíbano, incluido el ataque al cuartel general de las fuerzas de paz de la\nONU, además de la continuidad de la destrucción de Gaza y Cisjordania y\nel peligro de escalada del conflicto en toda el área.",
+        "officialTitle": "Solicitud de comparecencia del Ministro de Asuntos Exteriores, Unión\nEuropea y Cooperación ante el Pleno de la Cámara, para informar sobre la\nposición del Gobierno ante la grave situación en Oriente Próximo por la\nextensión de los ataques de Israel en la zona con los bombardeos en\nLíbano, incluido el ataque al cuartel general de las fuerzas de paz de la\nONU, además de la continuidad de la destrucción de Gaza y Cisjordania y\nel peligro de escalada del conflicto en toda el área.",
+        "type": "briefing",
+        "nativeType": "ES-comparecencia"
+      },
+      "dateStart": "2024-11-28T11:47:00+01:00",
+      "dateEnd": "2024-11-28T11:59:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_082/cortes/15_000400_082_0_25516_743222.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1543222I",
+        "duration": 720.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_082_0_25516_743222",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Aitor Esteban Bravo",
+          "lastname": "Esteban Bravo",
+          "firstname": "Aitor",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Vasco (EAJ-PNV)"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 24
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 85
+      },
+      "agendaItem": {
+        "title": "Solicitud de comparecencia, a petición propia, del Ministro de\nAsuntos Exteriores, Unión Europea y Cooperación ante el Pleno de la\nCámara, para informar de las iniciativas de España para la paz en Oriente\nMedio.",
+        "officialTitle": "Solicitud de comparecencia, a petición propia, del Ministro de\nAsuntos Exteriores, Unión Europea y Cooperación ante el Pleno de la\nCámara, para informar de las iniciativas de España para la paz en Oriente\nMedio.",
+        "type": "briefing",
+        "nativeType": "ES-comparecencia"
+      },
+      "dateStart": "2024-11-28T11:59:00+01:00",
+      "dateEnd": "2024-11-28T12:06:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_082/cortes/15_000400_082_0_25516_743223.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1543223I",
+        "duration": 420.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_082_0_25516_743223",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Javier Sánchez Serna",
+          "lastname": "Sánchez Serna",
+          "firstname": "Javier",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Mixto"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 25
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 85
+      },
+      "agendaItem": {
+        "title": "Solicitud de comparecencia del Ministro de Asuntos Exteriores, Unión\nEuropea y Cooperación ante el Pleno de la Cámara, para informar sobre la\nposición del Gobierno ante la grave situación en Oriente Próximo por la\nextensión de los ataques de Israel en la zona con los bombardeos en\nLíbano, incluido el ataque al cuartel general de las fuerzas de paz de la\nONU, además de la continuidad de la destrucción de Gaza y Cisjordania y\nel peligro de escalada del conflicto en toda el área.",
+        "officialTitle": "Solicitud de comparecencia del Ministro de Asuntos Exteriores, Unión\nEuropea y Cooperación ante el Pleno de la Cámara, para informar sobre la\nposición del Gobierno ante la grave situación en Oriente Próximo por la\nextensión de los ataques de Israel en la zona con los bombardeos en\nLíbano, incluido el ataque al cuartel general de las fuerzas de paz de la\nONU, además de la continuidad de la destrucción de Gaza y Cisjordania y\nel peligro de escalada del conflicto en toda el área.",
+        "type": "briefing",
+        "nativeType": "ES-comparecencia"
+      },
+      "dateStart": "2024-11-28T11:59:00+01:00",
+      "dateEnd": "2024-11-28T12:06:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_082/cortes/15_000400_082_0_25516_743223.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1543223I",
+        "duration": 420.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_082_0_25516_743223",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Javier Sánchez Serna",
+          "lastname": "Sánchez Serna",
+          "firstname": "Javier",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Mixto"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 26
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 85
+      },
+      "agendaItem": {
+        "title": "Solicitud de comparecencia del Ministro de Asuntos Exteriores, Unión\nEuropea y Cooperación ante el Pleno de la Cámara, para informar sobre la\nposición del Gobierno ante la grave situación en Oriente Próximo por la\nextensión de los ataques de Israel en la zona con los bombardeos en\nLíbano, incluido el ataque al cuartel general de las fuerzas de paz de la\nONU, además de la continuidad de la destrucción de Gaza y Cisjordania y\nel peligro de escalada del conflicto en toda el área.",
+        "officialTitle": "Solicitud de comparecencia del Ministro de Asuntos Exteriores, Unión\nEuropea y Cooperación ante el Pleno de la Cámara, para informar sobre la\nposición del Gobierno ante la grave situación en Oriente Próximo por la\nextensión de los ataques de Israel en la zona con los bombardeos en\nLíbano, incluido el ataque al cuartel general de las fuerzas de paz de la\nONU, además de la continuidad de la destrucción de Gaza y Cisjordania y\nel peligro de escalada del conflicto en toda el área.",
+        "type": "briefing",
+        "nativeType": "ES-comparecencia"
+      },
+      "dateStart": "2024-11-28T12:06:00+01:00",
+      "dateEnd": "2024-11-28T12:16:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_082/cortes/15_000400_082_0_25516_743224.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1543224I",
+        "duration": 600.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_082_0_25516_743224",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Néstor Rego Candamil",
+          "lastname": "Rego Candamil",
+          "firstname": "Néstor",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Mixto"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 27
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 85
+      },
+      "agendaItem": {
+        "title": "Solicitud de comparecencia, a petición propia, del Ministro de\nAsuntos Exteriores, Unión Europea y Cooperación ante el Pleno de la\nCámara, para informar de las iniciativas de España para la paz en Oriente\nMedio.",
+        "officialTitle": "Solicitud de comparecencia, a petición propia, del Ministro de\nAsuntos Exteriores, Unión Europea y Cooperación ante el Pleno de la\nCámara, para informar de las iniciativas de España para la paz en Oriente\nMedio.",
+        "type": "briefing",
+        "nativeType": "ES-comparecencia"
+      },
+      "dateStart": "2024-11-28T12:06:00+01:00",
+      "dateEnd": "2024-11-28T12:16:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_082/cortes/15_000400_082_0_25516_743224.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1543224I",
+        "duration": 600.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_082_0_25516_743224",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Néstor Rego Candamil",
+          "lastname": "Rego Candamil",
+          "firstname": "Néstor",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Mixto"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 28
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 85
+      },
+      "agendaItem": {
+        "title": "Solicitud de comparecencia del Ministro de Asuntos Exteriores, Unión\nEuropea y Cooperación ante el Pleno de la Cámara, para informar sobre la\nposición del Gobierno ante la grave situación en Oriente Próximo por la\nextensión de los ataques de Israel en la zona con los bombardeos en\nLíbano, incluido el ataque al cuartel general de las fuerzas de paz de la\nONU, además de la continuidad de la destrucción de Gaza y Cisjordania y\nel peligro de escalada del conflicto en toda el área.",
+        "officialTitle": "Solicitud de comparecencia del Ministro de Asuntos Exteriores, Unión\nEuropea y Cooperación ante el Pleno de la Cámara, para informar sobre la\nposición del Gobierno ante la grave situación en Oriente Próximo por la\nextensión de los ataques de Israel en la zona con los bombardeos en\nLíbano, incluido el ataque al cuartel general de las fuerzas de paz de la\nONU, además de la continuidad de la destrucción de Gaza y Cisjordania y\nel peligro de escalada del conflicto en toda el área.",
+        "type": "briefing",
+        "nativeType": "ES-comparecencia"
+      },
+      "dateStart": "2024-11-28T12:16:00+01:00",
+      "dateEnd": "2024-11-28T12:28:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_082/cortes/15_000400_082_0_25516_743227.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1543227I",
+        "duration": 720.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_082_0_25516_743227",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Sergio Gutiérrez Prieto",
+          "lastname": "Gutiérrez Prieto",
+          "firstname": "Sergio",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Socialista"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 29
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 85
+      },
+      "agendaItem": {
+        "title": "Solicitud de comparecencia, a petición propia, del Ministro de\nAsuntos Exteriores, Unión Europea y Cooperación ante el Pleno de la\nCámara, para informar de las iniciativas de España para la paz en Oriente\nMedio.",
+        "officialTitle": "Solicitud de comparecencia, a petición propia, del Ministro de\nAsuntos Exteriores, Unión Europea y Cooperación ante el Pleno de la\nCámara, para informar de las iniciativas de España para la paz en Oriente\nMedio.",
+        "type": "briefing",
+        "nativeType": "ES-comparecencia"
+      },
+      "dateStart": "2024-11-28T12:16:00+01:00",
+      "dateEnd": "2024-11-28T12:28:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_082/cortes/15_000400_082_0_25516_743227.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1543227I",
+        "duration": 720.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_082_0_25516_743227",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Sergio Gutiérrez Prieto",
+          "lastname": "Gutiérrez Prieto",
+          "firstname": "Sergio",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Socialista"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 30
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 85
+      },
+      "agendaItem": {
+        "title": "Solicitud de comparecencia del Ministro de Asuntos Exteriores, Unión\nEuropea y Cooperación ante el Pleno de la Cámara, para informar sobre la\nposición del Gobierno ante la grave situación en Oriente Próximo por la\nextensión de los ataques de Israel en la zona con los bombardeos en\nLíbano, incluido el ataque al cuartel general de las fuerzas de paz de la\nONU, además de la continuidad de la destrucción de Gaza y Cisjordania y\nel peligro de escalada del conflicto en toda el área.",
+        "officialTitle": "Solicitud de comparecencia del Ministro de Asuntos Exteriores, Unión\nEuropea y Cooperación ante el Pleno de la Cámara, para informar sobre la\nposición del Gobierno ante la grave situación en Oriente Próximo por la\nextensión de los ataques de Israel en la zona con los bombardeos en\nLíbano, incluido el ataque al cuartel general de las fuerzas de paz de la\nONU, además de la continuidad de la destrucción de Gaza y Cisjordania y\nel peligro de escalada del conflicto en toda el área.",
+        "type": "briefing",
+        "nativeType": "ES-comparecencia"
+      },
+      "dateStart": "2024-11-28T12:28:00+01:00",
+      "dateEnd": "2024-11-28T13:18:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_082/cortes/15_000400_082_0_25516_743228.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1543228I",
+        "duration": 3000.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_082_0_25516_743228",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "José Manuel Albares Bueno",
+          "lastname": "Albares Bueno",
+          "firstname": "José Manuel",
+          "type": "member of government",
+          "role": "Ministro de Asuntos Exteriores, Unión Europea y Cooperación"
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 31
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 85
+      },
+      "agendaItem": {
+        "title": "Solicitud de comparecencia, a petición propia, del Ministro de\nAsuntos Exteriores, Unión Europea y Cooperación ante el Pleno de la\nCámara, para informar de las iniciativas de España para la paz en Oriente\nMedio.",
+        "officialTitle": "Solicitud de comparecencia, a petición propia, del Ministro de\nAsuntos Exteriores, Unión Europea y Cooperación ante el Pleno de la\nCámara, para informar de las iniciativas de España para la paz en Oriente\nMedio.",
+        "type": "briefing",
+        "nativeType": "ES-comparecencia"
+      },
+      "dateStart": "2024-11-28T12:28:00+01:00",
+      "dateEnd": "2024-11-28T13:18:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_082/cortes/15_000400_082_0_25516_743228.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1543228I",
+        "duration": 3000.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_082_0_25516_743228",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "José Manuel Albares Bueno",
+          "lastname": "Albares Bueno",
+          "firstname": "José Manuel",
+          "type": "member of government",
+          "role": "Ministro de Asuntos Exteriores, Unión Europea y Cooperación"
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 32
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 85
+      },
+      "agendaItem": {
+        "title": "Solicitud de comparecencia del Ministro de Asuntos Exteriores, Unión\nEuropea y Cooperación ante el Pleno de la Cámara, para informar sobre la\nposición del Gobierno ante la grave situación en Oriente Próximo por la\nextensión de los ataques de Israel en la zona con los bombardeos en\nLíbano, incluido el ataque al cuartel general de las fuerzas de paz de la\nONU, además de la continuidad de la destrucción de Gaza y Cisjordania y\nel peligro de escalada del conflicto en toda el área.",
+        "officialTitle": "Solicitud de comparecencia del Ministro de Asuntos Exteriores, Unión\nEuropea y Cooperación ante el Pleno de la Cámara, para informar sobre la\nposición del Gobierno ante la grave situación en Oriente Próximo por la\nextensión de los ataques de Israel en la zona con los bombardeos en\nLíbano, incluido el ataque al cuartel general de las fuerzas de paz de la\nONU, además de la continuidad de la destrucción de Gaza y Cisjordania y\nel peligro de escalada del conflicto en toda el área.",
+        "type": "briefing",
+        "nativeType": "ES-comparecencia"
+      },
+      "dateStart": "2024-11-28T13:18:00+01:00",
+      "dateEnd": "2024-11-28T13:25:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_082/cortes/15_000400_082_1_25519_743233.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1543233I",
+        "duration": 420.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_082_1_25519_743233",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Carlos Javier Floriano Corrales",
+          "lastname": "Floriano Corrales",
+          "firstname": "Carlos Javier",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Popular en el Congreso"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 33
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 85
+      },
+      "agendaItem": {
+        "title": "Solicitud de comparecencia, a petición propia, del Ministro de\nAsuntos Exteriores, Unión Europea y Cooperación ante el Pleno de la\nCámara, para informar de las iniciativas de España para la paz en Oriente\nMedio.",
+        "officialTitle": "Solicitud de comparecencia, a petición propia, del Ministro de\nAsuntos Exteriores, Unión Europea y Cooperación ante el Pleno de la\nCámara, para informar de las iniciativas de España para la paz en Oriente\nMedio.",
+        "type": "briefing",
+        "nativeType": "ES-comparecencia"
+      },
+      "dateStart": "2024-11-28T13:18:00+01:00",
+      "dateEnd": "2024-11-28T13:25:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_082/cortes/15_000400_082_1_25519_743233.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1543233I",
+        "duration": 420.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_082_1_25519_743233",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Carlos Javier Floriano Corrales",
+          "lastname": "Floriano Corrales",
+          "firstname": "Carlos Javier",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Popular en el Congreso"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 34
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 85
+      },
+      "agendaItem": {
+        "title": "Solicitud de comparecencia del Ministro de Asuntos Exteriores, Unión\nEuropea y Cooperación ante el Pleno de la Cámara, para informar sobre la\nposición del Gobierno ante la grave situación en Oriente Próximo por la\nextensión de los ataques de Israel en la zona con los bombardeos en\nLíbano, incluido el ataque al cuartel general de las fuerzas de paz de la\nONU, además de la continuidad de la destrucción de Gaza y Cisjordania y\nel peligro de escalada del conflicto en toda el área.",
+        "officialTitle": "Solicitud de comparecencia del Ministro de Asuntos Exteriores, Unión\nEuropea y Cooperación ante el Pleno de la Cámara, para informar sobre la\nposición del Gobierno ante la grave situación en Oriente Próximo por la\nextensión de los ataques de Israel en la zona con los bombardeos en\nLíbano, incluido el ataque al cuartel general de las fuerzas de paz de la\nONU, además de la continuidad de la destrucción de Gaza y Cisjordania y\nel peligro de escalada del conflicto en toda el área.",
+        "type": "briefing",
+        "nativeType": "ES-comparecencia"
+      },
+      "dateStart": "2024-11-28T13:25:00+01:00",
+      "dateEnd": "2024-11-28T13:31:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_082/cortes/15_000400_082_1_25519_743234.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1543234I",
+        "duration": 360.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_082_1_25519_743234",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Carlos Flores Juberías",
+          "lastname": "Flores Juberías",
+          "firstname": "Carlos",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario VOX"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 35
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 85
+      },
+      "agendaItem": {
+        "title": "Solicitud de comparecencia, a petición propia, del Ministro de\nAsuntos Exteriores, Unión Europea y Cooperación ante el Pleno de la\nCámara, para informar de las iniciativas de España para la paz en Oriente\nMedio.",
+        "officialTitle": "Solicitud de comparecencia, a petición propia, del Ministro de\nAsuntos Exteriores, Unión Europea y Cooperación ante el Pleno de la\nCámara, para informar de las iniciativas de España para la paz en Oriente\nMedio.",
+        "type": "briefing",
+        "nativeType": "ES-comparecencia"
+      },
+      "dateStart": "2024-11-28T13:25:00+01:00",
+      "dateEnd": "2024-11-28T13:31:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_082/cortes/15_000400_082_1_25519_743234.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1543234I",
+        "duration": 360.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_082_1_25519_743234",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Carlos Flores Juberías",
+          "lastname": "Flores Juberías",
+          "firstname": "Carlos",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario VOX"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 36
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 85
+      },
+      "agendaItem": {
+        "title": "Solicitud de comparecencia del Ministro de Asuntos Exteriores, Unión\nEuropea y Cooperación ante el Pleno de la Cámara, para informar sobre la\nposición del Gobierno ante la grave situación en Oriente Próximo por la\nextensión de los ataques de Israel en la zona con los bombardeos en\nLíbano, incluido el ataque al cuartel general de las fuerzas de paz de la\nONU, además de la continuidad de la destrucción de Gaza y Cisjordania y\nel peligro de escalada del conflicto en toda el área.",
+        "officialTitle": "Solicitud de comparecencia del Ministro de Asuntos Exteriores, Unión\nEuropea y Cooperación ante el Pleno de la Cámara, para informar sobre la\nposición del Gobierno ante la grave situación en Oriente Próximo por la\nextensión de los ataques de Israel en la zona con los bombardeos en\nLíbano, incluido el ataque al cuartel general de las fuerzas de paz de la\nONU, además de la continuidad de la destrucción de Gaza y Cisjordania y\nel peligro de escalada del conflicto en toda el área.",
+        "type": "briefing",
+        "nativeType": "ES-comparecencia"
+      },
+      "dateStart": "2024-11-28T13:31:00+01:00",
+      "dateEnd": "2024-11-28T13:37:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_082/cortes/15_000400_082_1_25519_743235.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1543235I",
+        "duration": 360.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_082_1_25519_743235",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Agustín Santos Maraver",
+          "lastname": "Santos Maraver",
+          "firstname": "Agustín",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Plurinacional SUMAR"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 37
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 85
+      },
+      "agendaItem": {
+        "title": "Solicitud de comparecencia, a petición propia, del Ministro de\nAsuntos Exteriores, Unión Europea y Cooperación ante el Pleno de la\nCámara, para informar de las iniciativas de España para la paz en Oriente\nMedio.",
+        "officialTitle": "Solicitud de comparecencia, a petición propia, del Ministro de\nAsuntos Exteriores, Unión Europea y Cooperación ante el Pleno de la\nCámara, para informar de las iniciativas de España para la paz en Oriente\nMedio.",
+        "type": "briefing",
+        "nativeType": "ES-comparecencia"
+      },
+      "dateStart": "2024-11-28T13:31:00+01:00",
+      "dateEnd": "2024-11-28T13:37:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_082/cortes/15_000400_082_1_25519_743235.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1543235I",
+        "duration": 360.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_082_1_25519_743235",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Agustín Santos Maraver",
+          "lastname": "Santos Maraver",
+          "firstname": "Agustín",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Plurinacional SUMAR"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 38
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 85
+      },
+      "agendaItem": {
+        "title": "Solicitud de comparecencia del Ministro de Asuntos Exteriores, Unión\nEuropea y Cooperación ante el Pleno de la Cámara, para informar sobre la\nposición del Gobierno ante la grave situación en Oriente Próximo por la\nextensión de los ataques de Israel en la zona con los bombardeos en\nLíbano, incluido el ataque al cuartel general de las fuerzas de paz de la\nONU, además de la continuidad de la destrucción de Gaza y Cisjordania y\nel peligro de escalada del conflicto en toda el área.",
+        "officialTitle": "Solicitud de comparecencia del Ministro de Asuntos Exteriores, Unión\nEuropea y Cooperación ante el Pleno de la Cámara, para informar sobre la\nposición del Gobierno ante la grave situación en Oriente Próximo por la\nextensión de los ataques de Israel en la zona con los bombardeos en\nLíbano, incluido el ataque al cuartel general de las fuerzas de paz de la\nONU, además de la continuidad de la destrucción de Gaza y Cisjordania y\nel peligro de escalada del conflicto en toda el área.",
+        "type": "briefing",
+        "nativeType": "ES-comparecencia"
+      },
+      "dateStart": "2024-11-28T13:37:00+01:00",
+      "dateEnd": "2024-11-28T13:41:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_082/cortes/15_000400_082_1_25519_743236.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1543236I",
+        "duration": 240.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_082_1_25519_743236",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Sergio Gutiérrez Prieto",
+          "lastname": "Gutiérrez Prieto",
+          "firstname": "Sergio",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Socialista"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 39
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 85
+      },
+      "agendaItem": {
+        "title": "Solicitud de comparecencia, a petición propia, del Ministro de\nAsuntos Exteriores, Unión Europea y Cooperación ante el Pleno de la\nCámara, para informar de las iniciativas de España para la paz en Oriente\nMedio.",
+        "officialTitle": "Solicitud de comparecencia, a petición propia, del Ministro de\nAsuntos Exteriores, Unión Europea y Cooperación ante el Pleno de la\nCámara, para informar de las iniciativas de España para la paz en Oriente\nMedio.",
+        "type": "briefing",
+        "nativeType": "ES-comparecencia"
+      },
+      "dateStart": "2024-11-28T13:37:00+01:00",
+      "dateEnd": "2024-11-28T13:41:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_082/cortes/15_000400_082_1_25519_743236.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1543236I",
+        "duration": 240.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_082_1_25519_743236",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Sergio Gutiérrez Prieto",
+          "lastname": "Gutiérrez Prieto",
+          "firstname": "Sergio",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Socialista"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 40
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 85
+      },
+      "agendaItem": {
+        "title": "Solicitud de comparecencia del Ministro de Asuntos Exteriores, Unión\nEuropea y Cooperación ante el Pleno de la Cámara, para informar sobre la\nposición del Gobierno ante la grave situación en Oriente Próximo por la\nextensión de los ataques de Israel en la zona con los bombardeos en\nLíbano, incluido el ataque al cuartel general de las fuerzas de paz de la\nONU, además de la continuidad de la destrucción de Gaza y Cisjordania y\nel peligro de escalada del conflicto en toda el área.",
+        "officialTitle": "Solicitud de comparecencia del Ministro de Asuntos Exteriores, Unión\nEuropea y Cooperación ante el Pleno de la Cámara, para informar sobre la\nposición del Gobierno ante la grave situación en Oriente Próximo por la\nextensión de los ataques de Israel en la zona con los bombardeos en\nLíbano, incluido el ataque al cuartel general de las fuerzas de paz de la\nONU, además de la continuidad de la destrucción de Gaza y Cisjordania y\nel peligro de escalada del conflicto en toda el área.",
+        "type": "briefing",
+        "nativeType": "ES-comparecencia"
+      },
+      "dateStart": "2024-11-28T13:41:00+01:00",
+      "dateEnd": "2024-11-28T13:41:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_082/cortes/15_000400_082_1_25519_743237.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1543237I",
+        "duration": 0.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_082_1_25519_743237",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "José Manuel Albares Bueno",
+          "lastname": "Albares Bueno",
+          "firstname": "José Manuel",
+          "type": "member of government",
+          "role": "Ministro de Asuntos Exteriores, Unión Europea y Cooperación"
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 41
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 85
+      },
+      "agendaItem": {
+        "title": "Solicitud de comparecencia, a petición propia, del Ministro de\nAsuntos Exteriores, Unión Europea y Cooperación ante el Pleno de la\nCámara, para informar de las iniciativas de España para la paz en Oriente\nMedio.",
+        "officialTitle": "Solicitud de comparecencia, a petición propia, del Ministro de\nAsuntos Exteriores, Unión Europea y Cooperación ante el Pleno de la\nCámara, para informar de las iniciativas de España para la paz en Oriente\nMedio.",
+        "type": "briefing",
+        "nativeType": "ES-comparecencia"
+      },
+      "dateStart": "2024-11-28T13:41:00+01:00",
+      "dateEnd": "2024-11-28T13:41:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_082/cortes/15_000400_082_1_25519_743237.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1543237I",
+        "duration": 0.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_082_1_25519_743237",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "José Manuel Albares Bueno",
+          "lastname": "Albares Bueno",
+          "firstname": "José Manuel",
+          "type": "member of government",
+          "role": "Ministro de Asuntos Exteriores, Unión Europea y Cooperación"
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 42
+    }
+  ]
+}

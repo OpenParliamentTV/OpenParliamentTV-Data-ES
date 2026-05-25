@@ -1,0 +1,1846 @@
+{
+  "meta": {
+    "session": "15120",
+    "processing": {
+      "parse_media": "2026-05-23T07:17:41"
+    },
+    "dateStart": "2025-06-10T15:03:00+02:00",
+    "dateEnd": "2025-06-10T20:17:00+02:00"
+  },
+  "data": [
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 120
+      },
+      "agendaItem": {
+        "title": "Juramento o promesa de acatamiento de la Constitución",
+        "officialTitle": "Juramento o promesa de acatamiento de la Constitución",
+        "type": "oath",
+        "nativeType": "ES-juramento"
+      },
+      "dateStart": "2025-06-10T15:03:00+02:00",
+      "dateEnd": "2025-06-10T15:04:00+02:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_116/cortes/15_000400_116_0_26224_755015.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1555015I",
+        "duration": 60.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_116_0_26224_755015",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Gabriel Blanco Arrúe",
+          "lastname": "Blanco Arrúe",
+          "firstname": "Gabriel",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Socialista"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 1
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 120
+      },
+      "agendaItem": {
+        "title": "Proposición de Ley relativa a la modificación de la Ley 22/1988, de\n28 de julio, de Costas, para la preservación de conjuntos urbanos\ncosteros de tipología tradicional y otras instalaciones de interés\npúblico, en terrenos que han  pasado a ser de dominio público\nmarítimo-terrestre.",
+        "officialTitle": "Proposición de Ley relativa a la modificación de la Ley 22/1988, de\n28 de julio, de Costas, para la preservación de conjuntos urbanos\ncosteros de tipología tradicional y otras instalaciones de interés\npúblico, en terrenos que han  pasado a ser de dominio público\nmarítimo-terrestre.",
+        "type": "regular",
+        "nativeType": "ES-ley"
+      },
+      "dateStart": "2025-06-10T15:05:00+02:00",
+      "dateEnd": "2025-06-10T15:19:00+02:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_116/cortes/15_000400_116_0_26224_755019.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1555019I",
+        "duration": 840.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_116_0_26224_755019",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Carlos Gil Santiago",
+          "lastname": "Gil Santiago",
+          "firstname": "Carlos",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Popular en el Congreso"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 2
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 120
+      },
+      "agendaItem": {
+        "title": "Proposición de Ley relativa a la modificación de la Ley 22/1988, de\n28 de julio, de Costas, para la preservación de conjuntos urbanos\ncosteros de tipología tradicional y otras instalaciones de interés\npúblico, en terrenos que han  pasado a ser de dominio público\nmarítimo-terrestre.",
+        "officialTitle": "Proposición de Ley relativa a la modificación de la Ley 22/1988, de\n28 de julio, de Costas, para la preservación de conjuntos urbanos\ncosteros de tipología tradicional y otras instalaciones de interés\npúblico, en terrenos que han  pasado a ser de dominio público\nmarítimo-terrestre.",
+        "type": "regular",
+        "nativeType": "ES-ley"
+      },
+      "dateStart": "2025-06-10T15:19:00+02:00",
+      "dateEnd": "2025-06-10T15:23:00+02:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_116/cortes/15_000400_116_0_26224_755020.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1555020I",
+        "duration": 240.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_116_0_26224_755020",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Cristina Valido García",
+          "lastname": "Valido García",
+          "firstname": "Cristina",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Mixto"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 3
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 120
+      },
+      "agendaItem": {
+        "title": "Proposición de Ley relativa a la modificación de la Ley 22/1988, de\n28 de julio, de Costas, para la preservación de conjuntos urbanos\ncosteros de tipología tradicional y otras instalaciones de interés\npúblico, en terrenos que han  pasado a ser de dominio público\nmarítimo-terrestre.",
+        "officialTitle": "Proposición de Ley relativa a la modificación de la Ley 22/1988, de\n28 de julio, de Costas, para la preservación de conjuntos urbanos\ncosteros de tipología tradicional y otras instalaciones de interés\npúblico, en terrenos que han  pasado a ser de dominio público\nmarítimo-terrestre.",
+        "type": "regular",
+        "nativeType": "ES-ley"
+      },
+      "dateStart": "2025-06-10T15:23:00+02:00",
+      "dateEnd": "2025-06-10T15:28:00+02:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_116/cortes/15_000400_116_0_26224_755021.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1555021I",
+        "duration": 300.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_116_0_26224_755021",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Noemí Santana Perera",
+          "lastname": "Santana Perera",
+          "firstname": "Noemí",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Mixto"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 4
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 120
+      },
+      "agendaItem": {
+        "title": "Proposición de Ley relativa a la modificación de la Ley 22/1988, de\n28 de julio, de Costas, para la preservación de conjuntos urbanos\ncosteros de tipología tradicional y otras instalaciones de interés\npúblico, en terrenos que han  pasado a ser de dominio público\nmarítimo-terrestre.",
+        "officialTitle": "Proposición de Ley relativa a la modificación de la Ley 22/1988, de\n28 de julio, de Costas, para la preservación de conjuntos urbanos\ncosteros de tipología tradicional y otras instalaciones de interés\npúblico, en terrenos que han  pasado a ser de dominio público\nmarítimo-terrestre.",
+        "type": "regular",
+        "nativeType": "ES-ley"
+      },
+      "dateStart": "2025-06-10T15:28:00+02:00",
+      "dateEnd": "2025-06-10T15:33:00+02:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_116/cortes/15_000400_116_0_26224_755022.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1555022I",
+        "duration": 300.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_116_0_26224_755022",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Idoia Sagastizabal Unzetabarrenetxea",
+          "lastname": "Sagastizabal Unzetabarrenetxea",
+          "firstname": "Idoia",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Vasco (EAJ-PNV)"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 5
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 120
+      },
+      "agendaItem": {
+        "title": "Proposición de Ley relativa a la modificación de la Ley 22/1988, de\n28 de julio, de Costas, para la preservación de conjuntos urbanos\ncosteros de tipología tradicional y otras instalaciones de interés\npúblico, en terrenos que han  pasado a ser de dominio público\nmarítimo-terrestre.",
+        "officialTitle": "Proposición de Ley relativa a la modificación de la Ley 22/1988, de\n28 de julio, de Costas, para la preservación de conjuntos urbanos\ncosteros de tipología tradicional y otras instalaciones de interés\npúblico, en terrenos que han  pasado a ser de dominio público\nmarítimo-terrestre.",
+        "type": "regular",
+        "nativeType": "ES-ley"
+      },
+      "dateStart": "2025-06-10T15:33:00+02:00",
+      "dateEnd": "2025-06-10T15:41:00+02:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_116/cortes/15_000400_116_0_26224_755023.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1555023I",
+        "duration": 480.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_116_0_26224_755023",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Pilar Calvo Gómez",
+          "lastname": "Calvo Gómez",
+          "firstname": "Pilar",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Junts per Catalunya"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 6
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 120
+      },
+      "agendaItem": {
+        "title": "Proposición de Ley relativa a la modificación de la Ley 22/1988, de\n28 de julio, de Costas, para la preservación de conjuntos urbanos\ncosteros de tipología tradicional y otras instalaciones de interés\npúblico, en terrenos que han  pasado a ser de dominio público\nmarítimo-terrestre.",
+        "officialTitle": "Proposición de Ley relativa a la modificación de la Ley 22/1988, de\n28 de julio, de Costas, para la preservación de conjuntos urbanos\ncosteros de tipología tradicional y otras instalaciones de interés\npúblico, en terrenos que han  pasado a ser de dominio público\nmarítimo-terrestre.",
+        "type": "regular",
+        "nativeType": "ES-ley"
+      },
+      "dateStart": "2025-06-10T15:41:00+02:00",
+      "dateEnd": "2025-06-10T15:49:00+02:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_116/cortes/15_000400_116_0_26224_755024.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1555024I",
+        "duration": 480.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_116_0_26224_755024",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Teresa Jordà i Roura",
+          "lastname": "Jordà i Roura",
+          "firstname": "Teresa",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Republicano"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 7
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 120
+      },
+      "agendaItem": {
+        "title": "Proposición de Ley relativa a la modificación de la Ley 22/1988, de\n28 de julio, de Costas, para la preservación de conjuntos urbanos\ncosteros de tipología tradicional y otras instalaciones de interés\npúblico, en terrenos que han  pasado a ser de dominio público\nmarítimo-terrestre.",
+        "officialTitle": "Proposición de Ley relativa a la modificación de la Ley 22/1988, de\n28 de julio, de Costas, para la preservación de conjuntos urbanos\ncosteros de tipología tradicional y otras instalaciones de interés\npúblico, en terrenos que han  pasado a ser de dominio público\nmarítimo-terrestre.",
+        "type": "regular",
+        "nativeType": "ES-ley"
+      },
+      "dateStart": "2025-06-10T15:49:00+02:00",
+      "dateEnd": "2025-06-10T15:57:00+02:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_116/cortes/15_000400_116_0_26224_755025.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1555025I",
+        "duration": 480.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_116_0_26224_755025",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Júlia Boada Danés",
+          "lastname": "Boada Danés",
+          "firstname": "Júlia",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Plurinacional SUMAR"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 8
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 120
+      },
+      "agendaItem": {
+        "title": "Proposición de Ley relativa a la modificación de la Ley 22/1988, de\n28 de julio, de Costas, para la preservación de conjuntos urbanos\ncosteros de tipología tradicional y otras instalaciones de interés\npúblico, en terrenos que han  pasado a ser de dominio público\nmarítimo-terrestre.",
+        "officialTitle": "Proposición de Ley relativa a la modificación de la Ley 22/1988, de\n28 de julio, de Costas, para la preservación de conjuntos urbanos\ncosteros de tipología tradicional y otras instalaciones de interés\npúblico, en terrenos que han  pasado a ser de dominio público\nmarítimo-terrestre.",
+        "type": "regular",
+        "nativeType": "ES-ley"
+      },
+      "dateStart": "2025-06-10T15:57:00+02:00",
+      "dateEnd": "2025-06-10T16:05:00+02:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_116/cortes/15_000400_116_0_26224_755026.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1555026I",
+        "duration": 480.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_116_0_26224_755026",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Patricia Rueda Perelló",
+          "lastname": "Rueda Perelló",
+          "firstname": "Patricia",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario VOX"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 9
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 120
+      },
+      "agendaItem": {
+        "title": "Proposición de Ley relativa a la modificación de la Ley 22/1988, de\n28 de julio, de Costas, para la preservación de conjuntos urbanos\ncosteros de tipología tradicional y otras instalaciones de interés\npúblico, en terrenos que han  pasado a ser de dominio público\nmarítimo-terrestre.",
+        "officialTitle": "Proposición de Ley relativa a la modificación de la Ley 22/1988, de\n28 de julio, de Costas, para la preservación de conjuntos urbanos\ncosteros de tipología tradicional y otras instalaciones de interés\npúblico, en terrenos que han  pasado a ser de dominio público\nmarítimo-terrestre.",
+        "type": "regular",
+        "nativeType": "ES-ley"
+      },
+      "dateStart": "2025-06-10T16:05:00+02:00",
+      "dateEnd": "2025-06-10T16:13:00+02:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_116/cortes/15_000400_116_0_26224_755027.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1555027I",
+        "duration": 480.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_116_0_26224_755027",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Víctor Camino Miñana",
+          "lastname": "Camino Miñana",
+          "firstname": "Víctor",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Socialista"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 10
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 120
+      },
+      "agendaItem": {
+        "title": "Proposición de reforma del Reglamento del Congreso para incorporar un\nnuevo Título XIV para la regulación de los grupos de interés y los\nincumplimientos o infracciones por parte de los diputados y grupos\nparlamentarios.",
+        "officialTitle": "Proposición de reforma del Reglamento del Congreso para incorporar un\nnuevo Título XIV para la regulación de los grupos de interés y los\nincumplimientos o infracciones por parte de los diputados y grupos\nparlamentarios.",
+        "type": "rules_of_procedure",
+        "nativeType": "ES-reglamento"
+      },
+      "dateStart": "2025-06-10T16:13:00+02:00",
+      "dateEnd": "2025-06-10T16:24:00+02:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_116/cortes/15_000400_116_0_26224_755030.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1555030I",
+        "duration": 660.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_116_0_26224_755030",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "María Adrio Taracido",
+          "lastname": "Adrio Taracido",
+          "firstname": "María",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Socialista"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 11
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 120
+      },
+      "agendaItem": {
+        "title": "Proposición de reforma del Reglamento del Congreso para incorporar un\nnuevo Título XIV para la regulación de los grupos de interés y los\nincumplimientos o infracciones por parte de los diputados y grupos\nparlamentarios.",
+        "officialTitle": "Proposición de reforma del Reglamento del Congreso para incorporar un\nnuevo Título XIV para la regulación de los grupos de interés y los\nincumplimientos o infracciones por parte de los diputados y grupos\nparlamentarios.",
+        "type": "rules_of_procedure",
+        "nativeType": "ES-reglamento"
+      },
+      "dateStart": "2025-06-10T16:24:00+02:00",
+      "dateEnd": "2025-06-10T16:29:00+02:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_116/cortes/15_000400_116_0_26224_755031.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1555031I",
+        "duration": 300.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_116_0_26224_755031",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Néstor Rego Candamil",
+          "lastname": "Rego Candamil",
+          "firstname": "Néstor",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Mixto"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 12
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 120
+      },
+      "agendaItem": {
+        "title": "Proposición de reforma del Reglamento del Congreso para incorporar un\nnuevo Título XIV para la regulación de los grupos de interés y los\nincumplimientos o infracciones por parte de los diputados y grupos\nparlamentarios.",
+        "officialTitle": "Proposición de reforma del Reglamento del Congreso para incorporar un\nnuevo Título XIV para la regulación de los grupos de interés y los\nincumplimientos o infracciones por parte de los diputados y grupos\nparlamentarios.",
+        "type": "rules_of_procedure",
+        "nativeType": "ES-reglamento"
+      },
+      "dateStart": "2025-06-10T16:29:00+02:00",
+      "dateEnd": "2025-06-10T16:34:00+02:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_116/cortes/15_000400_116_0_26224_755032.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1555032I",
+        "duration": 300.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_116_0_26224_755032",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Martina Velarde Gómez",
+          "lastname": "Velarde Gómez",
+          "firstname": "Martina",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Mixto"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 13
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 120
+      },
+      "agendaItem": {
+        "title": "Proposición de reforma del Reglamento del Congreso para incorporar un\nnuevo Título XIV para la regulación de los grupos de interés y los\nincumplimientos o infracciones por parte de los diputados y grupos\nparlamentarios.",
+        "officialTitle": "Proposición de reforma del Reglamento del Congreso para incorporar un\nnuevo Título XIV para la regulación de los grupos de interés y los\nincumplimientos o infracciones por parte de los diputados y grupos\nparlamentarios.",
+        "type": "rules_of_procedure",
+        "nativeType": "ES-reglamento"
+      },
+      "dateStart": "2025-06-10T16:34:00+02:00",
+      "dateEnd": "2025-06-10T16:42:00+02:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_116/cortes/15_000400_116_0_26224_755033.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1555033I",
+        "duration": 480.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_116_0_26224_755033",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Mikel Legarda Uriarte",
+          "lastname": "Legarda Uriarte",
+          "firstname": "Mikel",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Vasco (EAJ-PNV)"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 14
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 120
+      },
+      "agendaItem": {
+        "title": "Proposición de reforma del Reglamento del Congreso para incorporar un\nnuevo Título XIV para la regulación de los grupos de interés y los\nincumplimientos o infracciones por parte de los diputados y grupos\nparlamentarios.",
+        "officialTitle": "Proposición de reforma del Reglamento del Congreso para incorporar un\nnuevo Título XIV para la regulación de los grupos de interés y los\nincumplimientos o infracciones por parte de los diputados y grupos\nparlamentarios.",
+        "type": "rules_of_procedure",
+        "nativeType": "ES-reglamento"
+      },
+      "dateStart": "2025-06-10T16:42:00+02:00",
+      "dateEnd": "2025-06-10T16:49:00+02:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_116/cortes/15_000400_116_0_26224_755034.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1555034I",
+        "duration": 420.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_116_0_26224_755034",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Oskar Matute García de Jalón",
+          "lastname": "Matute García de Jalón",
+          "firstname": "Oskar",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Euskal Herria Bildu"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 15
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 120
+      },
+      "agendaItem": {
+        "title": "Proposición de reforma del Reglamento del Congreso para incorporar un\nnuevo Título XIV para la regulación de los grupos de interés y los\nincumplimientos o infracciones por parte de los diputados y grupos\nparlamentarios.",
+        "officialTitle": "Proposición de reforma del Reglamento del Congreso para incorporar un\nnuevo Título XIV para la regulación de los grupos de interés y los\nincumplimientos o infracciones por parte de los diputados y grupos\nparlamentarios.",
+        "type": "rules_of_procedure",
+        "nativeType": "ES-reglamento"
+      },
+      "dateStart": "2025-06-10T16:49:00+02:00",
+      "dateEnd": "2025-06-10T16:55:00+02:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_116/cortes/15_000400_116_0_26224_755035.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1555035I",
+        "duration": 360.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_116_0_26224_755035",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Josep Maria Cervera Pinart",
+          "lastname": "Cervera Pinart",
+          "firstname": "Josep Maria",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Junts per Catalunya"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 16
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 120
+      },
+      "agendaItem": {
+        "title": "Proposición de reforma del Reglamento del Congreso para incorporar un\nnuevo Título XIV para la regulación de los grupos de interés y los\nincumplimientos o infracciones por parte de los diputados y grupos\nparlamentarios.",
+        "officialTitle": "Proposición de reforma del Reglamento del Congreso para incorporar un\nnuevo Título XIV para la regulación de los grupos de interés y los\nincumplimientos o infracciones por parte de los diputados y grupos\nparlamentarios.",
+        "type": "rules_of_procedure",
+        "nativeType": "ES-reglamento"
+      },
+      "dateStart": "2025-06-10T16:55:00+02:00",
+      "dateEnd": "2025-06-10T17:03:00+02:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_116/cortes/15_000400_116_0_26224_755036.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1555036I",
+        "duration": 480.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_116_0_26224_755036",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Pilar Vallugera Balañà",
+          "lastname": "Vallugera Balañà",
+          "firstname": "Pilar",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Republicano"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 17
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 120
+      },
+      "agendaItem": {
+        "title": "Proposición de reforma del Reglamento del Congreso para incorporar un\nnuevo Título XIV para la regulación de los grupos de interés y los\nincumplimientos o infracciones por parte de los diputados y grupos\nparlamentarios.",
+        "officialTitle": "Proposición de reforma del Reglamento del Congreso para incorporar un\nnuevo Título XIV para la regulación de los grupos de interés y los\nincumplimientos o infracciones por parte de los diputados y grupos\nparlamentarios.",
+        "type": "rules_of_procedure",
+        "nativeType": "ES-reglamento"
+      },
+      "dateStart": "2025-06-10T17:03:00+02:00",
+      "dateEnd": "2025-06-10T17:11:00+02:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_116/cortes/15_000400_116_0_26224_755037.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1555037I",
+        "duration": 480.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_116_0_26224_755037",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Francisco Sierra Caballero",
+          "lastname": "Sierra Caballero",
+          "firstname": "Francisco",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Plurinacional SUMAR"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 18
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 120
+      },
+      "agendaItem": {
+        "title": "Proposición de reforma del Reglamento del Congreso para incorporar un\nnuevo Título XIV para la regulación de los grupos de interés y los\nincumplimientos o infracciones por parte de los diputados y grupos\nparlamentarios.",
+        "officialTitle": "Proposición de reforma del Reglamento del Congreso para incorporar un\nnuevo Título XIV para la regulación de los grupos de interés y los\nincumplimientos o infracciones por parte de los diputados y grupos\nparlamentarios.",
+        "type": "rules_of_procedure",
+        "nativeType": "ES-reglamento"
+      },
+      "dateStart": "2025-06-10T17:11:00+02:00",
+      "dateEnd": "2025-06-10T17:19:00+02:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_116/cortes/15_000400_116_0_26224_755038.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1555038I",
+        "duration": 480.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_116_0_26224_755038",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Ignacio Gil Lázaro",
+          "lastname": "Gil Lázaro",
+          "firstname": "Ignacio",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario VOX"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 19
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 120
+      },
+      "agendaItem": {
+        "title": "Proposición de reforma del Reglamento del Congreso para incorporar un\nnuevo Título XIV para la regulación de los grupos de interés y los\nincumplimientos o infracciones por parte de los diputados y grupos\nparlamentarios.",
+        "officialTitle": "Proposición de reforma del Reglamento del Congreso para incorporar un\nnuevo Título XIV para la regulación de los grupos de interés y los\nincumplimientos o infracciones por parte de los diputados y grupos\nparlamentarios.",
+        "type": "rules_of_procedure",
+        "nativeType": "ES-reglamento"
+      },
+      "dateStart": "2025-06-10T17:19:00+02:00",
+      "dateEnd": "2025-06-10T17:28:00+02:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_116/cortes/15_000400_116_0_26224_755039.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1555039I",
+        "duration": 540.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_116_0_26224_755039",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Carmen Navarro Lacoba",
+          "lastname": "Navarro Lacoba",
+          "firstname": "Carmen",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Popular en el Congreso"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 20
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 120
+      },
+      "agendaItem": {
+        "title": "Proposición no de Ley para ajustar el IRPF por la inflación.",
+        "officialTitle": "Proposición no de Ley para ajustar el IRPF por la inflación.",
+        "type": "regular"
+      },
+      "dateStart": "2025-06-10T17:28:00+02:00",
+      "dateEnd": "2025-06-10T17:36:00+02:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_116/cortes/15_000400_116_0_26224_755042.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1555042I",
+        "duration": 480.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_116_0_26224_755042",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Juan Bravo Baena",
+          "lastname": "Bravo Baena",
+          "firstname": "Juan",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Popular en el Congreso"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 21
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 120
+      },
+      "agendaItem": {
+        "title": "Proposición no de Ley para ajustar el IRPF por la inflación.",
+        "officialTitle": "Proposición no de Ley para ajustar el IRPF por la inflación.",
+        "type": "regular"
+      },
+      "dateStart": "2025-06-10T17:36:00+02:00",
+      "dateEnd": "2025-06-10T17:43:00+02:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_116/cortes/15_000400_116_0_26224_755043.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1555043I",
+        "duration": 420.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_116_0_26224_755043",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Pablo Sáez Alonso-Muñumer",
+          "lastname": "Sáez Alonso-Muñumer",
+          "firstname": "Pablo",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario VOX"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 22
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 120
+      },
+      "agendaItem": {
+        "title": "Proposición no de Ley para ajustar el IRPF por la inflación.",
+        "officialTitle": "Proposición no de Ley para ajustar el IRPF por la inflación.",
+        "type": "regular"
+      },
+      "dateStart": "2025-06-10T17:44:00+02:00",
+      "dateEnd": "2025-06-10T17:49:00+02:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_116/cortes/15_000400_116_1_26227_755049.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1555049I",
+        "duration": 300.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_116_1_26227_755049",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Josep Maria Cruset Domènech",
+          "lastname": "Cruset Domènech",
+          "firstname": "Josep Maria",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Junts per Catalunya"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 23
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 120
+      },
+      "agendaItem": {
+        "title": "Proposición no de Ley para ajustar el IRPF por la inflación.",
+        "officialTitle": "Proposición no de Ley para ajustar el IRPF por la inflación.",
+        "type": "regular"
+      },
+      "dateStart": "2025-06-10T17:49:00+02:00",
+      "dateEnd": "2025-06-10T17:57:00+02:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_116/cortes/15_000400_116_1_26227_755050.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1555050I",
+        "duration": 480.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_116_1_26227_755050",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Pilar Vallugera Balañà",
+          "lastname": "Vallugera Balañà",
+          "firstname": "Pilar",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Republicano"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 24
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 120
+      },
+      "agendaItem": {
+        "title": "Proposición no de Ley para ajustar el IRPF por la inflación.",
+        "officialTitle": "Proposición no de Ley para ajustar el IRPF por la inflación.",
+        "type": "regular"
+      },
+      "dateStart": "2025-06-10T17:57:00+02:00",
+      "dateEnd": "2025-06-10T18:04:00+02:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_116/cortes/15_000400_116_1_26227_755051.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1555051I",
+        "duration": 420.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_116_1_26227_755051",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Carlos Martín Urriza",
+          "lastname": "Martín Urriza",
+          "firstname": "Carlos",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Plurinacional SUMAR"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 25
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 120
+      },
+      "agendaItem": {
+        "title": "Proposición no de Ley para ajustar el IRPF por la inflación.",
+        "officialTitle": "Proposición no de Ley para ajustar el IRPF por la inflación.",
+        "type": "regular"
+      },
+      "dateStart": "2025-06-10T18:04:00+02:00",
+      "dateEnd": "2025-06-10T18:11:00+02:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_116/cortes/15_000400_116_1_26227_755052.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1555052I",
+        "duration": 420.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_116_1_26227_755052",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Marta Trenzano Rubio",
+          "lastname": "Trenzano Rubio",
+          "firstname": "Marta",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Socialista"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 26
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 120
+      },
+      "agendaItem": {
+        "title": "Proposición no de Ley relativa a la defensa del olivar en el contexto\nde la sobreinstalación de plantas de generación renovable.",
+        "officialTitle": "Proposición no de Ley relativa a la defensa del olivar en el contexto\nde la sobreinstalación de plantas de generación renovable.",
+        "type": "regular"
+      },
+      "dateStart": "2025-06-10T18:11:00+02:00",
+      "dateEnd": "2025-06-10T18:20:00+02:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_116/cortes/15_000400_116_1_26227_755054.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1555054I",
+        "duration": 540.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_116_1_26227_755054",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Ricardo Chamorro Delmo",
+          "lastname": "Chamorro Delmo",
+          "firstname": "Ricardo",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario VOX"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 27
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 120
+      },
+      "agendaItem": {
+        "title": "Proposición no de Ley relativa a la defensa del olivar en el contexto\nde la sobreinstalación de plantas de generación renovable.",
+        "officialTitle": "Proposición no de Ley relativa a la defensa del olivar en el contexto\nde la sobreinstalación de plantas de generación renovable.",
+        "type": "regular"
+      },
+      "dateStart": "2025-06-10T18:20:00+02:00",
+      "dateEnd": "2025-06-10T18:27:00+02:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_116/cortes/15_000400_116_1_26227_755055.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1555055I",
+        "duration": 420.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_116_1_26227_755055",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Teresa Jordà i Roura",
+          "lastname": "Jordà i Roura",
+          "firstname": "Teresa",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Republicano"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 28
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 120
+      },
+      "agendaItem": {
+        "title": "Proposición no de Ley relativa a la defensa del olivar en el contexto\nde la sobreinstalación de plantas de generación renovable.",
+        "officialTitle": "Proposición no de Ley relativa a la defensa del olivar en el contexto\nde la sobreinstalación de plantas de generación renovable.",
+        "type": "regular"
+      },
+      "dateStart": "2025-06-10T18:27:00+02:00",
+      "dateEnd": "2025-06-10T18:34:00+02:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_116/cortes/15_000400_116_1_26227_755056.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1555056I",
+        "duration": 420.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_116_1_26227_755056",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Juan Antonio Valero Morales",
+          "lastname": "Valero Morales",
+          "firstname": "Juan Antonio",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Plurinacional SUMAR"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 29
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 120
+      },
+      "agendaItem": {
+        "title": "Proposición no de Ley relativa a la defensa del olivar en el contexto\nde la sobreinstalación de plantas de generación renovable.",
+        "officialTitle": "Proposición no de Ley relativa a la defensa del olivar en el contexto\nde la sobreinstalación de plantas de generación renovable.",
+        "type": "regular"
+      },
+      "dateStart": "2025-06-10T18:34:00+02:00",
+      "dateEnd": "2025-06-10T18:41:00+02:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_116/cortes/15_000400_116_1_26227_755057.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1555057I",
+        "duration": 420.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_116_1_26227_755057",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Juan Francisco Serrano Martínez",
+          "lastname": "Serrano Martínez",
+          "firstname": "Juan Francisco",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Socialista"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 30
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 120
+      },
+      "agendaItem": {
+        "title": "Proposición no de Ley relativa a la defensa del olivar en el contexto\nde la sobreinstalación de plantas de generación renovable.",
+        "officialTitle": "Proposición no de Ley relativa a la defensa del olivar en el contexto\nde la sobreinstalación de plantas de generación renovable.",
+        "type": "regular"
+      },
+      "dateStart": "2025-06-10T18:41:00+02:00",
+      "dateEnd": "2025-06-10T18:48:00+02:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_116/cortes/15_000400_116_1_26227_755058.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1555058I",
+        "duration": 420.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_116_1_26227_755058",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Juan Diego Requena Ruiz",
+          "lastname": "Requena Ruiz",
+          "firstname": "Juan Diego",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Popular en el Congreso"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 31
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 120
+      },
+      "agendaItem": {
+        "title": "Moción consecuencia de interpelación urgente relativa a la posición\ndel Gobierno sobre la necesidad de destinar los fondos del plan de rearme\na fortalecer la educación pública.",
+        "officialTitle": "Moción consecuencia de interpelación urgente relativa a la posición\ndel Gobierno sobre la necesidad de destinar los fondos del plan de rearme\na fortalecer la educación pública.",
+        "type": "regular",
+        "nativeType": "ES-mocion"
+      },
+      "dateStart": "2025-06-10T18:49:00+02:00",
+      "dateEnd": "2025-06-10T18:56:00+02:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_116/cortes/15_000400_116_1_26227_755061.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1555061I",
+        "duration": 420.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_116_1_26227_755061",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Javier Sánchez Serna",
+          "lastname": "Sánchez Serna",
+          "firstname": "Javier",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Mixto"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 32
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 120
+      },
+      "agendaItem": {
+        "title": "Moción consecuencia de interpelación urgente relativa a la posición\ndel Gobierno sobre la necesidad de destinar los fondos del plan de rearme\na fortalecer la educación pública.",
+        "officialTitle": "Moción consecuencia de interpelación urgente relativa a la posición\ndel Gobierno sobre la necesidad de destinar los fondos del plan de rearme\na fortalecer la educación pública.",
+        "type": "regular",
+        "nativeType": "ES-mocion"
+      },
+      "dateStart": "2025-06-10T18:56:00+02:00",
+      "dateEnd": "2025-06-10T19:01:00+02:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_116/cortes/15_000400_116_1_26227_755062.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1555062I",
+        "duration": 300.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_116_1_26227_755062",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Marije Fullaondo la Cruz",
+          "lastname": "Fullaondo la Cruz",
+          "firstname": "Marije",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Euskal Herria Bildu"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 33
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 120
+      },
+      "agendaItem": {
+        "title": "Moción consecuencia de interpelación urgente relativa a la posición\ndel Gobierno sobre la necesidad de destinar los fondos del plan de rearme\na fortalecer la educación pública.",
+        "officialTitle": "Moción consecuencia de interpelación urgente relativa a la posición\ndel Gobierno sobre la necesidad de destinar los fondos del plan de rearme\na fortalecer la educación pública.",
+        "type": "regular",
+        "nativeType": "ES-mocion"
+      },
+      "dateStart": "2025-06-10T19:01:00+02:00",
+      "dateEnd": "2025-06-10T19:07:00+02:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_116/cortes/15_000400_116_1_26227_755063.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1555063I",
+        "duration": 360.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_116_1_26227_755063",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Txema Guijarro García",
+          "lastname": "Guijarro García",
+          "firstname": "Txema",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Plurinacional SUMAR"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 34
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 120
+      },
+      "agendaItem": {
+        "title": "Moción consecuencia de interpelación urgente relativa a la posición\ndel Gobierno sobre la necesidad de destinar los fondos del plan de rearme\na fortalecer la educación pública.",
+        "officialTitle": "Moción consecuencia de interpelación urgente relativa a la posición\ndel Gobierno sobre la necesidad de destinar los fondos del plan de rearme\na fortalecer la educación pública.",
+        "type": "regular",
+        "nativeType": "ES-mocion"
+      },
+      "dateStart": "2025-06-10T19:07:00+02:00",
+      "dateEnd": "2025-06-10T19:13:00+02:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_116/cortes/15_000400_116_1_26227_755064.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1555064I",
+        "duration": 360.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_116_1_26227_755064",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "María Luz Martínez Seijo",
+          "lastname": "Martínez Seijo",
+          "firstname": "María Luz",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Socialista"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 35
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 120
+      },
+      "agendaItem": {
+        "title": "Moción consecuencia de interpelación urgente relativa a la posición\ndel Gobierno sobre la necesidad de destinar los fondos del plan de rearme\na fortalecer la educación pública.",
+        "officialTitle": "Moción consecuencia de interpelación urgente relativa a la posición\ndel Gobierno sobre la necesidad de destinar los fondos del plan de rearme\na fortalecer la educación pública.",
+        "type": "regular",
+        "nativeType": "ES-mocion"
+      },
+      "dateStart": "2025-06-10T19:13:00+02:00",
+      "dateEnd": "2025-06-10T19:15:00+02:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_116/cortes/15_000400_116_1_26227_755065.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1555065I",
+        "duration": 120.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_116_1_26227_755065",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Mikel Legarda Uriarte",
+          "lastname": "Legarda Uriarte",
+          "firstname": "Mikel",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Vasco (EAJ-PNV)"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 36
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 120
+      },
+      "agendaItem": {
+        "title": "Moción consecuencia de interpelación urgente relativa a la posición\ndel Gobierno sobre la necesidad de destinar los fondos del plan de rearme\na fortalecer la educación pública.",
+        "officialTitle": "Moción consecuencia de interpelación urgente relativa a la posición\ndel Gobierno sobre la necesidad de destinar los fondos del plan de rearme\na fortalecer la educación pública.",
+        "type": "regular",
+        "nativeType": "ES-mocion"
+      },
+      "dateStart": "2025-06-10T19:15:00+02:00",
+      "dateEnd": "2025-06-10T19:21:00+02:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_116/cortes/15_000400_116_1_26227_755066.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1555066I",
+        "duration": 360.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_116_1_26227_755066",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Isidre Gavin i Valls",
+          "lastname": "Gavin i Valls",
+          "firstname": "Isidre",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Junts per Catalunya"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 37
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 120
+      },
+      "agendaItem": {
+        "title": "Moción consecuencia de interpelación urgente relativa a la posición\ndel Gobierno sobre la necesidad de destinar los fondos del plan de rearme\na fortalecer la educación pública.",
+        "officialTitle": "Moción consecuencia de interpelación urgente relativa a la posición\ndel Gobierno sobre la necesidad de destinar los fondos del plan de rearme\na fortalecer la educación pública.",
+        "type": "regular",
+        "nativeType": "ES-mocion"
+      },
+      "dateStart": "2025-06-10T19:21:00+02:00",
+      "dateEnd": "2025-06-10T19:28:00+02:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_116/cortes/15_000400_116_1_26227_755067.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1555067I",
+        "duration": 420.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_116_1_26227_755067",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Jordi Salvador i Duch",
+          "lastname": "Salvador i Duch",
+          "firstname": "Jordi",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Republicano"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 38
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 120
+      },
+      "agendaItem": {
+        "title": "Moción consecuencia de interpelación urgente relativa a la posición\ndel Gobierno sobre la necesidad de destinar los fondos del plan de rearme\na fortalecer la educación pública.",
+        "officialTitle": "Moción consecuencia de interpelación urgente relativa a la posición\ndel Gobierno sobre la necesidad de destinar los fondos del plan de rearme\na fortalecer la educación pública.",
+        "type": "regular",
+        "nativeType": "ES-mocion"
+      },
+      "dateStart": "2025-06-10T19:28:00+02:00",
+      "dateEnd": "2025-06-10T19:34:00+02:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_116/cortes/15_000400_116_1_26227_755068.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1555068I",
+        "duration": 360.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_116_1_26227_755068",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Jacobo González-Robatto Perote",
+          "lastname": "González-Robatto Perote",
+          "firstname": "Jacobo",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario VOX"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 39
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 120
+      },
+      "agendaItem": {
+        "title": "Moción consecuencia de interpelación urgente relativa a la posición\ndel Gobierno sobre la necesidad de destinar los fondos del plan de rearme\na fortalecer la educación pública.",
+        "officialTitle": "Moción consecuencia de interpelación urgente relativa a la posición\ndel Gobierno sobre la necesidad de destinar los fondos del plan de rearme\na fortalecer la educación pública.",
+        "type": "regular",
+        "nativeType": "ES-mocion"
+      },
+      "dateStart": "2025-06-10T19:34:00+02:00",
+      "dateEnd": "2025-06-10T19:42:00+02:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_116/cortes/15_000400_116_1_26227_755069.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1555069I",
+        "duration": 480.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_116_1_26227_755069",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Javier Celaya Brey",
+          "lastname": "Celaya Brey",
+          "firstname": "Javier",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Popular en el Congreso"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 40
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 120
+      },
+      "agendaItem": {
+        "title": "Moción consecuencia de interpelación urgente sobre cómo va a\nrecuperar el Gobierno una política energética que garantice el bienestar\nde los españoles.",
+        "officialTitle": "Moción consecuencia de interpelación urgente sobre cómo va a\nrecuperar el Gobierno una política energética que garantice el bienestar\nde los españoles.",
+        "type": "regular",
+        "nativeType": "ES-mocion"
+      },
+      "dateStart": "2025-06-10T19:42:00+02:00",
+      "dateEnd": "2025-06-10T19:52:00+02:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_116/cortes/15_000400_116_1_26227_755071.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1555071I",
+        "duration": 600.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_116_1_26227_755071",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Lourdes Méndez Monasterio",
+          "lastname": "Méndez Monasterio",
+          "firstname": "Lourdes",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario VOX"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 41
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 120
+      },
+      "agendaItem": {
+        "title": "Moción consecuencia de interpelación urgente sobre cómo va a\nrecuperar el Gobierno una política energética que garantice el bienestar\nde los españoles.",
+        "officialTitle": "Moción consecuencia de interpelación urgente sobre cómo va a\nrecuperar el Gobierno una política energética que garantice el bienestar\nde los españoles.",
+        "type": "regular",
+        "nativeType": "ES-mocion"
+      },
+      "dateStart": "2025-06-10T19:52:00+02:00",
+      "dateEnd": "2025-06-10T19:58:00+02:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_116/cortes/15_000400_116_1_26227_755072.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1555072I",
+        "duration": 360.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_116_1_26227_755072",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Teresa Jordà i Roura",
+          "lastname": "Jordà i Roura",
+          "firstname": "Teresa",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Republicano"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 42
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 120
+      },
+      "agendaItem": {
+        "title": "Moción consecuencia de interpelación urgente sobre cómo va a\nrecuperar el Gobierno una política energética que garantice el bienestar\nde los españoles.",
+        "officialTitle": "Moción consecuencia de interpelación urgente sobre cómo va a\nrecuperar el Gobierno una política energética que garantice el bienestar\nde los españoles.",
+        "type": "regular",
+        "nativeType": "ES-mocion"
+      },
+      "dateStart": "2025-06-10T19:58:00+02:00",
+      "dateEnd": "2025-06-10T20:04:00+02:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_116/cortes/15_000400_116_1_26227_755073.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1555073I",
+        "duration": 360.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_116_1_26227_755073",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Lander Martínez Hierro",
+          "lastname": "Martínez Hierro",
+          "firstname": "Lander",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Plurinacional SUMAR"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 43
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 120
+      },
+      "agendaItem": {
+        "title": "Moción consecuencia de interpelación urgente sobre cómo va a\nrecuperar el Gobierno una política energética que garantice el bienestar\nde los españoles.",
+        "officialTitle": "Moción consecuencia de interpelación urgente sobre cómo va a\nrecuperar el Gobierno una política energética que garantice el bienestar\nde los españoles.",
+        "type": "regular",
+        "nativeType": "ES-mocion"
+      },
+      "dateStart": "2025-06-10T20:04:00+02:00",
+      "dateEnd": "2025-06-10T20:10:00+02:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_116/cortes/15_000400_116_1_26227_755074.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1555074I",
+        "duration": 360.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_116_1_26227_755074",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Juan Antonio Lorenzo Cazorla",
+          "lastname": "Lorenzo Cazorla",
+          "firstname": "Juan Antonio",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Socialista"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 44
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 120
+      },
+      "agendaItem": {
+        "title": "Moción consecuencia de interpelación urgente sobre cómo va a\nrecuperar el Gobierno una política energética que garantice el bienestar\nde los españoles.",
+        "officialTitle": "Moción consecuencia de interpelación urgente sobre cómo va a\nrecuperar el Gobierno una política energética que garantice el bienestar\nde los españoles.",
+        "type": "regular",
+        "nativeType": "ES-mocion"
+      },
+      "dateStart": "2025-06-10T20:10:00+02:00",
+      "dateEnd": "2025-06-10T20:17:00+02:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_116/cortes/15_000400_116_1_26227_755075.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1555075I",
+        "duration": 420.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_116_1_26227_755075",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "José Alberto Herrero Bono",
+          "lastname": "Herrero Bono",
+          "firstname": "José Alberto",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Popular en el Congreso"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 45
+    }
+  ]
+}

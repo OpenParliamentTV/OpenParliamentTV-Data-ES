@@ -1,0 +1,2715 @@
+{
+  "meta": {
+    "session": "15132",
+    "processing": {
+      "parse_media": "2026-05-23T07:17:41"
+    },
+    "dateStart": "2025-07-22T11:05:00+02:00",
+    "dateEnd": "2025-07-22T19:25:00+02:00"
+  },
+  "data": [
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 132
+      },
+      "agendaItem": {
+        "title": "Proyecto de Ley por la que se modifican el texto refundido de la Ley\nsobre responsabilidad civil y seguro en la circulación de vehículos a\nmotor, aprobado por el Real Decreto Legislativo 8/2004, de 29 de octubre,\ny la Ley 20/2015, de 14 de julio, de ordenación, supervisión y solvencia\nde las entidades aseguradoras y reaseguradoras.",
+        "officialTitle": "Proyecto de Ley por la que se modifican el texto refundido de la Ley\nsobre responsabilidad civil y seguro en la circulación de vehículos a\nmotor, aprobado por el Real Decreto Legislativo 8/2004, de 29 de octubre,\ny la Ley 20/2015, de 14 de julio, de ordenación, supervisión y solvencia\nde las entidades aseguradoras y reaseguradoras.",
+        "type": "regular",
+        "nativeType": "ES-ley"
+      },
+      "dateStart": "2025-07-22T11:05:00+02:00",
+      "dateEnd": "2025-07-22T11:12:00+02:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_128/cortes/15_000400_128_0_26377_757701.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1557701I",
+        "duration": 420.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_128_0_26377_757701",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Martina Velarde Gómez",
+          "lastname": "Velarde Gómez",
+          "firstname": "Martina",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Mixto"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 1
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 132
+      },
+      "agendaItem": {
+        "title": "Proyecto de Ley por la que se modifican el texto refundido de la Ley\nsobre responsabilidad civil y seguro en la circulación de vehículos a\nmotor, aprobado por el Real Decreto Legislativo 8/2004, de 29 de octubre,\ny la Ley 20/2015, de 14 de julio, de ordenación, supervisión y solvencia\nde las entidades aseguradoras y reaseguradoras.",
+        "officialTitle": "Proyecto de Ley por la que se modifican el texto refundido de la Ley\nsobre responsabilidad civil y seguro en la circulación de vehículos a\nmotor, aprobado por el Real Decreto Legislativo 8/2004, de 29 de octubre,\ny la Ley 20/2015, de 14 de julio, de ordenación, supervisión y solvencia\nde las entidades aseguradoras y reaseguradoras.",
+        "type": "regular",
+        "nativeType": "ES-ley"
+      },
+      "dateStart": "2025-07-22T11:12:00+02:00",
+      "dateEnd": "2025-07-22T11:20:00+02:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_128/cortes/15_000400_128_0_26377_757702.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1557702I",
+        "duration": 480.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_128_0_26377_757702",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Carlos Martín Urriza",
+          "lastname": "Martín Urriza",
+          "firstname": "Carlos",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Plurinacional SUMAR"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 2
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 132
+      },
+      "agendaItem": {
+        "title": "Proyecto de Ley por la que se modifican el texto refundido de la Ley\nsobre responsabilidad civil y seguro en la circulación de vehículos a\nmotor, aprobado por el Real Decreto Legislativo 8/2004, de 29 de octubre,\ny la Ley 20/2015, de 14 de julio, de ordenación, supervisión y solvencia\nde las entidades aseguradoras y reaseguradoras.",
+        "officialTitle": "Proyecto de Ley por la que se modifican el texto refundido de la Ley\nsobre responsabilidad civil y seguro en la circulación de vehículos a\nmotor, aprobado por el Real Decreto Legislativo 8/2004, de 29 de octubre,\ny la Ley 20/2015, de 14 de julio, de ordenación, supervisión y solvencia\nde las entidades aseguradoras y reaseguradoras.",
+        "type": "regular",
+        "nativeType": "ES-ley"
+      },
+      "dateStart": "2025-07-22T11:20:00+02:00",
+      "dateEnd": "2025-07-22T11:28:00+02:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_128/cortes/15_000400_128_0_26377_757703.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1557703I",
+        "duration": 480.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_128_0_26377_757703",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Carina Mejías Sánchez",
+          "lastname": "Mejías Sánchez",
+          "firstname": "Carina",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario VOX"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 3
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 132
+      },
+      "agendaItem": {
+        "title": "Proyecto de Ley por la que se modifican el texto refundido de la Ley\nsobre responsabilidad civil y seguro en la circulación de vehículos a\nmotor, aprobado por el Real Decreto Legislativo 8/2004, de 29 de octubre,\ny la Ley 20/2015, de 14 de julio, de ordenación, supervisión y solvencia\nde las entidades aseguradoras y reaseguradoras.",
+        "officialTitle": "Proyecto de Ley por la que se modifican el texto refundido de la Ley\nsobre responsabilidad civil y seguro en la circulación de vehículos a\nmotor, aprobado por el Real Decreto Legislativo 8/2004, de 29 de octubre,\ny la Ley 20/2015, de 14 de julio, de ordenación, supervisión y solvencia\nde las entidades aseguradoras y reaseguradoras.",
+        "type": "regular",
+        "nativeType": "ES-ley"
+      },
+      "dateStart": "2025-07-22T11:28:00+02:00",
+      "dateEnd": "2025-07-22T11:37:00+02:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_128/cortes/15_000400_128_0_26377_757704.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1557704I",
+        "duration": 540.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_128_0_26377_757704",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Pedro Casares Hontañón",
+          "lastname": "Casares Hontañón",
+          "firstname": "Pedro",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Socialista"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 4
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 132
+      },
+      "agendaItem": {
+        "title": "Proyecto de Ley por la que se modifican el texto refundido de la Ley\nsobre responsabilidad civil y seguro en la circulación de vehículos a\nmotor, aprobado por el Real Decreto Legislativo 8/2004, de 29 de octubre,\ny la Ley 20/2015, de 14 de julio, de ordenación, supervisión y solvencia\nde las entidades aseguradoras y reaseguradoras.",
+        "officialTitle": "Proyecto de Ley por la que se modifican el texto refundido de la Ley\nsobre responsabilidad civil y seguro en la circulación de vehículos a\nmotor, aprobado por el Real Decreto Legislativo 8/2004, de 29 de octubre,\ny la Ley 20/2015, de 14 de julio, de ordenación, supervisión y solvencia\nde las entidades aseguradoras y reaseguradoras.",
+        "type": "regular",
+        "nativeType": "ES-ley"
+      },
+      "dateStart": "2025-07-22T11:37:00+02:00",
+      "dateEnd": "2025-07-22T11:44:00+02:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_128/cortes/15_000400_128_0_26377_757705.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1557705I",
+        "duration": 420.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_128_0_26377_757705",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Ángel Ibáñez Hernando",
+          "lastname": "Ibáñez Hernando",
+          "firstname": "Ángel",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Popular en el Congreso"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 5
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 132
+      },
+      "agendaItem": {
+        "title": "Proyecto de Ley por la que se crea la Agencia Estatal de Salud\nPública y se modifica la Ley 33/2011, de 4 de octubre, General de Salud\nPública.",
+        "officialTitle": "Proyecto de Ley por la que se crea la Agencia Estatal de Salud\nPública y se modifica la Ley 33/2011, de 4 de octubre, General de Salud\nPública.",
+        "type": "regular",
+        "nativeType": "ES-ley"
+      },
+      "dateStart": "2025-07-22T11:45:00+02:00",
+      "dateEnd": "2025-07-22T11:49:00+02:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_128/cortes/15_000400_128_0_26377_757707.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1557707I",
+        "duration": 240.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_128_0_26377_757707",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Àgueda Micó Micó",
+          "lastname": "Micó Micó",
+          "firstname": "Àgueda",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Mixto"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 6
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 132
+      },
+      "agendaItem": {
+        "title": "Proyecto de Ley por la que se crea la Agencia Estatal de Salud\nPública y se modifica la Ley 33/2011, de 4 de octubre, General de Salud\nPública.",
+        "officialTitle": "Proyecto de Ley por la que se crea la Agencia Estatal de Salud\nPública y se modifica la Ley 33/2011, de 4 de octubre, General de Salud\nPública.",
+        "type": "regular",
+        "nativeType": "ES-ley"
+      },
+      "dateStart": "2025-07-22T11:49:00+02:00",
+      "dateEnd": "2025-07-22T11:54:00+02:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_128/cortes/15_000400_128_0_26377_757708.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1557708I",
+        "duration": 300.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_128_0_26377_757708",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Alberto Catalán Higueras",
+          "lastname": "Catalán Higueras",
+          "firstname": "Alberto",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Mixto"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 7
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 132
+      },
+      "agendaItem": {
+        "title": "Proyecto de Ley por la que se crea la Agencia Estatal de Salud\nPública y se modifica la Ley 33/2011, de 4 de octubre, General de Salud\nPública.",
+        "officialTitle": "Proyecto de Ley por la que se crea la Agencia Estatal de Salud\nPública y se modifica la Ley 33/2011, de 4 de octubre, General de Salud\nPública.",
+        "type": "regular",
+        "nativeType": "ES-ley"
+      },
+      "dateStart": "2025-07-22T11:54:00+02:00",
+      "dateEnd": "2025-07-22T11:59:00+02:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_128/cortes/15_000400_128_0_26377_757709.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1557709I",
+        "duration": 300.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_128_0_26377_757709",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Etna Estrems Fayos",
+          "lastname": "Estrems Fayos",
+          "firstname": "Etna",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Republicano"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 8
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 132
+      },
+      "agendaItem": {
+        "title": "Proyecto de Ley por la que se crea la Agencia Estatal de Salud\nPública y se modifica la Ley 33/2011, de 4 de octubre, General de Salud\nPública.",
+        "officialTitle": "Proyecto de Ley por la que se crea la Agencia Estatal de Salud\nPública y se modifica la Ley 33/2011, de 4 de octubre, General de Salud\nPública.",
+        "type": "regular",
+        "nativeType": "ES-ley"
+      },
+      "dateStart": "2025-07-22T11:59:00+02:00",
+      "dateEnd": "2025-07-22T12:06:00+02:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_128/cortes/15_000400_128_0_26377_757710.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1557710I",
+        "duration": 420.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_128_0_26377_757710",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Alda Recas Martín",
+          "lastname": "Recas Martín",
+          "firstname": "Alda",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Plurinacional SUMAR"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 9
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 132
+      },
+      "agendaItem": {
+        "title": "Proyecto de Ley por la que se crea la Agencia Estatal de Salud\nPública y se modifica la Ley 33/2011, de 4 de octubre, General de Salud\nPública.",
+        "officialTitle": "Proyecto de Ley por la que se crea la Agencia Estatal de Salud\nPública y se modifica la Ley 33/2011, de 4 de octubre, General de Salud\nPública.",
+        "type": "regular",
+        "nativeType": "ES-ley"
+      },
+      "dateStart": "2025-07-22T12:06:00+02:00",
+      "dateEnd": "2025-07-22T12:13:00+02:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_128/cortes/15_000400_128_0_26377_757711.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1557711I",
+        "duration": 420.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_128_0_26377_757711",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Rocío De Meer Méndez",
+          "lastname": "De Meer Méndez",
+          "firstname": "Rocío",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario VOX"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 10
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 132
+      },
+      "agendaItem": {
+        "title": "Proyecto de Ley por la que se crea la Agencia Estatal de Salud\nPública y se modifica la Ley 33/2011, de 4 de octubre, General de Salud\nPública.",
+        "officialTitle": "Proyecto de Ley por la que se crea la Agencia Estatal de Salud\nPública y se modifica la Ley 33/2011, de 4 de octubre, General de Salud\nPública.",
+        "type": "regular",
+        "nativeType": "ES-ley"
+      },
+      "dateStart": "2025-07-22T12:13:00+02:00",
+      "dateEnd": "2025-07-22T12:22:00+02:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_128/cortes/15_000400_128_0_26377_757712.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1557712I",
+        "duration": 540.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_128_0_26377_757712",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Carmen Martínez Ramírez",
+          "lastname": "Martínez Ramírez",
+          "firstname": "Carmen",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Socialista"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 11
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 132
+      },
+      "agendaItem": {
+        "title": "Proyecto de Ley por la que se crea la Agencia Estatal de Salud\nPública y se modifica la Ley 33/2011, de 4 de octubre, General de Salud\nPública.",
+        "officialTitle": "Proyecto de Ley por la que se crea la Agencia Estatal de Salud\nPública y se modifica la Ley 33/2011, de 4 de octubre, General de Salud\nPública.",
+        "type": "regular",
+        "nativeType": "ES-ley"
+      },
+      "dateStart": "2025-07-22T12:22:00+02:00",
+      "dateEnd": "2025-07-22T12:31:00+02:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_128/cortes/15_000400_128_0_26377_757713.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1557713I",
+        "duration": 540.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_128_0_26377_757713",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Elvira Velasco Morillo",
+          "lastname": "Velasco Morillo",
+          "firstname": "Elvira",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Popular en el Congreso"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 12
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 132
+      },
+      "agendaItem": {
+        "title": "Proposición de Ley de modificación de la Ley 19/1994, de 6 de julio,\nde modificación del Régimen Económico y Fiscal de Canarias, para la\nregulación de las inversiones en elementos patrimoniales afectos a la\nactividad de arrendamiento de vivienda en las Islas Canarias.",
+        "officialTitle": "Proposición de Ley de modificación de la Ley 19/1994, de 6 de julio,\nde modificación del Régimen Económico y Fiscal de Canarias, para la\nregulación de las inversiones en elementos patrimoniales afectos a la\nactividad de arrendamiento de vivienda en las Islas Canarias.",
+        "type": "regular",
+        "nativeType": "ES-ley"
+      },
+      "dateStart": "2025-07-22T12:31:00+02:00",
+      "dateEnd": "2025-07-22T12:35:00+02:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_128/cortes/15_000400_128_0_26377_757715.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1557715I",
+        "duration": 240.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_128_0_26377_757715",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Cristina Valido García",
+          "lastname": "Valido García",
+          "firstname": "Cristina",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Mixto"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 13
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 132
+      },
+      "agendaItem": {
+        "title": "Proposición de Ley de modificación de la Ley 19/1994, de 6 de julio,\nde modificación del Régimen Económico y Fiscal de Canarias, para la\nregulación de las inversiones en elementos patrimoniales afectos a la\nactividad de arrendamiento de vivienda en las Islas Canarias.",
+        "officialTitle": "Proposición de Ley de modificación de la Ley 19/1994, de 6 de julio,\nde modificación del Régimen Económico y Fiscal de Canarias, para la\nregulación de las inversiones en elementos patrimoniales afectos a la\nactividad de arrendamiento de vivienda en las Islas Canarias.",
+        "type": "regular",
+        "nativeType": "ES-ley"
+      },
+      "dateStart": "2025-07-22T12:35:00+02:00",
+      "dateEnd": "2025-07-22T12:40:00+02:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_128/cortes/15_000400_128_0_26377_757716.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1557716I",
+        "duration": 300.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_128_0_26377_757716",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Noemí Santana Perera",
+          "lastname": "Santana Perera",
+          "firstname": "Noemí",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Mixto"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 14
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 132
+      },
+      "agendaItem": {
+        "title": "Proposición de Ley de modificación de la Ley 19/1994, de 6 de julio,\nde modificación del Régimen Económico y Fiscal de Canarias, para la\nregulación de las inversiones en elementos patrimoniales afectos a la\nactividad de arrendamiento de vivienda en las Islas Canarias.",
+        "officialTitle": "Proposición de Ley de modificación de la Ley 19/1994, de 6 de julio,\nde modificación del Régimen Económico y Fiscal de Canarias, para la\nregulación de las inversiones en elementos patrimoniales afectos a la\nactividad de arrendamiento de vivienda en las Islas Canarias.",
+        "type": "regular",
+        "nativeType": "ES-ley"
+      },
+      "dateStart": "2025-07-22T12:40:00+02:00",
+      "dateEnd": "2025-07-22T12:47:00+02:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_128/cortes/15_000400_128_0_26377_757717.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1557717I",
+        "duration": 420.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_128_0_26377_757717",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Carlos Martín Urriza",
+          "lastname": "Martín Urriza",
+          "firstname": "Carlos",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Plurinacional SUMAR"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 15
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 132
+      },
+      "agendaItem": {
+        "title": "Proposición de Ley de modificación de la Ley 19/1994, de 6 de julio,\nde modificación del Régimen Económico y Fiscal de Canarias, para la\nregulación de las inversiones en elementos patrimoniales afectos a la\nactividad de arrendamiento de vivienda en las Islas Canarias.",
+        "officialTitle": "Proposición de Ley de modificación de la Ley 19/1994, de 6 de julio,\nde modificación del Régimen Económico y Fiscal de Canarias, para la\nregulación de las inversiones en elementos patrimoniales afectos a la\nactividad de arrendamiento de vivienda en las Islas Canarias.",
+        "type": "regular",
+        "nativeType": "ES-ley"
+      },
+      "dateStart": "2025-07-22T12:47:00+02:00",
+      "dateEnd": "2025-07-22T12:55:00+02:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_128/cortes/15_000400_128_0_26377_757718.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1557718I",
+        "duration": 480.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_128_0_26377_757718",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Andrés Alberto Rodríguez Almeida",
+          "lastname": "Rodríguez Almeida",
+          "firstname": "Andrés Alberto",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario VOX"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 16
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 132
+      },
+      "agendaItem": {
+        "title": "Proposición de Ley de modificación de la Ley 19/1994, de 6 de julio,\nde modificación del Régimen Económico y Fiscal de Canarias, para la\nregulación de las inversiones en elementos patrimoniales afectos a la\nactividad de arrendamiento de vivienda en las Islas Canarias.",
+        "officialTitle": "Proposición de Ley de modificación de la Ley 19/1994, de 6 de julio,\nde modificación del Régimen Económico y Fiscal de Canarias, para la\nregulación de las inversiones en elementos patrimoniales afectos a la\nactividad de arrendamiento de vivienda en las Islas Canarias.",
+        "type": "regular",
+        "nativeType": "ES-ley"
+      },
+      "dateStart": "2025-07-22T12:55:00+02:00",
+      "dateEnd": "2025-07-22T13:05:00+02:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_128/cortes/15_000400_128_0_26377_757719.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1557719I",
+        "duration": 600.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_128_0_26377_757719",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Alicia Álvarez González",
+          "lastname": "Álvarez González",
+          "firstname": "Alicia",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Socialista"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 17
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 132
+      },
+      "agendaItem": {
+        "title": "Proposición de Ley de modificación de la Ley 19/1994, de 6 de julio,\nde modificación del Régimen Económico y Fiscal de Canarias, para la\nregulación de las inversiones en elementos patrimoniales afectos a la\nactividad de arrendamiento de vivienda en las Islas Canarias.",
+        "officialTitle": "Proposición de Ley de modificación de la Ley 19/1994, de 6 de julio,\nde modificación del Régimen Económico y Fiscal de Canarias, para la\nregulación de las inversiones en elementos patrimoniales afectos a la\nactividad de arrendamiento de vivienda en las Islas Canarias.",
+        "type": "regular",
+        "nativeType": "ES-ley"
+      },
+      "dateStart": "2025-07-22T13:05:00+02:00",
+      "dateEnd": "2025-07-22T13:14:00+02:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_128/cortes/15_000400_128_0_26377_757720.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1557720I",
+        "duration": 540.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_128_0_26377_757720",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Jimena Delgado-Taramona Hernández",
+          "lastname": "Delgado-Taramona Hernández",
+          "firstname": "Jimena",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Popular en el Congreso"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 18
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 132
+      },
+      "agendaItem": {
+        "title": "Proposición de reforma del Reglamento del Congreso de los Diputados.",
+        "officialTitle": "Proposición de reforma del Reglamento del Congreso de los Diputados.",
+        "type": "rules_of_procedure",
+        "nativeType": "ES-reglamento"
+      },
+      "dateStart": "2025-07-22T13:15:00+02:00",
+      "dateEnd": "2025-07-22T13:21:00+02:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_128/cortes/15_000400_128_0_26377_757723.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1557723I",
+        "duration": 360.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_128_0_26377_757723",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Àgueda Micó Micó",
+          "lastname": "Micó Micó",
+          "firstname": "Àgueda",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Mixto"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 19
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 132
+      },
+      "agendaItem": {
+        "title": "Proposición de reforma del Reglamento del Congreso de los Diputados.",
+        "officialTitle": "Proposición de reforma del Reglamento del Congreso de los Diputados.",
+        "type": "rules_of_procedure",
+        "nativeType": "ES-reglamento"
+      },
+      "dateStart": "2025-07-22T13:21:00+02:00",
+      "dateEnd": "2025-07-22T13:26:00+02:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_128/cortes/15_000400_128_0_26377_757724.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1557724I",
+        "duration": 300.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_128_0_26377_757724",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Mikel Legarda Uriarte",
+          "lastname": "Legarda Uriarte",
+          "firstname": "Mikel",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Vasco (EAJ-PNV)"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 20
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 132
+      },
+      "agendaItem": {
+        "title": "Proposición de reforma del Reglamento del Congreso de los Diputados.",
+        "officialTitle": "Proposición de reforma del Reglamento del Congreso de los Diputados.",
+        "type": "rules_of_procedure",
+        "nativeType": "ES-reglamento"
+      },
+      "dateStart": "2025-07-22T13:26:00+02:00",
+      "dateEnd": "2025-07-22T13:35:00+02:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_128/cortes/15_000400_128_0_26377_757725.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1557725I",
+        "duration": 540.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_128_0_26377_757725",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Esther Gil de Reboleño Lastortres",
+          "lastname": "Gil de Reboleño Lastortres",
+          "firstname": "Esther",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Plurinacional SUMAR"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 21
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 132
+      },
+      "agendaItem": {
+        "title": "Proposición de reforma del Reglamento del Congreso de los Diputados.",
+        "officialTitle": "Proposición de reforma del Reglamento del Congreso de los Diputados.",
+        "type": "rules_of_procedure",
+        "nativeType": "ES-reglamento"
+      },
+      "dateStart": "2025-07-22T13:35:00+02:00",
+      "dateEnd": "2025-07-22T13:43:00+02:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_128/cortes/15_000400_128_0_26377_757726.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1557726I",
+        "duration": 480.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_128_0_26377_757726",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Lourdes Méndez Monasterio",
+          "lastname": "Méndez Monasterio",
+          "firstname": "Lourdes",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario VOX"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 22
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 132
+      },
+      "agendaItem": {
+        "title": "Proposición de reforma del Reglamento del Congreso de los Diputados.",
+        "officialTitle": "Proposición de reforma del Reglamento del Congreso de los Diputados.",
+        "type": "rules_of_procedure",
+        "nativeType": "ES-reglamento"
+      },
+      "dateStart": "2025-07-22T13:43:00+02:00",
+      "dateEnd": "2025-07-22T13:51:00+02:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_128/cortes/15_000400_128_0_26377_757727.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1557727I",
+        "duration": 480.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_128_0_26377_757727",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Andrea Fernández Benéitez",
+          "lastname": "Fernández Benéitez",
+          "firstname": "Andrea",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Socialista"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 23
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 132
+      },
+      "agendaItem": {
+        "title": "Proposición de reforma del Reglamento del Congreso de los Diputados.",
+        "officialTitle": "Proposición de reforma del Reglamento del Congreso de los Diputados.",
+        "type": "rules_of_procedure",
+        "nativeType": "ES-reglamento"
+      },
+      "dateStart": "2025-07-22T13:51:00+02:00",
+      "dateEnd": "2025-07-22T13:59:00+02:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_128/cortes/15_000400_128_0_26377_757728.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1557728I",
+        "duration": 480.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_128_0_26377_757728",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Marta González Vázquez",
+          "lastname": "González Vázquez",
+          "firstname": "Marta",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Popular en el Congreso"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 24
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 132
+      },
+      "agendaItem": {
+        "title": "Proposición de reforma del Reglamento del Congreso de los Diputados.",
+        "officialTitle": "Proposición de reforma del Reglamento del Congreso de los Diputados.",
+        "type": "rules_of_procedure",
+        "nativeType": "ES-reglamento"
+      },
+      "dateStart": "2025-07-22T14:00:00+02:00",
+      "dateEnd": "2025-07-22T14:07:00+02:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_128/cortes/15_000400_128_0_26377_757730.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1557730I",
+        "duration": 420.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_128_0_26377_757730",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Jacobo González-Robatto Perote",
+          "lastname": "González-Robatto Perote",
+          "firstname": "Jacobo",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario VOX"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 25
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 132
+      },
+      "agendaItem": {
+        "title": "Proposición de reforma del Reglamento del Congreso de los Diputados.",
+        "officialTitle": "Proposición de reforma del Reglamento del Congreso de los Diputados.",
+        "type": "rules_of_procedure",
+        "nativeType": "ES-reglamento"
+      },
+      "dateStart": "2025-07-22T14:07:00+02:00",
+      "dateEnd": "2025-07-22T14:16:00+02:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_128/cortes/15_000400_128_0_26377_757731.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1557731I",
+        "duration": 540.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_128_0_26377_757731",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Carmen Navarro Lacoba",
+          "lastname": "Navarro Lacoba",
+          "firstname": "Carmen",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Popular en el Congreso"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 26
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 132
+      },
+      "agendaItem": {
+        "title": "Proposición de reforma del Reglamento del Congreso de los Diputados.",
+        "officialTitle": "Proposición de reforma del Reglamento del Congreso de los Diputados.",
+        "type": "rules_of_procedure",
+        "nativeType": "ES-reglamento"
+      },
+      "dateStart": "2025-07-22T14:16:00+02:00",
+      "dateEnd": "2025-07-22T14:19:00+02:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_128/cortes/15_000400_128_0_26377_757732.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1557732I",
+        "duration": 180.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_128_0_26377_757732",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Alberto Catalán Higueras",
+          "lastname": "Catalán Higueras",
+          "firstname": "Alberto",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Mixto"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 27
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 132
+      },
+      "agendaItem": {
+        "title": "Proposición de reforma del Reglamento del Congreso de los Diputados.",
+        "officialTitle": "Proposición de reforma del Reglamento del Congreso de los Diputados.",
+        "type": "rules_of_procedure",
+        "nativeType": "ES-reglamento"
+      },
+      "dateStart": "2025-07-22T14:19:00+02:00",
+      "dateEnd": "2025-07-22T14:22:00+02:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_128/cortes/15_000400_128_0_26377_757733.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1557733I",
+        "duration": 180.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_128_0_26377_757733",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Néstor Rego Candamil",
+          "lastname": "Rego Candamil",
+          "firstname": "Néstor",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Mixto"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 28
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 132
+      },
+      "agendaItem": {
+        "title": "Proposición de reforma del Reglamento del Congreso de los Diputados.",
+        "officialTitle": "Proposición de reforma del Reglamento del Congreso de los Diputados.",
+        "type": "rules_of_procedure",
+        "nativeType": "ES-reglamento"
+      },
+      "dateStart": "2025-07-22T14:22:00+02:00",
+      "dateEnd": "2025-07-22T14:25:00+02:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_128/cortes/15_000400_128_0_26377_757734.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1557734I",
+        "duration": 180.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_128_0_26377_757734",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Ione Belarra Urteaga",
+          "lastname": "Belarra Urteaga",
+          "firstname": "Ione",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Mixto"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 29
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 132
+      },
+      "agendaItem": {
+        "title": "Proposición de reforma del Reglamento del Congreso de los Diputados.",
+        "officialTitle": "Proposición de reforma del Reglamento del Congreso de los Diputados.",
+        "type": "rules_of_procedure",
+        "nativeType": "ES-reglamento"
+      },
+      "dateStart": "2025-07-22T14:25:00+02:00",
+      "dateEnd": "2025-07-22T14:31:00+02:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_128/cortes/15_000400_128_0_26377_757737.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1557737I",
+        "duration": 360.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_128_0_26377_757737",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Mikel Legarda Uriarte",
+          "lastname": "Legarda Uriarte",
+          "firstname": "Mikel",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Vasco (EAJ-PNV)"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 30
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 132
+      },
+      "agendaItem": {
+        "title": "Proposición de reforma del Reglamento del Congreso de los Diputados.",
+        "officialTitle": "Proposición de reforma del Reglamento del Congreso de los Diputados.",
+        "type": "rules_of_procedure",
+        "nativeType": "ES-reglamento"
+      },
+      "dateStart": "2025-07-22T14:31:00+02:00",
+      "dateEnd": "2025-07-22T14:39:00+02:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_128/cortes/15_000400_128_0_26377_757738.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1557738I",
+        "duration": 480.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_128_0_26377_757738",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Jon Iñarritu García",
+          "lastname": "Iñarritu García",
+          "firstname": "Jon",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Euskal Herria Bildu"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 31
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 132
+      },
+      "agendaItem": {
+        "title": "Proposición de reforma del Reglamento del Congreso de los Diputados.",
+        "officialTitle": "Proposición de reforma del Reglamento del Congreso de los Diputados.",
+        "type": "rules_of_procedure",
+        "nativeType": "ES-reglamento"
+      },
+      "dateStart": "2025-07-22T14:39:00+02:00",
+      "dateEnd": "2025-07-22T14:47:00+02:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_128/cortes/15_000400_128_1_26380_757742.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1557742I",
+        "duration": 480.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_128_1_26380_757742",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Josep Maria Cervera Pinart",
+          "lastname": "Cervera Pinart",
+          "firstname": "Josep Maria",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Junts per Catalunya"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 32
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 132
+      },
+      "agendaItem": {
+        "title": "Proposición de reforma del Reglamento del Congreso de los Diputados.",
+        "officialTitle": "Proposición de reforma del Reglamento del Congreso de los Diputados.",
+        "type": "rules_of_procedure",
+        "nativeType": "ES-reglamento"
+      },
+      "dateStart": "2025-07-22T14:47:00+02:00",
+      "dateEnd": "2025-07-22T14:54:00+02:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_128/cortes/15_000400_128_1_26380_757743.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1557743I",
+        "duration": 420.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_128_1_26380_757743",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Gabriel Rufián Romero",
+          "lastname": "Rufián Romero",
+          "firstname": "Gabriel",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Republicano"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 33
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 132
+      },
+      "agendaItem": {
+        "title": "Proposición de reforma del Reglamento del Congreso de los Diputados.",
+        "officialTitle": "Proposición de reforma del Reglamento del Congreso de los Diputados.",
+        "type": "rules_of_procedure",
+        "nativeType": "ES-reglamento"
+      },
+      "dateStart": "2025-07-22T14:54:00+02:00",
+      "dateEnd": "2025-07-22T15:03:00+02:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_128/cortes/15_000400_128_1_26380_757744.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1557744I",
+        "duration": 540.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_128_1_26380_757744",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Francisco Sierra Caballero",
+          "lastname": "Sierra Caballero",
+          "firstname": "Francisco",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Plurinacional SUMAR"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 34
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 132
+      },
+      "agendaItem": {
+        "title": "Proposición de reforma del Reglamento del Congreso de los Diputados.",
+        "officialTitle": "Proposición de reforma del Reglamento del Congreso de los Diputados.",
+        "type": "rules_of_procedure",
+        "nativeType": "ES-reglamento"
+      },
+      "dateStart": "2025-07-22T15:03:00+02:00",
+      "dateEnd": "2025-07-22T15:12:00+02:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_128/cortes/15_000400_128_1_26380_757745.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1557745I",
+        "duration": 540.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_128_1_26380_757745",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Joaquín Martínez Salmerón",
+          "lastname": "Martínez Salmerón",
+          "firstname": "Joaquín",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Socialista"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 35
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 132
+      },
+      "agendaItem": {
+        "title": "Real Decreto-ley 6/2025, de 17 de junio, por el que se adoptan\nmedidas relativas a los recursos de los sistemas de financiación\nterritorial.",
+        "officialTitle": "Real Decreto-ley 6/2025, de 17 de junio, por el que se adoptan\nmedidas relativas a los recursos de los sistemas de financiación\nterritorial.",
+        "type": "regular",
+        "nativeType": "ES-ley"
+      },
+      "dateStart": "2025-07-22T15:15:00+02:00",
+      "dateEnd": "2025-07-22T15:38:00+02:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_128/cortes/15_000400_128_1_26380_757749.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1557749I",
+        "duration": 1380.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_128_1_26380_757749",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "María Jesús Montero Cuadrado",
+          "lastname": "Montero Cuadrado",
+          "firstname": "María Jesús",
+          "type": "member of government",
+          "role": "Vicepresidenta Primera del Gobierno y Ministra de Hacienda",
+          "faction": {
+            "label": "Grupo Parlamentario Socialista"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 36
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 132
+      },
+      "agendaItem": {
+        "title": "Real Decreto-ley 6/2025, de 17 de junio, por el que se adoptan\nmedidas relativas a los recursos de los sistemas de financiación\nterritorial.",
+        "officialTitle": "Real Decreto-ley 6/2025, de 17 de junio, por el que se adoptan\nmedidas relativas a los recursos de los sistemas de financiación\nterritorial.",
+        "type": "regular",
+        "nativeType": "ES-ley"
+      },
+      "dateStart": "2025-07-22T15:38:00+02:00",
+      "dateEnd": "2025-07-22T15:41:00+02:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_128/cortes/15_000400_128_1_26380_757750.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1557750I",
+        "duration": 180.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_128_1_26380_757750",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Àgueda Micó Micó",
+          "lastname": "Micó Micó",
+          "firstname": "Àgueda",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Mixto"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 37
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 132
+      },
+      "agendaItem": {
+        "title": "Real Decreto-ley 6/2025, de 17 de junio, por el que se adoptan\nmedidas relativas a los recursos de los sistemas de financiación\nterritorial.",
+        "officialTitle": "Real Decreto-ley 6/2025, de 17 de junio, por el que se adoptan\nmedidas relativas a los recursos de los sistemas de financiación\nterritorial.",
+        "type": "regular",
+        "nativeType": "ES-ley"
+      },
+      "dateStart": "2025-07-22T15:41:00+02:00",
+      "dateEnd": "2025-07-22T15:45:00+02:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_128/cortes/15_000400_128_1_26380_757751.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1557751I",
+        "duration": 240.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_128_1_26380_757751",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Néstor Rego Candamil",
+          "lastname": "Rego Candamil",
+          "firstname": "Néstor",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Mixto"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 38
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 132
+      },
+      "agendaItem": {
+        "title": "Real Decreto-ley 6/2025, de 17 de junio, por el que se adoptan\nmedidas relativas a los recursos de los sistemas de financiación\nterritorial.",
+        "officialTitle": "Real Decreto-ley 6/2025, de 17 de junio, por el que se adoptan\nmedidas relativas a los recursos de los sistemas de financiación\nterritorial.",
+        "type": "regular",
+        "nativeType": "ES-ley"
+      },
+      "dateStart": "2025-07-22T15:49:00+02:00",
+      "dateEnd": "2025-07-22T15:50:00+02:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_128/cortes/15_000400_128_1_26380_757753.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1557753I",
+        "duration": 60.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_128_1_26380_757753",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Idoia Sagastizabal Unzetabarrenetxea",
+          "lastname": "Sagastizabal Unzetabarrenetxea",
+          "firstname": "Idoia",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Vasco (EAJ-PNV)"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 39
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 132
+      },
+      "agendaItem": {
+        "title": "Real Decreto-ley 6/2025, de 17 de junio, por el que se adoptan\nmedidas relativas a los recursos de los sistemas de financiación\nterritorial.",
+        "officialTitle": "Real Decreto-ley 6/2025, de 17 de junio, por el que se adoptan\nmedidas relativas a los recursos de los sistemas de financiación\nterritorial.",
+        "type": "regular",
+        "nativeType": "ES-ley"
+      },
+      "dateStart": "2025-07-22T15:50:00+02:00",
+      "dateEnd": "2025-07-22T15:58:00+02:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_128/cortes/15_000400_128_1_26380_757754.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1557754I",
+        "duration": 480.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_128_1_26380_757754",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Mertxe Aizpurua Arzallus",
+          "lastname": "Aizpurua Arzallus",
+          "firstname": "Mertxe",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Euskal Herria Bildu"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 40
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 132
+      },
+      "agendaItem": {
+        "title": "Real Decreto-ley 6/2025, de 17 de junio, por el que se adoptan\nmedidas relativas a los recursos de los sistemas de financiación\nterritorial.",
+        "officialTitle": "Real Decreto-ley 6/2025, de 17 de junio, por el que se adoptan\nmedidas relativas a los recursos de los sistemas de financiación\nterritorial.",
+        "type": "regular",
+        "nativeType": "ES-ley"
+      },
+      "dateStart": "2025-07-22T15:58:00+02:00",
+      "dateEnd": "2025-07-22T16:06:00+02:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_128/cortes/15_000400_128_1_26380_757755.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1557755I",
+        "duration": 480.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_128_1_26380_757755",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Teresa Jordà i Roura",
+          "lastname": "Jordà i Roura",
+          "firstname": "Teresa",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Republicano"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 41
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 132
+      },
+      "agendaItem": {
+        "title": "Real Decreto-ley 6/2025, de 17 de junio, por el que se adoptan\nmedidas relativas a los recursos de los sistemas de financiación\nterritorial.",
+        "officialTitle": "Real Decreto-ley 6/2025, de 17 de junio, por el que se adoptan\nmedidas relativas a los recursos de los sistemas de financiación\nterritorial.",
+        "type": "regular",
+        "nativeType": "ES-ley"
+      },
+      "dateStart": "2025-07-22T16:06:00+02:00",
+      "dateEnd": "2025-07-22T16:16:00+02:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_128/cortes/15_000400_128_1_26380_757756.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1557756I",
+        "duration": 600.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_128_1_26380_757756",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Engracia Rivera Arias",
+          "lastname": "Rivera Arias",
+          "firstname": "Engracia",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Plurinacional SUMAR"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 42
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 132
+      },
+      "agendaItem": {
+        "title": "Real Decreto-ley 6/2025, de 17 de junio, por el que se adoptan\nmedidas relativas a los recursos de los sistemas de financiación\nterritorial.",
+        "officialTitle": "Real Decreto-ley 6/2025, de 17 de junio, por el que se adoptan\nmedidas relativas a los recursos de los sistemas de financiación\nterritorial.",
+        "type": "regular",
+        "nativeType": "ES-ley"
+      },
+      "dateStart": "2025-07-22T16:16:00+02:00",
+      "dateEnd": "2025-07-22T16:25:00+02:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_128/cortes/15_000400_128_1_26380_757757.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1557757I",
+        "duration": 540.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_128_1_26380_757757",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Pablo Sáez Alonso-Muñumer",
+          "lastname": "Sáez Alonso-Muñumer",
+          "firstname": "Pablo",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario VOX"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 43
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 132
+      },
+      "agendaItem": {
+        "title": "Real Decreto-ley 6/2025, de 17 de junio, por el que se adoptan\nmedidas relativas a los recursos de los sistemas de financiación\nterritorial.",
+        "officialTitle": "Real Decreto-ley 6/2025, de 17 de junio, por el que se adoptan\nmedidas relativas a los recursos de los sistemas de financiación\nterritorial.",
+        "type": "regular",
+        "nativeType": "ES-ley"
+      },
+      "dateStart": "2025-07-22T16:25:00+02:00",
+      "dateEnd": "2025-07-22T16:34:00+02:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_128/cortes/15_000400_128_1_26380_757758.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1557758I",
+        "duration": 540.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_128_1_26380_757758",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Juan Antonio González Gracia",
+          "lastname": "González Gracia",
+          "firstname": "Juan Antonio",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Socialista"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 44
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 132
+      },
+      "agendaItem": {
+        "title": "Real Decreto-ley 6/2025, de 17 de junio, por el que se adoptan\nmedidas relativas a los recursos de los sistemas de financiación\nterritorial.",
+        "officialTitle": "Real Decreto-ley 6/2025, de 17 de junio, por el que se adoptan\nmedidas relativas a los recursos de los sistemas de financiación\nterritorial.",
+        "type": "regular",
+        "nativeType": "ES-ley"
+      },
+      "dateStart": "2025-07-22T16:34:00+02:00",
+      "dateEnd": "2025-07-22T16:43:00+02:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_128/cortes/15_000400_128_1_26380_757759.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1557759I",
+        "duration": 540.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_128_1_26380_757759",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Pedro Puy Fraga",
+          "lastname": "Puy Fraga",
+          "firstname": "Pedro",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Popular en el Congreso"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 45
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 132
+      },
+      "agendaItem": {
+        "title": "Real Decreto-ley 7/2025, de 24 de junio, por el que se aprueban\nmedidas urgentes para el refuerzo del sistema eléctrico.",
+        "officialTitle": "Real Decreto-ley 7/2025, de 24 de junio, por el que se aprueban\nmedidas urgentes para el refuerzo del sistema eléctrico.",
+        "type": "regular",
+        "nativeType": "ES-ley"
+      },
+      "dateStart": "2025-07-22T16:44:00+02:00",
+      "dateEnd": "2025-07-22T17:16:00+02:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_128/cortes/15_000400_128_1_26380_757761.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1557761I",
+        "duration": 1920.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_128_1_26380_757761",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Sara Aagesen Muñoz",
+          "lastname": "Aagesen Muñoz",
+          "firstname": "Sara",
+          "type": "member of government",
+          "role": "Vicepresidenta Tercera y Ministra para la Transición Ecológica y el\nReto Demográfico"
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 46
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 132
+      },
+      "agendaItem": {
+        "title": "Real Decreto-ley 7/2025, de 24 de junio, por el que se aprueban\nmedidas urgentes para el refuerzo del sistema eléctrico.",
+        "officialTitle": "Real Decreto-ley 7/2025, de 24 de junio, por el que se aprueban\nmedidas urgentes para el refuerzo del sistema eléctrico.",
+        "type": "regular",
+        "nativeType": "ES-ley"
+      },
+      "dateStart": "2025-07-22T17:16:00+02:00",
+      "dateEnd": "2025-07-22T17:18:00+02:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_128/cortes/15_000400_128_1_26380_757762.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1557762I",
+        "duration": 120.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_128_1_26380_757762",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Àgueda Micó Micó",
+          "lastname": "Micó Micó",
+          "firstname": "Àgueda",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Mixto"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 47
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 132
+      },
+      "agendaItem": {
+        "title": "Real Decreto-ley 7/2025, de 24 de junio, por el que se aprueban\nmedidas urgentes para el refuerzo del sistema eléctrico.",
+        "officialTitle": "Real Decreto-ley 7/2025, de 24 de junio, por el que se aprueban\nmedidas urgentes para el refuerzo del sistema eléctrico.",
+        "type": "regular",
+        "nativeType": "ES-ley"
+      },
+      "dateStart": "2025-07-22T17:18:00+02:00",
+      "dateEnd": "2025-07-22T17:21:00+02:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_128/cortes/15_000400_128_1_26380_757763.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1557763I",
+        "duration": 180.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_128_1_26380_757763",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Cristina Valido García",
+          "lastname": "Valido García",
+          "firstname": "Cristina",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Mixto"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 48
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 132
+      },
+      "agendaItem": {
+        "title": "Real Decreto-ley 7/2025, de 24 de junio, por el que se aprueban\nmedidas urgentes para el refuerzo del sistema eléctrico.",
+        "officialTitle": "Real Decreto-ley 7/2025, de 24 de junio, por el que se aprueban\nmedidas urgentes para el refuerzo del sistema eléctrico.",
+        "type": "regular",
+        "nativeType": "ES-ley"
+      },
+      "dateStart": "2025-07-22T17:21:00+02:00",
+      "dateEnd": "2025-07-22T17:24:00+02:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_128/cortes/15_000400_128_1_26380_757764.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1557764I",
+        "duration": 180.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_128_1_26380_757764",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Néstor Rego Candamil",
+          "lastname": "Rego Candamil",
+          "firstname": "Néstor",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Mixto"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 49
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 132
+      },
+      "agendaItem": {
+        "title": "Real Decreto-ley 7/2025, de 24 de junio, por el que se aprueban\nmedidas urgentes para el refuerzo del sistema eléctrico.",
+        "officialTitle": "Real Decreto-ley 7/2025, de 24 de junio, por el que se aprueban\nmedidas urgentes para el refuerzo del sistema eléctrico.",
+        "type": "regular",
+        "nativeType": "ES-ley"
+      },
+      "dateStart": "2025-07-22T17:24:00+02:00",
+      "dateEnd": "2025-07-22T17:28:00+02:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_128/cortes/15_000400_128_1_26380_757765.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1557765I",
+        "duration": 240.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_128_1_26380_757765",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Martina Velarde Gómez",
+          "lastname": "Velarde Gómez",
+          "firstname": "Martina",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Mixto"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 50
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 132
+      },
+      "agendaItem": {
+        "title": "Real Decreto-ley 7/2025, de 24 de junio, por el que se aprueban\nmedidas urgentes para el refuerzo del sistema eléctrico.",
+        "officialTitle": "Real Decreto-ley 7/2025, de 24 de junio, por el que se aprueban\nmedidas urgentes para el refuerzo del sistema eléctrico.",
+        "type": "regular",
+        "nativeType": "ES-ley"
+      },
+      "dateStart": "2025-07-22T17:28:00+02:00",
+      "dateEnd": "2025-07-22T17:36:00+02:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_128/cortes/15_000400_128_1_26380_757766.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1557766I",
+        "duration": 480.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_128_1_26380_757766",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Idoia Sagastizabal Unzetabarrenetxea",
+          "lastname": "Sagastizabal Unzetabarrenetxea",
+          "firstname": "Idoia",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Vasco (EAJ-PNV)"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 51
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 132
+      },
+      "agendaItem": {
+        "title": "Real Decreto-ley 7/2025, de 24 de junio, por el que se aprueban\nmedidas urgentes para el refuerzo del sistema eléctrico.",
+        "officialTitle": "Real Decreto-ley 7/2025, de 24 de junio, por el que se aprueban\nmedidas urgentes para el refuerzo del sistema eléctrico.",
+        "type": "regular",
+        "nativeType": "ES-ley"
+      },
+      "dateStart": "2025-07-22T17:36:00+02:00",
+      "dateEnd": "2025-07-22T17:44:00+02:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_128/cortes/15_000400_128_1_26380_757767.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1557767I",
+        "duration": 480.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_128_1_26380_757767",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Mikel Otero Gabirondo",
+          "lastname": "Otero Gabirondo",
+          "firstname": "Mikel",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Euskal Herria Bildu"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 52
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 132
+      },
+      "agendaItem": {
+        "title": "Real Decreto-ley 7/2025, de 24 de junio, por el que se aprueban\nmedidas urgentes para el refuerzo del sistema eléctrico.",
+        "officialTitle": "Real Decreto-ley 7/2025, de 24 de junio, por el que se aprueban\nmedidas urgentes para el refuerzo del sistema eléctrico.",
+        "type": "regular",
+        "nativeType": "ES-ley"
+      },
+      "dateStart": "2025-07-22T17:44:00+02:00",
+      "dateEnd": "2025-07-22T17:52:00+02:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_128/cortes/15_000400_128_1_26380_757768.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1557768I",
+        "duration": 480.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_128_1_26380_757768",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Míriam Nogueras i Camero",
+          "lastname": "Nogueras i Camero",
+          "firstname": "Míriam",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Junts per Catalunya"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 53
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 132
+      },
+      "agendaItem": {
+        "title": "Real Decreto-ley 7/2025, de 24 de junio, por el que se aprueban\nmedidas urgentes para el refuerzo del sistema eléctrico.",
+        "officialTitle": "Real Decreto-ley 7/2025, de 24 de junio, por el que se aprueban\nmedidas urgentes para el refuerzo del sistema eléctrico.",
+        "type": "regular",
+        "nativeType": "ES-ley"
+      },
+      "dateStart": "2025-07-22T17:52:00+02:00",
+      "dateEnd": "2025-07-22T18:01:00+02:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_128/cortes/15_000400_128_1_26380_757769.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1557769I",
+        "duration": 540.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_128_1_26380_757769",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Teresa Jordà i Roura",
+          "lastname": "Jordà i Roura",
+          "firstname": "Teresa",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Republicano"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 54
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 132
+      },
+      "agendaItem": {
+        "title": "Real Decreto-ley 7/2025, de 24 de junio, por el que se aprueban\nmedidas urgentes para el refuerzo del sistema eléctrico.",
+        "officialTitle": "Real Decreto-ley 7/2025, de 24 de junio, por el que se aprueban\nmedidas urgentes para el refuerzo del sistema eléctrico.",
+        "type": "regular",
+        "nativeType": "ES-ley"
+      },
+      "dateStart": "2025-07-22T18:01:00+02:00",
+      "dateEnd": "2025-07-22T18:10:00+02:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_128/cortes/15_000400_128_1_26380_757770.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1557770I",
+        "duration": 540.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_128_1_26380_757770",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Eloi Badia Casas",
+          "lastname": "Badia Casas",
+          "firstname": "Eloi",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Plurinacional SUMAR"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 55
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 132
+      },
+      "agendaItem": {
+        "title": "Real Decreto-ley 7/2025, de 24 de junio, por el que se aprueban\nmedidas urgentes para el refuerzo del sistema eléctrico.",
+        "officialTitle": "Real Decreto-ley 7/2025, de 24 de junio, por el que se aprueban\nmedidas urgentes para el refuerzo del sistema eléctrico.",
+        "type": "regular",
+        "nativeType": "ES-ley"
+      },
+      "dateStart": "2025-07-22T18:10:00+02:00",
+      "dateEnd": "2025-07-22T18:19:00+02:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_128/cortes/15_000400_128_1_26380_757771.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1557771I",
+        "duration": 540.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_128_1_26380_757771",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "José María Figaredo Álvarez-Sala",
+          "lastname": "Figaredo Álvarez-Sala",
+          "firstname": "José María",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario VOX"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 56
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 132
+      },
+      "agendaItem": {
+        "title": "Real Decreto-ley 7/2025, de 24 de junio, por el que se aprueban\nmedidas urgentes para el refuerzo del sistema eléctrico.",
+        "officialTitle": "Real Decreto-ley 7/2025, de 24 de junio, por el que se aprueban\nmedidas urgentes para el refuerzo del sistema eléctrico.",
+        "type": "regular",
+        "nativeType": "ES-ley"
+      },
+      "dateStart": "2025-07-22T18:19:00+02:00",
+      "dateEnd": "2025-07-22T18:28:00+02:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_128/cortes/15_000400_128_1_26380_757772.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1557772I",
+        "duration": 540.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_128_1_26380_757772",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "María de las Nieves Ramírez Moreno",
+          "lastname": "Ramírez Moreno",
+          "firstname": "María de las Nieves",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Socialista"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 57
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 132
+      },
+      "agendaItem": {
+        "title": "Real Decreto-ley 7/2025, de 24 de junio, por el que se aprueban\nmedidas urgentes para el refuerzo del sistema eléctrico.",
+        "officialTitle": "Real Decreto-ley 7/2025, de 24 de junio, por el que se aprueban\nmedidas urgentes para el refuerzo del sistema eléctrico.",
+        "type": "regular",
+        "nativeType": "ES-ley"
+      },
+      "dateStart": "2025-07-22T18:28:00+02:00",
+      "dateEnd": "2025-07-22T18:37:00+02:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_128/cortes/15_000400_128_1_26380_757773.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1557773I",
+        "duration": 540.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_128_1_26380_757773",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Guillermo Mariscal Anaya",
+          "lastname": "Mariscal Anaya",
+          "firstname": "Guillermo",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Popular en el Congreso"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 58
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 132
+      },
+      "agendaItem": {
+        "title": "Real Decreto-ley 8/2025, de 8 de julio, por el que se declaran\ndiversas iniciativas y programas como acontecimientos de excepcional\ninterés público.",
+        "officialTitle": "Real Decreto-ley 8/2025, de 8 de julio, por el que se declaran\ndiversas iniciativas y programas como acontecimientos de excepcional\ninterés público.",
+        "type": "regular",
+        "nativeType": "ES-ley"
+      },
+      "dateStart": "2025-07-22T18:38:00+02:00",
+      "dateEnd": "2025-07-22T18:44:00+02:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_128/cortes/15_000400_128_2_26382_757779.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1557779I",
+        "duration": 360.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_128_2_26382_757779",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Ernest Urtasun Domènech",
+          "lastname": "Urtasun Domènech",
+          "firstname": "Ernest",
+          "type": "member of government",
+          "role": "Ministro de Cultura"
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 59
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 132
+      },
+      "agendaItem": {
+        "title": "Real Decreto-ley 8/2025, de 8 de julio, por el que se declaran\ndiversas iniciativas y programas como acontecimientos de excepcional\ninterés público.",
+        "officialTitle": "Real Decreto-ley 8/2025, de 8 de julio, por el que se declaran\ndiversas iniciativas y programas como acontecimientos de excepcional\ninterés público.",
+        "type": "regular",
+        "nativeType": "ES-ley"
+      },
+      "dateStart": "2025-07-22T18:44:00+02:00",
+      "dateEnd": "2025-07-22T18:50:00+02:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_128/cortes/15_000400_128_2_26382_757780.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1557780I",
+        "duration": 360.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_128_2_26382_757780",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Néstor Rego Candamil",
+          "lastname": "Rego Candamil",
+          "firstname": "Néstor",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Mixto"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 60
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 132
+      },
+      "agendaItem": {
+        "title": "Real Decreto-ley 8/2025, de 8 de julio, por el que se declaran\ndiversas iniciativas y programas como acontecimientos de excepcional\ninterés público.",
+        "officialTitle": "Real Decreto-ley 8/2025, de 8 de julio, por el que se declaran\ndiversas iniciativas y programas como acontecimientos de excepcional\ninterés público.",
+        "type": "regular",
+        "nativeType": "ES-ley"
+      },
+      "dateStart": "2025-07-22T18:50:00+02:00",
+      "dateEnd": "2025-07-22T18:52:00+02:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_128/cortes/15_000400_128_2_26382_757781.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1557781I",
+        "duration": 120.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_128_2_26382_757781",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Joseba Andoni Agirretxea Urresti",
+          "lastname": "Agirretxea Urresti",
+          "firstname": "Joseba Andoni",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Vasco (EAJ-PNV)"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 61
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 132
+      },
+      "agendaItem": {
+        "title": "Real Decreto-ley 8/2025, de 8 de julio, por el que se declaran\ndiversas iniciativas y programas como acontecimientos de excepcional\ninterés público.",
+        "officialTitle": "Real Decreto-ley 8/2025, de 8 de julio, por el que se declaran\ndiversas iniciativas y programas como acontecimientos de excepcional\ninterés público.",
+        "type": "regular",
+        "nativeType": "ES-ley"
+      },
+      "dateStart": "2025-07-22T18:52:00+02:00",
+      "dateEnd": "2025-07-22T18:54:00+02:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_128/cortes/15_000400_128_2_26382_757782.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1557782I",
+        "duration": 120.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_128_2_26382_757782",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Francesc-Marc Álvaro Vidal",
+          "lastname": "Álvaro Vidal",
+          "firstname": "Francesc-Marc",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Republicano"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 62
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 132
+      },
+      "agendaItem": {
+        "title": "Real Decreto-ley 8/2025, de 8 de julio, por el que se declaran\ndiversas iniciativas y programas como acontecimientos de excepcional\ninterés público.",
+        "officialTitle": "Real Decreto-ley 8/2025, de 8 de julio, por el que se declaran\ndiversas iniciativas y programas como acontecimientos de excepcional\ninterés público.",
+        "type": "regular",
+        "nativeType": "ES-ley"
+      },
+      "dateStart": "2025-07-22T18:54:00+02:00",
+      "dateEnd": "2025-07-22T18:59:00+02:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_128/cortes/15_000400_128_2_26382_757783.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1557783I",
+        "duration": 300.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_128_2_26382_757783",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Jorge Pueyo Sanz",
+          "lastname": "Pueyo Sanz",
+          "firstname": "Jorge",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Plurinacional SUMAR"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 63
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 132
+      },
+      "agendaItem": {
+        "title": "Real Decreto-ley 8/2025, de 8 de julio, por el que se declaran\ndiversas iniciativas y programas como acontecimientos de excepcional\ninterés público.",
+        "officialTitle": "Real Decreto-ley 8/2025, de 8 de julio, por el que se declaran\ndiversas iniciativas y programas como acontecimientos de excepcional\ninterés público.",
+        "type": "regular",
+        "nativeType": "ES-ley"
+      },
+      "dateStart": "2025-07-22T18:59:00+02:00",
+      "dateEnd": "2025-07-22T19:08:00+02:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_128/cortes/15_000400_128_2_26382_757784.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1557784I",
+        "duration": 540.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_128_2_26382_757784",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "José Ramírez del Río",
+          "lastname": "Ramírez del Río",
+          "firstname": "José",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario VOX"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 64
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 132
+      },
+      "agendaItem": {
+        "title": "Real Decreto-ley 8/2025, de 8 de julio, por el que se declaran\ndiversas iniciativas y programas como acontecimientos de excepcional\ninterés público.",
+        "officialTitle": "Real Decreto-ley 8/2025, de 8 de julio, por el que se declaran\ndiversas iniciativas y programas como acontecimientos de excepcional\ninterés público.",
+        "type": "regular",
+        "nativeType": "ES-ley"
+      },
+      "dateStart": "2025-07-22T19:08:00+02:00",
+      "dateEnd": "2025-07-22T19:16:00+02:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_128/cortes/15_000400_128_2_26382_757785.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1557785I",
+        "duration": 480.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_128_2_26382_757785",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Amador Marqués Atés",
+          "lastname": "Marqués Atés",
+          "firstname": "Amador",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Socialista"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 65
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 132
+      },
+      "agendaItem": {
+        "title": "Real Decreto-ley 8/2025, de 8 de julio, por el que se declaran\ndiversas iniciativas y programas como acontecimientos de excepcional\ninterés público.",
+        "officialTitle": "Real Decreto-ley 8/2025, de 8 de julio, por el que se declaran\ndiversas iniciativas y programas como acontecimientos de excepcional\ninterés público.",
+        "type": "regular",
+        "nativeType": "ES-ley"
+      },
+      "dateStart": "2025-07-22T19:16:00+02:00",
+      "dateEnd": "2025-07-22T19:25:00+02:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_128/cortes/15_000400_128_2_26382_757786.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1557786I",
+        "duration": 540.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_128_2_26382_757786",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "María Soledad Cruz-Guzmán García",
+          "lastname": "Cruz-Guzmán García",
+          "firstname": "María Soledad",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Popular en el Congreso"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 66
+    }
+  ]
+}

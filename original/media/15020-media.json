@@ -1,0 +1,668 @@
+{
+  "meta": {
+    "session": "15020",
+    "processing": {
+      "parse_media": "2026-05-23T07:17:41"
+    },
+    "dateStart": "2024-01-30T15:06:00+01:00",
+    "dateEnd": "2024-01-30T16:36:00+01:00"
+  },
+  "data": [
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 20
+      },
+      "agendaItem": {
+        "title": "Juramento o promesa de acatamiento de la Constitución",
+        "officialTitle": "Juramento o promesa de acatamiento de la Constitución",
+        "type": "oath",
+        "nativeType": "ES-juramento"
+      },
+      "dateStart": "2024-01-30T15:06:00+01:00",
+      "dateEnd": "2024-01-30T15:06:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_018/cortes/15_000400_018_0_24548_727921.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1527921I",
+        "duration": 0.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_018_0_24548_727921",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "José Enrique Núñez Guijarro",
+          "lastname": "Núñez Guijarro",
+          "firstname": "José Enrique",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Popular en el Congreso"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 1
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 20
+      },
+      "agendaItem": {
+        "title": "Juramento o promesa de acatamiento de la Constitución",
+        "officialTitle": "Juramento o promesa de acatamiento de la Constitución",
+        "type": "oath",
+        "nativeType": "ES-juramento"
+      },
+      "dateStart": "2024-01-30T15:06:00+01:00",
+      "dateEnd": "2024-01-30T15:06:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_018/cortes/15_000400_018_0_24548_727922.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1527922I",
+        "duration": 0.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_018_0_24548_727922",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Edurne Uriarte Bengoechea",
+          "lastname": "Uriarte Bengoechea",
+          "firstname": "Edurne",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Popular en el Congreso"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 2
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 20
+      },
+      "agendaItem": {
+        "title": "Juramento o promesa de acatamiento de la Constitución",
+        "officialTitle": "Juramento o promesa de acatamiento de la Constitución",
+        "type": "oath",
+        "nativeType": "ES-juramento"
+      },
+      "dateStart": "2024-01-30T15:07:00+01:00",
+      "dateEnd": "2024-01-30T15:07:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_018/cortes/15_000400_018_0_24548_727923.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1527923I",
+        "duration": 0.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_018_0_24548_727923",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Candela López Tagliafico",
+          "lastname": "López Tagliafico",
+          "firstname": "Candela",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Plurinacional SUMAR"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 3
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 20
+      },
+      "agendaItem": {
+        "title": "Proposición de Ley Orgánica de amnistía para la normalización\ninstitucional, política y social en Cataluña.",
+        "officialTitle": "Proposición de Ley Orgánica de amnistía para la normalización\ninstitucional, política y social en Cataluña.",
+        "type": "regular",
+        "nativeType": "ES-ley"
+      },
+      "dateStart": "2024-01-30T15:09:00+01:00",
+      "dateEnd": "2024-01-30T15:17:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_018/cortes/15_000400_018_0_24548_727927.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1527927I",
+        "duration": 480.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_018_0_24548_727927",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Mikel Legarda Uriarte",
+          "lastname": "Legarda Uriarte",
+          "firstname": "Mikel",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Vasco (EAJ-PNV)"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 4
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 20
+      },
+      "agendaItem": {
+        "title": "Proposición de Ley Orgánica de amnistía para la normalización\ninstitucional, política y social en Cataluña.",
+        "officialTitle": "Proposición de Ley Orgánica de amnistía para la normalización\ninstitucional, política y social en Cataluña.",
+        "type": "regular",
+        "nativeType": "ES-ley"
+      },
+      "dateStart": "2024-01-30T15:18:00+01:00",
+      "dateEnd": "2024-01-30T15:27:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_018/cortes/15_000400_018_0_24548_727928.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1527928I",
+        "duration": 540.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_018_0_24548_727928",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Míriam Nogueras i Camero",
+          "lastname": "Nogueras i Camero",
+          "firstname": "Míriam",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Junts per Catalunya"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 5
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 20
+      },
+      "agendaItem": {
+        "title": "Proposición de Ley Orgánica de amnistía para la normalización\ninstitucional, política y social en Cataluña.",
+        "officialTitle": "Proposición de Ley Orgánica de amnistía para la normalización\ninstitucional, política y social en Cataluña.",
+        "type": "regular",
+        "nativeType": "ES-ley"
+      },
+      "dateStart": "2024-01-30T15:28:00+01:00",
+      "dateEnd": "2024-01-30T15:36:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_018/cortes/15_000400_018_0_24548_727929.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1527929I",
+        "duration": 480.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_018_0_24548_727929",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Pilar Vallugera Balañà",
+          "lastname": "Vallugera Balañà",
+          "firstname": "Pilar",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Republicano"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 6
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 20
+      },
+      "agendaItem": {
+        "title": "Proposición de Ley Orgánica de amnistía para la normalización\ninstitucional, política y social en Cataluña.",
+        "officialTitle": "Proposición de Ley Orgánica de amnistía para la normalización\ninstitucional, política y social en Cataluña.",
+        "type": "regular",
+        "nativeType": "ES-ley"
+      },
+      "dateStart": "2024-01-30T15:36:00+01:00",
+      "dateEnd": "2024-01-30T15:39:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_018/cortes/15_000400_018_0_24548_727930.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1527930I",
+        "duration": 180.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_018_0_24548_727930",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Alberto Catalán Higueras",
+          "lastname": "Catalán Higueras",
+          "firstname": "Alberto",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Mixto"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 7
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 20
+      },
+      "agendaItem": {
+        "title": "Proposición de Ley Orgánica de amnistía para la normalización\ninstitucional, política y social en Cataluña.",
+        "officialTitle": "Proposición de Ley Orgánica de amnistía para la normalización\ninstitucional, política y social en Cataluña.",
+        "type": "regular",
+        "nativeType": "ES-ley"
+      },
+      "dateStart": "2024-01-30T15:39:00+01:00",
+      "dateEnd": "2024-01-30T15:41:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_018/cortes/15_000400_018_0_24548_727931.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1527931I",
+        "duration": 120.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_018_0_24548_727931",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Cristina Valido García",
+          "lastname": "Valido García",
+          "firstname": "Cristina",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Mixto"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 8
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 20
+      },
+      "agendaItem": {
+        "title": "Proposición de Ley Orgánica de amnistía para la normalización\ninstitucional, política y social en Cataluña.",
+        "officialTitle": "Proposición de Ley Orgánica de amnistía para la normalización\ninstitucional, política y social en Cataluña.",
+        "type": "regular",
+        "nativeType": "ES-ley"
+      },
+      "dateStart": "2024-01-30T15:42:00+01:00",
+      "dateEnd": "2024-01-30T15:44:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_018/cortes/15_000400_018_0_24548_727932.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1527932I",
+        "duration": 120.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_018_0_24548_727932",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Néstor Rego Candamil",
+          "lastname": "Rego Candamil",
+          "firstname": "Néstor",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Mixto"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 9
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 20
+      },
+      "agendaItem": {
+        "title": "Proposición de Ley Orgánica de amnistía para la normalización\ninstitucional, política y social en Cataluña.",
+        "officialTitle": "Proposición de Ley Orgánica de amnistía para la normalización\ninstitucional, política y social en Cataluña.",
+        "type": "regular",
+        "nativeType": "ES-ley"
+      },
+      "dateStart": "2024-01-30T15:45:00+01:00",
+      "dateEnd": "2024-01-30T15:48:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_018/cortes/15_000400_018_0_24548_727933.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1527933I",
+        "duration": 180.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_018_0_24548_727933",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Martina Velarde Gómez",
+          "lastname": "Velarde Gómez",
+          "firstname": "Martina",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Mixto"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 10
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 20
+      },
+      "agendaItem": {
+        "title": "Proposición de Ley Orgánica de amnistía para la normalización\ninstitucional, política y social en Cataluña.",
+        "officialTitle": "Proposición de Ley Orgánica de amnistía para la normalización\ninstitucional, política y social en Cataluña.",
+        "type": "regular",
+        "nativeType": "ES-ley"
+      },
+      "dateStart": "2024-01-30T15:49:00+01:00",
+      "dateEnd": "2024-01-30T15:58:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_018/cortes/15_000400_018_0_24548_727934.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1527934I",
+        "duration": 540.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_018_0_24548_727934",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Jon Iñarritu García",
+          "lastname": "Iñarritu García",
+          "firstname": "Jon",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Euskal Herria Bildu"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 11
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 20
+      },
+      "agendaItem": {
+        "title": "Proposición de Ley Orgánica de amnistía para la normalización\ninstitucional, política y social en Cataluña.",
+        "officialTitle": "Proposición de Ley Orgánica de amnistía para la normalización\ninstitucional, política y social en Cataluña.",
+        "type": "regular",
+        "nativeType": "ES-ley"
+      },
+      "dateStart": "2024-01-30T15:59:00+01:00",
+      "dateEnd": "2024-01-30T16:05:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_018/cortes/15_000400_018_0_24548_727935.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1527935I",
+        "duration": 360.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_018_0_24548_727935",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Gerardo Pisarello Prados",
+          "lastname": "Pisarello Prados",
+          "firstname": "Gerardo",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Plurinacional SUMAR"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 12
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 20
+      },
+      "agendaItem": {
+        "title": "Proposición de Ley Orgánica de amnistía para la normalización\ninstitucional, política y social en Cataluña.",
+        "officialTitle": "Proposición de Ley Orgánica de amnistía para la normalización\ninstitucional, política y social en Cataluña.",
+        "type": "regular",
+        "nativeType": "ES-ley"
+      },
+      "dateStart": "2024-01-30T16:06:00+01:00",
+      "dateEnd": "2024-01-30T16:14:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_018/cortes/15_000400_018_0_24548_727936.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1527936I",
+        "duration": 480.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_018_0_24548_727936",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Santiago Abascal Conde",
+          "lastname": "Abascal Conde",
+          "firstname": "Santiago",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario VOX"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 13
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 20
+      },
+      "agendaItem": {
+        "title": "Proposición de Ley Orgánica de amnistía para la normalización\ninstitucional, política y social en Cataluña.",
+        "officialTitle": "Proposición de Ley Orgánica de amnistía para la normalización\ninstitucional, política y social en Cataluña.",
+        "type": "regular",
+        "nativeType": "ES-ley"
+      },
+      "dateStart": "2024-01-30T16:15:00+01:00",
+      "dateEnd": "2024-01-30T16:23:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_018/cortes/15_000400_018_0_24548_727937.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1527937I",
+        "duration": 480.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_018_0_24548_727937",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Francisco Aranda Vargas",
+          "lastname": "Aranda Vargas",
+          "firstname": "Francisco",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Socialista"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 14
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 20
+      },
+      "agendaItem": {
+        "title": "Proposición de Ley Orgánica de amnistía para la normalización\ninstitucional, política y social en Cataluña.",
+        "officialTitle": "Proposición de Ley Orgánica de amnistía para la normalización\ninstitucional, política y social en Cataluña.",
+        "type": "regular",
+        "nativeType": "ES-ley"
+      },
+      "dateStart": "2024-01-30T16:23:00+01:00",
+      "dateEnd": "2024-01-30T16:34:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_018/cortes/15_000400_018_0_24548_727938.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1527938I",
+        "duration": 660.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_018_0_24548_727938",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Alberto Núñez Feijóo",
+          "lastname": "Núñez Feijóo",
+          "firstname": "Alberto",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Popular en el Congreso"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 15
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 20
+      },
+      "agendaItem": {
+        "title": "Proposición de Ley Orgánica de amnistía para la normalización\ninstitucional, política y social en Cataluña.",
+        "officialTitle": "Proposición de Ley Orgánica de amnistía para la normalización\ninstitucional, política y social en Cataluña.",
+        "type": "regular",
+        "nativeType": "ES-ley"
+      },
+      "dateStart": "2024-01-30T16:35:00+01:00",
+      "dateEnd": "2024-01-30T16:36:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_018/cortes/15_000400_018_0_24548_727939.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1527939I",
+        "duration": 60.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_018_0_24548_727939",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "María José Rodríguez de Millán Parro",
+          "lastname": "Rodríguez de Millán Parro",
+          "firstname": "María José",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario VOX"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 16
+    }
+  ]
+}

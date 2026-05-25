@@ -1,0 +1,2044 @@
+{
+  "meta": {
+    "session": "15072",
+    "processing": {
+      "parse_media": "2026-05-23T07:17:41"
+    },
+    "dateStart": "2024-10-22T15:04:00+02:00",
+    "dateEnd": "2024-10-22T21:11:00+02:00"
+  },
+  "data": [
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 72
+      },
+      "agendaItem": {
+        "title": "Proposición de Ley Orgánica relativa a la reforma de la Ley Orgánica\n5/2005, de 17 de noviembre, de la Defensa Nacional, para el envío de\nayuda militar al extranjero.",
+        "officialTitle": "Proposición de Ley Orgánica relativa a la reforma de la Ley Orgánica\n5/2005, de 17 de noviembre, de la Defensa Nacional, para el envío de\nayuda militar al extranjero.",
+        "type": "regular",
+        "nativeType": "ES-ley"
+      },
+      "dateStart": "2024-10-22T15:04:00+02:00",
+      "dateEnd": "2024-10-22T15:18:00+02:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_069/cortes/15_000400_069_0_25364_740441.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1540441I",
+        "duration": 840.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_069_0_25364_740441",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Alberto Fabra Part",
+          "lastname": "Fabra Part",
+          "firstname": "Alberto",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Popular en el Congreso"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 1
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 72
+      },
+      "agendaItem": {
+        "title": "Proposición de Ley Orgánica relativa a la reforma de la Ley Orgánica\n5/2005, de 17 de noviembre, de la Defensa Nacional, para el envío de\nayuda militar al extranjero.",
+        "officialTitle": "Proposición de Ley Orgánica relativa a la reforma de la Ley Orgánica\n5/2005, de 17 de noviembre, de la Defensa Nacional, para el envío de\nayuda militar al extranjero.",
+        "type": "regular",
+        "nativeType": "ES-ley"
+      },
+      "dateStart": "2024-10-22T15:18:00+02:00",
+      "dateEnd": "2024-10-22T15:22:00+02:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_069/cortes/15_000400_069_0_25364_740443.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1540443I",
+        "duration": 240.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_069_0_25364_740443",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Néstor Rego Candamil",
+          "lastname": "Rego Candamil",
+          "firstname": "Néstor",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Mixto"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 2
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 72
+      },
+      "agendaItem": {
+        "title": "Proposición de Ley Orgánica relativa a la reforma de la Ley Orgánica\n5/2005, de 17 de noviembre, de la Defensa Nacional, para el envío de\nayuda militar al extranjero.",
+        "officialTitle": "Proposición de Ley Orgánica relativa a la reforma de la Ley Orgánica\n5/2005, de 17 de noviembre, de la Defensa Nacional, para el envío de\nayuda militar al extranjero.",
+        "type": "regular",
+        "nativeType": "ES-ley"
+      },
+      "dateStart": "2024-10-22T15:22:00+02:00",
+      "dateEnd": "2024-10-22T15:27:00+02:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_069/cortes/15_000400_069_0_25364_740444.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1540444I",
+        "duration": 300.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_069_0_25364_740444",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Javier Sánchez Serna",
+          "lastname": "Sánchez Serna",
+          "firstname": "Javier",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Mixto"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 3
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 72
+      },
+      "agendaItem": {
+        "title": "Proposición de Ley Orgánica relativa a la reforma de la Ley Orgánica\n5/2005, de 17 de noviembre, de la Defensa Nacional, para el envío de\nayuda militar al extranjero.",
+        "officialTitle": "Proposición de Ley Orgánica relativa a la reforma de la Ley Orgánica\n5/2005, de 17 de noviembre, de la Defensa Nacional, para el envío de\nayuda militar al extranjero.",
+        "type": "regular",
+        "nativeType": "ES-ley"
+      },
+      "dateStart": "2024-10-22T15:27:00+02:00",
+      "dateEnd": "2024-10-22T15:32:00+02:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_069/cortes/15_000400_069_0_25364_740445.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1540445I",
+        "duration": 300.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_069_0_25364_740445",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Mikel Legarda Uriarte",
+          "lastname": "Legarda Uriarte",
+          "firstname": "Mikel",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Vasco (EAJ-PNV)"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 4
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 72
+      },
+      "agendaItem": {
+        "title": "Proposición de Ley Orgánica relativa a la reforma de la Ley Orgánica\n5/2005, de 17 de noviembre, de la Defensa Nacional, para el envío de\nayuda militar al extranjero.",
+        "officialTitle": "Proposición de Ley Orgánica relativa a la reforma de la Ley Orgánica\n5/2005, de 17 de noviembre, de la Defensa Nacional, para el envío de\nayuda militar al extranjero.",
+        "type": "regular",
+        "nativeType": "ES-ley"
+      },
+      "dateStart": "2024-10-22T15:32:00+02:00",
+      "dateEnd": "2024-10-22T15:40:00+02:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_069/cortes/15_000400_069_0_25364_740446.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1540446I",
+        "duration": 480.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_069_0_25364_740446",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Francesc-Marc Álvaro Vidal",
+          "lastname": "Álvaro Vidal",
+          "firstname": "Francesc-Marc",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Republicano"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 5
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 72
+      },
+      "agendaItem": {
+        "title": "Proposición de Ley Orgánica relativa a la reforma de la Ley Orgánica\n5/2005, de 17 de noviembre, de la Defensa Nacional, para el envío de\nayuda militar al extranjero.",
+        "officialTitle": "Proposición de Ley Orgánica relativa a la reforma de la Ley Orgánica\n5/2005, de 17 de noviembre, de la Defensa Nacional, para el envío de\nayuda militar al extranjero.",
+        "type": "regular",
+        "nativeType": "ES-ley"
+      },
+      "dateStart": "2024-10-22T15:40:00+02:00",
+      "dateEnd": "2024-10-22T15:48:00+02:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_069/cortes/15_000400_069_0_25364_740447.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1540447I",
+        "duration": 480.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_069_0_25364_740447",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Agustín Santos Maraver",
+          "lastname": "Santos Maraver",
+          "firstname": "Agustín",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Plurinacional SUMAR"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 6
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 72
+      },
+      "agendaItem": {
+        "title": "Proposición de Ley Orgánica relativa a la reforma de la Ley Orgánica\n5/2005, de 17 de noviembre, de la Defensa Nacional, para el envío de\nayuda militar al extranjero.",
+        "officialTitle": "Proposición de Ley Orgánica relativa a la reforma de la Ley Orgánica\n5/2005, de 17 de noviembre, de la Defensa Nacional, para el envío de\nayuda militar al extranjero.",
+        "type": "regular",
+        "nativeType": "ES-ley"
+      },
+      "dateStart": "2024-10-22T15:48:00+02:00",
+      "dateEnd": "2024-10-22T15:57:00+02:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_069/cortes/15_000400_069_0_25364_740448.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1540448I",
+        "duration": 540.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_069_0_25364_740448",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Alberto Asarta Cuevas",
+          "lastname": "Asarta Cuevas",
+          "firstname": "Alberto",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario VOX"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 7
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 72
+      },
+      "agendaItem": {
+        "title": "Proposición de Ley Orgánica relativa a la reforma de la Ley Orgánica\n5/2005, de 17 de noviembre, de la Defensa Nacional, para el envío de\nayuda militar al extranjero.",
+        "officialTitle": "Proposición de Ley Orgánica relativa a la reforma de la Ley Orgánica\n5/2005, de 17 de noviembre, de la Defensa Nacional, para el envío de\nayuda militar al extranjero.",
+        "type": "regular",
+        "nativeType": "ES-ley"
+      },
+      "dateStart": "2024-10-22T15:57:00+02:00",
+      "dateEnd": "2024-10-22T16:05:00+02:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_069/cortes/15_000400_069_0_25364_740449.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1540449I",
+        "duration": 480.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_069_0_25364_740449",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "José Antonio Rodríguez Salas",
+          "lastname": "Rodríguez Salas",
+          "firstname": "José Antonio",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Socialista"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 8
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 72
+      },
+      "agendaItem": {
+        "title": "Proposición de Ley relativa a la regulación de las cláusulas Redito\nAd Libitum en la contratación de préstamos y créditos hipotecarios.",
+        "officialTitle": "Proposición de Ley relativa a la regulación de las cláusulas Redito\nAd Libitum en la contratación de préstamos y créditos hipotecarios.",
+        "type": "regular",
+        "nativeType": "ES-ley"
+      },
+      "dateStart": "2024-10-22T16:06:00+02:00",
+      "dateEnd": "2024-10-22T16:18:00+02:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_069/cortes/15_000400_069_0_25364_740451.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1540451I",
+        "duration": 720.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_069_0_25364_740451",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Fèlix Alonso Cantorné",
+          "lastname": "Alonso Cantorné",
+          "firstname": "Fèlix",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Plurinacional SUMAR"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 9
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 72
+      },
+      "agendaItem": {
+        "title": "Proposición de Ley relativa a la regulación de las cláusulas Redito\nAd Libitum en la contratación de préstamos y créditos hipotecarios.",
+        "officialTitle": "Proposición de Ley relativa a la regulación de las cláusulas Redito\nAd Libitum en la contratación de préstamos y créditos hipotecarios.",
+        "type": "regular",
+        "nativeType": "ES-ley"
+      },
+      "dateStart": "2024-10-22T16:18:00+02:00",
+      "dateEnd": "2024-10-22T16:25:00+02:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_069/cortes/15_000400_069_0_25364_740452.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1540452I",
+        "duration": 420.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_069_0_25364_740452",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Idoia Sagastizabal Unzetabarrenetxea",
+          "lastname": "Sagastizabal Unzetabarrenetxea",
+          "firstname": "Idoia",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Vasco (EAJ-PNV)"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 10
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 72
+      },
+      "agendaItem": {
+        "title": "Proposición de Ley relativa a la regulación de las cláusulas Redito\nAd Libitum en la contratación de préstamos y créditos hipotecarios.",
+        "officialTitle": "Proposición de Ley relativa a la regulación de las cláusulas Redito\nAd Libitum en la contratación de préstamos y créditos hipotecarios.",
+        "type": "regular",
+        "nativeType": "ES-ley"
+      },
+      "dateStart": "2024-10-22T16:25:00+02:00",
+      "dateEnd": "2024-10-22T16:33:00+02:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_069/cortes/15_000400_069_0_25364_740453.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1540453I",
+        "duration": 480.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_069_0_25364_740453",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Oskar Matute García de Jalón",
+          "lastname": "Matute García de Jalón",
+          "firstname": "Oskar",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Euskal Herria Bildu"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 11
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 72
+      },
+      "agendaItem": {
+        "title": "Proposición de Ley relativa a la regulación de las cláusulas Redito\nAd Libitum en la contratación de préstamos y créditos hipotecarios.",
+        "officialTitle": "Proposición de Ley relativa a la regulación de las cláusulas Redito\nAd Libitum en la contratación de préstamos y créditos hipotecarios.",
+        "type": "regular",
+        "nativeType": "ES-ley"
+      },
+      "dateStart": "2024-10-22T16:33:00+02:00",
+      "dateEnd": "2024-10-22T16:40:00+02:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_069/cortes/15_000400_069_0_25364_740454.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1540454I",
+        "duration": 420.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_069_0_25364_740454",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Josep Maria Cruset Domènech",
+          "lastname": "Cruset Domènech",
+          "firstname": "Josep Maria",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Junts per Catalunya"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 12
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 72
+      },
+      "agendaItem": {
+        "title": "Proposición de Ley relativa a la regulación de las cláusulas Redito\nAd Libitum en la contratación de préstamos y créditos hipotecarios.",
+        "officialTitle": "Proposición de Ley relativa a la regulación de las cláusulas Redito\nAd Libitum en la contratación de préstamos y créditos hipotecarios.",
+        "type": "regular",
+        "nativeType": "ES-ley"
+      },
+      "dateStart": "2024-10-22T16:40:00+02:00",
+      "dateEnd": "2024-10-22T16:47:00+02:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_069/cortes/15_000400_069_0_25364_740455.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1540455I",
+        "duration": 420.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_069_0_25364_740455",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Pilar Vallugera Balañà",
+          "lastname": "Vallugera Balañà",
+          "firstname": "Pilar",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Republicano"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 13
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 72
+      },
+      "agendaItem": {
+        "title": "Proposición de Ley relativa a la regulación de las cláusulas Redito\nAd Libitum en la contratación de préstamos y créditos hipotecarios.",
+        "officialTitle": "Proposición de Ley relativa a la regulación de las cláusulas Redito\nAd Libitum en la contratación de préstamos y créditos hipotecarios.",
+        "type": "regular",
+        "nativeType": "ES-ley"
+      },
+      "dateStart": "2024-10-22T16:47:00+02:00",
+      "dateEnd": "2024-10-22T16:57:00+02:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_069/cortes/15_000400_069_0_25364_740456.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1540456I",
+        "duration": 600.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_069_0_25364_740456",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Pablo Sáez Alonso-Muñumer",
+          "lastname": "Sáez Alonso-Muñumer",
+          "firstname": "Pablo",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario VOX"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 14
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 72
+      },
+      "agendaItem": {
+        "title": "Proposición de Ley relativa a la regulación de las cláusulas Redito\nAd Libitum en la contratación de préstamos y créditos hipotecarios.",
+        "officialTitle": "Proposición de Ley relativa a la regulación de las cláusulas Redito\nAd Libitum en la contratación de préstamos y créditos hipotecarios.",
+        "type": "regular",
+        "nativeType": "ES-ley"
+      },
+      "dateStart": "2024-10-22T16:57:00+02:00",
+      "dateEnd": "2024-10-22T17:05:00+02:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_069/cortes/15_000400_069_0_25364_740457.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1540457I",
+        "duration": 480.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_069_0_25364_740457",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Noelia Cobo Pérez",
+          "lastname": "Cobo Pérez",
+          "firstname": "Noelia",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Socialista"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 15
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 72
+      },
+      "agendaItem": {
+        "title": "Proposición de Ley relativa a la regulación de las cláusulas Redito\nAd Libitum en la contratación de préstamos y créditos hipotecarios.",
+        "officialTitle": "Proposición de Ley relativa a la regulación de las cláusulas Redito\nAd Libitum en la contratación de préstamos y créditos hipotecarios.",
+        "type": "regular",
+        "nativeType": "ES-ley"
+      },
+      "dateStart": "2024-10-22T17:05:00+02:00",
+      "dateEnd": "2024-10-22T17:15:00+02:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_069/cortes/15_000400_069_0_25364_740458.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1540458I",
+        "duration": 600.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_069_0_25364_740458",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "María Pilar Alía Aguado",
+          "lastname": "Alía Aguado",
+          "firstname": "María Pilar",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Popular en el Congreso"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 16
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 72
+      },
+      "agendaItem": {
+        "title": "Proyecto de Ley por la que se modifican el texto refundido de la Ley\ndel Estatuto de los Trabajadores, aprobado por el Real Decreto\nLegislativo 2/2015, de 23 de octubre, en materia de extinción del\ncontrato de trabajo por incapacidad permanente de las personas\ntrabajadoras, y el texto refundido de la Ley General de la Seguridad\nSocial, aprobado por el Real Decreto Legislativo 8/2015, de 30 de\noctubre, en materia de incapacidad permanente.",
+        "officialTitle": "Proyecto de Ley por la que se modifican el texto refundido de la Ley\ndel Estatuto de los Trabajadores, aprobado por el Real Decreto\nLegislativo 2/2015, de 23 de octubre, en materia de extinción del\ncontrato de trabajo por incapacidad permanente de las personas\ntrabajadoras, y el texto refundido de la Ley General de la Seguridad\nSocial, aprobado por el Real Decreto Legislativo 8/2015, de 30 de\noctubre, en materia de incapacidad permanente.",
+        "type": "regular",
+        "nativeType": "ES-ley"
+      },
+      "dateStart": "2024-10-22T17:15:00+02:00",
+      "dateEnd": "2024-10-22T17:42:00+02:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_069/cortes/15_000400_069_0_25364_740461.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1540461I",
+        "duration": 1620.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_069_0_25364_740461",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Yolanda Díaz Pérez",
+          "lastname": "Díaz Pérez",
+          "firstname": "Yolanda",
+          "type": "member of government",
+          "role": "Vicepresidenta Segunda y Ministra de Trabajo y Economía Social",
+          "faction": {
+            "label": "Grupo Parlamentario Plurinacional SUMAR"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 17
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 72
+      },
+      "agendaItem": {
+        "title": "Proyecto de Ley por la que se modifican el texto refundido de la Ley\ndel Estatuto de los Trabajadores, aprobado por el Real Decreto\nLegislativo 2/2015, de 23 de octubre, en materia de extinción del\ncontrato de trabajo por incapacidad permanente de las personas\ntrabajadoras, y el texto refundido de la Ley General de la Seguridad\nSocial, aprobado por el Real Decreto Legislativo 8/2015, de 30 de\noctubre, en materia de incapacidad permanente.",
+        "officialTitle": "Proyecto de Ley por la que se modifican el texto refundido de la Ley\ndel Estatuto de los Trabajadores, aprobado por el Real Decreto\nLegislativo 2/2015, de 23 de octubre, en materia de extinción del\ncontrato de trabajo por incapacidad permanente de las personas\ntrabajadoras, y el texto refundido de la Ley General de la Seguridad\nSocial, aprobado por el Real Decreto Legislativo 8/2015, de 30 de\noctubre, en materia de incapacidad permanente.",
+        "type": "regular",
+        "nativeType": "ES-ley"
+      },
+      "dateStart": "2024-10-22T17:42:00+02:00",
+      "dateEnd": "2024-10-22T17:55:00+02:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_069/cortes/15_000400_069_0_25364_740462.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1540462I",
+        "duration": 780.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_069_0_25364_740462",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Juan José Aizcorbe Torra",
+          "lastname": "Aizcorbe Torra",
+          "firstname": "Juan José",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario VOX"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 18
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 72
+      },
+      "agendaItem": {
+        "title": "Proyecto de Ley por la que se modifican el texto refundido de la Ley\ndel Estatuto de los Trabajadores, aprobado por el Real Decreto\nLegislativo 2/2015, de 23 de octubre, en materia de extinción del\ncontrato de trabajo por incapacidad permanente de las personas\ntrabajadoras, y el texto refundido de la Ley General de la Seguridad\nSocial, aprobado por el Real Decreto Legislativo 8/2015, de 30 de\noctubre, en materia de incapacidad permanente.",
+        "officialTitle": "Proyecto de Ley por la que se modifican el texto refundido de la Ley\ndel Estatuto de los Trabajadores, aprobado por el Real Decreto\nLegislativo 2/2015, de 23 de octubre, en materia de extinción del\ncontrato de trabajo por incapacidad permanente de las personas\ntrabajadoras, y el texto refundido de la Ley General de la Seguridad\nSocial, aprobado por el Real Decreto Legislativo 8/2015, de 30 de\noctubre, en materia de incapacidad permanente.",
+        "type": "regular",
+        "nativeType": "ES-ley"
+      },
+      "dateStart": "2024-10-22T17:55:00+02:00",
+      "dateEnd": "2024-10-22T18:00:00+02:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_069/cortes/15_000400_069_0_25364_740463.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1540463I",
+        "duration": 300.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_069_0_25364_740463",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Néstor Rego Candamil",
+          "lastname": "Rego Candamil",
+          "firstname": "Néstor",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Mixto"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 19
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 72
+      },
+      "agendaItem": {
+        "title": "Proyecto de Ley por la que se modifican el texto refundido de la Ley\ndel Estatuto de los Trabajadores, aprobado por el Real Decreto\nLegislativo 2/2015, de 23 de octubre, en materia de extinción del\ncontrato de trabajo por incapacidad permanente de las personas\ntrabajadoras, y el texto refundido de la Ley General de la Seguridad\nSocial, aprobado por el Real Decreto Legislativo 8/2015, de 30 de\noctubre, en materia de incapacidad permanente.",
+        "officialTitle": "Proyecto de Ley por la que se modifican el texto refundido de la Ley\ndel Estatuto de los Trabajadores, aprobado por el Real Decreto\nLegislativo 2/2015, de 23 de octubre, en materia de extinción del\ncontrato de trabajo por incapacidad permanente de las personas\ntrabajadoras, y el texto refundido de la Ley General de la Seguridad\nSocial, aprobado por el Real Decreto Legislativo 8/2015, de 30 de\noctubre, en materia de incapacidad permanente.",
+        "type": "regular",
+        "nativeType": "ES-ley"
+      },
+      "dateStart": "2024-10-22T18:00:00+02:00",
+      "dateEnd": "2024-10-22T18:04:00+02:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_069/cortes/15_000400_069_0_25364_740464.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1540464I",
+        "duration": 240.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_069_0_25364_740464",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Noemí Santana Perera",
+          "lastname": "Santana Perera",
+          "firstname": "Noemí",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Mixto"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 20
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 72
+      },
+      "agendaItem": {
+        "title": "Proyecto de Ley por la que se modifican el texto refundido de la Ley\ndel Estatuto de los Trabajadores, aprobado por el Real Decreto\nLegislativo 2/2015, de 23 de octubre, en materia de extinción del\ncontrato de trabajo por incapacidad permanente de las personas\ntrabajadoras, y el texto refundido de la Ley General de la Seguridad\nSocial, aprobado por el Real Decreto Legislativo 8/2015, de 30 de\noctubre, en materia de incapacidad permanente.",
+        "officialTitle": "Proyecto de Ley por la que se modifican el texto refundido de la Ley\ndel Estatuto de los Trabajadores, aprobado por el Real Decreto\nLegislativo 2/2015, de 23 de octubre, en materia de extinción del\ncontrato de trabajo por incapacidad permanente de las personas\ntrabajadoras, y el texto refundido de la Ley General de la Seguridad\nSocial, aprobado por el Real Decreto Legislativo 8/2015, de 30 de\noctubre, en materia de incapacidad permanente.",
+        "type": "regular",
+        "nativeType": "ES-ley"
+      },
+      "dateStart": "2024-10-22T18:04:00+02:00",
+      "dateEnd": "2024-10-22T18:09:00+02:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_069/cortes/15_000400_069_0_25364_740465.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1540465I",
+        "duration": 300.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_069_0_25364_740465",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Idoia Sagastizabal Unzetabarrenetxea",
+          "lastname": "Sagastizabal Unzetabarrenetxea",
+          "firstname": "Idoia",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Vasco (EAJ-PNV)"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 21
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 72
+      },
+      "agendaItem": {
+        "title": "Proyecto de Ley por la que se modifican el texto refundido de la Ley\ndel Estatuto de los Trabajadores, aprobado por el Real Decreto\nLegislativo 2/2015, de 23 de octubre, en materia de extinción del\ncontrato de trabajo por incapacidad permanente de las personas\ntrabajadoras, y el texto refundido de la Ley General de la Seguridad\nSocial, aprobado por el Real Decreto Legislativo 8/2015, de 30 de\noctubre, en materia de incapacidad permanente.",
+        "officialTitle": "Proyecto de Ley por la que se modifican el texto refundido de la Ley\ndel Estatuto de los Trabajadores, aprobado por el Real Decreto\nLegislativo 2/2015, de 23 de octubre, en materia de extinción del\ncontrato de trabajo por incapacidad permanente de las personas\ntrabajadoras, y el texto refundido de la Ley General de la Seguridad\nSocial, aprobado por el Real Decreto Legislativo 8/2015, de 30 de\noctubre, en materia de incapacidad permanente.",
+        "type": "regular",
+        "nativeType": "ES-ley"
+      },
+      "dateStart": "2024-10-22T18:09:00+02:00",
+      "dateEnd": "2024-10-22T18:17:00+02:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_069/cortes/15_000400_069_0_25364_740466.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1540466I",
+        "duration": 480.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_069_0_25364_740466",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Verónica Martínez Barbero",
+          "lastname": "Martínez Barbero",
+          "firstname": "Verónica",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Plurinacional SUMAR"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 22
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 72
+      },
+      "agendaItem": {
+        "title": "Proyecto de Ley por la que se modifican el texto refundido de la Ley\ndel Estatuto de los Trabajadores, aprobado por el Real Decreto\nLegislativo 2/2015, de 23 de octubre, en materia de extinción del\ncontrato de trabajo por incapacidad permanente de las personas\ntrabajadoras, y el texto refundido de la Ley General de la Seguridad\nSocial, aprobado por el Real Decreto Legislativo 8/2015, de 30 de\noctubre, en materia de incapacidad permanente.",
+        "officialTitle": "Proyecto de Ley por la que se modifican el texto refundido de la Ley\ndel Estatuto de los Trabajadores, aprobado por el Real Decreto\nLegislativo 2/2015, de 23 de octubre, en materia de extinción del\ncontrato de trabajo por incapacidad permanente de las personas\ntrabajadoras, y el texto refundido de la Ley General de la Seguridad\nSocial, aprobado por el Real Decreto Legislativo 8/2015, de 30 de\noctubre, en materia de incapacidad permanente.",
+        "type": "regular",
+        "nativeType": "ES-ley"
+      },
+      "dateStart": "2024-10-22T18:17:00+02:00",
+      "dateEnd": "2024-10-22T18:24:00+02:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_069/cortes/15_000400_069_0_25364_740467.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1540467I",
+        "duration": 420.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_069_0_25364_740467",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Jordi Salvador i Duch",
+          "lastname": "Salvador i Duch",
+          "firstname": "Jordi",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Republicano"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 23
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 72
+      },
+      "agendaItem": {
+        "title": "Proyecto de Ley por la que se modifican el texto refundido de la Ley\ndel Estatuto de los Trabajadores, aprobado por el Real Decreto\nLegislativo 2/2015, de 23 de octubre, en materia de extinción del\ncontrato de trabajo por incapacidad permanente de las personas\ntrabajadoras, y el texto refundido de la Ley General de la Seguridad\nSocial, aprobado por el Real Decreto Legislativo 8/2015, de 30 de\noctubre, en materia de incapacidad permanente.",
+        "officialTitle": "Proyecto de Ley por la que se modifican el texto refundido de la Ley\ndel Estatuto de los Trabajadores, aprobado por el Real Decreto\nLegislativo 2/2015, de 23 de octubre, en materia de extinción del\ncontrato de trabajo por incapacidad permanente de las personas\ntrabajadoras, y el texto refundido de la Ley General de la Seguridad\nSocial, aprobado por el Real Decreto Legislativo 8/2015, de 30 de\noctubre, en materia de incapacidad permanente.",
+        "type": "regular",
+        "nativeType": "ES-ley"
+      },
+      "dateStart": "2024-10-22T18:24:00+02:00",
+      "dateEnd": "2024-10-22T18:31:00+02:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_069/cortes/15_000400_069_0_25364_740468.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1540468I",
+        "duration": 420.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_069_0_25364_740468",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Elisa Garrido Jiménez",
+          "lastname": "Garrido Jiménez",
+          "firstname": "Elisa",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Socialista"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 24
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 72
+      },
+      "agendaItem": {
+        "title": "Proyecto de Ley por la que se modifican el texto refundido de la Ley\ndel Estatuto de los Trabajadores, aprobado por el Real Decreto\nLegislativo 2/2015, de 23 de octubre, en materia de extinción del\ncontrato de trabajo por incapacidad permanente de las personas\ntrabajadoras, y el texto refundido de la Ley General de la Seguridad\nSocial, aprobado por el Real Decreto Legislativo 8/2015, de 30 de\noctubre, en materia de incapacidad permanente.",
+        "officialTitle": "Proyecto de Ley por la que se modifican el texto refundido de la Ley\ndel Estatuto de los Trabajadores, aprobado por el Real Decreto\nLegislativo 2/2015, de 23 de octubre, en materia de extinción del\ncontrato de trabajo por incapacidad permanente de las personas\ntrabajadoras, y el texto refundido de la Ley General de la Seguridad\nSocial, aprobado por el Real Decreto Legislativo 8/2015, de 30 de\noctubre, en materia de incapacidad permanente.",
+        "type": "regular",
+        "nativeType": "ES-ley"
+      },
+      "dateStart": "2024-10-22T18:31:00+02:00",
+      "dateEnd": "2024-10-22T18:40:00+02:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_069/cortes/15_000400_069_0_25364_740469.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1540469I",
+        "duration": 540.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_069_0_25364_740469",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "María Isabel Prieto Serrano",
+          "lastname": "Prieto Serrano",
+          "firstname": "María Isabel",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Popular en el Congreso"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 25
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 72
+      },
+      "agendaItem": {
+        "title": "Proposición no de Ley relativa a la revisión y readecuación de la\nnormativa derivada del Real Decreto 933/2021, de 26 de octubre, por el\nque se establecen las obligaciones de registro documental e información\nde las personas físicas o jurídicas que ejercen actividades de hospedaje\ny alquiler de vehículos a motor, mediante un proceso de diálogo y\nconsenso previo con el sector turístico español.",
+        "officialTitle": "Proposición no de Ley relativa a la revisión y readecuación de la\nnormativa derivada del Real Decreto 933/2021, de 26 de octubre, por el\nque se establecen las obligaciones de registro documental e información\nde las personas físicas o jurídicas que ejercen actividades de hospedaje\ny alquiler de vehículos a motor, mediante un proceso de diálogo y\nconsenso previo con el sector turístico español.",
+        "type": "regular"
+      },
+      "dateStart": "2024-10-22T18:41:00+02:00",
+      "dateEnd": "2024-10-22T18:49:00+02:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_069/cortes/15_000400_069_0_25364_740472.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1540472I",
+        "duration": 480.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_069_0_25364_740472",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "José Vicente Marí Bosó",
+          "lastname": "Marí Bosó",
+          "firstname": "José Vicente",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Popular en el Congreso"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 26
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 72
+      },
+      "agendaItem": {
+        "title": "Proposición no de Ley relativa a la revisión y readecuación de la\nnormativa derivada del Real Decreto 933/2021, de 26 de octubre, por el\nque se establecen las obligaciones de registro documental e información\nde las personas físicas o jurídicas que ejercen actividades de hospedaje\ny alquiler de vehículos a motor, mediante un proceso de diálogo y\nconsenso previo con el sector turístico español.",
+        "officialTitle": "Proposición no de Ley relativa a la revisión y readecuación de la\nnormativa derivada del Real Decreto 933/2021, de 26 de octubre, por el\nque se establecen las obligaciones de registro documental e información\nde las personas físicas o jurídicas que ejercen actividades de hospedaje\ny alquiler de vehículos a motor, mediante un proceso de diálogo y\nconsenso previo con el sector turístico español.",
+        "type": "regular"
+      },
+      "dateStart": "2024-10-22T18:49:00+02:00",
+      "dateEnd": "2024-10-22T18:51:00+02:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_069/cortes/15_000400_069_0_25364_740473.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1540473I",
+        "duration": 120.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_069_0_25364_740473",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Cristina Valido García",
+          "lastname": "Valido García",
+          "firstname": "Cristina",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Mixto"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 27
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 72
+      },
+      "agendaItem": {
+        "title": "Proposición no de Ley relativa a la revisión y readecuación de la\nnormativa derivada del Real Decreto 933/2021, de 26 de octubre, por el\nque se establecen las obligaciones de registro documental e información\nde las personas físicas o jurídicas que ejercen actividades de hospedaje\ny alquiler de vehículos a motor, mediante un proceso de diálogo y\nconsenso previo con el sector turístico español.",
+        "officialTitle": "Proposición no de Ley relativa a la revisión y readecuación de la\nnormativa derivada del Real Decreto 933/2021, de 26 de octubre, por el\nque se establecen las obligaciones de registro documental e información\nde las personas físicas o jurídicas que ejercen actividades de hospedaje\ny alquiler de vehículos a motor, mediante un proceso de diálogo y\nconsenso previo con el sector turístico español.",
+        "type": "regular"
+      },
+      "dateStart": "2024-10-22T18:51:00+02:00",
+      "dateEnd": "2024-10-22T18:54:00+02:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_069/cortes/15_000400_069_0_25364_740474.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1540474I",
+        "duration": 180.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_069_0_25364_740474",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Néstor Rego Candamil",
+          "lastname": "Rego Candamil",
+          "firstname": "Néstor",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Mixto"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 28
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 72
+      },
+      "agendaItem": {
+        "title": "Proposición no de Ley relativa a la revisión y readecuación de la\nnormativa derivada del Real Decreto 933/2021, de 26 de octubre, por el\nque se establecen las obligaciones de registro documental e información\nde las personas físicas o jurídicas que ejercen actividades de hospedaje\ny alquiler de vehículos a motor, mediante un proceso de diálogo y\nconsenso previo con el sector turístico español.",
+        "officialTitle": "Proposición no de Ley relativa a la revisión y readecuación de la\nnormativa derivada del Real Decreto 933/2021, de 26 de octubre, por el\nque se establecen las obligaciones de registro documental e información\nde las personas físicas o jurídicas que ejercen actividades de hospedaje\ny alquiler de vehículos a motor, mediante un proceso de diálogo y\nconsenso previo con el sector turístico español.",
+        "type": "regular"
+      },
+      "dateStart": "2024-10-22T18:54:00+02:00",
+      "dateEnd": "2024-10-22T18:57:00+02:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_069/cortes/15_000400_069_0_25364_740475.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1540475I",
+        "duration": 180.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_069_0_25364_740475",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Noemí Santana Perera",
+          "lastname": "Santana Perera",
+          "firstname": "Noemí",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Mixto"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 29
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 72
+      },
+      "agendaItem": {
+        "title": "Proposición no de Ley relativa a la revisión y readecuación de la\nnormativa derivada del Real Decreto 933/2021, de 26 de octubre, por el\nque se establecen las obligaciones de registro documental e información\nde las personas físicas o jurídicas que ejercen actividades de hospedaje\ny alquiler de vehículos a motor, mediante un proceso de diálogo y\nconsenso previo con el sector turístico español.",
+        "officialTitle": "Proposición no de Ley relativa a la revisión y readecuación de la\nnormativa derivada del Real Decreto 933/2021, de 26 de octubre, por el\nque se establecen las obligaciones de registro documental e información\nde las personas físicas o jurídicas que ejercen actividades de hospedaje\ny alquiler de vehículos a motor, mediante un proceso de diálogo y\nconsenso previo con el sector turístico español.",
+        "type": "regular"
+      },
+      "dateStart": "2024-10-22T18:57:00+02:00",
+      "dateEnd": "2024-10-22T19:02:00+02:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_069/cortes/15_000400_069_0_25364_740476.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1540476I",
+        "duration": 300.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_069_0_25364_740476",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Mikel Legarda Uriarte",
+          "lastname": "Legarda Uriarte",
+          "firstname": "Mikel",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Vasco (EAJ-PNV)"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 30
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 72
+      },
+      "agendaItem": {
+        "title": "Proposición no de Ley relativa a la revisión y readecuación de la\nnormativa derivada del Real Decreto 933/2021, de 26 de octubre, por el\nque se establecen las obligaciones de registro documental e información\nde las personas físicas o jurídicas que ejercen actividades de hospedaje\ny alquiler de vehículos a motor, mediante un proceso de diálogo y\nconsenso previo con el sector turístico español.",
+        "officialTitle": "Proposición no de Ley relativa a la revisión y readecuación de la\nnormativa derivada del Real Decreto 933/2021, de 26 de octubre, por el\nque se establecen las obligaciones de registro documental e información\nde las personas físicas o jurídicas que ejercen actividades de hospedaje\ny alquiler de vehículos a motor, mediante un proceso de diálogo y\nconsenso previo con el sector turístico español.",
+        "type": "regular"
+      },
+      "dateStart": "2024-10-22T19:02:00+02:00",
+      "dateEnd": "2024-10-22T19:08:00+02:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_069/cortes/15_000400_069_0_25364_740477.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1540477I",
+        "duration": 360.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_069_0_25364_740477",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Josep Pagès i Massó",
+          "lastname": "Pagès i Massó",
+          "firstname": "Josep",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Junts per Catalunya"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 31
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 72
+      },
+      "agendaItem": {
+        "title": "Proposición no de Ley relativa a la revisión y readecuación de la\nnormativa derivada del Real Decreto 933/2021, de 26 de octubre, por el\nque se establecen las obligaciones de registro documental e información\nde las personas físicas o jurídicas que ejercen actividades de hospedaje\ny alquiler de vehículos a motor, mediante un proceso de diálogo y\nconsenso previo con el sector turístico español.",
+        "officialTitle": "Proposición no de Ley relativa a la revisión y readecuación de la\nnormativa derivada del Real Decreto 933/2021, de 26 de octubre, por el\nque se establecen las obligaciones de registro documental e información\nde las personas físicas o jurídicas que ejercen actividades de hospedaje\ny alquiler de vehículos a motor, mediante un proceso de diálogo y\nconsenso previo con el sector turístico español.",
+        "type": "regular"
+      },
+      "dateStart": "2024-10-22T19:08:00+02:00",
+      "dateEnd": "2024-10-22T19:14:00+02:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_069/cortes/15_000400_069_0_25364_740478.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1540478I",
+        "duration": 360.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_069_0_25364_740478",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Inés Granollers Cunillera",
+          "lastname": "Granollers Cunillera",
+          "firstname": "Inés",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Republicano"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 32
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 72
+      },
+      "agendaItem": {
+        "title": "Proposición no de Ley relativa a la revisión y readecuación de la\nnormativa derivada del Real Decreto 933/2021, de 26 de octubre, por el\nque se establecen las obligaciones de registro documental e información\nde las personas físicas o jurídicas que ejercen actividades de hospedaje\ny alquiler de vehículos a motor, mediante un proceso de diálogo y\nconsenso previo con el sector turístico español.",
+        "officialTitle": "Proposición no de Ley relativa a la revisión y readecuación de la\nnormativa derivada del Real Decreto 933/2021, de 26 de octubre, por el\nque se establecen las obligaciones de registro documental e información\nde las personas físicas o jurídicas que ejercen actividades de hospedaje\ny alquiler de vehículos a motor, mediante un proceso de diálogo y\nconsenso previo con el sector turístico español.",
+        "type": "regular"
+      },
+      "dateStart": "2024-10-22T19:14:00+02:00",
+      "dateEnd": "2024-10-22T19:20:00+02:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_069/cortes/15_000400_069_0_25364_740479.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1540479I",
+        "duration": 360.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_069_0_25364_740479",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Vicenç Vidal Matas",
+          "lastname": "Vidal Matas",
+          "firstname": "Vicenç",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Plurinacional SUMAR"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 33
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 72
+      },
+      "agendaItem": {
+        "title": "Proposición no de Ley relativa a la revisión y readecuación de la\nnormativa derivada del Real Decreto 933/2021, de 26 de octubre, por el\nque se establecen las obligaciones de registro documental e información\nde las personas físicas o jurídicas que ejercen actividades de hospedaje\ny alquiler de vehículos a motor, mediante un proceso de diálogo y\nconsenso previo con el sector turístico español.",
+        "officialTitle": "Proposición no de Ley relativa a la revisión y readecuación de la\nnormativa derivada del Real Decreto 933/2021, de 26 de octubre, por el\nque se establecen las obligaciones de registro documental e información\nde las personas físicas o jurídicas que ejercen actividades de hospedaje\ny alquiler de vehículos a motor, mediante un proceso de diálogo y\nconsenso previo con el sector turístico español.",
+        "type": "regular"
+      },
+      "dateStart": "2024-10-22T19:20:00+02:00",
+      "dateEnd": "2024-10-22T19:26:00+02:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_069/cortes/15_000400_069_0_25364_740480.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1540480I",
+        "duration": 360.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_069_0_25364_740480",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Jacobo González-Robatto Perote",
+          "lastname": "González-Robatto Perote",
+          "firstname": "Jacobo",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario VOX"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 34
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 72
+      },
+      "agendaItem": {
+        "title": "Proposición no de Ley relativa a la revisión y readecuación de la\nnormativa derivada del Real Decreto 933/2021, de 26 de octubre, por el\nque se establecen las obligaciones de registro documental e información\nde las personas físicas o jurídicas que ejercen actividades de hospedaje\ny alquiler de vehículos a motor, mediante un proceso de diálogo y\nconsenso previo con el sector turístico español.",
+        "officialTitle": "Proposición no de Ley relativa a la revisión y readecuación de la\nnormativa derivada del Real Decreto 933/2021, de 26 de octubre, por el\nque se establecen las obligaciones de registro documental e información\nde las personas físicas o jurídicas que ejercen actividades de hospedaje\ny alquiler de vehículos a motor, mediante un proceso de diálogo y\nconsenso previo con el sector turístico español.",
+        "type": "regular"
+      },
+      "dateStart": "2024-10-22T19:26:00+02:00",
+      "dateEnd": "2024-10-22T19:33:00+02:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_069/cortes/15_000400_069_0_25364_740481.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1540481I",
+        "duration": 420.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_069_0_25364_740481",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "María Araceli Poblador Pacheco",
+          "lastname": "Poblador Pacheco",
+          "firstname": "María Araceli",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Socialista"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 35
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 72
+      },
+      "agendaItem": {
+        "title": "Proposición no de Ley para reforzar la protección digital de la salud\nmental de la juventud.",
+        "officialTitle": "Proposición no de Ley para reforzar la protección digital de la salud\nmental de la juventud.",
+        "type": "regular"
+      },
+      "dateStart": "2024-10-22T19:33:00+02:00",
+      "dateEnd": "2024-10-22T19:41:00+02:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_069/cortes/15_000400_069_0_25364_740485.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1540485I",
+        "duration": 480.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_069_0_25364_740485",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Víctor Camino Miñana",
+          "lastname": "Camino Miñana",
+          "firstname": "Víctor",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Socialista"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 36
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 72
+      },
+      "agendaItem": {
+        "title": "Proposición no de Ley para reforzar la protección digital de la salud\nmental de la juventud.",
+        "officialTitle": "Proposición no de Ley para reforzar la protección digital de la salud\nmental de la juventud.",
+        "type": "regular"
+      },
+      "dateStart": "2024-10-22T19:41:00+02:00",
+      "dateEnd": "2024-10-22T19:46:00+02:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_069/cortes/15_000400_069_1_25367_740489.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1540489I",
+        "duration": 300.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_069_1_25367_740489",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Pilar Calvo Gómez",
+          "lastname": "Calvo Gómez",
+          "firstname": "Pilar",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Junts per Catalunya"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 37
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 72
+      },
+      "agendaItem": {
+        "title": "Proposición no de Ley para reforzar la protección digital de la salud\nmental de la juventud.",
+        "officialTitle": "Proposición no de Ley para reforzar la protección digital de la salud\nmental de la juventud.",
+        "type": "regular"
+      },
+      "dateStart": "2024-10-22T19:46:00+02:00",
+      "dateEnd": "2024-10-22T19:53:00+02:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_069/cortes/15_000400_069_1_25367_740490.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1540490I",
+        "duration": 420.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_069_1_25367_740490",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Rafael Cofiño Fernández",
+          "lastname": "Cofiño Fernández",
+          "firstname": "Rafael",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Plurinacional SUMAR"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 38
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 72
+      },
+      "agendaItem": {
+        "title": "Proposición no de Ley para reforzar la protección digital de la salud\nmental de la juventud.",
+        "officialTitle": "Proposición no de Ley para reforzar la protección digital de la salud\nmental de la juventud.",
+        "type": "regular"
+      },
+      "dateStart": "2024-10-22T19:53:00+02:00",
+      "dateEnd": "2024-10-22T20:01:00+02:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_069/cortes/15_000400_069_1_25367_740491.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1540491I",
+        "duration": 480.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_069_1_25367_740491",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Rocío De Meer Méndez",
+          "lastname": "De Meer Méndez",
+          "firstname": "Rocío",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario VOX"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 39
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 72
+      },
+      "agendaItem": {
+        "title": "Proposición no de Ley para reforzar la protección digital de la salud\nmental de la juventud.",
+        "officialTitle": "Proposición no de Ley para reforzar la protección digital de la salud\nmental de la juventud.",
+        "type": "regular"
+      },
+      "dateStart": "2024-10-22T20:01:00+02:00",
+      "dateEnd": "2024-10-22T20:08:00+02:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_069/cortes/15_000400_069_1_25367_740492.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1540492I",
+        "duration": 420.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_069_1_25367_740492",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Juan Andrés Bayón Rolo",
+          "lastname": "Bayón Rolo",
+          "firstname": "Juan Andrés",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Popular en el Congreso"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 40
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 72
+      },
+      "agendaItem": {
+        "title": "Proposición no de Ley para reforzar la protección digital de la salud\nmental de la juventud.",
+        "officialTitle": "Proposición no de Ley para reforzar la protección digital de la salud\nmental de la juventud.",
+        "type": "regular"
+      },
+      "dateStart": "2024-10-22T20:08:00+02:00",
+      "dateEnd": "2024-10-22T20:14:00+02:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_069/cortes/15_000400_069_1_25367_740495.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1540495I",
+        "duration": 360.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_069_1_25367_740495",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Cristina Valido García",
+          "lastname": "Valido García",
+          "firstname": "Cristina",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Mixto"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 41
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 72
+      },
+      "agendaItem": {
+        "title": "Proposición no de Ley para reforzar la protección digital de la salud\nmental de la juventud.",
+        "officialTitle": "Proposición no de Ley para reforzar la protección digital de la salud\nmental de la juventud.",
+        "type": "regular"
+      },
+      "dateStart": "2024-10-22T20:14:00+02:00",
+      "dateEnd": "2024-10-22T20:20:00+02:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_069/cortes/15_000400_069_1_25367_740496.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1540496I",
+        "duration": 360.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_069_1_25367_740496",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Maribel Vaquero Montero",
+          "lastname": "Vaquero Montero",
+          "firstname": "Maribel",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Vasco (EAJ-PNV)"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 42
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 72
+      },
+      "agendaItem": {
+        "title": "Proposición no de Ley para reforzar la protección digital de la salud\nmental de la juventud.",
+        "officialTitle": "Proposición no de Ley para reforzar la protección digital de la salud\nmental de la juventud.",
+        "type": "regular"
+      },
+      "dateStart": "2024-10-22T20:20:00+02:00",
+      "dateEnd": "2024-10-22T20:25:00+02:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_069/cortes/15_000400_069_1_25367_740497.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1540497I",
+        "duration": 300.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_069_1_25367_740497",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Marije Fullaondo la Cruz",
+          "lastname": "Fullaondo la Cruz",
+          "firstname": "Marije",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Euskal Herria Bildu"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 43
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 72
+      },
+      "agendaItem": {
+        "title": "Proposición no de Ley para reforzar la protección digital de la salud\nmental de la juventud.",
+        "officialTitle": "Proposición no de Ley para reforzar la protección digital de la salud\nmental de la juventud.",
+        "type": "regular"
+      },
+      "dateStart": "2024-10-22T20:25:00+02:00",
+      "dateEnd": "2024-10-22T20:31:00+02:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_069/cortes/15_000400_069_1_25367_740498.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1540498I",
+        "duration": 360.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_069_1_25367_740498",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Etna Estrems Fayos",
+          "lastname": "Estrems Fayos",
+          "firstname": "Etna",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Republicano"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 44
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 72
+      },
+      "agendaItem": {
+        "title": "Moción consecuencia de interpelación urgente sobre un Corredor\nMediterráneo exclusivo de mercancías: de alta capacidad, eficiente,\nconectado, digitalizado y separado del servicio de Rodalies.",
+        "officialTitle": "Moción consecuencia de interpelación urgente sobre un Corredor\nMediterráneo exclusivo de mercancías: de alta capacidad, eficiente,\nconectado, digitalizado y separado del servicio de Rodalies.",
+        "type": "regular",
+        "nativeType": "ES-mocion"
+      },
+      "dateStart": "2024-10-22T20:31:00+02:00",
+      "dateEnd": "2024-10-22T20:39:00+02:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_069/cortes/15_000400_069_1_25367_740501.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1540501I",
+        "duration": 480.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_069_1_25367_740501",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Isidre Gavin i Valls",
+          "lastname": "Gavin i Valls",
+          "firstname": "Isidre",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Junts per Catalunya"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 45
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 72
+      },
+      "agendaItem": {
+        "title": "Moción consecuencia de interpelación urgente sobre un Corredor\nMediterráneo exclusivo de mercancías: de alta capacidad, eficiente,\nconectado, digitalizado y separado del servicio de Rodalies.",
+        "officialTitle": "Moción consecuencia de interpelación urgente sobre un Corredor\nMediterráneo exclusivo de mercancías: de alta capacidad, eficiente,\nconectado, digitalizado y separado del servicio de Rodalies.",
+        "type": "regular",
+        "nativeType": "ES-mocion"
+      },
+      "dateStart": "2024-10-22T20:39:00+02:00",
+      "dateEnd": "2024-10-22T20:46:00+02:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_069/cortes/15_000400_069_1_25367_740502.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1540502I",
+        "duration": 420.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_069_1_25367_740502",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Fèlix Alonso Cantorné",
+          "lastname": "Alonso Cantorné",
+          "firstname": "Fèlix",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Plurinacional SUMAR"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 46
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 72
+      },
+      "agendaItem": {
+        "title": "Moción consecuencia de interpelación urgente sobre un Corredor\nMediterráneo exclusivo de mercancías: de alta capacidad, eficiente,\nconectado, digitalizado y separado del servicio de Rodalies.",
+        "officialTitle": "Moción consecuencia de interpelación urgente sobre un Corredor\nMediterráneo exclusivo de mercancías: de alta capacidad, eficiente,\nconectado, digitalizado y separado del servicio de Rodalies.",
+        "type": "regular",
+        "nativeType": "ES-mocion"
+      },
+      "dateStart": "2024-10-22T20:46:00+02:00",
+      "dateEnd": "2024-10-22T20:52:00+02:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_069/cortes/15_000400_069_1_25367_740503.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1540503I",
+        "duration": 360.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_069_1_25367_740503",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Carina Mejías Sánchez",
+          "lastname": "Mejías Sánchez",
+          "firstname": "Carina",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario VOX"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 47
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 72
+      },
+      "agendaItem": {
+        "title": "Moción consecuencia de interpelación urgente sobre un Corredor\nMediterráneo exclusivo de mercancías: de alta capacidad, eficiente,\nconectado, digitalizado y separado del servicio de Rodalies.",
+        "officialTitle": "Moción consecuencia de interpelación urgente sobre un Corredor\nMediterráneo exclusivo de mercancías: de alta capacidad, eficiente,\nconectado, digitalizado y separado del servicio de Rodalies.",
+        "type": "regular",
+        "nativeType": "ES-mocion"
+      },
+      "dateStart": "2024-10-22T20:52:00+02:00",
+      "dateEnd": "2024-10-22T20:58:00+02:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_069/cortes/15_000400_069_1_25367_740504.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1540504I",
+        "duration": 360.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_069_1_25367_740504",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Ferran Verdejo Vicente",
+          "lastname": "Verdejo Vicente",
+          "firstname": "Ferran",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Socialista"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 48
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 72
+      },
+      "agendaItem": {
+        "title": "Moción consecuencia de interpelación urgente sobre un Corredor\nMediterráneo exclusivo de mercancías: de alta capacidad, eficiente,\nconectado, digitalizado y separado del servicio de Rodalies.",
+        "officialTitle": "Moción consecuencia de interpelación urgente sobre un Corredor\nMediterráneo exclusivo de mercancías: de alta capacidad, eficiente,\nconectado, digitalizado y separado del servicio de Rodalies.",
+        "type": "regular",
+        "nativeType": "ES-mocion"
+      },
+      "dateStart": "2024-10-22T20:58:00+02:00",
+      "dateEnd": "2024-10-22T21:04:00+02:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_069/cortes/15_000400_069_1_25367_740505.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1540505I",
+        "duration": 360.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_069_1_25367_740505",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Inés Granollers Cunillera",
+          "lastname": "Granollers Cunillera",
+          "firstname": "Inés",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Republicano"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 49
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 72
+      },
+      "agendaItem": {
+        "title": "Moción consecuencia de interpelación urgente sobre un Corredor\nMediterráneo exclusivo de mercancías: de alta capacidad, eficiente,\nconectado, digitalizado y separado del servicio de Rodalies.",
+        "officialTitle": "Moción consecuencia de interpelación urgente sobre un Corredor\nMediterráneo exclusivo de mercancías: de alta capacidad, eficiente,\nconectado, digitalizado y separado del servicio de Rodalies.",
+        "type": "regular",
+        "nativeType": "ES-mocion"
+      },
+      "dateStart": "2024-10-22T21:04:00+02:00",
+      "dateEnd": "2024-10-22T21:11:00+02:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_069/cortes/15_000400_069_1_25367_740506.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1540506I",
+        "duration": 420.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_069_1_25367_740506",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Santi Rodríguez Serra",
+          "lastname": "Rodríguez Serra",
+          "firstname": "Santi",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Popular en el Congreso"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 50
+    }
+  ]
+}

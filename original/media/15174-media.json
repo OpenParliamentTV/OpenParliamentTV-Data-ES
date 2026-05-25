@@ -1,0 +1,4691 @@
+{
+  "meta": {
+    "session": "15174",
+    "processing": {
+      "parse_media": "2026-05-23T07:17:41"
+    },
+    "dateStart": "2026-03-25T09:02:00+01:00",
+    "dateEnd": "2026-03-25T18:38:00+01:00"
+  },
+  "data": [
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 174
+      },
+      "agendaItem": {
+        "title": "Solicitud de comparecencia urgente del Presidente del Gobierno ante\nel Pleno de la Cámara, para que dé cuenta de la posición del Gobierno en\nrelación con las decisiones adoptadas en política exterior, europea y de\ndefensa, y el impacto que las mismas tienen para los intereses generales\nde España, el debilitamiento de la relación con los socios y aliados\neuropeos, la situación de las relaciones bilaterales con Estados Unidos y\nsus efectos de aislamiento en materia de seguridad; así como las\nactuaciones previstas para preservar nuestra seguridad nacional.",
+        "officialTitle": "Solicitud de comparecencia urgente del Presidente del Gobierno ante\nel Pleno de la Cámara, para que dé cuenta de la posición del Gobierno en\nrelación con las decisiones adoptadas en política exterior, europea y de\ndefensa, y el impacto que las mismas tienen para los intereses generales\nde España, el debilitamiento de la relación con los socios y aliados\neuropeos, la situación de las relaciones bilaterales con Estados Unidos y\nsus efectos de aislamiento en materia de seguridad; así como las\nactuaciones previstas para preservar nuestra seguridad nacional.",
+        "type": "briefing",
+        "nativeType": "ES-comparecencia"
+      },
+      "dateStart": "2026-03-25T09:02:00+01:00",
+      "dateEnd": "2026-03-25T09:37:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_168/cortes/15_000400_168_0_27131_770293.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1570293I",
+        "duration": 2100.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_168_0_27131_770293",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Pedro Sánchez Pérez-Castejón",
+          "lastname": "Sánchez Pérez-Castejón",
+          "firstname": "Pedro",
+          "type": "member of government",
+          "role": "Presidente del Gobierno",
+          "faction": {
+            "label": "Grupo Parlamentario Socialista"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 1
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 174
+      },
+      "agendaItem": {
+        "title": "Solicitud de comparecencia, a petición propia, del Presidente del\nGobierno ante el Pleno de la Cámara, al objeto de informar sobre la\nposición del Gobierno de España ante la guerra en Oriente Próximo, así\ncomo de la última reunión del Consejo Europeo.",
+        "officialTitle": "Solicitud de comparecencia, a petición propia, del Presidente del\nGobierno ante el Pleno de la Cámara, al objeto de informar sobre la\nposición del Gobierno de España ante la guerra en Oriente Próximo, así\ncomo de la última reunión del Consejo Europeo.",
+        "type": "briefing",
+        "nativeType": "ES-comparecencia"
+      },
+      "dateStart": "2026-03-25T09:02:00+01:00",
+      "dateEnd": "2026-03-25T09:37:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_168/cortes/15_000400_168_0_27131_770293.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1570293I",
+        "duration": 2100.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_168_0_27131_770293",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Pedro Sánchez Pérez-Castejón",
+          "lastname": "Sánchez Pérez-Castejón",
+          "firstname": "Pedro",
+          "type": "member of government",
+          "role": "Presidente del Gobierno",
+          "faction": {
+            "label": "Grupo Parlamentario Socialista"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 2
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 174
+      },
+      "agendaItem": {
+        "title": "Solicitud de comparecencia urgente del Presidente del Gobierno ante\nel Pleno de la Cámara, para que dé cuenta de la posición del Gobierno en\nrelación con las decisiones adoptadas en política exterior, europea y de\ndefensa, y el impacto que las mismas tienen para los intereses generales\nde España, el debilitamiento de la relación con los socios y aliados\neuropeos, la situación de las relaciones bilaterales con Estados Unidos y\nsus efectos de aislamiento en materia de seguridad; así como las\nactuaciones previstas para preservar nuestra seguridad nacional.",
+        "officialTitle": "Solicitud de comparecencia urgente del Presidente del Gobierno ante\nel Pleno de la Cámara, para que dé cuenta de la posición del Gobierno en\nrelación con las decisiones adoptadas en política exterior, europea y de\ndefensa, y el impacto que las mismas tienen para los intereses generales\nde España, el debilitamiento de la relación con los socios y aliados\neuropeos, la situación de las relaciones bilaterales con Estados Unidos y\nsus efectos de aislamiento en materia de seguridad; así como las\nactuaciones previstas para preservar nuestra seguridad nacional.",
+        "type": "briefing",
+        "nativeType": "ES-comparecencia"
+      },
+      "dateStart": "2026-03-25T09:37:00+01:00",
+      "dateEnd": "2026-03-25T09:56:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_168/cortes/15_000400_168_0_27131_770294.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1570294I",
+        "duration": 1140.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_168_0_27131_770294",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Alberto Núñez Feijóo",
+          "lastname": "Núñez Feijóo",
+          "firstname": "Alberto",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Popular en el Congreso"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 3
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 174
+      },
+      "agendaItem": {
+        "title": "Solicitud de comparecencia, a petición propia, del Presidente del\nGobierno ante el Pleno de la Cámara, al objeto de informar sobre la\nposición del Gobierno de España ante la guerra en Oriente Próximo, así\ncomo de la última reunión del Consejo Europeo.",
+        "officialTitle": "Solicitud de comparecencia, a petición propia, del Presidente del\nGobierno ante el Pleno de la Cámara, al objeto de informar sobre la\nposición del Gobierno de España ante la guerra en Oriente Próximo, así\ncomo de la última reunión del Consejo Europeo.",
+        "type": "briefing",
+        "nativeType": "ES-comparecencia"
+      },
+      "dateStart": "2026-03-25T09:37:00+01:00",
+      "dateEnd": "2026-03-25T09:56:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_168/cortes/15_000400_168_0_27131_770294.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1570294I",
+        "duration": 1140.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_168_0_27131_770294",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Alberto Núñez Feijóo",
+          "lastname": "Núñez Feijóo",
+          "firstname": "Alberto",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Popular en el Congreso"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 4
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 174
+      },
+      "agendaItem": {
+        "title": "Solicitud de comparecencia urgente del Presidente del Gobierno ante\nel Pleno de la Cámara, para que dé cuenta de la posición del Gobierno en\nrelación con las decisiones adoptadas en política exterior, europea y de\ndefensa, y el impacto que las mismas tienen para los intereses generales\nde España, el debilitamiento de la relación con los socios y aliados\neuropeos, la situación de las relaciones bilaterales con Estados Unidos y\nsus efectos de aislamiento en materia de seguridad; así como las\nactuaciones previstas para preservar nuestra seguridad nacional.",
+        "officialTitle": "Solicitud de comparecencia urgente del Presidente del Gobierno ante\nel Pleno de la Cámara, para que dé cuenta de la posición del Gobierno en\nrelación con las decisiones adoptadas en política exterior, europea y de\ndefensa, y el impacto que las mismas tienen para los intereses generales\nde España, el debilitamiento de la relación con los socios y aliados\neuropeos, la situación de las relaciones bilaterales con Estados Unidos y\nsus efectos de aislamiento en materia de seguridad; así como las\nactuaciones previstas para preservar nuestra seguridad nacional.",
+        "type": "briefing",
+        "nativeType": "ES-comparecencia"
+      },
+      "dateStart": "2026-03-25T09:56:00+01:00",
+      "dateEnd": "2026-03-25T10:16:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_168/cortes/15_000400_168_0_27131_770295.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1570295I",
+        "duration": 1200.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_168_0_27131_770295",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Santiago Abascal Conde",
+          "lastname": "Abascal Conde",
+          "firstname": "Santiago",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario VOX"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 5
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 174
+      },
+      "agendaItem": {
+        "title": "Solicitud de comparecencia, a petición propia, del Presidente del\nGobierno ante el Pleno de la Cámara, al objeto de informar sobre la\nposición del Gobierno de España ante la guerra en Oriente Próximo, así\ncomo de la última reunión del Consejo Europeo.",
+        "officialTitle": "Solicitud de comparecencia, a petición propia, del Presidente del\nGobierno ante el Pleno de la Cámara, al objeto de informar sobre la\nposición del Gobierno de España ante la guerra en Oriente Próximo, así\ncomo de la última reunión del Consejo Europeo.",
+        "type": "briefing",
+        "nativeType": "ES-comparecencia"
+      },
+      "dateStart": "2026-03-25T09:56:00+01:00",
+      "dateEnd": "2026-03-25T10:16:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_168/cortes/15_000400_168_0_27131_770295.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1570295I",
+        "duration": 1200.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_168_0_27131_770295",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Santiago Abascal Conde",
+          "lastname": "Abascal Conde",
+          "firstname": "Santiago",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario VOX"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 6
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 174
+      },
+      "agendaItem": {
+        "title": "Solicitud de comparecencia urgente del Presidente del Gobierno ante\nel Pleno de la Cámara, para que dé cuenta de la posición del Gobierno en\nrelación con las decisiones adoptadas en política exterior, europea y de\ndefensa, y el impacto que las mismas tienen para los intereses generales\nde España, el debilitamiento de la relación con los socios y aliados\neuropeos, la situación de las relaciones bilaterales con Estados Unidos y\nsus efectos de aislamiento en materia de seguridad; así como las\nactuaciones previstas para preservar nuestra seguridad nacional.",
+        "officialTitle": "Solicitud de comparecencia urgente del Presidente del Gobierno ante\nel Pleno de la Cámara, para que dé cuenta de la posición del Gobierno en\nrelación con las decisiones adoptadas en política exterior, europea y de\ndefensa, y el impacto que las mismas tienen para los intereses generales\nde España, el debilitamiento de la relación con los socios y aliados\neuropeos, la situación de las relaciones bilaterales con Estados Unidos y\nsus efectos de aislamiento en materia de seguridad; así como las\nactuaciones previstas para preservar nuestra seguridad nacional.",
+        "type": "briefing",
+        "nativeType": "ES-comparecencia"
+      },
+      "dateStart": "2026-03-25T10:16:00+01:00",
+      "dateEnd": "2026-03-25T10:33:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_168/cortes/15_000400_168_0_27131_770296.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1570296I",
+        "duration": 1020.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_168_0_27131_770296",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Verónica Martínez Barbero",
+          "lastname": "Martínez Barbero",
+          "firstname": "Verónica",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Plurinacional SUMAR"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 7
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 174
+      },
+      "agendaItem": {
+        "title": "Solicitud de comparecencia, a petición propia, del Presidente del\nGobierno ante el Pleno de la Cámara, al objeto de informar sobre la\nposición del Gobierno de España ante la guerra en Oriente Próximo, así\ncomo de la última reunión del Consejo Europeo.",
+        "officialTitle": "Solicitud de comparecencia, a petición propia, del Presidente del\nGobierno ante el Pleno de la Cámara, al objeto de informar sobre la\nposición del Gobierno de España ante la guerra en Oriente Próximo, así\ncomo de la última reunión del Consejo Europeo.",
+        "type": "briefing",
+        "nativeType": "ES-comparecencia"
+      },
+      "dateStart": "2026-03-25T10:16:00+01:00",
+      "dateEnd": "2026-03-25T10:33:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_168/cortes/15_000400_168_0_27131_770296.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1570296I",
+        "duration": 1020.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_168_0_27131_770296",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Verónica Martínez Barbero",
+          "lastname": "Martínez Barbero",
+          "firstname": "Verónica",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Plurinacional SUMAR"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 8
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 174
+      },
+      "agendaItem": {
+        "title": "Solicitud de comparecencia urgente del Presidente del Gobierno ante\nel Pleno de la Cámara, para que dé cuenta de la posición del Gobierno en\nrelación con las decisiones adoptadas en política exterior, europea y de\ndefensa, y el impacto que las mismas tienen para los intereses generales\nde España, el debilitamiento de la relación con los socios y aliados\neuropeos, la situación de las relaciones bilaterales con Estados Unidos y\nsus efectos de aislamiento en materia de seguridad; así como las\nactuaciones previstas para preservar nuestra seguridad nacional.",
+        "officialTitle": "Solicitud de comparecencia urgente del Presidente del Gobierno ante\nel Pleno de la Cámara, para que dé cuenta de la posición del Gobierno en\nrelación con las decisiones adoptadas en política exterior, europea y de\ndefensa, y el impacto que las mismas tienen para los intereses generales\nde España, el debilitamiento de la relación con los socios y aliados\neuropeos, la situación de las relaciones bilaterales con Estados Unidos y\nsus efectos de aislamiento en materia de seguridad; así como las\nactuaciones previstas para preservar nuestra seguridad nacional.",
+        "type": "briefing",
+        "nativeType": "ES-comparecencia"
+      },
+      "dateStart": "2026-03-25T10:33:00+01:00",
+      "dateEnd": "2026-03-25T10:49:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_168/cortes/15_000400_168_0_27131_770297.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1570297I",
+        "duration": 960.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_168_0_27131_770297",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Gabriel Rufián Romero",
+          "lastname": "Rufián Romero",
+          "firstname": "Gabriel",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Republicano"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 9
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 174
+      },
+      "agendaItem": {
+        "title": "Solicitud de comparecencia, a petición propia, del Presidente del\nGobierno ante el Pleno de la Cámara, al objeto de informar sobre la\nposición del Gobierno de España ante la guerra en Oriente Próximo, así\ncomo de la última reunión del Consejo Europeo.",
+        "officialTitle": "Solicitud de comparecencia, a petición propia, del Presidente del\nGobierno ante el Pleno de la Cámara, al objeto de informar sobre la\nposición del Gobierno de España ante la guerra en Oriente Próximo, así\ncomo de la última reunión del Consejo Europeo.",
+        "type": "briefing",
+        "nativeType": "ES-comparecencia"
+      },
+      "dateStart": "2026-03-25T10:33:00+01:00",
+      "dateEnd": "2026-03-25T10:49:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_168/cortes/15_000400_168_0_27131_770297.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1570297I",
+        "duration": 960.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_168_0_27131_770297",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Gabriel Rufián Romero",
+          "lastname": "Rufián Romero",
+          "firstname": "Gabriel",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Republicano"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 10
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 174
+      },
+      "agendaItem": {
+        "title": "Solicitud de comparecencia urgente del Presidente del Gobierno ante\nel Pleno de la Cámara, para que dé cuenta de la posición del Gobierno en\nrelación con las decisiones adoptadas en política exterior, europea y de\ndefensa, y el impacto que las mismas tienen para los intereses generales\nde España, el debilitamiento de la relación con los socios y aliados\neuropeos, la situación de las relaciones bilaterales con Estados Unidos y\nsus efectos de aislamiento en materia de seguridad; así como las\nactuaciones previstas para preservar nuestra seguridad nacional.",
+        "officialTitle": "Solicitud de comparecencia urgente del Presidente del Gobierno ante\nel Pleno de la Cámara, para que dé cuenta de la posición del Gobierno en\nrelación con las decisiones adoptadas en política exterior, europea y de\ndefensa, y el impacto que las mismas tienen para los intereses generales\nde España, el debilitamiento de la relación con los socios y aliados\neuropeos, la situación de las relaciones bilaterales con Estados Unidos y\nsus efectos de aislamiento en materia de seguridad; así como las\nactuaciones previstas para preservar nuestra seguridad nacional.",
+        "type": "briefing",
+        "nativeType": "ES-comparecencia"
+      },
+      "dateStart": "2026-03-25T10:49:00+01:00",
+      "dateEnd": "2026-03-25T11:04:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_168/cortes/15_000400_168_0_27131_770298.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1570298I",
+        "duration": 900.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_168_0_27131_770298",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Míriam Nogueras i Camero",
+          "lastname": "Nogueras i Camero",
+          "firstname": "Míriam",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Junts per Catalunya"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 11
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 174
+      },
+      "agendaItem": {
+        "title": "Solicitud de comparecencia, a petición propia, del Presidente del\nGobierno ante el Pleno de la Cámara, al objeto de informar sobre la\nposición del Gobierno de España ante la guerra en Oriente Próximo, así\ncomo de la última reunión del Consejo Europeo.",
+        "officialTitle": "Solicitud de comparecencia, a petición propia, del Presidente del\nGobierno ante el Pleno de la Cámara, al objeto de informar sobre la\nposición del Gobierno de España ante la guerra en Oriente Próximo, así\ncomo de la última reunión del Consejo Europeo.",
+        "type": "briefing",
+        "nativeType": "ES-comparecencia"
+      },
+      "dateStart": "2026-03-25T10:49:00+01:00",
+      "dateEnd": "2026-03-25T11:04:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_168/cortes/15_000400_168_0_27131_770298.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1570298I",
+        "duration": 900.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_168_0_27131_770298",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Míriam Nogueras i Camero",
+          "lastname": "Nogueras i Camero",
+          "firstname": "Míriam",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Junts per Catalunya"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 12
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 174
+      },
+      "agendaItem": {
+        "title": "Solicitud de comparecencia urgente del Presidente del Gobierno ante\nel Pleno de la Cámara, para que dé cuenta de la posición del Gobierno en\nrelación con las decisiones adoptadas en política exterior, europea y de\ndefensa, y el impacto que las mismas tienen para los intereses generales\nde España, el debilitamiento de la relación con los socios y aliados\neuropeos, la situación de las relaciones bilaterales con Estados Unidos y\nsus efectos de aislamiento en materia de seguridad; así como las\nactuaciones previstas para preservar nuestra seguridad nacional.",
+        "officialTitle": "Solicitud de comparecencia urgente del Presidente del Gobierno ante\nel Pleno de la Cámara, para que dé cuenta de la posición del Gobierno en\nrelación con las decisiones adoptadas en política exterior, europea y de\ndefensa, y el impacto que las mismas tienen para los intereses generales\nde España, el debilitamiento de la relación con los socios y aliados\neuropeos, la situación de las relaciones bilaterales con Estados Unidos y\nsus efectos de aislamiento en materia de seguridad; así como las\nactuaciones previstas para preservar nuestra seguridad nacional.",
+        "type": "briefing",
+        "nativeType": "ES-comparecencia"
+      },
+      "dateStart": "2026-03-25T11:04:00+01:00",
+      "dateEnd": "2026-03-25T11:18:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_168/cortes/15_000400_168_0_27131_770299.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1570299I",
+        "duration": 840.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_168_0_27131_770299",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Mertxe Aizpurua Arzallus",
+          "lastname": "Aizpurua Arzallus",
+          "firstname": "Mertxe",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Euskal Herria Bildu"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 13
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 174
+      },
+      "agendaItem": {
+        "title": "Solicitud de comparecencia, a petición propia, del Presidente del\nGobierno ante el Pleno de la Cámara, al objeto de informar sobre la\nposición del Gobierno de España ante la guerra en Oriente Próximo, así\ncomo de la última reunión del Consejo Europeo.",
+        "officialTitle": "Solicitud de comparecencia, a petición propia, del Presidente del\nGobierno ante el Pleno de la Cámara, al objeto de informar sobre la\nposición del Gobierno de España ante la guerra en Oriente Próximo, así\ncomo de la última reunión del Consejo Europeo.",
+        "type": "briefing",
+        "nativeType": "ES-comparecencia"
+      },
+      "dateStart": "2026-03-25T11:04:00+01:00",
+      "dateEnd": "2026-03-25T11:18:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_168/cortes/15_000400_168_0_27131_770299.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1570299I",
+        "duration": 840.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_168_0_27131_770299",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Mertxe Aizpurua Arzallus",
+          "lastname": "Aizpurua Arzallus",
+          "firstname": "Mertxe",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Euskal Herria Bildu"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 14
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 174
+      },
+      "agendaItem": {
+        "title": "Solicitud de comparecencia urgente del Presidente del Gobierno ante\nel Pleno de la Cámara, para que dé cuenta de la posición del Gobierno en\nrelación con las decisiones adoptadas en política exterior, europea y de\ndefensa, y el impacto que las mismas tienen para los intereses generales\nde España, el debilitamiento de la relación con los socios y aliados\neuropeos, la situación de las relaciones bilaterales con Estados Unidos y\nsus efectos de aislamiento en materia de seguridad; así como las\nactuaciones previstas para preservar nuestra seguridad nacional.",
+        "officialTitle": "Solicitud de comparecencia urgente del Presidente del Gobierno ante\nel Pleno de la Cámara, para que dé cuenta de la posición del Gobierno en\nrelación con las decisiones adoptadas en política exterior, europea y de\ndefensa, y el impacto que las mismas tienen para los intereses generales\nde España, el debilitamiento de la relación con los socios y aliados\neuropeos, la situación de las relaciones bilaterales con Estados Unidos y\nsus efectos de aislamiento en materia de seguridad; así como las\nactuaciones previstas para preservar nuestra seguridad nacional.",
+        "type": "briefing",
+        "nativeType": "ES-comparecencia"
+      },
+      "dateStart": "2026-03-25T11:18:00+01:00",
+      "dateEnd": "2026-03-25T11:34:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_168/cortes/15_000400_168_0_27131_770300.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1570300I",
+        "duration": 960.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_168_0_27131_770300",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Maribel Vaquero Montero",
+          "lastname": "Vaquero Montero",
+          "firstname": "Maribel",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Vasco (EAJ-PNV)"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 15
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 174
+      },
+      "agendaItem": {
+        "title": "Solicitud de comparecencia, a petición propia, del Presidente del\nGobierno ante el Pleno de la Cámara, al objeto de informar sobre la\nposición del Gobierno de España ante la guerra en Oriente Próximo, así\ncomo de la última reunión del Consejo Europeo.",
+        "officialTitle": "Solicitud de comparecencia, a petición propia, del Presidente del\nGobierno ante el Pleno de la Cámara, al objeto de informar sobre la\nposición del Gobierno de España ante la guerra en Oriente Próximo, así\ncomo de la última reunión del Consejo Europeo.",
+        "type": "briefing",
+        "nativeType": "ES-comparecencia"
+      },
+      "dateStart": "2026-03-25T11:18:00+01:00",
+      "dateEnd": "2026-03-25T11:34:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_168/cortes/15_000400_168_0_27131_770300.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1570300I",
+        "duration": 960.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_168_0_27131_770300",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Maribel Vaquero Montero",
+          "lastname": "Vaquero Montero",
+          "firstname": "Maribel",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Vasco (EAJ-PNV)"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 16
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 174
+      },
+      "agendaItem": {
+        "title": "Solicitud de comparecencia urgente del Presidente del Gobierno ante\nel Pleno de la Cámara, para que dé cuenta de la posición del Gobierno en\nrelación con las decisiones adoptadas en política exterior, europea y de\ndefensa, y el impacto que las mismas tienen para los intereses generales\nde España, el debilitamiento de la relación con los socios y aliados\neuropeos, la situación de las relaciones bilaterales con Estados Unidos y\nsus efectos de aislamiento en materia de seguridad; así como las\nactuaciones previstas para preservar nuestra seguridad nacional.",
+        "officialTitle": "Solicitud de comparecencia urgente del Presidente del Gobierno ante\nel Pleno de la Cámara, para que dé cuenta de la posición del Gobierno en\nrelación con las decisiones adoptadas en política exterior, europea y de\ndefensa, y el impacto que las mismas tienen para los intereses generales\nde España, el debilitamiento de la relación con los socios y aliados\neuropeos, la situación de las relaciones bilaterales con Estados Unidos y\nsus efectos de aislamiento en materia de seguridad; así como las\nactuaciones previstas para preservar nuestra seguridad nacional.",
+        "type": "briefing",
+        "nativeType": "ES-comparecencia"
+      },
+      "dateStart": "2026-03-25T11:34:00+01:00",
+      "dateEnd": "2026-03-25T11:43:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_168/cortes/15_000400_168_0_27131_770301.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1570301I",
+        "duration": 540.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_168_0_27131_770301",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Ione Belarra Urteaga",
+          "lastname": "Belarra Urteaga",
+          "firstname": "Ione",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Mixto"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 17
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 174
+      },
+      "agendaItem": {
+        "title": "Solicitud de comparecencia, a petición propia, del Presidente del\nGobierno ante el Pleno de la Cámara, al objeto de informar sobre la\nposición del Gobierno de España ante la guerra en Oriente Próximo, así\ncomo de la última reunión del Consejo Europeo.",
+        "officialTitle": "Solicitud de comparecencia, a petición propia, del Presidente del\nGobierno ante el Pleno de la Cámara, al objeto de informar sobre la\nposición del Gobierno de España ante la guerra en Oriente Próximo, así\ncomo de la última reunión del Consejo Europeo.",
+        "type": "briefing",
+        "nativeType": "ES-comparecencia"
+      },
+      "dateStart": "2026-03-25T11:34:00+01:00",
+      "dateEnd": "2026-03-25T11:43:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_168/cortes/15_000400_168_0_27131_770301.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1570301I",
+        "duration": 540.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_168_0_27131_770301",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Ione Belarra Urteaga",
+          "lastname": "Belarra Urteaga",
+          "firstname": "Ione",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Mixto"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 18
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 174
+      },
+      "agendaItem": {
+        "title": "Solicitud de comparecencia urgente del Presidente del Gobierno ante\nel Pleno de la Cámara, para que dé cuenta de la posición del Gobierno en\nrelación con las decisiones adoptadas en política exterior, europea y de\ndefensa, y el impacto que las mismas tienen para los intereses generales\nde España, el debilitamiento de la relación con los socios y aliados\neuropeos, la situación de las relaciones bilaterales con Estados Unidos y\nsus efectos de aislamiento en materia de seguridad; así como las\nactuaciones previstas para preservar nuestra seguridad nacional.",
+        "officialTitle": "Solicitud de comparecencia urgente del Presidente del Gobierno ante\nel Pleno de la Cámara, para que dé cuenta de la posición del Gobierno en\nrelación con las decisiones adoptadas en política exterior, europea y de\ndefensa, y el impacto que las mismas tienen para los intereses generales\nde España, el debilitamiento de la relación con los socios y aliados\neuropeos, la situación de las relaciones bilaterales con Estados Unidos y\nsus efectos de aislamiento en materia de seguridad; así como las\nactuaciones previstas para preservar nuestra seguridad nacional.",
+        "type": "briefing",
+        "nativeType": "ES-comparecencia"
+      },
+      "dateStart": "2026-03-25T11:43:00+01:00",
+      "dateEnd": "2026-03-25T11:49:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_168/cortes/15_000400_168_0_27131_770302.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1570302I",
+        "duration": 360.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_168_0_27131_770302",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Néstor Rego Candamil",
+          "lastname": "Rego Candamil",
+          "firstname": "Néstor",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Mixto"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 19
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 174
+      },
+      "agendaItem": {
+        "title": "Solicitud de comparecencia, a petición propia, del Presidente del\nGobierno ante el Pleno de la Cámara, al objeto de informar sobre la\nposición del Gobierno de España ante la guerra en Oriente Próximo, así\ncomo de la última reunión del Consejo Europeo.",
+        "officialTitle": "Solicitud de comparecencia, a petición propia, del Presidente del\nGobierno ante el Pleno de la Cámara, al objeto de informar sobre la\nposición del Gobierno de España ante la guerra en Oriente Próximo, así\ncomo de la última reunión del Consejo Europeo.",
+        "type": "briefing",
+        "nativeType": "ES-comparecencia"
+      },
+      "dateStart": "2026-03-25T11:43:00+01:00",
+      "dateEnd": "2026-03-25T11:49:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_168/cortes/15_000400_168_0_27131_770302.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1570302I",
+        "duration": 360.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_168_0_27131_770302",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Néstor Rego Candamil",
+          "lastname": "Rego Candamil",
+          "firstname": "Néstor",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Mixto"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 20
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 174
+      },
+      "agendaItem": {
+        "title": "Solicitud de comparecencia urgente del Presidente del Gobierno ante\nel Pleno de la Cámara, para que dé cuenta de la posición del Gobierno en\nrelación con las decisiones adoptadas en política exterior, europea y de\ndefensa, y el impacto que las mismas tienen para los intereses generales\nde España, el debilitamiento de la relación con los socios y aliados\neuropeos, la situación de las relaciones bilaterales con Estados Unidos y\nsus efectos de aislamiento en materia de seguridad; así como las\nactuaciones previstas para preservar nuestra seguridad nacional.",
+        "officialTitle": "Solicitud de comparecencia urgente del Presidente del Gobierno ante\nel Pleno de la Cámara, para que dé cuenta de la posición del Gobierno en\nrelación con las decisiones adoptadas en política exterior, europea y de\ndefensa, y el impacto que las mismas tienen para los intereses generales\nde España, el debilitamiento de la relación con los socios y aliados\neuropeos, la situación de las relaciones bilaterales con Estados Unidos y\nsus efectos de aislamiento en materia de seguridad; así como las\nactuaciones previstas para preservar nuestra seguridad nacional.",
+        "type": "briefing",
+        "nativeType": "ES-comparecencia"
+      },
+      "dateStart": "2026-03-25T11:49:00+01:00",
+      "dateEnd": "2026-03-25T11:54:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_168/cortes/15_000400_168_0_27131_770303.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1570303I",
+        "duration": 300.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_168_0_27131_770303",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Cristina Valido García",
+          "lastname": "Valido García",
+          "firstname": "Cristina",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Mixto"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 21
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 174
+      },
+      "agendaItem": {
+        "title": "Solicitud de comparecencia, a petición propia, del Presidente del\nGobierno ante el Pleno de la Cámara, al objeto de informar sobre la\nposición del Gobierno de España ante la guerra en Oriente Próximo, así\ncomo de la última reunión del Consejo Europeo.",
+        "officialTitle": "Solicitud de comparecencia, a petición propia, del Presidente del\nGobierno ante el Pleno de la Cámara, al objeto de informar sobre la\nposición del Gobierno de España ante la guerra en Oriente Próximo, así\ncomo de la última reunión del Consejo Europeo.",
+        "type": "briefing",
+        "nativeType": "ES-comparecencia"
+      },
+      "dateStart": "2026-03-25T11:49:00+01:00",
+      "dateEnd": "2026-03-25T11:54:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_168/cortes/15_000400_168_0_27131_770303.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1570303I",
+        "duration": 300.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_168_0_27131_770303",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Cristina Valido García",
+          "lastname": "Valido García",
+          "firstname": "Cristina",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Mixto"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 22
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 174
+      },
+      "agendaItem": {
+        "title": "Solicitud de comparecencia urgente del Presidente del Gobierno ante\nel Pleno de la Cámara, para que dé cuenta de la posición del Gobierno en\nrelación con las decisiones adoptadas en política exterior, europea y de\ndefensa, y el impacto que las mismas tienen para los intereses generales\nde España, el debilitamiento de la relación con los socios y aliados\neuropeos, la situación de las relaciones bilaterales con Estados Unidos y\nsus efectos de aislamiento en materia de seguridad; así como las\nactuaciones previstas para preservar nuestra seguridad nacional.",
+        "officialTitle": "Solicitud de comparecencia urgente del Presidente del Gobierno ante\nel Pleno de la Cámara, para que dé cuenta de la posición del Gobierno en\nrelación con las decisiones adoptadas en política exterior, europea y de\ndefensa, y el impacto que las mismas tienen para los intereses generales\nde España, el debilitamiento de la relación con los socios y aliados\neuropeos, la situación de las relaciones bilaterales con Estados Unidos y\nsus efectos de aislamiento en materia de seguridad; así como las\nactuaciones previstas para preservar nuestra seguridad nacional.",
+        "type": "briefing",
+        "nativeType": "ES-comparecencia"
+      },
+      "dateStart": "2026-03-25T11:54:00+01:00",
+      "dateEnd": "2026-03-25T11:59:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_168/cortes/15_000400_168_0_27131_770304.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1570304I",
+        "duration": 300.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_168_0_27131_770304",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Alberto Catalán Higueras",
+          "lastname": "Catalán Higueras",
+          "firstname": "Alberto",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Mixto"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 23
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 174
+      },
+      "agendaItem": {
+        "title": "Solicitud de comparecencia, a petición propia, del Presidente del\nGobierno ante el Pleno de la Cámara, al objeto de informar sobre la\nposición del Gobierno de España ante la guerra en Oriente Próximo, así\ncomo de la última reunión del Consejo Europeo.",
+        "officialTitle": "Solicitud de comparecencia, a petición propia, del Presidente del\nGobierno ante el Pleno de la Cámara, al objeto de informar sobre la\nposición del Gobierno de España ante la guerra en Oriente Próximo, así\ncomo de la última reunión del Consejo Europeo.",
+        "type": "briefing",
+        "nativeType": "ES-comparecencia"
+      },
+      "dateStart": "2026-03-25T11:54:00+01:00",
+      "dateEnd": "2026-03-25T11:59:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_168/cortes/15_000400_168_0_27131_770304.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1570304I",
+        "duration": 300.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_168_0_27131_770304",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Alberto Catalán Higueras",
+          "lastname": "Catalán Higueras",
+          "firstname": "Alberto",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Mixto"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 24
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 174
+      },
+      "agendaItem": {
+        "title": "Solicitud de comparecencia urgente del Presidente del Gobierno ante\nel Pleno de la Cámara, para que dé cuenta de la posición del Gobierno en\nrelación con las decisiones adoptadas en política exterior, europea y de\ndefensa, y el impacto que las mismas tienen para los intereses generales\nde España, el debilitamiento de la relación con los socios y aliados\neuropeos, la situación de las relaciones bilaterales con Estados Unidos y\nsus efectos de aislamiento en materia de seguridad; así como las\nactuaciones previstas para preservar nuestra seguridad nacional.",
+        "officialTitle": "Solicitud de comparecencia urgente del Presidente del Gobierno ante\nel Pleno de la Cámara, para que dé cuenta de la posición del Gobierno en\nrelación con las decisiones adoptadas en política exterior, europea y de\ndefensa, y el impacto que las mismas tienen para los intereses generales\nde España, el debilitamiento de la relación con los socios y aliados\neuropeos, la situación de las relaciones bilaterales con Estados Unidos y\nsus efectos de aislamiento en materia de seguridad; así como las\nactuaciones previstas para preservar nuestra seguridad nacional.",
+        "type": "briefing",
+        "nativeType": "ES-comparecencia"
+      },
+      "dateStart": "2026-03-25T11:59:00+01:00",
+      "dateEnd": "2026-03-25T12:05:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_168/cortes/15_000400_168_0_27131_770305.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1570305I",
+        "duration": 360.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_168_0_27131_770305",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Àgueda Micó Micó",
+          "lastname": "Micó Micó",
+          "firstname": "Àgueda",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Mixto"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 25
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 174
+      },
+      "agendaItem": {
+        "title": "Solicitud de comparecencia, a petición propia, del Presidente del\nGobierno ante el Pleno de la Cámara, al objeto de informar sobre la\nposición del Gobierno de España ante la guerra en Oriente Próximo, así\ncomo de la última reunión del Consejo Europeo.",
+        "officialTitle": "Solicitud de comparecencia, a petición propia, del Presidente del\nGobierno ante el Pleno de la Cámara, al objeto de informar sobre la\nposición del Gobierno de España ante la guerra en Oriente Próximo, así\ncomo de la última reunión del Consejo Europeo.",
+        "type": "briefing",
+        "nativeType": "ES-comparecencia"
+      },
+      "dateStart": "2026-03-25T11:59:00+01:00",
+      "dateEnd": "2026-03-25T12:05:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_168/cortes/15_000400_168_0_27131_770305.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1570305I",
+        "duration": 360.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_168_0_27131_770305",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Àgueda Micó Micó",
+          "lastname": "Micó Micó",
+          "firstname": "Àgueda",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Mixto"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 26
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 174
+      },
+      "agendaItem": {
+        "title": "Solicitud de comparecencia urgente del Presidente del Gobierno ante\nel Pleno de la Cámara, para que dé cuenta de la posición del Gobierno en\nrelación con las decisiones adoptadas en política exterior, europea y de\ndefensa, y el impacto que las mismas tienen para los intereses generales\nde España, el debilitamiento de la relación con los socios y aliados\neuropeos, la situación de las relaciones bilaterales con Estados Unidos y\nsus efectos de aislamiento en materia de seguridad; así como las\nactuaciones previstas para preservar nuestra seguridad nacional.",
+        "officialTitle": "Solicitud de comparecencia urgente del Presidente del Gobierno ante\nel Pleno de la Cámara, para que dé cuenta de la posición del Gobierno en\nrelación con las decisiones adoptadas en política exterior, europea y de\ndefensa, y el impacto que las mismas tienen para los intereses generales\nde España, el debilitamiento de la relación con los socios y aliados\neuropeos, la situación de las relaciones bilaterales con Estados Unidos y\nsus efectos de aislamiento en materia de seguridad; así como las\nactuaciones previstas para preservar nuestra seguridad nacional.",
+        "type": "briefing",
+        "nativeType": "ES-comparecencia"
+      },
+      "dateStart": "2026-03-25T12:05:00+01:00",
+      "dateEnd": "2026-03-25T12:24:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_168/cortes/15_000400_168_0_27131_770306.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1570306I",
+        "duration": 1140.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_168_0_27131_770306",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Patxi López Álvarez",
+          "lastname": "López Álvarez",
+          "firstname": "Patxi",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Socialista"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 27
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 174
+      },
+      "agendaItem": {
+        "title": "Solicitud de comparecencia, a petición propia, del Presidente del\nGobierno ante el Pleno de la Cámara, al objeto de informar sobre la\nposición del Gobierno de España ante la guerra en Oriente Próximo, así\ncomo de la última reunión del Consejo Europeo.",
+        "officialTitle": "Solicitud de comparecencia, a petición propia, del Presidente del\nGobierno ante el Pleno de la Cámara, al objeto de informar sobre la\nposición del Gobierno de España ante la guerra en Oriente Próximo, así\ncomo de la última reunión del Consejo Europeo.",
+        "type": "briefing",
+        "nativeType": "ES-comparecencia"
+      },
+      "dateStart": "2026-03-25T12:05:00+01:00",
+      "dateEnd": "2026-03-25T12:24:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_168/cortes/15_000400_168_0_27131_770306.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1570306I",
+        "duration": 1140.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_168_0_27131_770306",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Patxi López Álvarez",
+          "lastname": "López Álvarez",
+          "firstname": "Patxi",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Socialista"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 28
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 174
+      },
+      "agendaItem": {
+        "title": "Solicitud de comparecencia urgente del Presidente del Gobierno ante\nel Pleno de la Cámara, para que dé cuenta de la posición del Gobierno en\nrelación con las decisiones adoptadas en política exterior, europea y de\ndefensa, y el impacto que las mismas tienen para los intereses generales\nde España, el debilitamiento de la relación con los socios y aliados\neuropeos, la situación de las relaciones bilaterales con Estados Unidos y\nsus efectos de aislamiento en materia de seguridad; así como las\nactuaciones previstas para preservar nuestra seguridad nacional.",
+        "officialTitle": "Solicitud de comparecencia urgente del Presidente del Gobierno ante\nel Pleno de la Cámara, para que dé cuenta de la posición del Gobierno en\nrelación con las decisiones adoptadas en política exterior, europea y de\ndefensa, y el impacto que las mismas tienen para los intereses generales\nde España, el debilitamiento de la relación con los socios y aliados\neuropeos, la situación de las relaciones bilaterales con Estados Unidos y\nsus efectos de aislamiento en materia de seguridad; así como las\nactuaciones previstas para preservar nuestra seguridad nacional.",
+        "type": "briefing",
+        "nativeType": "ES-comparecencia"
+      },
+      "dateStart": "2026-03-25T12:30:00+01:00",
+      "dateEnd": "2026-03-25T13:54:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_168/cortes/15_000400_168_1_27134_770314.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1570314I",
+        "duration": 5040.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_168_1_27134_770314",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Pedro Sánchez Pérez-Castejón",
+          "lastname": "Sánchez Pérez-Castejón",
+          "firstname": "Pedro",
+          "type": "member of government",
+          "role": "Presidente del Gobierno",
+          "faction": {
+            "label": "Grupo Parlamentario Socialista"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 29
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 174
+      },
+      "agendaItem": {
+        "title": "Solicitud de comparecencia, a petición propia, del Presidente del\nGobierno ante el Pleno de la Cámara, al objeto de informar sobre la\nposición del Gobierno de España ante la guerra en Oriente Próximo, así\ncomo de la última reunión del Consejo Europeo.",
+        "officialTitle": "Solicitud de comparecencia, a petición propia, del Presidente del\nGobierno ante el Pleno de la Cámara, al objeto de informar sobre la\nposición del Gobierno de España ante la guerra en Oriente Próximo, así\ncomo de la última reunión del Consejo Europeo.",
+        "type": "briefing",
+        "nativeType": "ES-comparecencia"
+      },
+      "dateStart": "2026-03-25T12:30:00+01:00",
+      "dateEnd": "2026-03-25T13:54:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_168/cortes/15_000400_168_1_27134_770314.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1570314I",
+        "duration": 5040.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_168_1_27134_770314",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Pedro Sánchez Pérez-Castejón",
+          "lastname": "Sánchez Pérez-Castejón",
+          "firstname": "Pedro",
+          "type": "member of government",
+          "role": "Presidente del Gobierno",
+          "faction": {
+            "label": "Grupo Parlamentario Socialista"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 30
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 174
+      },
+      "agendaItem": {
+        "title": "Solicitud de comparecencia urgente del Presidente del Gobierno ante\nel Pleno de la Cámara, para que dé cuenta de la posición del Gobierno en\nrelación con las decisiones adoptadas en política exterior, europea y de\ndefensa, y el impacto que las mismas tienen para los intereses generales\nde España, el debilitamiento de la relación con los socios y aliados\neuropeos, la situación de las relaciones bilaterales con Estados Unidos y\nsus efectos de aislamiento en materia de seguridad; así como las\nactuaciones previstas para preservar nuestra seguridad nacional.",
+        "officialTitle": "Solicitud de comparecencia urgente del Presidente del Gobierno ante\nel Pleno de la Cámara, para que dé cuenta de la posición del Gobierno en\nrelación con las decisiones adoptadas en política exterior, europea y de\ndefensa, y el impacto que las mismas tienen para los intereses generales\nde España, el debilitamiento de la relación con los socios y aliados\neuropeos, la situación de las relaciones bilaterales con Estados Unidos y\nsus efectos de aislamiento en materia de seguridad; así como las\nactuaciones previstas para preservar nuestra seguridad nacional.",
+        "type": "briefing",
+        "nativeType": "ES-comparecencia"
+      },
+      "dateStart": "2026-03-25T13:54:00+01:00",
+      "dateEnd": "2026-03-25T14:02:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_168/cortes/15_000400_168_1_27134_770315.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1570315I",
+        "duration": 480.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_168_1_27134_770315",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Alberto Núñez Feijóo",
+          "lastname": "Núñez Feijóo",
+          "firstname": "Alberto",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Popular en el Congreso"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 31
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 174
+      },
+      "agendaItem": {
+        "title": "Solicitud de comparecencia, a petición propia, del Presidente del\nGobierno ante el Pleno de la Cámara, al objeto de informar sobre la\nposición del Gobierno de España ante la guerra en Oriente Próximo, así\ncomo de la última reunión del Consejo Europeo.",
+        "officialTitle": "Solicitud de comparecencia, a petición propia, del Presidente del\nGobierno ante el Pleno de la Cámara, al objeto de informar sobre la\nposición del Gobierno de España ante la guerra en Oriente Próximo, así\ncomo de la última reunión del Consejo Europeo.",
+        "type": "briefing",
+        "nativeType": "ES-comparecencia"
+      },
+      "dateStart": "2026-03-25T13:54:00+01:00",
+      "dateEnd": "2026-03-25T14:02:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_168/cortes/15_000400_168_1_27134_770315.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1570315I",
+        "duration": 480.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_168_1_27134_770315",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Alberto Núñez Feijóo",
+          "lastname": "Núñez Feijóo",
+          "firstname": "Alberto",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Popular en el Congreso"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 32
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 174
+      },
+      "agendaItem": {
+        "title": "Solicitud de comparecencia urgente del Presidente del Gobierno ante\nel Pleno de la Cámara, para que dé cuenta de la posición del Gobierno en\nrelación con las decisiones adoptadas en política exterior, europea y de\ndefensa, y el impacto que las mismas tienen para los intereses generales\nde España, el debilitamiento de la relación con los socios y aliados\neuropeos, la situación de las relaciones bilaterales con Estados Unidos y\nsus efectos de aislamiento en materia de seguridad; así como las\nactuaciones previstas para preservar nuestra seguridad nacional.",
+        "officialTitle": "Solicitud de comparecencia urgente del Presidente del Gobierno ante\nel Pleno de la Cámara, para que dé cuenta de la posición del Gobierno en\nrelación con las decisiones adoptadas en política exterior, europea y de\ndefensa, y el impacto que las mismas tienen para los intereses generales\nde España, el debilitamiento de la relación con los socios y aliados\neuropeos, la situación de las relaciones bilaterales con Estados Unidos y\nsus efectos de aislamiento en materia de seguridad; así como las\nactuaciones previstas para preservar nuestra seguridad nacional.",
+        "type": "briefing",
+        "nativeType": "ES-comparecencia"
+      },
+      "dateStart": "2026-03-25T14:02:00+01:00",
+      "dateEnd": "2026-03-25T14:08:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_168/cortes/15_000400_168_1_27134_770316.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1570316I",
+        "duration": 360.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_168_1_27134_770316",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Verónica Martínez Barbero",
+          "lastname": "Martínez Barbero",
+          "firstname": "Verónica",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Plurinacional SUMAR"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 33
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 174
+      },
+      "agendaItem": {
+        "title": "Solicitud de comparecencia, a petición propia, del Presidente del\nGobierno ante el Pleno de la Cámara, al objeto de informar sobre la\nposición del Gobierno de España ante la guerra en Oriente Próximo, así\ncomo de la última reunión del Consejo Europeo.",
+        "officialTitle": "Solicitud de comparecencia, a petición propia, del Presidente del\nGobierno ante el Pleno de la Cámara, al objeto de informar sobre la\nposición del Gobierno de España ante la guerra en Oriente Próximo, así\ncomo de la última reunión del Consejo Europeo.",
+        "type": "briefing",
+        "nativeType": "ES-comparecencia"
+      },
+      "dateStart": "2026-03-25T14:02:00+01:00",
+      "dateEnd": "2026-03-25T14:08:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_168/cortes/15_000400_168_1_27134_770316.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1570316I",
+        "duration": 360.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_168_1_27134_770316",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Verónica Martínez Barbero",
+          "lastname": "Martínez Barbero",
+          "firstname": "Verónica",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Plurinacional SUMAR"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 34
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 174
+      },
+      "agendaItem": {
+        "title": "Solicitud de comparecencia urgente del Presidente del Gobierno ante\nel Pleno de la Cámara, para que dé cuenta de la posición del Gobierno en\nrelación con las decisiones adoptadas en política exterior, europea y de\ndefensa, y el impacto que las mismas tienen para los intereses generales\nde España, el debilitamiento de la relación con los socios y aliados\neuropeos, la situación de las relaciones bilaterales con Estados Unidos y\nsus efectos de aislamiento en materia de seguridad; así como las\nactuaciones previstas para preservar nuestra seguridad nacional.",
+        "officialTitle": "Solicitud de comparecencia urgente del Presidente del Gobierno ante\nel Pleno de la Cámara, para que dé cuenta de la posición del Gobierno en\nrelación con las decisiones adoptadas en política exterior, europea y de\ndefensa, y el impacto que las mismas tienen para los intereses generales\nde España, el debilitamiento de la relación con los socios y aliados\neuropeos, la situación de las relaciones bilaterales con Estados Unidos y\nsus efectos de aislamiento en materia de seguridad; así como las\nactuaciones previstas para preservar nuestra seguridad nacional.",
+        "type": "briefing",
+        "nativeType": "ES-comparecencia"
+      },
+      "dateStart": "2026-03-25T14:08:00+01:00",
+      "dateEnd": "2026-03-25T14:14:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_168/cortes/15_000400_168_1_27134_770317.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1570317I",
+        "duration": 360.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_168_1_27134_770317",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Gabriel Rufián Romero",
+          "lastname": "Rufián Romero",
+          "firstname": "Gabriel",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Republicano"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 35
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 174
+      },
+      "agendaItem": {
+        "title": "Solicitud de comparecencia, a petición propia, del Presidente del\nGobierno ante el Pleno de la Cámara, al objeto de informar sobre la\nposición del Gobierno de España ante la guerra en Oriente Próximo, así\ncomo de la última reunión del Consejo Europeo.",
+        "officialTitle": "Solicitud de comparecencia, a petición propia, del Presidente del\nGobierno ante el Pleno de la Cámara, al objeto de informar sobre la\nposición del Gobierno de España ante la guerra en Oriente Próximo, así\ncomo de la última reunión del Consejo Europeo.",
+        "type": "briefing",
+        "nativeType": "ES-comparecencia"
+      },
+      "dateStart": "2026-03-25T14:08:00+01:00",
+      "dateEnd": "2026-03-25T14:14:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_168/cortes/15_000400_168_1_27134_770317.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1570317I",
+        "duration": 360.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_168_1_27134_770317",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Gabriel Rufián Romero",
+          "lastname": "Rufián Romero",
+          "firstname": "Gabriel",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Republicano"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 36
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 174
+      },
+      "agendaItem": {
+        "title": "Solicitud de comparecencia urgente del Presidente del Gobierno ante\nel Pleno de la Cámara, para que dé cuenta de la posición del Gobierno en\nrelación con las decisiones adoptadas en política exterior, europea y de\ndefensa, y el impacto que las mismas tienen para los intereses generales\nde España, el debilitamiento de la relación con los socios y aliados\neuropeos, la situación de las relaciones bilaterales con Estados Unidos y\nsus efectos de aislamiento en materia de seguridad; así como las\nactuaciones previstas para preservar nuestra seguridad nacional.",
+        "officialTitle": "Solicitud de comparecencia urgente del Presidente del Gobierno ante\nel Pleno de la Cámara, para que dé cuenta de la posición del Gobierno en\nrelación con las decisiones adoptadas en política exterior, europea y de\ndefensa, y el impacto que las mismas tienen para los intereses generales\nde España, el debilitamiento de la relación con los socios y aliados\neuropeos, la situación de las relaciones bilaterales con Estados Unidos y\nsus efectos de aislamiento en materia de seguridad; así como las\nactuaciones previstas para preservar nuestra seguridad nacional.",
+        "type": "briefing",
+        "nativeType": "ES-comparecencia"
+      },
+      "dateStart": "2026-03-25T14:14:00+01:00",
+      "dateEnd": "2026-03-25T14:20:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_168/cortes/15_000400_168_1_27134_770318.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1570318I",
+        "duration": 360.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_168_1_27134_770318",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Patxi López Álvarez",
+          "lastname": "López Álvarez",
+          "firstname": "Patxi",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Socialista"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 37
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 174
+      },
+      "agendaItem": {
+        "title": "Solicitud de comparecencia, a petición propia, del Presidente del\nGobierno ante el Pleno de la Cámara, al objeto de informar sobre la\nposición del Gobierno de España ante la guerra en Oriente Próximo, así\ncomo de la última reunión del Consejo Europeo.",
+        "officialTitle": "Solicitud de comparecencia, a petición propia, del Presidente del\nGobierno ante el Pleno de la Cámara, al objeto de informar sobre la\nposición del Gobierno de España ante la guerra en Oriente Próximo, así\ncomo de la última reunión del Consejo Europeo.",
+        "type": "briefing",
+        "nativeType": "ES-comparecencia"
+      },
+      "dateStart": "2026-03-25T14:14:00+01:00",
+      "dateEnd": "2026-03-25T14:20:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_168/cortes/15_000400_168_1_27134_770318.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1570318I",
+        "duration": 360.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_168_1_27134_770318",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Patxi López Álvarez",
+          "lastname": "López Álvarez",
+          "firstname": "Patxi",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Socialista"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 38
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 174
+      },
+      "agendaItem": {
+        "title": "Solicitud de comparecencia urgente del Presidente del Gobierno ante\nel Pleno de la Cámara, para que dé cuenta de la posición del Gobierno en\nrelación con las decisiones adoptadas en política exterior, europea y de\ndefensa, y el impacto que las mismas tienen para los intereses generales\nde España, el debilitamiento de la relación con los socios y aliados\neuropeos, la situación de las relaciones bilaterales con Estados Unidos y\nsus efectos de aislamiento en materia de seguridad; así como las\nactuaciones previstas para preservar nuestra seguridad nacional.",
+        "officialTitle": "Solicitud de comparecencia urgente del Presidente del Gobierno ante\nel Pleno de la Cámara, para que dé cuenta de la posición del Gobierno en\nrelación con las decisiones adoptadas en política exterior, europea y de\ndefensa, y el impacto que las mismas tienen para los intereses generales\nde España, el debilitamiento de la relación con los socios y aliados\neuropeos, la situación de las relaciones bilaterales con Estados Unidos y\nsus efectos de aislamiento en materia de seguridad; así como las\nactuaciones previstas para preservar nuestra seguridad nacional.",
+        "type": "briefing",
+        "nativeType": "ES-comparecencia"
+      },
+      "dateStart": "2026-03-25T14:20:00+01:00",
+      "dateEnd": "2026-03-25T14:28:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_168/cortes/15_000400_168_1_27134_770319.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1570319I",
+        "duration": 480.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_168_1_27134_770319",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Pedro Sánchez Pérez-Castejón",
+          "lastname": "Sánchez Pérez-Castejón",
+          "firstname": "Pedro",
+          "type": "member of government",
+          "role": "Presidente del Gobierno",
+          "faction": {
+            "label": "Grupo Parlamentario Socialista"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 39
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 174
+      },
+      "agendaItem": {
+        "title": "Solicitud de comparecencia, a petición propia, del Presidente del\nGobierno ante el Pleno de la Cámara, al objeto de informar sobre la\nposición del Gobierno de España ante la guerra en Oriente Próximo, así\ncomo de la última reunión del Consejo Europeo.",
+        "officialTitle": "Solicitud de comparecencia, a petición propia, del Presidente del\nGobierno ante el Pleno de la Cámara, al objeto de informar sobre la\nposición del Gobierno de España ante la guerra en Oriente Próximo, así\ncomo de la última reunión del Consejo Europeo.",
+        "type": "briefing",
+        "nativeType": "ES-comparecencia"
+      },
+      "dateStart": "2026-03-25T14:20:00+01:00",
+      "dateEnd": "2026-03-25T14:28:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_168/cortes/15_000400_168_1_27134_770319.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1570319I",
+        "duration": 480.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_168_1_27134_770319",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Pedro Sánchez Pérez-Castejón",
+          "lastname": "Sánchez Pérez-Castejón",
+          "firstname": "Pedro",
+          "type": "member of government",
+          "role": "Presidente del Gobierno",
+          "faction": {
+            "label": "Grupo Parlamentario Socialista"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 40
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 174
+      },
+      "agendaItem": {
+        "title": "¿Cuánto nos cuesta su Gobierno a los españoles?",
+        "officialTitle": "¿Cuánto nos cuesta su Gobierno a los españoles?",
+        "type": "qa",
+        "nativeType": "ES-pregunta"
+      },
+      "dateStart": "2026-03-25T14:29:00+01:00",
+      "dateEnd": "2026-03-25T14:30:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_168/cortes/15_000400_168_1_27134_770322.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1570322I",
+        "duration": 60.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_168_1_27134_770322",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Alberto Núñez Feijóo",
+          "lastname": "Núñez Feijóo",
+          "firstname": "Alberto",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Popular en el Congreso"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 41
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 174
+      },
+      "agendaItem": {
+        "title": "¿Cuánto nos cuesta su Gobierno a los españoles?",
+        "officialTitle": "¿Cuánto nos cuesta su Gobierno a los españoles?",
+        "type": "qa",
+        "nativeType": "ES-pregunta"
+      },
+      "dateStart": "2026-03-25T14:30:00+01:00",
+      "dateEnd": "2026-03-25T14:32:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_168/cortes/15_000400_168_1_27134_770323.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1570323I",
+        "duration": 120.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_168_1_27134_770323",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Pedro Sánchez Pérez-Castejón",
+          "lastname": "Sánchez Pérez-Castejón",
+          "firstname": "Pedro",
+          "type": "member of government",
+          "role": "Presidente del Gobierno",
+          "faction": {
+            "label": "Grupo Parlamentario Socialista"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 42
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 174
+      },
+      "agendaItem": {
+        "title": "¿Cuánto nos cuesta su Gobierno a los españoles?",
+        "officialTitle": "¿Cuánto nos cuesta su Gobierno a los españoles?",
+        "type": "qa",
+        "nativeType": "ES-pregunta"
+      },
+      "dateStart": "2026-03-25T14:32:00+01:00",
+      "dateEnd": "2026-03-25T14:34:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_168/cortes/15_000400_168_1_27134_770324.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1570324I",
+        "duration": 120.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_168_1_27134_770324",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Alberto Núñez Feijóo",
+          "lastname": "Núñez Feijóo",
+          "firstname": "Alberto",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Popular en el Congreso"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 43
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 174
+      },
+      "agendaItem": {
+        "title": "¿Cuánto nos cuesta su Gobierno a los españoles?",
+        "officialTitle": "¿Cuánto nos cuesta su Gobierno a los españoles?",
+        "type": "qa",
+        "nativeType": "ES-pregunta"
+      },
+      "dateStart": "2026-03-25T14:34:00+01:00",
+      "dateEnd": "2026-03-25T14:35:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_168/cortes/15_000400_168_1_27134_770325.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1570325I",
+        "duration": 60.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_168_1_27134_770325",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Pedro Sánchez Pérez-Castejón",
+          "lastname": "Sánchez Pérez-Castejón",
+          "firstname": "Pedro",
+          "type": "member of government",
+          "role": "Presidente del Gobierno",
+          "faction": {
+            "label": "Grupo Parlamentario Socialista"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 44
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 174
+      },
+      "agendaItem": {
+        "title": "¿Por qué no les pregunta a los españoles si quieren que el dinero de\nsus impuestos se dedique a la atención sanitaria de medio mundo?",
+        "officialTitle": "¿Por qué no les pregunta a los españoles si quieren que el dinero de\nsus impuestos se dedique a la atención sanitaria de medio mundo?",
+        "type": "qa",
+        "nativeType": "ES-pregunta"
+      },
+      "dateStart": "2026-03-25T14:35:00+01:00",
+      "dateEnd": "2026-03-25T14:37:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_168/cortes/15_000400_168_1_27134_770327.mp4\nhttps://www.congreso.es/audiovisual/video/leg15/400/15_000400_168/cortes/15_000400_168_1_27134_770329.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1570327I https://app.congreso.es/v1/15770329I",
+        "duration": 120.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_168_1_27134_770329",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Santiago Abascal Conde",
+          "lastname": "Abascal Conde",
+          "firstname": "Santiago",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario VOX"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 45
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 174
+      },
+      "agendaItem": {
+        "title": "¿Por qué no les pregunta a los españoles si quieren que el dinero de\nsus impuestos se dedique a la atención sanitaria de medio mundo?",
+        "officialTitle": "¿Por qué no les pregunta a los españoles si quieren que el dinero de\nsus impuestos se dedique a la atención sanitaria de medio mundo?",
+        "type": "qa",
+        "nativeType": "ES-pregunta"
+      },
+      "dateStart": "2026-03-25T14:37:00+01:00",
+      "dateEnd": "2026-03-25T14:38:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_168/cortes/15_000400_168_1_27134_770328.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1570328I",
+        "duration": 60.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_168_1_27134_770328",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Pedro Sánchez Pérez-Castejón",
+          "lastname": "Sánchez Pérez-Castejón",
+          "firstname": "Pedro",
+          "type": "member of government",
+          "role": "Presidente del Gobierno",
+          "faction": {
+            "label": "Grupo Parlamentario Socialista"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 46
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 174
+      },
+      "agendaItem": {
+        "title": "¿Por qué no les pregunta a los españoles si quieren que el dinero de\nsus impuestos se dedique a la atención sanitaria de medio mundo?",
+        "officialTitle": "¿Por qué no les pregunta a los españoles si quieren que el dinero de\nsus impuestos se dedique a la atención sanitaria de medio mundo?",
+        "type": "qa",
+        "nativeType": "ES-pregunta"
+      },
+      "dateStart": "2026-03-25T14:39:00+01:00",
+      "dateEnd": "2026-03-25T14:41:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_168/cortes/15_000400_168_1_27134_770330.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1570330I",
+        "duration": 120.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_168_1_27134_770330",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Pedro Sánchez Pérez-Castejón",
+          "lastname": "Sánchez Pérez-Castejón",
+          "firstname": "Pedro",
+          "type": "member of government",
+          "role": "Presidente del Gobierno",
+          "faction": {
+            "label": "Grupo Parlamentario Socialista"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 47
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 174
+      },
+      "agendaItem": {
+        "title": "¿Cómo será recordado su paso por el Gobierno, Vicepresidenta?",
+        "officialTitle": "¿Cómo será recordado su paso por el Gobierno, Vicepresidenta?",
+        "type": "qa",
+        "nativeType": "ES-pregunta"
+      },
+      "dateStart": "2026-03-25T14:41:00+01:00",
+      "dateEnd": "2026-03-25T14:43:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_168/cortes/15_000400_168_1_27134_770332.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1570332I",
+        "duration": 120.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_168_1_27134_770332",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Ester Muñoz de la Iglesia",
+          "lastname": "Muñoz de la Iglesia",
+          "firstname": "Ester",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Popular en el Congreso"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 48
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 174
+      },
+      "agendaItem": {
+        "title": "¿Cómo será recordado su paso por el Gobierno, Vicepresidenta?",
+        "officialTitle": "¿Cómo será recordado su paso por el Gobierno, Vicepresidenta?",
+        "type": "qa",
+        "nativeType": "ES-pregunta"
+      },
+      "dateStart": "2026-03-25T14:43:00+01:00",
+      "dateEnd": "2026-03-25T14:44:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_168/cortes/15_000400_168_1_27134_770333.mp4\nhttps://www.congreso.es/audiovisual/video/leg15/400/15_000400_168/cortes/15_000400_168_1_27134_770335.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1570333I https://app.congreso.es/v1/15770335I",
+        "duration": 60.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_168_1_27134_770335",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "María Jesús Montero Cuadrado",
+          "lastname": "Montero Cuadrado",
+          "firstname": "María Jesús",
+          "type": "member of government",
+          "role": "Vicepresidenta Primera del Gobierno y Ministra de Hacienda",
+          "faction": {
+            "label": "Grupo Parlamentario Socialista"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 49
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 174
+      },
+      "agendaItem": {
+        "title": "¿Cómo será recordado su paso por el Gobierno, Vicepresidenta?",
+        "officialTitle": "¿Cómo será recordado su paso por el Gobierno, Vicepresidenta?",
+        "type": "qa",
+        "nativeType": "ES-pregunta"
+      },
+      "dateStart": "2026-03-25T14:44:00+01:00",
+      "dateEnd": "2026-03-25T14:46:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_168/cortes/15_000400_168_1_27134_770334.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1570334I",
+        "duration": 120.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_168_1_27134_770334",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Ester Muñoz de la Iglesia",
+          "lastname": "Muñoz de la Iglesia",
+          "firstname": "Ester",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Popular en el Congreso"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 50
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 174
+      },
+      "agendaItem": {
+        "title": "¿Cuál ha sido la verdadera prioridad de su Ministerio durante todos\nestos años?",
+        "officialTitle": "¿Cuál ha sido la verdadera prioridad de su Ministerio durante todos\nestos años?",
+        "type": "qa",
+        "nativeType": "ES-pregunta"
+      },
+      "dateStart": "2026-03-25T14:48:00+01:00",
+      "dateEnd": "2026-03-25T14:50:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_168/cortes/15_000400_168_1_27134_770337.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1570337I",
+        "duration": 120.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_168_1_27134_770337",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Carlos Rojas García",
+          "lastname": "Rojas García",
+          "firstname": "Carlos",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Popular en el Congreso"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 51
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 174
+      },
+      "agendaItem": {
+        "title": "¿Cuál ha sido la verdadera prioridad de su Ministerio durante todos\nestos años?",
+        "officialTitle": "¿Cuál ha sido la verdadera prioridad de su Ministerio durante todos\nestos años?",
+        "type": "qa",
+        "nativeType": "ES-pregunta"
+      },
+      "dateStart": "2026-03-25T14:50:00+01:00",
+      "dateEnd": "2026-03-25T14:52:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_168/cortes/15_000400_168_1_27134_770338.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1570338I",
+        "duration": 120.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_168_1_27134_770338",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "María Jesús Montero Cuadrado",
+          "lastname": "Montero Cuadrado",
+          "firstname": "María Jesús",
+          "type": "member of government",
+          "role": "Vicepresidenta Primera del Gobierno y Ministra de Hacienda",
+          "faction": {
+            "label": "Grupo Parlamentario Socialista"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 52
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 174
+      },
+      "agendaItem": {
+        "title": "¿Cuál ha sido la verdadera prioridad de su Ministerio durante todos\nestos años?",
+        "officialTitle": "¿Cuál ha sido la verdadera prioridad de su Ministerio durante todos\nestos años?",
+        "type": "qa",
+        "nativeType": "ES-pregunta"
+      },
+      "dateStart": "2026-03-25T14:52:00+01:00",
+      "dateEnd": "2026-03-25T14:53:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_168/cortes/15_000400_168_1_27134_770339.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1570339I",
+        "duration": 60.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_168_1_27134_770339",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Carlos Rojas García",
+          "lastname": "Rojas García",
+          "firstname": "Carlos",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Popular en el Congreso"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 53
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 174
+      },
+      "agendaItem": {
+        "title": "¿Cuál ha sido la verdadera prioridad de su Ministerio durante todos\nestos años?",
+        "officialTitle": "¿Cuál ha sido la verdadera prioridad de su Ministerio durante todos\nestos años?",
+        "type": "qa",
+        "nativeType": "ES-pregunta"
+      },
+      "dateStart": "2026-03-25T14:53:00+01:00",
+      "dateEnd": "2026-03-25T14:54:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_168/cortes/15_000400_168_1_27134_770340.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1570340I",
+        "duration": 60.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_168_1_27134_770340",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "María Jesús Montero Cuadrado",
+          "lastname": "Montero Cuadrado",
+          "firstname": "María Jesús",
+          "type": "member of government",
+          "role": "Vicepresidenta Primera del Gobierno y Ministra de Hacienda",
+          "faction": {
+            "label": "Grupo Parlamentario Socialista"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 54
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 174
+      },
+      "agendaItem": {
+        "title": "¿Viven hoy mejor los españoles que cuando usted llegó al Ministerio?",
+        "officialTitle": "¿Viven hoy mejor los españoles que cuando usted llegó al Ministerio?",
+        "type": "qa",
+        "nativeType": "ES-pregunta"
+      },
+      "dateStart": "2026-03-25T14:55:00+01:00",
+      "dateEnd": "2026-03-25T14:56:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_168/cortes/15_000400_168_1_27134_770342.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1570342I",
+        "duration": 60.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_168_1_27134_770342",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "José Vicente Marí Bosó",
+          "lastname": "Marí Bosó",
+          "firstname": "José Vicente",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Popular en el Congreso"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 55
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 174
+      },
+      "agendaItem": {
+        "title": "¿Viven hoy mejor los españoles que cuando usted llegó al Ministerio?",
+        "officialTitle": "¿Viven hoy mejor los españoles que cuando usted llegó al Ministerio?",
+        "type": "qa",
+        "nativeType": "ES-pregunta"
+      },
+      "dateStart": "2026-03-25T14:56:00+01:00",
+      "dateEnd": "2026-03-25T14:57:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_168/cortes/15_000400_168_1_27134_770343.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1570343I",
+        "duration": 60.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_168_1_27134_770343",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "María Jesús Montero Cuadrado",
+          "lastname": "Montero Cuadrado",
+          "firstname": "María Jesús",
+          "type": "member of government",
+          "role": "Vicepresidenta Primera del Gobierno y Ministra de Hacienda",
+          "faction": {
+            "label": "Grupo Parlamentario Socialista"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 56
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 174
+      },
+      "agendaItem": {
+        "title": "¿Viven hoy mejor los españoles que cuando usted llegó al Ministerio?",
+        "officialTitle": "¿Viven hoy mejor los españoles que cuando usted llegó al Ministerio?",
+        "type": "qa",
+        "nativeType": "ES-pregunta"
+      },
+      "dateStart": "2026-03-25T14:57:00+01:00",
+      "dateEnd": "2026-03-25T14:58:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_168/cortes/15_000400_168_1_27134_770344.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1570344I",
+        "duration": 60.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_168_1_27134_770344",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "José Vicente Marí Bosó",
+          "lastname": "Marí Bosó",
+          "firstname": "José Vicente",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Popular en el Congreso"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 57
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 174
+      },
+      "agendaItem": {
+        "title": "¿Viven hoy mejor los españoles que cuando usted llegó al Ministerio?",
+        "officialTitle": "¿Viven hoy mejor los españoles que cuando usted llegó al Ministerio?",
+        "type": "qa",
+        "nativeType": "ES-pregunta"
+      },
+      "dateStart": "2026-03-25T14:58:00+01:00",
+      "dateEnd": "2026-03-25T15:00:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_168/cortes/15_000400_168_1_27134_770345.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1570345I",
+        "duration": 120.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_168_1_27134_770345",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "María Jesús Montero Cuadrado",
+          "lastname": "Montero Cuadrado",
+          "firstname": "María Jesús",
+          "type": "member of government",
+          "role": "Vicepresidenta Primera del Gobierno y Ministra de Hacienda",
+          "faction": {
+            "label": "Grupo Parlamentario Socialista"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 58
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 174
+      },
+      "agendaItem": {
+        "title": "¿Han regido la ética y la transparencia el desempeño de sus funciones\npúblicas?",
+        "officialTitle": "¿Han regido la ética y la transparencia el desempeño de sus funciones\npúblicas?",
+        "type": "qa",
+        "nativeType": "ES-pregunta"
+      },
+      "dateStart": "2026-03-25T15:00:00+01:00",
+      "dateEnd": "2026-03-25T15:01:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_168/cortes/15_000400_168_1_27134_770347.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1570347I",
+        "duration": 60.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_168_1_27134_770347",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Maribel Sánchez Torregrosa",
+          "lastname": "Sánchez Torregrosa",
+          "firstname": "Maribel",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Popular en el Congreso"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 59
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 174
+      },
+      "agendaItem": {
+        "title": "¿Han regido la ética y la transparencia el desempeño de sus funciones\npúblicas?",
+        "officialTitle": "¿Han regido la ética y la transparencia el desempeño de sus funciones\npúblicas?",
+        "type": "qa",
+        "nativeType": "ES-pregunta"
+      },
+      "dateStart": "2026-03-25T15:01:00+01:00",
+      "dateEnd": "2026-03-25T15:02:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_168/cortes/15_000400_168_1_27134_770348.mp4\nhttps://www.congreso.es/audiovisual/video/leg15/400/15_000400_168/cortes/15_000400_168_1_27134_770350.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1570348I https://app.congreso.es/v1/15770350I",
+        "duration": 60.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_168_1_27134_770350",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "María Jesús Montero Cuadrado",
+          "lastname": "Montero Cuadrado",
+          "firstname": "María Jesús",
+          "type": "member of government",
+          "role": "Vicepresidenta Primera del Gobierno y Ministra de Hacienda",
+          "faction": {
+            "label": "Grupo Parlamentario Socialista"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 60
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 174
+      },
+      "agendaItem": {
+        "title": "¿Han regido la ética y la transparencia el desempeño de sus funciones\npúblicas?",
+        "officialTitle": "¿Han regido la ética y la transparencia el desempeño de sus funciones\npúblicas?",
+        "type": "qa",
+        "nativeType": "ES-pregunta"
+      },
+      "dateStart": "2026-03-25T15:02:00+01:00",
+      "dateEnd": "2026-03-25T15:04:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_168/cortes/15_000400_168_1_27134_770349.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1570349I",
+        "duration": 120.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_168_1_27134_770349",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Maribel Sánchez Torregrosa",
+          "lastname": "Sánchez Torregrosa",
+          "firstname": "Maribel",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Popular en el Congreso"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 61
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 174
+      },
+      "agendaItem": {
+        "title": "¿Cómo piensan proteger los puestos de trabajo en esta situación de\nexcepcionalidad?",
+        "officialTitle": "¿Cómo piensan proteger los puestos de trabajo en esta situación de\nexcepcionalidad?",
+        "type": "qa",
+        "nativeType": "ES-pregunta"
+      },
+      "dateStart": "2026-03-25T15:07:00+01:00",
+      "dateEnd": "2026-03-25T15:10:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_168/cortes/15_000400_168_1_27134_770352.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1570352I",
+        "duration": 180.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_168_1_27134_770352",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Jordi Salvador i Duch",
+          "lastname": "Salvador i Duch",
+          "firstname": "Jordi",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Republicano"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 62
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 174
+      },
+      "agendaItem": {
+        "title": "¿Cómo piensan proteger los puestos de trabajo en esta situación de\nexcepcionalidad?",
+        "officialTitle": "¿Cómo piensan proteger los puestos de trabajo en esta situación de\nexcepcionalidad?",
+        "type": "qa",
+        "nativeType": "ES-pregunta"
+      },
+      "dateStart": "2026-03-25T15:10:00+01:00",
+      "dateEnd": "2026-03-25T15:13:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_168/cortes/15_000400_168_1_27134_770353.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1570353I",
+        "duration": 180.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_168_1_27134_770353",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Yolanda Díaz Pérez",
+          "lastname": "Díaz Pérez",
+          "firstname": "Yolanda",
+          "type": "member of government",
+          "role": "Vicepresidenta Segunda y Ministra de Trabajo y Economía Social",
+          "faction": {
+            "label": "Grupo Parlamentario Plurinacional SUMAR"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 63
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 174
+      },
+      "agendaItem": {
+        "title": "¿Qué medidas tomará para ayudar al pueblo de Cuba ante la grave\nsituación que enfrenta a consecuencia del bloqueo económico y energético\nimpuesto por EEUU?",
+        "officialTitle": "¿Qué medidas tomará para ayudar al pueblo de Cuba ante la grave\nsituación que enfrenta a consecuencia del bloqueo económico y energético\nimpuesto por EEUU?",
+        "type": "qa",
+        "nativeType": "ES-pregunta"
+      },
+      "dateStart": "2026-03-25T15:13:00+01:00",
+      "dateEnd": "2026-03-25T15:15:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_168/cortes/15_000400_168_1_27134_770356.mp4\nhttps://www.congreso.es/audiovisual/video/leg15/400/15_000400_168/cortes/15_000400_168_1_27134_770358.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1570356I https://app.congreso.es/v1/15770358I",
+        "duration": 120.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_168_1_27134_770358",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Jon Iñarritu García",
+          "lastname": "Iñarritu García",
+          "firstname": "Jon",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Euskal Herria Bildu"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 64
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 174
+      },
+      "agendaItem": {
+        "title": "¿Qué medidas tomará para ayudar al pueblo de Cuba ante la grave\nsituación que enfrenta a consecuencia del bloqueo económico y energético\nimpuesto por EEUU?",
+        "officialTitle": "¿Qué medidas tomará para ayudar al pueblo de Cuba ante la grave\nsituación que enfrenta a consecuencia del bloqueo económico y energético\nimpuesto por EEUU?",
+        "type": "qa",
+        "nativeType": "ES-pregunta"
+      },
+      "dateStart": "2026-03-25T15:15:00+01:00",
+      "dateEnd": "2026-03-25T15:16:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_168/cortes/15_000400_168_1_27134_770357.mp4\nhttps://www.congreso.es/audiovisual/video/leg15/400/15_000400_168/cortes/15_000400_168_1_27134_770359.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1570357I https://app.congreso.es/v1/15770359I",
+        "duration": 60.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_168_1_27134_770359",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "José Manuel Albares Bueno",
+          "lastname": "Albares Bueno",
+          "firstname": "José Manuel",
+          "type": "member of government",
+          "role": "Ministro de Asuntos Exteriores, Unión Europea y Cooperación"
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 65
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 174
+      },
+      "agendaItem": {
+        "title": "¿Por qué no respeta el Gobierno al Parlamento?",
+        "officialTitle": "¿Por qué no respeta el Gobierno al Parlamento?",
+        "type": "qa",
+        "nativeType": "ES-pregunta"
+      },
+      "dateStart": "2026-03-25T15:18:00+01:00",
+      "dateEnd": "2026-03-25T15:21:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_168/cortes/15_000400_168_1_27134_770362.mp4\nhttps://www.congreso.es/audiovisual/video/leg15/400/15_000400_168/cortes/15_000400_168_1_27134_770363.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1570362I https://app.congreso.es/v1/15770363I",
+        "duration": 180.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_168_1_27134_770363",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Cayetana Álvarez de Toledo Peralta-Ramos",
+          "lastname": "Álvarez de Toledo Peralta-Ramos",
+          "firstname": "Cayetana",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Popular en el Congreso"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 66
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 174
+      },
+      "agendaItem": {
+        "title": "¿Por qué no respeta el Gobierno al Parlamento?",
+        "officialTitle": "¿Por qué no respeta el Gobierno al Parlamento?",
+        "type": "qa",
+        "nativeType": "ES-pregunta"
+      },
+      "dateStart": "2026-03-25T15:20:00+01:00",
+      "dateEnd": "2026-03-25T15:20:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_168/cortes/15_000400_168_1_27134_770361.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1570361I",
+        "duration": 0.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_168_1_27134_770361",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Félix Bolaños García",
+          "lastname": "Bolaños García",
+          "firstname": "Félix",
+          "type": "member of government",
+          "role": "Ministro de la Presidencia, Justicia y Relaciones con las Cortes",
+          "faction": {
+            "label": "Grupo Parlamentario Socialista"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 67
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 174
+      },
+      "agendaItem": {
+        "title": "¿Por qué no respeta el Gobierno al Parlamento?",
+        "officialTitle": "¿Por qué no respeta el Gobierno al Parlamento?",
+        "type": "qa",
+        "nativeType": "ES-pregunta"
+      },
+      "dateStart": "2026-03-25T15:23:00+01:00",
+      "dateEnd": "2026-03-25T15:24:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_168/cortes/15_000400_168_1_27134_770364.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1570364I",
+        "duration": 60.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_168_1_27134_770364",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Félix Bolaños García",
+          "lastname": "Bolaños García",
+          "firstname": "Félix",
+          "type": "member of government",
+          "role": "Ministro de la Presidencia, Justicia y Relaciones con las Cortes",
+          "faction": {
+            "label": "Grupo Parlamentario Socialista"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 68
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 174
+      },
+      "agendaItem": {
+        "title": "¿Cuántos relatos más van a articular para seguir tapando sus\nescándalos?",
+        "officialTitle": "¿Cuántos relatos más van a articular para seguir tapando sus\nescándalos?",
+        "type": "qa",
+        "nativeType": "ES-pregunta"
+      },
+      "dateStart": "2026-03-25T15:24:00+01:00",
+      "dateEnd": "2026-03-25T15:26:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_168/cortes/15_000400_168_1_27134_770366.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1570366I",
+        "duration": 120.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_168_1_27134_770366",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Mirian Guardiola Salmerón",
+          "lastname": "Guardiola Salmerón",
+          "firstname": "Mirian",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Popular en el Congreso"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 69
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 174
+      },
+      "agendaItem": {
+        "title": "¿Cuántos relatos más van a articular para seguir tapando sus\nescándalos?",
+        "officialTitle": "¿Cuántos relatos más van a articular para seguir tapando sus\nescándalos?",
+        "type": "qa",
+        "nativeType": "ES-pregunta"
+      },
+      "dateStart": "2026-03-25T15:26:00+01:00",
+      "dateEnd": "2026-03-25T15:28:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_168/cortes/15_000400_168_1_27134_770367.mp4\nhttps://www.congreso.es/audiovisual/video/leg15/400/15_000400_168/cortes/15_000400_168_1_27134_770369.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1570367I https://app.congreso.es/v1/15770369I",
+        "duration": 120.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_168_1_27134_770369",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Félix Bolaños García",
+          "lastname": "Bolaños García",
+          "firstname": "Félix",
+          "type": "member of government",
+          "role": "Ministro de la Presidencia, Justicia y Relaciones con las Cortes",
+          "faction": {
+            "label": "Grupo Parlamentario Socialista"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 70
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 174
+      },
+      "agendaItem": {
+        "title": "¿Cuántos relatos más van a articular para seguir tapando sus\nescándalos?",
+        "officialTitle": "¿Cuántos relatos más van a articular para seguir tapando sus\nescándalos?",
+        "type": "qa",
+        "nativeType": "ES-pregunta"
+      },
+      "dateStart": "2026-03-25T15:28:00+01:00",
+      "dateEnd": "2026-03-25T15:29:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_168/cortes/15_000400_168_1_27134_770368.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1570368I",
+        "duration": 60.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_168_1_27134_770368",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Mirian Guardiola Salmerón",
+          "lastname": "Guardiola Salmerón",
+          "firstname": "Mirian",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Popular en el Congreso"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 71
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 174
+      },
+      "agendaItem": {
+        "title": "¿A qué llaman ustedes progreso?",
+        "officialTitle": "¿A qué llaman ustedes progreso?",
+        "type": "qa",
+        "nativeType": "ES-pregunta"
+      },
+      "dateStart": "2026-03-25T15:30:00+01:00",
+      "dateEnd": "2026-03-25T15:30:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_168/cortes/15_000400_168_1_27134_770371.mp4\nhttps://www.congreso.es/audiovisual/video/leg15/400/15_000400_168/cortes/15_000400_168_1_27134_770373.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1570371I https://app.congreso.es/v1/15770373I",
+        "duration": 0.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_168_1_27134_770373",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "María José Rodríguez de Millán Parro",
+          "lastname": "Rodríguez de Millán Parro",
+          "firstname": "María José",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario VOX"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 72
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 174
+      },
+      "agendaItem": {
+        "title": "¿A qué llaman ustedes progreso?",
+        "officialTitle": "¿A qué llaman ustedes progreso?",
+        "type": "qa",
+        "nativeType": "ES-pregunta"
+      },
+      "dateStart": "2026-03-25T15:30:00+01:00",
+      "dateEnd": "2026-03-25T15:31:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_168/cortes/15_000400_168_1_27134_770372.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1570372I",
+        "duration": 60.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_168_1_27134_770372",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Félix Bolaños García",
+          "lastname": "Bolaños García",
+          "firstname": "Félix",
+          "type": "member of government",
+          "role": "Ministro de la Presidencia, Justicia y Relaciones con las Cortes",
+          "faction": {
+            "label": "Grupo Parlamentario Socialista"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 73
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 174
+      },
+      "agendaItem": {
+        "title": "¿A qué llaman ustedes progreso?",
+        "officialTitle": "¿A qué llaman ustedes progreso?",
+        "type": "qa",
+        "nativeType": "ES-pregunta"
+      },
+      "dateStart": "2026-03-25T15:33:00+01:00",
+      "dateEnd": "2026-03-25T15:34:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_168/cortes/15_000400_168_1_27134_770374.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1570374I",
+        "duration": 60.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_168_1_27134_770374",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Félix Bolaños García",
+          "lastname": "Bolaños García",
+          "firstname": "Félix",
+          "type": "member of government",
+          "role": "Ministro de la Presidencia, Justicia y Relaciones con las Cortes",
+          "faction": {
+            "label": "Grupo Parlamentario Socialista"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 74
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 174
+      },
+      "agendaItem": {
+        "title": "¿Está usted haciendo su trabajo, Ministro?",
+        "officialTitle": "¿Está usted haciendo su trabajo, Ministro?",
+        "type": "qa",
+        "nativeType": "ES-pregunta"
+      },
+      "dateStart": "2026-03-25T15:35:00+01:00",
+      "dateEnd": "2026-03-25T15:36:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_168/cortes/15_000400_168_1_27134_770376.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1570376I",
+        "duration": 60.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_168_1_27134_770376",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Eduardo Carazo Hermoso",
+          "lastname": "Carazo Hermoso",
+          "firstname": "Eduardo",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Popular en el Congreso"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 75
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 174
+      },
+      "agendaItem": {
+        "title": "¿Está usted haciendo su trabajo, Ministro?",
+        "officialTitle": "¿Está usted haciendo su trabajo, Ministro?",
+        "type": "qa",
+        "nativeType": "ES-pregunta"
+      },
+      "dateStart": "2026-03-25T15:36:00+01:00",
+      "dateEnd": "2026-03-25T15:38:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_168/cortes/15_000400_168_1_27134_770377.mp4\nhttps://www.congreso.es/audiovisual/video/leg15/400/15_000400_168/cortes/15_000400_168_1_27134_770379.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1570377I https://app.congreso.es/v1/15770379I",
+        "duration": 120.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_168_1_27134_770379",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Óscar Puente Santiago",
+          "lastname": "Puente Santiago",
+          "firstname": "Óscar",
+          "type": "member of government",
+          "role": "Ministro de Transportes y Movilidad Sostenible",
+          "faction": {
+            "label": "Grupo Parlamentario Socialista"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 76
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 174
+      },
+      "agendaItem": {
+        "title": "¿Está usted haciendo su trabajo, Ministro?",
+        "officialTitle": "¿Está usted haciendo su trabajo, Ministro?",
+        "type": "qa",
+        "nativeType": "ES-pregunta"
+      },
+      "dateStart": "2026-03-25T15:38:00+01:00",
+      "dateEnd": "2026-03-25T15:39:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_168/cortes/15_000400_168_1_27134_770378.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1570378I",
+        "duration": 60.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_168_1_27134_770378",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Eduardo Carazo Hermoso",
+          "lastname": "Carazo Hermoso",
+          "firstname": "Eduardo",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Popular en el Congreso"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 77
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 174
+      },
+      "agendaItem": {
+        "title": "¿Cuáles son los temas clave en los que está trabajando el Ministerio\nde Agricultura para ayudar en la competitividad del sector agrario y\nganadero, especialmente a las pequeñas y medianas empresas?",
+        "officialTitle": "¿Cuáles son los temas clave en los que está trabajando el Ministerio\nde Agricultura para ayudar en la competitividad del sector agrario y\nganadero, especialmente a las pequeñas y medianas empresas?",
+        "type": "qa",
+        "nativeType": "ES-pregunta"
+      },
+      "dateStart": "2026-03-25T15:40:00+01:00",
+      "dateEnd": "2026-03-25T15:41:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_168/cortes/15_000400_168_1_27134_770381.mp4\nhttps://www.congreso.es/audiovisual/video/leg15/400/15_000400_168/cortes/15_000400_168_1_27134_770383.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1570381I https://app.congreso.es/v1/15770383I",
+        "duration": 60.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_168_1_27134_770383",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Isidre Gavin i Valls",
+          "lastname": "Gavin i Valls",
+          "firstname": "Isidre",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Junts per Catalunya"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 78
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 174
+      },
+      "agendaItem": {
+        "title": "¿Cuáles son los temas clave en los que está trabajando el Ministerio\nde Agricultura para ayudar en la competitividad del sector agrario y\nganadero, especialmente a las pequeñas y medianas empresas?",
+        "officialTitle": "¿Cuáles son los temas clave en los que está trabajando el Ministerio\nde Agricultura para ayudar en la competitividad del sector agrario y\nganadero, especialmente a las pequeñas y medianas empresas?",
+        "type": "qa",
+        "nativeType": "ES-pregunta"
+      },
+      "dateStart": "2026-03-25T15:41:00+01:00",
+      "dateEnd": "2026-03-25T15:42:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_168/cortes/15_000400_168_1_27134_770382.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1570382I",
+        "duration": 60.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_168_1_27134_770382",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Luis Planas Puchades",
+          "lastname": "Planas Puchades",
+          "firstname": "Luis",
+          "type": "member of government",
+          "role": "Ministro de Agricultura, Pesca y Alimentación"
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 79
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 174
+      },
+      "agendaItem": {
+        "title": "¿Cuáles son los temas clave en los que está trabajando el Ministerio\nde Agricultura para ayudar en la competitividad del sector agrario y\nganadero, especialmente a las pequeñas y medianas empresas?",
+        "officialTitle": "¿Cuáles son los temas clave en los que está trabajando el Ministerio\nde Agricultura para ayudar en la competitividad del sector agrario y\nganadero, especialmente a las pequeñas y medianas empresas?",
+        "type": "qa",
+        "nativeType": "ES-pregunta"
+      },
+      "dateStart": "2026-03-25T15:45:00+01:00",
+      "dateEnd": "2026-03-25T15:46:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_168/cortes/15_000400_168_1_27134_770384.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1570384I",
+        "duration": 60.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_168_1_27134_770384",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Luis Planas Puchades",
+          "lastname": "Planas Puchades",
+          "firstname": "Luis",
+          "type": "member of government",
+          "role": "Ministro de Agricultura, Pesca y Alimentación"
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 80
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 174
+      },
+      "agendaItem": {
+        "title": "¿Qué puede ofrecer este Gobierno a los españoles en materia de\nvivienda?",
+        "officialTitle": "¿Qué puede ofrecer este Gobierno a los españoles en materia de\nvivienda?",
+        "type": "qa",
+        "nativeType": "ES-pregunta"
+      },
+      "dateStart": "2026-03-25T15:46:00+01:00",
+      "dateEnd": "2026-03-25T15:46:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_168/cortes/15_000400_168_1_27134_770386.mp4\nhttps://www.congreso.es/audiovisual/video/leg15/400/15_000400_168/cortes/15_000400_168_1_27134_770388.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1570386I https://app.congreso.es/v1/15770388I",
+        "duration": 0.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_168_1_27134_770388",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Sergio Sayas López",
+          "lastname": "Sayas López",
+          "firstname": "Sergio",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Popular en el Congreso"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 81
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 174
+      },
+      "agendaItem": {
+        "title": "¿Qué puede ofrecer este Gobierno a los españoles en materia de\nvivienda?",
+        "officialTitle": "¿Qué puede ofrecer este Gobierno a los españoles en materia de\nvivienda?",
+        "type": "qa",
+        "nativeType": "ES-pregunta"
+      },
+      "dateStart": "2026-03-25T15:46:00+01:00",
+      "dateEnd": "2026-03-25T15:47:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_168/cortes/15_000400_168_1_27134_770387.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1570387I",
+        "duration": 60.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_168_1_27134_770387",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Isabel Rodríguez García",
+          "lastname": "Rodríguez García",
+          "firstname": "Isabel",
+          "type": "member of government",
+          "role": "Ministra de Vivienda y Agenda Urbana"
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 82
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 174
+      },
+      "agendaItem": {
+        "title": "¿Qué puede ofrecer este Gobierno a los españoles en materia de\nvivienda?",
+        "officialTitle": "¿Qué puede ofrecer este Gobierno a los españoles en materia de\nvivienda?",
+        "type": "qa",
+        "nativeType": "ES-pregunta"
+      },
+      "dateStart": "2026-03-25T15:49:00+01:00",
+      "dateEnd": "2026-03-25T15:51:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_168/cortes/15_000400_168_1_27134_770389.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1570389I",
+        "duration": 120.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_168_1_27134_770389",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Isabel Rodríguez García",
+          "lastname": "Rodríguez García",
+          "firstname": "Isabel",
+          "type": "member of government",
+          "role": "Ministra de Vivienda y Agenda Urbana"
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 83
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 174
+      },
+      "agendaItem": {
+        "title": "¿Está usted a la altura de sus responsabilidades como Ministra?",
+        "officialTitle": "¿Está usted a la altura de sus responsabilidades como Ministra?",
+        "type": "qa",
+        "nativeType": "ES-pregunta"
+      },
+      "dateStart": "2026-03-25T15:52:00+01:00",
+      "dateEnd": "2026-03-25T15:52:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_168/cortes/15_000400_168_1_27134_770391.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1570391I",
+        "duration": 0.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_168_1_27134_770391",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Carmen Fúnez de Gregorio",
+          "lastname": "Fúnez de Gregorio",
+          "firstname": "Carmen",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Popular en el Congreso"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 84
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 174
+      },
+      "agendaItem": {
+        "title": "¿Está usted a la altura de sus responsabilidades como Ministra?",
+        "officialTitle": "¿Está usted a la altura de sus responsabilidades como Ministra?",
+        "type": "qa",
+        "nativeType": "ES-pregunta"
+      },
+      "dateStart": "2026-03-25T15:52:00+01:00",
+      "dateEnd": "2026-03-25T15:53:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_168/cortes/15_000400_168_1_27134_770392.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1570392I",
+        "duration": 60.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_168_1_27134_770392",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Mónica García Gómez",
+          "lastname": "García Gómez",
+          "firstname": "Mónica",
+          "type": "member of government",
+          "role": "Ministra de Sanidad"
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 85
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 174
+      },
+      "agendaItem": {
+        "title": "¿Está usted a la altura de sus responsabilidades como Ministra?",
+        "officialTitle": "¿Está usted a la altura de sus responsabilidades como Ministra?",
+        "type": "qa",
+        "nativeType": "ES-pregunta"
+      },
+      "dateStart": "2026-03-25T15:53:00+01:00",
+      "dateEnd": "2026-03-25T15:55:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_168/cortes/15_000400_168_1_27134_770393.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1570393I",
+        "duration": 120.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_168_1_27134_770393",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Carmen Fúnez de Gregorio",
+          "lastname": "Fúnez de Gregorio",
+          "firstname": "Carmen",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Popular en el Congreso"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 86
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 174
+      },
+      "agendaItem": {
+        "title": "¿Está usted a la altura de sus responsabilidades como Ministra?",
+        "officialTitle": "¿Está usted a la altura de sus responsabilidades como Ministra?",
+        "type": "qa",
+        "nativeType": "ES-pregunta"
+      },
+      "dateStart": "2026-03-25T15:55:00+01:00",
+      "dateEnd": "2026-03-25T15:57:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_168/cortes/15_000400_168_1_27134_770394.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1570394I",
+        "duration": 120.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_168_1_27134_770394",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Mónica García Gómez",
+          "lastname": "García Gómez",
+          "firstname": "Mónica",
+          "type": "member of government",
+          "role": "Ministra de Sanidad"
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 87
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 174
+      },
+      "agendaItem": {
+        "title": "¿Qué va a hacer su Ministerio para que las huelgas en la sanidad\npública no se eternicen?",
+        "officialTitle": "¿Qué va a hacer su Ministerio para que las huelgas en la sanidad\npública no se eternicen?",
+        "type": "qa",
+        "nativeType": "ES-pregunta"
+      },
+      "dateStart": "2026-03-25T15:57:00+01:00",
+      "dateEnd": "2026-03-25T15:58:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_168/cortes/15_000400_168_1_27134_770396.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1570396I",
+        "duration": 60.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_168_1_27134_770396",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Joseba Andoni Agirretxea Urresti",
+          "lastname": "Agirretxea Urresti",
+          "firstname": "Joseba Andoni",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Vasco (EAJ-PNV)"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 88
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 174
+      },
+      "agendaItem": {
+        "title": "¿Qué va a hacer su Ministerio para que las huelgas en la sanidad\npública no se eternicen?",
+        "officialTitle": "¿Qué va a hacer su Ministerio para que las huelgas en la sanidad\npública no se eternicen?",
+        "type": "qa",
+        "nativeType": "ES-pregunta"
+      },
+      "dateStart": "2026-03-25T15:58:00+01:00",
+      "dateEnd": "2026-03-25T16:00:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_168/cortes/15_000400_168_1_27134_770397.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1570397I",
+        "duration": 120.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_168_1_27134_770397",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Mónica García Gómez",
+          "lastname": "García Gómez",
+          "firstname": "Mónica",
+          "type": "member of government",
+          "role": "Ministra de Sanidad"
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 89
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 174
+      },
+      "agendaItem": {
+        "title": "¿Qué va a hacer su Ministerio para que las huelgas en la sanidad\npública no se eternicen?",
+        "officialTitle": "¿Qué va a hacer su Ministerio para que las huelgas en la sanidad\npública no se eternicen?",
+        "type": "qa",
+        "nativeType": "ES-pregunta"
+      },
+      "dateStart": "2026-03-25T16:00:00+01:00",
+      "dateEnd": "2026-03-25T16:02:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_168/cortes/15_000400_168_1_27134_770398.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1570398I",
+        "duration": 120.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_168_1_27134_770398",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Joseba Andoni Agirretxea Urresti",
+          "lastname": "Agirretxea Urresti",
+          "firstname": "Joseba Andoni",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Vasco (EAJ-PNV)"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 90
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 174
+      },
+      "agendaItem": {
+        "title": "¿Qué va a hacer su Ministerio para que las huelgas en la sanidad\npública no se eternicen?",
+        "officialTitle": "¿Qué va a hacer su Ministerio para que las huelgas en la sanidad\npública no se eternicen?",
+        "type": "qa",
+        "nativeType": "ES-pregunta"
+      },
+      "dateStart": "2026-03-25T16:02:00+01:00",
+      "dateEnd": "2026-03-25T16:03:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_168/cortes/15_000400_168_1_27134_770399.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1570399I",
+        "duration": 60.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_168_1_27134_770399",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Mónica García Gómez",
+          "lastname": "García Gómez",
+          "firstname": "Mónica",
+          "type": "member of government",
+          "role": "Ministra de Sanidad"
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 91
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 174
+      },
+      "agendaItem": {
+        "title": "¿Qué va a hacer el Gobierno para acabar con la precariedad y la\ninestabilidad en la \nAdministración pública?",
+        "officialTitle": "¿Qué va a hacer el Gobierno para acabar con la precariedad y la\ninestabilidad en la \nAdministración pública?",
+        "type": "qa",
+        "nativeType": "ES-pregunta"
+      },
+      "dateStart": "2026-03-25T16:03:00+01:00",
+      "dateEnd": "2026-03-25T16:03:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_168/cortes/15_000400_168_1_27134_770401.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1570401I",
+        "duration": 0.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_168_1_27134_770401",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Ione Belarra Urteaga",
+          "lastname": "Belarra Urteaga",
+          "firstname": "Ione",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Mixto"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 92
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 174
+      },
+      "agendaItem": {
+        "title": "¿Qué va a hacer el Gobierno para acabar con la precariedad y la\ninestabilidad en la \nAdministración pública?",
+        "officialTitle": "¿Qué va a hacer el Gobierno para acabar con la precariedad y la\ninestabilidad en la \nAdministración pública?",
+        "type": "qa",
+        "nativeType": "ES-pregunta"
+      },
+      "dateStart": "2026-03-25T16:03:00+01:00",
+      "dateEnd": "2026-03-25T16:04:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_168/cortes/15_000400_168_1_27134_770402.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1570402I",
+        "duration": 60.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_168_1_27134_770402",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Óscar López Águeda",
+          "lastname": "López Águeda",
+          "firstname": "Óscar",
+          "type": "member of government",
+          "role": "Ministro para la Transformación Digital y de la Función Pública"
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 93
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 174
+      },
+      "agendaItem": {
+        "title": "¿Qué va a hacer el Gobierno para acabar con la precariedad y la\ninestabilidad en la \nAdministración pública?",
+        "officialTitle": "¿Qué va a hacer el Gobierno para acabar con la precariedad y la\ninestabilidad en la \nAdministración pública?",
+        "type": "qa",
+        "nativeType": "ES-pregunta"
+      },
+      "dateStart": "2026-03-25T16:04:00+01:00",
+      "dateEnd": "2026-03-25T16:06:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_168/cortes/15_000400_168_1_27134_770403.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1570403I",
+        "duration": 120.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_168_1_27134_770403",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Ione Belarra Urteaga",
+          "lastname": "Belarra Urteaga",
+          "firstname": "Ione",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Mixto"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 94
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 174
+      },
+      "agendaItem": {
+        "title": "¿Qué va a hacer el Gobierno para acabar con la precariedad y la\ninestabilidad en la \nAdministración pública?",
+        "officialTitle": "¿Qué va a hacer el Gobierno para acabar con la precariedad y la\ninestabilidad en la \nAdministración pública?",
+        "type": "qa",
+        "nativeType": "ES-pregunta"
+      },
+      "dateStart": "2026-03-25T16:06:00+01:00",
+      "dateEnd": "2026-03-25T16:08:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_168/cortes/15_000400_168_1_27134_770404.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1570404I",
+        "duration": 120.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_168_1_27134_770404",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Óscar López Águeda",
+          "lastname": "López Águeda",
+          "firstname": "Óscar",
+          "type": "member of government",
+          "role": "Ministro para la Transformación Digital y de la Función Pública"
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 95
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 174
+      },
+      "agendaItem": {
+        "title": "Interpelación urgente al Ministro de Transportes y Movilidad\nSostenible sobre el estado de la infraestructura ferroviaria y las\nconexiones con el sur de España.",
+        "officialTitle": "Interpelación urgente al Ministro de Transportes y Movilidad\nSostenible sobre el estado de la infraestructura ferroviaria y las\nconexiones con el sur de España.",
+        "type": "questioning_of_the_government",
+        "nativeType": "ES-interpelacion"
+      },
+      "dateStart": "2026-03-25T16:09:00+01:00",
+      "dateEnd": "2026-03-25T16:22:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_168/cortes/15_000400_168_1_27134_770407.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1570407I",
+        "duration": 780.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_168_1_27134_770407",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Elías Bendodo Benasayag",
+          "lastname": "Bendodo Benasayag",
+          "firstname": "Elías",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Popular en el Congreso"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 96
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 174
+      },
+      "agendaItem": {
+        "title": "Interpelación urgente al Ministro de Transportes y Movilidad\nSostenible sobre el estado de la infraestructura ferroviaria y las\nconexiones con el sur de España.",
+        "officialTitle": "Interpelación urgente al Ministro de Transportes y Movilidad\nSostenible sobre el estado de la infraestructura ferroviaria y las\nconexiones con el sur de España.",
+        "type": "questioning_of_the_government",
+        "nativeType": "ES-interpelacion"
+      },
+      "dateStart": "2026-03-25T16:22:00+01:00",
+      "dateEnd": "2026-03-25T16:35:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_168/cortes/15_000400_168_1_27134_770408.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1570408I",
+        "duration": 780.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_168_1_27134_770408",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Óscar Puente Santiago",
+          "lastname": "Puente Santiago",
+          "firstname": "Óscar",
+          "type": "member of government",
+          "role": "Ministro de Transportes y Movilidad Sostenible",
+          "faction": {
+            "label": "Grupo Parlamentario Socialista"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 97
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 174
+      },
+      "agendaItem": {
+        "title": "Interpelación urgente al Ministro de Transportes y Movilidad\nSostenible sobre el estado de la infraestructura ferroviaria y las\nconexiones con el sur de España.",
+        "officialTitle": "Interpelación urgente al Ministro de Transportes y Movilidad\nSostenible sobre el estado de la infraestructura ferroviaria y las\nconexiones con el sur de España.",
+        "type": "questioning_of_the_government",
+        "nativeType": "ES-interpelacion"
+      },
+      "dateStart": "2026-03-25T16:35:00+01:00",
+      "dateEnd": "2026-03-25T16:40:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_168/cortes/15_000400_168_1_27134_770409.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1570409I",
+        "duration": 300.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_168_1_27134_770409",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Elías Bendodo Benasayag",
+          "lastname": "Bendodo Benasayag",
+          "firstname": "Elías",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Popular en el Congreso"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 98
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 174
+      },
+      "agendaItem": {
+        "title": "Interpelación urgente al Ministro de Transportes y Movilidad\nSostenible sobre el estado de la infraestructura ferroviaria y las\nconexiones con el sur de España.",
+        "officialTitle": "Interpelación urgente al Ministro de Transportes y Movilidad\nSostenible sobre el estado de la infraestructura ferroviaria y las\nconexiones con el sur de España.",
+        "type": "questioning_of_the_government",
+        "nativeType": "ES-interpelacion"
+      },
+      "dateStart": "2026-03-25T16:40:00+01:00",
+      "dateEnd": "2026-03-25T16:46:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_168/cortes/15_000400_168_1_27134_770410.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1570410I",
+        "duration": 360.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_168_1_27134_770410",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Óscar Puente Santiago",
+          "lastname": "Puente Santiago",
+          "firstname": "Óscar",
+          "type": "member of government",
+          "role": "Ministro de Transportes y Movilidad Sostenible",
+          "faction": {
+            "label": "Grupo Parlamentario Socialista"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 99
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 174
+      },
+      "agendaItem": {
+        "title": "Interpelación urgente al Ministro de Transportes y Movilidad\nSostenible sobre las medidas que va a tomar el Gobierno para recuperar la\nnormalidad del sistema ferroviario.",
+        "officialTitle": "Interpelación urgente al Ministro de Transportes y Movilidad\nSostenible sobre las medidas que va a tomar el Gobierno para recuperar la\nnormalidad del sistema ferroviario.",
+        "type": "questioning_of_the_government",
+        "nativeType": "ES-interpelacion"
+      },
+      "dateStart": "2026-03-25T16:46:00+01:00",
+      "dateEnd": "2026-03-25T16:59:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_168/cortes/15_000400_168_1_27134_770412.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1570412I",
+        "duration": 780.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_168_1_27134_770412",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Carina Mejías Sánchez",
+          "lastname": "Mejías Sánchez",
+          "firstname": "Carina",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario VOX"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 100
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 174
+      },
+      "agendaItem": {
+        "title": "Interpelación urgente al Ministro de Transportes y Movilidad\nSostenible sobre las medidas que va a tomar el Gobierno para recuperar la\nnormalidad del sistema ferroviario.",
+        "officialTitle": "Interpelación urgente al Ministro de Transportes y Movilidad\nSostenible sobre las medidas que va a tomar el Gobierno para recuperar la\nnormalidad del sistema ferroviario.",
+        "type": "questioning_of_the_government",
+        "nativeType": "ES-interpelacion"
+      },
+      "dateStart": "2026-03-25T17:00:00+01:00",
+      "dateEnd": "2026-03-25T17:13:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_168/cortes/15_000400_168_2_27135_770416.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1570416I",
+        "duration": 780.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_168_2_27135_770416",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Óscar Puente Santiago",
+          "lastname": "Puente Santiago",
+          "firstname": "Óscar",
+          "type": "member of government",
+          "role": "Ministro de Transportes y Movilidad Sostenible",
+          "faction": {
+            "label": "Grupo Parlamentario Socialista"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 101
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 174
+      },
+      "agendaItem": {
+        "title": "Interpelación urgente al Ministro de Transportes y Movilidad\nSostenible sobre las medidas que va a tomar el Gobierno para recuperar la\nnormalidad del sistema ferroviario.",
+        "officialTitle": "Interpelación urgente al Ministro de Transportes y Movilidad\nSostenible sobre las medidas que va a tomar el Gobierno para recuperar la\nnormalidad del sistema ferroviario.",
+        "type": "questioning_of_the_government",
+        "nativeType": "ES-interpelacion"
+      },
+      "dateStart": "2026-03-25T17:13:00+01:00",
+      "dateEnd": "2026-03-25T17:18:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_168/cortes/15_000400_168_2_27135_770417.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1570417I",
+        "duration": 300.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_168_2_27135_770417",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Carina Mejías Sánchez",
+          "lastname": "Mejías Sánchez",
+          "firstname": "Carina",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario VOX"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 102
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 174
+      },
+      "agendaItem": {
+        "title": "Interpelación urgente al Ministro de Transportes y Movilidad\nSostenible sobre las medidas que va a tomar el Gobierno para recuperar la\nnormalidad del sistema ferroviario.",
+        "officialTitle": "Interpelación urgente al Ministro de Transportes y Movilidad\nSostenible sobre las medidas que va a tomar el Gobierno para recuperar la\nnormalidad del sistema ferroviario.",
+        "type": "questioning_of_the_government",
+        "nativeType": "ES-interpelacion"
+      },
+      "dateStart": "2026-03-25T17:18:00+01:00",
+      "dateEnd": "2026-03-25T17:24:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_168/cortes/15_000400_168_2_27135_770418.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1570418I",
+        "duration": 360.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_168_2_27135_770418",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Óscar Puente Santiago",
+          "lastname": "Puente Santiago",
+          "firstname": "Óscar",
+          "type": "member of government",
+          "role": "Ministro de Transportes y Movilidad Sostenible",
+          "faction": {
+            "label": "Grupo Parlamentario Socialista"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 103
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 174
+      },
+      "agendaItem": {
+        "title": "Moción consecuencia de interpelación urgente sobre las medidas que va\na adoptar el Gobierno para garantizar la asistencia sanitaria de los\nespañoles.",
+        "officialTitle": "Moción consecuencia de interpelación urgente sobre las medidas que va\na adoptar el Gobierno para garantizar la asistencia sanitaria de los\nespañoles.",
+        "type": "regular",
+        "nativeType": "ES-mocion"
+      },
+      "dateStart": "2026-03-25T17:24:00+01:00",
+      "dateEnd": "2026-03-25T17:33:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_168/cortes/15_000400_168_2_27135_770421.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1570421I",
+        "duration": 540.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_168_2_27135_770421",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "David García Gomis",
+          "lastname": "García Gomis",
+          "firstname": "David",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario VOX"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 104
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 174
+      },
+      "agendaItem": {
+        "title": "Moción consecuencia de interpelación urgente sobre las medidas que va\na adoptar el Gobierno para garantizar la asistencia sanitaria de los\nespañoles.",
+        "officialTitle": "Moción consecuencia de interpelación urgente sobre las medidas que va\na adoptar el Gobierno para garantizar la asistencia sanitaria de los\nespañoles.",
+        "type": "regular",
+        "nativeType": "ES-mocion"
+      },
+      "dateStart": "2026-03-25T17:33:00+01:00",
+      "dateEnd": "2026-03-25T17:39:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_168/cortes/15_000400_168_2_27135_770422.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1570422I",
+        "duration": 360.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_168_2_27135_770422",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Esperanza Reynal Reillo",
+          "lastname": "Reynal Reillo",
+          "firstname": "Esperanza",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Popular en el Congreso"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 105
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 174
+      },
+      "agendaItem": {
+        "title": "Moción consecuencia de interpelación urgente sobre las medidas que va\na adoptar el Gobierno para garantizar la asistencia sanitaria de los\nespañoles.",
+        "officialTitle": "Moción consecuencia de interpelación urgente sobre las medidas que va\na adoptar el Gobierno para garantizar la asistencia sanitaria de los\nespañoles.",
+        "type": "regular",
+        "nativeType": "ES-mocion"
+      },
+      "dateStart": "2026-03-25T17:39:00+01:00",
+      "dateEnd": "2026-03-25T17:45:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_168/cortes/15_000400_168_2_27135_770423.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1570423I",
+        "duration": 360.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_168_2_27135_770423",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Javier Sánchez Serna",
+          "lastname": "Sánchez Serna",
+          "firstname": "Javier",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Mixto"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 106
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 174
+      },
+      "agendaItem": {
+        "title": "Moción consecuencia de interpelación urgente sobre las medidas que va\na adoptar el Gobierno para garantizar la asistencia sanitaria de los\nespañoles.",
+        "officialTitle": "Moción consecuencia de interpelación urgente sobre las medidas que va\na adoptar el Gobierno para garantizar la asistencia sanitaria de los\nespañoles.",
+        "type": "regular",
+        "nativeType": "ES-mocion"
+      },
+      "dateStart": "2026-03-25T17:45:00+01:00",
+      "dateEnd": "2026-03-25T17:51:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_168/cortes/15_000400_168_2_27135_770424.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1570424I",
+        "duration": 360.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_168_2_27135_770424",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Etna Estrems Fayos",
+          "lastname": "Estrems Fayos",
+          "firstname": "Etna",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Republicano"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 107
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 174
+      },
+      "agendaItem": {
+        "title": "Moción consecuencia de interpelación urgente sobre las medidas que va\na adoptar el Gobierno para garantizar la asistencia sanitaria de los\nespañoles.",
+        "officialTitle": "Moción consecuencia de interpelación urgente sobre las medidas que va\na adoptar el Gobierno para garantizar la asistencia sanitaria de los\nespañoles.",
+        "type": "regular",
+        "nativeType": "ES-mocion"
+      },
+      "dateStart": "2026-03-25T17:51:00+01:00",
+      "dateEnd": "2026-03-25T17:57:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_168/cortes/15_000400_168_2_27135_770425.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1570425I",
+        "duration": 360.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_168_2_27135_770425",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Alda Recas Martín",
+          "lastname": "Recas Martín",
+          "firstname": "Alda",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Plurinacional SUMAR"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 108
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 174
+      },
+      "agendaItem": {
+        "title": "Moción consecuencia de interpelación urgente sobre las medidas que va\na adoptar el Gobierno para garantizar la asistencia sanitaria de los\nespañoles.",
+        "officialTitle": "Moción consecuencia de interpelación urgente sobre las medidas que va\na adoptar el Gobierno para garantizar la asistencia sanitaria de los\nespañoles.",
+        "type": "regular",
+        "nativeType": "ES-mocion"
+      },
+      "dateStart": "2026-03-25T17:57:00+01:00",
+      "dateEnd": "2026-03-25T18:04:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_168/cortes/15_000400_168_2_27135_770426.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1570426I",
+        "duration": 420.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_168_2_27135_770426",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Ana Cobo Carmona",
+          "lastname": "Cobo Carmona",
+          "firstname": "Ana",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Socialista"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 109
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 174
+      },
+      "agendaItem": {
+        "title": "Moción consecuencia de interpelación urgente sobre la estrategia\nenergética del Gobierno para garantizar la supervivencia de la industria\ny el crecimiento del país.",
+        "officialTitle": "Moción consecuencia de interpelación urgente sobre la estrategia\nenergética del Gobierno para garantizar la supervivencia de la industria\ny el crecimiento del país.",
+        "type": "regular",
+        "nativeType": "ES-mocion"
+      },
+      "dateStart": "2026-03-25T18:04:00+01:00",
+      "dateEnd": "2026-03-25T18:12:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_168/cortes/15_000400_168_2_27135_770428.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1570428I",
+        "duration": 480.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_168_2_27135_770428",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Andrés Alberto Rodríguez Almeida",
+          "lastname": "Rodríguez Almeida",
+          "firstname": "Andrés Alberto",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario VOX"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 110
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 174
+      },
+      "agendaItem": {
+        "title": "Moción consecuencia de interpelación urgente sobre la estrategia\nenergética del Gobierno para garantizar la supervivencia de la industria\ny el crecimiento del país.",
+        "officialTitle": "Moción consecuencia de interpelación urgente sobre la estrategia\nenergética del Gobierno para garantizar la supervivencia de la industria\ny el crecimiento del país.",
+        "type": "regular",
+        "nativeType": "ES-mocion"
+      },
+      "dateStart": "2026-03-25T18:12:00+01:00",
+      "dateEnd": "2026-03-25T18:18:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_168/cortes/15_000400_168_2_27135_770429.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1570429I",
+        "duration": 360.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_168_2_27135_770429",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Inés Granollers Cunillera",
+          "lastname": "Granollers Cunillera",
+          "firstname": "Inés",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Republicano"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 111
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 174
+      },
+      "agendaItem": {
+        "title": "Moción consecuencia de interpelación urgente sobre la estrategia\nenergética del Gobierno para garantizar la supervivencia de la industria\ny el crecimiento del país.",
+        "officialTitle": "Moción consecuencia de interpelación urgente sobre la estrategia\nenergética del Gobierno para garantizar la supervivencia de la industria\ny el crecimiento del país.",
+        "type": "regular",
+        "nativeType": "ES-mocion"
+      },
+      "dateStart": "2026-03-25T18:18:00+01:00",
+      "dateEnd": "2026-03-25T18:25:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_168/cortes/15_000400_168_2_27135_770430.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1570430I",
+        "duration": 420.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_168_2_27135_770430",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Eloi Badia Casas",
+          "lastname": "Badia Casas",
+          "firstname": "Eloi",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Plurinacional SUMAR"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 112
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 174
+      },
+      "agendaItem": {
+        "title": "Moción consecuencia de interpelación urgente sobre la estrategia\nenergética del Gobierno para garantizar la supervivencia de la industria\ny el crecimiento del país.",
+        "officialTitle": "Moción consecuencia de interpelación urgente sobre la estrategia\nenergética del Gobierno para garantizar la supervivencia de la industria\ny el crecimiento del país.",
+        "type": "regular",
+        "nativeType": "ES-mocion"
+      },
+      "dateStart": "2026-03-25T18:25:00+01:00",
+      "dateEnd": "2026-03-25T18:31:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_168/cortes/15_000400_168_2_27135_770431.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1570431I",
+        "duration": 360.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_168_2_27135_770431",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Isabel María Pérez Ortiz",
+          "lastname": "Pérez Ortiz",
+          "firstname": "Isabel María",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Socialista"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 113
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 174
+      },
+      "agendaItem": {
+        "title": "Moción consecuencia de interpelación urgente sobre la estrategia\nenergética del Gobierno para garantizar la supervivencia de la industria\ny el crecimiento del país.",
+        "officialTitle": "Moción consecuencia de interpelación urgente sobre la estrategia\nenergética del Gobierno para garantizar la supervivencia de la industria\ny el crecimiento del país.",
+        "type": "regular",
+        "nativeType": "ES-mocion"
+      },
+      "dateStart": "2026-03-25T18:31:00+01:00",
+      "dateEnd": "2026-03-25T18:38:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_168/cortes/15_000400_168_2_27135_770432.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1570432I",
+        "duration": 420.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_168_2_27135_770432",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Juan Diego Requena Ruiz",
+          "lastname": "Requena Ruiz",
+          "firstname": "Juan Diego",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Popular en el Congreso"
+          }
+        }
+      ],
+      "debug": {
+        "coarse-timing": true
+      },
+      "speechIndex": 114
+    }
+  ]
+}
