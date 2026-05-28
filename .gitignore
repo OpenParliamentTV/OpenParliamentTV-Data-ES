@@ -20,4 +20,5 @@ pids
 *.seed
 .idea/
 __pycache__
+*.lock
 
