@@ -1,9 +1,11 @@
 {
   "meta": {
-    "session": "15001",
     "schemaVersion": "1.0",
+    "session": "15001",
     "dateStart": "2023-08-17T14:09:00+02:00",
     "dateEnd": "2023-08-17T14:24:00+02:00",
+    "lastProcessing": "ner",
+    "lastUpdate": "2026-06-15T12:35:33+00:00",
     "processing": {
       "parse_proceedings": "2026-05-23T19:13:19",
       "parse_media": "2026-05-23T07:17:41",
@@ -50,7 +52,6 @@
         }
       ],
       "debug": {
-        "coarse-timing": true,
         "mediaIndex": 1,
         "proceedingIndex": 1041,
         "proceedingIndexes": [
@@ -58,8 +59,9 @@
         ],
         "page": 15,
         "confidence": 1.0,
-        "align-duration": 1.5416781902313232,
-        "ner-duration": 0.16081500053405762
+        "alignDuration": 1.5416781902313232,
+        "nerDuration": 0.16081500053405762,
+        "coarseTiming": true
       },
       "speechIndex": 1,
       "textContents": [
@@ -122,7 +124,8 @@
           ]
         }
       ],
-      "documents": []
+      "documents": [],
+      "originalLanguage": "es"
     },
     {
       "parliament": "ES",
@@ -163,7 +166,6 @@
         }
       ],
       "debug": {
-        "coarse-timing": true,
         "mediaIndex": 2,
         "proceedingIndex": 1043,
         "proceedingIndexes": [
@@ -171,8 +173,9 @@
         ],
         "page": 15,
         "confidence": 1.0,
-        "align-duration": 1.648787021636963,
-        "ner-duration": 0.12317109107971191
+        "alignDuration": 1.648787021636963,
+        "nerDuration": 0.12317109107971191,
+        "coarseTiming": true
       },
       "speechIndex": 2,
       "textContents": [
@@ -247,7 +250,8 @@
           ]
         }
       ],
-      "documents": []
+      "documents": [],
+      "originalLanguage": "es"
     },
     {
       "parliament": "ES",
@@ -288,18 +292,19 @@
         }
       ],
       "debug": {
-        "coarse-timing": true,
         "mediaIndex": 3,
         "proceedingIndex": null,
         "proceedingIndexes": [],
         "confidence": 0.5,
-        "confidence_reason": "no-matched-text",
-        "ner-duration": 0.0
+        "nerDuration": 0.0,
+        "confidenceReason": "no-matched-text",
+        "coarseTiming": true
       },
       "speechIndex": 3,
       "originID": "15001-m3",
       "textContents": [],
-      "documents": []
+      "documents": [],
+      "originalLanguage": "es"
     },
     {
       "parliament": "ES",
@@ -339,18 +344,19 @@
         }
       ],
       "debug": {
-        "coarse-timing": true,
         "mediaIndex": 4,
         "proceedingIndex": null,
         "proceedingIndexes": [],
         "confidence": 0.5,
-        "confidence_reason": "no-matched-text",
-        "ner-duration": 9.5367431640625e-07
+        "nerDuration": 9.5367431640625e-07,
+        "confidenceReason": "no-matched-text",
+        "coarseTiming": true
       },
       "speechIndex": 4,
       "originID": "15001-m4",
       "textContents": [],
-      "documents": []
+      "documents": [],
+      "originalLanguage": "es"
     }
   ]
 }

@@ -1,9 +1,11 @@
 {
   "meta": {
-    "session": "15004",
     "schemaVersion": "1.0",
+    "session": "15004",
     "dateStart": "2023-09-26T12:06:00+02:00",
     "dateEnd": "2023-09-26T21:12:00+02:00",
+    "lastProcessing": "ner",
+    "lastUpdate": "2026-06-15T12:35:33+00:00",
     "processing": {
       "parse_proceedings": "2026-05-23T19:13:19",
       "parse_media": "2026-05-23T07:17:41",
@@ -54,7 +56,6 @@
         }
       ],
       "debug": {
-        "coarse-timing": true,
         "mediaIndex": 1,
         "proceedingIndex": 1002,
         "proceedingIndexes": [
@@ -62,8 +63,9 @@
         ],
         "page": 5,
         "confidence": 1.0,
-        "align-duration": 1.4688060283660889,
-        "ner-duration": 0.13997602462768555
+        "alignDuration": 1.4688060283660889,
+        "nerDuration": 0.13997602462768555,
+        "coarseTiming": true
       },
       "speechIndex": 1,
       "textContents": [
@@ -160,7 +162,8 @@
           ]
         }
       ],
-      "documents": []
+      "documents": [],
+      "originalLanguage": "es"
     },
     {
       "parliament": "ES",
@@ -202,7 +205,6 @@
         }
       ],
       "debug": {
-        "coarse-timing": true,
         "mediaIndex": 2,
         "proceedingIndex": 1004,
         "proceedingIndexes": [
@@ -210,9 +212,10 @@
         ],
         "page": 5,
         "confidence": 1.0,
-        "align-error": "audio too long (6133s > 2400s)",
-        "ner-duration": 7.5876569747924805,
-        "confidence_reason": "no-matched-text"
+        "nerDuration": 7.5876569747924805,
+        "confidenceReason": "no-matched-text",
+        "alignError": "audio too long (6133s > 2400s)",
+        "coarseTiming": true
       },
       "speechIndex": 2,
       "textContents": [
@@ -4002,7 +4005,8 @@
           ]
         }
       ],
-      "documents": []
+      "documents": [],
+      "originalLanguage": "es"
     },
     {
       "parliament": "ES",
@@ -4043,7 +4047,6 @@
         }
       ],
       "debug": {
-        "coarse-timing": true,
         "mediaIndex": 3,
         "proceedingIndex": 1007,
         "proceedingIndexes": [
@@ -4056,8 +4059,9 @@
         ],
         "page": 19,
         "confidence": 1.0,
-        "align-error": "audio too long (2415s > 2400s)",
-        "ner-duration": 4.028697967529297
+        "nerDuration": 4.028697967529297,
+        "alignError": "audio too long (2415s > 2400s)",
+        "coarseTiming": true
       },
       "speechIndex": 3,
       "textContents": [
@@ -6135,7 +6139,8 @@
           ]
         }
       ],
-      "documents": []
+      "documents": [],
+      "originalLanguage": "es"
     },
     {
       "parliament": "ES",
@@ -6178,7 +6183,6 @@
         }
       ],
       "debug": {
-        "coarse-timing": true,
         "mediaIndex": 4,
         "proceedingIndex": 1019,
         "proceedingIndexes": [
@@ -6187,9 +6191,10 @@
         ],
         "page": 26,
         "confidence": 1.0,
-        "align-duration": 2.825998067855835,
-        "ner-duration": 0.7989530563354492,
-        "confidence_reason": "no-matched-text"
+        "alignDuration": 2.825998067855835,
+        "nerDuration": 0.7989530563354492,
+        "confidenceReason": "no-matched-text",
+        "coarseTiming": true
       },
       "speechIndex": 4,
       "textContents": [
@@ -6756,7 +6761,8 @@
           ]
         }
       ],
-      "documents": []
+      "documents": [],
+      "originalLanguage": "es"
     },
     {
       "parliament": "ES",
@@ -6798,7 +6804,6 @@
         }
       ],
       "debug": {
-        "coarse-timing": true,
         "mediaIndex": 5,
         "proceedingIndex": 1023,
         "proceedingIndexes": [
@@ -6807,8 +6812,9 @@
         ],
         "page": 27,
         "confidence": 1.0,
-        "align-duration": 3.3715410232543945,
-        "ner-duration": 1.4828441143035889
+        "alignDuration": 3.3715410232543945,
+        "nerDuration": 1.4828441143035889,
+        "coarseTiming": true
       },
       "speechIndex": 5,
       "textContents": [
@@ -7896,7 +7902,8 @@
           ]
         }
       ],
-      "documents": []
+      "documents": [],
+      "originalLanguage": "es"
     },
     {
       "parliament": "ES",
@@ -7941,7 +7948,6 @@
         }
       ],
       "debug": {
-        "coarse-timing": true,
         "mediaIndex": 6,
         "proceedingIndex": 1027,
         "proceedingIndexes": [
@@ -7949,8 +7955,9 @@
         ],
         "page": 29,
         "confidence": 1.0,
-        "align-duration": 6.5706260204315186,
-        "ner-duration": 2.532855987548828
+        "alignDuration": 6.5706260204315186,
+        "nerDuration": 2.532855987548828,
+        "coarseTiming": true
       },
       "speechIndex": 6,
       "textContents": [
@@ -9489,7 +9496,8 @@
           ]
         }
       ],
-      "documents": []
+      "documents": [],
+      "originalLanguage": "es"
     },
     {
       "parliament": "ES",
@@ -9532,7 +9540,6 @@
         }
       ],
       "debug": {
-        "coarse-timing": true,
         "mediaIndex": 7,
         "proceedingIndex": 1029,
         "proceedingIndexes": [
@@ -9540,9 +9547,10 @@
         ],
         "page": 35,
         "confidence": 1.0,
-        "align-duration": 5.684506893157959,
-        "ner-duration": 2.6438381671905518,
-        "confidence_reason": "no-matched-text"
+        "alignDuration": 5.684506893157959,
+        "nerDuration": 2.6438381671905518,
+        "confidenceReason": "no-matched-text",
+        "coarseTiming": true
       },
       "speechIndex": 7,
       "textContents": [
@@ -11452,7 +11460,8 @@
           ]
         }
       ],
-      "documents": []
+      "documents": [],
+      "originalLanguage": "es"
     },
     {
       "parliament": "ES",
@@ -11497,7 +11506,6 @@
         }
       ],
       "debug": {
-        "coarse-timing": true,
         "mediaIndex": 8,
         "proceedingIndex": 1031,
         "proceedingIndexes": [
@@ -11505,8 +11513,9 @@
         ],
         "page": 39,
         "confidence": 1.0,
-        "align-duration": 2.2826781272888184,
-        "ner-duration": 0.6236321926116943
+        "alignDuration": 2.2826781272888184,
+        "nerDuration": 0.6236321926116943,
+        "coarseTiming": true
       },
       "speechIndex": 8,
       "textContents": [
@@ -12025,7 +12034,8 @@
           ]
         }
       ],
-      "documents": []
+      "documents": [],
+      "originalLanguage": "es"
     },
     {
       "parliament": "ES",
@@ -12068,7 +12078,6 @@
         }
       ],
       "debug": {
-        "coarse-timing": true,
         "mediaIndex": 9,
         "proceedingIndex": 1033,
         "proceedingIndexes": [
@@ -12076,9 +12085,10 @@
         ],
         "page": 40,
         "confidence": 1.0,
-        "align-duration": 2.0373640060424805,
-        "ner-duration": 0.3507421016693115,
-        "confidence_reason": "no-matched-text"
+        "alignDuration": 2.0373640060424805,
+        "nerDuration": 0.3507421016693115,
+        "confidenceReason": "no-matched-text",
+        "coarseTiming": true
       },
       "speechIndex": 9,
       "textContents": [
@@ -12320,7 +12330,8 @@
           ]
         }
       ],
-      "documents": []
+      "documents": [],
+      "originalLanguage": "es"
     },
     {
       "parliament": "ES",
@@ -12362,7 +12373,6 @@
         }
       ],
       "debug": {
-        "coarse-timing": true,
         "mediaIndex": 10,
         "proceedingIndex": 1035,
         "proceedingIndexes": [
@@ -12371,8 +12381,9 @@
         ],
         "page": 41,
         "confidence": 1.0,
-        "align-duration": 5.925747871398926,
-        "ner-duration": 2.6740617752075195
+        "alignDuration": 5.925747871398926,
+        "nerDuration": 2.6740617752075195,
+        "coarseTiming": true
       },
       "speechIndex": 10,
       "textContents": [
@@ -14233,7 +14244,8 @@
           ]
         }
       ],
-      "documents": []
+      "documents": [],
+      "originalLanguage": "es"
     },
     {
       "parliament": "ES",
@@ -14276,7 +14288,6 @@
         }
       ],
       "debug": {
-        "coarse-timing": true,
         "mediaIndex": 11,
         "proceedingIndex": 1039,
         "proceedingIndexes": [
@@ -14284,9 +14295,10 @@
         ],
         "page": 46,
         "confidence": 1.0,
-        "align-duration": 4.802343130111694,
-        "ner-duration": 2.980966091156006,
-        "confidence_reason": "no-matched-text"
+        "alignDuration": 4.802343130111694,
+        "nerDuration": 2.980966091156006,
+        "confidenceReason": "no-matched-text",
+        "coarseTiming": true
       },
       "speechIndex": 11,
       "textContents": [
@@ -15999,7 +16011,8 @@
           ]
         }
       ],
-      "documents": []
+      "documents": [],
+      "originalLanguage": "es"
     },
     {
       "parliament": "ES",
@@ -16043,7 +16056,6 @@
         }
       ],
       "debug": {
-        "coarse-timing": true,
         "mediaIndex": 12,
         "proceedingIndex": 1041,
         "proceedingIndexes": [
@@ -16051,8 +16063,9 @@
         ],
         "page": 50,
         "confidence": 1.0,
-        "align-duration": 2.462553024291992,
-        "ner-duration": 0.9069309234619141
+        "alignDuration": 2.462553024291992,
+        "nerDuration": 0.9069309234619141,
+        "coarseTiming": true
       },
       "speechIndex": 12,
       "textContents": [
@@ -16844,7 +16857,8 @@
           ]
         }
       ],
-      "documents": []
+      "documents": [],
+      "originalLanguage": "es"
     },
     {
       "parliament": "ES",
@@ -16888,7 +16902,6 @@
         }
       ],
       "debug": {
-        "coarse-timing": true,
         "mediaIndex": 13,
         "proceedingIndex": 1043,
         "proceedingIndexes": [
@@ -16898,8 +16911,9 @@
         ],
         "page": 51,
         "confidence": 1.0,
-        "align-duration": 2.2950310707092285,
-        "ner-duration": 0.7428810596466064
+        "alignDuration": 2.2950310707092285,
+        "nerDuration": 0.7428810596466064,
+        "coarseTiming": true
       },
       "speechIndex": 13,
       "textContents": [
@@ -17533,7 +17547,8 @@
           ]
         }
       ],
-      "documents": []
+      "documents": [],
+      "originalLanguage": "es"
     },
     {
       "parliament": "ES",
@@ -17576,7 +17591,6 @@
         }
       ],
       "debug": {
-        "coarse-timing": true,
         "mediaIndex": 14,
         "proceedingIndex": 1049,
         "proceedingIndexes": [
@@ -17584,9 +17598,10 @@
         ],
         "page": 53,
         "confidence": 1.0,
-        "align-duration": 3.5291430950164795,
-        "ner-duration": 1.6451358795166016,
-        "confidence_reason": "no-matched-text"
+        "alignDuration": 3.5291430950164795,
+        "nerDuration": 1.6451358795166016,
+        "confidenceReason": "no-matched-text",
+        "coarseTiming": true
       },
       "speechIndex": 14,
       "textContents": [
@@ -18811,7 +18826,8 @@
           ]
         }
       ],
-      "documents": []
+      "documents": [],
+      "originalLanguage": "es"
     },
     {
       "parliament": "ES",
@@ -18856,7 +18872,6 @@
         }
       ],
       "debug": {
-        "coarse-timing": true,
         "mediaIndex": 15,
         "proceedingIndex": 1051,
         "proceedingIndexes": [
@@ -18864,8 +18879,9 @@
         ],
         "page": 55,
         "confidence": 1.0,
-        "align-duration": 7.002983093261719,
-        "ner-duration": 4.22495698928833
+        "alignDuration": 7.002983093261719,
+        "nerDuration": 4.22495698928833,
+        "coarseTiming": true
       },
       "speechIndex": 15,
       "textContents": [
@@ -21838,7 +21854,8 @@
           ]
         }
       ],
-      "documents": []
+      "documents": [],
+      "originalLanguage": "es"
     },
     {
       "parliament": "ES",
@@ -21882,7 +21899,6 @@
         }
       ],
       "debug": {
-        "coarse-timing": true,
         "mediaIndex": 16,
         "proceedingIndex": 1053,
         "proceedingIndexes": [
@@ -21890,8 +21906,9 @@
         ],
         "page": 62,
         "confidence": 1.0,
-        "align-duration": 5.184552907943726,
-        "ner-duration": 2.839301109313965
+        "alignDuration": 5.184552907943726,
+        "nerDuration": 2.839301109313965,
+        "coarseTiming": true
       },
       "speechIndex": 16,
       "textContents": [
@@ -23888,7 +23905,8 @@
           ]
         }
       ],
-      "documents": []
+      "documents": [],
+      "originalLanguage": "es"
     },
     {
       "parliament": "ES",
@@ -23931,7 +23949,6 @@
         }
       ],
       "debug": {
-        "coarse-timing": true,
         "mediaIndex": 17,
         "proceedingIndex": 1055,
         "proceedingIndexes": [
@@ -23939,9 +23956,10 @@
         ],
         "page": 68,
         "confidence": 1.0,
-        "align-duration": 6.655155897140503,
-        "ner-duration": 3.569017171859741,
-        "confidence_reason": "no-matched-text"
+        "alignDuration": 6.655155897140503,
+        "nerDuration": 3.569017171859741,
+        "confidenceReason": "no-matched-text",
+        "coarseTiming": true
       },
       "speechIndex": 17,
       "textContents": [
@@ -26755,7 +26773,8 @@
           ]
         }
       ],
-      "documents": []
+      "documents": [],
+      "originalLanguage": "es"
     },
     {
       "parliament": "ES",
@@ -26800,7 +26819,6 @@
         }
       ],
       "debug": {
-        "coarse-timing": true,
         "mediaIndex": 18,
         "proceedingIndex": 1057,
         "proceedingIndexes": [
@@ -26808,8 +26826,9 @@
         ],
         "page": 73,
         "confidence": 1.0,
-        "align-duration": 2.18959903717041,
-        "ner-duration": 0.5359649658203125
+        "alignDuration": 2.18959903717041,
+        "nerDuration": 0.5359649658203125,
+        "coarseTiming": true
       },
       "speechIndex": 18,
       "textContents": [
@@ -27248,7 +27267,8 @@
           ]
         }
       ],
-      "documents": []
+      "documents": [],
+      "originalLanguage": "es"
     },
     {
       "parliament": "ES",
@@ -27292,7 +27312,6 @@
         }
       ],
       "debug": {
-        "coarse-timing": true,
         "mediaIndex": 19,
         "proceedingIndex": 1059,
         "proceedingIndexes": [
@@ -27300,8 +27319,9 @@
         ],
         "page": 74,
         "confidence": 1.0,
-        "align-duration": 2.238926887512207,
-        "ner-duration": 1.0358757972717285
+        "alignDuration": 2.238926887512207,
+        "nerDuration": 1.0358757972717285,
+        "coarseTiming": true
       },
       "speechIndex": 19,
       "textContents": [
@@ -28135,7 +28155,8 @@
           ]
         }
       ],
-      "documents": []
+      "documents": [],
+      "originalLanguage": "es"
     },
     {
       "parliament": "ES",
@@ -28178,7 +28199,6 @@
         }
       ],
       "debug": {
-        "coarse-timing": true,
         "mediaIndex": 20,
         "proceedingIndex": 1061,
         "proceedingIndexes": [
@@ -28186,9 +28206,10 @@
         ],
         "page": 75,
         "confidence": 1.0,
-        "align-duration": 3.6095387935638428,
-        "ner-duration": 1.5306289196014404,
-        "confidence_reason": "no-matched-text"
+        "alignDuration": 3.6095387935638428,
+        "nerDuration": 1.5306289196014404,
+        "confidenceReason": "no-matched-text",
+        "coarseTiming": true
       },
       "speechIndex": 20,
       "textContents": [
@@ -29433,7 +29454,8 @@
           ]
         }
       ],
-      "documents": []
+      "documents": [],
+      "originalLanguage": "es"
     }
   ]
 }
