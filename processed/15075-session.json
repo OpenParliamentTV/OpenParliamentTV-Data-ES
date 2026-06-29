@@ -1,0 +1,1278 @@
+{
+  "meta": {
+    "schemaVersion": "1.0",
+    "session": "15075",
+    "dateStart": "2024-10-30T09:04:00+01:00",
+    "dateEnd": "2024-10-30T09:25:00+01:00",
+    "lastProcessing": "merge",
+    "lastUpdate": "2026-06-15T12:36:51+00:00",
+    "processing": {
+      "parse_proceedings": "2026-05-23T07:17:52",
+      "parse_media": "2026-05-23T07:17:41",
+      "merge": "2026-06-15T12:36:51+00:00"
+    }
+  },
+  "data": [
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 75,
+        "dateStart": "2024-10-30T09:04:00+01:00",
+        "dateEnd": "2024-10-30T09:25:00+01:00"
+      },
+      "agendaItem": {
+        "title": "¿Qué institución asaltará mañana el Gobierno?",
+        "officialTitle": "¿Qué institución asaltará mañana el Gobierno?",
+        "type": "qa",
+        "nativeType": "ES-pregunta"
+      },
+      "dateStart": "2024-10-30T09:04:00+01:00",
+      "dateEnd": "2024-10-30T09:06:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_072/cortes/15_000400_072_0_25399_741197.mp4\nhttps://www.congreso.es/audiovisual/video/leg15/400/15_000400_072/cortes/15_000400_072_0_25399_741199.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1541197I https://app.congreso.es/v1/15741199I",
+        "duration": 120.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_072_0_25399_741199",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Concepción Gamarra Ruiz-Clavijo",
+          "lastname": "Gamarra Ruiz-Clavijo",
+          "firstname": "Concepción",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Popular en el Congreso"
+          }
+        }
+      ],
+      "debug": {
+        "mediaIndex": 1,
+        "proceedingIndex": 1003,
+        "proceedingIndexes": [
+          1003
+        ],
+        "page": 4,
+        "confidence": 1.0,
+        "coarseTiming": true
+      },
+      "speechIndex": 1,
+      "textContents": [
+        {
+          "type": "proceedings",
+          "language": "es",
+          "originTextID": "DSCD-15-PL-75-3",
+          "sourceURI": "https://www.congreso.es/public_oficiales/L15/CONG/DS/PL/DSCD-15-PL-75.PDF#page=4",
+          "creator": "Congreso de los Diputados",
+          "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+          "textBody": [
+            {
+              "type": "speech",
+              "text": "Gracias, presidenta. Señorías, las imágenes que nos llegan sobre los efectos de la dana en la Comunidad Valenciana, en Castilla-La Mancha y en Andalucía son devastadoras y el reflejo de la tragedia que están viviendo en estos momentos centenares de miles de españoles. Quiero trasladar y expresar en nombre del Partido Popular nuestra solidaridad con las víctimas, con los desaparecidos, con sus familiares, sus amigos y sus vecinos. También queremos destacar nuestra voluntad de colaborar, de que todas las instituciones del Estado, de las comunidades autónomas, provinciales y municipales colaboren para atender a la que tiene que ser nuestra única prioridad, los ciudadanos. Las instituciones son claves para atender las necesidades de los españoles, especialmente en los momentos de sus vidas que son más difíciles. De ahí la relevancia de esta pregunta, de ahí la relevancia de instituciones al servicio de los ciudadanos, al servicio de los españoles y no al servicio de un Gobierno. Señora vicepresidenta, ¿qué institución están pensando en ocupar próximamente? Muchas gracias. (Aplausos).",
+              "sentences": [
+                {
+                  "text": "Gracias, presidenta."
+                },
+                {
+                  "text": "Señorías, las imágenes que nos llegan sobre los efectos de la dana en la Comunidad Valenciana, en Castilla-La Mancha y en Andalucía son devastadoras y el reflejo de la tragedia que están viviendo en estos momentos centenares de miles de españoles."
+                },
+                {
+                  "text": "Quiero trasladar y expresar en nombre del Partido Popular nuestra solidaridad con las víctimas, con los desaparecidos, con sus familiares, sus amigos y sus vecinos."
+                },
+                {
+                  "text": "También queremos destacar nuestra voluntad de colaborar, de que todas las instituciones del Estado, de las comunidades autónomas, provinciales y municipales colaboren para atender a la que tiene que ser nuestra única prioridad, los ciudadanos."
+                },
+                {
+                  "text": "Las instituciones son claves para atender las necesidades de los españoles, especialmente en los momentos de sus vidas que son más difíciles."
+                },
+                {
+                  "text": "De ahí la relevancia de esta pregunta, de ahí la relevancia de instituciones al servicio de los ciudadanos, al servicio de los españoles y no al servicio de un Gobierno."
+                },
+                {
+                  "text": "Señora vicepresidenta, ¿qué institución están pensando en ocupar próximamente?"
+                },
+                {
+                  "text": "Muchas gracias. ("
+                },
+                {
+                  "text": "Aplausos)."
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "documents": [],
+      "originalLanguage": "es"
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 75,
+        "dateStart": "2024-10-30T09:04:00+01:00",
+        "dateEnd": "2024-10-30T09:25:00+01:00"
+      },
+      "agendaItem": {
+        "title": "¿Qué institución asaltará mañana el Gobierno?",
+        "officialTitle": "¿Qué institución asaltará mañana el Gobierno?",
+        "type": "qa",
+        "nativeType": "ES-pregunta"
+      },
+      "dateStart": "2024-10-30T09:06:00+01:00",
+      "dateEnd": "2024-10-30T09:08:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_072/cortes/15_000400_072_0_25399_741198.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1541198I",
+        "duration": 120.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_072_0_25399_741198",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "María Jesús Montero Cuadrado",
+          "lastname": "Montero Cuadrado",
+          "firstname": "María Jesús",
+          "type": "member of government",
+          "role": "Vicepresidenta Primera del Gobierno y Ministra de Hacienda",
+          "faction": {
+            "label": "Grupo Parlamentario Socialista"
+          }
+        }
+      ],
+      "debug": {
+        "mediaIndex": 2,
+        "proceedingIndex": 1005,
+        "proceedingIndexes": [
+          1005
+        ],
+        "page": 4,
+        "confidence": 1.0,
+        "coarseTiming": true
+      },
+      "speechIndex": 2,
+      "textContents": [
+        {
+          "type": "proceedings",
+          "language": "es",
+          "originTextID": "DSCD-15-PL-75-5",
+          "sourceURI": "https://www.congreso.es/public_oficiales/L15/CONG/DS/PL/DSCD-15-PL-75.PDF#page=4",
+          "creator": "Congreso de los Diputados",
+          "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+          "textBody": [
+            {
+              "type": "speech",
+              "text": "Muchas gracias, señora presidenta. Efectivamente, señora Gamarra, creo que hoy el conjunto de esta Cámara tiene que estar al servicio de todas las personas que están sufriendo con motivo de este temporal. Las administraciones tenemos que estar coordinadas para procurar una mayor, mejor y pronta asistencia a las víctimas, para consolar a los familiares que tienen personas fallecidas, para intentar restablecer la circulación y todo aquello que permita, y ojalá que sea pronto, que la normalidad pueda volver a todos los pueblos, a todos los municipios que han sido afectados por este temporal. Por eso, señora Gamarra, creo que tenemos tiempo siempre, durante las diferentes sesiones, para el rifirrafe político, para hablar de aquellas cosas sobre las que discrepamos, pero que hoy hacemos un favor a la ciudadanía si mostramos unidad en el conjunto de los partidos políticos (aplausos), especialmente de aquellos partidos que tenemos competencias en materia de gobierno, que tenemos la responsabilidad de administrar los intereses de los ciudadanos a través de las diferentes instituciones, y, por tanto, señora Gamarra, creo en el día de hoy el nuestro tiene que ser un mensaje de estar al servicio de la ciudadanía y que todas las instituciones del Estado, comunidades autónomas y ayuntamientos estamos a su disposición para que, en acción coordinada, podamos volver a la normalidad en el menor plazo de tiempo posible, transmitiendo -como hemos hecho en el minuto de silencio- nuestro respeto, nuestra solidaridad y nuestro pésame a todas las familias que han perdido a un ser querido. En eso va a estar el Gobierno, en eso creo que tenemos que estar el conjunto de fuerzas políticas. (Aplausos).",
+              "sentences": [
+                {
+                  "text": "Muchas gracias, señora presidenta."
+                },
+                {
+                  "text": "Efectivamente, señora Gamarra, creo que hoy el conjunto de esta Cámara tiene que estar al servicio de todas las personas que están sufriendo con motivo de este temporal."
+                },
+                {
+                  "text": "Las administraciones tenemos que estar coordinadas para procurar una mayor, mejor y pronta asistencia a las víctimas, para consolar a los familiares que tienen personas fallecidas, para intentar restablecer la circulación y todo aquello que permita, y ojalá que sea pronto, que la normalidad pueda volver a todos los pueblos, a todos los municipios que han sido afectados por este temporal."
+                },
+                {
+                  "text": "Por eso, señora Gamarra, creo que tenemos tiempo siempre, durante las diferentes sesiones, para el rifirrafe político, para hablar de aquellas cosas sobre las que discrepamos, pero que hoy hacemos un favor a la ciudadanía si mostramos unidad en el conjunto de los partidos políticos (aplausos), especialmente de aquellos partidos que tenemos competencias en materia de gobierno, que tenemos la responsabilidad de administrar los intereses de los ciudadanos a través de las diferentes instituciones, y, por tanto, señora Gamarra, creo en el día de hoy el nuestro tiene que ser un mensaje de estar al servicio de la ciudadanía y que todas las instituciones del Estado, comunidades autónomas y ayuntamientos estamos a su disposición para que, en acción coordinada, podamos volver a la normalidad en el menor plazo de tiempo posible, transmitiendo -como hemos hecho en el minuto de silencio- nuestro respeto, nuestra solidaridad y nuestro pésame a todas las familias que han perdido a un ser querido."
+                },
+                {
+                  "text": "En eso va a estar el Gobierno, en eso creo que tenemos que estar el conjunto de fuerzas políticas. ("
+                },
+                {
+                  "text": "Aplausos)."
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "documents": [],
+      "originalLanguage": "es"
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 75,
+        "dateStart": "2024-10-30T09:04:00+01:00",
+        "dateEnd": "2024-10-30T09:25:00+01:00"
+      },
+      "agendaItem": {
+        "title": "¿Qué institución asaltará mañana el Gobierno?",
+        "officialTitle": "¿Qué institución asaltará mañana el Gobierno?",
+        "type": "qa",
+        "nativeType": "ES-pregunta"
+      },
+      "dateStart": "2024-10-30T09:10:00+01:00",
+      "dateEnd": "2024-10-30T09:10:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_072/cortes/15_000400_072_0_25399_741200.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1541200I",
+        "duration": 0.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_072_0_25399_741200",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "María Jesús Montero Cuadrado",
+          "lastname": "Montero Cuadrado",
+          "firstname": "María Jesús",
+          "type": "member of government",
+          "role": "Vicepresidenta Primera del Gobierno y Ministra de Hacienda",
+          "faction": {
+            "label": "Grupo Parlamentario Socialista"
+          }
+        }
+      ],
+      "debug": {
+        "mediaIndex": 3,
+        "proceedingIndex": 1009,
+        "proceedingIndexes": [
+          1009
+        ],
+        "page": 5,
+        "confidence": 1.0,
+        "coarseTiming": true
+      },
+      "speechIndex": 3,
+      "textContents": [
+        {
+          "type": "proceedings",
+          "language": "es",
+          "originTextID": "DSCD-15-PL-75-9",
+          "sourceURI": "https://www.congreso.es/public_oficiales/L15/CONG/DS/PL/DSCD-15-PL-75.PDF#page=5",
+          "creator": "Congreso de los Diputados",
+          "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+          "textBody": [
+            {
+              "type": "speech",
+              "text": "Señora Gamarra, me reitero en lo dicho. No tienen ustedes ningún tipo de justificación para convertir el debate del día de hoy justamente en lo que al principio de mi intervención he intentado trasladar. No es el día, señora Gamarra; el día de hoy es un día para que la ciudadanía sepa que el conjunto de las instituciones están a su servicio, que los Gobiernos tenemos coordinación, que el sistema de derecho funciona. (Aplausos). Dejen ustedes las mentiras, las patrañas y la bronca permanente en la que quieren instalar la política. (Aplausos).",
+              "sentences": [
+                {
+                  "text": "Señora Gamarra, me reitero en lo dicho."
+                },
+                {
+                  "text": "No tienen ustedes ningún tipo de justificación para convertir el debate del día de hoy justamente en lo que al principio de mi intervención he intentado trasladar."
+                },
+                {
+                  "text": "No es el día, señora Gamarra; el día de hoy es un día para que la ciudadanía sepa que el conjunto de las instituciones están a su servicio, que los Gobiernos tenemos coordinación, que el sistema de derecho funciona. ("
+                },
+                {
+                  "text": "Aplausos)."
+                },
+                {
+                  "text": "Dejen ustedes las mentiras, las patrañas y la bronca permanente en la que quieren instalar la política. ("
+                },
+                {
+                  "text": "Aplausos)."
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "documents": [],
+      "originalLanguage": "es"
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 75,
+        "dateStart": "2024-10-30T09:04:00+01:00",
+        "dateEnd": "2024-10-30T09:25:00+01:00"
+      },
+      "agendaItem": {
+        "title": "¿Considera el monólogo social una forma óptima de llegar a acuerdos?",
+        "officialTitle": "¿Considera el monólogo social una forma óptima de llegar a acuerdos?",
+        "type": "qa",
+        "nativeType": "ES-pregunta"
+      },
+      "dateStart": "2024-10-30T09:10:00+01:00",
+      "dateEnd": "2024-10-30T09:12:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_072/cortes/15_000400_072_0_25399_741202.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1541202I",
+        "duration": 120.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_072_0_25399_741202",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Jaime Eduardo de Olano Vela",
+          "lastname": "Olano Vela",
+          "firstname": "Jaime Eduardo de",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Popular en el Congreso"
+          }
+        }
+      ],
+      "debug": {
+        "mediaIndex": 4,
+        "proceedingIndex": null,
+        "proceedingIndexes": [],
+        "confidence": 0.5,
+        "confidenceReason": "no-matched-text",
+        "coarseTiming": true
+      },
+      "speechIndex": 4,
+      "originID": "15075-m4",
+      "textContents": [],
+      "documents": [],
+      "originalLanguage": "es"
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 75,
+        "dateStart": "2024-10-30T09:04:00+01:00",
+        "dateEnd": "2024-10-30T09:25:00+01:00"
+      },
+      "agendaItem": {
+        "title": "¿Considera el monólogo social una forma óptima de llegar a acuerdos?",
+        "officialTitle": "¿Considera el monólogo social una forma óptima de llegar a acuerdos?",
+        "type": "qa",
+        "nativeType": "ES-pregunta"
+      },
+      "dateStart": "2024-10-30T09:12:00+01:00",
+      "dateEnd": "2024-10-30T09:12:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_072/cortes/15_000400_072_0_25399_741203.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1541203I",
+        "duration": 0.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_072_0_25399_741203",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Yolanda Díaz Pérez",
+          "lastname": "Díaz Pérez",
+          "firstname": "Yolanda",
+          "type": "member of government",
+          "role": "Vicepresidenta Segunda y Ministra de Trabajo y Economía Social",
+          "faction": {
+            "label": "Grupo Parlamentario Plurinacional SUMAR"
+          }
+        }
+      ],
+      "debug": {
+        "mediaIndex": 5,
+        "proceedingIndex": 1018,
+        "proceedingIndexes": [
+          1018
+        ],
+        "page": 6,
+        "confidence": 1.0,
+        "coarseTiming": true
+      },
+      "speechIndex": 5,
+      "textContents": [
+        {
+          "type": "proceedings",
+          "language": "es",
+          "originTextID": "DSCD-15-PL-75-18",
+          "sourceURI": "https://www.congreso.es/public_oficiales/L15/CONG/DS/PL/DSCD-15-PL-75.PDF#page=6",
+          "creator": "Congreso de los Diputados",
+          "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+          "textBody": [
+            {
+              "type": "speech",
+              "text": "Señor De Olano, le conozco bien, y ni siquiera ante un caso tan grave como este son capaces ustedes de estar a la altura. (Protestas). El caso Errejón, señoría, es un drama. Es un drama para las víctimas, que hoy están sufriendo; para todas las mujeres que sufren violencia machista todos los días, que hoy vuelven a sufrir y a revivir en sus carnes lo que han pasado, y es un drama para la sociedad, señor De Olano, que hoy está en shock. Es un drama para esta sociedad. ¿Y sabe cómo se llama, señor De Olano? Se llama machismo. Y el machismo, señor De Olano, no es ni de derechas ni de izquierdas; es machismo, señor De Olano. (Rumores). Y el machismo, señorías, también está en esta Cámara; repito, también está en esta Cámara. Deberíamos tener la oportunidad, señor De Olano, ¿sabe para qué? Para luchar contra todas las violencias machistas; contra todas, señoría. (Aplausos). Deberíamos aprovechar para hacer exactamente esto. Fíjese, señor De Olano, he hecho, en cuarenta y ocho horas, sin expediente administrativo -usted es abogado, como yo-, lo que no se había hecho jamás. Hoy el Señor Errejón no está en esta Cámara, está fuera de todas sus responsabilidades políticas e institucionales, señor De Olano. (El señor De Olano Vega hace signos negativos). Lo volvería a hacer una y mil veces, cueste lo que cueste, caiga quien caiga y genere las crisis políticas que genere, sin lugar a duda. Señor De Olano, no todos somos iguales (el señor De Olano Vela: Desde luego), y en política no vale todo. Ustedes a día de hoy son todavía los del caso Nevenka; a día de hoy, señorías, son los que han gobernado en Valencia con un condenado por maltrato. Les dieron exactamente igual las víctimas, señoría. Incluso, el señor Feijóo llegó a ampararlo y a justificarlo diciendo que era normal porque había tenido un divorcio duro. Señor De Olano, este es un Gobierno feminista. No somos como ustedes. Y por una vez luchemos contra la violencia machista. (Aplausos).",
+              "sentences": [
+                {
+                  "text": "Señor De Olano, le conozco bien, y ni siquiera ante un caso tan grave como este son capaces ustedes de estar a la altura. ("
+                },
+                {
+                  "text": "Protestas)."
+                },
+                {
+                  "text": "El caso Errejón, señoría, es un drama."
+                },
+                {
+                  "text": "Es un drama para las víctimas, que hoy están sufriendo; para todas las mujeres que sufren violencia machista todos los días, que hoy vuelven a sufrir y a revivir en sus carnes lo que han pasado, y es un drama para la sociedad, señor De Olano, que hoy está en shock."
+                },
+                {
+                  "text": "Es un drama para esta sociedad. ¿"
+                },
+                {
+                  "text": "Y sabe cómo se llama, señor De Olano?"
+                },
+                {
+                  "text": "Se llama machismo."
+                },
+                {
+                  "text": "Y el machismo, señor De Olano, no es ni de derechas ni de izquierdas; es machismo, señor De Olano. ("
+                },
+                {
+                  "text": "Rumores)."
+                },
+                {
+                  "text": "Y el machismo, señorías, también está en esta Cámara; repito, también está en esta Cámara."
+                },
+                {
+                  "text": "Deberíamos tener la oportunidad, señor De Olano, ¿sabe para qué?"
+                },
+                {
+                  "text": "Para luchar contra todas las violencias machistas; contra todas, señoría. ("
+                },
+                {
+                  "text": "Aplausos)."
+                },
+                {
+                  "text": "Deberíamos aprovechar para hacer exactamente esto."
+                },
+                {
+                  "text": "Fíjese, señor De Olano, he hecho, en cuarenta y ocho horas, sin expediente administrativo -usted es abogado, como yo-, lo que no se había hecho jamás."
+                },
+                {
+                  "text": "Hoy el Señor Errejón no está en esta Cámara, está fuera de todas sus responsabilidades políticas e institucionales, señor De Olano. ("
+                },
+                {
+                  "text": "El señor De Olano Vega hace signos negativos)."
+                },
+                {
+                  "text": "Lo volvería a hacer una y mil veces, cueste lo que cueste, caiga quien caiga y genere las crisis políticas que genere, sin lugar a duda."
+                },
+                {
+                  "text": "Señor De Olano, no todos somos iguales (el señor De Olano Vela: Desde luego), y en política no vale todo."
+                },
+                {
+                  "text": "Ustedes a día de hoy son todavía los del caso Nevenka; a día de hoy, señorías, son los que han gobernado en Valencia con un condenado por maltrato."
+                },
+                {
+                  "text": "Les dieron exactamente igual las víctimas, señoría."
+                },
+                {
+                  "text": "Incluso, el señor Feijóo llegó a ampararlo y a justificarlo diciendo que era normal porque había tenido un divorcio duro."
+                },
+                {
+                  "text": "Señor De Olano, este es un Gobierno feminista."
+                },
+                {
+                  "text": "No somos como ustedes."
+                },
+                {
+                  "text": "Y por una vez luchemos contra la violencia machista. ("
+                },
+                {
+                  "text": "Aplausos)."
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "documents": [],
+      "originalLanguage": "es"
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 75,
+        "dateStart": "2024-10-30T09:04:00+01:00",
+        "dateEnd": "2024-10-30T09:25:00+01:00"
+      },
+      "agendaItem": {
+        "title": "¿Considera el monólogo social una forma óptima de llegar a acuerdos?",
+        "officialTitle": "¿Considera el monólogo social una forma óptima de llegar a acuerdos?",
+        "type": "qa",
+        "nativeType": "ES-pregunta"
+      },
+      "dateStart": "2024-10-30T09:12:00+01:00",
+      "dateEnd": "2024-10-30T09:14:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_072/cortes/15_000400_072_0_25399_741204.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1541204I",
+        "duration": 120.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_072_0_25399_741204",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Jaime Eduardo de Olano Vela",
+          "lastname": "Olano Vela",
+          "firstname": "Jaime Eduardo de",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Popular en el Congreso"
+          }
+        }
+      ],
+      "debug": {
+        "mediaIndex": 6,
+        "proceedingIndex": null,
+        "proceedingIndexes": [],
+        "confidence": 0.5,
+        "confidenceReason": "no-matched-text",
+        "coarseTiming": true
+      },
+      "speechIndex": 6,
+      "originID": "15075-m6",
+      "textContents": [],
+      "documents": [],
+      "originalLanguage": "es"
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 75,
+        "dateStart": "2024-10-30T09:04:00+01:00",
+        "dateEnd": "2024-10-30T09:25:00+01:00"
+      },
+      "agendaItem": {
+        "title": "¿Considera el monólogo social una forma óptima de llegar a acuerdos?",
+        "officialTitle": "¿Considera el monólogo social una forma óptima de llegar a acuerdos?",
+        "type": "qa",
+        "nativeType": "ES-pregunta"
+      },
+      "dateStart": "2024-10-30T09:14:00+01:00",
+      "dateEnd": "2024-10-30T09:16:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_072/cortes/15_000400_072_0_25399_741205.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1541205I",
+        "duration": 120.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_072_0_25399_741205",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Yolanda Díaz Pérez",
+          "lastname": "Díaz Pérez",
+          "firstname": "Yolanda",
+          "type": "member of government",
+          "role": "Vicepresidenta Segunda y Ministra de Trabajo y Economía Social",
+          "faction": {
+            "label": "Grupo Parlamentario Plurinacional SUMAR"
+          }
+        }
+      ],
+      "debug": {
+        "mediaIndex": 7,
+        "proceedingIndex": 1023,
+        "proceedingIndexes": [
+          1023
+        ],
+        "page": 7,
+        "confidence": 1.0,
+        "coarseTiming": true
+      },
+      "speechIndex": 7,
+      "textContents": [
+        {
+          "type": "proceedings",
+          "language": "es",
+          "originTextID": "DSCD-15-PL-75-23",
+          "sourceURI": "https://www.congreso.es/public_oficiales/L15/CONG/DS/PL/DSCD-15-PL-75.PDF#page=7",
+          "creator": "Congreso de los Diputados",
+          "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+          "textBody": [
+            {
+              "type": "speech",
+              "text": "Señoría, si no fuera un día tan grave y si no fuera tan grave lo que estamos viviendo... De verdad, escúchese. El Gobierno de España no ampara la corrupción ni hoy ni nunca ni lo hará mañana. No somos como ustedes, señorías del Grupo Popular. Somos radicalmente diferentes y sería conveniente que, ante un tema tan grave también como la corrupción, ustedes, desde luego, tomarán medidas. (Aplausos).",
+              "sentences": [
+                {
+                  "text": "Señoría, si no fuera un día tan grave y si no fuera tan grave lo que estamos viviendo... De verdad, escúchese."
+                },
+                {
+                  "text": "El Gobierno de España no ampara la corrupción ni hoy ni nunca ni lo hará mañana."
+                },
+                {
+                  "text": "No somos como ustedes, señorías del Grupo Popular."
+                },
+                {
+                  "text": "Somos radicalmente diferentes y sería conveniente que, ante un tema tan grave también como la corrupción, ustedes, desde luego, tomarán medidas. ("
+                },
+                {
+                  "text": "Aplausos)."
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "documents": [],
+      "originalLanguage": "es"
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 75,
+        "dateStart": "2024-10-30T09:04:00+01:00",
+        "dateEnd": "2024-10-30T09:25:00+01:00"
+      },
+      "agendaItem": {
+        "title": "¿Cuánto tiempo van a seguir amparando la corrupción?",
+        "officialTitle": "¿Cuánto tiempo van a seguir amparando la corrupción?",
+        "type": "qa",
+        "nativeType": "ES-pregunta"
+      },
+      "dateStart": "2024-10-30T09:16:00+01:00",
+      "dateEnd": "2024-10-30T09:18:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_072/cortes/15_000400_072_0_25399_741207.mp4\nhttps://www.congreso.es/audiovisual/video/leg15/400/15_000400_072/cortes/15_000400_072_0_25399_741209.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1541207I https://app.congreso.es/v1/15741209I",
+        "duration": 120.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_072_0_25399_741209",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Ester Muñoz de la Iglesia",
+          "lastname": "Muñoz de la Iglesia",
+          "firstname": "Ester",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Popular en el Congreso"
+          }
+        }
+      ],
+      "debug": {
+        "mediaIndex": 8,
+        "proceedingIndex": 1025,
+        "proceedingIndexes": [
+          1025
+        ],
+        "page": 7,
+        "confidence": 1.0,
+        "coarseTiming": true
+      },
+      "speechIndex": 8,
+      "textContents": [
+        {
+          "type": "proceedings",
+          "language": "es",
+          "originTextID": "DSCD-15-PL-75-25",
+          "sourceURI": "https://www.congreso.es/public_oficiales/L15/CONG/DS/PL/DSCD-15-PL-75.PDF#page=7",
+          "creator": "Congreso de los Diputados",
+          "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+          "textBody": [
+            {
+              "type": "speech",
+              "text": "Señora vicepresidenta, en un día tan duro como hoy usted no ha tenido ningún escrúpulo en usar y manosear a una víctima como la señora Nevenka en una sesión de control como la de hoy. (La señora Vidal Sáez: ¡Venga ya!). Usted en la rueda de prensa que dio el lunes dijo varias mentiras. Usted dijo que la información que conoció hace un año era exactamente igual que la que ha conocido ahora. Entonces, como ahora, no hubo una denuncia penal; habían sido acusaciones en redes sociales. ¿Cuál ha sido la diferencia, señora vicepresidenta? Que a usted la han pillado encubriendo al señor Errejón. Esa es la única diferencia este año. Usted en su comparecencia tildó a la denunciante de presunta víctima, cuando la presunción es de inocencia y sobre un acusado, nunca sobre una víctima, señora vicepresidenta. En un día como hoy, compórtese y por primera vez, por favor, diga la verdad. Muchas gracias. (Algunos señores diputados: ¡Muy bien!-Aplausos).",
+              "sentences": [
+                {
+                  "text": "Señora vicepresidenta, en un día tan duro como hoy usted no ha tenido ningún escrúpulo en usar y manosear a una víctima como la señora Nevenka en una sesión de control como la de hoy. ("
+                },
+                {
+                  "text": "La señora Vidal Sáez: ¡Venga ya!)."
+                },
+                {
+                  "text": "Usted en la rueda de prensa que dio el lunes dijo varias mentiras."
+                },
+                {
+                  "text": "Usted dijo que la información que conoció hace un año era exactamente igual que la que ha conocido ahora."
+                },
+                {
+                  "text": "Entonces, como ahora, no hubo una denuncia penal; habían sido acusaciones en redes sociales. ¿"
+                },
+                {
+                  "text": "Cuál ha sido la diferencia, señora vicepresidenta?"
+                },
+                {
+                  "text": "Que a usted la han pillado encubriendo al señor Errejón."
+                },
+                {
+                  "text": "Esa es la única diferencia este año."
+                },
+                {
+                  "text": "Usted en su comparecencia tildó a la denunciante de presunta víctima, cuando la presunción es de inocencia y sobre un acusado, nunca sobre una víctima, señora vicepresidenta."
+                },
+                {
+                  "text": "En un día como hoy, compórtese y por primera vez, por favor, diga la verdad."
+                },
+                {
+                  "text": "Muchas gracias. ("
+                },
+                {
+                  "text": "Algunos señores diputados: ¡Muy bien!-Aplausos)."
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "documents": [],
+      "originalLanguage": "es"
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 75,
+        "dateStart": "2024-10-30T09:04:00+01:00",
+        "dateEnd": "2024-10-30T09:25:00+01:00"
+      },
+      "agendaItem": {
+        "title": "¿Cuánto tiempo van a seguir amparando la corrupción?",
+        "officialTitle": "¿Cuánto tiempo van a seguir amparando la corrupción?",
+        "type": "qa",
+        "nativeType": "ES-pregunta"
+      },
+      "dateStart": "2024-10-30T09:18:00+01:00",
+      "dateEnd": "2024-10-30T09:19:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_072/cortes/15_000400_072_0_25399_741208.mp4\nhttps://www.congreso.es/audiovisual/video/leg15/400/15_000400_072/cortes/15_000400_072_0_25399_741210.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1541208I https://app.congreso.es/v1/15741210I",
+        "duration": 60.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_072_0_25399_741210",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Yolanda Díaz Pérez",
+          "lastname": "Díaz Pérez",
+          "firstname": "Yolanda",
+          "type": "member of government",
+          "role": "Vicepresidenta Segunda y Ministra de Trabajo y Economía Social",
+          "faction": {
+            "label": "Grupo Parlamentario Plurinacional SUMAR"
+          }
+        }
+      ],
+      "debug": {
+        "mediaIndex": 9,
+        "proceedingIndex": 1027,
+        "proceedingIndexes": [
+          1027
+        ],
+        "page": 7,
+        "confidence": 1.0,
+        "coarseTiming": true
+      },
+      "speechIndex": 9,
+      "textContents": [
+        {
+          "type": "proceedings",
+          "language": "es",
+          "originTextID": "DSCD-15-PL-75-27",
+          "sourceURI": "https://www.congreso.es/public_oficiales/L15/CONG/DS/PL/DSCD-15-PL-75.PDF#page=7",
+          "creator": "Congreso de los Diputados",
+          "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+          "textBody": [
+            {
+              "type": "speech",
+              "text": "Señoría, pregunta usted por la corrupción y le voy a hablar de la corrupción, sobre todo porque la corrupción es muy grave en España y le sale muy cara a los españoles. Señorías del Partido Popular, la corrupción del Partido Popular ha costado a los españoles más de 60 000 millones de euros (risas), más de 60 000 millones de euros. Su corrupción, señorías del Partido Popular, ha cerrado camas hospitalarias, ha precarizado escuelas de nuestros hijos, ha recortado servicios públicos. Su corrupción ha causado un enorme dolor en España. Señoría, ¿sabe qué es esto? (Muestra un documento). Este es el tercer tomo de la sentencia 8/2022 de la Audiencia Nacional. ¿Sabe qué dice esta sentencia, señoría? Que son ustedes el único partido de Página 8 la historia de la democracia española condenado a título de partícipe, a título lucrativo de una ristra de delitos de corrupción. Y le voy a decir los delitos: cohecho, malversación de caudales públicos, fraude, falsedad en documento público, financiación irregular, blanqueo de capitales... Puedo seguir así hasta mañana, señoría. Pero ¿sabe qué es lo más grave, hablando ustedes de cinismo? Que hoy el señor Feijóo y todos ustedes siguen tomando sus decisiones en una sede en Génova pagada con dinero negro. (Aplausos). Lo que es peor, señoría, ¿sabe qué es? Que ustedes han expulsado de su partido -eso sí que es amparar- al señor Casado. ¿Sabe por qué? Por denunciar la corrupción, señoría. Y le voy a decir algo más. ¿Sabe lo que dice una jueza que ha dictado resoluciones estos días respecto a la número 3 de Ayuso? ¿Sabe lo que dice? Que hay indicios sólidos de corrupción. ¿Esto no es amparar la corrupción, señoría? ¿Es o no es amparar la corrupción, señoría? Nosotros no somos como ustedes: actuamos con contundencia y con prontitud. ¿Y sabe lo que les pasa a ustedes? Que les da igual la corrupción. A ustedes lo que les preocupa es que el Gobierno de España siga subiendo el salario mínimo y mejorando la vida de la gente en nuestro país, pero, a pesar de ustedes, lo vamos a seguir haciendo. (Aplausos.-El señor Tellado Filgueira pide la palabra). POSPOSICIÓN DEL DEBATE CORRESPONDIENTE A LOS SIGUIENTES PUNTOS: - PREGUNTAS. - INTERPELACIONES URGENTES: - DEL GRUPO PARLAMENTARIO POPULAR EN EL CONGRESO, AL MINISTRO DE LA PRESIDENCIA, JUSTICIA Y RELACIONES CON LAS CORTES SOBRE LOS CONTINUOS ATAQUES A JUECES Y MAGISTRADOS POR PARTE DE MIEMBROS DEL GOBIERNO. (Número de expediente 172/000071). - DEL GRUPO PARLAMENTARIO MIXTO (SEÑORA BELARRA URTEAGA Y SEÑOR SÁNCHEZ SERNA), EN RELACIÓN CON LA DESCLASIFICACIÓN DE TODA LA DOCUMENTACIÓN VINCULADA AL INTENTO DE GOLPE DE ESTADO DE 23 DE FEBRERO DE 1981. (Número de expediente 172/000066). - DEL GRUPO PARLAMENTARIO MIXTO (SEÑOR CATALÁN HIGUERAS), A LA VICEPRESIDENTA TERCERA DEL GOBIERNO Y MINISTRA PARA LA TRANSICIÓN ECOLÓGICA Y EL RETO DEMOGRÁFICO SOBRE LOS TRÁMITES PENDIENTES, PLAZOS Y PREVISIONES PARA LA CONSTRUCCIÓN DE LA SEGUNDA FASE DEL CANAL DE NAVARRA. (Número de expediente 172/000069). - DECLARACIÓN SOBRE LA CUENTA GENERAL DEL ESTADO: - DICTAMEN DE LA COMISIÓN MIXTA PARA LAS RELACIONES CON EL TRIBUNAL DE CUENTAS EN RELACIÓN CON LA DECLARACIÓN SOBRE LA CUENTA GENERAL DEL ESTADO DEL EJERCICIO 2022, ASÍ COMO LA RESOLUCIÓN ADOPTADA POR DICHA COMISIÓN. (Número de expediente 250/000004). - AVOCACIÓN DE INICIATIVAS LEGISLATIVAS: - PROYECTO DE LEY POR LA QUE SE MODIFICA LA LEY 1/2005, DE 9 DE MARZO, POR LA QUE SE REGULA EL RÉGIMEN DEL COMERCIO DE DERECHOS DE EMISIÓN DE GASES DE EFECTO INVERNADERO. (Número de expediente 121/000025).",
+              "sentences": [
+                {
+                  "text": "Señoría, pregunta usted por la corrupción y le voy a hablar de la corrupción, sobre todo porque la corrupción es muy grave en España y le sale muy cara a los españoles."
+                },
+                {
+                  "text": "Señorías del Partido Popular, la corrupción del Partido Popular ha costado a los españoles más de 60 000 millones de euros (risas), más de 60 000 millones de euros."
+                },
+                {
+                  "text": "Su corrupción, señorías del Partido Popular, ha cerrado camas hospitalarias, ha precarizado escuelas de nuestros hijos, ha recortado servicios públicos."
+                },
+                {
+                  "text": "Su corrupción ha causado un enorme dolor en España."
+                },
+                {
+                  "text": "Señoría, ¿sabe qué es esto? ("
+                },
+                {
+                  "text": "Muestra un documento)."
+                },
+                {
+                  "text": "Este es el tercer tomo de la sentencia 8/2022 de la Audiencia Nacional. ¿"
+                },
+                {
+                  "text": "Sabe qué dice esta sentencia, señoría?"
+                },
+                {
+                  "text": "Que son ustedes el único partido de Página 8 la historia de la democracia española condenado a título de partícipe, a título lucrativo de una ristra de delitos de corrupción."
+                },
+                {
+                  "text": "Y le voy a decir los delitos: cohecho, malversación de caudales públicos, fraude, falsedad en documento público, financiación irregular, blanqueo de capitales... Puedo seguir así hasta mañana, señoría."
+                },
+                {
+                  "text": "Pero ¿sabe qué es lo más grave, hablando ustedes de cinismo?"
+                },
+                {
+                  "text": "Que hoy el señor Feijóo y todos ustedes siguen tomando sus decisiones en una sede en Génova pagada con dinero negro. ("
+                },
+                {
+                  "text": "Aplausos)."
+                },
+                {
+                  "text": "Lo que es peor, señoría, ¿sabe qué es?"
+                },
+                {
+                  "text": "Que ustedes han expulsado de su partido -eso sí que es amparar- al señor Casado. ¿"
+                },
+                {
+                  "text": "Sabe por qué?"
+                },
+                {
+                  "text": "Por denunciar la corrupción, señoría."
+                },
+                {
+                  "text": "Y le voy a decir algo más. ¿"
+                },
+                {
+                  "text": "Sabe lo que dice una jueza que ha dictado resoluciones estos días respecto a la número 3 de Ayuso? ¿"
+                },
+                {
+                  "text": "Sabe lo que dice?"
+                },
+                {
+                  "text": "Que hay indicios sólidos de corrupción. ¿"
+                },
+                {
+                  "text": "Esto no es amparar la corrupción, señoría? ¿"
+                },
+                {
+                  "text": "Es o no es amparar la corrupción, señoría?"
+                },
+                {
+                  "text": "Nosotros no somos como ustedes: actuamos con contundencia y con prontitud. ¿"
+                },
+                {
+                  "text": "Y sabe lo que les pasa a ustedes?"
+                },
+                {
+                  "text": "Que les da igual la corrupción."
+                },
+                {
+                  "text": "A ustedes lo que les preocupa es que el Gobierno de España siga subiendo el salario mínimo y mejorando la vida de la gente en nuestro país, pero, a pesar de ustedes, lo vamos a seguir haciendo. ("
+                },
+                {
+                  "text": "Aplausos.-El señor Tellado Filgueira pide la palabra)."
+                },
+                {
+                  "text": "POSPOSICIÓN DEL DEBATE CORRESPONDIENTE A LOS SIGUIENTES PUNTOS: - PREGUNTAS. -"
+                },
+                {
+                  "text": "INTERPELACIONES URGENTES: - DEL GRUPO PARLAMENTARIO POPULAR EN EL CONGRESO, AL MINISTRO DE LA PRESIDENCIA, JUSTICIA Y RELACIONES CON LAS CORTES SOBRE LOS CONTINUOS ATAQUES A JUECES Y MAGISTRADOS POR PARTE DE MIEMBROS DEL GOBIERNO. ("
+                },
+                {
+                  "text": "Número de expediente 172/000071). -"
+                },
+                {
+                  "text": "DEL GRUPO PARLAMENTARIO MIXTO (SEÑORA BELARRA URTEAGA Y SEÑOR SÁNCHEZ SERNA), EN RELACIÓN CON LA DESCLASIFICACIÓN DE TODA LA DOCUMENTACIÓN VINCULADA AL INTENTO DE GOLPE DE ESTADO DE 23 DE FEBRERO DE 1981. ("
+                },
+                {
+                  "text": "Número de expediente 172/000066). -"
+                },
+                {
+                  "text": "DEL GRUPO PARLAMENTARIO MIXTO (SEÑOR CATALÁN HIGUERAS), A LA VICEPRESIDENTA TERCERA DEL GOBIERNO Y MINISTRA PARA LA TRANSICIÓN ECOLÓGICA Y EL RETO DEMOGRÁFICO SOBRE LOS TRÁMITES PENDIENTES, PLAZOS Y PREVISIONES PARA LA CONSTRUCCIÓN DE LA SEGUNDA FASE DEL CANAL DE NAVARRA. ("
+                },
+                {
+                  "text": "Número de expediente 172/000069). -"
+                },
+                {
+                  "text": "DECLARACIÓN SOBRE LA CUENTA GENERAL DEL ESTADO: - DICTAMEN DE LA COMISIÓN MIXTA PARA LAS RELACIONES CON EL TRIBUNAL DE CUENTAS EN RELACIÓN CON LA DECLARACIÓN SOBRE LA CUENTA GENERAL DEL ESTADO DEL EJERCICIO 2022, ASÍ COMO LA RESOLUCIÓN ADOPTADA POR DICHA COMISIÓN. ("
+                },
+                {
+                  "text": "Número de expediente 250/000004). -"
+                },
+                {
+                  "text": "AVOCACIÓN DE INICIATIVAS LEGISLATIVAS: - PROYECTO DE LEY POR LA QUE SE MODIFICA LA LEY 1/2005, DE 9 DE MARZO, POR LA QUE SE REGULA EL RÉGIMEN DEL COMERCIO DE DERECHOS DE EMISIÓN DE GASES DE EFECTO INVERNADERO. ("
+                },
+                {
+                  "text": "Número de expediente 121/000025)."
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "documents": [],
+      "originalLanguage": "es"
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 75,
+        "dateStart": "2024-10-30T09:04:00+01:00",
+        "dateEnd": "2024-10-30T09:25:00+01:00"
+      },
+      "agendaItem": {
+        "title": "Cuestión fuera del orden del día",
+        "officialTitle": "Cuestión fuera del orden del día",
+        "type": "regular"
+      },
+      "dateStart": "2024-10-30T09:22:00+01:00",
+      "dateEnd": "2024-10-30T09:23:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_072/cortes/15_000400_072_0_25399_741213.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1541213I",
+        "duration": 60.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_072_0_25399_741213",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Miguel Tellado Filgueira",
+          "lastname": "Tellado Filgueira",
+          "firstname": "Miguel",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Popular en el Congreso"
+          }
+        }
+      ],
+      "debug": {
+        "mediaIndex": 10,
+        "proceedingIndex": 1029,
+        "proceedingIndexes": [
+          1029
+        ],
+        "page": 8,
+        "confidence": 1.0,
+        "coarseTiming": true
+      },
+      "speechIndex": 10,
+      "textContents": [
+        {
+          "type": "proceedings",
+          "language": "es",
+          "originTextID": "DSCD-15-PL-75-29",
+          "sourceURI": "https://www.congreso.es/public_oficiales/L15/CONG/DS/PL/DSCD-15-PL-75.PDF#page=8",
+          "creator": "Congreso de los Diputados",
+          "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+          "textBody": [
+            {
+              "type": "speech",
+              "text": "Gracias, presidenta. Por una cuestión de orden. Yo creo que hoy no procede debate de este tipo en este Pleno y que lo ideal sería que reúna a la Junta de Portavoces y que todos conjuntamente decidamos suspender esta sesión plenaria por respeto a las víctimas de la dana, que afecta a tres comunidades autónomas. (Aplausos). Creo que sería lo razonable: hacer un receso, reunir a la Junta de Portavoces y que hoy mandemos un mensaje claro. Suspendamos Página 9 el Pleno y que el Gobierno pueda irse a trabajar y colaborar con el resto de administraciones que están haciendo frente a esta crisis. (Aplausos).",
+              "sentences": [
+                {
+                  "text": "Gracias, presidenta."
+                },
+                {
+                  "text": "Por una cuestión de orden."
+                },
+                {
+                  "text": "Yo creo que hoy no procede debate de este tipo en este Pleno y que lo ideal sería que reúna a la Junta de Portavoces y que todos conjuntamente decidamos suspender esta sesión plenaria por respeto a las víctimas de la dana, que afecta a tres comunidades autónomas. ("
+                },
+                {
+                  "text": "Aplausos)."
+                },
+                {
+                  "text": "Creo que sería lo razonable: hacer un receso, reunir a la Junta de Portavoces y que hoy mandemos un mensaje claro."
+                },
+                {
+                  "text": "Suspendamos Página 9 el Pleno y que el Gobierno pueda irse a trabajar y colaborar con el resto de administraciones que están haciendo frente a esta crisis. ("
+                },
+                {
+                  "text": "Aplausos)."
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "documents": [],
+      "originalLanguage": "es"
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 75,
+        "dateStart": "2024-10-30T09:04:00+01:00",
+        "dateEnd": "2024-10-30T09:25:00+01:00"
+      },
+      "agendaItem": {
+        "title": "Cuestión fuera del orden del día",
+        "officialTitle": "Cuestión fuera del orden del día",
+        "type": "regular"
+      },
+      "dateStart": "2024-10-30T09:23:00+01:00",
+      "dateEnd": "2024-10-30T09:24:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_072/cortes/15_000400_072_0_25399_741214.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1541214I",
+        "duration": 60.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_072_0_25399_741214",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Patxi López Álvarez",
+          "lastname": "López Álvarez",
+          "firstname": "Patxi",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Socialista"
+          }
+        }
+      ],
+      "debug": {
+        "mediaIndex": 11,
+        "proceedingIndex": 1031,
+        "proceedingIndexes": [
+          1031
+        ],
+        "page": 9,
+        "confidence": 1.0,
+        "coarseTiming": true
+      },
+      "speechIndex": 11,
+      "textContents": [
+        {
+          "type": "proceedings",
+          "language": "es",
+          "originTextID": "DSCD-15-PL-75-31",
+          "sourceURI": "https://www.congreso.es/public_oficiales/L15/CONG/DS/PL/DSCD-15-PL-75.PDF#page=9",
+          "creator": "Congreso de los Diputados",
+          "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+          "textBody": [
+            {
+              "type": "speech",
+              "text": "Estamos de acuerdo en que podamos hacer una reflexión sobre que no es el momento de la confrontación política en el tono en que lo estamos teniendo. Por lo tanto, podemos hablar de suspender el Pleno de control de esta sesión.",
+              "sentences": [
+                {
+                  "text": "Estamos de acuerdo en que podamos hacer una reflexión sobre que no es el momento de la confrontación política en el tono en que lo estamos teniendo."
+                },
+                {
+                  "text": "Por lo tanto, podemos hablar de suspender el Pleno de control de esta sesión."
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "documents": [],
+      "originalLanguage": "es"
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 75,
+        "dateStart": "2024-10-30T09:04:00+01:00",
+        "dateEnd": "2024-10-30T09:25:00+01:00"
+      },
+      "agendaItem": {
+        "title": "Cuestión fuera del orden del día",
+        "officialTitle": "Cuestión fuera del orden del día",
+        "type": "regular"
+      },
+      "dateStart": "2024-10-30T09:24:00+01:00",
+      "dateEnd": "2024-10-30T09:25:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_072/cortes/15_000400_072_0_25399_741215.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1541215I",
+        "duration": 60.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_072_0_25399_741215",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Àgueda Micó Micó",
+          "lastname": "Micó Micó",
+          "firstname": "Àgueda",
+          "type": "memberOfParliament",
+          "faction": {
+            "label": "Grupo Parlamentario Plurinacional SUMAR"
+          }
+        }
+      ],
+      "debug": {
+        "mediaIndex": 12,
+        "proceedingIndex": 1033,
+        "proceedingIndexes": [
+          1033
+        ],
+        "page": 9,
+        "confidence": 1.0,
+        "coarseTiming": true
+      },
+      "speechIndex": 12,
+      "textContents": [
+        {
+          "type": "proceedings",
+          "language": "es",
+          "originTextID": "DSCD-15-PL-75-33",
+          "sourceURI": "https://www.congreso.es/public_oficiales/L15/CONG/DS/PL/DSCD-15-PL-75.PDF#page=9",
+          "creator": "Congreso de los Diputados",
+          "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+          "textBody": [
+            {
+              "type": "speech",
+              "text": "Pido la palabra, como valenciana, diputada y portavoz adjunta de este grupo, para dar apoyo a la propuesta que ha hecho el portavoz del Grupo Socialista. (Rumores). Estamos en un momento en el que están diciendo que han fallecido más de cincuenta personas en la Comunidad Valenciana. Por tanto, creo que podríamos dedicarnos todos y todas a gestionar esta crisis que está pasando en mi país. Gracias (Aplausos).",
+              "sentences": [
+                {
+                  "text": "Pido la palabra, como valenciana, diputada y portavoz adjunta de este grupo, para dar apoyo a la propuesta que ha hecho el portavoz del Grupo Socialista. ("
+                },
+                {
+                  "text": "Rumores)."
+                },
+                {
+                  "text": "Estamos en un momento en el que están diciendo que han fallecido más de cincuenta personas en la Comunidad Valenciana."
+                },
+                {
+                  "text": "Por tanto, creo que podríamos dedicarnos todos y todas a gestionar esta crisis que está pasando en mi país."
+                },
+                {
+                  "text": "Gracias (Aplausos)."
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "documents": [],
+      "originalLanguage": "es"
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 75,
+        "dateStart": "2024-10-30T09:04:00+01:00",
+        "dateEnd": "2024-10-30T09:25:00+01:00"
+      },
+      "agendaItem": {
+        "title": "Cuestión fuera del orden del día",
+        "officialTitle": "Cuestión fuera del orden del día",
+        "type": "regular"
+      },
+      "dateStart": "2024-10-30T09:25:00+01:00",
+      "dateEnd": "2024-10-30T09:25:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_072/cortes/15_000400_072_0_25399_741217.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1541217I",
+        "duration": 0.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_072_0_25399_741217",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Francina Armengol Socias",
+          "lastname": "Armengol Socias",
+          "firstname": "Francina",
+          "type": "person",
+          "role": "Presidenta del Congreso de los Diputados",
+          "faction": {
+            "label": "Grupo Parlamentario Socialista"
+          }
+        }
+      ],
+      "debug": {
+        "mediaIndex": 13,
+        "proceedingIndex": null,
+        "proceedingIndexes": [],
+        "confidence": 0.5,
+        "confidenceReason": "no-matched-text",
+        "coarseTiming": true
+      },
+      "speechIndex": 13,
+      "originID": "15075-m13",
+      "textContents": [],
+      "documents": [],
+      "originalLanguage": "es"
+    },
+    {
+      "parliament": "ES",
+      "electoralPeriod": {
+        "number": 15
+      },
+      "session": {
+        "number": 75,
+        "dateStart": "2024-10-30T09:04:00+01:00",
+        "dateEnd": "2024-10-30T09:25:00+01:00"
+      },
+      "agendaItem": {
+        "title": "Ordenación del debate",
+        "officialTitle": "Ordenación del debate",
+        "type": "regular"
+      },
+      "dateStart": "2024-10-30T09:25:00+01:00",
+      "dateEnd": "2024-10-30T09:25:00+01:00",
+      "media": {
+        "videoFileURI": "https://www.congreso.es/audiovisual/video/leg15/400/15_000400_072/cortes/15_000400_072_0_25399_741217.mp4",
+        "sourcePage": "https://app.congreso.es/v1/1541217I",
+        "duration": 0.0,
+        "license": "https://www.congreso.es/es/web/guest/cem/aviso-legal",
+        "originMediaID": "15_000400_072_0_25399_741217",
+        "creator": "Congreso de los Diputados"
+      },
+      "people": [
+        {
+          "context": "main-speaker",
+          "label": "Francina Armengol Socias",
+          "lastname": "Armengol Socias",
+          "firstname": "Francina",
+          "type": "person",
+          "role": "Presidenta del Congreso de los Diputados",
+          "faction": {
+            "label": "Grupo Parlamentario Socialista"
+          }
+        }
+      ],
+      "debug": {
+        "mediaIndex": 14,
+        "proceedingIndex": null,
+        "proceedingIndexes": [],
+        "confidence": 0.5,
+        "confidenceReason": "no-matched-text",
+        "coarseTiming": true
+      },
+      "speechIndex": 14,
+      "originID": "15075-m14",
+      "textContents": [],
+      "documents": [],
+      "originalLanguage": "es"
+    }
+  ]
+}
