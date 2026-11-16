@@ -3,9 +3,10 @@
     "session": "15001",
     "period": 15,
     "sessionNumber": 1,
+    "diarioNumber": 1,
     "docId": "DSCD-15-PL-1",
     "parliament": "ES",
-    "fetched": "2026-05-23T07:15:31"
+    "fetched": "2026-11-16T14:13:27"
   },
   "interventions": [
     {
@@ -82,7 +83,7 @@
       "ORADOR": "Narbona Ruiz, Cristina",
       "CARGOORADOR": "Presidenta de la Mesa de Edad del Congreso de los Diputados",
       "ENLACEDIFERIDO": "https://app.congreso.es/v1/150000000I",
-      "ENLACEDESCARGADIRECTA": "https://www.congreso.es/audiovisual/video/leg/400//cortes/.mp4",
+      "ENLACEDESCARGADIRECTA": "https://www.congreso.es/audiovisual/video/leg__/400/__10000000/cortes/__10000000.mp4",
       "ENLACETEXTOINTEGRO": "https://www.congreso.es/busqueda-de-intervenciones?p_p_id=intervenciones&p_p_lifecycle=0&p_p_state=normal&p_p_mode=view&_intervenciones_mode=mostrarTextoIntegro&_intervenciones_legislatura=XV&_intervenciones_id_texto=(DSCD-15-PL-1.CODI.)#(P%C3%A1gina3)",
       "ENLACEPDF": "https://www.congreso.es/public_oficiales/L15/CONG/DS/PL/DSCD-15-PL-1.PDF#page=3"
     }
